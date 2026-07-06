@@ -297,7 +297,6 @@ Sanctuary on johnson
 ## 3-21-2026
 - farm to south of town 
 - tesa the cleric
-- change
 ## 4-11-2026
 - jackson got a letter from a diety
 ## 4-25-2026
