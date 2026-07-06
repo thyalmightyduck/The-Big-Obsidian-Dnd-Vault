@@ -1,0 +1,3 @@
+You are in your element while in the water, moving with grace and ease. You have a [Swim Speed](https://5e.tools/variantrules.html#swim%20speed_xphb) equal to your [Speed](https://5e.tools/variantrules.html#speed_xphb).
+
+Quickened Swim. If you take this trait twice, you can use the [Dash](https://5e.tools/actions.html#dash_xphb) action as a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb) while swimming.

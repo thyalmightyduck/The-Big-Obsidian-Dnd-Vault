@@ -1,0 +1,1 @@
+D20 Tests encompass the three main d20 rolls of the game: [[Ability Check]], [[attack rolls]], and [[saving throw]]s. If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance.

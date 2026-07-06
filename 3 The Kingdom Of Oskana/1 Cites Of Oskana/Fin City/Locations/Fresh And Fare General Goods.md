@@ -1,0 +1,21 @@
+Owner: [[Lilit Krüger]]
+- Vial _(1 gp)_  
+- Rope, bloodvine _(200 gp)_  
+- Cot _(1 gp)_  
+- [[Jug]] or Pitcher _(2 cp)_  
+- Net _(1 gp)_  
+- [[Ink]] (1 ounce bottle) _(10 gp)_  
+- [[Mason's Tools]] _(10 gp)_  
+- Rope, silk (50 ft.) _(10 gp)_  
+- [[Bedroll]] _(1 sp)_  
+- Whistle, silent _(9 sp)_
+- - [[Bedroll]] _(1 gp)_  
+- Quarterstaff _(2 sp)_  
+- Blanket _(5 sp)_  
+- [[Jeweler's Tools]] _(25 gp)_  
+- Clothes, Traveler's _(2 gp)_  
+- Longbow _(50 gp)_  
+- Blowgun [[Needles (50)]] _(1 gp)_  
+- Vial _(1 gp)_  
+- Piton _(5 cp)_  
+- [[Waterskin]] _(2 sp)_

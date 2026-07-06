@@ -1,0 +1,1 @@
+A Psychic Card Game Played In Temples. Each Card Contains A Sealed Secret Or Curse. The Goal: Trick Your Opponent Into Reading The Wrong One Aloud.

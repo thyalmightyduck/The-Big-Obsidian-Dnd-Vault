@@ -1,0 +1,1 @@
+During Full Moons, The Infected Feel Their Flesh  Rot From The Inside, Producing Unbearable Pain. By Day, They Look Normal, But The Cycle Repeats Each Night.

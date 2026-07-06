@@ -1,0 +1,225 @@
+# Cantrips
+- Blade Ward
+- Booming Blade
+- Calling Card
+- Chill Touch
+- Create Bonfire
+- Douse Light
+- Drayfn’s Bane Of Excellence
+- Eldritch Blast
+- Friends
+- Frightful Start
+- Frostbite
+- Green-Flame Blade
+- Hellfire
+- Illusory Instrument
+- Infestation
+- Lightning Lure
+- Mage Hand
+- Magic Stone
+- Mind Sliver
+- Minor Illusion
+- Obfuscate Object
+- Poison Spray
+- Prestidigitation
+- Sword Burst
+- Thunderclap
+- Toll the Dead
+- True Strike
+- Vengeful Blade
+
+# 1st Level
+- Armor of Agathys
+- Arms Of Hadar
+- Bane
+- Blade of Blood and Bone
+- Boil Blood
+- Cause Fear
+- Charm Person
+- Comprehend Languages
+- Creeping Touch
+- Crimson Lash
+- Detect Magic
+- Distort Value
+- Expeditious Retreat
+- Gloaming
+- Hell’s Lash
+- Hellish Rebuke
+- Hex
+- Illusory Script
+- Pratfall
+- Protection from Evil and Good
+- Somnolence
+- [[Speak With Animals]]
+- Tasha’s Hideous Laughter
+- [[Unseen Servant]]
+- Witch Bolt
+
+# 2nd Level
+- Bloat
+- Borrowed Knowledge
+- Cloud Of Daggers 
+- [[Crown of Madness]]
+- Darkbolt
+- Darkness
+- Dazing Blast
+- Drayfn’s Blunted Blade
+- Earthbind
+- Enthrall
+- Fiend Flesh
+- Hold Person
+- Invisibility
+- Krail’s Maggot
+- Krail’s Rapture
+- Leiloch’s Irritating Kazoo
+- Life Tether
+- Mind Spike
+- Mirror Image
+- Misty Step
+- Ray of Enfeeblement
+- Shadow Adaptation 
+- Shadow Blade
+- Spider Climb
+- Spray of Cards
+- Suggestion
+- Warp Sense
+
+# 3rd Level
+- Antagonize
+- Call the Rabid Beast
+- Conjure Plants
+- Counterspell
+- Dispel Magic
+- Enemies Abound
+- Fear
+- Flash Fever
+- Fly
+- Gaseous Form
+- Grim Shadows
+- Hunger o Hadar
+- Hypnotic Pattern
+- Incite Greed
+- Intellect Fortress
+- Magic Circle
+- Major Image
+- Mirror Spell
+- Mote of Hell
+- Remove Curse
+- Sanguine Poppet
+- Serpent Tongue
+- Shadow Portal
+- Spirit Shroud 
+- Suffocate
+- Summon Fey
+- Summon Lesser Demons
+- Summon Sea Spirit
+- Summon Shadowspawn
+- Summon Undead
+- Thunder step
+- Tongues
+- Vampiric Touch
+
+# 4th Level
+- Backlash
+- Banishment
+- Blight
+- Charm Monster
+- Circle of Scarlet
+- Consume Mind
+- Dark Sacrament
+- Dimension Door
+- Doomtide
+- Drayfn’s Curse of Incompetence
+- Elemental Bane
+- Fire Dance
+- Gate Seal
+- Hallucinatory Terrain
+- Raulothim’s Psychic Lance
+- Shadow of Moil
+- Shadow Step
+- Sickening Radiance
+- Spider Song
+- Spirit of Death
+- Summon Aberration
+- Summon Greater Demon
+- Viscous Sheath
+
+# 5th Level
+- [[Contact Other Plane]]
+- Danse Macabre
+- [[Dream]]
+- Enervation
+- Far Step
+- Feast of Flesh
+- Hold Monster
+- Incite Riot
+- Infernal Calling
+- Jallarzi’s Storm of Radiance
+- Leiloch’s Interminable Yarn
+- Little Death
+- Mislead
+- Negative Energy Flood
+- Planar Blinding
+- [[Scrying]]
+- Shadow Gateway
+- Synaptic Static
+- [[Teleportation Circle]]
+- Wall Of Light
+
+# 6th Level
+- Arcane Gate
+- Chains of Beleth
+- Circle of Death
+- Create Undead
+- Eyebite
+- Grim Harvest
+- Investiture of Flame
+- Investiture of Ice
+- Investiture of Stone
+- Investiture of Wind
+- Melting Curse
+- Mental Prison
+- Scatter
+- Soul Cage
+- Summon Fiend
+- Tasha’s Bubbling Cauldron
+- Tasha’s Otherworldly Guise
+- True Seeing
+- Weave Numen
+
+# 7th Level
+- Burst Forth
+- Crown Of Stars
+- Dream Of The Blue Veil
+- Etherealness
+- Finger Of Death
+- Fleshcrawl
+- Forcecage
+- Leiloch’s Arduous Shuffle
+- Plane Shift
+- Power Worn Maim
+- Power Word Pain
+- Sanguine Fusillade
+
+# 8th Level
+- Befuddlement
+- Creeping Death
+- Demiplane
+- Dominate Monster
+- Glibness
+- Maddening Darkness
+- Power Word Stun
+- Red Rain
+- Undead Enthrallment
+
+# 9th Level
+- Astral Projection
+- Blade of Disaster
+- Foresight
+- Gate
+- Imprisonment
+- [[Power Word Kill]]
+- Psychic Scream
+- Steal Immortality
+- True Polymorph
+- Weird

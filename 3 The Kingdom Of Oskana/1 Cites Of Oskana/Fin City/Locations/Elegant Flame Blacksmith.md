@@ -1,0 +1,21 @@
+Owner: [[Althea Diaz]]
+- Manacles, masterwork _(50 gp)_  
+- [[Ball Bearings]] (bag of 1,000) _(1 gp)_  
+- Lock, simple _(20 gp)_  
+- Lance _(10 gp)_  
+- [[Carpenter's Tools]] _(8 gp)_  
+- Key, copy _(1 gp)_  
+- Chain Shirt _(50 gp)_  
+- Morningstar _(15 gp)_  
+- Lock _(10 gp)_  
+- Halberd _(20 gp)_
+- Lock, good _(80 gp)_  
+- Light Hammer _(2 gp)_  
+- Greataxe _(30 gp)_  
+- Chain Shirt _(50 gp)_  
+- Greatsword _(50 gp)_  
+- [[Chain Mail]] _(75 gp)_  
+- [[Block and Tackle]] _(1 gp)_  
+- Shield _(10 gp)_  
+- Manacles, masterwork _(50 gp)_  
+- Ring Mail _(30 gp)_

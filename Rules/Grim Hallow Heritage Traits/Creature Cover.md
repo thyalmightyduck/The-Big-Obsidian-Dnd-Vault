@@ -1,0 +1,3 @@
+By slipping behind enemies or allies alike, you are able to fade from view with ease. You can take the [Hide](https://5e.tools/actions.html#hide_xphb) action even when you have [Half Cover](https://5e.tools/variantrules.html#cover_xphb) from a creature, as long as that creature is of a size larger than you.
+
+Subtle Cover. If you take this trait twice, you can take the [Hide](https://5e.tools/actions.html#hide_xphb) action when you have [Half Cover](https://5e.tools/variantrules.html#cover_xphb) from a creature the same size as you.

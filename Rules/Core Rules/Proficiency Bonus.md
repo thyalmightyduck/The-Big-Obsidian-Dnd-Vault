@@ -1,0 +1,1 @@
+If you have [[Proficiency]] with something, you can add your [[Proficiency]] Bonus to any [[D20 Test]] you make using that thing. A creature might have [[Proficiency]] in a skill or saving throw or with a weapon or tool.

@@ -1,0 +1,1 @@
+A Wedding Isn't Complete Until The Couple's Shadows Are Bound Together In A Ritual Under Moonlight. If The Shadows Refuse To Merge, The Marriage Is Annulled.

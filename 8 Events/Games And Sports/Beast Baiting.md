@@ -1,0 +1,1 @@
+Contestants Enter A Cage With A Magical Beast. They Must Survive For 3 Minutes-Or Tame It Using Only Words And Body Language.

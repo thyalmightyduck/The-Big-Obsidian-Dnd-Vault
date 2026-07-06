@@ -1,0 +1,1 @@
+Bounty Poster Offers Gold For [[Bryys Hallhill]] For 18 Murders. But She Shows Up In Town, Offering More Gold If The Party Helps Fake Her Death.

@@ -1,0 +1,3 @@
+The luck you carry will see you through the worst Etharis has to offer. When you roll a 1 on a [[[D20 Test]]](https://5e.tools/variantrules.html#d20%20test_xphb), you can reroll that die but must use the new roll. You can use this feature a number of times equal to your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb), regaining all expended uses when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+Master of Fortune. If you take this trait twice, you have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on the reroll made with Lucky.

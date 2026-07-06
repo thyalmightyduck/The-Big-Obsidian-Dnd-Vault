@@ -1,0 +1,1 @@
+Name: Julo Ossen<br>Description: Young, Female, [[Warforged]], A pompadour, Tall, Stout build, They are very beautiful<br>Voice: Low pitch, Normal volume, Fast, Gruff<br>Mannerism: They are very stoic<br>PlotHook: Is trying to open a bar

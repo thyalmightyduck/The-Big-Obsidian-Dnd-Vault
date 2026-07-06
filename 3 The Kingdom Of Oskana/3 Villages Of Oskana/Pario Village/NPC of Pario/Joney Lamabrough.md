@@ -1,0 +1,1 @@
+Description: Young, Male, [[Elf]], A short braid, Tall, Stocky build, Missing a finger<br>Voice: Low pitch, Whispering, Fast, Says "um" a lot<br>Mannerism: Always has a story to tell<br>PlotHook: Is looking for a lost love

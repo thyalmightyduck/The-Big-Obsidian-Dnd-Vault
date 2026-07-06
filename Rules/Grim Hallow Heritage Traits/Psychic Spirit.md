@@ -1,0 +1,3 @@
+Your strength of mind shields you from unnatural forces. You have [Resistance](https://5e.tools/variantrules.html#resistance_xphb) to Psychic damage.
+
+Spirit's Strength. If you take this trait twice, when you fail a saving throw against an effect that deals Psychic damage, you can use your [Reaction](https://5e.tools/variantrules.html#reaction_xphb) to succeed on the save instead. You regain the use of this feature when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).

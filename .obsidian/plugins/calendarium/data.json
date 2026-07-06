@@ -1,0 +1,448 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Nesafia Calendar",
+      "description": null,
+      "id": "ID_fa3afae8eb69",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Weekday 1",
+            "id": "ID_bbeb88fbab5b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekday 2",
+            "id": "ID_892859fb9be9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekday 3",
+            "id": "ID_496aab697a6b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekday 4",
+            "id": "ID_f939380afb9b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekday 5",
+            "id": "ID_da88aacb28b8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekday 6",
+            "id": "ID_db088849ca09",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekday 7",
+            "id": "ID_dbea39ebe8b8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekday 8",
+            "id": "ID_8b480aba7819",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Month 1",
+            "type": "month",
+            "length": 32,
+            "id": "ID_d98a2bbaba7b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Month 2",
+            "type": "month",
+            "length": 31,
+            "id": "ID_3928b9c8cacb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Month 3",
+            "type": "month",
+            "length": 30,
+            "id": "ID_1b4adb3bc9fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Month 4",
+            "type": "month",
+            "length": 31,
+            "id": "ID_791a7b280af8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Month 5",
+            "type": "month",
+            "length": 32,
+            "id": "ID_186aa9bacaea",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Month 6",
+            "type": "month",
+            "length": 34,
+            "id": "ID_d8887baa199b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon 1",
+            "cycle": 25,
+            "offset": 12,
+            "faceColor": "#FFFFFF",
+            "shadowColor": "#000000",
+            "id": "ID_580968094b3b"
+          },
+          {
+            "name": "Moon 2",
+            "cycle": 31.694444444444443,
+            "offset": 0,
+            "faceColor": "#FFFFFF",
+            "shadowColor": "#000000",
+            "id": "ID_cbe9d96bb8db"
+          },
+          {
+            "name": "Moon 3",
+            "cycle": 21,
+            "offset": 15,
+            "faceColor": "#FFFFFF",
+            "shadowColor": "#000000",
+            "id": "ID_48c89a7ada5a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "Leap day 1",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 6
+              }
+            ],
+            "timespan": 1,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 0,
+            "id": "ID_5b6a7bbbaa4a"
+          }
+        ],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_c92a3a7bcb3b",
+            "name": "Winter",
+            "color": "#0bcfe9",
+            "type": "Periodic",
+            "kind": "Winter",
+            "duration": 47.54166667,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_0a298b096a3b",
+            "name": "Spring",
+            "color": "#1ee313",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 47.54166667,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_fb5bc89af948",
+            "name": "Summer",
+            "color": "#e74d0e",
+            "type": "Periodic",
+            "kind": "Summer",
+            "duration": 47.54166667,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_99c94af8fb1a",
+            "name": "Fall",
+            "color": "#eabf14",
+            "type": "Periodic",
+            "kind": "Autumn",
+            "duration": 47.54166667,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": false,
+        "weather": {
+          "enabled": true,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [
+          {
+            "name": "The Hopeless Wastes",
+            "id": "ID_78a99908f89b",
+            "seasons": {
+              "ID_c92a3a7bcb3b": {
+                "weatherOffset": 56,
+                "weatherPeak": 5.6000000000000005,
+                "kind": "Summer"
+              },
+              "ID_0a298b096a3b": {
+                "weatherOffset": 56,
+                "weatherPeak": 5.6000000000000005,
+                "kind": "Summer"
+              },
+              "ID_fb5bc89af948": {
+                "weatherOffset": 56,
+                "weatherPeak": 5.6000000000000005,
+                "kind": "Summer"
+              },
+              "ID_99c94af8fb1a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5.6000000000000005,
+                "kind": "Summer"
+              }
+            }
+          }
+        ],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 3,
+        "month": 2,
+        "year": 57057
+      },
+      "events": [
+        {
+          "name": "Adventure Start",
+          "description": "",
+          "id": "3396867",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 11,
+            "year": 57056,
+            "month": 4
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Champion Of Ravens Arrives",
+          "description": "",
+          "id": "3396868",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 11,
+            "year": 57057,
+            "month": 4
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Yohns Bday",
+          "description": "",
+          "id": "3396887",
+          "note": null,
+          "type": "Recurring",
+          "date": {
+            "day": 26,
+            "year": [
+              57057,
+              null
+            ],
+            "month": 3
+          },
+          "category": "ID_b94b49e87829",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Snugs Bday",
+          "description": "",
+          "id": "3396888",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 13,
+            "year": null,
+            "month": 2
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Morwunax Kromphujarod",
+          "description": "",
+          "id": "3396889",
+          "note": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+          "type": "Recurring",
+          "date": {
+            "day": 9,
+            "year": [
+              57030,
+              null
+            ],
+            "month": 1
+          },
+          "category": "ID_b94b49e87829",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Ibrahim Bday",
+          "description": "",
+          "id": "3396890",
+          "note": null,
+          "type": "Recurring",
+          "date": {
+            "day": 20,
+            "year": [
+              57035,
+              null
+            ],
+            "month": 5
+          },
+          "category": "ID_b94b49e87829",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Goobus Bday",
+          "description": "",
+          "id": "3396891",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 3,
+            "year": null,
+            "month": 4
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Frostfire Carnival ",
+          "description": "",
+          "id": "3396906",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 32,
+            "year": null,
+            "month": 4
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_b94b49e87829",
+          "color": "#e6baf4",
+          "name": "Birthdays"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "hideEra": true
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_fa3afae8eb69",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

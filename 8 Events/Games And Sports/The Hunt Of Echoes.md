@@ -1,0 +1,1 @@
+Participants Are Blindfolded In A Magical Arena, They Must Hunt Each Other Using Only Sound And Avoid The [[Invisible Condition]] Guardian Who Hunts Them All. 

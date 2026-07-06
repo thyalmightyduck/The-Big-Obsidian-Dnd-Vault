@@ -1,0 +1,1 @@
+Old And Useless Weapons Are Shattered In Public, Then Their Fragments Are Forged Into Charms Or Jewelry To Symbolize Peace And Renewal.

@@ -1,0 +1,1 @@
+Once A Year, A Whole Village Gathers To Eat Together In Complete Silence. Speaking During The Feast Is Said To Invite Spirits Of Famine.

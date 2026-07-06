@@ -1,0 +1,5 @@
+Sometimes staying away from what threatens you means getting clear of those threats. You have a [Climb Speed](https://5e.tools/variantrules.html#climb%20speed_xphb) equal to your [Speed](https://5e.tools/variantrules.html#speed_xphb).
+
+Wall Walker. If you take this trait twice, you can use your [Climb Speed](https://5e.tools/variantrules.html#climb%20speed_xphb) to move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
+
+Additionally, while using climbing movement, you can use the [Dash](https://5e.tools/actions.html#dash_xphb) action as a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb). You can use this feature a number of times equal to your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb), regaining all expended uses when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).

@@ -1,0 +1,121 @@
+### Traits: EGW
+- Ability Scores: Strength +2; Constitution +1
+    
+- Creature Type: Humanoid
+    
+- Size: Medium
+    
+- Speed: 30 feet
+    
+
+Age. Orcs reach adulthood at age 16, and live up to 80 years.
+
+Alignment. Orcs fear the curse of ruin that is said to plague their race, and tend strongly toward either chaos (accepting their fate), or toward law (rejecting it).
+
+Size. Orcs stand easily 8 feet tall and corded with powerful muscles, weighing up to 280 pounds. Your size is Medium.
+
+Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+Aggressive. As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
+
+Primal Intuition. You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Perception, and Survival.
+
+Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+Languages. You can speak, read, and write Common and Orc.
+
+### Traits: ERLW
+- Ability Scores: Strength +2; Constitution +1
+    
+- Creature Type: Humanoid
+    
+- Size: Medium
+    
+- Speed: 30 feet
+    
+
+Age. Orcs reach adulthood at age 12 and live up to 50 years.
+
+Alignment. The orcs of Eberron are a passionate people, given to powerful emotion and deep faith. They are generally chaotic, but can be any alignment.
+
+Size. Your size is Medium.
+
+Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+Aggressive. As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
+
+Primal Intuition. You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
+
+Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+Languages. You can speak, read, and write Common and Orc.
+
+### Traits:MPMM
+- Ability Scores: Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
+    
+- Creature Type: Humanoid
+    
+- Size: Medium
+    
+- Speed: 30 feet
+    
+
+Adrenaline Rush. You can take the [Dash](https://5e.tools/actions.html#dash_phb) action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Whenever you use this trait, you gain a number of [[temporary hit points]] equal to your proficiency bonus.
+
+Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+
+Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+Relentless Endurance. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can't do so again until you finish a long rest.
+
+Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+
+### Traits:VGM
+- Ability Scores: Strength +2; Constitution +1
+    
+- Creature Type: Humanoid
+    
+- Size: Medium
+    
+- Speed: 30 feet
+    
+
+Age. Orcs reach adulthood at age 12 and live up to 50 years.
+
+Size. Orcs are usually over 6 feet tall and weigh between 230 and 280 pounds. Your size is Medium.
+
+Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+Aggressive. As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
+
+Primal Intuition. You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
+
+Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+Languages. You can speak, read, and write Common and Orc.
+
+### Traits:PHB’24
+- Creature Type: Humanoid
+    
+- Size: Medium (about 6-7 feet tall)
+    
+- Speed: 30 feet
+    
+
+Adrenaline Rush. You can take the [Dash](https://5e.tools/actions.html#dash_xphb) action as a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb). When you do so, you gain a number of [[[Temporary Hit Points]]](https://5e.tools/variantrules.html#temporary%20hit%20points_xphb) equal to your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb).
+
+You can use this trait a number of times equal to your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb), and you regain all expended uses when you finish a [Short](https://5e.tools/variantrules.html#short%20rest_xphb) or [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+Darkvision. You have Darkvision with a range of 120 feet.
+
+Relentless Endurance. When you are reduced to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) but not killed outright, you can drop to 1 [Hit Point](https://5e.tools/variantrules.html#hit%20points_xphb) instead. Once you use this trait, you can't do so again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+
+### Pictures
+#### MPMM:
+![[Orc MPMM BGR PNG.png]]
+#### VGM:
+![[Orc VGM BGR PNG.png]]
+#### PHB’24
+![[Orc PHB24 BGR PNG.png]]

@@ -1,0 +1,1 @@
+Adolescents About To Come Of Age Must Sleep One Night In An Ancestor's Grave (Protected By Rituals) To Prove Courage And Earn Adulthood.

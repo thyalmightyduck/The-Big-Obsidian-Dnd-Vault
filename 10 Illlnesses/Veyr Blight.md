@@ -1,0 +1,1 @@
+A Creeping Disease Where The Skin Turns TO Blackened, Cracked Ash, Flacking Off Painfully. Victims Remain Alive As Their Body Slowly Crumbles. Caused By Prolonged Exposure To Corrupted Fire Magic.

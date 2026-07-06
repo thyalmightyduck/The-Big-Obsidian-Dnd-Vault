@@ -1,0 +1,1 @@
+Two Fighters In A Ring Of Bone Try To Disarm Each Other Using Blunted Weapons. The Twist? The Floor Shifts And Rises Mid-Duel, Creating Vertical Combat.

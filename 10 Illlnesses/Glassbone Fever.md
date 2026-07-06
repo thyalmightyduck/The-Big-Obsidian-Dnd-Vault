@@ -1,0 +1,1 @@
+Bones Slowly Harden And Crystallize, Becoming Translucent And Fragile. Every Movement Risks A Painful Fracture. Advanced Cases Leave Sufferers Unable To Move Without Shattering.

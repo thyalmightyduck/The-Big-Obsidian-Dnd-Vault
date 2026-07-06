@@ -1,0 +1,1 @@
+A Board Game Played With Living Pieces Each representing Spirits Of Past Warriors. Losing A Piece Causes Physical Pain. Losing The Game Causes Memory Loss.

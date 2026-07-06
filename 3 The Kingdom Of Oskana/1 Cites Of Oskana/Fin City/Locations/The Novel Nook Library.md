@@ -1,0 +1,16 @@
+Owner [[Katarzyna Carroll]]
+
+
+| Book                                  | Info                                                                                                                                                                                                       |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 101 Ways to Cook an Ooze'             | Interesting recipes include gelatinous [[Cube]] cocktail, ochre apple jelly, and salted pudding                                                                                                                |
+| Physiologies of Magical Creatures'    | Information on the biology of Beholders, Dragons, Unicorns, and more. Full of diagrams.                                                                                                                    |
+| The Prophecies                        | Tales of great adventures. Partway through, all the pages become blank                                                                                                                                     |
+| How to Spot a Mimic                   | Tips such as listen for breathing, and see if it responds to being touched                                                                                                                                 |
+| Bordrick’s Fantastic Adventure        | Dwarven choose your own adventure book                                                                                                                                                                     |
+| Planeshifting                         | Details different ways to travel between different planes of existence                                                                                                                                     |
+| On Monstrous Races                    | Discusses whether monstrous races should or should not be allowed into society                                                                                                                             |
+| The Outside                           | A self-written account by someone you know who saw a vision of them self as a small plastic figurine on a table surrounded by a number of god-like beings after they talked to a group of adventurers      |
+| Human?                                | Story about an ogre who, despite his incompetence, convinced everyone that he was actually a very tall human, became a king, then was discovered and beheaded.                                             |
+| Landmarks to Visit Before You Die     | Details a number of landmarks and monuments in a country or city you have never heard of                                                                                                                   |
+| The Hitchhiker’s Guide to the Kingdom |  A book with not entirely inaccurate advice on 'how to see the kingdom on less than 30 copper pieces a day'. The very first page contains only the words 'Don’t Panic' printed in large, friendly letters. |

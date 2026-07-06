@@ -1,0 +1,1 @@
+Before A Long Journey, Villagers Leave One Shoe Facing The Door Of Their Home. It Is Believed The Shoe Keeps A Part Of Their Soul Anchored, Ensuring Safe Return.

@@ -1,0 +1,3 @@
+Your strength of will protects you from magic that would corrupt your mind. You have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on saving throws against being [Charmed](https://5e.tools/conditionsdiseases.html#charmed_xphb).
+
+Immutable Mind. If you take this trait twice, when you fail a saving throw against being [Charmed](https://5e.tools/conditionsdiseases.html#charmed_xphb), you can use your [Reaction](https://5e.tools/variantrules.html#reaction_xphb) to succeed on the save instead. You regain the use of this feature when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).

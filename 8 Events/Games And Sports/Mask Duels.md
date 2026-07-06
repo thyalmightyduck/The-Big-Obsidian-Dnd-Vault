@@ -1,0 +1,1 @@
+Two Masked Competitors Stand In A Silent Arena. They Must Guess Each Other's Identity While Acting Through Illusion Magic. Guess Wrong Three Time, And You're Cursed.

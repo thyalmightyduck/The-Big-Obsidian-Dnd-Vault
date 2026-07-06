@@ -1,0 +1,1 @@
+A Local Pizza-Maker Who Fires Their Ovens With The Help Of Their Tea-Cup Dragon "Finn" Needs Help Gathering Herbs To Make A Magical Soup. Finn Isn't Feeling Well, And Needs A Pick Me Up To Get Over Their Cold. Because As Everyone Knows A Dragon Can't Produce Fire, When They Have A Cold.

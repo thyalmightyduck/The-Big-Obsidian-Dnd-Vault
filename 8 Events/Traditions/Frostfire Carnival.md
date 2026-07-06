@@ -1,0 +1,3 @@
+Frostfire Carnival Takes Place In The Heart Of Winter In [[Soccuba]], With The City Transformed Into A Sparkling Wonderland Of Ice Sculptors And Snow Fortresses. Activities Include Ice Skating, Sled Races, Snowball Fights, And Fire Dancing Performances. At Night, The Festival Culminates With A Massive Bonfire And A Magical Firework Display That Lights Up The Frosty Sky.
+
+Frostfire Carnival Is Held To Honor The Winter Spirits And To Celebrate The Warmth And Resilience Of The Community During The Harshest Season. Legend Says That The Festival Was Started By An Ancient Queen Who Used Her Magical Flames To Protect Her People From A Devastating Blizzard

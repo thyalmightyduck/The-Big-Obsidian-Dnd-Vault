@@ -1,0 +1,2 @@
+Name: Timtin Shergrove
+Description: Middle-aged, Non-binary, [[Triton]], A pompadour, Tall, Athletic build, They are very beautiful<br>Voice: Low pitch, Booming, Normal speed, Long pauses between words<br>Mannerism: They are very laid-back<br>PlotHook: Is being framed for a crime they didn't commit

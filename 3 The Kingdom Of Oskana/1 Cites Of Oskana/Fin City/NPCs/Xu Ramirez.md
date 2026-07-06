@@ -1,0 +1,1 @@
+Old, Female, [[Hadozee]], Long ponytail, Short, Athletic build, They have bushy eyebrows

@@ -1,0 +1,15 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 95
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "root",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "showInlineTitle": true
+}

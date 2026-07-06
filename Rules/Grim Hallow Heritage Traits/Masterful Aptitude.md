@@ -1,0 +1,5 @@
+Your discipline and focus give you an edge that others lack. Choose one of your skill or tool proficiencies. You have [[[Expertise]]](https://5e.tools/variantrules.html#expertise_xphb) on [[Ability Check]] made using the chosen proficiency.
+
+**Focused Mastery:** If you take this trait multiple times, you gain its benefit for a new skill proficiency or tool proficiency each time.
+
+Additionally, when you make a check using a skill or tool for which you've taken Masterful Aptitude, you have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on the check. You can use this feature a number of times equal to your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb), regaining all expended uses when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).

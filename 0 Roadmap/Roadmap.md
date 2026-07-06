@@ -1,0 +1,489 @@
+# Last Left Off
+Finished Cantrip Links
+# Second Quest
+2 person dnd one shots 
+# Recent Added
+ Plugins
+- Checklist
+- Vault Change Log
+- Text Format
+# Main Tasks
+## Classes
+#todo/classes
+- [x] Apothecary
+- [x] Artificer
+- [ ] Add magic items
+- [x] Barbarian
+- [x] Bard
+- [x] Captain
+- [x] Champion
+- [x] Cleric
+- [x] Druid
+- [x] Fighter
+- [x] Gunslinger
+- [x] Illrigger
+- [x] Messenger
+- [x] Monk
+- [x] Monster Hunter
+- [x] Mystic
+- [x] Paladin
+- [x] Ranger
+- [x] Rogue
+- [x] Scholar
+- [x] Sorcerer
+- [x] Treasure Hunter
+- [x] Warden
+- [x] Warlock
+- [x] Wizard
+- [x] Pugilist
+- [ ] Tamer
+
+## Subclasses
+#todo/subclasses
+- [x] Apothecary
+	- [x] Alienist
+	- [x] Chemist
+	- [x] Exorcitst
+	- [x] Mutagenist
+	- [x] Pathogenist
+	- [x] Reanimator
+		- [x] Add Corpsewrought creature
+- [x] Artificer
+	- [x] Alchemist
+	- [x] Armorer
+	- [x] Artillerist
+	- [x] Battle Smith
+	- [x] Cartographer
+	- [x] Forge
+	- [x] Maverick
+	- [x] Reanimator
+- [x] Barbarian
+	- [x] Ancestral Guardian 
+	- [x] Battlerager
+	- [x] Beast
+	- [x] Belly Brewer
+	- [x] Berserker
+	- [x] Experiment
+	- [x] Fractured
+	- [x] Giant
+	- [x] Infernal
+	- [x] Juggernaut
+	- [x] Primal Spirit
+	- [x] Shadow Gnawer
+	- [x] Spell Scorned
+	- [x] Storm Herald
+	- [x] Totem Warrior
+	- [x] Wild Heart
+	- [x] Wild Magic
+	- [x] World Tree
+	- [x] Wrathful Dead
+	- [x] Zealot
+	- [x] Muscle Wizard
+	- [x] Carrion Raven
+	- [x] Demon Shard
+	- [x] Glacier
+	- [x] Haze Rager
+	- [x] Old Gods
+- [x] Bard
+	- [x] Adventurers
+	- [x] Choreography
+	- [x] Creation
+	- [x] Cuisine
+	- [x] Dance
+	- [x] Dirge Singer
+	- [x] Doomslayers
+	- [x] Drama
+	- [x] Eloquence
+	- [x] Fleshweaving
+	- [x] Fools
+	- [x] Fury
+	- [x] Glamor
+	- [x] Lore
+	- [x] Masks
+	- [x] Mercantile
+	- [x] Moon
+	- [x] Requiems
+	- [x] Road
+	- [x] Shadow
+	- [x] Spirits
+	- [x] Swords
+	- [x] Tragedy
+	- [x] Valor
+	- [x] Wands
+	- [x] Whispers
+	- [x] Whistle
+- [x] Captain
+	- [x] Cheiftain
+	- [x] Thane
+- [x] Champion
+	- [x] Sharp-Shooter
+	- [x] Slayer
+- [x] Cleric
+	- [x] Ambition
+	- [x] Apocalypse
+	- [x] Arcana
+	- [x] Aspiration
+	- [x] Astral
+	- [x] Blood
+	- [x] Commerce
+	- [x] Community
+	- [x] Death
+	- [x] Eldritch
+	- [x] Festus
+	- [x] Forge
+	- [x] Grave
+	- [x] Harvest
+	- [x] Hunt
+	- [x] Inquisition
+	- [x] Keeper
+	- [x] Knowledge
+	- [x] Life
+	- [x] Light
+	- [x] Mind
+	- [x] Moon
+	- [x] Nature
+	- [x] Night
+	- [x] Order
+	- [x] Peace
+	- [x] Purification
+	- [x] Shadow
+	- [x] Solidarity
+	- [x] Strength
+	- [x] Tempest
+	- [x] Trickery
+	- [x] Twilight
+	- [x] War
+	- [x] Zeal
+- [ ] Druid
+	- [x] Blighted
+	- [x] Blood
+	- [x] Contamination
+	- [x] Dragons
+	- [x] Dreams
+	- [x] Entropy
+	- [x] Hive
+	- [x] Forged
+	- [x] Land
+	- [x] Moon
+	- [x] Mutation
+	- [ ] Old Ways
+	- [ ] Petal
+	- [ ] Sea
+	- [x] Shadows
+	- [ ] Shepherd
+	- [x] Spores
+	- [x] Stars
+	- [ ] Symbiote
+	- [ ] Unbroken
+	- [ ] Warden
+	- [ ] Wicker
+	- [ ] Wildfire
+- [ ] Fighter
+	- [ ] Arcane Archer
+	- [ ] Banneret
+	- [ ] Barrow Guard
+	- [ ] Battle Master
+	- [ ] Blade Breaker
+	- [ ] Bulwark Warrior
+	- [ ] Cavalier
+	- [ ] Champion
+	- [ ] Commander
+	- [ ] Couatl Herald
+	- [ ] Dungeoneer
+	- [ ] Echo Knight
+	- [ ] Eldritch Knight
+	- [ ] Hero
+	- [ ] Living Crucible
+	- [ ] Night Watcher
+	- [ ] Psi Warrior
+	- [ ] Purple Dragon Knight (Bannneret)
+	- [ ] Rune Knight
+	- [ ] Samurai
+	- [ ] Scoffiaw
+	- [ ] Spirit-Fused
+	- [ ] Steel Hawk
+- [ ] Gunslinger
+	- [ ] Deadeye
+	- [ ] High ROller
+	- [ ] Secret Agent
+	- [ ] Spellslinger
+	- [ ] Trick Shot
+	- [ ] White Hat
+- [ ] Illrigger
+	- [ ] Architect Of Ruin
+	- [ ] Hellspeaker
+	- [ ] Painkiller
+	- [ ] Sanguine Knight
+	- [ ] Shadowmaster
+- [ ] Messenger
+	- [ ] Counselor
+	- [ ] Herald
+- [ ] Monk
+	- [ ] Aether
+	- [ ] Arcane Hand
+	- [ ] Ascendant Dragon
+	- [ ] Astral Self
+	- [ ] Celestial
+	- [ ] Cobalt Soul
+	- [ ] Cosmic Balance
+	- [ ] Drunken Master
+	- [ ] Elements
+	- [ ] Four Elements
+	- [ ] Kensei
+	- [ ] Leaden Crown 
+	- [ ] Living Weapon
+	- [ ] Long Death
+	- [ ] Mercy
+	- [ ] Open Hand
+	- [ ] Pestilent Haze
+	- [ ] Pride
+	- [ ] Prophet
+	- [ ] Regret
+	- [ ] Serpent
+	- [ ] Shadow
+	- [ ] Sheep Dragon Shepherd
+	- [ ] Street
+	- [ ] Sun Soul
+- [ ] Monster Hunter
+	- [ ] Carver
+	- [ ] Devourer
+	- [ ] Occultist
+	- [ ] Trapper
+- [ ] Paladin
+	- [ ] Ancients
+	- [ ] Castigation
+	- [ ] Conquest
+	- [ ] Crown
+	- [ ] Devotion
+	- [ ] Glory
+	- [ ] Guardian
+	- [ ] Harvest
+	- [ ] Hearth
+	- [ ] Hexes
+	- [ ] Noble Genies
+	- [ ] Oath Breaker
+	- [ ] Open Sea
+	- [ ] Pestilence
+	- [ ] Redemption
+	- [ ] Revelry
+	- [ ] River
+	- [ ] Slaughter
+	- [ ] Spelldrinker
+	- [ ] Veneration
+	- [ ] Vengeance
+	- [ ] Watchers
+	- [ ] Zeal
+- [ ] Ranger
+	- [ ] Beast Master
+	- [ ] Big Game Hunter
+	- [ ] Bloodhound
+	- [ ] Corrupted Ranger
+	- [ ] Drakewarden
+	- [ ] Fey Wanderer
+	- [ ] Gloom Stalker
+	- [ ] Green Stalker
+	- [ ] Green Reaper
+	- [ ] Grim Harbinger
+	- [ ] Hallow Warden
+	- [ ] Horizon Walker
+	- [ ] Hunter
+	- [ ] Monster Slayer
+	- [ ] Primordial Archer
+	- [ ] Rocborn
+	- [ ] Swarmkeeper
+	- [ ] Trail Warden
+	- [ ] Trapper
+	- [ ] Urban
+	- [ ] Vermin Lord 
+	- [ ] Winter Walker
+- [ ] Rogue
+	- [ ] Arachnoid Stalker
+	- [ ] Arcane Trickster
+	- [ ] Assassin
+	- [ ] Dark Petitioner
+	- [ ] Grim Surgeon
+	- [ ] Highway Rider
+	- [ ] Inquisitive
+	- [ ] Mastermind
+	- [ ] Misfortune Bringer
+	- [ ] Phantom 
+	- [ ] Runetagger
+	- [ ] Sanguine Thief
+	- [ ] Scion of the Three
+	- [ ] Scout
+	- [ ] Shadow Stalker
+	- [ ] Sinner
+	- [ ] Smuggler
+	- [ ] Soulknife
+	- [ ] Swashbuckler
+	- [ ] Thief
+	- [ ] Umbral Binder
+	- [ ] Waxwork
+- [ ] Scholar
+	- [ ] Healing
+	- [ ] Lore
+- [ ] Sorcerer
+	- [ ] Aberrant
+	- [ ] Aberrant Mind
+	- [ ] Apocalypse
+	- [ ] Clockwork
+	- [ ] Crimson
+	- [ ] Delerium
+	- [ ] Desert Soul
+	- [ ] Divine Soul
+	- [ ] Draconic
+	- [ ] Frost
+	- [ ] Haunted
+	- [ ] Hungering Dark
+	- [ ] Light Weaver
+	- [ ] Lunar
+	- [ ] Nemisis
+	- [ ] Oni
+	- [ ] Pyromance
+	- [ ] Runechild
+	- [ ] Shadow
+	- [ ] Skinshifter
+	- [ ] Spellfire
+	- [ ] Storm 
+	- [ ] Wild
+	- [ ] Wild Magic 
+	- [ ] Wretched
+- [ ] Treasure Hunter
+	- [ ] Burglar
+	- [ ] Spy
+- [ ] Warden
+	- [ ] Forayer
+	- [ ] Hunter
+- [ ] Warlock
+	- [x] Archfey
+	- [ ] Astral Griffon
+	- [x] Celestial
+	- [ ] Cosmic
+	- [ ] Coven
+	- [ ] Fathomless
+	- [ ] Feline Court
+	- [ ] Fiend
+	- [ ] First Vampire
+	- [ ] Flesh
+	- [ ] Future You
+	- [ ] Genie
+	- [ ] Great Fool
+	- [ ] Great Old One
+	- [ ] Hexblade
+	- [ ] Horned King
+	- [ ] Lantern
+	- [ ] Many
+	- [ ]  Mother of Sorrows
+	- [ ] Parasite
+	- [ ] Predator
+	- [ ] Stone Sovereign
+	- [ ] The First Vampire
+	- [ ] Undead
+	- [ ] Undying
+- [ ] Wizard
+	- [ ] Abjuration
+	- [ ] Abjurer
+	- [ ] Bibliomancer
+	- [ ] Biomancy
+	- [ ] Bladesinger
+	- [ ] Bladesinging
+	- [ ] Blood Magic
+	- [ ] Chronurgy
+	- [ ] Conjuration
+	- [ ] Daemonologist
+	- [ ] Divination
+	- [ ] Diviner
+	- [ ] Enchantment
+	- [ ] Evocation
+	- [ ] Evoker
+	- [ ] Gravilurgy
+	- [ ] Illusion
+	- [ ] Illusionist
+	- [ ] Leyline
+	- [ ] Malfeasant
+	- [ ] Materializer
+	- [ ] Necromancy
+	- [ ] Occultism
+	- [ ] Occultist
+	- [ ] Origami Mage
+	- [ ] Philosopher
+	- [ ] Philosophy
+	- [ ] Plague Doctor
+	- [ ] Sangromancer
+	- [ ] Scribes
+	- [ ] Shadow
+	- [ ] Transmutation
+	- [ ] Wand
+	- [ ] War
+- [ ] Pugilist
+	- [ ] Dog and Hound
+	- [ ] Hand of Dread
+	- [ ] Piss and Vinegar
+	- [ ] Squared Circle
+	- [ ] Street Saint
+	- [ ] Sweet Science
+- [ ] Tamer
+	- [ ] Infuser
+	- [ ] Leader
+	- [ ] Necromancer
+	- [ ] Splicer
+
+## Feats
+#todo/feats
+- [ ] Feats
+
+## Backgrounds
+#todo/backgrounds
+- [ ] Backgrounds
+
+## Spellcaster Lists
+#todo/spellcasterlists
+- [ ] Artificer
+- [ ] Bard
+- [ ] Cleric
+- [ ] Druid
+- [ ] Monk
+- [ ] Paladin
+- [ ] Ranger
+- [ ] Sorcerer
+- [x] Warlock
+- [ ] Wizard
+# Fixes
+#todo/fixes
+- [ ] Format Species Notes
+- [ ] Add picture to all species
+- [ ] Add all sources for species
+- [x] Removed AI Homebrew 
+- [ ] Add links to [[Silence]] spell
+- [ ] add links to [[Influenza]] spell
+- [ ] Finish [[Delerium Dragon Wyrmling]]
+- [ ] Finish [[Eldritch Crawler]]
+- [ ] Finish [[Awakened Shrub]]
+- [ ] finish [[Shadow]]
+- [ ] finish [[Haze Husk]]
+- [ ] finish [[Haze Wight]]
+- [ ] finish [[Gibbering Mouther]]
+- [ ] finish [[Delerium Dreg]]
+- [ ] finish [[pyknic maunder]]
+# Additions
+Make Shop Roll Tables
+# Installed Plugins
+- Advanced Tables-Tony Grosinger
+- Buttons-shabegom
+- Calendarium-Jeremy Valentine
+- Checklist-delashum
+- Dataview-Michael Brenan
+- Dice Roller-Jeremy Valentine
+- Fantasy Statblock-Jeremy Valentine
+- Initiative Tracker-Jeremy Valentine
+- Janitor-Gabriele Cannata
+- Leaflet-Jeremy Valentine
+- Meta Bind-Mortiz Jung
+- Relay-System 3
+- Smart Typography-mgmeyers
+- Style Settings-mgmeyers
+- Supercharged Links-mdelobelle & Emile
+- Templater-SilentVoid
+# Problem Plugins (Install at own risk)
+- Highlightr-chetachi
+- Janitor-Gabriele Cannata (Don’t have enabled unless you are actively using causes performance issues)

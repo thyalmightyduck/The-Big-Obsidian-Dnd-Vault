@@ -1,0 +1,21 @@
+Owner: [[Zeynab Jung]]
+- Vial _(1 gp)_  
+- [[Alchemist's Supplies]] _(50 gp)_  
+- Identify a Magic Item _(100 gp)_  
+- Totem _(1 gp)_  
+- Case, Map or Scroll _(1 gp)_  
+- [[Calligrapher's Supplies]] _(10 gp)_  
+- [[Parchment]] (one sheet) _(1 sp)_  
+- Lyre _(30 gp)_  
+- Candle _(1 cp)_  
+- Wand _(10 gp)_
+- Rod _(10 gp)_  
+- Staff _(5 gp)_  
+- Bottle, Glass _(2 gp)_  
+- Lute _(35 gp)_  
+- [[Alchemist's Supplies]] _(50 gp)_  
+- Vial _(1 gp)_  
+- Lyre _(30 gp)_  
+- Identify a Magic Item _(100 gp)_  
+- Quarterstaff _(2 sp)_  
+- [[Sprig of Mistletoe]] _(1 gp)_

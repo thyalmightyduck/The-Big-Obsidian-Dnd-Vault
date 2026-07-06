@@ -1,0 +1,1 @@
+The red Cloaks Has Taken The Lightning Stone

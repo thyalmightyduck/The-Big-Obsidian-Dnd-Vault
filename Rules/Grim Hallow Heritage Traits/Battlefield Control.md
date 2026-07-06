@@ -1,0 +1,3 @@
+When foes attempt to press you in melee, they do so at their peril. Other creatures provoke [Opportunity Attacks](https://5e.tools/actions.html#opportunity%20attack_xphb) from you whenever they move into your reach, in addition to when they move out of your reach.
+
+Battlefield Dominance. If you take this trait twice, you have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on [Opportunity Attacks](https://5e.tools/actions.html#opportunity%20attack_xphb). You can use this feature a number of times equal to your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb), regaining all expended uses when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).

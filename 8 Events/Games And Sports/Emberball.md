@@ -1,0 +1,1 @@
+A Fire-Infused Ball Is Passed Between Teams using Only Elemental Magic Or Weapons, Touching It Barehanded Burns The Soul.

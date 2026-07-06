@@ -1,0 +1,612 @@
+{
+  "mapMarkers": [
+    {
+      "id": "KingdomOfNesafiaWorldMap",
+      "locked": true,
+      "lastAccessed": 1781216782839,
+      "markers": [
+        {
+          "id": "ID_591a4a6b9bda",
+          "type": "default",
+          "loc": [
+            612.3544725075501,
+            1440.3807441803397
+          ],
+          "link": "Thalanor",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7033109102443065,
+            -0.39866827637210295
+          ],
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_992ab97bf9aa",
+          "type": "Dungeon",
+          "loc": [
+            758.640625,
+            814.6650085101157
+          ],
+          "link": "Crypt Of The Betraying Horrors",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8bbf9392a69",
+          "type": "Dungeon",
+          "loc": [
+            957.28125,
+            813.3811479005458
+          ],
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bdbb808c829",
+          "type": "Dungeon",
+          "loc": [
+            961.140625,
+            814.1854064676879
+          ],
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4938e93959f8",
+          "type": "Dungeon",
+          "loc": [
+            962.140625,
+            810.1875822498289
+          ],
+          "link": "Lair Of The Mourning Hopes",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28eb5a2a0a3b",
+          "type": "Dungeon",
+          "loc": [
+            1116.28125,
+            1448.0390061588673
+          ],
+          "link": "Shrine Of The Hopeless Blood",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38c948f8885a",
+          "type": "Dungeon",
+          "loc": [
+            656.5928405055336,
+            1356.3367401947928
+          ],
+          "link": "Cavern Of The Tormented Spider",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5abbd8eb8a9b",
+          "type": "Dungeon",
+          "loc": [
+            335.566361846841,
+            634.0666992054042
+          ],
+          "link": "Tomb Of The Betraying Slaves",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbdaa949aaba",
+          "type": "Dungeon",
+          "loc": [
+            594.3674437611174,
+            364.0988365263961
+          ],
+          "link": "Tomb Of The Furious Slaves",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a280b296bda",
+          "type": "Dungeon",
+          "loc": [
+            489.71564014550836,
+            1083.5419889013447
+          ],
+          "link": "Tomb Of The Mad Hopes",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b7ae83ac969",
+          "type": "default",
+          "loc": [
+            1010.1462310988073,
+            1629.1314914882405
+          ],
+          "link": "Castle Of Ariren Strongling",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4a7959bba9",
+          "type": "default",
+          "loc": [
+            1167.6321695211986,
+            1173.9290723623646
+          ],
+          "link": "Castle Of Drba Wrightalock",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db9829e9792a",
+          "type": "Hut",
+          "loc": [
+            1065.1016862491492,
+            812.7940518676705
+          ],
+          "link": "Cottage Of Caah Ziming",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09bbbb89c8d8",
+          "type": "Farm",
+          "loc": [
+            1268.9473130130839,
+            815.2345014337197
+          ],
+          "link": "Farmhouse Of Dordy Mannaster",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39a9da5acbfb",
+          "type": "Farm",
+          "loc": [
+            488.640625,
+            178.36191679387974
+          ],
+          "link": "Farmhouse Of Tetez Yardacourt",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a79ba4a78f8",
+          "type": "Hut",
+          "loc": [
+            488.5625,
+            1626.0519029320421
+          ],
+          "link": "Hut Of Erette Buckwood",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_189a6bcb7a1b",
+          "type": "Hut",
+          "loc": [
+            958.28125,
+            1174.1543226123424
+          ],
+          "link": "Hut Of Julis Greenell",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -0.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bcb3bfbaaca",
+          "type": "Hut",
+          "loc": [
+            487.28125,
+            540.4991840816971
+          ],
+          "link": "Hut Of Rictha Fishry",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7958c8189998",
+          "type": "School",
+          "loc": [
+            751.28125,
+            994.252232808689
+          ],
+          "link": "Kaelias School Of Arcana",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ada6abaa80b",
+          "type": "Observatory",
+          "loc": [
+            750.28125,
+            1357.0542366338543
+          ],
+          "link": "Observatory Of Vamilla",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbcae8780a4a",
+          "type": "Inns & Taverns",
+          "loc": [
+            386.28125,
+            1083.2032777105155
+          ],
+          "link": "Paladin's Sword Tavern",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6838cbfb1a69",
+          "type": "Temples",
+          "loc": [
+            1332.28125,
+            1265.1749925426823
+          ],
+          "link": "Rendurs Shrine",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab094bd88a5b",
+          "type": "Inns & Taverns",
+          "loc": [
+            442.28125,
+            811.4219438156903
+          ],
+          "link": "The Black Sword Inn",
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebf82bba6a0a",
+          "type": "Bridge",
+          "loc": [
+            700.28125,
+            723.4708989138637
+          ],
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Xues Troll Bridge",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b096a2be82a",
+          "type": "Temples",
+          "loc": [
+            807.0077111160593,
+            539.2718085314773
+          ],
+          "layer": "%5B%5BNesafia%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Flamewrath Temple",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3 The Kingdom Of Nesafia/About Nesafia.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Dungeon",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAS9JREFUSEvVlettwzAMhM+TNN2knSTJJG0naTdpM0kySvIBOoCWRZcwYKDVnygyeUfe6TFp5zHtjK8qwUHSsRXD/CLpR9LttwKrBN8PwJcODILXrQRU+dYq/Hj8niR9dmCAQ8I3Yvm/6GjUAeCAUTEJ5wbEGmAMV08M3TGIXZCMCHo5SHyWFH2gK0Yfu5BtRNDLsaZ1T0C3X1HKzGRXiwTRSMifJLkDy0mXrK16ABg6U4EBKAYQa3xtc0vmdReN2eCQT+ezcxCliYZF0GweNwa47y4yShR3SQyqEGS5sw76IKTCtC0Ezp0RoB0aeljHCkGWW7qLKgTpjRE9wKh43/gyqxBkuaseeCdUCP6Gybvvov9P4EfG94ufRb8BHJ5snuWWzkG6xysfqm9yBWsYcweI9HsZz0L6FgAAAABJRU5ErkJggg==",
+      "tags": [],
+      "minZoom": -0.5,
+      "maxZoom": null
+    },
+    {
+      "type": "Farm",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAATNJREFUSEvtVcuVwjAMHHkLIdyyXYQmyHIKqQS2EtgTb2mCVEFyw5VYrM0nHzuxH4HLPnSWNKMZySa8OOjF/TEeYBdH+EACxgQsIpCSUPjBopKa/OMAujGJFYiXtgq8Rlp92wC6CIiwqIpB6XZxAkGH3hziHPNq2wawiySYCrDS49aAvuamqwvgN179KbZ2s6pHxmDetVrx1PbAz0wiLacwptIGjMRLpmWyLhR0GtSeaYuvY25A3LkXEo1ob9H+89DP7D7+zHhi50oozrsL0gYImYJQYF7OOl5YzG9D2Hewj5dg2gxIVXshkDWPylXjPjTfpqRl8IH2Jxq5kDlXV/HFh4AIY9IFezqAZtq8kzeA07v/IFH9/jReS9+mhq3prYu+ch3Xz8TXfNyXGdJ91J8cCHAGCHyaGYoOLrsAAAAASUVORK5CYII=",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Inns & Taverns",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAR1JREFUSEvdVUFuwjAQnBF9SPgFgh7CS0j/QA49lZ4qEf4AeUlzaBC/wP9oYBs7MYpQIkdpEiT26t0dz4x3TQwcHLg/xgN4jcTPMqjTO1WfrAyDxU72EAQCbI4hP/sHiOQbgA/ikK759hwA2hMhViJQ1wyx9Wa+lYDEqomlCOLrBYnNLzy4k2j2Jd7kBedKkyQNuSxzc6scQajLL5YapBZgHslHfrCptklD2lw3AAD7YGoBjDyANr4IQqVrTlszKKoM61oAfWpYEIFOpCD+CZn0CtCk8iKSVhI1MVD5wLkm2Xd5XJ7XSNSysmXa4wCMmZ2D8CDwnK+oK4BdnCMD9Liub1ug3My3H01Prx2mrvLYumqv8b7M/966qX5wBn+COMEZSM+KggAAAABJRU5ErkJggg==",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Temples",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAX5JREFUSEvVlQ1uwjAMhZ/DQcZugVok2pMMTgKcZN1JRiVScYuVe0C9OU1KaNNt3dpJs8SPFOrP8Xs2hImDJs6PXgBH0RpKlXQ8Hni5TFBVcyqKTAriKNpCqdw7W1FR7EPF9gPimAEcwPwCoqeP7wmYdwDOIHr2zraSmLR+/Ang2x0krYPFfnWDPwYQpbhcSsxmb23yGDc4kNapETmOX40mXgwCGJcQiaAZmHMrammErWNt3pk3AB7Mb5l3ISd1NPCSA0SpsWLtqE5I1cbCzHIjiYy0FmgTXYB//Tbg3qZizTagaaMjDAGUzutOg7EBHZEHA9r9t5aUqRXHiMjyknAOqiddqdLqIJ+ZL3bTIrN76hVgIlBdSOewEZg3bm/dAHEsyWv79QPcLW4zEHZa46YhgOYh9osZDWATmfnyvf9/ALIWxC0SVbWyq6Rv2gMa3I/871zktfMm8mIxh1IJiFbWRRvba/k364/rdU+nU2mFlwWYO4uaPJ8+PMLh5IB3L/tVKINrJSwAAAAASUVORK5CYII=",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Observatory",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAXdJREFUSEu1lWFygjAQhd+iBwn9XZzpCZSTVE5SexLpSbQn6Iz0d8lBLFsTEENIQmYKmfGPkHxvX/YthIUXLXw+wgDxJYC1ALBFQgJN8wmQhMzOscL8AFG93fAH90Eswb855IucAo0BSjWtTgAp5d1iqZUDu8F/TCVk9h6CjAFpdeoPIirx81z0B7SWvQ4qY+Qhy4YA05bQxkGVLFFvUl8VQ0BasX7RVu7arSHrWj9iHHxWPQDisgfRsd1wTWMuEA87z6iz3KXDDaizuHz0lvptMgD3tgx7OlBpVu0RZQJ2IKgOAmIrePo+gnl/67oYi8xL4wJyU06FCOml1nkJNIXdRV0GIpJq5iXQ0lYOjCqgIFSMQmSHbaKlHaPCaFcFUSOCSKJhqQde67mxPEK6N9zt6JxH1o0o5T3MDwlMUzV3VjskyRbMAlA/FUIqgeuHDqKZZo+lcYEKtdME5P8ABQ9A5gHYEGP4zQe4Q9T3wvgIzQtw3NXigD81ILsZGHH+uQAAAABJRU5ErkJggg==",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "School",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAXlJREFUSEu1ldFxgzAMhn+RLkCyAJ2kYZKmQ4S7PiU89Y4METJJ00nqBQILFNSzW3IyYJuEC4+cpc/6f1kiPPijB+dHEHC48I6BBBG+sphKfaGi5g1avBCgtivKfZf0AoqKPwGs/xOobEnPBlAxi6TnbEmpCxICyERoCAawYHyLhKohpO8xqTHIKOCj5mTRYgfCRgY5AACjpAinbUznPmQAONS8ZoaWZvA5AX8nFQh551MXPAAUFevykzsABtL55ANYuk+SSBzSVUo/xiqQnWMVEpDIeJGt6E0GWQCf/jooCAAUMUr5NixAr79vNbk7b/lwBYRuP7ECAyFC2rXsFWB6335A91ZgpOyMtj3Qc4ewdz37CR6AGHu3B3qIMY6zAEIeI5dMVlz42B8Pt74DbwVmNM+UqP8WrApCRk/ywCeRlkNMUr0HrJnkASgwzk2EvD+2nftgrBoXQPZ9cFzLAxry1OLVtzJ/Ipxcy2bQRa72nPM/uPTnJNexv7/9zBmwV+86AAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Bridge",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAUxJREFUSEvdVVFKw0AQfWN7kHgLwYjpSWygAf9MTtB6gtY/IYXmJqkYwVu4B6mOTjabbpKFgmmCOH+7zM6bNzNvljCw0cDxMS7AOrqZ92bErDA9qOT5XUmsmsHTwl8yYdUbQIIyVg/b4rEBINkTvpYAeX1BmDFLtsW+ASCH9f2VR5/TDwD7OC1m5d3CD4iQ21kZtnagTeTnP+8CnhwuTXnGBahKdAvQHGBpUEmxKlngvhOf0lcs0L6cMS5ekvQ1azDYRNc7HfwcxlmcvoX/DGBwHRxHkqUXDi3o5oFZEfHdsal2z1gxU2g00BlTuXA12553E87F2NaK8essOyMsK69adO35aifjSuQkgCsrA6S1IyXV9isABoVGNG0GfxSgXHiT3EySi3ZdomoRmnOcFp2SO380aTSIPBlJe+RcS+SU77hf5jnWXDvG4Ay+AZTp6RlaquJ1AAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Hut",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAWxJREFUSEvVlMFxwyAQRWHVgsX46FQS65ho0oNVie1K4tSQUXK0OomOHuQaIFoCBMkI0Cg+ZC+eseA/lv9ZSu5c9M76JAr4XK83Qog9AByfLpcWD/S+Wm0B4BEA3sx/UweNAmrG9v3mAwr0gg/4K4T4UoJSVmXXnUK3EAXoDs6EkA0hpKVStpLSrQEu7gCF3C7saRNOj2ujHRjBmrHXvoOd2iRl89x1RUpAkgDaVLym3/qrDrQHP6aOCk1f5EFIXLNaAChCkOAVfeT52SRmMudSNjTLqinIJMA1NcHMQ8n50bfOC6jzfEcoxdTMKS/kBuBNjMZgPNUD1g8txfQBIGJqW3KuRkXNGKYKX/a4bkwfAAKmWnFUHI2PIMQCvONAbxVCFC/Xq7oeU0GI8whdgB0FrpBP3HzXYcBpO76uU8l5heuigDkxctbaRFmATg924TNvFscdIQOTFYTSRQDIssZ91UnTdNbxR4v/P+Abrn6yGfRJ4zwAAAAASUVORK5CYII=",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": false,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

@@ -1,0 +1,1 @@
+Any attack that hits you is a [[Critical Hit]].

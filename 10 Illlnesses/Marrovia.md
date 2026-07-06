@@ -1,0 +1,1 @@
+The Body Begins Consuming Its Own Marrow, Leaving Bones Brittle And Hallow. Survivors Become Weak, Hunched, And In Constant Pain.

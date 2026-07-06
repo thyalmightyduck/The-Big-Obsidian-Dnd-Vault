@@ -1,0 +1,238 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "0 Roadmap",
+      "guid": "9450d219-0c30-4d6b-9c3e-f1e7319e440c",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "2 Characters/Executive Outcomes",
+      "guid": "95624a51-a398-4bd5-be30-01e1b3396f74",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "7 Magic Items",
+      "guid": "290de78e-8223-468e-b43e-090c6dbfc272",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Rules",
+      "guid": "414fb1d7-3714-470b-bb57-6e1d2c639b0b",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "1 Daily Notes",
+      "guid": "73b9e7a5-ac19-4aef-ac70-39618c5d7b0e",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "3 The Kingdom Of Nesafia",
+      "guid": "c3f80779-6c0e-40a3-86b5-ef645550f38d",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "3 The Kingdom Of Oskana",
+      "guid": "1c51b20a-530a-48f7-90ea-66933bb74c49",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "4 Gods Of The Lands",
+      "guid": "21f80d89-e797-46bf-ad64-c451104d7f68",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "5 Monster Stat Blocks",
+      "guid": "10df3b6f-ba79-4c69-a78b-de04188a8296",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "8 Events",
+      "guid": "ee7dd8d9-ecf7-4d7f-9a26-1b2d498ba126",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "10 Illlnesses",
+      "guid": "9c2b294b-1e1c-4fde-a5b4-c8db54ce299a",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Initiative Logs",
+      "guid": "cb758cb8-ed9e-4b3b-8d2e-fa0d7608f9a3",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Puzzles",
+      "guid": "59340064-a165-4e19-8012-b43eb157c60e",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Random Generators",
+      "guid": "6a6dbe6a-696c-4df6-b239-3d8e3d711e6d",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Templates",
+      "guid": "a3520274-68a1-4ec6-80bc-46aaad05254d",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Pictures",
+      "guid": "a1695d76-9da1-46ff-9266-e98caa8eb86d",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      },
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e"
+    },
+    {
+      "path": "2 Characters",
+      "guid": "731f9413-134b-470b-a63b-4d935de2b287",
+      "relay": "7415f5ba-07ae-47b7-948b-d5487307b43e",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": false,
+  "login": {
+    "provider": "google"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}

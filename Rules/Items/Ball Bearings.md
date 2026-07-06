@@ -1,0 +1,4 @@
+_Adventuring Gear_
+_1 GP, 2 lb._
+- - - 
+As a [[Utilize Action]], you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [[Prone]] condition. It takes 10 minutes to recover the Ball Bearings.

@@ -1,0 +1,501 @@
+{
+  "main": {
+    "id": "c74f3aba19b55d93",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea4f6df042d38ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9a592dcd0b9d2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/Cleric/Cleric Subclasses/Ambition Domain Cleric.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ambition Domain Cleric"
+            }
+          },
+          {
+            "id": "7b4db9f023c6ba96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/Apothecary/Apothecary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Apothecary"
+            }
+          },
+          {
+            "id": "87a6e791e226c391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/Apothecary/Apothecary Subclasses/Reanimator Apothecary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reanimator Apothecary"
+            }
+          },
+          {
+            "id": "5f8abf8fe219c48b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Spells/Level 5/Nerve Gas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nerve Gas"
+            }
+          },
+          {
+            "id": "8dbf24df23c8a4f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8bd771b93e42682d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Roadmap/Roadmap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
+            }
+          },
+          {
+            "id": "d403d774efc22251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/Druid/Druid.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Druid"
+            }
+          },
+          {
+            "id": "934908baf9733514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Moon Druid.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Circle of the Moon Druid"
+            }
+          },
+          {
+            "id": "cca4be6c30fd2ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Spells/Level 4/Fount of Moonlight.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fount of Moonlight"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "360ace4c2f9b1080",
+    "type": "split",
+    "children": [
+      {
+        "id": "9572f50a2943d4b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83a3b3f37a74c981",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2a5ec8501d93817",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: eldrit",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "289156c16ae0c797",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2786357becde5cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9faeac0eb91dfd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2c34fa431896e64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 Monster Stat Blocks/Monstrosity/Auril (First Form).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Auril (First Form)"
+            }
+          },
+          {
+            "id": "3535990b8522a42c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 Monster Stat Blocks/Monstrosity/Auril (First Form).md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Auril (First Form)"
+            }
+          },
+          {
+            "id": "e5ac256845b551ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b034b91f9ee4629",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bef805bd29ab3503",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 Monster Stat Blocks/Monstrosity/Auril (First Form).md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Auril (First Form)"
+            }
+          },
+          {
+            "id": "8d10ececb499a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "c801670ed5e77592",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fa3afae8eb69",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 15,
+                    "month": 1,
+                    "year": 57057
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": false,
+                  "hideEra": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_bba908a829eb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "2229f9a472ce7dc5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "3cb053736b5f5809",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "ea4b040392292634",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 495.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "83a3b3f37a74c981",
+  "lastOpenFiles": [
+    "Tutorial",
+    "Empty",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Moon Druid.md",
+    "Rules/Spells/Level 4/Fount of Moonlight.md",
+    "Rules/Spells/Level 5/Wall of Stone.md",
+    "5 Monster Stat Blocks/Beast/Giant Insect Monster.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Land Druid.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/Abjurer Wizard.md",
+    "Rules/Spells/Level 1/Armor of Agathys.md",
+    "Rules/Spells/Cantrips/Eldritch Blast.md",
+    "Rules/Spells/Level 1/False Life.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Hive Druid.md",
+    "3 The Kingdom Of Nesafia/About Nesafia.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Socubba The City Of Justice/Soccuba.md",
+    "Pictures/Monsters/Giaint Insect Monster BGR PNG.png",
+    "Pictures/Monsters/Giaint Insect Monster BGR PNG.png.opdownload",
+    "Rules/Spells/Level 4/Giant Insect.md",
+    "Rules/Spells/Cantrips/Swarm.md",
+    "Rules/Spells/Cantrips/Blade Ward.md",
+    "5 Monster Stat Blocks/Humanoid/Abjurer Wizard Monster.md",
+    "5 Monster Stat Blocks/Humanoid/Abjurer Wizard.md",
+    "5 Monster Stat Blocks/Undead/Zombie.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Forged Druid.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Blighted Druid.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of Stars Druid.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of Spores Druid.md",
+    "Pictures/Monsters/Zombie BGR PNG.png",
+    "Pictures/Monsters/Zombie BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Elemental/Delerium Elemental.md",
+    "Rules/Spells/Level 2/Blindness Deafness.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of Shadows Druid.md",
+    "Pictures/Monsters/Delerium Elemental BGR PNG.png",
+    "Pictures/Monsters/Delerium Elemental BGR PNG.png.opdownload",
+    "Rules/Spells/Level 4/Untitled",
+    "Rules/Classes/Wizard/Wizard Subclasses",
+    "Rules/Classes/Warrior Sidekick",
+    "Rules/Classes/Warden/Warden Subclasses",
+    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses",
+    "Rules/Classes/Tamer/Tamer Subclasses",
+    "Pictures/Monsters/image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png",
+    "Pictures/Gods/The Moonweaver BGR PNG.png",
+    "Pictures/Gods/The Knowing Mentor BGR PNG.png",
+    "Pictures/Gods/The Changebringer BGR PNG.png",
+    "Pictures/Gods/The Lord of the Hells BGR PNG.png",
+    "Pictures/Gods/The Everlight BGR PNG.png",
+    "Pictures/Gods/The Chained Oblivion BGR PNG.png"
+  ]
+}

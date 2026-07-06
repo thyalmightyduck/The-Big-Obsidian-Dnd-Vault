@@ -1,0 +1,1 @@
+Gladiators Fight Barefoot On Cursed Sand That Absorbs Blood And Creates Illusions Of Dead Loved Ones. Give In to Emotion, And You Lose. 

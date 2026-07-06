@@ -1,0 +1,3 @@
+Mastering the subtle expression of fauna and flora grants you an edge in dealing with the threats of the wilderness. Through sounds and gestures, you can communicate simple ideas with Beasts and Plant creatures, understanding if a creature is hungry, for example. This gives you no specific ability to control such creatures, and you can't understand or learn detailed information from them.
+
+**Primal Voice:** If you take this trait twice, you have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on [[Ability Check]] made as part of an [Influence](https://5e.tools/actions.html#influence_xphb) action to interact with a Beast or Plant creature.

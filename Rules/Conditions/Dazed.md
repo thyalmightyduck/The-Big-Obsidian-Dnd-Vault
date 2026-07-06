@@ -1,0 +1,1 @@
+You can move or take an action on your turn, not both. You can't take [[Bonus Actions]].

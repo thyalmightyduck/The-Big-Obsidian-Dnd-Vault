@@ -1,0 +1,3 @@
+Your reserves of physical power have kept you alive on more than one occasion. You have proficiency in the Athletics skill.
+
+Athlete's Resolve. If you take this trait twice, you have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on Athletics checks. You can use this feature a number of times equal to twice your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb), regaining all expended uses when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).

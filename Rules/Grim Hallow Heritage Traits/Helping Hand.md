@@ -1,0 +1,3 @@
+You excel at aiding your allies, knowing that the time will come when you need them to return the favor. You can use the [[Help Action]] as a [[Bonus Action]] to assist any ally making an [[ability check]]. (This is an Exploration trait.)
+
+**Helpful Tactics:** If you take this trait twice, when you use Helping Hand, you can also assist an ally making an [[Attack Rolls]]. You can use this feature a number of times equal to your [[Proficiency Bonus]], regaining all expended uses when you finish a [[Long Rest]]. (This is a Combat trait.)

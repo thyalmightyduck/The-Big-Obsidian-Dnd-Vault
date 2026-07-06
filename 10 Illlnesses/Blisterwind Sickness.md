@@ -1,0 +1,1 @@
+Skin Bubbles And Blisters As Though Burned By Invisible Fire Whenever The Wind Touches It. Entire Villages Fear Windy Nights When This Sickness Spreads.

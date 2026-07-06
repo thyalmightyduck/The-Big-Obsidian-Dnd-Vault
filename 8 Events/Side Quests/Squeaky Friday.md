@@ -1,0 +1,1 @@
+Approached By A Kindly Pack Of Squirrels Offering Enchanted Acorns, The Players Are Suddenly Thrust In To The Bodies Of The Squirrels. While The Rascally Rodents Run Off With Their Own. Forced T Track Down The Furry Wizards Occupying Their Bodies As Squirrels, Can The Players Use The Powers Given To Them By Magic Acorns To Reclaim Their Old Selves

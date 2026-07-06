@@ -1,0 +1,2349 @@
+{
+  "monsters": [
+    [
+      "Steel Defender",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Steel Defender BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Steel Defender",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Construct<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": null,
+        "ac": "15 (Natural Armor)",
+        "hp": null,
+        "hit_dice": null,
+        "speed": "40ft",
+        "stats": [
+          14,
+          12,
+          14,
+          4,
+          10,
+          6
+        ],
+        "fage_stats": null,
+        "saves": [
+          {
+            "Dexterity": "1+ PB"
+          }
+        ],
+        "skillsaves": [
+          {
+            "<STATBLOCK-WIKI-LINK>Athletics<STATBLOCK-WIKI-LINK>": "+2 plus PB"
+          },
+          {
+            "<STATBLOCK-WIKI-LINK>Perception<STATBLOCK-WIKI-LINK>": "+0 plus PB"
+          }
+        ],
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10 + PBx2",
+        "languages": "understands the languages you speak",
+        "cr": 0,
+        "traits": [
+          {
+            "name": "Vigilant:",
+            "desc": "The defender can't be <STATBLOCK-WIKI-LINK>Surprised<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Force-Empowered Rend:",
+            "desc": "_Melee Weapon Attack:_ your spell attack modifier to hit, reach 5 ft., one target you can see. _Hit:_ 1d8 + PB force damage"
+          },
+          {
+            "name": "Repair (3/Day):",
+            "desc": "The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Deflect Attack:",
+            "desc": "The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Inconspicuous Hamster",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Inconspicuous Hamster BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Inconspicuous Hamster",
+        "size": "Tiny",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": null,
+        "ac": 12,
+        "hp": 31,
+        "hit_dice": "7d4+14",
+        "speed": "20ft",
+        "stats": [
+          4,
+          15,
+          14,
+          15,
+          12,
+          16
+        ],
+        "damage_resistances": "Bludgeoning, Piercing, Slashing",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Blinded<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Blindsight<STATBLOCK-WIKI-LINK> 30Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 13, Passive Insight 12, Passive Stealth 14",
+        "languages": "Telepathy",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "False Appearance.",
+            "desc": "The inconspicuous hamster is indistinguishable from a common hamster."
+          },
+          {
+            "name": "Hidden Thoughts.",
+            "desc": "The inconspicuous hamster’s telepathy as well as its spell attacks do not reveal its location or identity. Furthermore, If a creature has half or more of its hit points after taking psychic damage from the inconspicuous hamster, the creature is unaware of the damage taken."
+          },
+          {
+            "name": "Shielded Mind.",
+            "desc": "The inconspicuous hamster is immune to <STATBLOCK-WIKI-LINK>scrying<STATBLOCK-WIKI-LINK> and to any effect that would sense its emotions, read its thoughts, or detect its location."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack.",
+            "desc": "The Inconspicuous Hamster makes two attacks"
+          },
+          {
+            "name": "Brain Probe",
+            "desc": "_Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma saving throw. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn."
+          },
+          {
+            "name": "Mental Meal",
+            "desc": "_Melee Spell Attack:_ +5 to hit, reach 30 ft., one target. _Hit:_ 1 psychic damage. The Inconspicuous Hamster regains 2 (1d4) hit points and gains 2 (1d4) <STATBLOCK-WIKI-LINK>temporary hit points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Sock Hydra",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Sock Hydara.png<STATBLOCK-WIKI-LINK>",
+        "name": "Sock Hydra",
+        "size": "Medium",
+        "type": "Aberration",
+        "alignment": "Chaotic Silly",
+        "ac": 13,
+        "hp": 22,
+        "hit_dice": "4d8+4",
+        "speed": "30 ft., Climb 20 ft.",
+        "stats": [
+          12,
+          14,
+          12,
+          3,
+          10,
+          6
+        ],
+        "damage_resistances": [
+          "Lightning"
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 14",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Multiple Heads.",
+            "desc": "This Sock Hydra Begins Within 3 Heads. When It Takes 5 Or More Damage From A Single Attack, One Sock Head May Be Destroyed. At The start Of Its Next Turn, Two New Mismatched Sock Heads Sprout Unless Fire Damage Was Dealt. It Can Have Up To 7 Heads At Once."
+          },
+          {
+            "name": "Static Cling.",
+            "desc": "Any Creature That Touches Or Grapples The Hydra Takes 1 Lightning Damage As Socks Crackle With Static Electricity."
+          },
+          {
+            "name": "Missing Laundry.",
+            "desc": "Once Per Day, The Sock Hydra Can Teleport Up To 10 Feet To Any Container Of Clothing Can See."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Sock Bite.",
+            "desc": "*Melee Weapon Attack:* +3 To Hit Reach 5ft, One Target *Hit* 3 (1d4+1) Bludgeoning Damage. The Hydra Makes One Attack Per Active Head."
+          },
+          {
+            "name": "Static Snap (Recharge 6 Rounds).",
+            "desc": "The Sock Hydra Unleashes A Burst Of Static Electricity. Each Creature Within 10ft Must Succeed On A DC11 CON Save or Take 5 (2d4) Lightning Damage And Drop Any Metal Objects They Are Holding."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Giant Rat",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Giant Rat BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Giant Rat",
+        "size": "Small",
+        "type": "<STATBLOCK-WIKI-LINK>Beast<STATBLOCK-WIKI-LINK>",
+        "alignment": "Unaligned",
+        "ac": 13,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "30 ft., Climb 30 ft.",
+        "stats": [
+          7,
+          16,
+          11,
+          2,
+          10,
+          4
+        ],
+        "saves": [
+          {
+            "Dexterity": 5
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12",
+        "cr": "1/8",
+        "traits": [
+          {
+            "name": "Pack Tactics",
+            "desc": "The rat has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on an <STATBLOCK-WIKI-LINK>attack roll<STATBLOCK-WIKI-LINK> against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally doesn't have the <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK> condition."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "_Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ +5, reach 5 feet. _Hit:_ 5 (1d4 + 3) Piercing damage"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Rat",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Rat BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Rat",
+        "size": "Tiny",
+        "type": "<STATBLOCK-WIKI-LINK>Beast<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Unaligned",
+        "ac": 10,
+        "hp": 1,
+        "hit_dice": "1d4-1",
+        "speed": "20 ft., Climb 20 ft.",
+        "stats": [
+          2,
+          11,
+          9,
+          2,
+          10,
+          4
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 30Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12",
+        "cr": 0,
+        "traits": [
+          {
+            "name": "Agile",
+            "desc": "The rat doesn't provoke <STATBLOCK-WIKI-LINK>Opportunity Attacks<STATBLOCK-WIKI-LINK> when it moves out of an enemy's reach."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "_Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Riding Horse",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Riding Horse BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Riding Horse",
+        "size": "Large",
+        "type": "<STATBLOCK-WIKI-LINK>Beast<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Unaligned",
+        "ac": 11,
+        "hp": 13,
+        "hit_dice": 13,
+        "speed": "60ft",
+        "stats": [
+          16,
+          13,
+          12,
+          2,
+          11,
+          7
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 11",
+        "cr": "1/4",
+        "spells": null,
+        "traits": [],
+        "actions": [
+          {
+            "name": "Hooves",
+            "desc": "_Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Bludgeoning damage."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Vampster Swarm",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Vampster Swarm BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Vampster Swarm",
+        "size": "Meedium Swarm",
+        "type": "Tiny Beasts",
+        "subtype": null,
+        "alignment": "Unaligned",
+        "ac": 12,
+        "hp": 38,
+        "hit_dice": 38,
+        "speed": "10 ft., fly 40 ft., fly 10 ft.",
+        "stats": [
+          5,
+          15,
+          12,
+          2,
+          17,
+          2
+        ],
+        "skillsaves": [
+          {
+            "<STATBLOCK-WIKI-LINK>perception<STATBLOCK-WIKI-LINK>": 5
+          },
+          {
+            "<STATBLOCK-WIKI-LINK>stealth<STATBLOCK-WIKI-LINK>": 4
+          }
+        ],
+        "senses": "Tremorsense 60 ft., <STATBLOCK-WIKI-LINK>darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>passive Perception<STATBLOCK-WIKI-LINK> 15",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Draconic<STATBLOCK-WIKI-LINK>",
+        "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "fire, poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>poisoned<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>",
+        "cr": 21,
+        "traits": [
+          {
+            "name": "Amphibious",
+            "desc": "The dragon can breathe air and water"
+          },
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage."
+          },
+          {
+            "name": "Tail",
+            "desc": "Melee Weapon Attack: +15 to hit, reach 20 ft ., one target. Hit: 17 (2d8 + 8) bludgeoning damage."
+          },
+          {
+            "name": "Frightful Presence",
+            "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become <STATBLOCK-WIKI-LINK>frightened<STATBLOCK-WIKI-LINK> for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."
+          },
+          {
+            "name": "Acid Breath (Recharge 5-6)",
+            "desc": "The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Amphibious",
+            "desc": "The dragon can breathe air and water."
+          },
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Detect",
+            "desc": "The dragon makes a Wisdom (<STATBLOCK-WIKI-LINK>Perception<STATBLOCK-WIKI-LINK>) check."
+          },
+          {
+            "name": "Tail Attack",
+            "desc": "The dragon makes a tail attack."
+          },
+          {
+            "name": "Wing Attack (Costs 2 Actions)",
+            "desc": "The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>. The dragon can then fly up to half its flying speed."
+          }
+        ],
+        "spells": [
+          "The dragon is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast <STATBLOCK-WIKI-LINK>disguise self<STATBLOCK-WIKI-LINK> and invisibility at will and has the following wizard spells prepared",
+          {
+            "Cantrips (at will)": "fire bolt, light, mage hand, <STATBLOCK-WIKI-LINK>prestidigitation<STATBLOCK-WIKI-LINK>, shocking grasp"
+          },
+          {
+            "1st level (4 slots)": "<STATBLOCK-WIKI-LINK>detect magic<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>identify<STATBLOCK-WIKI-LINK>, mage armor*, <STATBLOCK-WIKI-LINK>magic missile<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2nd level (3 slots)": "<STATBLOCK-WIKI-LINK>detect thoughts<STATBLOCK-WIKI-LINK>, mirror image, <STATBLOCK-WIKI-LINK>misty step<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "3rd level (3 slots)": "counterspell, fly, lightning bolt"
+          },
+          {
+            "4th level (3 slots)": "banishment, <STATBLOCK-WIKI-LINK>fire shield<STATBLOCK-WIKI-LINK>, stoneskin*"
+          },
+          {
+            "5th level (3 slots)": "cone of cold, <STATBLOCK-WIKI-LINK>scrying<STATBLOCK-WIKI-LINK>, wall of force"
+          },
+          {
+            "6th level (1 slot)": "globe of invulnerability"
+          },
+          {
+            "7th level (1 slot)": "teleport"
+          },
+          {
+            "8th level (1 slot)": "mind blank*"
+          },
+          {
+            "9th level (1 slot)": "time stop"
+          },
+          "* The archmage casts these spells on itself before combat."
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Celestial Spirit",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Celestial Spirit BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Celestial Spirit",
+        "size": "Large",
+        "type": "Celestial",
+        "subtype": null,
+        "alignment": "Neutral",
+        "ac": "11 + the spell's level +2 (defender only)",
+        "hp": null,
+        "hit_dice": null,
+        "speed": "30 ft., Fly 40 ft.",
+        "stats": [
+          16,
+          14,
+          16,
+          10,
+          14,
+          16
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": "Radiant",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12",
+        "languages": "Celestial, understands the languages you know",
+        "cr": null,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The spirit makes a number of attacks equal to half this spell's level (round down)."
+          },
+          {
+            "name": "Radiant Bow (Avenger Only)",
+            "desc": "_Ranged <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ Bonus equals your spell attack modifier, range 600 ft. _Hit:_ 2d6 + 2 + the spell's level Radiant damage."
+          },
+          {
+            "name": "Radiant Mace (Defender Only)"
+          },
+          {
+            "name": "Healing Touch (1/Day)",
+            "desc": "The spirit touches another creature. The target regains <STATBLOCK-WIKI-LINK>Hit Points<STATBLOCK-WIKI-LINK> equal to 2d8 + the spell's level."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": null
+          }
+        ],
+        "reactions": [
+          {
+            "name": null,
+            "desc": null
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Ushabti Royal Guard",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Ushabti Royal Guard BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Ushabti Royal Guard",
+        "size": "Large",
+        "type": "<STATBLOCK-WIKI-LINK>Construct<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Unaligned",
+        "ac": 19,
+        "hp": 168,
+        "hit_dice": "16d10+80",
+        "speed": "30ft",
+        "stats": [
+          22,
+          16,
+          20,
+          11,
+          19,
+          9
+        ],
+        "fage_stats": null,
+        "saves": [
+          {
+            "Wisdom": 9
+          },
+          {
+            "Charisma": 4
+          }
+        ],
+        "damage_resistances": "Bludgeoning, Piercing, and Slahsing form nonmagical attacks",
+        "damage_immunities": "Poison, Psychic",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 19",
+        "languages": "Understands the languages of its creator but can't speak",
+        "cr": 14,
+        "traits": [
+          {
+            "name": "Construct Nature.",
+            "desc": "The ushabti doesn't require air, food, drink, or sleep."
+          },
+          {
+            "name": "False Appearance.",
+            "desc": "While the ushabti is motionless, it is indistinguishable from a normal funerary statue."
+          },
+          {
+            "name": "Healing Leech.",
+            "desc": "If a creature within 30 feet of the ushabti regains hp from a spell or magical effect, the creature regains only half the amount and the ushabti regains the other half."
+          },
+          {
+            "name": "Immutable Form.",
+            "desc": "The ushabti is immune to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Legendary Resistance (3/Day).",
+            "desc": "If the ushabti fails a saving throw, it can choose to succeed instead."
+          },
+          {
+            "name": "Magic Resistance.",
+            "desc": "The ushabti has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Necrotic Weapons.",
+            "desc": "he ushabti's weapon attacks are magical. When the ushabti hits with any weapon, the weapon deals an extra (2d8) necrotic damage (included in the attack)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack.",
+            "desc": "The ushabti can use its Breath-Stealing Presence. It then makes two Khopesh attacks and one Medjai's Scepter attack."
+          },
+          {
+            "name": "Khopesh.",
+            "desc": "_Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage plus 9 (2d8) necrotic damage."
+          },
+          {
+            "name": "Medjal's Scepter.",
+            "desc": "_Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 15 (2d8 + 6) bludgeoning damage plus 9 (2d8) necrotic damage."
+          },
+          {
+            "name": "Breath-Stealing Presence.",
+            "desc": "Each creature of the ushabti's choice within 30 feet of the ushabti and aware of it must succeed on a DC 18 Constitution saving throw or take 9 (2d8) necrotic damage and be unable to speak or breathe for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the ushabti's Breath‑Stealing Presence for the next 24 hours."
+          },
+          {
+            "name": "Enervating Surge (Recharge 5-6).",
+            "desc": "The ushabti emits waves of necrotic energy. Each creature within 30 feet of the ushabti must make a DC 18 Constitution saving throw, taking 49 (11d8) necrotic damage on a failed save, or half as much damage on a successful one. A creature that can't breathe because of the ushabti's Breath‑Stealing Presence has disadvantage on the saving throw. If the saving throw fails by 5 or more, the creature also suffers one level of <STATBLOCK-WIKI-LINK>exhaustion<STATBLOCK-WIKI-LINK>. A Humanoid slain by this effect rises 1d4 hours later as a mummy under the ushabti's control, unless the Humanoid is restored to life or its body is destroyed. The ushabti can have no more than five mummies under its control at one time."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Sudden Strike.",
+            "desc": "When a creature more than 5 feet away from the ushabti moves to a space within 5 feet of the ushabti, the ushabti can make one Khopesh attack against it."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Move.",
+            "desc": "The ushabti moves up to its speed without provoking opportunity attacks."
+          },
+          {
+            "name": "Medjai's Scepter (Costs 2 Actions).",
+            "desc": "The ushabti makes one Medjai's Scepter attack."
+          },
+          {
+            "name": "Telekinesis (Costs 2 Actions).",
+            "desc": "Up to two creatures the ushabti can see within 60 feet of it must succeed on a DC 18 Strength saving throw or the ushabti moves the creature up to 30 feet in any direction (including upward). A moved target is then [restrained] until the start of the ushabti's next turn."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Amethyst Dragon Wyrmling",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Amethyst Dragon Wyrmling.png<STATBLOCK-WIKI-LINK>",
+        "name": "Amethyst Dragon Wyrmling",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Dragon<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Typically Neutral",
+        "ac": "17 (Natrual Armor)",
+        "hp": 75,
+        "hit_dice": "10d8+30",
+        "speed": "30 ft., Fly 60 ft. (hover), Swim 30 ft.",
+        "stats": [
+          19,
+          10,
+          17,
+          16,
+          13,
+          17
+        ],
+        "saves": [
+          {
+            "Dexterity": 3
+          },
+          {
+            "Constitution": 5
+          },
+          {
+            "Wisdom": 3
+          },
+          {
+            "Charisma": 5
+          }
+        ],
+        "damage_resistances": "Force, Psychic",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120Ft., <STATBLOCK-WIKI-LINK>Blindsight<STATBLOCK-WIKI-LINK> 10Ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 15",
+        "languages": "<STATBLOCK-WIKI-LINK>Draconic<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Telepathy (Languages)<STATBLOCK-WIKI-LINK> 120 Ft.",
+        "cr": 4,
+        "spells": [
+          {
+            "The dragon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13)": null
+          },
+          {
+            "1/Day Each": "<STATBLOCK-WIKI-LINK>Protection From Evil And Good<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Tenser's Floating Disk<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Unseen Servant<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Amphibious",
+            "desc": "The dragon can breathe both air and water."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 4 (1d8) force damage."
+          },
+          {
+            "name": "Singularity Breath (Recharge 5–6)",
+            "desc": "The dragon creates a shining bead of gravitational force in its mouth, then releases the energy in a 15-foot cone. Each creature in that area must make a DC 13 Strength saving throw. On a failed save, the creature takes 22 (5d8) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, the creature takes half as much damage, and its speed isn't reduced."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Young Brass Dragon",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Young Brass Dragon BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Young Brass Dragon",
+        "size": "Large",
+        "type": "Dragon",
+        "subtype": "Brass",
+        "alignment": "Chaotic Good",
+        "ac": 17,
+        "hp": 110,
+        "hit_dice": "13d10+39",
+        "speed": "40 ft., fly 80 ft., Burrow 20 ft.",
+        "stats": [
+          19,
+          10,
+          17,
+          12,
+          11,
+          15
+        ],
+        "saves": [
+          {
+            "Wisdom": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "<STATBLOCK-WIKI-LINK>Perception<STATBLOCK-WIKI-LINK>": 6
+          },
+          {
+            "<STATBLOCK-WIKI-LINK>Stealth<STATBLOCK-WIKI-LINK>": 3
+          },
+          {
+            "<STATBLOCK-WIKI-LINK>Persuasion<STATBLOCK-WIKI-LINK>": 5
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>blindsight<STATBLOCK-WIKI-LINK> 30 ft., <STATBLOCK-WIKI-LINK>darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>passive Perception<STATBLOCK-WIKI-LINK> 16",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Draconic<STATBLOCK-WIKI-LINK>",
+        "damage_immunities": "fire",
+        "cr": 6,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Dragon Makes Three Rend Attacks. It Can Replace Two Attacks With A Use Of Sleep Breath."
+          },
+          {
+            "name": "Rend",
+            "desc": "Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>: +7, Rech 10ft. HIt: 15 (2d10+4) Slashing Damage."
+          },
+          {
+            "name": "Fire Breath (Recharge 5 Rounds)",
+            "desc": "Dexterity Saving Throw: DC 14, Each Creature In A 4ft Long, 5ft Wide Line. Failure 38 (11d6) Fire Damage. Success: Half Damage."
+          },
+          {
+            "name": "Sleep Breath.",
+            "desc": "*Constitution Saving Throw: DC 14*, Each Creature In A 30ft Cone. *Failure:* The Target Has Teh <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK> Condition Until The End OF IT's Next Turn, At Which Point It Repeats The Save. *Second Failure:*  The Target Has The <STATBLOCK-WIKI-LINK>Unconscious<STATBLOCK-WIKI-LINK> Condition For 1 Minute. This Effect Ends For The Target If It Takes Damage Or A Creature Within 5ft Of It Takes An Action To Wake It."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Incarnation Of Transience",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Incarnation Of Transience BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Incarnation Of Transience",
+        "size": "Huge",
+        "type": "Fey",
+        "subtype": null,
+        "alignment": "Neutral",
+        "ac": 16,
+        "hp": 142,
+        "hit_dice": "15d12+45",
+        "speed": "40ft., Swim 40ft.",
+        "stats": [
+          21,
+          20,
+          17,
+          10,
+          14,
+          16
+        ],
+        "fage_stats": null,
+        "saves": [
+          {
+            "Dexterity": 8
+          },
+          {
+            "Constitution": 6
+          }
+        ],
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12",
+        "languages": "<STATBLOCK-WIKI-LINK>Sylvan<STATBLOCK-WIKI-LINK>; <STATBLOCK-WIKI-LINK>Telepathy<STATBLOCK-WIKI-LINK> 120ft.",
+        "cr": 7,
+        "traits": [
+          {
+            "name": "Ephemeral Movemnt",
+            "desc": "The incarnation can move through other creatures and objects as if they were <STATBLOCK-WIKI-LINK>Difficult Terrain<STATBLOCK-WIKI-LINK>, and its movement doesn't provoke <STATBLOCK-WIKI-LINK>Opportunity Attacks<STATBLOCK-WIKI-LINK>. It takes 5 (1d10) Force damage if it ends its turn inside an object."
+          },
+          {
+            "name": "Magic <STATBLOCK-WIKI-LINK>Resistance<STATBLOCK-WIKI-LINK>",
+            "desc": "The incarnation has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on saving throws against spells and other magical effects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The incarnation makes three attacks, using Bite or Miasmic Globule in any combination.."
+          },
+          {
+            "name": "Bite",
+            "desc": "_Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ +8, reach 5 ft. _Hit:_ 14 (2d8 + 5) Piercing damage.."
+          },
+          {
+            "name": "Miasmic Globule"
+          },
+          {
+            "name": "Spectral Stampede"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "shape-shift",
+            "desc": "The incarnation changes its size to Medium, Large, or Huge."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Incarnation Of Vibrance",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Incarnation Of Vibrance BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Incarnation Of Vibrance",
+        "size": "Huge",
+        "type": "Fey",
+        "subtype": null,
+        "alignment": "Neutral",
+        "ac": 14,
+        "hp": 230,
+        "hit_dice": "20d12+100",
+        "speed": "40ft.",
+        "stats": [
+          20,
+          17,
+          20,
+          10,
+          16,
+          21
+        ],
+        "fage_stats": null,
+        "saves": [
+          {
+            "Constitution": 9
+          },
+          {
+            "Charisma": 9
+          }
+        ],
+        "damage_resistances": "Radiant",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Blinded<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Deafened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12",
+        "languages": "<STATBLOCK-WIKI-LINK>Sylvan<STATBLOCK-WIKI-LINK>; <STATBLOCK-WIKI-LINK>Telepathy<STATBLOCK-WIKI-LINK> 120ft.",
+        "cr": 10,
+        "spells": [
+          {
+            "he incarnation casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability": null
+          },
+          {
+            "At Will": "<STATBLOCK-WIKI-LINK>Daylight<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Druidcraft<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Plant Growth<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day": "<STATBLOCK-WIKI-LINK>Blindness/Deafness<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Magic <STATBLOCK-WIKI-LINK>Resistance<STATBLOCK-WIKI-LINK>",
+            "desc": "The incarnation has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on saving throws against spells and other magical effects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The incarnation makes two Vine attacks and uses Radiant Blast. It can replace one vine attack with a use of Spellcasting to cast <STATBLOCK-WIKI-LINK>Blindness/Deafness<STATBLOCK-WIKI-LINK> if available."
+          },
+          {
+            "name": "Vine",
+            "desc": "_Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ +9, reach 20 ft. _Hit:_ 18 (3d8 + 5) Bludgeoning damage. If the target is the incarnation's size or smaller, it has the <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK> condition (escape DC 15) from one of two vines."
+          },
+          {
+            "name": "Miasmic Globule"
+          },
+          {
+            "name": "Radiant Blast"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "shape-shift",
+            "desc": "The incarnation changes its size to Medium, Large, or Huge."
+          },
+          {
+            "name": "Teleport",
+            "desc": "The incarnation teleports up to 60 feet to an unoccupied space it can see. The incarnation can't teleport while it has a creature <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Abjurer Wizard",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Abjurer Wizard BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Abjurer Wizard",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "alignment": "Any Alignment",
+        "ac": "12 (15 With Mage Armor)",
+        "hp": 104,
+        "hit_dice": 104,
+        "speed": "30ft",
+        "stats": [
+          9,
+          14,
+          12,
+          18,
+          12,
+          11
+        ],
+        "fage_stats": null,
+        "saves": [
+          {
+            "Intelligence": 8
+          },
+          {
+            "Wisdom": 5
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 13",
+        "languages": "Any Four Languages",
+        "cr": 9,
+        "spells": [
+          "The Abjurer Casts One Of The Following Spells, Using INT As The Spellcasting Ability (Spell Save DC 16)",
+          {
+            "At Will": "<STATBLOCK-WIKI-LINK>Dancing Lights<STATBLOCK-WIKI-LINK>, Mage Hand, Message, <STATBLOCK-WIKI-LINK>Prestidigitation<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2/day Each": "<STATBLOCK-WIKI-LINK>Dispel Magic<STATBLOCK-WIKI-LINK>, Lightning Bolt, Mage Armor"
+          },
+          {
+            "1/day each": "Arcane Lock, Banishment, Globe Of Invulnerability, Invisibility, Wall Of Force"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Abjuerer Makes Three Burst Magic Attacks."
+          },
+          {
+            "name": "Force Blast",
+            "desc": "Each creature in a 20-foot cube originating from the abjurer must make a DC 16 Constitution saving throw. On a failed save, a creature takes 36 (8d8) force damage and is pushed up to 10 feet away from the abjurer. On a successful save, a creature takes half as much damage and isn't pushed."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Arcane Ward (Recharge 4 Rounds)",
+            "desc": "When the abjurer or a creature it can see within 30 feet of it takes damage, the abjurer magically creates a protective barrier around itself or the other creature. The barrier reduces the damage to the protected creature by 26 (4d10 + 4), to a minimum of 0, and then vanishes."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Black Earth Guard",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Black Earth Guard BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Black Earth Guard",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "alignment": "Neutral Evil",
+        "ac": 18,
+        "hp": 39,
+        "hit_dice": "6d8+12",
+        "speed": "30ft",
+        "stats": [
+          17,
+          11,
+          14,
+          10,
+          10,
+          9
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>",
+        "cr": 2,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage."
+          },
+          {
+            "name": "Morningstar",
+            "desc": "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Unyielding",
+            "desc": "When the guard is subjected to an effect that would move it, knock it <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>, or both, it can use its reaction to be neither moved nor knocked <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Flamewrath",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Flamewrath BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Flamewrath",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "subtype": "<STATBLOCK-WIKI-LINK>Human<STATBLOCK-WIKI-LINK>",
+        "alignment": "Chaotic Evil",
+        "ac": "12 (15 With Mage Armor)",
+        "hp": 105,
+        "hit_dice": 105,
+        "speed": "30ft",
+        "stats": [
+          10,
+          14,
+          16,
+          11,
+          10,
+          16
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": null,
+        "damage_immunities": "Fire",
+        "condition_immunities": null,
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Ignan<STATBLOCK-WIKI-LINK>",
+        "cr": 6,
+        "spells": [
+          {
+            "The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells": null
+          },
+          {
+            "Cantrips (at will)": "Control Flames, Fire Bolt, <STATBLOCK-WIKI-LINK>Friends<STATBLOCK-WIKI-LINK>, Light, <STATBLOCK-WIKI-LINK>Minor Illusion<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1st Level ( 4 Slots)": "Burning Hands, <STATBLOCK-WIKI-LINK>Color Spray<STATBLOCK-WIKI-LINK>, Mage Armor"
+          },
+          {
+            "2nd Level (3 Slots)": "<STATBLOCK-WIKI-LINK>Scorching Ray<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Suggestion<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "3rd Level (3 Slots)": "Fireball, <STATBLOCK-WIKI-LINK>Hypnotic Pattern<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "4th Level (1 Slot)": "<STATBLOCK-WIKI-LINK>Fire Shield<STATBLOCK-WIKI-LINK> (See Wreathed In Flames)"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Wreathed in Flame",
+            "desc": "For The Flamewrath, The Warm Version Of The <STATBLOCK-WIKI-LINK>Fire Shield<STATBLOCK-WIKI-LINK> Spell Has A Duration Of *Until Dispelled*, The <STATBLOCK-WIKI-LINK>FIre Shield<STATBLOCK-WIKI-LINK> Burns For 10 Minutes After The Flamewrath Dies, Sonsuming Its Body"
+          }
+        ],
+        "actions": [
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Dagger<STATBLOCK-WIKI-LINK>",
+            "desc": "_Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Keeper of the Feather",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Keeper of the Feather BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Keeper of the Feather",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "subtype": "Human Shapechanger",
+        "alignment": "Unaligned",
+        "ac": "12 (17 with bark skin)",
+        "hp": 31,
+        "hit_dice": "7d8",
+        "speed": "30 ft. (Fly 50 Ft. in raven and hybrid form)",
+        "stats": [
+          10,
+          15,
+          11,
+          13,
+          15,
+          14
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 16, Passive Insight 14, Passive Stealth 12",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK> can't speak in raven form",
+        "cr": 2,
+        "spells": [
+          {
+            "The keeper is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared": null
+          },
+          {
+            "Cantrips (at will)": "<STATBLOCK-WIKI-LINK>Druidcraft<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Produce Flame<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Shillelagh<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1st Level (4 Slots)": "<STATBLOCK-WIKI-LINK>Entangle<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Longstrider<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Speak With Animals<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Thunderwave<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2nd Level (2 Slots)": "<STATBLOCK-WIKI-LINK>Animal Messenger<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Barkskin<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Shapechanger",
+            "desc": "he keeper can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies."
+          },
+          {
+            "name": "Mimicry",
+            "desc": "The keeper can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+          },
+          {
+            "name": "Regeneration",
+            "desc": "The keeper regains 10 hit points at the start of its turn. If the keeper takes damage from a silvered weapon or a spell, this trait doesn't function at the start of the keeper's next turn. The keeper dies only if it starts its turn with 0 hit points and doesn't regenerate."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack (Human or Hybrid Form Only).",
+            "desc": "The keeper makes two weapon attacks, one of which can be with its hand crossbow."
+          },
+          {
+            "name": "Beak (Raven or Hybrid Form Only)",
+            "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form."
+          },
+          {
+            "name": "Shortsword (Human or Hybrid Form Only).",
+            "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage."
+          },
+          {
+            "name": "Hand Crossbow (Human or Hybrid Form Only).",
+            "desc": "_Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Masked One of Arkan",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Masked One of Arkan BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Masked One of Arkan",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "subtype": "(any race)",
+        "alignment": "Neutral",
+        "ac": "17 (eldritch blessing, 20 with mage armor)",
+        "hp": 120,
+        "hit_dice": "16d8+48",
+        "speed": "30ft., Fly 50 Ft. (hover)",
+        "stats": [
+          12,
+          15,
+          16,
+          13,
+          11,
+          20
+        ],
+        "saves": [
+          {
+            "Constitution": 8
+          },
+          {
+            "Charisma": 10
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 7
+          },
+          {
+            "Perception": 5
+          },
+          {
+            "Intimidation": 10
+          }
+        ],
+        "damage_resistances": "Psychic, Cold",
+        "senses": "Passive Perception 15",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>, Abyssal, Deep Speech, and one other language.",
+        "cr": 13,
+        "traits": [
+          {
+            "name": "Revealing Gaze",
+            "desc": "The Masked Ones's gaze creates an area, equivalent to a 60-foot cone, where concealment of any kind becomes almost impossible. The Masked One decides in which direction the cone is facing at the start of each of its turns. Creatures that enter that area must Succeed on a DC 18 Charisma saving throw or become revealed until they leave the area. A creature that succeeds the saving throw against the revealed effect is immune to the Masked One's revealing gaze trait for the next hour"
+          },
+          {
+            "name": "Herald of the Deep",
+            "desc": "The Masked One acts as the willful envoy of an unknowable entity, and is endowed with its otherworldly power in return. It gains the following benefits"
+          },
+          {
+            "name": "Deepsight",
+            "desc": "The Masked One can use a bonus action to focus its gaze, gaining truesight in an area equivalent to its revealing gaze until the end of its turn."
+          },
+          {
+            "name": "Eldritch Blessing",
+            "desc": "The Masked One's AC includes its Charisma modifier. Additionally, when forced to make an Intelligence or Wisdom saving throw, it can make a Charisma saving throw instead."
+          }
+        ],
+        "spells": [
+          "__Innate Spellcasting.__ The Masked One can cast the following spells innately, requiring no material components. Its spellcasting ability is Charisma (spel save DC 18 +10 to hit with spell attacks).",
+          "_At Will._ disguise self, eldritch blast (3 beams), invisiblity, mage armor",
+          "_3/Day._ cause arrhythmia, counterspell (at a 5th level spell), dimension door, hypnotic pattern",
+          "_1/day._ hellish retort, dominate person, wall of fire"
+        ],
+        "actions": [
+          {
+            "name": "Eldritch Touch.",
+            "desc": "_Melee Spell Attack_ +10 to hit, reach 5ft., one target. _Hit 22 (5d8) psychic damage and the creature must succeed on a DC 18 Constitution saving throw or be stunned until the end of its next turn."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "<STATBLOCK-WIKI-LINK>Auril (First Form)<STATBLOCK-WIKI-LINK>",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Auril First Form BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "<STATBLOCK-WIKI-LINK>Auril (First Form)<STATBLOCK-WIKI-LINK>",
+        "size": "Meduim",
+        "type": "<STATBLOCK-WIKI-LINK>Monstrosity<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Neutral Evil",
+        "ac": 13,
+        "hp": 95,
+        "hit_dice": "10d8+50",
+        "speed": "30 ft., Fly 60 ft.",
+        "stats": [
+          14,
+          16,
+          21,
+          24,
+          26,
+          28
+        ],
+        "fage_stats": null,
+        "saves": [
+          {
+            "Constitution": 9
+          },
+          {
+            "Wisdom": 12
+          }
+        ],
+        "damage_vulnerabilities": "Radiant",
+        "damage_immunities": "Cold, Poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>,  <STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120Ft, <STATBLOCK-WIKI-LINK>Truesight<STATBLOCK-WIKI-LINK> 120 Ft. <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 26",
+        "languages": "All, <STATBLOCK-WIKI-LINK>Telepathy (Languages)<STATBLOCK-WIKI-LINK> 1,000 Ft.",
+        "cr": 9,
+        "spells": [
+          {
+            "Auril's innate spellcasting ability is Charisma (spell save DC 21, +13 to hit with spell attacks). She can innately cast the following spells, requiring no material components": null
+          },
+          {
+            "At Will": "<STATBLOCK-WIKI-LINK>Chromatic Orb<STATBLOCK-WIKI-LINK> (Cold Orb Obly; See Actions Below), <STATBLOCK-WIKI-LINK>Detect Magic<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Misty Step<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2/Day": "<STATBLOCK-WIKI-LINK>Control Weather<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Detect Thoughts<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Ice Storm<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Divine Being",
+            "desc": "Auril can't be <STATBLOCK-WIKI-LINK>surprised<STATBLOCK-WIKI-LINK> and can't be changed into another form against her will"
+          },
+          {
+            "name": "Divine Rejuvenation",
+            "desc": "When Auril drops to 0 <STATBLOCK-WIKI-LINK>hit points<STATBLOCK-WIKI-LINK>, her body turns to slush and melts away. Auril instantly reappears in her second form, in an unoccupied space within 60 feet of where her first form disappeared. Her initiative count doesn't change."
+          },
+          {
+            "name": "Legendary Resistance (2/Day in This Form)",
+            "desc": "If Auril fails a saving throw, she can choose to succeed instead."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "Auril has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Unusual Nature",
+            "desc": "Auril doesn't require air, food, drink, or sleep."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Auril attacks twice with her talons."
+          },
+          {
+            "name": "Talons",
+            "desc": "_Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 3 (1d6) cold damage."
+          },
+          {
+            "name": "Touch of Frost."
+          },
+          {
+            "name": "Chromatic Orb"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Talons",
+            "desc": "Auril attacks once with her talons."
+          },
+          {
+            "name": "Teleport",
+            "desc": "Auril teleports to an unoccupied space she can see within 30 feet of her."
+          },
+          {
+            "name": "Touch of The Frost (Costs 2 Actions)",
+            "desc": "Auril uses Touch of Frost"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Basilisk",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Basilisk BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Basilisk",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Monstrosity<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Unaligned",
+        "ac": 15,
+        "hp": 52,
+        "hit_dice": 52,
+        "speed": "20ft",
+        "stats": [
+          16,
+          8,
+          15,
+          2,
+          8,
+          7
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>blindsight<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>passive Perception<STATBLOCK-WIKI-LINK> 9",
+        "cr": 3,
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>: +5, Reach 5 ft. Hit:10 (2d6+3) Piercing Damage Plus 7 (2d6) Poison Damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Petrifying Gaze (Recharge 4-6).",
+            "desc": "_Constitution Saving Throw:_ DC 12, Each Creature In A 30 Foot Cone. If The Basilisk Sees It's Reflection Within The Cone, The Basilisk Must Make The Save. _First Failure:_ The Target Has The <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK> Condition And Repeats The Save At The End Of It's Next Turn If It Is Still <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, Ending The Effect On Itself On A Success. _Second Failure:_ The Target Has The <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK> Condition Instead Of The <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK> Condition"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Displacer Beast",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Displacer Beast BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Displacer Beast",
+        "size": "Large",
+        "type": "<STATBLOCK-WIKI-LINK>Monstrosity<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Lawful Evil",
+        "ac": 13,
+        "hp": 76,
+        "hit_dice": "9d10+27",
+        "speed": "40 Ft.",
+        "stats": [
+          18,
+          15,
+          16,
+          6,
+          12,
+          8
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 11",
+        "languages": "Understands <STATBLOCK-WIKI-LINK>Sylvan<STATBLOCK-WIKI-LINK> bat cant speak",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Avoidance",
+            "desc": "If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the save and half damage if it fails. It can't use this trait if it has the <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK> condition."
+          },
+          {
+            "name": "Displacement",
+            "desc": "<STATBLOCK-WIKI-LINK>Attack rolls<STATBLOCK-WIKI-LINK> against the displacer beast have <STATBLOCK-WIKI-LINK>Disadvantage<STATBLOCK-WIKI-LINK>, since it projects an illusion that makes it appear to be near its actual location. This trait is suppressed while the displacer beast has the <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK> condition."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
+          },
+          {
+            "name": "Rend",
+            "desc": "_Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ +6, reach 5 feet. _Hit:_ 9 (1d10 + 4) Slashing damage. If target is a Large or smaller creature, it has the <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK> condition."
+          },
+          {
+            "name": "Tentacle"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Doppelganger",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Doppelganger BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Doppelganger",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Monstrosity<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Neutral",
+        "ac": 14,
+        "hp": 52,
+        "hit_dice": "8d8+16",
+        "<STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK>": "30ft",
+        "stats": [
+          11,
+          18,
+          14,
+          11,
+          12,
+          14
+        ],
+        "fage_stats": null,
+        "saves": [
+          null,
+          null
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": null,
+        "damage_immunities": null,
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 11",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK> And 3 More",
+        "cr": 3,
+        "spells": [
+          {
+            "The doppelganger casts <STATBLOCK-WIKI-LINK>Detect Thoughts<STATBLOCK-WIKI-LINK>, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).": null
+          },
+          {
+            "At Will": "<STATBLOCK-WIKI-LINK>Detect Thoughts<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": null,
+            "desc": null
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
+          },
+          {
+            "name": "Slam",
+            "desc": "_Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ +6 (with <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
+          },
+          {
+            "name": "Unsettling Visage (Recharge 6)"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Shape-Shift",
+            "desc": "The <STATBLOCK-WIKI-LINK>doppelganger<STATBLOCK-WIKI-LINK> shape-shifts into a Medium or Small <STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
+          }
+        ],
+        "reactions": [
+          {
+            "name": null,
+            "desc": null
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": null,
+            "desc": null
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Accursed Defiler",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Accursed Defiler BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Accursed Defiler",
+        "size": "Medium",
+        "type": [
+          "Undead"
+        ],
+        "subtype": null,
+        "alignment": "Neutral",
+        "ac": 12,
+        "hp": 75,
+        "hit_dice": "10d8+30",
+        "speed": "30ft",
+        "stats": [
+          19,
+          14,
+          17,
+          6,
+          15,
+          14
+        ],
+        "fage_stats": null,
+        "saves": [
+          null,
+          null
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": "Necrotic, Bludgeoning, Piercing, Slashing, Non Magical",
+        "damage_immunities": null,
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 14",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>",
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Cursed Existence",
+            "desc": "When it drops to 0 hp in desert terrain, the accursed defiler's body disintegrates into sand and a parched breeze. However, unless it was killed in a hallowed location, with radiant damage, or by a creature under the effects of the <STATBLOCK-WIKI-LINK>bless<STATBLOCK-WIKI-LINK> spell, the accursed defiler reforms at the next sundown 1d100 miles away from where it died in a random direction."
+          },
+          {
+            "name": "Sand Shroud",
+            "desc": "A miniature sandstorm constantly whirls around the accursed defiler in a 10-foot radius. This area is lightly obscured to creatures other than the accursed defiler. Wisdom (Survival) checks made to follow tracks left by the accursed defiler or other creatures that were traveling in its sand shroud are made with disadvantage."
+          },
+          {
+            "name": "Undead Nature",
+            "desc": "The accursed defiler doesn't require air, food, drink, or sleep."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The accursed defiler makes two Slam attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 11 (2d6 + 4) bludgeoning damage. If the accursed defiler scores a critical hit, the target suffers one level of <STATBLOCK-WIKI-LINK>exhaustion<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Sandslash (Recharge 5-6)",
+            "desc": "The accursed defiler intensifies the vortex of sand that surrounds it. Each creature within 10 feet of the accursed defiler must make a DC 14 Dexterity saving throw, taking 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Bone Executioner",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Bone Executioner BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Bone Executioner",
+        "size": "Large",
+        "type": "<STATBLOCK-WIKI-LINK>Undead<STATBLOCK-WIKI-LINK>",
+        "alignment": "Neutral Evil",
+        "ac": "16 (Rusted Plate)",
+        "hp": 68,
+        "hit_dice": "8d10+24",
+        "speed": "30ft",
+        "stats": [
+          18,
+          10,
+          16,
+          5,
+          10,
+          5
+        ],
+        "saves": [
+          {
+            "Strength": 6
+          },
+          {
+            "Constitution": 5
+          }
+        ],
+        "damage_vulnerabilities": "Radiant",
+        "damage_resistances": "Piercing and Slashing from nonmagical weapons",
+        "damage_immunities": "Poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, Passive Perception 10, Passive Insight 10, Passive Steath 10",
+        "languages": "Understands The Languages It Knew In Life But Can't Speak",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If Reduced To 0HP, The Executioner Makes A *Constitution* Saving Throw (DC 5 + Damage Taken). On A Success, It Drops To 1HP Instead, Unless The Damage Was Radiant Or A <STATBLOCK-WIKI-LINK>Critical Hit<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Bone-Crushing Strike",
+            "desc": "Deals An Additional +2 *Bludgeoning* Damage To Targets Wearing <STATBLOCK-WIKI-LINK>Heavy Armor<STATBLOCK-WIKI-LINK> Or With Natural Armor (Such As Dragons Or Golems)"
+          },
+          {
+            "name": "Executioner's Presence",
+            "desc": "When The Bone Executioner Scores A <STATBLOCK-WIKI-LINK>Critical Hit<STATBLOCK-WIKI-LINK>, All Creatures Of Its Choice Within 10ft Must Succeed On A DC 13 *Wisdom* Saving Throw Or Be *<STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>* Until The End Of Their Next Turn."
+          },
+          {
+            "name": "Execution Surge (Otional Rule)",
+            "desc": "When The Bone Executioner Reduces A Creature To 0HP, It Enters A Brutal Trance Of Undeath Until The End Of Combat 1. Its Great Maul Deals And Extra +1d8 *Bludgeoning* Damage On Hit 2. Its Skull-Crusher Ability Now Recharges On A 4-6 Rounds Instead Of  5-6 Rounds."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Great Maul",
+            "desc": "Melee Weapon Attack: +6 To Hit, Reach 5ft, One Target. Hit: 14 (2d8+4) *Bludgeoning* Damage."
+          },
+          {
+            "name": "Great Maul (Execution Surge)",
+            "desc": "Melee Weapon Attack: +6 To Hit, Reach 5ft, One Target. Hit: 14 (3d8+4) *Bludgeoning* Damage."
+          },
+          {
+            "name": "Skull-Crusher (Recharge 5-6 Turns)",
+            "desc": "The Executioner Makes A Devastating Overhead Smash. The Target Must Succeed ON A DC 14 *Strength* Saving Throw Or Be Knocked *<STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>* And *<STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>* Until Start Of It’s Next Turn. Hit: 18 (3d8+4) *Bludgeoning Damage*."
+          },
+          {
+            "name": "Skull-Crusher (Recharge 4-6 Turns)",
+            "desc": "The Executioner Makes A Devastating Overhead Smash. The Target Must Succeed ON A DC 14 *Strength* Saving Throw Or Be Knocked *<STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>* And *<STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>* Until Start Of It’s Next Turn. Hit: 18 (3d8+4) *Bludgeoning Damage*."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Death Knight",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Death Knight BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Death Knight",
+        "size": "Small Or Medium",
+        "type": "Undead",
+        "subtype": null,
+        "alignment": "Chaotic Evil",
+        "ac": 20,
+        "hp": 199,
+        "hit_dice": 199,
+        "speed": "30ft",
+        "stats": [
+          20,
+          11,
+          20,
+          12,
+          16,
+          18
+        ],
+        "fage_stats": null,
+        "saves": [
+          {
+            "Dexterity": 6
+          },
+          {
+            "Wisdom": 9
+          }
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": null,
+        "damage_immunities": "Necrotic, Poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 113",
+        "languages": "Abyssal, <STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>",
+        "cr": 17,
+        "spells": [
+          {
+            "The death knight casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18)": null
+          },
+          {
+            "At Will": "Command, Phantom Steed"
+          },
+          {
+            "2/day Each": "<STATBLOCK-WIKI-LINK>Destructive Wave<STATBLOCK-WIKI-LINK> (Necrotic), Despel Magic,"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the death knight fails a saving throw, it can choose to succeed instead"
+          },
+          {
+            "name": "Magic <STATBLOCK-WIKI-LINK>Resistance<STATBLOCK-WIKI-LINK>",
+            "desc": "The death knight has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Marshal Undead",
+            "desc": "Undead creatures of the death knight's choice (excluding itself) in a 60-foot <STATBLOCK-WIKI-LINK>Emanation<STATBLOCK-WIKI-LINK> originating from it have <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>attack rolls<STATBLOCK-WIKI-LINK> and saving throws. It can't use this trait if it has the <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK> condition."
+          },
+          {
+            "name": "Undead Restoration",
+            "desc": "If the death knight is destroyed before it atones for its evil, it gains a new body in 1d10 days, reviving with all its <STATBLOCK-WIKI-LINK>Hit Points<STATBLOCK-WIKI-LINK>. The new body appears in a location significant to the death knight."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The death knight makes three Dread Blade attacks."
+          },
+          {
+            "name": "Dread Blade",
+            "desc": "_Melee <STATBLOCK-WIKI-LINK>Attack Roll<STATBLOCK-WIKI-LINK>:_ +11, reach 5 ft. _Hit:_ 12 (2d6 + 5) Slashing damage plus 13 (3d8) Necrotic damage."
+          },
+          {
+            "name": "Hellfire Orb (Recharge 5-6)"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Dread Authority",
+            "desc": "The death knight uses Spellcasting to cast Command. The death knight can't take this action again until the start of its next turn."
+          },
+          {
+            "name": "Fell Word",
+            "desc": "_Constitution Saving Throw:_ DC 18, one creature the death knight can see within 120 feet. _Failure:_ 17 (5d6) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken. _Failure or Success:_ The death knight can't take this action again until the start of its next turn."
+          },
+          {
+            "name": "Lunge"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parry",
+            "desc": "_Trigger:_ The death knight is hit by a melee <STATBLOCK-WIKI-LINK>attack roll<STATBLOCK-WIKI-LINK> while holding a <STATBLOCK-WIKI-LINK>weapon<STATBLOCK-WIKI-LINK>. _Response:_ The death knight adds 6 to its AC against that attack, possibly causing it to miss"
+          },
+          {
+            "name": null,
+            "desc": null
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Swarm of Ravens",
+      {
+        "layout": "Basic 5e Layout",
+        "image": null,
+        "name": "Swarm of Ravens",
+        "size": "Medium Swarm of Tiny Beasts",
+        "type": "<STATBLOCK-WIKI-LINK>Beast<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Unaligned",
+        "ac": 12,
+        "hp": 11,
+        "hit_dice": "2d8=2",
+        "speed": "10 Ft., Fly 50 Ft.",
+        "stats": [
+          6,
+          14,
+          12,
+          5,
+          12,
+          6
+        ],
+        "damage_resistances": "Bludgeoning, Piercing, Slashing",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "Passive Perception 15",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Swarm",
+            "desc": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain <STATBLOCK-WIKI-LINK>Hit Points<STATBLOCK-WIKI-LINK> or gain <STATBLOCK-WIKI-LINK>Temporary Hit Points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Beaks.",
+            "desc": "_Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Piercing damage, or 2 (1d4) Piercing damage if the swarm is <STATBLOCK-WIKI-LINK>Bloodied<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Cacophony (Recharge 6).",
+            "desc": "_Wisdom Saving Throw:_ DC 10, one creature in the swarm's space. _Failure:_ The target has the <STATBLOCK-WIKI-LINK>Deafened<STATBLOCK-WIKI-LINK> condition until the start of the swarm's next turn. While <STATBLOCK-WIKI-LINK>Deafened<STATBLOCK-WIKI-LINK>, the target also has <STATBLOCK-WIKI-LINK>Disadvantage<STATBLOCK-WIKI-LINK> on ability checks and attack rolls."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Garak",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Humanoid Blank BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Garak",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": null,
+        "ac": 12,
+        "hp": 31,
+        "hit_dice": 31,
+        "speed": "30ft",
+        "stats": [
+          17,
+          11,
+          16,
+          10,
+          12,
+          8
+        ],
+        "senses": "Darkvision 120Ft",
+        "languages": "Common",
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Lucian Relnor",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Humanoid Blank BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Lucian Relnor",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": null,
+        "ac": 15,
+        "hp": 21,
+        "hit_dice": 21,
+        "speed": "30ft",
+        "stats": [
+          8,
+          16,
+          13,
+          12,
+          10,
+          16
+        ],
+        "saves": [
+          {
+            "WIS": 2
+          },
+          {
+            "CHA": 3
+          }
+        ],
+        "senses": "Darkvision 120Ft",
+        "languages": "Common",
+        "spells": [
+          {
+            "Spell Casting Modifier +3, Spell Save DC 13, Spell Attack Bonus +5": null
+          },
+          {
+            "Cantrips": "<STATBLOCK-WIKI-LINK>Dancing Lights<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Eldritch Blast<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Minor Illusion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Ray of Frost<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Guidance<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Spare the Dying<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2/day": "<STATBLOCK-WIKI-LINK>Dissonant Whispers<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Hex<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>False Life<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Disguise Self<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Comprehend Languages<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Identify<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Misty Step<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Suggestion<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "mordock",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Humanoid Blank BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "mordock",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "subtype": null,
+        "alignment": "Neutral",
+        "ac": 11,
+        "hp": 24,
+        "hit_dice": 24,
+        "speed": "30ft",
+        "stats": [
+          9,
+          13,
+          14,
+          16,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "INT": 5
+          },
+          {
+            "WIS": 4
+          }
+        ],
+        "senses": "Passive Perception 12",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>",
+        "spells": [
+          {
+            "Cantrips": "<STATBLOCK-WIKI-LINK>Mage Hand<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Chill Touch<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frostbite<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1st Level": "<STATBLOCK-WIKI-LINK>False Life<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Feather Fall<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grease<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Tashas Hideous Laughter<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Mage Armor<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Magic Missile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Sleep<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Ray of Sickness<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2nd Level": "<STATBLOCK-WIKI-LINK>Misty Step<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Shatter<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ]
+  ],
+  "defaultLayouts": {
+    "basic-5e-layout": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "7b8989b92b58",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "e95b6aeaf928",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "db5bfa0a7a0b",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "e93b08f84b1a",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "79580b6b092a",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "784b09fa9a4a",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "09a86a4aa909",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "ea799be9a8b9",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "09dbe96aaa8a",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "db6b88c819f9",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "bbe80939e96a",
+              "properties": [
+                "ac"
+              ],
+              "display": "Armor Class",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "09e9e908990b",
+              "properties": [
+                "hp"
+              ],
+              "display": "Hit Points",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "e8d98a58485b",
+              "display": "Speed",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "890b09f8b89b",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Dex",
+            "Con",
+            "Int",
+            "Wis",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "59eaa88ad8fb",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "fb1bbb295b7b",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "da986a0869b9",
+              "display": "Saves",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "988ab86bc949",
+              "display": "Skills",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "6918ebcb7ad9",
+              "display": "Damage Resistances",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "99eb58bb3acb",
+              "display": "Damage Immunities",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "7aaa59bb0b79",
+              "display": "Condition Immunities",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "88ebeb6ba8b8",
+              "display": "Damage Vulnerabilities",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "5b293b0969f8",
+              "display": "Senses",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "f959a93858c9",
+              "display": "Languages",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "dbab6909fb5b",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "ebcae8e84aea",
+                  "display": "Challenge",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";"
+                },
+                {
+                  "type": "property",
+                  "id": "f8caf9cb88b9",
+                  "display": "Proficiency Bonus",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";"
+                }
+              ]
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "b8980a594ab9",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "eb7b09aacae9",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "5ae89b3a1bbb",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "1bebca091a28",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "eaa909b92a0b",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonus Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "f8085b9b4b0a",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendary Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "0baafaca8b3b",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "6b4a5a1b3b4b",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "c928c8c9a818",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythic Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "2b4a2a4b6b19",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "3a7b292899d9",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "3a4adac9cb89",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reactions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "4a69892b98fa",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "Lair Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "895999a92868",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "id": "basic-5e-layout",
+      "name": "Basic 5e Layout",
+      "edited": true,
+      "version": 9,
+      "columns": 2,
+      "columnWidth": 400,
+      "forceColumns": true
+    }
+  },
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

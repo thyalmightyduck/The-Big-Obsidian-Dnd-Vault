@@ -1,0 +1,1 @@
+Two Lovers Who Ruled All Cold And Frozen Defeated By The Champion Of Ravens. Souls Forged Into One Body The Lovers Now Suffer As A Fallen Patron Living Amongst Mortals.

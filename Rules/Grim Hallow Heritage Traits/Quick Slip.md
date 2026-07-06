@@ -1,0 +1,3 @@
+Even in the thick of battle, anything that obscures your enemies' view of you gives you a chance to strike unseen. You can take the [Hide](https://5e.tools/actions.html#hide_xphb) action as a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb) on each of your turns. You must have appropriate cover to attempt to hide, as normal.
+
+**Astute Slip:** If you take this trait twice, you have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on the Stealth checks you make with the [Hide](https://5e.tools/actions.html#hide_xphb) action when you use Quick Slip.
