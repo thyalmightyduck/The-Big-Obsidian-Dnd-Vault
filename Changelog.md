@@ -1,6 +1,7 @@
 # Changelog
 
 - 07-06-2026 T 1652 · [[Circle of the Old Ways Druid]]
+- 07-06-2026 T 1652 · [[Ignatius Hooligan]]
 - 07-02-2026 T 1553 · [[Roadmap]]
 - 07-02-2026 T 1552 · [[Fount of Moonlight]]
 - 07-02-2026 T 1550 · [[Wall of Stone]]
@@ -99,4 +100,3 @@
 - 06-26-2026 T 1720 · [[Philosopher Wizard]]
 - 06-26-2026 T 1720 · [[Origami Mage Wizard]]
 - 06-26-2026 T 1719 · [[School of Necromancy Wizard]]
-- 06-26-2026 T 1719 · [[Occultist Wizard]]

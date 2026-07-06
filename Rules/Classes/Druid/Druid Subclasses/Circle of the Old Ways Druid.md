@@ -119,6 +119,15 @@ Objects. Your ability to handle objects is determined by the form's limbs rathe
 ## Level 3: Druid Subclass
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
 
+### Circle of the Old Ways
+_Become One with the Ancient Forest_
+
+Favoring the heart of the darkest forests, Druids of the Circle of the Old Ways commune with ancient, forgotten entities that lurk within, calling forth truly primeval power to serve as defenders of the oldest and wildest of places.
+
+They harness the power of the Elderwood trees, which are home to the souls of long-dead feyfolk and share their primordial wisdom and might when called upon.
+
+The Old Ways Sacred Sites table offers examples to choose or use as inspiration to create places steeped in the Old Ways where your circle might congregate or where you may commune with primeval powers.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
