@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Roadmap/Roadmap.md",
+                "file": "2 Characters/Ignatius Hooligan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Ignatius Hooligan"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Moon Druid.md",
+                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Old Ways Druid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -182,7 +182,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Circle of the Moon Druid"
+              "title": "Circle of the Old Ways Druid"
             }
           },
           {
@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -428,8 +428,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5,
-    "collapsed": true
+    "width": 495.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -449,11 +448,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "83a3b3f37a74c981",
+  "active": "934908baf9733514",
   "lastOpenFiles": [
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Moon Druid.md",
+    "Rules/Classes/Druid/Druid.md",
+    "2 Characters/Ignatius Hooligan.md",
+    "0 Roadmap/Roadmap.md",
     "Tutorial",
     "Empty",
-    "Rules/Classes/Druid/Druid Subclasses/Circle of the Moon Druid.md",
     "Rules/Spells/Level 4/Fount of Moonlight.md",
     "Rules/Spells/Level 5/Wall of Stone.md",
     "5 Monster Stat Blocks/Beast/Giant Insect Monster.md",
@@ -480,8 +482,6 @@
     "Pictures/Monsters/Zombie BGR PNG.png",
     "Pictures/Monsters/Zombie BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Elemental/Delerium Elemental.md",
-    "Rules/Spells/Level 2/Blindness Deafness.md",
-    "Rules/Classes/Druid/Druid Subclasses/Circle of Shadows Druid.md",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png.opdownload",
     "Rules/Spells/Level 4/Untitled",
@@ -489,7 +489,6 @@
     "Rules/Classes/Warrior Sidekick",
     "Rules/Classes/Warden/Warden Subclasses",
     "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses",
-    "Rules/Classes/Tamer/Tamer Subclasses",
     "Pictures/Monsters/image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png",
     "Pictures/Gods/The Moonweaver BGR PNG.png",
     "Pictures/Gods/The Knowing Mentor BGR PNG.png",
