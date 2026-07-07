@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "Roadmap"
             }
+          },
+          {
+            "id": "b9ded9e3c49b278d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/Gunslinger/Gunslinger Subclasses/White Hat Gunslinger.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "White Hat Gunslinger"
+            }
+          },
+          {
+            "id": "1881f8572f15c5a2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2786357becde5cec",
@@ -249,7 +285,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 495.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,15 +306,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "1881f8572f15c5a2",
   "lastOpenFiles": [
+    "Rules/Classes/Gunslinger/Gunslinger Subclasses/White Hat Gunslinger.md",
+    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Trick Shot Gunslinger.md",
+    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Spellslinger Gunslinger.md",
+    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Secret Agent Gunslinger.md",
+    "Rules/Classes/Gunslinger/Gunslinger Subclasses/High Roller Gunslinger.md",
+    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Deadeye Gunslinger.md",
+    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Cleric/Cleric Subclasses/Ambition Domain Cleric.md",
     "Rules/Classes/Apothecary/Apothecary.md",
     "Rules/Classes/Apothecary/Apothecary Subclasses/Reanimator Apothecary.md",
     "2 Characters/Ignatius Hooligan.md",
     "Rules/Spells/Level 5/Nerve Gas.md",
     "5 Monster Stat Blocks/Dragon/Delerium Dragon Wyrmling.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Spells/Level 3/Influenza.md",
     "Rules/Spells/Level 2/Silence.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
@@ -291,12 +334,6 @@
     "Rules/Classes/Fighter/Fighter Subclasses/Purple Dragon Knight (Banneret) Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Psi Warrior Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Nightwatcher Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Living Crucible Fighter.md",
-    "Rules/Tools/Alchemists Supplies.md",
-    "Rules/Tools/Artisans Tools.md",
-    "Rules/Tools/Woodcarvers Tools.md",
-    "Rules/Tools/Weavers Tools.md",
-    "Rules/Tools/Tinkers Tools.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",

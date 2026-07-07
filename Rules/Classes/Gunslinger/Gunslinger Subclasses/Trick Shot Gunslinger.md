@@ -1,4 +1,4 @@
-# WOP Trick Shot Gunslinger
+# Trick Shot Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 
 | Level | Proficiency Bonus | Features                                                 | Risk Dice | Weapon Mastery |
@@ -77,8 +77,7 @@ Maneuvers. You can expend Risk Dice to perform maneuvers. Your maneuver options
 
 Saving Throws. If a maneuver requires a saving throw, the DC equals 8 plus your Dexterity modifier and [[Proficiency Bonus]].
 
-### Maneuver Options
-
+#### Maneuver Options
 Bite the Bullet. As a [[Bonus Action]], you can expend one Risk Die to gain [[Temporary Hit Point]] equal to the number rolled on the die plus your Gunslinger level.
 
 **Blindfire:** You can take a [[Bonus Action]] and expend one Risk Die to gain Blindsight with a range of 30 feet until the end of the current turn.
@@ -94,6 +93,17 @@ Skin of Your Teeth. When a creature you can see hits you with an attack roll, y
 ## Level 3: Gunslinger Subclass
 You gain a Gunslinger subclass of your choice. A subclass is a specialization that grants you features at certain Gunslinger levels. For the rest of your career, you gain each of your subclass's features that are of your Gunslinger level or lower.
 
+### Trick Shot
+_Ricochet Bullets from Every Angle_
+
+Accuracy means different things to different people. For you, true accuracy isn't necessarily in hitting a target on the first shot, but might include hitting the mark after the bullet bounces around a dozen times. Your attacks are just as dangerous if they miss, or even after hitting their mark, as others' are while they're still in the air.
+
+### Level 3: Creative Trajectory
+You can make your projectiles travel in unexpected ways. Your ranged attacks with weapons ignore [[Half Cover]] and [[Three Quarters Cover]].
+
+### Level 3: Ricochet Maneuver
+When you miss with a ranged attack using a weapon, you can take a [[Bonus Action]] and expend one Risk Die to reroll the attack and add the Risk Die to the roll. You must use the new roll.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -105,6 +115,11 @@ Whenever you score a [[Critical Hit]] against a Large or smaller creature with
 
 ## Level 6: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 6: Fancy Gunplay
+Your flashy weapon tricks grant you the following benefits.
+**Gun Spinning:** Once per turn when you make a Charisma (Performance) check or a Dexterity (Sleight of Hand) check using one of your Ranged weapons, you can roll a Risk Die and add it to the ability check without expending it.
+**Speed Loader:** On your turn, you can reload a weapon with Reload without taking an action or [[Bonus Action]].
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -119,6 +134,9 @@ Your attack rolls with Ranged weapons can score a [[Critical Hit]] on a roll o
 
 ## Level 10: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 10: Deft Deflection Maneuver
+You can shoot projectiles out of the air. When an ally within 30 feet of you is hit by an attack, you can take a [[Reaction]] and expend one Risk Die to grant that ally the benefit of the Skin of Your Teeth maneuver against that attack. You must be holding a Ranged weapon to use this maneuver.
 
 ## Level 11: Overkill
 When you deal damage with a Ranged weapon that doesn't add your ability modifier to the roll, you add your ability modifier nonetheless. If you already add your modifier to the damage roll, the target takes an extra 1d8 damage of the weapon's type.
@@ -135,6 +153,10 @@ Once you use this feature, you can't use it again until you finish a [[Short Re
 
 ## Level 14: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 14: Pinball Shot
+Once on each of your turns when you hit a creature with a ranged attack using a weapon, you can deflect the projectile at additional targets. Choose a different target within 30 feet of the first and make an attack roll against it. On a hit, you can repeat this attack against a new target within 30 feet until you miss or make a total of five attacks. You can't target the same creature with more than one attack each time you use this feature.
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]]. You can also restore your use of it by expending two Risk Dice (no action required).
 
 ## Level 15: Dire Gambit
 Whenever you roll [[Initiative]] or score a [[Critical Hit]], you regain one expended Risk Die.

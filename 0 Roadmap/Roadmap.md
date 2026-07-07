@@ -200,13 +200,13 @@ Finished Cantrip Links
 	- [x] Scoffiaw
 	- [ ] Spirit-Fused (Temp Taken Down)
 	- [x] Steel Hawk
-- [ ] Gunslinger
-	- [ ] Deadeye
-	- [ ] High Roller
-	- [ ] Secret Agent
-	- [ ] Spellslinger
-	- [ ] Trick Shot
-	- [ ] White Hat
+- [x] Gunslinger
+	- [x] Deadeye
+	- [x] High Roller
+	- [x] Secret Agent
+	- [x] Spellslinger
+	- [x] Trick Shot
+	- [x] White Hat
 - [ ] Illrigger
 	- [ ] Architect Of Ruin
 	- [ ] Hellspeaker

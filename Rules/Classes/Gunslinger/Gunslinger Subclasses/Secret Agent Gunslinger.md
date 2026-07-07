@@ -1,4 +1,4 @@
-# WOP Secret Agent Gunslinger
+# Secret Agent Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 
 | Level | Proficiency Bonus | Features                                                 | Risk Dice | Weapon Mastery |
@@ -77,8 +77,7 @@ Maneuvers. You can expend Risk Dice to perform maneuvers. Your maneuver options
 
 Saving Throws. If a maneuver requires a saving throw, the DC equals 8 plus your Dexterity modifier and [[Proficiency Bonus]].
 
-### Maneuver Options
-
+#### Maneuver Options
 Bite the Bullet. As a [[Bonus Action]], you can expend one Risk Die to gain [[Temporary Hit Point]] equal to the number rolled on the die plus your Gunslinger level.
 
 **Blindfire:** You can take a [[Bonus Action]] and expend one Risk Die to gain Blindsight with a range of 30 feet until the end of the current turn.
@@ -94,6 +93,20 @@ Skin of Your Teeth. When a creature you can see hits you with an attack roll, y
 ## Level 3: Gunslinger Subclass
 You gain a Gunslinger subclass of your choice. A subclass is a specialization that grants you features at certain Gunslinger levels. For the rest of your career, you gain each of your subclass's features that are of your Gunslinger level or lower.
 
+### Secret Agent
+_Engage in Espionage and Assassination_
+
+Knowledge is power. The best way to defeat your enemies is by stealing what they know and replacing it with misinformation. To that end, you have been trained in the ways of covert warfare, giving you a broad range of abilities to complement your fearsome gunnery skills.
+
+### Level 3: Operative Training
+Your covert training grants you the following benefits:
+**Concealed Shot:** You learn the Concealed Shot cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this cantrip (choose when you select this subclass).
+**Operative Tools:** You gain a [[Disguise Kit]] and [[Thieves Tools]], and you have proficiency with them.
+**Skill Proficiencies:** You gain proficiency in two of these skills of your choice: [[Deception]], [[Investigation]], [[Persuasion]], [[Sleight of Hand]], or [[Stealth]].
+
+### Level 3: Parting Shot Maneuver
+When you take the [[Dash Action]], [[Disengage Action]], or [[Dodge action]] on your turn, you can expend one Risk Die to make a ranged attack using a weapon as a [[Bonus Action]]. Add the Risk Die to the damage roll on a hit.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -105,6 +118,11 @@ Whenever you score a [[Critical Hit]] against a Large or smaller creature with
 
 ## Level 6: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 6: Fieldcraft
+Your experience in the field grants you the following benefits.
+**Quick Change:** Using a [[Disguise Kit]], you can create a Costume and don it as a [[Bonus Action]].
+**Slick Talker:** Whenever you make a Charisma ([[Deception]]) or Charisma ([[Persuasion]]) check, you can treat a d20 roll of 9 or lower as a 10.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -119,6 +137,10 @@ Your attack rolls with Ranged weapons can score a [[Critical Hit]] on a roll o
 
 ## Level 10: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 10: Exit Strategy
+When you take damage, you can take a [[Reaction]] to evade further harm. You have the [[Invisible]] condition until the start of your next turn, and you can immediately move up to 10 feet.
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]]. You can also restore your use of it by expending one [[Risk Die]] (no action required).
 
 ## Level 11: Overkill
 When you deal damage with a Ranged weapon that doesn't add your ability modifier to the roll, you add your ability modifier nonetheless. If you already add your modifier to the damage roll, the target takes an extra 1d8 damage of the weapon's type.

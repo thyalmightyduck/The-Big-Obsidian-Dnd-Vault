@@ -1,4 +1,4 @@
-# WOP High Roller Gunslinger
+# High Roller Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 
 | Level | Proficiency Bonus | Features                                                 | Risk Dice | Weapon Mastery |
@@ -77,8 +77,7 @@ Maneuvers. You can expend Risk Dice to perform maneuvers. Your maneuver options
 
 Saving Throws. If a maneuver requires a saving throw, the DC equals 8 plus your Dexterity modifier and [[Proficiency Bonus]].
 
-### Maneuver Options
-
+#### Maneuver Options
 Bite the Bullet. As a [[Bonus Action]], you can expend one Risk Die to gain [[Temporary Hit Point]] equal to the number rolled on the die plus your Gunslinger level.
 
 **Blindfire:** You can take a [[Bonus Action]] and expend one Risk Die to gain Blindsight with a range of 30 feet until the end of the current turn.
@@ -94,6 +93,20 @@ Skin of Your Teeth. When a creature you can see hits you with an attack roll, y
 ## Level 3: Gunslinger Subclass
 You gain a Gunslinger subclass of your choice. A subclass is a specialization that grants you features at certain Gunslinger levels. For the rest of your career, you gain each of your subclass's features that are of your Gunslinger level or lower.
 
+### High Roller
+_Gamble with Life and Death_
+
+Fortune is a fickle thing—unless you're a High Roller. These Gunslingers are master card sharps and dice throwers that mix their love of risk with their talent for gunplay. High Rollers push their luck until it runs out, then push harder. Why settle for a win when you could bet it all and win big?
+
+### Level 3: Poker Face
+You gain proficiency with all [[Gaming Set]]s and in one of the following skills of your choice: Deception, Insight, or Perception.
+
+### Level 3: Liar's Dice Maneuver
+When you make a damage roll with a Ranged weapon, you can expend one Risk Die as a [[Bonus Action]] and declare it to be a hidden roll. Roll the damage in secret and declare any total you wish. The GM has the option to call your bluff, in which case you reveal the damage dice you rolled. This has different consequences based on whether or not you lied.
+**The GM Calls Your Bluff; You Lied:** The damage you deal is halved.
+**The GM Calls Your Bluff; You Told the Truth:** The damage you deal is doubled.
+**The GM Doesn't Call Your Bluff:** Use the total damage you declared, even if you rolled a different total.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -105,6 +118,9 @@ Whenever you score a [[Critical Hit]] against a Large or smaller creature with
 
 ## Level 6: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 6: Risky Business
+Once per turn when you make an attack roll against an enemy and the roll doesn't have [[Disadvantage]], you can choose to make the roll with [[Disadvantage]]. When you do, you regain one expended Risk Die.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -119,6 +135,9 @@ Your attack rolls with Ranged weapons can score a [[Critical Hit]] on a roll o
 
 ## Level 10: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 10: Risk Taker
+You can use your Maverick Spirit and Skin of Your Teeth maneuvers without expending a Risk Die. When you do so, roll a d6 instead of a Risk Die.
 
 ## Level 11: Overkill
 When you deal damage with a Ranged weapon that doesn't add your ability modifier to the roll, you add your ability modifier nonetheless. If you already add your modifier to the damage roll, the target takes an extra 1d8 damage of the weapon's type.
@@ -135,6 +154,9 @@ Once you use this feature, you can't use it again until you finish a [[Short Re
 
 ## Level 14: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 14: Double or Nothing
+When you score a [[Critical Hit]] using a Ranged weapon, you can gamble for a higher result. Roll a d20. If the roll is a 10 or higher, roll all of the attack's damage dice four times and add them together, instead of only two times as normal for a [[Critical Hit]]. If you roll a 9 or lower on the d20, the [[Critical Hit]] becomes a normal hit.
 
 ## Level 15: Dire Gambit
 Whenever you roll [[Initiative]] or score a [[Critical Hit]], you regain one expended Risk Die.

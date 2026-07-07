@@ -1,4 +1,4 @@
-# WOP Spellslinger Gunslinger
+# Spellslinger Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 
 | Level | Proficiency Bonus | Features                                                 | Risk Dice | Weapon Mastery |
@@ -77,8 +77,7 @@ Maneuvers. You can expend Risk Dice to perform maneuvers. Your maneuver options
 
 Saving Throws. If a maneuver requires a saving throw, the DC equals 8 plus your Dexterity modifier and [[Proficiency Bonus]].
 
-### Maneuver Options
-
+#### Maneuver Options
 Bite the Bullet. As a [[Bonus Action]], you can expend one Risk Die to gain [[Temporary Hit Point]] equal to the number rolled on the die plus your Gunslinger level.
 
 **Blindfire:** You can take a [[Bonus Action]] and expend one Risk Die to gain Blindsight with a range of 30 feet until the end of the current turn.
@@ -94,6 +93,27 @@ Skin of Your Teeth. When a creature you can see hits you with an attack roll, y
 ## Level 3: Gunslinger Subclass
 You gain a Gunslinger subclass of your choice. A subclass is a specialization that grants you features at certain Gunslinger levels. For the rest of your career, you gain each of your subclass's features that are of your Gunslinger level or lower.
 
+### Spellslinger
+_Complement Your Gunslinging with Arcana_
+
+Magic and guns aren't so different—arcane power is like gunpowder, a spell is like a bullet, and you are like a gun, directing your spells with precision at unfortunate targets. Spellslingers mix the disciplines of gunplay and spellcasting, sometimes loading arcane charges with your shots and firing bullets enhanced with lighting, frost, or flame.
+
+### Level 3: Spellcasting
+You complement your bullets with the ability to cast spells.
+**Cantrips:** You know two cantrips of your choice from the Wizard spell list (see that class's section for its list). [[Fire Bolt]] and [[Message]] are recommended. Whenever you gain a Gunslinger level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
+When you reach Gunslinger level 10, you learn another Wizard cantrip of your choice.
+**Spell Slots:** The Spellslinger Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
+**Prepared Spells of Level 1+:** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list. [[Chromatic Orb]], [[Jump]], and [[Shield]] are recommended.
+The number of spells on your list increases as you gain Gunslinger levels, as shown in the Prepared Spells column of the Spellslinger Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Gunslinger, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
+**Changing your Prepared Spells:** Whenever you gain a Gunslinger level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
+**Spellcasting Ability:** Intelligence is your spellcasting ability for your Wizard spells.
+**Spellcasting Focus:** You can use an [[Arcane Focus]] or a Ranged weapon as a [[Spellcasting Focus]] for your Wizard spells.
+
+### Level 3: Bang, You're Dead!
+You can use magic in place of guns.
+**Finger Guns:** You learn the [[Finger Guns]] cantrip.
+**Arcane Shot:** When you hit a target with a [[Finger Guns]] attack, you can expend one Risk Die as a [[Bonus Action]] and add it to the damage roll.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -105,6 +125,9 @@ Whenever you score a [[Critical Hit]] against a Large or smaller creature with
 
 ## Level 6: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 6: Spellshot
+When you take the [[Attack Action]] on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -119,6 +142,12 @@ Your attack rolls with Ranged weapons can score a [[Critical Hit]] on a roll o
 
 ## Level 10: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 10: Counter-Mage
+Your experience in combating spellcasters grants you the following benefits.
+**Abjuration-Breaker:** Whenever you make a ranged attack roll, you temporarily disrupt protective magic affecting the target. For the duration of the attack, the effects of spells targeting the creature, such as [[Mage Armor]], as well as the properties and powers of magic items worn or carried by the creature, are suppressed and don't function. The target of the attack can't take a [[Reaction]] to cast spells such as [[Shield]] in response to the attack or damage.
+**Antimagic Shot:** When you score a [[Critical Hit]] and the target is affected by your Gut Shot feature, it also impedes the target's ability to cast spells. While the projectile is lodged in the target, it can't cast spells or take the [[Magic action]]. Additionally, the target has [[Disadvantage]] on Constitution saving throws it makes to maintain [[Concentration]].
+**Inured to Magic:** When you fail a saving throw against a spell or magical effect, you can take a [[Reaction]] to roll 1d6 and add it to the roll, potentially turning the failure into a success.
 
 ## Level 11: Overkill
 When you deal damage with a Ranged weapon that doesn't add your ability modifier to the roll, you add your ability modifier nonetheless. If you already add your modifier to the damage roll, the target takes an extra 1d8 damage of the weapon's type.
@@ -135,6 +164,9 @@ Once you use this feature, you can't use it again until you finish a [[Short Re
 
 ## Level 14: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 14: Magic Bullet Maneuver
+When you make a spell attack roll, you can expend one Risk Die as a [[Bonus Action]] to substitute the spell attack with a ranged attack using a weapon. Add the Risk Die to the attack roll. On a hit, the attack deals the weapon's normal damage, in addition to the effects of the spell attack roll.
 
 ## Level 15: Dire Gambit
 Whenever you roll [[Initiative]] or score a [[Critical Hit]], you regain one expended Risk Die.

@@ -1,4 +1,4 @@
-# WOP Deadeye Gunslinger
+# Deadeye Gunslinger
 ## The Gunslinger Class: Valda’s Spier of Secrets
 
 | Level | Proficiency Bonus | Features                                                 | Risk Dice | Weapon Mastery |
@@ -77,8 +77,7 @@ Maneuvers. You can expend Risk Dice to perform maneuvers. Your maneuver options
 
 Saving Throws. If a maneuver requires a saving throw, the DC equals 8 plus your Dexterity modifier and [[Proficiency Bonus]].
 
-### Maneuver Options
-
+#### Maneuver Options
 Bite the Bullet. As a [[Bonus Action]], you can expend one Risk Die to gain [[Temporary Hit Point]] equal to the number rolled on the die plus your Gunslinger level.
 
 **Blindfire:** You can take a [[Bonus Action]] and expend one Risk Die to gain Blindsight with a range of 30 feet until the end of the current turn.
@@ -94,6 +93,19 @@ Skin of Your Teeth. When a creature you can see hits you with an attack roll, y
 ## Level 3: Gunslinger Subclass
 You gain a Gunslinger subclass of your choice. A subclass is a specialization that grants you features at certain Gunslinger levels. For the rest of your career, you gain each of your subclass's features that are of your Gunslinger level or lower.
 
+### Deadeye
+_Shoot with Bullseye Precision_
+
+A well-placed bullet is more powerful than a sword, arrow, or spell. Indeed, you believe that every violent conflict should sound like a single loud crack followed by a long silence. Such shots demand perfection, even at range, for when they are done right, they are as deadly for the target as they are stupendous for the audience.
+
+### Level 3: Eagle Eye Maneuver
+Once per turn when you miss with a ranged attack roll, you can expend one Risk Die and add it to the attack roll, potentially causing the attack to hit.
+
+### Level 3: Sharpshooter's Stance
+You have trained to fire from a stable [[Prone]] position, granting the following conditions.
+**Fire While Prone:** You don't have [[Disadvantage]] on ranged attack rolls as a result of the [[Prone]] condition.
+**Quick Stand:** When you have the [[Prone]] condition, you can right yourself and thereby end the condition with only 5 feet of movement.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -105,6 +117,11 @@ Whenever you score a [[Critical Hit]] against a Large or smaller creature with
 
 ## Level 6: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 6: Concealed Position
+You excel at firing from concealment, granting you the following benefits.
+**Camouflage:** You can take the [[Hide action]] even if you aren't [[Heavily Obscured]] or behind [[Three Quarters Cover]] or [[Total Cover]], as long as you have the [[Prone]] condition. The [[Invisible]] condition of this [[Hide action]] ends if you don't have the [[Prone]] condition.
+**Sniper's Nest:** If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -119,6 +136,9 @@ Your attack rolls with Ranged weapons can score a [[Critical Hit]] on a roll o
 
 ## Level 10: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 10: Reposition
+Whenever a creature misses you with an attack roll, you can take a [[Reaction]] to end the [[Prone]] condition on yourself and move up to half your [[Speed]].
 
 ## Level 11: Overkill
 When you deal damage with a Ranged weapon that doesn't add your ability modifier to the roll, you add your ability modifier nonetheless. If you already add your modifier to the damage roll, the target takes an extra 1d8 damage of the weapon's type.
@@ -135,6 +155,9 @@ Once you use this feature, you can't use it again until you finish a [[Short Re
 
 ## Level 14: Subclass Feature
 You gain a feature from your Gunslinger Subclass.
+
+### Level 14: Focused Shot
+When you take the [[Attack action]], you can choose to make only one ranged attack roll using a weapon to make a Focused Shot. You have [[Advantage]] on this attack roll and, on a hit, score a [[Critical Hit]].
 
 ## Level 15: Dire Gambit
 Whenever you roll [[Initiative]] or score a [[Critical Hit]], you regain one expended Risk Die.

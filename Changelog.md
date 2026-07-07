@@ -1,6 +1,12 @@
 # Changelog
 
-- 07-06-2026 T 2054 · [[Roadmap]]
+- 07-07-2026 T 1551 · [[Roadmap]]
+- 07-07-2026 T 1551 · [[White Hat Gunslinger]]
+- 07-07-2026 T 1548 · [[Trick Shot Gunslinger]]
+- 07-07-2026 T 1544 · [[Spellslinger Gunslinger]]
+- 07-07-2026 T 1538 · [[Secret Agent Gunslinger]]
+- 07-07-2026 T 1533 · [[High Roller Gunslinger]]
+- 07-07-2026 T 1529 · [[Deadeye Gunslinger]]
 - 07-06-2026 T 2053 · [[Ignatius Hooligan]]
 - 07-06-2026 T 2052 · [[Delerium Dragon Wyrmling]]
 - 07-06-2026 T 2051 · [[Influenza]]
@@ -94,9 +100,3 @@
 - 07-06-2026 T 2001 · [[Reanimator Apothecary]]
 - 07-06-2026 T 2001 · [[Pathogenist Apothecary]]
 - 07-06-2026 T 2001 · [[Mutagenist Apothecary]]
-- 07-06-2026 T 2001 · [[Exorcist Apothecary]]
-- 07-06-2026 T 2001 · [[Chemist Apothecary]]
-- 07-06-2026 T 2001 · [[Alienist Apothecary]]
-- 07-06-2026 T 2001 · [[The Hour Glass Magic Shop]]
-- 07-06-2026 T 2001 · [[The Dusty Tome Magic Shop]]
-- 07-06-2026 T 2001 · [[The Twisting Nether Magic Shop]]
