@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e62d74b2763e9dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Spells/Level 2/Silence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Silence"
+            }
+          },
+          {
             "id": "d9a592dcd0b9d2bf",
             "type": "leaf",
             "state": {
@@ -209,7 +233,8 @@
               "title": "Steel Hawk Fighter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -447,8 +472,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "e62d74b2763e9dd3",
   "lastOpenFiles": [
+    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Scofflaw Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Samurai Fighter.md",
@@ -474,7 +500,6 @@
     "Rules/Tools/Carpenters Tools.md",
     "Rules/Spells/Level 2/Find Traps.md",
     "Rules/Tools/Calligraphers Supplies.md",
-    "Rules/Core Rules/Proficiency Bonus.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
