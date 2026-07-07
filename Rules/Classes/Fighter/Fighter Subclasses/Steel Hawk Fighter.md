@@ -1,4 +1,4 @@
-# WOP Steel Hawk Fighter
+# Steel Hawk Fighter
 ## The Griffon’s Saddlebag, Book 2
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |

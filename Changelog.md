@@ -1,7 +1,8 @@
 # Changelog
 
-- 07-06-2026 T 2040 · [[Scofflaw Fighter]]
-- 07-06-2026 T 2036 · [[Roadmap]]
+- 07-06-2026 T 2042 · [[Steel Hawk Fighter]]
+- 07-06-2026 T 2041 · [[Roadmap]]
+- 07-06-2026 T 2041 · [[Scofflaw Fighter]]
 - 07-06-2026 T 2036 · [[Samurai Fighter]]
 - 07-06-2026 T 2033 · [[Rune Knight Fighter]]
 - 07-06-2026 T 2027 · [[Smiths Tools]]
@@ -99,4 +100,3 @@
 - 07-06-2026 T 1957 · [[Eldritch Knight Fighter]]
 - 07-06-2026 T 1951 · [[Echo Knight Fighter]]
 - 07-06-2026 T 1941 · [[Find Traps]]
-- 07-06-2026 T 1939 · [[Dungeoneer Fighter]]

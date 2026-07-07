@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Fighter/Fighter Subclasses/Scofflaw Fighter.md",
+                "file": "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scofflaw Fighter"
+              "title": "Steel Hawk Fighter"
             }
           }
         ],
@@ -450,6 +450,7 @@
   },
   "active": "934908baf9733514",
   "lastOpenFiles": [
+    "Rules/Classes/Fighter/Fighter Subclasses/Scofflaw Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Samurai Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",
     "Rules/Tools/Smiths Tools.md",
@@ -475,7 +476,6 @@
     "Rules/Tools/Calligraphers Supplies.md",
     "Rules/Core Rules/Proficiency Bonus.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Hero Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Eldritch Knight Fighter.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",

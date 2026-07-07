@@ -199,7 +199,7 @@ Finished Cantrip Links
 	- [x] Purple Dragon Knight (Bannneret)
 	- [x] Rune Knight
 	- [x] Samurai
-	- [ ] Scoffiaw
+	- [x] Scoffiaw
 	- [ ] Spirit-Fused
 	- [ ] Steel Hawk
 - [ ] Gunslinger
