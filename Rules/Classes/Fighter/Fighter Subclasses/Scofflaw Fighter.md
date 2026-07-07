@@ -1,4 +1,4 @@
-# WOP Scofflaw Fighter
+# Scofflaw Fighter
 ## Humblewood Campaign Setting
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |
@@ -74,6 +74,14 @@ You have a mind for tactics on and off the battlefield. When you fail an [[abili
 
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
+
+### Scofflaw
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+A fighter who hits hard and fights dirty, the Scofflaw balks at the ideals of honor and tradition, doing what they need to survive. Rules are made to be broken, and the Scofflaw extends this logic to their fighting style. Using every trick at their disposal to gain the upper hand against their foes, the Scofflaw cows their enemy into submission, or overwhelms their defenses with a single cheap shot.
+Scofflaws eventually trust their notorious reputation to do much of the work for them, gaining the ability to cause foes to quake with a single threat. Scofflaws are a diverse bunch that run the gamut from graceful yet deadly knaves to bruiser thugs. What ties them together is their belief that there's no such thing as a bad win.
+
+### Bonus Proficiency
+When you choose this Martial Archetype at 3rd level, you gain proficiency in one of the following skills of your choice: [[Deception]], [[Insight]], [[Intimidation]], [[Sleight of Hand]], or [[Stealth]]. Alternatively, you may learn [[Thieves' Cant]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.

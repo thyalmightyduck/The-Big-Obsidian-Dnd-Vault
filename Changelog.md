@@ -1,7 +1,8 @@
 # Changelog
 
+- 07-06-2026 T 2038 · [[Scofflaw Fighter]]
+- 07-06-2026 T 2036 · [[Roadmap]]
 - 07-06-2026 T 2036 · [[Samurai Fighter]]
-- 07-06-2026 T 2033 · [[Roadmap]]
 - 07-06-2026 T 2033 · [[Rune Knight Fighter]]
 - 07-06-2026 T 2027 · [[Smiths Tools]]
 - 07-06-2026 T 2026 · [[Artisans Tools]]
@@ -99,4 +100,3 @@
 - 07-06-2026 T 1951 · [[Echo Knight Fighter]]
 - 07-06-2026 T 1941 · [[Find Traps]]
 - 07-06-2026 T 1939 · [[Dungeoneer Fighter]]
-- 07-06-2026 T 1935 · [[Couatl Herald Fighter]]

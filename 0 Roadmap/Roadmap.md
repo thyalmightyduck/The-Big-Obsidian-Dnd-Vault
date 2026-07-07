@@ -198,7 +198,7 @@ Finished Cantrip Links
 	- [x] Psi Warrior
 	- [x] Purple Dragon Knight (Bannneret)
 	- [x] Rune Knight
-	- [ ] Samurai
+	- [x] Samurai
 	- [ ] Scoffiaw
 	- [ ] Spirit-Fused
 	- [ ] Steel Hawk
