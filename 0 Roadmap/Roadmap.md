@@ -166,7 +166,7 @@ Finished Cantrip Links
 	- [x] Land
 	- [x] Moon
 	- [x] Mutation
-	- [ ] Old Ways
+	- [x] Old Ways
 	- [ ] Petal
 	- [ ] Sea
 	- [x] Shadows

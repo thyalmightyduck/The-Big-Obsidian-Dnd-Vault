@@ -148,12 +148,12 @@ When you reach a Druid level specified in the Circle of the Old Ways Spells tabl
 
 **Circle of the Old Ways Spells:**
 
-| Druid Level | Prepared Spells                                                                                                    |
-| ----------- | ------------------------------------------------------------------------------------------------------------------ |
-| 3           | [[Ancestral Communion]], [[Barkskin]], [[Shield of Faith]], [[Shillelagh]], [[Spike Growth]]                       |
-| 5           | [[Magic Circle]], [[Plant Growth]]                                                                                 |
-| 7           | [[Freedom of Movement]], [[Private Sanctum]]                                                                       |
-| 9           | [[Awaken]], [[Tree Stride]] |
+| Druid Level | Prepared Spells                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| 3           | [[Ancestral Communion]], [[Barkskin]], [[Shield of Faith]], [[Shillelagh]], [[Spike Growth]] |
+| 5           | [[Magic Circle]], [[Plant Growth]]                                                           |
+| 7           | [[Freedom of Movement]], [[Mordenkainens Private Sanctum]]                                   |
+| 9           | [[Awaken]], [[Tree Stride]]                                                                  |
 ### Level 3: Wood Wose
 As a [[Bonus Action]], or as part of casting [[Shillelagh]], you can expend a use of your Wild Shape to suffuse yourself with the power of the primordial woods, gaining the following benefits.
 **Bark Bulwark:** While you aren't wearing armor, your base [[Armor Class]] is 10 plus your Dexterity and Wisdom modifiers.
