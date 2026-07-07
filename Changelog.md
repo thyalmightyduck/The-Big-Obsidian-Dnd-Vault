@@ -1,6 +1,9 @@
 # Changelog
 
-- 07-06-2026 T 1720 · [[Roadmap]]
+- 07-06-2026 T 1744 · [[Circle of the Symbiote Druid]]
+- 07-06-2026 T 1741 · [[Roadmap]]
+- 07-06-2026 T 1741 · [[Circle of the Stars Druid]]
+- 07-06-2026 T 1735 · [[Circle of the Shepherd Druid]]
 - 07-06-2026 T 1720 · [[Conjure Elemental]]
 - 07-06-2026 T 1716 · [[Circle of the Sea Druid]]
 - 07-06-2026 T 1707 · [[Mordenkainens Private Sanctum]]
@@ -97,6 +100,3 @@
 - 06-26-2026 T 1728 · [[School of Transmutation Wizard]]
 - 06-26-2026 T 1726 · [[Shadow Arcane Tradition Wizard]]
 - 06-26-2026 T 1726 · [[Order of Scribes Wizard]]
-- 06-26-2026 T 1724 · [[School of Sangromancy Wizard]]
-- 06-26-2026 T 1723 · [[Sangromancer Wizard]]
-- 06-26-2026 T 1722 · [[Plague Doctor Wizard]]

@@ -170,7 +170,7 @@ Finished Cantrip Links
 	- [ ] Petal
 	- [x] Sea
 	- [x] Shadows
-	- [ ] Shepherd
+	- [x] Shepherd
 	- [x] Spores
 	- [x] Stars
 	- [ ] Symbiote

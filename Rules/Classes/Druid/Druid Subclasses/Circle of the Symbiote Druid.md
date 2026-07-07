@@ -1,4 +1,4 @@
-# WOP Circle of the Symbiote Druid
+# Circle of the Symbiote Druid
 ## Cthulhu by Torchlight:
 
 | Level | [[Proficiency Bonus]] | Features                                        | Wild Shape | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8t  | 9th |
@@ -118,6 +118,38 @@ Objects. Your ability to handle objects is determined by the form's limbs rathe
 
 ## Level 3: Druid Subclass
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
+
+### Circle of the Symbiote
+“_Steel and magic come and go. Nature abides._”
+— _Lerex the Justifier_
+
+Druids typically view themselves as caretakers of the natural world, using their magic to maintain the wild realms. Druids of the Circle of the Symbiote take this a step further. They become part of nature, allowing plants to take root in their flesh and become an integral part of their being.
+
+Druids of this circle are sometimes seen as extremists by their brethren. They treat plants and animals as equals, seeing intelligent creatures as no more worthy of respect or protection than other living things. At their most extreme, these Druids wage war against civilization, calling on fang and vine to topple those who would invade the natural world and subvert it.
+
+These Druids, owing to their close bonds to the natural world, are drawn to face the horrid invaders of the Cthulhu Mythos. They see themselves as the wild's first line of defense against these abominations.
+
+**Symbiote Appearance:**
+
+|D6 Roll or Choose|Symbiote Appearance|
+|---|---|
+|1|Your symbiote wishes to remain hidden. It slides into the folds of your clothes and seeks to avoid detection.|
+|2|To an observer, your symbiote looks like a flower that you have tucked over your ear or into your hair. However, a closer examination reveals roots that have bored through your skull and into your brain.|
+|3|Your symbiote lives just under the surface of your skin, forming a spiderweb pattern of roots and vines. Those who observe you for a time can see these roots shifting and moving.|
+|4|Your symbiote has replaced your hair, leaving you with a flowing mass of vines spilling to your shoulders. During the winter, the tendrils wither to a dull brown color. In the summer, they burst with colorful blooms.|
+|5|Your symbiote has replaced a limb, forming a sinuous tangle of woody roots woven like rope. This limb is as strong and flexible as your original, but it places some strange demands on you. Instead of drinking, you must dip your limb in water to slake your thirst.|
+|6|Your symbiote grows deep within your chest, its vines looping between your organs and reaching to touch beneath your skin. Short, sharp thorns stud parts of your body. To sustain your symbiote, you must skewer chunks of raw flesh on these thorns. Your symbiote draws nutrients from this meat.|
+### Level 3: Circle of the Symbiote Spells
+When you reach a Druid level specified in the Circle of the Symbiote Spells table, you thereafter always have the listed spells prepared.
+
+**Circle of the Symbiote Spells:**
+
+| Druid Level | Circle Spells                                                 |
+| ----------- | ------------------------------------------------------------- |
+| 3           | [[Barkskin]], [[Entangle]], [[Guidance]]                      |
+| 5           | [[Plant Growth]]                                              |
+| 7           | [[Hallucinatory Terrain]]                                     |
+| 9           | [[Tree Stride]] |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.

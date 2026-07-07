@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "144ee6b2f1b77f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Roadmap/Roadmap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
+            }
+          },
+          {
             "id": "d9a592dcd0b9d2bf",
             "type": "leaf",
             "state": {
@@ -167,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Petal Druid.md",
+                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Symbiote Druid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -182,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Circle of the Petal Druid"
+              "title": "Circle of the Symbiote Druid"
             }
           },
           {
@@ -210,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -448,19 +472,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3cb053736b5f5809",
+  "active": "934908baf9733514",
   "lastOpenFiles": [
-    "Rules/Classes/Druid/Druid Subclasses/Circle of the Sea Druid.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Stars Druid.md",
+    "Rules/Classes/Druid/Druid.md",
     "Rules/Spells/Level 5/Conjure Elemental.md",
-    "Rules/Spells/Level 4/Mordenkainens Private Sanctum.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Shepherd Druid.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Sea Druid.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Petal Druid.md",
+    "Rules/Spells/Level 4/Mordenkainens Private Sanctum.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Old Ways Druid.md",
     "Rules/Spells/Level 1/Ancestral Communion.md",
     "Rules/Spells/Level 4/Fount of Moonlight.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Moon Druid.md",
-    "Rules/Classes/Druid/Druid.md",
     "2 Characters/Ignatius Hooligan.md",
-    "0 Roadmap/Roadmap.md",
     "Tutorial",
     "Empty",
     "Rules/Spells/Level 5/Wall of Stone.md",
@@ -478,8 +504,6 @@
     "Rules/Spells/Level 4/Giant Insect.md",
     "Rules/Spells/Cantrips/Swarm.md",
     "Rules/Spells/Cantrips/Blade Ward.md",
-    "5 Monster Stat Blocks/Humanoid/Abjurer Wizard Monster.md",
-    "5 Monster Stat Blocks/Humanoid/Abjurer Wizard.md",
     "Pictures/Monsters/Zombie BGR PNG.png",
     "Pictures/Monsters/Zombie BGR PNG.png.opdownload",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png",
