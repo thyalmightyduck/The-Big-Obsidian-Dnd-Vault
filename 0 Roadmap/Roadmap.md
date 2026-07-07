@@ -4,9 +4,6 @@ Finished Cantrip Links
 2 person dnd one shots 
 # Recent Added 
  Plugins
-- Checklist
-- Vault Change Log
-- Text Format
 - Git
 # Main Tasks
 ## Classes
