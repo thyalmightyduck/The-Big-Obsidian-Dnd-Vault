@@ -1,4 +1,4 @@
-# WOP Circle of the Sea Druid
+# Circle of the Sea Druid
 ## Players Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                        | Wild Shape | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8t  | 9th |
@@ -119,6 +119,27 @@ Objects. Your ability to handle objects is determined by the form's limbs rathe
 ## Level 3: Druid Subclass
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
 
+### Circle of the Sea
+_Become One with Tides and Storms_
+
+Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
+
+### Level 3: Circle of the Sea Spells
+When you reach a Druid level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.
+
+**Circle of the Sea Spells:**
+
+| Druid Level | Prepared Spells                                                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3rd         | [[Fog Cloud]], [[Gust of Wind]], [[Ray of Frost]], [[Shatter]], [[Thunderwave]]                                                              |
+| 5th         | [[Lightning Bolt]], [[Water Breathing]]                                                                                                      |
+| 7th         | [[Control Water]], [[Ice Storm]]                                                                                                             |
+| 9th         | [[Conjure Elemental]], [[Hold Monster]] |
+### Level 3: Wrath of the Sea
+As a [[Bonus Action]], you can expend a use of your Wild Shape to manifest a 5-foot [[Emanation]] that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the [[Incapacitated]] condition.
+
+When you manifest the [[Emanation]] and as a [[Bonus Action]] on your subsequent turns, you can choose another creature you can see in the [[Emanation]]. The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
@@ -130,6 +151,10 @@ In addition, you can expend one use of Wild Shape (no action required) to give y
 ## Level 6: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 6: Aquatic Affinity
+The size of the [[Emanation]] created by your Wrath of the Sea increases to 10 feet.
+
+In addition, you gain a [[Swim Speed]] equal to your [[Speed]].
 
 ## Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
@@ -144,11 +169,21 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 ## Level 10: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 10: Stormborn
+Your Wrath of the Sea confers two more benefits while active, as detailed below.
+**Flight:** You gain a [[Fly Speed]] equal to your [[Speed]].
+**Resistance:** You have [[Resistance]] to Cold, Lightning, and Thunder damage.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Druid Subclass.
+
+### Level 14: Oceanic Gift
+Instead of manifesting the [[Emanation]] of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the [[Emanation]] and uses your spell save DC and Wisdom modifier for it.
+
+In addition, you can manifest the [[Emanation]] around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.
 
 ## Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.

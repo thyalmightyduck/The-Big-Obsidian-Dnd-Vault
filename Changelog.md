@@ -1,6 +1,8 @@
 # Changelog
 
-- 07-06-2026 T 1708 · [[Roadmap]]
+- 07-06-2026 T 1720 · [[Roadmap]]
+- 07-06-2026 T 1720 · [[Conjure Elemental]]
+- 07-06-2026 T 1716 · [[Circle of the Sea Druid]]
 - 07-06-2026 T 1707 · [[Mordenkainens Private Sanctum]]
 - 07-06-2026 T 1705 · [[Circle of the Old Ways Druid]]
 - 07-06-2026 T 1704 · [[Ancestral Communion]]
@@ -98,5 +100,3 @@
 - 06-26-2026 T 1724 · [[School of Sangromancy Wizard]]
 - 06-26-2026 T 1723 · [[Sangromancer Wizard]]
 - 06-26-2026 T 1722 · [[Plague Doctor Wizard]]
-- 06-26-2026 T 1722 · [[Philosophy Wizard]]
-- 06-26-2026 T 1720 · [[Philosopher Wizard]]

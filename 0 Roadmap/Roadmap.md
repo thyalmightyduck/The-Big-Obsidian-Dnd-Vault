@@ -168,7 +168,7 @@ Finished Cantrip Links
 	- [x] Mutation
 	- [x] Old Ways
 	- [ ] Petal
-	- [ ] Sea
+	- [x] Sea
 	- [x] Shadows
 	- [ ] Shepherd
 	- [x] Spores
