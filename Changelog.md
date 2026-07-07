@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-06-2026 T 2033 · [[Samurai Fighter]]
+- 07-06-2026 T 2036 · [[Samurai Fighter]]
 - 07-06-2026 T 2033 · [[Roadmap]]
 - 07-06-2026 T 2033 · [[Rune Knight Fighter]]
 - 07-06-2026 T 2027 · [[Smiths Tools]]
