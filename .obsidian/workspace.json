@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Symbiote Druid.md",
+                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Unbroken Druid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Circle of the Symbiote Druid"
+              "title": "Circle of the Unbroken Druid"
             }
           },
           {
@@ -474,6 +474,7 @@
   },
   "active": "934908baf9733514",
   "lastOpenFiles": [
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Symbiote Druid.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Stars Druid.md",
     "Rules/Classes/Druid/Druid.md",
     "Rules/Spells/Level 5/Conjure Elemental.md",
@@ -503,7 +504,6 @@
     "Pictures/Monsters/Giaint Insect Monster BGR PNG.png.opdownload",
     "Rules/Spells/Level 4/Giant Insect.md",
     "Rules/Spells/Cantrips/Swarm.md",
-    "Rules/Spells/Cantrips/Blade Ward.md",
     "Pictures/Monsters/Zombie BGR PNG.png",
     "Pictures/Monsters/Zombie BGR PNG.png.opdownload",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png",

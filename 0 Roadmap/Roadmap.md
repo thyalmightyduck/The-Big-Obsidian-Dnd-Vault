@@ -173,7 +173,7 @@ Finished Cantrip Links
 	- [x] Shepherd
 	- [x] Spores
 	- [x] Stars
-	- [ ] Symbiote
+	- [x] Symbiote
 	- [ ] Unbroken
 	- [ ] Warden
 	- [ ] Wicker

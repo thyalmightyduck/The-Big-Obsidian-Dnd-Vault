@@ -144,12 +144,16 @@ When you reach a Druid level specified in the Circle of the Symbiote Spells tabl
 
 **Circle of the Symbiote Spells:**
 
-| Druid Level | Circle Spells                                                 |
-| ----------- | ------------------------------------------------------------- |
-| 3           | [[Barkskin]], [[Entangle]], [[Guidance]]                      |
-| 5           | [[Plant Growth]]                                              |
-| 7           | [[Hallucinatory Terrain]]                                     |
-| 9           | [[Tree Stride]] |
+| Druid Level | Circle Spells                            |
+| ----------- | ---------------------------------------- |
+| 3           | [[Barkskin]], [[Entangle]], [[Guidance]] |
+| 5           | [[Plant Growth]]                         |
+| 7           | [[Hallucinatory Terrain]]                |
+| 9           | [[Tree Stride]]                          |
+### Level 3: Primal Symbiote
+Vines and roots grow across your body, forming a symbiotic network. As it draws physical and magical nourishment from you, the symbiote grants you a number of benefits.
+**Fortifying Presence:** You have [[Advantage]] on Constitution saving throws that you make to maintain [[Concentration]].
+**Symbiotic Transformation:** As a [[Bonus Action]], you can expend one use of Wild Shape to allow your symbiote to transform you into a plant-like brute as fibrous plates and vines cover your skin. For 1 minute, you gain a +2 bonus to AC, you gain a number of [[Temporary Hit Points]] equal to 2 plus half your Druid level (round down) at the start of each of your turns, and you gain [[Advantage]] on Dexterity (Stealth) checks.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
@@ -162,6 +166,8 @@ In addition, you can expend one use of Wild Shape (no action required) to give y
 ## Level 6: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 6: Symbiotic Reflexes
+Your plant symbiote empowers you. You always have the [[Haste]] spell prepared. Once per active Symbiotic Transformation, you can cast [[Haste]] on yourself without a spell slot or components.
 
 ## Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
@@ -176,11 +182,19 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 ## Level 10: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 10: Survival Instinct
+While you are in mortal peril, your symbiote can attempt to move you to safety. While you have the [[Incapacitated]] condition, you can take the [[Dash Action]], [[Disengage Action]], or [[Dodge action]], and you retain the benefits of the [[Dodge action]] while you have the [[Incapacitated]] condition.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Druid Subclass.
+
+### Level 14: Surge of Sustenance
+As a [[Magic Action]], you can expend one use of Wild Shape to grant the benefits of finishing a [[Short Rest]] to yourself or a creature you touch.
+
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 
 ## Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.

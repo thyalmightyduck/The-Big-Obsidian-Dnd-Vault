@@ -1,7 +1,7 @@
 # Changelog
 
-- 07-06-2026 T 1744 · [[Circle of the Symbiote Druid]]
-- 07-06-2026 T 1741 · [[Roadmap]]
+- 07-06-2026 T 1747 · [[Roadmap]]
+- 07-06-2026 T 1747 · [[Circle of the Symbiote Druid]]
 - 07-06-2026 T 1741 · [[Circle of the Stars Druid]]
 - 07-06-2026 T 1735 · [[Circle of the Shepherd Druid]]
 - 07-06-2026 T 1720 · [[Conjure Elemental]]
