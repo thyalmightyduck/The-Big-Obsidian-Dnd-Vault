@@ -180,7 +180,7 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom 
 | [[Scale Mail]]              | 1   | 40 lbs   | 50 GP    | Yes    |                                               |
 | [[Mace]]                    | 1   | 4 lbs    | 5 GP     | Yes    |                                               |
 | [[Acid]]                    | 4   | 1 lbs ea | 25 GP ea | Yes    |                                               |
-| [[Alchemist's Supplies]]    | 1   | 8 lbs    | 50 Gp    |        |                                               |
+| [[Alchemists Supplies]]    | 1   | 8 lbs    | 50 Gp    |        |                                               |
 | Hand [[Mirror]]             | 0   |          |          |        |                                               |
 | [[Shield]] (Bloody Buckler) | 1   |          |          | Yes    |                                               |
 | Bearie                      | 1   | 10 lbs   |          | Yes    | 1d8+Str Bludg 1d6+Dex Piercing                |

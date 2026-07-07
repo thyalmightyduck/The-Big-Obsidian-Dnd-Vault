@@ -1,4 +1,4 @@
-# WOP Hero Fighter
+# Hero Fighter
 ## Cthulhu by Torchlight
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |
@@ -75,6 +75,19 @@ You have a mind for tactics on and off the battlefield. When you fail an [[abili
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
 
+### Hero
+“_In times as dark as these, all it takes is one spark to bring back the light._”
+— _Hector Arghast, Champion of Ten Banners_
+Entities of the Cthulhu Mythos are terrifyingly implacable and utterly inhuman. While those traits often make such creatures unbeatable, their inability to understand humanity's capabilities can prove their undoing. Heroes are Fighters who bring out the best in humanity. They are the beacons of hope rallying commoners against a shared threat. While their blades are deadly to their enemies, their words are encouragement to their allies, and their unflappable demeanor allows their companions to find the courage and strength they never knew they had.
+
+### Level 3: Bolstering Presence
+At the start of your turn, you can bolster your allies (no action required). Creatures of your choice within 30 feet of you that can see or hear you regain a number of [[Hit Point]]s equal to 2d6 plus half your Fighter level (rounded down). You can't use this feature if you have the [[Incapacitated]] condition.
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+
+### Level 3: Heroic Effort
+You can seize the moment and turn the tide. You can take a [[Reaction]] at the end of a creature's turn to move up to your [[Speed]] and make one attack with a weapon or [[Unarmed Strike]]. Then one ally of your choice within 30 feet of you that can see or hear you can also move up to its [[Speed]] and make one attack with a weapon or [[Unarmed Strike]] using its [[Reaction]].
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses of it when you finish a [[Long Rest]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
@@ -90,6 +103,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 7: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 7: Lead by Example
+If you are [[Charmed]], [[Frightened]], or [[Poisoned]] when you use your Heroic Effort feature, the condition ends on you. In addition, if the ally you target with Heroic Effort is [[Charmed]], [[Frightened]], or [[Poisoned]], the condition ends on it.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -103,6 +119,9 @@ When you attack with a weapon whose mastery property you can use, you can replac
 
 ## Level 10: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 10: Inspiring Presence
+When you use your Bolstering Presence feature, each of the chosen creatures gains a bonus to [[D20 Test]]s and damage rolls equal to your Charisma modifier (minimum of +1) until the end of your next turn.
 
 ## Level 11: Two Extra Attacks
 You can attack three times instead of once whenever you take the [[Attack action]] on your turn.
@@ -124,6 +143,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 15: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 15: Durable Presence
+You now regain all expended uses of your Bolstering Presence feature when you finish a [[Short Rest]] or [[Long Rest]].
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -139,6 +161,9 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and
 
 ## Level 18: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 18: Mighty Effort
+When you use your Heroic Effort feature, you can now target up to two additional creatures, instead of only one.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Combat Prowess]] is recommended.

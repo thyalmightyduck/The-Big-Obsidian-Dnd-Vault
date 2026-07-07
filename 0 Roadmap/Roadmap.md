@@ -190,10 +190,10 @@ Finished Cantrip Links
 	- [x] Commander
 	- [x] Couatl Herald
 	- [x] Dungeoneer
-	- [ ] Echo Knight
-	- [ ] Eldritch Knight
-	- [ ] Hero
-	- [ ] Living Crucible
+	- [x] Echo Knight
+	- [x] Eldritch Knight
+	- [x] Hero
+	- [x] Living Crucible
 	- [ ] Night Watcher
 	- [ ] Psi Warrior
 	- [ ] Purple Dragon Knight (Bannneret)

@@ -1,4 +1,4 @@
-You've never known the luxury of always having the gear you need, but you have more than learned to make do. If you possess [[Artisan's Tools]] with which you have proficiency, and if you have access to appropriate raw materials and any additional necessary equipment (as the GM determines), you can use a [Short Rest](https://5e.tools/variantrules.html#short%20rest_xphb) to craft any one nonmagical item worth 10 GP or less, including:
+You've never known the luxury of always having the gear you need, but you have more than learned to make do. If you possess [[Artisans Tools]] with which you have proficiency, and if you have access to appropriate raw materials and any additional necessary equipment (as the GM determines), you can use a [Short Rest](https://5e.tools/variantrules.html#short%20rest_xphb) to craft any one nonmagical item worth 10 GP or less, including:
 
 - [Adventuring gear](https://5e.tools/items.html#blankhash,flsttype:adventuring%20gear=1)
 - [A weapon or shield](https://5e.tools/items.html#blankhash,flsttype:simple%20weapon=1~martial%20weapon=1~shield=1,flstcost:min=&0~max=&1000,flstmiscellaneous:mundane=1~reprinted=2)

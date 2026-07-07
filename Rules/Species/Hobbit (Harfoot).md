@@ -35,4 +35,4 @@ Backgrounds. Players choosing a background receive a brief personal history, tw
 - [[Tookish Blood]]
 - [[Witty Gentlehobbit]]
 
-Skilful with Tools. You have proficiency with the [[Artisan's Tools]] of your choice: [[herbalism kit]], [[mason's tools]], or [[weaver's tools]].
+Skilful with Tools. You have proficiency with the [[Artisans Tools]] of your choice: [[herbalism kit]], [[mason's tools]], or [[weaver's tools]].

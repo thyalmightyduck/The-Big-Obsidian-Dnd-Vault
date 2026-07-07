@@ -36,9 +36,9 @@
 
 **Weapon Proficiencies:** [[Simple weapons]] and [[Martial Weapons]] that have the Light property
 
-**Tool Proficiencies:** Choose one type of [[Artisan's Tools]] or [[Musical Instrument]]
+**Tool Proficiencies:** Choose one type of [[Artisans Tools]] or [[Musical Instrument]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Spear]], 5 [[Dagger]]s, [[Artisan's Tools]] or [[Musical Instrument]] chosen for the tool proficiency above, [[Explorer's Pack]], and 11 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Spear]], 5 [[Dagger]]s, [[Artisans Tools]] or [[Musical Instrument]] chosen for the tool proficiency above, [[Explorer's Pack]], and 11 GP; or (B) 50 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.

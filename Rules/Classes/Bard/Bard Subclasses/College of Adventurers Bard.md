@@ -168,7 +168,7 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 You gain a feature from your Bard Subclass.
 
 ### Level 6: Well-Rounded
-You gain proficiency with one type of [[Artisan's Tools]] of your choice, you gain proficiency in one skill of your choice, and you know one language of your choice.
+You gain proficiency with one type of [[Artisans Tools]] of your choice, you gain proficiency in one skill of your choice, and you know one language of your choice.
 
 ## Level 7: Countercharm
 You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a [[saving throw]] against an effect that applies the [[Charmed]] or [[Frightened]] condition, you can take a [[Reaction]] to cause the save to be rerolled, and the new roll has [[Advantage]].

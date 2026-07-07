@@ -14,9 +14,9 @@ Size. Humans vary widely in height and build, from barely 5 feet to well over 6
 
 Languages. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
-Artisan's Intuition. When you make an Arcana check or an [[ability check]] involving [[Artisan's Tools]], you can roll a d4 and add the number rolled to the [[ability check]].
+Artisan's Intuition. When you make an Arcana check or an [[ability check]] involving [[Artisans Tools]], you can roll a d4 and add the number rolled to the [[ability check]].
 
-Maker's Gift. You gain proficiency with one type of [[Artisan's Tools]] of your choice.
+Maker's Gift. You gain proficiency with one type of [[Artisans Tools]] of your choice.
 
 Spellsmith. You know the [mending](https://5e.tools/spells.html#mending_phb) cantrip. You can also cast the [magic weapon](https://5e.tools/spells.html#magic%20weapon_phb) spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require [concentration](https://5e.tools/conditionsdiseases.html#concentration_phb). Once you cast the spell with this trait, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for these spells.
 

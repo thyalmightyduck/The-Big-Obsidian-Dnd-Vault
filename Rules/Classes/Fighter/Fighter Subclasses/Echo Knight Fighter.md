@@ -108,6 +108,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 7: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Echo Avatar
+_7th-level Echo Knight feature_
+You can temporarily transfer your consciousness to your echo. As an action, you can see through your echo's eyes and hear through its ears. During this time, you are [[deafened]] and [[blinded]]. You can sustain this effect for up to 10 minutes, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to 1,000 feet away from you without being destroyed.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -121,6 +125,11 @@ When you attack with a weapon whose mastery property you can use, you can replac
 
 ## Level 10: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Shadow Martyr
+_10th-level Echo Knight feature_
+You can make your echo throw itself in front of an attack directed at another creature that you can see. Before the attack roll is made, you can use your reaction to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the reaction is instead made against your echo.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Level 11: Two Extra Attacks
 You can attack three times instead of once whenever you take the [[Attack action]] on your turn.
@@ -142,6 +151,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 15: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Reclaim Potential
+_15th-level Echo Knight feature_
+You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of temporary hit points equal to 2d6 + your Constitution modifier, provided you don't already have temporary hit points.
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -157,6 +171,11 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and
 
 ## Level 18: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Legion of One
+_18th-level Echo Knight feature_
+You can use a bonus action to create two echoes with your Manifest Echo feature, and these echoes can coexist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
+In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Combat Prowess]] is recommended.

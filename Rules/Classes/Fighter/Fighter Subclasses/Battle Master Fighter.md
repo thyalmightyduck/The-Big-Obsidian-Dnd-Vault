@@ -89,7 +89,7 @@ You gain an additional Superiority Die when you reach Fighter levels 7 (five dic
 **Saving Throws:** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and [[Proficiency Bonus]].
 
 ### Level 3: Student of War
-You gain proficiency with one type of [[Artisan's Tools]] of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
+You gain proficiency with one type of [[Artisans Tools]] of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
 
 ### Level 3: Maneuver Options
 The maneuvers are presented here in alphabetical order.

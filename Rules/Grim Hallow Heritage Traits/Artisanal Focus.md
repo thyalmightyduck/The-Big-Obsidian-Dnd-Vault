@@ -1,4 +1,4 @@
-You revere the crafting skill of ancestors long dead. Choose an [[Artisan's Tools]]. You have proficiency with that tool.
+You revere the crafting skill of ancestors long dead. Choose an [[Artisans Tools]]. You have proficiency with that tool.
 
 Artisanal Expertise. If you take this trait multiple times, you gain proficiency with a new tool each time.
 

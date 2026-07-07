@@ -33,7 +33,7 @@
 
 **Weapon Proficiencies:** [[Simple weapons]] and firearms
 
-**Tool Proficiencies:** [[thieves tools]], [[tinker's tools]], and one type of [[Artisan's Tools]] of your choice
+**Tool Proficiencies:** [[thieves tools]], [[tinker's tools]], and one type of [[Artisans Tools]] of your choice
 
 **Armor Training:** [[Light armor]] and [[Medium armor]] and [[Shields]]
 
@@ -55,7 +55,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ## Level 1: Spellcasting
 You have learned how to channel magical energy through objects. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [[Artificer spell list]] later in the class's description.
 
-**Tools Required:** You produce your Artificer spells through tools. You can use [[Thieves Tools]], [[Tinker's Tools]], or another kind of [[Artisan's Tools]] with which you have [[proficiency]] as a [[Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
+**Tools Required:** You produce your Artificer spells through tools. You can use [[Thieves Tools]], [[Tinker's Tools]], or another kind of [[Artisans Tools]] with which you have [[proficiency]] as a [[Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
 
 **Cantrips:** You know two Artificer cantrips of your choice. [[Acid Splash]] and [[Prestidigitation]] are recommended.
 
@@ -135,7 +135,7 @@ Duration. A magic item created by this feature functions as the normal magic it
 
 If an item that you created with this feature is a container, such as a [[Bag of Holding]], and it vanishes, its contents harmlessly appear in and around its space.
 
-[[Spellcasting Focus]]. You can use any Wand or Weapon created by this feature as a [[Spellcasting Focus]] in lieu of using a set of [[Artisan's Tools]].
+[[Spellcasting Focus]]. You can use any Wand or Weapon created by this feature as a [[Spellcasting Focus]] in lieu of using a set of [[Artisans Tools]].
 
 #### Crafting More Magic Items
 
@@ -230,7 +230,7 @@ Armies require protection, and someone has to put things back together if defens
 Battle Smiths played a key role in House Cannith's work on battle constructs and the original [[warforged]], and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.
 
 ### Tool [[Proficiency]]
-When you adopt this specialization at 3rd level, you gain [[proficiency]] with [[smith's tools]]. If you already have this [[proficiency]], you gain [[proficiency]] with one other type of [[artisan's tools]] of your choice.
+When you adopt this specialization at 3rd level, you gain [[proficiency]] with [[smith's tools]]. If you already have this [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
 
 ### Battle Smith Spells
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.

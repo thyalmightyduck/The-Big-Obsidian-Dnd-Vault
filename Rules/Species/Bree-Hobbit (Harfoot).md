@@ -30,7 +30,7 @@ This Race Has Multiple Subraces, As Listed Below:
 - [[Strange as News from Bree]]
 - [[The Art of Smoking]]
 - [[Tough as Old Tree-Roots]]
-**Skilful with Tools:** You have proficiency with the [[Artisan's Tools]] of your choice: [[herbalism kit]], [[mason's tools]], or [[weaver's tools]].
+**Skilful with Tools:** You have proficiency with the [[Artisans Tools]] of your choice: [[herbalism kit]], [[mason's tools]], or [[weaver's tools]].
 # Info 
 ## The Lord of the Rings Roleplaying:
 There are many families of Hobbits spread among the villages of the Bree-land, especially in Staddle. These Bree-hobbits are of course closely related to their neighbours in the [Shire](https://5e.tools/book.html#tlotrr,8,the%20shire,0)–indeed, to most Big Folk, it is impossible to tell the difference (unless one makes the mistake of asking one of the Hobbits, in which case get comfortable—you are in for a long talk about family trees, obscure legal issues, and exceedingly minute cultural differences).

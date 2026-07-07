@@ -1,6 +1,6 @@
 Owner: [[Zeynab Jung]]
 - Vial _(1 gp)_  
-- [[Alchemist's Supplies]] _(50 gp)_  
+- [[Alchemists Supplies]] _(50 gp)_  
 - Identify a Magic Item _(100 gp)_  
 - Totem _(1 gp)_  
 - Case, Map or Scroll _(1 gp)_  
@@ -13,7 +13,7 @@ Owner: [[Zeynab Jung]]
 - Staff _(5 gp)_  
 - Bottle, Glass _(2 gp)_  
 - Lute _(35 gp)_  
-- [[Alchemist's Supplies]] _(50 gp)_  
+- [[Alchemists Supplies]] _(50 gp)_  
 - Vial _(1 gp)_  
 - Lyre _(30 gp)_  
 - Identify a Magic Item _(100 gp)_  

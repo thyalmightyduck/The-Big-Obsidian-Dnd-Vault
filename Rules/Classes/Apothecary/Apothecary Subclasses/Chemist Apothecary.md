@@ -33,7 +33,7 @@
 
 **Weapon Proficiencies:** [[Simple weapons]], [[Shortsword]]s, and [[hand crossbow]]s
 
-**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[poisoner's kit]], [[herbalism kit]], or [[Alchemist's Supplies]].
+**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[poisoner's kit]], [[herbalism kit]], or [[Alchemists Supplies]].
 
 **Armor Training:** [[Light armor]] and [[Medium armor]]
 
@@ -88,7 +88,7 @@ Your choice grants you additional proficiencies and an expanded spell list at 1s
 A Chemist is a studied scientist whose advanced research in to chemical compounds has granted them the ability to terrorize their enemies with alchemical explosions, devastating gasses, and other horrific concoctions. Chemists love testing their new compounds in the field, and are always keen to advance their study and research further, finding new combinations to combust their foes with.
 
 ### Level 1: Chemical Compound
-You gain proficiency in [[alchemist's supplies]] if you do not already have it. You also learn the [[fire bolt]] cantrip and one additional evocation cantrip of your choice from the wizard spell list. These cantrips count as apothecary cantrips for you, but do not count against your cantrips known.
+You gain proficiency in [[Alchemists Supplies]] if you do not already have it. You also learn the [[fire bolt]] cantrip and one additional evocation cantrip of your choice from the wizard spell list. These cantrips count as apothecary cantrips for you, but do not count against your cantrips known.
 
 ### Level 1: Chemist Spells
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Chemist Spells table. These spells count as apothecary spells for you, but they don't count against the number of apothecary spells you prepare

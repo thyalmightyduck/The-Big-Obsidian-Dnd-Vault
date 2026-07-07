@@ -14,7 +14,7 @@ PlotHook: They have been replaced by a doppelganger, and their family thinks the
 - Staff _(5 gp)_  
 - Sprig of Mistletoe _(1 gp)_  
 - Case, Map or Scroll _(1 gp)_  
-- [[Alchemist's Supplies]] _(50 gp)_  
+- [[Alchemists Supplies]] _(50 gp)_  
 - [[Calligrapher's Supplies]] _(10 gp)_  
 - Lyre _(30 gp)_
 

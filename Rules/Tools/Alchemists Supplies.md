@@ -1,4 +1,4 @@
-_[[Artisan's Tools]]_ 
+_[[Artisans Tools]]_ 
 _50 GP, 8 lb._
 - - - 
 - Ability: Intelligence

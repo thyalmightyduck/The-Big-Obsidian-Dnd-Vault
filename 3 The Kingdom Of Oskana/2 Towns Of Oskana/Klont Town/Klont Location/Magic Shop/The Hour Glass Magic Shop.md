@@ -12,7 +12,7 @@ PlotHook: Found a strange trapdoor in their basement
 - Ink Pen _(2 cp)_  
 - Pouch _(5 sp)_  
 - Rod _(10 gp)_  
-- [[Alchemist's Supplies]] _(50 gp)_  
+- [[Alchemists Supplies]] _(50 gp)_  
 - [[Paper]] (one sheet) _(2 sp)_  
 - [[Calligrapher's Supplies]] _(10 gp)_  
 - Case, Map or Scroll _(1 gp)_  

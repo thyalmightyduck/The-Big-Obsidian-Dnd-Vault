@@ -33,7 +33,7 @@
 
 **Weapon Proficiencies:** [[Simple weapons]], [[Shortsword]]s, and [[hand crossbow]]s
 
-**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[poisoner's kit]], [[herbalism kit]], or [[Alchemist's Supplies]].
+**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[poisoner's kit]], [[herbalism kit]], or [[Alchemists Supplies]].
 
 **Armor Training:** [[Light armor]] and [[Medium armor]]
 

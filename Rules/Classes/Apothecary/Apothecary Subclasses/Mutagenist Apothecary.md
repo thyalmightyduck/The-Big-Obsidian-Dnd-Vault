@@ -33,7 +33,7 @@
 
 **Weapon Proficiencies:** [[Simple weapons]], [[Shortsword]]s, and [[hand crossbow]]s
 
-**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[poisoner's kit]], [[herbalism kit]], or [[Alchemist's Supplies]].
+**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[poisoner's kit]], [[herbalism kit]], or [[Alchemists Supplies]].
 
 **Armor Training:** [[Light armor]] and [[Medium armor]]
 
@@ -88,7 +88,7 @@ Your choice grants you additional proficiencies and an expanded spell list at 1s
 Mutagenists have researched a serum that they inject to transform into a monstrous form. They use themselves as the conduit for this power and hurl themselves towards their enemies as a hulking abomination. They spend their lives researching and discovering new ways to improve and modify the serum in hopes of becoming the perfect form.
 
 ### Level 1: Natural Philosophy
-You gain proficiency with [[alchemist's supplies]] and either the [[herbalism kit]] or [[poisoner's kit]]. You also gain proficiency in two additional languages and the Nature skill. If you already have this proficiency, you gain proficiency with another skill of your choice.
+You gain proficiency with [[Alchemists Supplies]] and either the [[herbalism kit]] or [[poisoner's kit]]. You also gain proficiency in two additional languages and the Nature skill. If you already have this proficiency, you gain proficiency with another skill of your choice.
 
 ### Level 1: Mutagenist Spells
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Mutagenist Spells table. These spells count as apothecary spells for you, but they don't count against the number of apothecary spells you prepare.

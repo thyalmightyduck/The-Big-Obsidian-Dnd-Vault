@@ -97,7 +97,7 @@ The Experimental Implants table offers examples of different forms your implants
 ^Implant
 
 ### Level 3: Alchemical Experiments
-You gain a set of [[Alchemist's Supplies]], and you have proficiency with it. Additionally, you can use [[Alchemist's Supplies]] instead of an [[Herbalism Kit]] to craft [[Potion of Healing]].
+You gain a set of [[Alchemists Supplies]], and you have proficiency with it. Additionally, you can use [[Alchemists Supplies]] instead of an [[Herbalism Kit]] to craft [[Potion of Healing]].
 
 ### Level 3: Volatile Serum
 You have an implanted series of syringes and reservoirs that hold alchemical serums and deploy them into your body. When you enter your Rage, choose one of your serums to inject and gain its benefits.

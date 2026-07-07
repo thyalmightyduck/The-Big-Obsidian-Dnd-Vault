@@ -88,7 +88,7 @@ When you activate your Rage, your countenance distorts and your body swells. Cre
 - You count as one size larger when determining the success or failure of a Grapple, and when you make an [[Unarmed Strike]], your reach is 5 feet greater than normal.
 
 ### Level 3: Mask of Civility
-You are proficient in one of the following skills of your choice: [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Persuasion]], or [[Religion]]. In addition, you gain [[proficiency]] with one type of [[Artisan's Tools]] of your choice or you know one language of your choice.
+You are proficient in one of the following skills of your choice: [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Persuasion]], or [[Religion]]. In addition, you gain [[proficiency]] with one type of [[Artisans Tools]] of your choice or you know one language of your choice.
 
 ## Level 3: Primal Knowledge
 You gain [[proficiency]] in another [[skill]] of your choice from the [[skill]] list available to Barbarians at level 1.
