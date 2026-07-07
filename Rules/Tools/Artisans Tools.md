@@ -17,7 +17,7 @@ Multiple variations of this item exist, as listed below:
 - [[Masons Tools]]
 - [[Painters Supplies]]
 - [[Potters Tools]]
-- [[Smith's Tools]]
+- [[Smiths Tools]]
 - [[Tinkers Tools]]
 - [[Weavers Tools]]
 - [[Woodcarvers Tools]]

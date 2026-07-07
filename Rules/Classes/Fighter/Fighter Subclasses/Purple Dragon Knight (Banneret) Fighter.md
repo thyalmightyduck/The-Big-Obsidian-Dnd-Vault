@@ -1,4 +1,4 @@
-# WOP Purple Dragon Knight (Banneret) Fighter
+# Purple Dragon Knight (Banneret) Fighter
 ## Sword Coast Adventurer’s Guide
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |
@@ -75,6 +75,20 @@ You have a mind for tactics on and off the battlefield. When you fail an [[abili
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
 
+### Purple Dragon Knight (Banneret)
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+Purple Dragon Knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond the kingdom's borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to guide them in defeating evildoers.
+A Purple Dragon Knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.
+A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight's actions can awaken reserves of courage and conviction in allies that they never suspected they had.
+
+### Restriction: Knighthood
+Purple Dragon Knights are tied to a specific order of Cormyrean knighthood.
+Banneret serves as the generic name for this archetype if you use it in other campaign settings or to model warlords other than the Purple Dragon Knights.
+
+### Rallying Cry
+When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries.
+When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
@@ -90,6 +104,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 7: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Royal Envoy
+A Purple Dragon Knight serves as an envoy of the Cormyrean crown. Knights of high standing are expected to conduct themselves with grace.
+At 7th level, you gain proficiency in the [[Persuasion]] skill. If you are already proficient in it, you gain proficiency in one of the following skills of your choice: [[Animal Handling]], [[Insight]], [[Intimidation]], or [[Performance]].
+Your proficiency bonus is doubled for any ability check you make that uses [[Persuasion]]. You receive this benefit regardless of the skill proficiency you gain from this feature.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -103,6 +122,10 @@ When you attack with a weapon whose mastery property you can use, you can replac
 
 ## Level 10: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Inspiring Surge
+Starting at 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.
+Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.
 
 ## Level 11: Two Extra Attacks
 You can attack three times instead of once whenever you take the [[Attack action]] on your turn.
@@ -124,6 +147,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 15: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Bulwark
+Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't [[incapacitated]], you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -139,6 +165,9 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and
 
 ## Level 18: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Inspiring Surge
+Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Combat Prowess]] is recommended.

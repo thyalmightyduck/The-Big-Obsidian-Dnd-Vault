@@ -229,7 +229,7 @@ An artificer who specializes as an Armorer modifies armor to function almost lik
 ### Level 3: Tools of the Trade
 _3rd-level Armorer feature_
 
-You gain [[proficiency]] with [[heavy armor]]. You also gain [[proficiency]] with [[smith's tools]]. If you already have this tool [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
+You gain [[proficiency]] with [[heavy armor]]. You also gain [[proficiency]] with [[Smiths Tools]]. If you already have this tool [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
 
 ### Level 3: Armorer Spells
 _3rd-level Armorer feature_
@@ -247,7 +247,7 @@ You always have certain spells prepared after you reach particular levels in thi
 ### Level 3: Arcane Armor
 _3rd-level Armorer feature_
 
-Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have [[smith's tools]] in hand.
+Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have [[Smiths Tools]] in hand.
 
 You gain the following benefits while wearing this armor:
 
@@ -263,7 +263,7 @@ You can customize your Arcane Armor. When you do so, choose one of the following
 
 Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, to the attack and damage rolls.
 
-You can change the armor's model whenever you finish a short or [[long rest]], provided you have [[smith's tools]] in hand.
+You can change the armor's model whenever you finish a short or [[long rest]], provided you have [[Smiths Tools]] in hand.
 
 Guardian. You design your armor to be in the front line of conflict. It has the following features:
 

@@ -109,7 +109,7 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 | 7th          | [[fabricate]], [[wall of fire]]                  |
 | 9th          | [[animate objects]], [[creation]]                |
 ### Bonus Proficiency
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [[Smith's Tools]].
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [[Smiths Tools]].
 
 ### Blessing of the Forge
 At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.

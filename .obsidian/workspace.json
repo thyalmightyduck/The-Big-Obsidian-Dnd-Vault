@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Fighter/Fighter Subclasses/Nightwatcher Fighter.md",
+                "file": "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nightwatcher Fighter"
+              "title": "Rune Knight Fighter"
             }
           }
         ],
@@ -450,6 +450,11 @@
   },
   "active": "934908baf9733514",
   "lastOpenFiles": [
+    "Rules/Tools/Smiths Tools.md",
+    "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",
+    "Rules/Classes/Fighter/Fighter Subclasses/Purple Dragon Knight (Banneret) Fighter.md",
+    "Rules/Classes/Fighter/Fighter Subclasses/Psi Warrior Fighter.md",
+    "Rules/Classes/Fighter/Fighter Subclasses/Nightwatcher Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Living Crucible Fighter.md",
     "Rules/Tools/Alchemists Supplies.md",
     "Rules/Tools/Artisans Tools.md",
@@ -471,11 +476,6 @@
     "Rules/Classes/Fighter/Fighter Subclasses/Hero Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Eldritch Knight Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Echo Knight Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Dungeoneer Fighter.md",
-    "5 Monster Stat Blocks/Beast/Warhorse.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Couatl Herald Fighter.md",
-    "Rules/Core Rules/Hit Point.md",
-    "Rules/Core Rules/Temporary Hit Point.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",

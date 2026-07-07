@@ -16,7 +16,7 @@ This race has multiple subraces, as listed below:
 **Darkvision:** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Dwarven Resilience:** You have advantage on saving throws against poison, and you have resistance against poison damage.
 **Dwarven Combat Training:** You have proficiency with the [[battleaxe]], [[handaxe]], [[light hammer]], and [[warhammer]].
-**Tool Proficiency:** You gain proficiency with the [[Artisans Tools]] of your choice: [[Smith's tools]], [[brewer's supplies]], or [[mason's tools]].
+**Tool Proficiency:** You gain proficiency with the [[Artisans Tools]] of your choice: [[Smiths Tools]], [[brewer's supplies]], or [[mason's tools]].
 **Stonecunning:** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 **Languages:** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 ## Players Handbook (2024):
@@ -44,7 +44,7 @@ This race has multiple subraces, as listed below:
 **Axes of the Dwarves:** You have proficiency with the [[battle axe]], [[great axe]], and [[mattock]].
 **Endurance of the Dwarves:** Your hit point maximum increases by 1, and it increases by an additional 1 every time you gain a level.
 **Make Light of Burdens:** Armour doesn't impose disadvantage on your fatigue saving throws, and your carrying capacity (including the weight you can carry before you are encumbered or heavily encumbered, and the weight you can push, drag or lift) is doubled.
-**Tool Proficiencies:** You have proficiency with the [[Artisans Tools]] of your choice: [[jeweler's tools]], [[mason's tools]], or [[smith's tools]].
+**Tool Proficiencies:** You have proficiency with the [[Artisans Tools]] of your choice: [[jeweler's tools]], [[mason's tools]], or [[Smiths Tools]].
 **Languages:** You can speak, read and write [[Westron]] and [[Khuzdul]], the secret language of the Dwarves.
 **Standard of Living:** Prosperous. With the fabulous Dragon-hoard of Erebor reclaimed and their kingdom restored, the Dwarves of Durin's Folk are the richest of the seven houses.
 **Backgrounds:** Players choosing a background receive a brief personal history, two skill proficiencies, a tool proficiency and two distinctive features:
@@ -70,7 +70,7 @@ Exploration Traits:
 - [[Poison Resilience]]
 - [[Steady]]
 Roleplaying Traits:
-- [[Artisanal Focus]] ([[Brewer's Supplies]], [[Mason's Tools]], or [[Smith's Tools]])
+- [[Artisanal Focus]] ([[Brewer's Supplies]], [[Mason's Tools]], or [[Smiths Tools]])
 - [[Crafter's Eye]]
 # Info
 ## Players Handbook (2014):

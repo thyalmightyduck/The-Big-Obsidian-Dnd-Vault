@@ -194,9 +194,9 @@ Finished Cantrip Links
 	- [x] Eldritch Knight
 	- [x] Hero
 	- [x] Living Crucible
-	- [ ] Night Watcher
-	- [ ] Psi Warrior
-	- [ ] Purple Dragon Knight (Bannneret)
+	- [x] Night Watcher
+	- [x] Psi Warrior
+	- [x] Purple Dragon Knight (Bannneret)
 	- [ ] Rune Knight
 	- [ ] Samurai
 	- [ ] Scoffiaw

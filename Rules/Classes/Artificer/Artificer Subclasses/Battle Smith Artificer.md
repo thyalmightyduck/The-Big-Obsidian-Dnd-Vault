@@ -230,7 +230,7 @@ Armies require protection, and someone has to put things back together if defens
 Battle Smiths played a key role in House Cannith's work on battle constructs and the original [[warforged]], and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.
 
 ### Tool [[Proficiency]]
-When you adopt this specialization at 3rd level, you gain [[proficiency]] with [[smith's tools]]. If you already have this [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
+When you adopt this specialization at 3rd level, you gain [[proficiency]] with [[Smiths Tools]]. If you already have this [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
 
 ### Battle Smith Spells
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
@@ -255,9 +255,9 @@ By 3rd level, your tinkering has borne you a faithful companion, a [[steel defe
 
 In combat, the defender shares your [[initiative]] count, but it takes its turn immediately after yours. It can move and use its [[reaction]] on its own, but the only action it takes on its turn is the [[Dodge Action]], unless you take a [[bonus action]] on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[incapacitated]], the defender can take any action of its choice, not just [[Dodge Action]].
 
-If the [[mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. If it has died within the last hour, you can use your [[smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The [[steel defender]] returns to life after 1 minute with all its [[Hit Point]] restored.
+If the [[mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. If it has died within the last hour, you can use your [[Smiths Tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The [[steel defender]] returns to life after 1 minute with all its [[Hit Point]] restored.
 
-At the end of a [[long rest]], you can create a new [[steel defender]] if you have your [[smith's tools]] with you. If you already have a [[steel defender]] from this feature, the first one immediately perishes. The defender also perishes if you die.
+At the end of a [[long rest]], you can create a new [[steel defender]] if you have your [[Smiths Tools]] with you. If you already have a [[steel defender]] from this feature, the first one immediately perishes. The defender also perishes if you die.
 
 ## Level 4: Ability Score Improvement
 

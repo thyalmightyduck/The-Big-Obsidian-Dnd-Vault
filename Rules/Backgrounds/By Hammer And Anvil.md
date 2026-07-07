@@ -1,4 +1,4 @@
 **Prerequisite:** Barding
 **Skill Proficiencies:** [[Insight]], [[Intimidation]]
-[[Tool Proficiency]]. [[Smith's tools]]
+[[Tool Proficiency]]. [[Smiths Tools]]
 **Distinctive Features:** Proud, Wilful

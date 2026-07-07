@@ -245,7 +245,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 | 13th            | [[ice storm]], [[wall of fire]]     |
 | 17th            | [[cone of cold]], [[wall of force]] |
 ### Eldritch Cannon
-At 3rd level, you learn how to create a magical cannon. Using [[woodcarver's tools]] or [[smith's tools]], you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.
+At 3rd level, you learn how to create a magical cannon. Using [[woodcarver's tools]] or [[Smiths Tools]], you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.
 
 Once you create a cannon, you can't do so again until you finish a [[long rest]] or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.
 

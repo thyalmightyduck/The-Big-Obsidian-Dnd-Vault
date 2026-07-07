@@ -230,7 +230,7 @@ _Craft a Mighty Weapon out of Your Soul_
 The daashor artificers of the Dhakaani Empire were the finest weaponsmiths in Khorvaire's history, as discussed in Uncharted Domains. As a Forge Adept, you carry on these ancient traditions, creating mystical weapons and armor, strengthening allies on the battlefield, and bringing down enemies with weapons imbued with your own soul energy. If you're dar, you learned these techniques from the masters of your clan. Are you content to follow ancient traditions, or do you want to add your own innovations? If you're not Dhakaani, did you learn these techniques from a daashor mentor? Did you steal this knowledge? Or are you replicating these traditions on your own?
 
 ### Level 3: Tool Proficiency
-You gain proficiency with [[Smith's Tools]]. If you already have this proficiency, you gain proficiency with one other type of [[Artisans Tools]] of your choice.
+You gain proficiency with [[Smiths Tools]]. If you already have this proficiency, you gain proficiency with one other type of [[Artisans Tools]] of your choice.
 
 In addition, when you craft an ordinary or magic weapon, the amount of time required to craft it is halved.
 
@@ -254,7 +254,7 @@ Arcane Empowerment. When you attack with a magic weapon, you can use your Intel
 Weapon Knowledge. You gain proficiency with Martial weapons. You can use a weapon with which you have proficiency as a [[Spellcasting Focus]] for your Artificer spells.
 
 ### Level 3: Ghaal'Shaarat
-You can imbue a weapon with a fraction of your spirit, creating what the Dhakaani daashors call a ghaal'shaarat, Goblin for "mighty blade." As a [[Magic action]] while you have [[Smith's Tools]] in hand, you can turn a Simple or Martial Melee weapon into a Ghaal'Shaarat. The weapon continues to be a Ghaal'Shaarat until you imbue a different weapon or you die.
+You can imbue a weapon with a fraction of your spirit, creating what the Dhakaani daashors call a ghaal'shaarat, Goblin for "mighty blade." As a [[Magic action]] while you have [[Smiths Tools]] in hand, you can turn a Simple or Martial Melee weapon into a Ghaal'Shaarat. The weapon continues to be a Ghaal'Shaarat until you imbue a different weapon or you die.
 
 The weapon gains the following benefits while you wield it.
 

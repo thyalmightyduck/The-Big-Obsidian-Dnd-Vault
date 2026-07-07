@@ -29,7 +29,7 @@ Communal. Whenever you make an Intelligence (History) check related to the hist
 
 Militia Training. You have proficiency in [simple weapons](https://5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:simple%20weapon=1~melee%20weapon=1,flmttype:sand).
 
-Of the People. You gain proficiency with the [[Artisans Tools]] of your choice: [[brewer's supplies]], [[carpenter's tools]], or [[smith's tools]].
+Of the People. You gain proficiency with the [[Artisans Tools]] of your choice: [[brewer's supplies]], [[carpenter's tools]], or [[Smiths Tools]].
 
 Languages. You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally.
 ### Pictures
