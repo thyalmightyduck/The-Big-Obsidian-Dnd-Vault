@@ -46,7 +46,7 @@ Speed. Your base walking speed is 30 feet.
 
 Darkvision. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-Shifting. As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain [[temporary hit points]] equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
+Shifting. As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain [[Temporary Hit Point]] equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
 
 Once you shift, you can't do so again until you finish a short or long rest.
 
@@ -66,11 +66,11 @@ Bestial Instincts. Channeling the beast within, you have proficiency in one of 
 
 Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were in dim light. You discern colors in that darkness only as shades of gray.
 
-Shifting. As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain [[temporary hit points]] equal to 2 × your proficiency bonus. You can shift a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+Shifting. As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain [[Temporary Hit Point]] equal to 2 × your proficiency bonus. You can shift a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Whenever you shift, you gain an additional benefit based on one of the following options (choose when you select this race):
 
-- Beasthide. You gain 1d6 additional [[temporary hit points]]. While shifted, you have a +1 bonus to your Armor Class.
+- Beasthide. You gain 1d6 additional [[Temporary Hit Point]]. While shifted, you have a +1 bonus to your Armor Class.
     
 - Longtooth. When you shift and as a bonus action on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
     

@@ -5,7 +5,7 @@ _Abjuration Level 4_
 **Components:** V, S
 **Duration:** 8 Hours
 
-You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 [[Hit Points]] before the spell ends, the target instead drops to 1 [[Hit Points]], and the spell ends.
+You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 [[Hit Point]] before the spell ends, the target instead drops to 1 [[Hit Point]], and the spell ends.
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
 

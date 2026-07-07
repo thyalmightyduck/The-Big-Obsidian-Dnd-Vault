@@ -27,8 +27,8 @@
 **Primary Ability:** Charisma
 
 **Hit Point Die:** D8 per Bard level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **Saving Throw Proficiencies:** Dexterity, Charisma
 
@@ -115,7 +115,7 @@ As a [[Bonus Action]] while you aren't wearing Heavy armor, you can enter a ra
 
 Once you use this talent, you can't use it again until you finish a [[Long Rest]].
 
-**Cleric.** You've gained the ability to channel divine energy directly from the gods, emboldening allies and sanctifying their attacks. As a [[Bonus Action]], choose a creature within 30 feet of you. For 10 minutes, the target gains [[Temporary Hit Points]] equal to half your Bard level plus your Charisma modifier. While a creature has [[Temporary Hit Points]] granted by this talent, it can choose to lose all remaining [[Temporary Hit Points]] when it hits a creature with an attack made with a weapon or [[Unarmed Strike]], dealing extra Radiant damage equal to the number of [[Temporary Hit Points]] lost.
+**Cleric.** You've gained the ability to channel divine energy directly from the gods, emboldening allies and sanctifying their attacks. As a [[Bonus Action]], choose a creature within 30 feet of you. For 10 minutes, the target gains [[Temporary Hit Point]] equal to half your Bard level plus your Charisma modifier. While a creature has [[Temporary Hit Point]] granted by this talent, it can choose to lose all remaining [[Temporary Hit Point]] when it hits a creature with an attack made with a weapon or [[Unarmed Strike]], dealing extra Radiant damage equal to the number of [[Temporary Hit Point]] lost.
 
 Once you use this talent, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
 

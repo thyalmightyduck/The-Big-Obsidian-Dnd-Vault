@@ -29,7 +29,7 @@
 
 **Hit Point Die:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Wisdom, Charisma
 
@@ -83,7 +83,7 @@ You can use this class's Channel Divinity twice. You regain one of its expended 
 
 If a Channel Divinity effect requires a [[saving throw]], the DC equals the spell save DC from this class's Spellcasting feature.
 
-Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Point]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 
@@ -113,12 +113,12 @@ Your connection to this divine domain ensures you always have certain spells rea
 ### Level 3: Witch Hunter's Strike
 When you hit a creature with a weapon attack or [[Unarmed Strike]], you can deal an extra 1d8 Force damage to the target. If the creature has [[Concentration]] on a spell, you deal an extra 2d8 Force damage instead. At Cleric level 14, the extra Force damage increases to 2d8, or 3d8 if the creature has [[Concentration]] on a spell.
 
-If a creature fails its saving throw to maintain [[Concentration]] as a result of taking damage from this feature, you gain [[Temporary Hit Points]] equal to the extra Force damage dealt.
+If a creature fails its saving throw to maintain [[Concentration]] as a result of taking damage from this feature, you gain [[Temporary Hit Point]] equal to the extra Force damage dealt.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[Long Rest]].
 
 ### Level 3: Spell Shield
-As a [[Bonus Action]], you can expend one use of your Channel Divinity to bestow a temporary resilience against arcane harm for 10 minutes. Choose a creature you can see (including yourself) within 30 feet of yourself. The chosen creature gains [[Temporary Hit Points]] equal to 1d10 plus your Cleric level. While a creature has [[Temporary Hit Points]] granted by your Spell Shield, the creature has [[Advantage]] on saving throws against spells, and it has [[Resistance]] to the damage of spells. If any of these [[Temporary Hit Points]] remain when Spell Shield ends, they vanish.
+As a [[Bonus Action]], you can expend one use of your Channel Divinity to bestow a temporary resilience against arcane harm for 10 minutes. Choose a creature you can see (including yourself) within 30 feet of yourself. The chosen creature gains [[Temporary Hit Point]] equal to 1d10 plus your Cleric level. While a creature has [[Temporary Hit Point]] granted by your Spell Shield, the creature has [[Advantage]] on saving throws against spells, and it has [[Resistance]] to the damage of spells. If any of these [[Temporary Hit Point]] remain when Spell Shield ends, they vanish.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
@@ -158,7 +158,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 Divine Strike. The extra damage of your Divine Strike increases to 2d8.
 
-Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Points]] equal to twice your Wisdom modifier.
+Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Point]] equal to twice your Wisdom modifier.
 
 ## Level 14: Subclass Feature
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.

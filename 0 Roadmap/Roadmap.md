@@ -177,19 +177,19 @@ Finished Cantrip Links
 	- [x] Unbroken
 	- [x] Warden
 	- [x] Wicker
-	- [ ] Wildfire
+	- [x] Wildfire
 - [ ] Fighter
-	- [ ] Arcane Archer
-	- [ ] Banneret
-	- [ ] Barrow Guard
-	- [ ] Battle Master
-	- [ ] Blade Breaker
-	- [ ] Bulwark Warrior
-	- [ ] Cavalier
-	- [ ] Champion
-	- [ ] Commander
-	- [ ] Couatl Herald
-	- [ ] Dungeoneer
+	- [x] Arcane Archer
+	- [x] Banneret
+	- [x] Barrow Guard
+	- [x] Battle Master
+	- [x] Blade Breaker
+	- [x] Bulwark Warrior
+	- [x] Cavalier
+	- [x] Champion
+	- [x] Commander
+	- [x] Couatl Herald
+	- [x] Dungeoneer
 	- [ ] Echo Knight
 	- [ ] Eldritch Knight
 	- [ ] Hero

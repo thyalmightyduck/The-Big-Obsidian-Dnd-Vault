@@ -1,4 +1,4 @@
-# WOP Echo Knight Fighter
+# Echo Knight Fighter
 ## Explorer’s Guide to Wildemount
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |
@@ -27,8 +27,8 @@
 **Primary Ability:** Strength or Dexterity
 
 **Hit Point Die:** D10 per Fighter level
-**[[Hit Points]] at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] at Level 1:** 10 + Con. modifier
+**[[Hit Point]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Perception]], or [[Survival]].
@@ -53,7 +53,7 @@ You have honed your martial prowess and gain a [[Fighting Style feat]] of your
 Whenever you gain a Fighter level, you can replace the [[feat]] you chose with a different [[Fighting Style feat]].
 
 ## Level 1: Second Wind
-You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Points]] equal to 1d10 plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Point]] equal to 1d10 plus your Fighter level.
 
 You can use this feature twice. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -70,10 +70,28 @@ You can push yourself beyond your normal limits for a moment. On your turn, you 
 Once you use this feature, you can't do so again until you finish a [[Short rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ## Level 2: Tactical Mind
-You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Points]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Point]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
+
+### Echo Knight
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes.
+
+### Manifest Echo
+_3rd-level Echo Knight feature_
+You can use a bonus action to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. This echo is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it as a bonus action, until you manifest another echo, or until you're [[incapacitated]].
+Your echo has AC 14 + your proficiency bonus, 1 hit point, and immunity to all conditions. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to 30 feet in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.
+You can use the echo in the following ways:
+- As a bonus action, you can teleport, magically swapping places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
+- When you take the [[Attack action]] on your turn, any attack you make with that action can originate from your space or the echo's space. You make this choice for each attack.
+- When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your reaction to make an opportunity attack against that creature as if you were in the echo's space.
+
+### Unleash Incarnation
+_3rd-level Echo Knight feature_
+You can heighten your echo's fury. Whenever you take the [[Attack action]], you can make one additional melee attack from the echo's position.
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.

@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -101,7 +101,7 @@ When you enter your rage, you can transform, revealing the bestial power within 
 
 You choose the weapon's form each time you rage:
 
-- Bite. Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of [[hit points]] equal to your [[proficiency bonus]], provided you have less than half your hit points when you hit.
+- Bite. Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of [[Hit Point]] equal to your [[proficiency bonus]], provided you have less than half your hit points when you hit.
 
 - Claws. Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals 1d6 slashing damage on a hit. Once on each of your turns when you attack with a claw using the [[Attack Action]], you can make one additional claw attack as part of the same action.
 
@@ -162,7 +162,7 @@ When you hit a creature with your natural weapons while you are raging, the beas
 You can use this feature a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a long rest.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement
@@ -181,7 +181,7 @@ _14th-level Path of the Beast feature_
 
 The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature).
 
-You gain 5 [[temporary hit points]] for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a d6 and gain a bonus to the damage equal to the number rolled.
+You gain 5 [[Temporary Hit Point]] for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a d6 and gain a bonus to the damage equal to the number rolled.
 
 You can use this feature a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[long rest]].
 

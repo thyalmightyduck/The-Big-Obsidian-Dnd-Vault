@@ -1,4 +1,4 @@
-# WOP Commander Fighter
+# Commander Fighter
 ## Sebastian Crowe’s Guide to Drakkenheim 
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |
@@ -27,8 +27,8 @@
 **Primary Ability:** Strength or Dexterity
 
 **Hit Point Die:** D10 per Fighter level
-**[[Hit Points]] at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] at Level 1:** 10 + Con. modifier
+**[[Hit Point]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Perception]], or [[Survival]].
@@ -53,7 +53,7 @@ You have honed your martial prowess and gain a [[Fighting Style feat]] of your
 Whenever you gain a Fighter level, you can replace the [[feat]] you chose with a different [[Fighting Style feat]].
 
 ## Level 1: Second Wind
-You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Points]] equal to 1d10 plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Point]] equal to 1d10 plus your Fighter level.
 
 You can use this feature twice. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -70,10 +70,23 @@ You can push yourself beyond your normal limits for a moment. On your turn, you 
 Once you use this feature, you can't do so again until you finish a [[Short rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ## Level 2: Tactical Mind
-You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Points]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Point]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
+
+### Commander
+Between the nations of Westemär, Elyria, and Caspia there have been countless wars fought. Many great knights, valiant soldiers, and powerful combatants have tested their mettle against man and monster alike. Amongst the brave there are always those who are born to lead, and the Commander is just that. They stand at the front of battle, uniting their allies and leading the charge against their enemies.
+
+### Level 3: Groomed for Leadership
+You gain proficiency in the History and Persuasion skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+
+### Level 3: Battle Commands
+You can issue a battle command as a bonus action to an ally within 120 feet of you who can hear you. Choose one of the following commands:
+- **Fight On!** The target regains a number of hit points equal to 1d10 + your fighter level. The creature can't regain hit points from this command again until it finishes a short or long rest.
+- **For Glory!** The target can use their reaction to make a melee or ranged weapon attack.
+- **Move It!** The target can use their reaction to move up to their speed without provoking opportunity attacks.
+- **Never Falter!** The target recovers from one [[charmed]] or [[frightened]] condition. Once a creature benefits from this command, it can't do so again until it finishes a short or long rest.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
@@ -90,6 +103,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 7: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 7: Fearless Commander
+You gain proficiency in Wisdom saving throws, and you have advantage on saving throws against effects which [[Charmed]] or [[Frightened]] you.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -103,6 +119,9 @@ When you attack with a weapon whose mastery property you can use, you can replac
 
 ## Level 10: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 10: Coordinated Command
+When you issue a battle command on your turn, you can target two allies instead of one. You can give both the same command or a different command to each ally. Both targets must be within 120 feet of you.
 
 ## Level 11: Two Extra Attacks
 You can attack three times instead of once whenever you take the [[Attack action]] on your turn.
@@ -124,6 +143,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 15: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 15: Adaptive Strategy
+When you issue a battle command, the targets gain advantage on their next attack roll or saving throw they make before the end of your next turn.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -139,6 +161,9 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and
 
 ## Level 18: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 18: Call to Action
+At 18th level, when you use your Action Surge ability, instead of taking an additional action yourself, one ally you can see can immediately take an additional turn immediately after you finish your turn.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Combat Prowess]] is recommended.

@@ -79,7 +79,7 @@ Saving Throws. If a maneuver requires a saving throw, the DC equals 8 plus your
 
 ### Maneuver Options
 
-Bite the Bullet. As a [[Bonus Action]], you can expend one Risk Die to gain [[Temporary Hit Points]] equal to the number rolled on the die plus your Gunslinger level.
+Bite the Bullet. As a [[Bonus Action]], you can expend one Risk Die to gain [[Temporary Hit Point]] equal to the number rolled on the die plus your Gunslinger level.
 
 **Blindfire:** You can take a [[Bonus Action]] and expend one Risk Die to gain Blindsight with a range of 30 feet until the end of the current turn.
 
@@ -129,7 +129,7 @@ Note that weapons that have the Firearm property don't add your ability modifi
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 13: Cheat Death
-When you are reduced to 0 [[Hit Points]] and not killed outright, you can drop to 1 [[Hit Points]] instead, and you regain a number of [[Hit Points]] equal to your Gunslinger level.
+When you are reduced to 0 [[Hit Point]] and not killed outright, you can drop to 1 [[Hit Point]] instead, and you regain a number of [[Hit Point]] equal to your Gunslinger level.
 
 Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
@@ -152,6 +152,6 @@ You gain a special additional [[Bonus Action]] that you can take once on each 
 You gain an [[Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Irresistible Offense]] is recommended.
 
 ## Level 20: Headshot
-When you score a [[Critical Hit]] against a creature using a Ranged weapon, you can choose for it to be a Headshot. If the creature has less than 100 [[Hit Points]], it dies. Otherwise, it takes an extra 10d10 damage of the weapon's type.
+When you score a [[Critical Hit]] against a creature using a Ranged weapon, you can choose for it to be a Headshot. If the creature has less than 100 [[Hit Point]], it dies. Otherwise, it takes an extra 10d10 damage of the weapon's type.
 
 Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]]. You can also restore your use of it by expending three Risk Dice (no action required).

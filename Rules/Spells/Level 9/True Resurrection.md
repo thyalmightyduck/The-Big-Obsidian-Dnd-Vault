@@ -5,7 +5,7 @@ _Level 9 Necromancy_
 **Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes)
 **Duration:** Instantaneous
 
-You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its [[Hit Points]].
+You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its [[Hit Point]].
 
 This spell closes all wounds, neutralizes any poison, cures all magical contagions, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was Undead, it is restored to its non-Undead form.
 

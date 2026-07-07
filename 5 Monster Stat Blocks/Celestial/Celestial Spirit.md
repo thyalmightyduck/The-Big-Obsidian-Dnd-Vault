@@ -61,9 +61,9 @@ Large Celestial, Neutral
 
 **Radiant Bow (Avenger Only):** _Ranged [[Attack Rolls]]:_ Bonus equals your spell attack modifier, range 600 ft. _Hit:_ 2d6 + 2 + the spell's level Radiant damage.
 
-**Radiant Mace (Defender Only):** _Melee [[Attack Rolls]]:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d10 + 3 + the spell's level Radiant damage, and the spirit can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 [[Temporary Hit Points]].
+**Radiant Mace (Defender Only):** _Melee [[Attack Rolls]]:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d10 + 3 + the spell's level Radiant damage, and the spirit can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 [[Temporary Hit Point]].
 
-**Healing Touch (1/Day):** The spirit touches another creature. The target regains [[Hit Points]] equal to 2d8 + the spell's level.
+**Healing Touch (1/Day):** The spirit touches another creature. The target regains [[Hit Point]] equal to 2d8 + the spell's level.
 
 **Habitat:** 
 **Treasure:** 

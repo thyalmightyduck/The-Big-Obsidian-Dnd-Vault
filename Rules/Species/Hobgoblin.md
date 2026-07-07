@@ -34,7 +34,7 @@ Alignment. Hobgoblin society in Eberron is shaped by the ideal of a strict code
 **Fey Ancestry:** You have [[Advantage]] on saving throws you make to avoid or end the [[charmed]] condition on yourself.
 **Fey Gift** You can use this trait to take the Help action as a [[bonus action]], and you can do so a number of times equal to your [[Proficiency]] bonus. You regain all expended uses when you finish a [[Long Rest]].
 Starting at 3rd level, choose one of the options below each time you take the Help action with this trait:
-- **Hospitality:** You and the creature you help each gain a number of [[Temporary Hit Points]] equal to 1d6 plus your [[Proficiency]] bonus.
+- **Hospitality:** You and the creature you help each gain a number of [[Temporary Hit Point]] equal to 1d6 plus your [[Proficiency]] bonus.
 - **Passage:** You and the creature you help each increase your walking speeds by 10 feet until the start of your next turn.
 - **Spite:** Until the start of your next turn, the first time the creature you help hits a target with an [[Attack Rolls]], that target has [[Disadvantage]] on the next [[Attack Rolls]] it makes within the next minute.
 **Fortune from the Many:** If you miss with an [[Attack Rolls]] or fail an [[ability check]] or a saving throw, you can draw on your bonds of reciprocity to gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +3). You can use this trait a number of times equal to your [[Proficiency]] bonus, and you regain all expended uses when you finish a [[Long Rest]].

@@ -158,6 +158,6 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which yo
 ## Level 20: Grave Strike
 You gain the ability to strike mortal blows against the creatures you have studied.
 
-Your attack rolls with weapons and [[Unarmed Strike]]s against creature types in your Monster Grimoire can now score a [[Critical Hit]] on a roll of 18 through 20 on the d20. When you score a [[Critical Hit]] against a creature type in your Monster Grimoire, the creature must make a Constitution saving throw. The DC equals the damage taken, up to a maximum DC of 30. On a failed save, the creature drops to 0 [[Hit Points]]. On a successful save, the creature takes the attack's normal damage.
+Your attack rolls with weapons and [[Unarmed Strike]]s against creature types in your Monster Grimoire can now score a [[Critical Hit]] on a roll of 18 through 20 on the d20. When you score a [[Critical Hit]] against a creature type in your Monster Grimoire, the creature must make a Constitution saving throw. The DC equals the damage taken, up to a maximum DC of 30. On a failed save, the creature drops to 0 [[Hit Point]]. On a successful save, the creature takes the attack's normal damage.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].

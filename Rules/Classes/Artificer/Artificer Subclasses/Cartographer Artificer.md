@@ -24,8 +24,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D8 per Artificer level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Constitution, Intelligence
 
@@ -335,7 +335,7 @@ You gain a feature from your Artificer Subclass.
 ### Level 15: Superior Atlas
 Your Adventurer's Atlas improves, gaining the following benefits.
 
-Safe Haven. When a map holder would be reduced to 0 [[Hit Points]] but not killed outright, that creature can destroy its map. The creature's [[Hit Points]] instead change to a number equal to twice your Artificer level, and the creature is teleported to an unoccupied space within 5 feet of you or another map holder of its choice.
+Safe Haven. When a map holder would be reduced to 0 [[Hit Point]] but not killed outright, that creature can destroy its map. The creature's [[Hit Point]] instead change to a number equal to twice your Artificer level, and the creature is teleported to an unoccupied space within 5 feet of you or another map holder of its choice.
 
 Unerring Path. If you are one of the map holders for your Adventurer's Atlas, you can cast [[Find the Path]] without expending a spell slot, without preparing the spell, and without needing spell components. Once you use this benefit, you can't use it again until you finish a [[Long Rest]].
 
@@ -355,6 +355,6 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you 
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-Cheat Death. If you're reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
+Cheat Death. If you're reduced to 0 [[Hit Point]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Point]] instead change to a number equal to 20 times the number of magic items disintegrated.
 
 Magical Guidance. When you finish a [[Short Rest]], you regain all expended uses of your Flash of Genius if you have [[Attunement]] to at least one magic item.

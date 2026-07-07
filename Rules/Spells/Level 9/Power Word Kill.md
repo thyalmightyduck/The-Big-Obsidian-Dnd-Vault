@@ -5,5 +5,5 @@ _Enchantment Level 9_
 **Components:** V
 **Duration:** Instantaneous
 
-You compel one creature you can see within range to die. If the target has 100 [[Hit Points]] or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
+You compel one creature you can see within range to die. If the target has 100 [[Hit Point]] or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 

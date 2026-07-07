@@ -29,7 +29,7 @@
 
 **Hit Point Die:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Wisdom, Charisma
 
@@ -83,7 +83,7 @@ You can use this class's Channel Divinity twice. You regain one of its expended 
 
 If a Channel Divinity effect requires a [[saving throw]], the DC equals the spell save DC from this class's Spellcasting feature.
 
-Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Point]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 
@@ -115,7 +115,7 @@ Also at 1st level, you gain proficiency with martial weapons. You also gain prof
 ### Level 3: Channel Divinity: Divine Initiative
 Starting at 2nd level, you can use your Channel Divinity to enhance your allies' potential.
 
-As an action, you present your holy symbol and choose a number of creatures that you can see and that can see you within 60 feet of you, up to a number equal to your Wisdom modifier (minimum of one). Each of them gains 5 [[temporary hit points]]. When a target gains these temporary hit points, they can immediately use their reaction to make one weapon attack.
+As an action, you present your holy symbol and choose a number of creatures that you can see and that can see you within 60 feet of you, up to a number equal to your Wisdom modifier (minimum of one). Each of them gains 5 [[Temporary Hit Point]]. When a target gains these temporary hit points, they can immediately use their reaction to make one weapon attack.
 
 The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 6th level, 11 at 8th level, and 14 at 17th level.
 
@@ -160,7 +160,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 Divine Strike. The extra damage of your Divine Strike increases to 2d8.
 
-Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Points]] equal to twice your Wisdom modifier.
+Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Point]] equal to twice your Wisdom modifier.
 
 ## Level 14: Subclass Feature
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.

@@ -14,7 +14,7 @@
 
 #### Abilities 
 
-Once per turn, when you deal melee damage, you regain [[hit points]] equal to half damage dealt. This effect can trigger a number of times equal to your Construction Modifier (minimum 1), and recharges after a [[Long Rest]].
+Once per turn, when you deal melee damage, you regain [[Hit Point]] equal to half damage dealt. This effect can trigger a number of times equal to your Construction Modifier (minimum 1), and recharges after a [[Long Rest]].
 
 ##### Credit 
 [thefrreemanforge On TikTok ](https://www.tiktok.com/t/ZTMw9N5ST/ "https://www.tiktok.com/t/ZTMw9N5ST/")  

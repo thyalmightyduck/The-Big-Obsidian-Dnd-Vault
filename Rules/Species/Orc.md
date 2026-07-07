@@ -62,7 +62,7 @@ Languages. You can speak, read, and write Common and Orc.
 
 Adrenaline Rush. You can take the [Dash](https://5e.tools/actions.html#dash_phb) action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-Whenever you use this trait, you gain a number of [[temporary hit points]] equal to your proficiency bonus.
+Whenever you use this trait, you gain a number of [[Temporary Hit Point]] equal to your proficiency bonus.
 
 Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 

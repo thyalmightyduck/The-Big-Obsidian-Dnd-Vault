@@ -9,8 +9,8 @@ While you have Contamination, you experience the following effects.
 | Level | Symptoms                                                                                 |
 | ----- | ---------------------------------------------------------------------------------------- |
 | 1     | None                                                                                     |
-| 2     | Halve the [[Hit Points]] you regain when you expend [[Hit Dice]] during a [[Short Rest]] |
-| 3     | You do not regain [[Hit Points]] when you finish a [[Long Rest]].                        |
+| 2     | Halve the [[Hit Point]] you regain when you expend [[Hit Dice]] during a [[Short Rest]] |
+| 3     | You do not regain [[Hit Point]] when you finish a [[Long Rest]].                        |
 | 4     | You have the [[Weakened]] condition.                                                     |
 | 5     | You have the [[Dazed]] condition.                                                        |
 | 6     | Monstrous Transformation!                                                                |
@@ -34,7 +34,7 @@ Skin, hair, fingernails, and toenails lost to mutations regrow normally once Con
 **Monstrous Transformation!** If you end your turn with six or more Contamination Levels, you permanently transform into a horrific monster controlled by the Game Master.
 
 - The Game Master chooses the new form, which is most often an Aberration or Monstrosity of some kind such as a [[Gibbering Mouther]], [[Delerium Dreg]], or [[Pyknic Maunder]].
-- Your game statistics are entirely replaced by those of the chosen monster, including the new form's [[Hit Points]] and [[Hit Dice]].
+- Your game statistics are entirely replaced by those of the chosen monster, including the new form's [[Hit Point]] and [[Hit Dice]].
 - All Contamination levels are removed, though the GM may grant additional traits to the new form similar to any beneficial mutations gained from Contamination Levels.
 - The Game Master determines what remains of the original creature's personality and memories, if anything. Regardless, the creature falls under the Game Master's control.
 

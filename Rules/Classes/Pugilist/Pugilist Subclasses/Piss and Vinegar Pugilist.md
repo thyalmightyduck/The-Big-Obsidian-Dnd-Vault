@@ -67,12 +67,12 @@ Your experiences of beating the odds have given you a moxie you can channel in t
 You can spend these points to enhance or fuel certain Pugilist features. You start knowing three such features: Brace Up, One-Two Punch, and Stick and Move, each of which is detailed below.
 
 When you expend a Moxie Point, it is unavailable until you finish a [[Short Rest]] or [[Long Rest]], at the end of which you regain all your expended points.
-**Brace Up.** You can use a [[Bonus Action]] and expend 1 Moxie Point to brace for attacks. When you do so, roll your Fisticuffs die, and gain a number of [[Temporary Hit Points]] equal to the number rolled plus your Pugilist level and your Constitution modifier. These [[Temporary Hit Points]] vanish if any remain after 10 minutes.
+**Brace Up.** You can use a [[Bonus Action]] and expend 1 Moxie Point to brace for attacks. When you do so, roll your Fisticuffs die, and gain a number of [[Temporary Hit Point]] equal to the number rolled plus your Pugilist level and your Constitution modifier. These [[Temporary Hit Point]] vanish if any remain after 10 minutes.
 **One-Two Punch.** You can expend 1 Moxie Point to make two [[Unarmed Strike]]s as a [[Bonus Action]].
 **Stick and Move.** You can use a [[Bonus Action]] and expend 1 Moxie Point to make an [[Unarmed Strike]] and take the [[Dash Action]] or [[Disengage Action]].
 
 ## Level 2: Bloodied But Unbowed
-When you take damage, you can take a [[Reaction]] to regain all your expended Moxie Points. If you are [[Bloodied]] when you take this [[Reaction]], you also gain [[Temporary Hit Points]] equal to four times your Pugilist level. These [[Temporary Hit Points]] vanish if any remain when you finish a [[Short Rest]].
+When you take damage, you can take a [[Reaction]] to regain all your expended Moxie Points. If you are [[Bloodied]] when you take this [[Reaction]], you also gain [[Temporary Hit Point]] equal to four times your Pugilist level. These [[Temporary Hit Point]] vanish if any remain when you finish a [[Short Rest]].
 
 Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
@@ -156,7 +156,7 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 You gain a feature from your Pugilist Subclass.
 
 ## Level 18: Fighting Spirit
-When you are reduced to 0 [[Hit Points]] but not killed outright, you can drop to 1 [[Hit Points]] instead. When you do, you gain [[Temporary Hit Points]] equal to half of your maximum [[Hit Points]], regain all your expended [Moxie Points, and have [[Resistance]] to all damage except Force for the next minute.
+When you are reduced to 0 [[Hit Point]] but not killed outright, you can drop to 1 [[Hit Point]] instead. When you do, you gain [[Temporary Hit Point]] equal to half of your maximum [[Hit Point]], regain all your expended [Moxie Points, and have [[Resistance]] to all damage except Force for the next minute.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 
@@ -167,4 +167,4 @@ You gain an [[Epic Boon feat]] or another feat of your choice for which you qu
 Your strength and resilience are the stuff of legends. You gain the following benefits.
 **Hale and Hearty.** Your Strength and Constitution scores increase by 2, to a maximum of 23.
 **Sleep It Off.** When you finish a [[Long Rest]] and you have the [[Exhaustion]] condition, you lose all levels of [[Exhaustion]].
-**Vim and Vigor.** When you finish a [[Short Rest]], you regain [[Hit Points]] equal to twice your Pugilist level.
+**Vim and Vigor.** When you finish a [[Short Rest]], you regain [[Hit Point]] equal to twice your Pugilist level.

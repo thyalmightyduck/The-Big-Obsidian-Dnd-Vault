@@ -28,8 +28,8 @@
 **Primary Ability:** Charisma
 
 **Hit Point Die:** D8 per Bard level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **Saving Throw Proficiencies:** Dexterity, Charisma
 
@@ -113,7 +113,7 @@ You learn two Necromancy cantrips of your choice. These count as Bard spells for
 ### Level 3: Pluck the Heartstrings
 Your Bardic Inspiration can pluck at the tethers of life. Each creature that has a Bardic Inspiration die from you can use it for one of the following effects.
 
-Defense. When the creature is reduced to 0 [[Hit Points]] and not killed outright, the creature can roll the Bardic Inspiration die to be reduced to a number of [[Hit Points]] rolled on the Bardic Inspiration die instead.
+Defense. When the creature is reduced to 0 [[Hit Point]] and not killed outright, the creature can roll the Bardic Inspiration die to be reduced to a number of [[Hit Point]] rolled on the Bardic Inspiration die instead.
 
 Offense. Immediately after the creature hits a target with an attack roll, the creature can roll the Bardic Inspiration die and add the number rolled as extra Necrotic damage dealt by the attack.
 

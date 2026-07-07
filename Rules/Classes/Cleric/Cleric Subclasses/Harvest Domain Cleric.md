@@ -29,7 +29,7 @@
 
 **Hit Point Die:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Wisdom, Charisma
 
@@ -83,7 +83,7 @@ You can use this class's Channel Divinity twice. You regain one of its expended 
 
 If a Channel Divinity effect requires a [[saving throw]], the DC equals the spell save DC from this class's Spellcasting feature.
 
-Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Point]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 
@@ -133,7 +133,7 @@ Whenever you finish a [[Short Rest]] or [[Long Rest]], choose an aspect of th
 | 7th          | [[Death Ward]]                                        | [[Sanctum of the Shepherd]]                                                | [[Consuming Pyre]]                                                                  |
 | 9th          | [[Awaken]]    | [[Mass Cure Wounds]] | [[Field of Reaping]] |
 ### Level 3: Cornucopia
-If you don't have the [[Incapacitated]] condition when you start a [[Short Rest]], you can magically create a cornucopia filled with enough food for a number of creatures equal to twice your [[Proficiency Bonus]]. When creatures that eat the food finish a [[Short Rest]], you can distribute a number of d4s equal to your Cleric level among creatures who ate the food. Each creature immediately rolls the dice they're allotted and regains [[Hit Points]] equal to the total. The cornucopia and any uneaten food vanish when the [[Short Rest]] ends.
+If you don't have the [[Incapacitated]] condition when you start a [[Short Rest]], you can magically create a cornucopia filled with enough food for a number of creatures equal to twice your [[Proficiency Bonus]]. When creatures that eat the food finish a [[Short Rest]], you can distribute a number of d4s equal to your Cleric level among creatures who ate the food. Each creature immediately rolls the dice they're allotted and regains [[Hit Point]] equal to the total. The cornucopia and any uneaten food vanish when the [[Short Rest]] ends.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
@@ -142,7 +142,7 @@ As a [[Magic action]], you present your [[Holy Symbol]] and expend a use of 
 
 Additionally, you grant all targets one of the following benefits. If your current harvest aspect is a different one, it changes to match the choice.
 
-**Sowing.** A target gains a number of [[Temporary Hit Points]] equal to your [[Proficiency Bonus]] plus your Wisdom modifier.
+**Sowing.** A target gains a number of [[Temporary Hit Point]] equal to your [[Proficiency Bonus]] plus your Wisdom modifier.
 
 **Growing.** Until the end of your next turn, when a target makes an attack roll or ability check, it adds 1d4 to the total.
 
@@ -166,7 +166,7 @@ You can draw upon the powers of the harvest cycle to potentially avert disaster.
 
 **Reaping.** Wisdom and Strength
 
-Additionally, after the saving throw succeeds or fails, roll a number of d4s equal to your [[Proficiency Bonus]]. The target regains [[Hit Points]] equal to the total rolled.
+Additionally, after the saving throw succeeds or fails, roll a number of d4s equal to your [[Proficiency Bonus]]. The target regains [[Hit Point]] equal to the total rolled.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -194,7 +194,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 Divine Strike. The extra damage of your Divine Strike increases to 2d8.
 
-Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Points]] equal to twice your Wisdom modifier.
+Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Point]] equal to twice your Wisdom modifier.
 
 ## Level 14: Subclass Feature
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.

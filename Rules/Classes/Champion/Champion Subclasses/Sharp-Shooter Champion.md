@@ -14,8 +14,8 @@
 | 10th  | +4                | Extra Attack (2)                       |
 ##### Core Traits
 **Hit Point Die:** D10 per Champion level
-**[[Hit Points]] at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Champion Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] at Level 1:** 10 + Con. modifier
+**[[Hit Point]] per additional Champion Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -52,7 +52,7 @@ Protection. When a creature you can see hits you or a target other than you tha
 Two-Weapon Fighting. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ## Level 1: Surge of Vigour
-You have a limited well of stamina that you can draw on to protect yourself from harm, or to push yourself beyond your normal limits for a moment. You can use a bonus action to either take the [[Attack Action]], [[Dash Action]], [[Disengage Action]], or [[Dodge Action]], or to regain [[hit points]] equal to 1d8 + your Champion level + your Constitution modifier. Once you use this feature, you must finish a short or [[long rest]] before you can use it again.
+You have a limited well of stamina that you can draw on to protect yourself from harm, or to push yourself beyond your normal limits for a moment. You can use a bonus action to either take the [[Attack Action]], [[Dash Action]], [[Disengage Action]], or [[Dodge Action]], or to regain [[Hit Point]] equal to 1d8 + your Champion level + your Constitution modifier. Once you use this feature, you must finish a short or [[long rest]] before you can use it again.
 
 ## Level 2: Craft or Virtue
 At 2nd level, and again at 4th, 6th, and 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.

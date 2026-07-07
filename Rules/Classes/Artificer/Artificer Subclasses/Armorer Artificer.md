@@ -24,8 +24,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D8 per Artificer level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Constitution, Intelligence
 
@@ -269,7 +269,7 @@ Guardian. You design your armor to be in the front line of conflict. It has the
 
 - Thunder Gauntlets. Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has [[disadvantage]] on [[attack rolls]] against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.
 
-- Defensive Field. As a [[bonus action]], you can gain [[temporary hit points]] equal to your level in this class, replacing any [[temporary hit points]] you already have. You lose these [[temporary hit points]] if you doff the armor. You can use this [[bonus action]] a number of times equal to your [[proficiency]] bonus, and you regain all expended uses when you finish a [[long rest]].
+- Defensive Field. As a [[bonus action]], you can gain [[Temporary Hit Point]] equal to your level in this class, replacing any [[Temporary Hit Point]] you already have. You lose these [[Temporary Hit Point]] if you doff the armor. You can use this [[bonus action]] a number of times equal to your [[proficiency]] bonus, and you regain all expended uses when you finish a [[long rest]].
 
 
 Infiltrator. You customize your armor for subtle undertakings. It has the following features:
@@ -369,6 +369,6 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you 
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-Cheat Death. If you're reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
+Cheat Death. If you're reduced to 0 [[Hit Point]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Point]] instead change to a number equal to 20 times the number of magic items disintegrated.
 
 Magical Guidance. When you finish a [[Short Rest]], you regain all expended uses of your Flash of Genius if you have [[Attunement]] to at least one magic item.

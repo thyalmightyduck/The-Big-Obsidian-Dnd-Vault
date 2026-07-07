@@ -61,7 +61,7 @@ Furthermore, If a creature has half or more of its hit points after taking psych
 
 **Brain Probe:** _Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma saving throw. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn.
 
-**Mental Meal:** _Melee Spell Attack:_ +5 to hit, reach 30 ft., one target. _Hit:_ 1 psychic damage. The Inconspicuous Hamster regains 2 (1d4) hit points and gains 2 (1d4) [[temporary hit points]].
+**Mental Meal:** _Melee Spell Attack:_ +5 to hit, reach 30 ft., one target. _Hit:_ 1 psychic damage. The Inconspicuous Hamster regains 2 (1d4) hit points and gains 2 (1d4) [[Temporary Hit Point]].
 
 # Lore
 Nothing to see here-just a completely inconspicuous hamster. In absolutely no way is it an interdimensional predator and thus does not feed on the minds of unsuspecting creatures in its vicinity. Just like any common and harmless hamster, its abstains fro wreaking haon wherever it appears and-needless to say-wouldn’t do anything that might result in serious damage without being provoked.

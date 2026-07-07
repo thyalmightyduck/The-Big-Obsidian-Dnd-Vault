@@ -13,6 +13,6 @@ This 60-foot length of rope can hold up to 3,000 pounds. While holding one end o
 
 If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants [[Advantage]] on [[Ability Check]] made to climb using the rope.
 
-The rope has AC 20, HP 20, and [[Immunity]] to Poison and Psychic damage. It regains 1 Hit Point every 5 minutes as long as it has at least 1 Hit Point. If the rope drops to 0 [[Hit Points]], it is destroyed.
+The rope has AC 20, HP 20, and [[Immunity]] to Poison and Psychic damage. It regains 1 Hit Point every 5 minutes as long as it has at least 1 Hit Point. If the rope drops to 0 [[Hit Point]], it is destroyed.
 
 **Credit:** Dungeon Master Guide 2024 

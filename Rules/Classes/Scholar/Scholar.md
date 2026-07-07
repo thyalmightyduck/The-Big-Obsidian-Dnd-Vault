@@ -14,8 +14,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D8 per Scholar level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Scholar Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Scholar Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **Saving Throw Proficiencies:** Intelligence, Wisdom
 

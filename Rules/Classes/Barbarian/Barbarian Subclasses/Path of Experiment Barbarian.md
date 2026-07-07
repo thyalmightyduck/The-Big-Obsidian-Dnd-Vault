@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -108,7 +108,7 @@ Ferocity. This serum throws you into an energized frenzy. You ignore [[Difficu
 
 Monstrosity. The serum expands your body to monstrous proportions and can change your appearance in cosmetic ways, such as by altering facial features, skin tone, and hair length or color. Your reach increases by 5 feet, and once per turn when you miss with an attack roll that relies on Strength, you can add your Rage Damage bonus to the total, potentially causing the attack to hit. If you are smaller than Large, you become Large, along with anything you are wearing or carrying. If there isn't enough room to accommodate the size change, your size doesn't change.
 
-Reconstruction. The serum dulls pain and forces wounds to rapidly knit. Upon activation and at the start of each of your turns, you can expend and roll a [[Hit Dice]]. You regain a number of [[Hit Points]] equal to the number rolled plus your Constitution modifier (minimum of 1 [[Hit Points]]). You gain any excess beyond your [[Hit Points]] maximum as [[Temporary Hit Points]].
+Reconstruction. The serum dulls pain and forces wounds to rapidly knit. Upon activation and at the start of each of your turns, you can expend and roll a [[Hit Dice]]. You regain a number of [[Hit Point]] equal to the number rolled plus your Constitution modifier (minimum of 1 [[Hit Point]]). You gain any excess beyond your [[Hit Point]] maximum as [[Temporary Hit Point]].
 
 If you take Acid or Fire damage, this serum doesn't function at the start of your next turn.
 
@@ -160,7 +160,7 @@ Your implants are now sensitive to your response to danger and flood you with st
 Additionally, while your Rage is active, you have [[Advantage]] on Constitution saving throws.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement

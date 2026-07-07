@@ -24,8 +24,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D8 per Artificer level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Constitution, Intelligence
 
@@ -261,7 +261,7 @@ When you reach certain Artificer levels, you can make an additional elixir at th
 #### Experimental Elixir
 | 1d6 | Effect                                                                                                                                                                                                                       |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Healing.** The drinker regains a number of [[Hit Points]] equal to 2d8 plus your Intelligence modifier. The number of [[Hit Points]] restored increases by 1d8 when you reach Artificer levels 9 (3d8) and 15 (4d8).       |
+| 1   | **Healing.** The drinker regains a number of [[Hit Point]] equal to 2d8 plus your Intelligence modifier. The number of [[Hit Point]] restored increases by 1d8 when you reach Artificer levels 9 (3d8) and 15 (4d8).       |
 | 2   | **Swiftness.** The drinker's [[Speed]] increases by 10 feet for 1 hour. This bonus increases when you reach Artificer levels 9 (15 feet) and 15 (20 feet).                                                                   |
 | 3   | **Resilience.** The drinker gains a +1 bonus to AC for 10 minutes. The duration increases when you reach Artificer levels 9 (1 hour) and 15 (8 hours).                                                                       |
 | 4   | **Boldness.** The drinker can roll 1d4 and add the number rolled to every attack roll and [[saving throw]] they make for the next minute. The duration increases when you reach Artificer levels 9 (10 minutes) and 15 (1 hour). |
@@ -277,7 +277,7 @@ You gain the Ability Score Improvement feat or another [[feat]] of your choice
 
 ### Level 5: Alchemical Savant
 
-Whenever you cast a spell using your [[Alchemist's Supplies]] as the [[Spellcasting Focus]], you gain a bonus to one roll of the spell. That roll must restore [[Hit Points]] or be a damage roll that deals Acid, Fire, or Poison damage. The bonus equals your Intelligence modifier (minimum bonus of +1).
+Whenever you cast a spell using your [[Alchemist's Supplies]] as the [[Spellcasting Focus]], you gain a bonus to one roll of the spell. That roll must restore [[Hit Point]] or be a damage roll that deals Acid, Fire, or Poison damage. The bonus equals your Intelligence modifier (minimum bonus of +1).
 
 ## Level 6: Magic Item Tinker
 
@@ -356,6 +356,6 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you 
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-Cheat Death. If you're reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
+Cheat Death. If you're reduced to 0 [[Hit Point]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Point]] instead change to a number equal to 20 times the number of magic items disintegrated.
 
 Magical Guidance. When you finish a [[Short Rest]], you regain all expended uses of your Flash of Genius if you have [[Attunement]] to at least one magic item.

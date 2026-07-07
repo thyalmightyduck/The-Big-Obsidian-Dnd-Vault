@@ -27,7 +27,7 @@
 |                                                                                                                                                                                                                              |     |     |     |     |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
 | ### Bonus Actions                                                                                                                                                                                                            |     |     |     |     |     |
-| Animate Haze Husk. The haze wight reanimates the corpse of a haze husk it can see within 60 feet. The haze husk is revived with 5 [[Hit Points]] and immediately stands. |     |     |     |     |     |
+| Animate Haze Husk. The haze wight reanimates the corpse of a haze husk it can see within 60 feet. The haze husk is revived with 5 [[Hit Point]] and immediately stands. |     |     |     |     |     |
 
 The stretched skin of this undead warrior is purple and bruised. Clad in broken armor, a deep gash in its breastplate marks the lethal blow that ended its life. Eldritch magic wells within the wound. As it catches sight of you, its face twists into a hateful scowl. Its dead eyes burn with spectral energy and contaminated magic seeps from blackened claws. In a cracked voice, it howls a delusional challenge: "To arms, comrades! Drakkenheim will be free of these monsters!"
 

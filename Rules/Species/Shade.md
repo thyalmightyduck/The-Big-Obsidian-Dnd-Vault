@@ -22,7 +22,7 @@ Ghostly Flesh. Starting at 3rd level, you can use your action to dissolve your 
 
 Imperfect Undeath. You are a humanoid, but your partial transition into undeath makes you susceptible to effects that target undead. Though you can regain hit points from spells like cure wounds, you can also be affected by game effects that specifically target undead, such as a [[cleric]]'s Turn Undead feature. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a shade. A true resurrection or wish spell can restore you to life as a fully living member of your original race.
 
-Life Drain. When you damage a creature with an attack or a spell, you can choose to deal extra necrotic damage to the target equal to your level. If the creature's race matches your Living Origin, you gain [[temporary hit points]] equal to the necrotic damage dealt. Once you use this trait, you can't use it again until you finish a short or long rest.
+Life Drain. When you damage a creature with an attack or a spell, you can choose to deal extra necrotic damage to the target equal to your level. If the creature's race matches your Living Origin, you gain [[Temporary Hit Point]] equal to the necrotic damage dealt. Once you use this trait, you can't use it again until you finish a short or long rest.
 
 Spectral Resilience. You have advantage on saving throws against poison and disease, and you have resistance to necrotic damage.
 

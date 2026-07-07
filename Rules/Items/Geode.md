@@ -22,7 +22,7 @@ All delerium samples have the following traits regardless of size:
 - [[Immunity]] to Necrotic, Poison, and Psychic damage; as well as Bludgeoning, Piercing, and Slashing damage from non-magical weapons.
 - [[Resistance]] to Acid, Cold, Fire, and Lightning damage; as well as Slashing and Piercing damage from magical weapons.
 - [[Vulnerability]] to Bludgeoning damage from magical weapons.
-- Unless contained within an [[Antimagic Field]], delerium shatters and crumbles into worthless ash when reduced to 0 [[Hit Points]]. However, delerium geodes release a random [[Arcane Anomalies]] when destroyed.
+- Unless contained within an [[Antimagic Field]], delerium shatters and crumbles into worthless ash when reduced to 0 [[Hit Point]]. However, delerium geodes release a random [[Arcane Anomalies]] when destroyed.
 
 ### Delerium Hazards
 When a humanoid creature touches delerium without protective gear for the first time on their turn, or ends their turn in bodily contact with delerium, they must make a DC 10 Constitution saving throw or take 1d6 Necrotic damage and gain one level of [[Contamination]].

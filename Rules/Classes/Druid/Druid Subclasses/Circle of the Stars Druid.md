@@ -28,8 +28,8 @@
 **Primary Ability:** Wisdom
 
 **Hit Point Die:** D8 per Druid level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
@@ -108,9 +108,9 @@ When you reach certain Druid levels, your number of known forms and the maximum�
 
 Rules While Shape-Shifted. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-[[Temporary Hit Points]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.
+[[Temporary Hit Point]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Point]] equal to your Druid level.
 
-Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
+Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Point]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
 
 No Spellcasting. You can't cast spells, but shape-shifting doesn't break your [[Concentration]] or otherwise interfere with a spell you've already cast.
 
@@ -146,7 +146,7 @@ As a [[Bonus Action]], you can expend a use of your Wild Shape feature to take 
 While in your starry form, you retain your game statistics, but your body becomes luminous, your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the [[Incapacitated]] condition, or use this feature again.
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.
 **Archer:** A constellation of an archer appears on you. When you activate this form and as a [[Bonus Action]] on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of yourself. On a hit, the attack deals Radiant damage equal to 1d8 plus your Wisdom modifier.
-**Chalice:** A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores [[Hit Points]] to a creature, you or another creature within 30 feet of you can regain [[Hit Points]] equal to 1d8 plus your Wisdom modifier.
+**Chalice:** A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores [[Hit Point]] to a creature, you or another creature within 30 feet of you can regain [[Hit Point]] equal to 1d8 plus your Wisdom modifier.
 **Dragon:** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain [[Concentration]], you can treat a roll of 9 or lower on the d20 as a 10.
 
 ## Level 4: Ability Score Improvement

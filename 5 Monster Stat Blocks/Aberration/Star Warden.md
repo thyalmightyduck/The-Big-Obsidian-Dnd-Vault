@@ -52,11 +52,11 @@
 
 **Cosmic Aura.** A creature that starts its turn within 30 feet of the star warden is subjected to the following effect. _Charisma Saving Throw:_ DC 17. _Failure:_ The target is hurled through time and space, witnessing every moment of existence in a single second. It takes 17 (5d6) `dice:5d6` Psychic damage and is teleported to an unoccupied space it can see within 30 feet.
 
-**Delerium Healing.** As an action, the star warden can touch a delerium shard to regain 10 (3d6) `dice:3d6` [[Hit Points]]. Once the star warden has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours.
+**Delerium Healing.** As an action, the star warden can touch a delerium shard to regain 10 (3d6) `dice:3d6` [[Hit Point]]. Once the star warden has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours.
 
 **Fully Contaminated.** The star warden is immune to [[Contamination]] and has [[Advantage]] on saving throws against contaminated spells. The star warden may cast contaminated spells even though it does not gain [[Contamination]] levels.
 
-**Lords of Time and Space.** When the star warden is reduced to 0 [[Hit Points]], roll a d20. On a 1 or 20, the star warden regains all of its [[Hit Points]] and another creature of its choice within 30 feet is reduced to 0 [[Hit Points]] instead.
+**Lords of Time and Space.** When the star warden is reduced to 0 [[Hit Point]], roll a d20. On a 1 or 20, the star warden regains all of its [[Hit Point]] and another creature of its choice within 30 feet is reduced to 0 [[Hit Point]] instead.
 # <u>Actions</u> 
 **Multiattack.** The star warden makes two attacks.
 

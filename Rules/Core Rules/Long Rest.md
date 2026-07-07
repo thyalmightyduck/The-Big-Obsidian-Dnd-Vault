@@ -2,9 +2,9 @@ A Long Rest is a period of extended downtime—at least 8 hours—available to a
 
 During sleep, you have the [[Unconscious]] condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.
 
-Benefits of the Rest. To start a Long Rest, you must have at least 1 [[Hit Points]]. When you finish the rest, you gain the following benefits:
+Benefits of the Rest. To start a Long Rest, you must have at least 1 [[Hit Point]]. When you finish the rest, you gain the following benefits:
 
-- Regain All HP. You regain all lost [[Hit Points]] and all spent [[Hit Dice]]. If your Hit Point maximum was reduced, it returns to normal.
+- Regain All HP. You regain all lost [[Hit Point]] and all spent [[Hit Dice]]. If your Hit Point maximum was reduced, it returns to normal.
 
 - Ability Scores Restored. If any of your ability scores were reduced, they return to normal.
 

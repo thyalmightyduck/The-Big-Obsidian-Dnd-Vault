@@ -28,8 +28,8 @@
 **Primary Ability:** Dexterity and Wisdom
 
 **Hit Point Die:** D10 per Ranger level
-**[[Hit Points]] at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Ranger Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] at Level 1:** 10 + Con. modifier
+**[[Hit Point]] per additional Ranger Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **Saving Throw Proficiencies:** Strength, Dexterity
 
@@ -111,7 +111,7 @@ Choose two of your skill proficiencies with which you lack [[Expertise]]. You g
 ## Level 10: Tireless
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-[[Temporary Hit Points]]. As a [[Magic action]], you can give yourself a number of [[Temporary Hit Points]] equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+[[Temporary Hit Point]]. As a [[Magic action]], you can give yourself a number of [[Temporary Hit Point]] equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 Decrease Exhaustion. Whenever you finish a [[Short Rest]], your [[Exhaustion]] level, if any, decreases by 1.
 

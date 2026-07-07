@@ -29,7 +29,7 @@
 
 **Hit Point Die:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Wisdom, Charisma
 
@@ -83,7 +83,7 @@ You can use this class's Channel Divinity twice. You regain one of its expended 
 
 If a Channel Divinity effect requires a [[saving throw]], the DC equals the spell save DC from this class's Spellcasting feature.
 
-Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Point]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 
@@ -137,9 +137,9 @@ You gain a feature from your Cleric Subclass.
 ### Level 6: Divine Bargain
 Transactions are at the heart of your belief system, and you have learned to buy and sell metaphysical boons with your divine wealth. As a [[Bonus Action]], you can magically conduct a metaphysical trade with one creature you can see within 30 feet of yourself. Choose either Buy or Sell.
 
-Buy. Give one of your divine coins to the target. It can spend the divine coin as if it had your Divine Wealth feature. The target takes 1d8 Necrotic damage, and you or one creature that you can see within 30 feet of yourself regains [[Hit Points]] equal to the damage taken.
+Buy. Give one of your divine coins to the target. It can spend the divine coin as if it had your Divine Wealth feature. The target takes 1d8 Necrotic damage, and you or one creature that you can see within 30 feet of yourself regains [[Hit Point]] equal to the damage taken.
 
-Sell. Gain a divine coin. You take 1d8 Necrotic damage, and the target regains [[Hit Points]] equal to the damage taken. The damage cannot be reduced by any means.
+Sell. Gain a divine coin. You take 1d8 Necrotic damage, and the target regains [[Hit Point]] equal to the damage taken. The damage cannot be reduced by any means.
 
 ## Level 7: Blessed Strikes
 Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).
@@ -165,7 +165,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 Divine Strike. The extra damage of your Divine Strike increases to 2d8.
 
-Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Points]] equal to twice your Wisdom modifier.
+Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Point]] equal to twice your Wisdom modifier.
 
 ## Level 14: Subclass Feature
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.
@@ -177,9 +177,9 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Cleric Subclass.
 
 ### Level 17: Open Market
-When you use your Divine Bargain feature, you roll 2d8 rather than 1d8 to determine how many [[Hit Points]] are regained or lost.
+When you use your Divine Bargain feature, you roll 2d8 rather than 1d8 to determine how many [[Hit Point]] are regained or lost.
 
-In addition, when you use your Divine Bargain feature you can target up to six creatures you can see within 30 feet of yourself, buying or selling divine coins separately for each target. You use the same 2d8 roll to determine the [[Hit Points]] each creature regains or loses. If you target multiple creatures in this way, you cannot do so again until you finish a [[Short Rest]].
+In addition, when you use your Divine Bargain feature you can target up to six creatures you can see within 30 feet of yourself, buying or selling divine coins separately for each target. You use the same 2d8 roll to determine the [[Hit Point]] each creature regains or loses. If you target multiple creatures in this way, you cannot do so again until you finish a [[Short Rest]].
 
 ## Level 19: Epic Bo
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Fate]] is recommended.

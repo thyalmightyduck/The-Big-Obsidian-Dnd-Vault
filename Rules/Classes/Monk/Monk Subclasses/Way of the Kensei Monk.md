@@ -79,7 +79,7 @@ Step of the Wind. You can take the [[Dash Action]] as a [[Bonus Action]]. Al
 Your speed increases by 10 feet while you aren't wearing armor or wielding a [[Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ## Level 2: Uncanny Metabolism
-When you roll [[Initiative]], you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of [[Hit Points]] equal to your Monk level plus the number rolled.
+When you roll [[Initiative]], you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of [[Hit Point]] equal to your Monk level plus the number rolled.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 
@@ -125,7 +125,7 @@ Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following b
 
 Flurry of Blows. You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
 
-Patient Defense. When you expend a Focus Point to use Patient Defense, you gain a number of [[Temporary Hit Points]] equal to two rolls of your Martial Arts die.
+Patient Defense. When you expend a Focus Point to use Patient Defense, you gain a number of [[Temporary Hit Point]] equal to two rolls of your Martial Arts die.
 
 Step of the Wind. When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke [[Opportunity Attack]]s.
 

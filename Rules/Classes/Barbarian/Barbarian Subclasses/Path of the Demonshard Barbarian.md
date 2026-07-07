@@ -28,8 +28,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -131,7 +131,7 @@ You gain a feature from your Barbarian subclass.
 The evil in your demonshard has grown, and its power can escape when you are distracted by pain. When a creature triggers your Fiendish Punishment feature, all other creatures within 10 feet of you take the damage too.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement

@@ -28,7 +28,7 @@ Shadow Gift. You struck a bargain with a shadow fey to receive a gift, but it c
 - You no longer need to eat or breathe to survive and require only 4 hours for a long rest. Gain one level of [exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb). This level of [exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb) cannot be removed by any means magical or non-magical.
 - Cut your current base movement speed in half. Gain a fly, swim, or climb speed equal to your newly halved base movement speed.
 - You become proficient in one skill of your choice and always roll [[Ability Check]] made with that skill at advantage. Choose a second skill, and always roll [[Ability Check]] made with that skill at disadvantage.
-- Each day at dawn, you gain [[temporary hit points]] equal to your Constitution score. You are no longer able to spend hit dice to heal during short rests.
+- Each day at dawn, you gain [[Temporary Hit Point]] equal to your Constitution score. You are no longer able to spend hit dice to heal during short rests.
 
 ### Pictures
 #### BoET

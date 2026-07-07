@@ -12,7 +12,7 @@ The basic use of this spell is to duplicate any other spell of level 8 or lower.
 Alternatively, you can create one of the following effects of your choice:
 
 - **Object Creation.** You create one object of up to 25,000 GP in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.
-- **Instant Health.** You allow yourself and up to twenty creatures that you can see to regain all [[Hit Points]], and you end all effects on them listed in the [[Greater Restoration]] spell.
+- **Instant Health.** You allow yourself and up to twenty creatures that you can see to regain all [[Hit Point]], and you end all effects on them listed in the [[Greater Restoration]] spell.
 - **[[Resistance (Damage)]].** You grant up to ten creatures that you can see [[Resistance (Damage)]] to one [[damage type]] that you choose. This [[Resistance (Damage)]] is permanent.
 - **Spell [[Immunity]].** You grant up to ten creatures you can see [[Immunity]] to a single spell or other magical effect for 8 hours.
 - **Sudden Learning.** You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can't replace a feat that is a prerequisite for any of your other feats or features.

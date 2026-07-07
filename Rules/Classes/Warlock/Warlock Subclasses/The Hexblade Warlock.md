@@ -28,8 +28,8 @@
 **Primary Ability:** Charisma
 
 **Hit Point Die:** D8 per Warlock level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Warlock Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Warlock Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Wisdom, Charisma
 
@@ -125,7 +125,7 @@ Repeatable. You can gain this invocation more than once. Each time you do so, c
 ### Fiendish Vigor
 _Prerequisite: Level 2+ Warlock_
 
-You can cast [[False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[Temporary Hit Points]]; you automatically get the highest number on the die.
+You can cast [[False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[Temporary Hit Point]]; you automatically get the highest number on the die.
 
 ### Gaze of Two Minds
 _Prerequisite: Level 5+ Warlock_
@@ -146,7 +146,7 @@ _Prerequisites: Level 9+ Warlock, Pact of the Tome_
 
 A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).
 
-When any creature whose name is on the page is reduced to 0 [[Hit Points]] but not killed outright, the creature magically drops to 1 [[Hit Point]] instead. Once this magic is triggered, no creature can benefit from it until you finish a [[Long Rest]].
+When any creature whose name is on the page is reduced to 0 [[Hit Point]] but not killed outright, the creature magically drops to 1 [[Hit Point]] instead. Once this magic is triggered, no creature can benefit from it until you finish a [[Long Rest]].
 
 As a [[Magic Action]], you can erase a name on the page by touching it.
 
@@ -175,7 +175,7 @@ Repeatable. You can gain this invocation more than once. Each time you do so, c
 ### Lifedrinker
 _Prerequisites: Level 9+ Warlock, Pact of the Blade_
 
-Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[Hit Point Dice]] to roll it and regain a number of [[Hit Points]] equal to the roll plus your Constitution modifier (minimum of 1 [[Hit Points]]).
+Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[Hit Point Dice]] to roll it and regain a number of [[Hit Point]] equal to the roll plus your Constitution modifier (minimum of 1 [[Hit Point]]).
 
 ### Mask of Many Faces
 _Prerequisite: Level 2+ Warlock_

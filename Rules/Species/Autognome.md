@@ -10,7 +10,7 @@
 **Creature Type:** You are a Construct.
 **Armored Casing:** You are encased in thin metal or some other durable material. While you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier
 **Built For Success:** You can add a d4 to one [[Attack Rolls]], [[ability check]], or saving throw you make, and you can do so after seeing the d20 roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[Long Rest]]
-**Healing Machine:** If the [mending]] spell is cast on you, you can spend a Hit Die, roll it, and regain a number of [[hit points]] equal to the roll plus your Constitution modifier (minimum of 1 hit point).
+**Healing Machine:** If the [mending]] spell is cast on you, you can spend a Hit Die, roll it, and regain a number of [[Hit Point]] equal to the roll plus your Constitution modifier (minimum of 1 hit point).
 
 In addition, your creator designed you to benefit from several spells that preserve life but that normally don't affect Constructs: [[cure wounds]], [[healing word]], [[Mass Cure Wounds]], [[Mass Healing Word]], and [[spare the dying]].
 **Mechanical Mature:** You have [[Resistance (Damage)]] to poison damage and [[Immunity]] to disease, and you have [[Advantage]] on saving throws against being [[Paralyzed]] or [[poisoned]]. You don't need to eat, drink, or breathe.

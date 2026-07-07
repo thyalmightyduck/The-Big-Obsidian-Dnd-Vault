@@ -28,8 +28,8 @@
 **Primary Ability:** Wisdom
 
 **Hit Point Die:** D8 per Druid level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
@@ -108,9 +108,9 @@ When you reach certain Druid levels, your number of known forms and the maximum�
 
 Rules While Shape-Shifted. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-[[Temporary Hit Points]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.
+[[Temporary Hit Point]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Point]] equal to your Druid level.
 
-Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
+Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Point]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
 
 No Spellcasting. You can't cast spells, but shape-shifting doesn't break your [[Concentration]] or otherwise interfere with a spell you've already cast.
 
@@ -138,7 +138,7 @@ When you reach a Druid level specified in the Circle of Blood Spells table, you 
 | 9           | [[Dominate Person]], [[Mortality]] |
 ### Level 3: Rite of the Blood Moon
 As a [[Bonus Action]], you can expend a use of your Wild Shape to adopt the violent savagery of the Blood Moon for 10 minutes. During this time, you gain the following benefits:
-- Red Resilience. You gain [[Temporary Hit Points]] equal to three times your Druid level. 
+- Red Resilience. You gain [[Temporary Hit Point]] equal to three times your Druid level. 
 - Speed Increased. Your [[Speed]] increases by 10 feet, and you can take the [[Dash action]] as a [[Bonus Action]].
 - Violent Strikes. When you hit a creature with a weapon or [[Unarmed Strike]], you can deal an extra 1d6 Necrotic damage to the target.
 
@@ -154,7 +154,7 @@ In addition, you can expend one use of Wild Shape (no action required) to give y
 You gain a feature from your Druid Subclass.
 
 ### Level 6: Blood Boon
-Whenever a creature you can see within 60 feet of you is reduced to 0 [[Hit Points]], you can take a [[Reaction]] to claim the last vestiges of its vitality. You regain 1 spent [[Hit Dice]] and grant a creature you can see within 60 feet of you [[Temporary Hit Points]] equal to your Druid level.
+Whenever a creature you can see within 60 feet of you is reduced to 0 [[Hit Point]], you can take a [[Reaction]] to claim the last vestiges of its vitality. You regain 1 spent [[Hit Dice]] and grant a creature you can see within 60 feet of you [[Temporary Hit Point]] equal to your Druid level.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum once). You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -183,7 +183,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Druid Subclass.
 
 ### Level 14: Exsanguinate
-When you use your Blood Boon, you regain spent [[Hit Dice]] equal to half your Druid level and give [[Temporary Hit Points]] equal to twice your Druid level to a number of creatures up to your Wisdom modifier (minimum of one creature) that you can see within 60 feet of yourself.
+When you use your Blood Boon, you regain spent [[Hit Dice]] equal to half your Druid level and give [[Temporary Hit Point]] equal to twice your Druid level to a number of creatures up to your Wisdom modifier (minimum of one creature) that you can see within 60 feet of yourself.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 

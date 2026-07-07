@@ -28,8 +28,8 @@
 **Primary Ability:** Wisdom
 
 **Hit Point Die:** D8 per Druid level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
@@ -108,9 +108,9 @@ When you reach certain Druid levels, your number of known forms and the maximum�
 
 Rules While Shape-Shifted. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-[[Temporary Hit Points]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.
+[[Temporary Hit Point]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Point]] equal to your Druid level.
 
-Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
+Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Point]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
 
 No Spellcasting. You can't cast spells, but shape-shifting doesn't break your [[Concentration]] or otherwise interfere with a spell you've already cast.
 
@@ -144,9 +144,9 @@ The effigies, charms, and tokens you weave can take a variety of shapes, each in
 |12|Intricate ring that represents the cycle of the year to guarantee life, death, and rebirth|
 ### Level 3: Bewitched Effigy
 Your primal magic can manifest as a wicker effigy and radiate out from it. As a [[Bonus Action]], you can expend a use of your Wild Shape to create a wicker effigy in an unoccupied space you can see within 30 feet of yourself.
-The effigy is a Small object (AC 15; HP equal to five times your Druid level; [[Vulnerability]] to Fire damage; [[Immunity]] to Poison and Psychic damage). The effigy vanishes after 1 minute, when reduced to 0 [[Hit Points]], or when you use this feature again. It radiates one of the following auras (chosen when you create the effigy) in a 30-foot [[Emanation]] that is filled with [[Dim Light]].
+The effigy is a Small object (AC 15; HP equal to five times your Druid level; [[Vulnerability]] to Fire damage; [[Immunity]] to Poison and Psychic damage). The effigy vanishes after 1 minute, when reduced to 0 [[Hit Point]], or when you use this feature again. It radiates one of the following auras (chosen when you create the effigy) in a 30-foot [[Emanation]] that is filled with [[Dim Light]].
 **Sacrifice:** When a creature in the aura takes damage, you can take a [[Reaction]] to deal Fire damage to the creature equal to 1d8 plus your Wisdom modifier.
-**Soothe:** When you create the effigy, and as a [[Bonus Action]] on subsequent turns while the effigy remains, one creature that you can see within the aura regains 1d6 [[Hit Points]]. You can use this effigy to restore [[Hit Points]] a number of times equal to twice your spellcasting ability modifier.
+**Soothe:** When you create the effigy, and as a [[Bonus Action]] on subsequent turns while the effigy remains, one creature that you can see within the aura regains 1d6 [[Hit Point]]. You can use this effigy to restore [[Hit Point]] a number of times equal to twice your spellcasting ability modifier.
 **Ward:** You and your allies within the aura gain a +1 bonus to AC.
 
 ### Level 3: Circle of Wicker Spells
@@ -178,7 +178,7 @@ You gain a feature from your Druid Subclass.
 ### Level 6: Wicker Rising
 The energy you channel through your wicker effigy grows stronger, empowering its benefits.
 **Sacrifice:** The Fire damage increases to 2d8 plus your Wisdom modifier.
-**Soothe:** The healing of your effigy increases to 1d8, and when you target a creature with the effigy, you can expend 5 [[Hit Points]] from the effigy to remove one of the following conditions on the target: [[Charmed]], [[Frightened]], [[Paralyzed]], [[Poisoned]], [[Stunned]].
+**Soothe:** The healing of your effigy increases to 1d8, and when you target a creature with the effigy, you can expend 5 [[Hit Point]] from the effigy to remove one of the following conditions on the target: [[Charmed]], [[Frightened]], [[Paralyzed]], [[Poisoned]], [[Stunned]].
 **Ward:** Choose a damage type other than Force. You and your allies in the aura have [[Resistance]] to the chosen type.
 
 ## Level 7: Elemental Fury
@@ -195,7 +195,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 You gain a feature from your Druid Subclass.
 
 ### Level 10: Soulbound Poppet
-As a [[Magic action]], you can expend a use of your Wild Shape and choose a creature you can see within 60 feet of yourself to create a wicker doll that vaguely resembles the target. The doll is a Tiny object (AC 10; HP 10; [[Vulnerability]] to Fire damage; [[Immunity]] to Poison and Psychic damage). The doll vanishes after 1 minute or when it is reduced to 0 [[Hit Points]]. While the doll exists, the target has [[Disadvantage]] on attack rolls against a creature carrying the doll, and when a creature carrying the doll damages the target for the first time on a turn, the target takes an extra 2d10 Necrotic damage.
+As a [[Magic action]], you can expend a use of your Wild Shape and choose a creature you can see within 60 feet of yourself to create a wicker doll that vaguely resembles the target. The doll is a Tiny object (AC 10; HP 10; [[Vulnerability]] to Fire damage; [[Immunity]] to Poison and Psychic damage). The doll vanishes after 1 minute or when it is reduced to 0 [[Hit Point]]. While the doll exists, the target has [[Disadvantage]] on attack rolls against a creature carrying the doll, and when a creature carrying the doll damages the target for the first time on a turn, the target takes an extra 2d10 Necrotic damage.
 
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

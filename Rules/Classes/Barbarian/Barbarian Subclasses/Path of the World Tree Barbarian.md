@@ -28,8 +28,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -84,9 +84,9 @@ Barbarians who follow the Path of the World Tree connect with the cosmic tree Yg
 ### Level 3: Vitality of the Tree
 Your Rage taps into the life force of the World Tree. You gain the following benefits.
 
-Vitality Surge. When you activate your Rage, you gain a number of [[Temporary Hit Points]] equal to your Barbarian level.
+Vitality Surge. When you activate your Rage, you gain a number of [[Temporary Hit Point]] equal to your Barbarian level.
 
-Life-Giving Force. At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain [[Temporary Hit Points]]. To determine the number of [[Temporary Hit Points]], roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these [[Temporary Hit Points]] remain when your Rage ends, they vanish.
+Life-Giving Force. At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain [[Temporary Hit Point]]. To determine the number of [[Temporary Hit Point]], roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these [[Temporary Hit Point]] remain when your Rage ends, they vanish.
 
 ## Level 3: Primal Knowledge
 You gain [[proficiency]] in another [[skill]] of your choice from the [[skill]] list available to Barbarians at level 1.
@@ -128,7 +128,7 @@ You gain a feature from your Barbarian subclass.
 During your turn, your reach is 10 feet greater with any Melee weapon that has the Heavy or Versatile property, as tendrils of the World Tree extend from you. When you hit with such a weapon on your turn, you can activate the Push or [[Topple]] mastery property in addition to a different mastery property you're using with that weapon.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement

@@ -1,1 +1,1 @@
-A creature is Bloodied while it has half its [[Hit Points]] or fewer remaining.
+A creature is Bloodied while it has half its [[Hit Point]] or fewer remaining.

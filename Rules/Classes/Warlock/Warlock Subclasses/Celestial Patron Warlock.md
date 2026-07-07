@@ -28,8 +28,8 @@
 **Primary Ability:** Charisma
 
 **Hit Point Die:** D8 per Warlock level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Warlock Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Warlock Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Wisdom, Charisma
 
@@ -125,7 +125,7 @@ Repeatable. You can gain this invocation more than once. Each time you do so, c
 ### Fiendish Vigor
 _Prerequisite: Level 2+ Warlock_
 
-You can cast [[False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[Temporary Hit Points]]; you automatically get the highest number on the die.
+You can cast [[False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[Temporary Hit Point]]; you automatically get the highest number on the die.
 
 ### Gaze of Two Minds
 _Prerequisite: Level 5+ Warlock_
@@ -146,7 +146,7 @@ _Prerequisites: Level 9+ Warlock, Pact of the Tome_
 
 A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).
 
-When any creature whose name is on the page is reduced to 0 [[Hit Points]] but not killed outright, the creature magically drops to 1 [[Hit Point]] instead. Once this magic is triggered, no creature can benefit from it until you finish a [[Long Rest]].
+When any creature whose name is on the page is reduced to 0 [[Hit Point]] but not killed outright, the creature magically drops to 1 [[Hit Point]] instead. Once this magic is triggered, no creature can benefit from it until you finish a [[Long Rest]].
 
 As a [[Magic Action]], you can erase a name on the page by touching it.
 
@@ -175,7 +175,7 @@ Repeatable. You can gain this invocation more than once. Each time you do so, c
 ### Lifedrinker
 _Prerequisites: Level 9+ Warlock, Pact of the Blade_
 
-Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[Hit Point Dice]] to roll it and regain a number of [[Hit Points]] equal to the roll plus your Constitution modifier (minimum of 1 [[Hit Points]]).
+Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[Hit Point Dice]] to roll it and regain a number of [[Hit Point]] equal to the roll plus your Constitution modifier (minimum of 1 [[Hit Point]]).
 
 ### Mask of Many Faces
 _Prerequisite: Level 2+ Warlock_
@@ -275,7 +275,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 ### Level 3: Healing Light
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
-As a [[Bonus Action]], you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Points]] equal to the roll's total. Your pool regains all expended dice when you finish a [[Long Rest]].
+As a [[Bonus Action]], you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Point]] equal to the roll's total. Your pool regains all expended dice when you finish a [[Long Rest]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
@@ -298,7 +298,7 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 You gain a feature from your Warlock subclass.
 
 ### Level 10: Celestial Resilience
-You gain [[Temporary Hit Points]] whenever you use your Magical Cunning feature or finish a [[Short Rest]] or [[Long Rest]]. These [[Temporary Hit Points]] equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [[Temporary Hit Points]] equal to half your Warlock level plus your Charisma modifier.
+You gain [[Temporary Hit Point]] whenever you use your Magical Cunning feature or finish a [[Short Rest]] or [[Long Rest]]. These [[Temporary Hit Point]] equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [[Temporary Hit Point]] equal to half your Warlock level plus your Charisma modifier.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -319,7 +319,7 @@ You gain a level 7 Warlock Spell of your choice.
 You gain a feature from your Warlock subclass.
 
 ### Level 14: Searing Vengeance
-When you or an ally within 60 feet of you is about to make a [[Death Saving Throws]], you can unleash radiant energy to save the creature. The creature regains [[Hit Points]] equal to half its [[Hit Points]] maximum and can end the [[Prone]] condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to 2d8 plus your Charisma modifier, and each has the [[Blinded]] condition until the end of the current turn.
+When you or an ally within 60 feet of you is about to make a [[Death Saving Throws]], you can unleash radiant energy to save the creature. The creature regains [[Hit Point]] equal to half its [[Hit Point]] maximum and can end the [[Prone]] condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to 2d8 plus your Charisma modifier, and each has the [[Blinded]] condition until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 

@@ -29,7 +29,7 @@
 
 **Hit Point Die:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Wisdom, Charisma
 
@@ -83,7 +83,7 @@ You can use this class's Channel Divinity twice. You regain one of its expended 
 
 If a Channel Divinity effect requires a [[saving throw]], the DC equals the spell save DC from this class's Spellcasting feature.
 
-Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+Divine Spark. As a [[Magic Action]], you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Point]] to the creature equal to that total or force the creature to make a Constitution [[saving throw]]. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 
@@ -111,10 +111,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 7th          | [[Aura of Life]], [[Death Ward]]                                                                                                                           |
 | 9th          | [[Greater Restoration]], [[Mass Cure Wounds]] |
 ### Level 3: Disciple of Life
-When a spell you cast with a spell slot restores [[Hit Points]] to a creature, that creature regains additional [[Hit Points]] on the turn you cast the spell. The additional [[Hit Points]] equal 2 plus the spell slot's level.
+When a spell you cast with a spell slot restores [[Hit Point]] to a creature, that creature regains additional [[Hit Point]] on the turn you cast the spell. The additional [[Hit Point]] equal 2 plus the spell slot's level.
 
 ### Level 3: Preserve Life
-As a [[Magic action]], you present your [[Holy Symbol]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[Hit Points]] equal to five times your Cleric level. Choose [[Bloodied]] creatures within 30 feet of yourself (which can include you), and divide those [[Hit Points]] among them. This feature can restore a creature to no more than half its [[Hit Points]] maximum.
+As a [[Magic action]], you present your [[Holy Symbol]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[Hit Point]] equal to five times your Cleric level. Choose [[Bloodied]] creatures within 30 feet of yourself (which can include you), and divide those [[Hit Point]] among them. This feature can restore a creature to no more than half its [[Hit Point]] maximum.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
@@ -126,7 +126,7 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom 
 You gain a feature from your Cleric Subclass.
 
 ### Level 6: Blessed Healer
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[Hit Points]] to one creature other than you, you regain [[Hit Points]] equal to 2 plus the spell slot's level.
+The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[Hit Point]] to one creature other than you, you regain [[Hit Point]] equal to 2 plus the spell slot's level.
 
 ## Level 7: Blessed Strikes
 Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).
@@ -152,7 +152,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 Divine Strike. The extra damage of your Divine Strike increases to 2d8.
 
-Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Points]] equal to twice your Wisdom modifier.
+Potent Spellcasting. When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Point]] equal to twice your Wisdom modifier.
 
 ## Level 14: Subclass Feature
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.
@@ -164,7 +164,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Cleric Subclass.
 
 ### Level 17: Supreme Healing
-When you would normally roll one or more dice to restore [[Hit Points]] to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 [[Hit Points]] to a creature with a spell, you restore 12.
+When you would normally roll one or more dice to restore [[Hit Point]] to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 [[Hit Point]] to a creature with a spell, you restore 12.
 
 ## Level 19: Epic Bo
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Fate]] is recommended.

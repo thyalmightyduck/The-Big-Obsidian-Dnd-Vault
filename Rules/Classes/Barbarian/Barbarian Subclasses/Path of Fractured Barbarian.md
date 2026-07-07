@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -130,7 +130,7 @@ You gain a feature from your Barbarian subclass.
 While your Rage is not active, you can take the [[Disengage action]] or [[Help action]] as a [[Bonus Action]]. While your Rage is active, your [[attack rolls]] with [[Unarmed Strike]]s score a [[Critical Hit]] on a roll of 19 or 20 on the d20.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement
@@ -145,7 +145,7 @@ Sundering Blow. Before the start of your next turn, the next [[Attack Rolls]] m
 You gain a feature from your Barbarian subclass.
 
 ### Level 14: Better Half
-When you are reduced to 0 [[Hit Points]] and not killed outright, you can drop to 1 [[Hit Points]] instead, and you gain [[Temporary Hit Points]] equal to half your [[Hit Points]] maximum. In addition, if your Rage is active, your Rage ends. If your Rage was not active, you immediately activate your Rage (even if you have no remaining uses of your Rage). If any of these [[Temporary Hit Points]] remain after 1 minute, they vanish.
+When you are reduced to 0 [[Hit Point]] and not killed outright, you can drop to 1 [[Hit Point]] instead, and you gain [[Temporary Hit Point]] equal to half your [[Hit Point]] maximum. In addition, if your Rage is active, your Rage ends. If your Rage was not active, you immediately activate your Rage (even if you have no remaining uses of your Rage). If any of these [[Temporary Hit Point]] remain after 1 minute, they vanish.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 

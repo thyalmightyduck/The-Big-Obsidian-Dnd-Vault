@@ -10,7 +10,7 @@
 
 Creature Type. You are an Undead.
 
-Dance of Death. As a bonus action, you can make a DC 15 Charisma ([musical instrument](https://5e.tools/items.html#musical%20instrument_phb) or Performance) check. If you succeed, the next [[Attack Rolls]] you make before the end of your turn has advantage. If you succeed on the check by 5 or more, you can roll one of your Hit Dice (without expending it) and gain [[temporary hit points]] equal to the number rolled.
+Dance of Death. As a bonus action, you can make a DC 15 Charisma ([musical instrument](https://5e.tools/items.html#musical%20instrument_phb) or Performance) check. If you succeed, the next [[Attack Rolls]] you make before the end of your turn has advantage. If you succeed on the check by 5 or more, you can roll one of your Hit Dice (without expending it) and gain [[Temporary Hit Point]] equal to the number rolled.
 
 Eternal Party. You don't need to sleep, and you can finish a long rest in 4 hours if you spend those hours enjoying revelry, such as telling stories or playing music.
 

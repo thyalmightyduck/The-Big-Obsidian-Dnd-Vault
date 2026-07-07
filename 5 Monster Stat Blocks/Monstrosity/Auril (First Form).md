@@ -58,7 +58,7 @@
 # **<u>Traits</u>**  
 **Divine Being** Auril can't be [[surprised]] and can't be changed into another form against her will
 
-**Divine Rejuvenation.** When Auril drops to 0 [[hit points]], her body turns to slush and melts away. Auril instantly reappears in her second form, in an unoccupied space within 60 feet of where her first form disappeared. Her initiative count doesn't change.
+**Divine Rejuvenation.** When Auril drops to 0 [[Hit Point]], her body turns to slush and melts away. Auril instantly reappears in her second form, in an unoccupied space within 60 feet of where her first form disappeared. Her initiative count doesn't change.
 
 **Innate Spellcasting.** Auril's innate spellcasting ability is Charisma (spell save DC 21, +13 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 - At will: [[chromatic orb]] (cold orb only; see "Actions" below), [[detect magic]], [[misty step]] 
@@ -121,7 +121,7 @@ While she's on the island, the Frostmaiden can take one of the following lair ac
 - Auril telepathically communicates with any number of creatures at once, provided they're all on the island. This effect lasts until Auril stops concentrating on it (as if concentrating on a spell) or until she leaves the island or uses a different lair action.
 ## Auril's Three Forms
 
-In her current weakened state, Auril can assume three different forms. To destroy her, heroes must reduce each of her forms to 0 [[hit points]] one after another. After she's defeated in her third and final form, Auril dies. As long as she has mortal followers who worship her, however, Auril is reborn at full strength during the next winter solstice, with divine power far beyond what is reflected in the stat blocks presented here.
+In her current weakened state, Auril can assume three different forms. To destroy her, heroes must reduce each of her forms to 0 [[Hit Point]] one after another. After she's defeated in her third and final form, Auril dies. As long as she has mortal followers who worship her, however, Auril is reborn at full strength during the next winter solstice, with divine power far beyond what is reflected in the stat blocks presented here.
 
 After finishing a [[long rest]], Auril regains any of her forms that were destroyed, provided at least one form survives. When she transitions from one form to another, she loses all the traits and actions of the old form and gains those of the new form.
 

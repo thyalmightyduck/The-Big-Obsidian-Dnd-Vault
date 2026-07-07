@@ -24,8 +24,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D8 per Artificer level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Constitution, Intelligence
 
@@ -342,12 +342,12 @@ You gain an [[Epic Boon feat]] or another feat of your choice for which you qual
 ## Level 20: Soul of Artifice
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-Cheat Death. If you're reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
+Cheat Death. If you're reduced to 0 [[Hit Point]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Point]] instead change to a number equal to 20 times the number of magic items disintegrated.
 
 Magical Guidance. When you finish a [[Short Rest]], you regain all expended uses of your Flash of Genius if you have [[Attunement]] to at least one magic item.
 
 ### Level 20: Variant Capstone: Weapon of Legend
-_The [[Soul of Artifice]] feature an Artificer gains at 20th level allows them to cheat death—sacrificing their creations to regain [[Hit Points]] when they drop to 0 [[Hit Points]]—and to regain uses of Flash of Genius after completing a [[Short Rest]]. While these are useful, they are also passive abilities that don't capture the flavor of a particular subclass. With the DM's permission, an Artificer who reaches level 20 can choose an alternative feature associated with their subclass instead of Soul of Artifice._
+_The [[Soul of Artifice]] feature an Artificer gains at 20th level allows them to cheat death—sacrificing their creations to regain [[Hit Point]] when they drop to 0 [[Hit Point]]—and to regain uses of Flash of Genius after completing a [[Short Rest]]. While these are useful, they are also passive abilities that don't capture the flavor of a particular subclass. With the DM's permission, an Artificer who reaches level 20 can choose an alternative feature associated with their subclass instead of Soul of Artifice._
 
 You are able to connect your spirit to your allies, making them living weapons. You gain the following benefits while wielding your Ghaal'Shaarat.
 

@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -93,7 +93,7 @@ Desert. When this effect is activated, all other creatures in your aura take 2 
 
 Sea. When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes 1d6 lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level.
 
-Tundra. When this effect is activated, each creature of your choice in your aura gains 2 [[temporary hit points]], as icy spirits inure it to suffering. The [[temporary hit points]] increase when you reach certain levels in this class, increasing to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level.
+Tundra. When this effect is activated, each creature of your choice in your aura gains 2 [[Temporary Hit Point]], as icy spirits inure it to suffering. The [[Temporary Hit Point]] increase when you reach certain levels in this class, increasing to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level.
 
 ## Level 3: Primal Knowledge
 You gain [[proficiency]] in another [[skill]] of your choice from the [[skill]] list available to Barbarians at level 1.
@@ -141,7 +141,7 @@ You gain a feature from your Barbarian subclass.
 At 10th level, you learn to use your mastery of the storm to protect others. Each creature of your choice has the [[damage resistance]] you gained from the Storm Soul feature while the creature is in your Storm Aura.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement

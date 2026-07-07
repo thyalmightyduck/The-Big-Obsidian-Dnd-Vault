@@ -5,7 +5,7 @@ _Abjuration Level 3_
 **Components:** V, S
 **Duration:** [[Concentration]], up to 1 minute
 
-Choose any number of creatures within range. For the duration, each target has [[Advantage]] on Wisdom saving throws and [[Death Saving Throws]] and regains the maximum number of [[Hit Points]] possible from any healing.
+Choose any number of creatures within range. For the duration, each target has [[Advantage]] on Wisdom saving throws and [[Death Saving Throws]] and regains the maximum number of [[Hit Point]] possible from any healing.
 
 **Classes:** [[Cleric]]
 **Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Forge Adept Artificer]], [[Leader Tamer]], [[Life Domain Cleric]], [[Oath of Devotion Paladin]], [[Oath of the Guardian Paladin]], [[Oath of the Harvest Paladin]], [[Oath of the Hearth Paladin]], [[Peace Domain Cleric]], [[Solidarity Domain Cleric]]

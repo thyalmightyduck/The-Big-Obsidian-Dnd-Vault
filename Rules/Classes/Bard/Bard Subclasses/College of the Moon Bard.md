@@ -27,8 +27,8 @@
 **Primary Ability:** Charisma
 
 **Hit Point Die:** D8 per Bard level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **Saving Throw Proficiencies:** Dexterity, Charisma
 
@@ -111,7 +111,7 @@ The primal and ever-changing power of the moon flows through you, granting you t
 
 Inspired Eclipse. When you take a [[Bonus Action]] to give a creature a Bardic Inspiration die, you can have the [[Invisible Condition]] and teleport up to 30 feet to an unoccupied space you can see as part of that [[Bonus Action]]. This invisibility lasts until the start of your next turn and ends early immediately after you make an attack roll, deal damage, or cast a spell.
 
-Lunar Vitality. Once per turn when you restore [[Hit Points]] to a creature with a spell, you can expend a Bardic Inspiration die and increase the amount of [[Hit Points]] restored by a number equal to a roll of the Bardic Inspiration die. The creature's [[Speed]] also increases by 10 feet until the end of its next turn.
+Lunar Vitality. Once per turn when you restore [[Hit Point]] to a creature with a spell, you can expend a Bardic Inspiration die and increase the amount of [[Hit Point]] restored by a number equal to a roll of the Bardic Inspiration die. The creature's [[Speed]] also increases by 10 feet until the end of its next turn.
 
 ### Level 3: Primal Lore
 You learn Druidic and one cantrip from the Druid spell list. It counts as a Bard spell for you but doesn't count against the number of cantrips you know. Whenever you gain a Bard level, you can replace this cantrip with another cantrip of your choice from the Druid spell list.
@@ -132,7 +132,7 @@ You gain a feature from your Bard Subclass.
 ### Level 6: Blessing of Moonlight
 You always have the [[Moonbeam]] spell prepared.
 
-When you cast [[Moonbeam]], you can modify the spell so that you glow faintly while the spell is active. While glowing, you shed [[Dim Light]] out to 5 feet, and whenever a creature fails its saving throw against the effects of this Moonbeam, another creature of your choice that you can see within 60 feet of yourself regains 2d4 [[Hit Points]].
+When you cast [[Moonbeam]], you can modify the spell so that you glow faintly while the spell is active. While glowing, you shed [[Dim Light]] out to 5 feet, and whenever a creature fails its saving throw against the effects of this Moonbeam, another creature of your choice that you can see within 60 feet of yourself regains 2d4 [[Hit Point]].
 
 Once you use this feature to modify a casting of Moonbeam, you can't use it again until you finish a [[Long Rest]].
 

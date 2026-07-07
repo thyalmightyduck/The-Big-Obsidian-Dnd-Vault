@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -120,12 +120,12 @@ Hamstring Blow. The target's [[Speed]] is reduced by 15 feet until the start 
 You gain a feature from your Barbarian subclass.
 
 ### Level 10: Consume Darkness
-At 10th level, while raging, you can feed on the shadows around you to restore your vitality. While in [[dim light]] or [[darkness]], you can use a [[bonus action]] to regain [[hit points]] equal to 1d12 + your Constitution modifier. For the duration of your rage (up to 1 minute), you regain 1 hit point at the start of each of your turns.
+At 10th level, while raging, you can feed on the shadows around you to restore your vitality. While in [[dim light]] or [[darkness]], you can use a [[bonus action]] to regain [[Hit Point]] equal to 1d12 + your Constitution modifier. For the duration of your rage (up to 1 minute), you regain 1 hit point at the start of each of your turns.
 
 Once you use this feature, you must finish a short or [[long rest]] before you can use it again.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement

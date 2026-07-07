@@ -133,7 +133,7 @@ At 10th level, you gain a feature granted by your chosen discipline.
 You gain new ways to use your latent psychic powers to manipulate the essence of your spells and spellcasting. You gain three new ways to use your Psychic Points:
 - _**Prescribed Effects.**_ Once per turn when a target you can see within 30 feet of you succeeds on an Intelligence, Wisdom, or Charisma saving throw against a spell you cast, you can expend a Psychic Point to fill its mind with scrambled psionic energy, forcing it to reroll the d20 and use the lower roll for its saving throw, possibly turning a success into a failure.
 - _**Mentally Prepared.**_ Once per turn, when a target you can see within 30 feet of you, including yourself, fails an Intelligence, Wisdom, or Charisma saving throw, you can use a Psychic Point and add your Intelligence modifier to the creature's saving throw, potentially turning the failure into a success.
-- _**Fight or Flight Response.**_ As a bonus action, you can expend a Psychic Point and teleport up to 30 feet to an unoccupied space you can see. You immediately gain [[temporary hit points]] equal to twice your intelligence modifier.
+- _**Fight or Flight Response.**_ As a bonus action, you can expend a Psychic Point and teleport up to 30 feet to an unoccupied space you can see. You immediately gain [[Temporary Hit Point]] equal to twice your intelligence modifier.
 ## Level 11: Greater Formula (6th)
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
 At 11th level, you discover a magical secret called a Greater Formula. Choose one 6th-level spell from the [[apothecary spell]] list as this formula.

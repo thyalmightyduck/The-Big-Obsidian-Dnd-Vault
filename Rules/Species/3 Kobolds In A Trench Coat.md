@@ -14,7 +14,7 @@
 **Clever Opportunists:** You have [[Proficiency]] in [[Sleight of Hand]] and [[Stealth]]. If one [[Kobold]] is busy performing a task requiring hands or tools, the other two can maintain balance and alertness.
 **Stacked Strength:** As three [[Kobold]]s pretending to be one, you are adept at leveraging your combined strength to carry out tasks, You count as one size larger when determining you carrying capacity and the weight you can push, drag, or lift.
 **Uncoordinated Chaos:** As an optional feature, when one [[Kobold]] takes damage, the tower might wobble:
-- When you take damage, roll a d20. On a roll of 1-5 the [[Kobold]]s collapse, scattering into three small creatures. I takes an action for the kobolds to reform into their trench coat disguise. While scattered, each creature has an AC of 13 and 5 [[hit points]]. If all three [[Kobold]]s are reduced to 0 [[hit points]], you die as normal.
+- When you take damage, roll a d20. On a roll of 1-5 the [[Kobold]]s collapse, scattering into three small creatures. I takes an action for the kobolds to reform into their trench coat disguise. While scattered, each creature has an AC of 13 and 5 [[Hit Point]]. If all three [[Kobold]]s are reduced to 0 [[Hit Point]], you die as normal.
 **Languages:** You can speak, read, and write Common and Draconic.
 
 ##### Credit

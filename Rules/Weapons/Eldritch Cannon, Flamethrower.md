@@ -1,7 +1,7 @@
 *Tiny or Small Object*
 
 **[[Armor Class]]:** 18
-**[[Hit Points]]:** Equal to five times you [[artificer]] level
+**[[Hit Point]]:** Equal to five times you [[artificer]] level
 **Ability Scores:** STR: 10 DEX: 10 CON: 10 INT: 10 WIS: 10 CHA: 10
 **Damage Immunities:** Poison, Psychic
 **Condition Immunities:** [[Blinded]], [[Charmed]], [[Deafened]], [[Exhaustion]], [[Frightened]], [[Grappled]], [[Incapacitated]], [[Invisible Condition]], [[Paralyzed]], [[Petrified]], [[Poisoned]], [[Prone]], [[Restrained]], [[Stunned]], [[Unconscious]] 

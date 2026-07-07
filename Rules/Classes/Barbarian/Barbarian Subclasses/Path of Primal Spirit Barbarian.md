@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -89,7 +89,7 @@ The companion is [[Friendly]] to you and your allies and obeys your commands. 
 
 The Beast in Combat. In combat, the companion acts during your turn. It can move and use its [[Reaction]] on its own, but the only action it takes is the [[Dodge action]] unless you take a [[Bonus Action]] to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the [[Attack action]] to command the beast to take the Beast's Strike action. If you have the [[Incapacitated]] condition, the companion acts on its own and isn't limited to the [[Dodge action]].
 
-Restoring or Replacing the Beast. If the companion has died within the last hour, you can take a [[Magic action]] to touch it and expend a use of your Rage. The companion returns to life immediately with all its [[Hit Points]] restored.
+Restoring or Replacing the Beast. If the companion has died within the last hour, you can take a [[Magic action]] to touch it and expend a use of your Rage. The companion returns to life immediately with all its [[Hit Point]] restored.
 
 Whenever you finish a [[Long Rest]], you can summon a different primal companion, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
 
@@ -135,14 +135,14 @@ You gain a feature from your Barbarian subclass.
 ### Level 10: Skinrider's Trance
 You take a [[Magic action]] to enter a trance and choose your primal companion or one Beast currently under the effect of your [[Animal Friendship]] spell within 60 feet of yourself. For the duration of this trance, you possess the chosen creature.
 
-Once you possess a creature's body, you control it. Your [[Hit Points]], [[Hit Dice]] , Strength, Dexterity, Constitution, [[Speed]], and senses are replaced by the creature's. You otherwise keep your game statistics. This possession ends if you choose to exit the trance (no action required by you), if the Beast you're possessing is reduced to 0 [[Hit Points]], or if you and the Beast are on different planes of existence.
+Once you possess a creature's body, you control it. Your [[Hit Point]], [[Hit Dice]] , Strength, Dexterity, Constitution, [[Speed]], and senses are replaced by the creature's. You otherwise keep your game statistics. This possession ends if you choose to exit the trance (no action required by you), if the Beast you're possessing is reduced to 0 [[Hit Point]], or if you and the Beast are on different planes of existence.
 
 While in this trance, your body falls into a catatonic state. You can't move or take [[Reaction]]s, and you're unaware of your surroundings. You can remain in the trance for a number of hours up to half your Barbarian level plus your Constitution modifier.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending one use of your Rage (no action required).
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement
@@ -157,7 +157,7 @@ Sundering Blow. Before the start of your next turn, the next [[Attack Rolls]] m
 You gain a feature from your Barbarian subclass.
 
 ### Level 14: Shape of the Wild
-As a [[Bonus Action]], you can choose a new form for your primal companion, causing it to transform instantaneously. When you cause your primal companion to transform in this way, its current [[Hit Points]] change to its new [[Hit Points]] maximum.
+As a [[Bonus Action]], you can choose a new form for your primal companion, causing it to transform instantaneously. When you cause your primal companion to transform in this way, its current [[Hit Point]] change to its new [[Hit Point]] maximum.
 
 Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]]. You can also restore your use of it by expending one use of your Rage (no action required).
 

@@ -1,4 +1,4 @@
-# WOP Champion Fighter
+# Champion Fighter
 ## Player’s Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |
@@ -27,8 +27,8 @@
 **Primary Ability:** Strength or Dexterity
 
 **Hit Point Die:** D10 per Fighter level
-**[[Hit Points]] at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] at Level 1:** 10 + Con. modifier
+**[[Hit Point]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Perception]], or [[Survival]].
@@ -53,7 +53,7 @@ You have honed your martial prowess and gain a [[Fighting Style feat]] of your
 Whenever you gain a Fighter level, you can replace the [[feat]] you chose with a different [[Fighting Style feat]].
 
 ## Level 1: Second Wind
-You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Points]] equal to 1d10 plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Point]] equal to 1d10 plus your Fighter level.
 
 You can use this feature twice. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -70,10 +70,21 @@ You can push yourself beyond your normal limits for a moment. On your turn, you 
 Once you use this feature, you can't do so again until you finish a [[Short rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ## Level 2: Tactical Mind
-You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Points]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Point]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
+
+### Champion
+_Pursue Physical Excellence in Combat_
+A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
+
+### Level 3: Improved Critical
+Your attack rolls with weapons and Unarmed Strikes can score a [[Critical Hit]] on a roll of 19 or 20 on the d20.
+
+### Level 3: Remarkable Athlete
+Thanks to your athleticism, you have [[Advantage]] on [[Initiative]] rolls and Strength (Athletics) checks.
+In addition, immediately after you score a [[Critical Hit]], you can move up to half your [[Speed]] without provoking [[Opportunity Attacks]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
@@ -90,6 +101,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 7: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 7: Additional Fighting Style
+You gain another Fighting Style feat of your choice.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -103,6 +117,9 @@ When you attack with a weapon whose mastery property you can use, you can replac
 
 ## Level 10: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 10: Heroic Warrior
+The thrill of battle drives you toward victory. During combat, you can give yourself [[Heroic Inspiration]] whenever you start your turn without it.
 
 ## Level 11: Two Extra Attacks
 You can attack three times instead of once whenever you take the [[Attack action]] on your turn.
@@ -124,6 +141,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 15: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 15: Superior Critical
+Your attack rolls with weapons and Unarmed Strikes can now score a [[Critical Hit]] on a roll of 18–20 on the d20.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -139,6 +159,11 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and
 
 ## Level 18: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 18: Survivor
+You attain the pinnacle of resilience in battle, giving you these benefits.
+**Defy Death:** You have [[Advantage]] on [[Death Saving Throws]]. Moreover, when you roll 18–20 on a [[Death Saving Throws]], you gain the benefit of rolling a 20 on it.
+**Heroic Rally:** At the start of each of your turns, you regain [[Hit Point]] equal to 5 plus your Constitution modifier if you are [[Bloodied]] and have at least 1 [[Hit Point]].
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Combat Prowess]] is recommended.

@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -89,7 +89,7 @@ Combat. Your body undergoes a unique change which magically alters your physica
 
 Additionally, immediately before you make a melee weapon attack on your turn, you can use your [[bonus action]] to stretch your arms, increasing your reach by 5 feet for the rest of the turn. The first time you hit while your arms are stretched in this way, the attack deals an extra 1d6 damage of the weapon's type.
 
-Utility. The bubbling elixir in your stomach is perfectly mixed to dissolve and absorb anything you can swallow. As a [[bonus action]], you can consume any object you can fit in your mouth. When you do so, you can expend one of your [[Hit Dice]] as part of this [[bonus action]] to heal yourself. Roll the die, add your Constitution modifier, and regain a number of [[hit points]] equal to the total (minimum of 1). Swallowing an object in this way destroys it, provided the object isn't magical. You can use this feature a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[long rest]].
+Utility. The bubbling elixir in your stomach is perfectly mixed to dissolve and absorb anything you can swallow. As a [[bonus action]], you can consume any object you can fit in your mouth. When you do so, you can expend one of your [[Hit Dice]] as part of this [[bonus action]] to heal yourself. Roll the die, add your Constitution modifier, and regain a number of [[Hit Point]] equal to the total (minimum of 1). Swallowing an object in this way destroys it, provided the object isn't magical. You can use this feature a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[long rest]].
 
 Whimsy. You focus on the magical brew inside you, only to get an array of strange and unruly effects. While in this state, you gain one of the following effects at the start of each of your turns:
 
@@ -147,7 +147,7 @@ You gain a feature from your Barbarian subclass.
 When you finish a [[long rest]], choose one of the following conditions: [[blinded]], [[charmed]], [[exhaustion]], [[frightened]], [[paralyzed]], [[petrified]], [[poisoned]], [[prone]], [[restrained]], or [[stunned]]. You have [[advantage]] on saving throws against that condition until you choose a different one with this feature.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement

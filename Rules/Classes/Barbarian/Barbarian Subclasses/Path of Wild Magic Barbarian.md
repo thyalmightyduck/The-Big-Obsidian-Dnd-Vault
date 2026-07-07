@@ -28,8 +28,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -99,7 +99,7 @@ Wild Magic
 
 | d8  | Magical Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Shadowy tendrils lash around you. Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution [[saving throw]] or take 1d12 necrotic damage. You also gain 1d12 [[temporary hit points]].                                                                                                                                                                                                                                             |
+| 1   | Shadowy tendrils lash around you. Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution [[saving throw]] or take 1d12 necrotic damage. You also gain 1d12 [[Temporary Hit Point]].                                                                                                                                                                                                                                             |
 | 2   | You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a [[bonus action]].                                                                                                                                                                                                                                                                                                          |
 | 3   | An intangible spirit, which looks like a [[flumph]] or a [[pixie]] (your choice), appears within 5 feet of one creature of your choice that you can see within 30 feet of you. At the end of the current turn, the spirit explodes, and each creature within 5 feet of it must succeed on a Dexterity [[saving throw]] or take 1d6 force damage. Until your rage ends, you can use this effect again, summoning another spirit, on each of your turns as a [[bonus action]]. |
 | 4   | Magic infuses one weapon of your choice that you are holding. Until your rage ends, the weapon's [[damage type]] changes to force, and it gains the light and thrown properties, with a normal range of 20 feet and a long range of 60 feet. If the weapon leaves your hand, the weapon reappears in your hand at the end of the current turn.                                                                                                                           |
@@ -158,7 +158,7 @@ _10th-level Path of Wild Magic feature_
 When you are imperiled during your rage, the magic within you can lash out; immediately after you take damage or fail a [[saving throw]] while raging, you can use your [[reaction]] to roll on the Wild Magic table and immediately produce the effect rolled. This effect replaces your current Wild Magic effect.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement

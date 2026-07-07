@@ -26,8 +26,8 @@
 **Primary Ability:** Strength or Dexterity
 
 **Hit Point Die:** D10 per Fighter level
-**[[Hit Points]] at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] at Level 1:** 10 + Con. modifier
+**[[Hit Point]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Perception]], or [[Survival]].
@@ -52,7 +52,7 @@ You have honed your martial prowess and gain a [[Fighting Style feat]] of your
 Whenever you gain a Fighter level, you can replace the [[feat]] you chose with a different [[Fighting Style feat]].
 
 ## Level 1: Second Wind
-You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Points]] equal to 1d10 plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Point]] equal to 1d10 plus your Fighter level.
 
 You can use this feature twice. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -69,7 +69,7 @@ You can push yourself beyond your normal limits for a moment. On your turn, you 
 Once you use this feature, you can't do so again until you finish a [[Short rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ## Level 2: Tactical Mind
-You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Points]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an [[ability check]], you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Point]], you roll 1d10 and add the number rolled to the [[ability check]], potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.

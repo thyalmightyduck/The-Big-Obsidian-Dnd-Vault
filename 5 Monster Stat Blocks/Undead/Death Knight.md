@@ -62,7 +62,7 @@ Small Or Medium Undead, Chaotic Evil
 
 **Marshal Undead:** Undead creatures of the death knight's choice (excluding itself) in a 60-foot [[Emanation]] originating from it have [[Advantage]] on [[attack rolls]] and saving throws. It can't use this trait if it has the [[Incapacitated]] condition.
 
-**Undead Restoration:** If the death knight is destroyed before it atones for its evil, it gains a new body in 1d10 days, reviving with all its [[Hit Points]]. The new body appears in a location significant to the death knight.
+**Undead Restoration:** If the death knight is destroyed before it atones for its evil, it gains a new body in 1d10 days, reviving with all its [[Hit Point]]. The new body appears in a location significant to the death knight.
 # <u>Actions</u> 
 
 **Multiattack:** The death knight makes three Dread Blade attacks.

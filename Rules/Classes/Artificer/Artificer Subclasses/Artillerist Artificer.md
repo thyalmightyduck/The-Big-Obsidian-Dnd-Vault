@@ -24,8 +24,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D8 per Artificer level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Constitution, Intelligence
 
@@ -249,7 +249,7 @@ At 3rd level, you learn how to create a magical cannon. Using [[woodcarver's to
 
 Once you create a cannon, you can't do so again until you finish a [[long rest]] or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.
 
-The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of [[hit points]] equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an [[ability check]] or a [[saving throw]], treat all its ability scores as 10 (+0). If the [[mending]] spell is cast on it, it regains 2d6 [[hit points]]. It disappears if it is reduced to 0 [[hit points]] or after 1 hour. You can dismiss it early as an action.
+The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of [[Hit Point]] equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an [[ability check]] or a [[saving throw]], treat all its ability scores as 10 (+0). If the [[mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. It disappears if it is reduced to 0 [[Hit Point]] or after 1 hour. You can dismiss it early as an action.
 
 When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a [[bonus action]] to cause the cannon to activate if you are within 60 feet of it. As part of the same [[bonus action]], you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
@@ -259,7 +259,7 @@ When you create the cannon, you determine its appearance and whether it has legs
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Eldritch Cannon, Flamethrower]]   | The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity [[saving throw]] against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
 | [[Eldritch Cannon, Force Ballista]] | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.                                                                                                     |
-| [[Eldritch Cannon, Protector]]      | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of [[temporary hit points]] equal to 1d8 + your Intelligence modifier (minimum of +1).                                                                                                                            |
+| [[Eldritch Cannon, Protector]]      | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of [[Temporary Hit Point]] equal to 1d8 + your Intelligence modifier (minimum of +1).                                                                                                                            |
 ## Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another [[feat]] of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, and 16.
@@ -353,6 +353,6 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you 
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-Cheat Death. If you're reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
+Cheat Death. If you're reduced to 0 [[Hit Point]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Point]] instead change to a number equal to 20 times the number of magic items disintegrated.
 
 Magical Guidance. When you finish a [[Short Rest]], you regain all expended uses of your Flash of Genius if you have [[Attunement]] to at least one magic item.

@@ -28,8 +28,8 @@
 **Primary Ability:** Wisdom
 
 **Hit Point Die:** D8 per Druid level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
@@ -108,9 +108,9 @@ When you reach certain Druid levels, your number of known forms and the maximum�
 
 Rules While Shape-Shifted. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-[[Temporary Hit Points]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.
+[[Temporary Hit Point]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Point]] equal to your Druid level.
 
-Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
+Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Point]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
 
 No Spellcasting. You can't cast spells, but shape-shifting doesn't break your [[Concentration]] or otherwise interfere with a spell you've already cast.
 
@@ -153,7 +153,7 @@ When you reach a Druid level specified in the Circle of the Symbiote Spells tabl
 ### Level 3: Primal Symbiote
 Vines and roots grow across your body, forming a symbiotic network. As it draws physical and magical nourishment from you, the symbiote grants you a number of benefits.
 **Fortifying Presence:** You have [[Advantage]] on Constitution saving throws that you make to maintain [[Concentration]].
-**Symbiotic Transformation:** As a [[Bonus Action]], you can expend one use of Wild Shape to allow your symbiote to transform you into a plant-like brute as fibrous plates and vines cover your skin. For 1 minute, you gain a +2 bonus to AC, you gain a number of [[Temporary Hit Points]] equal to 2 plus half your Druid level (round down) at the start of each of your turns, and you gain [[Advantage]] on Dexterity (Stealth) checks.
+**Symbiotic Transformation:** As a [[Bonus Action]], you can expend one use of Wild Shape to allow your symbiote to transform you into a plant-like brute as fibrous plates and vines cover your skin. For 1 minute, you gain a +2 bonus to AC, you gain a number of [[Temporary Hit Point]] equal to 2 plus half your Druid level (round down) at the start of each of your turns, and you gain [[Advantage]] on Dexterity (Stealth) checks.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.

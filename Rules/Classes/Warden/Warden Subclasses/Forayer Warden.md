@@ -17,7 +17,7 @@
 ##### Core Traits
 **Hit Point Die:** D10 per Warden level
 **Hit Points at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Warden Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] per additional Warden Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **Saving Throw Proficiencies:** Strength, Wisdom
 

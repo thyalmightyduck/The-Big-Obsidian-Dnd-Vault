@@ -28,7 +28,7 @@
 
 **Hit Point Die:** D8 per Rogue level
 **Hit Points at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Rogue Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] per additional Rogue Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **Saving Throw Proficiencies:** Dexterity, Intelligence
 

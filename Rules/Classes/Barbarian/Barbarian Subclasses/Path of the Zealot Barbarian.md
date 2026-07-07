@@ -27,8 +27,8 @@
 **Primary Ability:** Strength
 
 **Hit Point Die:** D12 per Barbarian level
-**[[Hit Points]] at Level 1:** 12 + Con. modifier
-**[[Hit Points]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
+**[[Hit Point]] at Level 1:** 12 + Con. modifier
+**[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 
@@ -84,7 +84,7 @@ Barbarians who walk the Path of the Zealot receive boons from a god or pantheon.
 You can channel divine power into your strikes. On each of your turns while your Rage is active, the first creature you hit with a weapon or an [[Unarmed Strike]] takes extra damage equal to 1d6 plus half your Barbarian level (round down). The extra damage is Necrotic or Radiant; you choose the type each time you deal the damage.
 
 ### Level 3: Warrior of the Gods
-A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a [[Bonus Action]], you can expend dice from the pool, roll them, and regain a number of [[Hit Points]] equal to the roll's total.
+A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a [[Bonus Action]], you can expend dice from the pool, roll them, and regain a number of [[Hit Point]] equal to the roll's total.
 
 Your pool regains all expended dice when you finish a [[Long Rest]].
 
@@ -132,7 +132,7 @@ As a [[Bonus Action]], you unleash a battle cry infused with divine energy. Up 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you expend a use of your Rage (no action required) to restore your use of it.
 
 ## Level 11: Relentless Rage
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ## Level 12: Ability Score Improvement
@@ -147,7 +147,7 @@ Sundering Blow. Before the start of your next turn, the next [[Attack Rolls]] m
 You gain a feature from your Barbarian subclass.
 
 ### Level 14: Rage of the Gods
-When you activate your Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 [[Hit Points]]. Once you use this feature, you can't do so again until you finish a [[Long Rest]].
+When you activate your Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 [[Hit Point]]. Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
 While in this form, you gain the benefits below.
 
@@ -155,7 +155,7 @@ Flight. You have a [[Fly Speed]] equal to your [[Speed]] and can hover.
 
 [[Resistance]]. You have [[Resistance]] to Necrotic, Psychic, and Radiant damage.
 
-Revivification. When a creature within 30 feet of you would drop to 0 [[Hit Points]], you can take a [[Reaction]] to expend a use of your Rage to instead change the target's [[Hit Points]] to a number equal to your Barbarian level.
+Revivification. When a creature within 30 feet of you would drop to 0 [[Hit Point]], you can take a [[Reaction]] to expend a use of your Rage to instead change the target's [[Hit Point]] to a number equal to your Barbarian level.
 
 ## Level 15: Persistent Rage
 When you roll [[Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[Long Rest]].

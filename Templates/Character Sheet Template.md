@@ -100,7 +100,7 @@
 >>>> **Level 7:** [[Guardian Of Faith]], [[Wall Of Fire]]
 >>>> **Level 9:** [[Greater Restoration]], [[Summon Celestial]] 
 >> **Level 3: Healing Light** You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
->>> As a [[Bonus Action]], you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Points]] equal to the roll's total. Your pool regains all expended dice when you finish a [[Long Rest]].
+>>> As a [[Bonus Action]], you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Point]] equal to the roll's total. Your pool regains all expended dice when you finish a [[Long Rest]].
 >
 #### Level 4: Ability Score Improvement
 >>You gain the Ability Score Improvement of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
@@ -115,7 +115,7 @@
 >> You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 >
 >> **Shifting:** 
->> As a [[bonus action]], you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a [[bonus action]]. When you shift, you gain [[Temporary Hit Points]] equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
+>> As a [[bonus action]], you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a [[bonus action]]. When you shift, you gain [[Temporary Hit Point]] equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
 >> Once you shift, you can't do so again until you finish a short or [[Long Rest]].
 >
 >> **Graceful:** 

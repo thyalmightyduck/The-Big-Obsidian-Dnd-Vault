@@ -24,8 +24,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D8 per Artificer level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Constitution, Intelligence
 
@@ -255,7 +255,7 @@ By 3rd level, your tinkering has borne you a faithful companion, a [[steel defe
 
 In combat, the defender shares your [[initiative]] count, but it takes its turn immediately after yours. It can move and use its [[reaction]] on its own, but the only action it takes on its turn is the [[Dodge Action]], unless you take a [[bonus action]] on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[incapacitated]], the defender can take any action of its choice, not just [[Dodge Action]].
 
-If the [[mending]] spell is cast on it, it regains 2d6 [[hit points]]. If it has died within the last hour, you can use your [[smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The [[steel defender]] returns to life after 1 minute with all its [[hit points]] restored.
+If the [[mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. If it has died within the last hour, you can use your [[smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The [[steel defender]] returns to life after 1 minute with all its [[Hit Point]] restored.
 
 At the end of a [[long rest]], you can create a new [[steel defender]] if you have your [[smith's tools]] with you. If you already have a [[steel defender]] from this feature, the first one immediately perishes. The defender also perishes if you die.
 
@@ -296,7 +296,7 @@ You gain a feature from your Artificer Subclass.
 At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your [[steel defender]] hits a target, you can channel magical energy through the strike to create one of the following effects:
 
 - The target takes an extra 2d6 force damage.
-- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 [[hit points]] to it.
+- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 [[Hit Point]] to it.
 
 You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a [[long rest]].
 
@@ -351,6 +351,6 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you 
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-Cheat Death. If you're reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
+Cheat Death. If you're reduced to 0 [[Hit Point]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Point]] instead change to a number equal to 20 times the number of magic items disintegrated.
 
 Magical Guidance. When you finish a [[Short Rest]], you regain all expended uses of your Flash of Genius if you have [[Attunement]] to at least one magic item.

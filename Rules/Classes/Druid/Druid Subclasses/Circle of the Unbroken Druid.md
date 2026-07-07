@@ -28,8 +28,8 @@
 **Primary Ability:** Wisdom
 
 **Hit Point Die:** D8 per Druid level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Druid Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
@@ -108,9 +108,9 @@ When you reach certain Druid levels, your number of known forms and the maximum�
 
 Rules While Shape-Shifted. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-[[Temporary Hit Points]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.
+[[Temporary Hit Point]]. When you assume a Wild Shape form, you gain a number of [[Temporary Hit Point]] equal to your Druid level.
 
-Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
+Game Statistics. Your game statistics are replaced by the [[Beast]]'s stat block, but you retain your creature type; [[Hit Point]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your [[skill]] and [[saving throw]] proficiencies and use your [[Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a [[skill]] or [[saving throw]] modifier in the [[Beast]]'s stat block is higher than yours, use the one in the stat block.
 
 No Spellcasting. You can't cast spells, but shape-shifting doesn't break your [[Concentration]] or otherwise interfere with a spell you've already cast.
 
@@ -141,7 +141,7 @@ When you reach a Druid level specified in the Circle of the Unbroken Spells tabl
 When you cast [[Shillelagh]], you can cause any Melee weapon you are holding to be imbued with nature's power; you can choose for the weapon to retain its normal damage die instead of becoming a d8. In addition, you can use any weapon with which you have proficiency as a [[Spellcasting Focus]] for your Druid spells.
 
 ### Level 3: Wild Recovery
-You gain the ability to recover using the wild, bestial magic that courses through you. As a [[Bonus Action]], you can expend a use of your Wild Shape to regain a number of [[Hit Points]] equal to 2d6 plus your Druid level. This healing increases by 1d6 when you reach Druid levels 10 (3d6 plus your Druid level) and 14 (4d6 plus your Druid level).
+You gain the ability to recover using the wild, bestial magic that courses through you. As a [[Bonus Action]], you can expend a use of your Wild Shape to regain a number of [[Hit Point]] equal to 2d6 plus your Druid level. This healing increases by 1d6 when you reach Druid levels 10 (3d6 plus your Druid level) and 14 (4d6 plus your Druid level).
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
@@ -182,7 +182,7 @@ You gain a feature from your Druid Subclass.
 ### Level 14: Nature Armor
 Your connection to nature helps to shield you from harm. You're always under the effect of the [[Barkskin]] spell.
 
-In addition, at the start of each of your turns, you gain a number of [[Temporary Hit Points]] equal to half your Druid level (round down). When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level plus half your Druid level (round down).
+In addition, at the start of each of your turns, you gain a number of [[Temporary Hit Point]] equal to half your Druid level (round down). When you assume a Wild Shape form, you gain a number of [[Temporary Hit Point]] equal to your Druid level plus half your Druid level (round down).
 
 ## Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.

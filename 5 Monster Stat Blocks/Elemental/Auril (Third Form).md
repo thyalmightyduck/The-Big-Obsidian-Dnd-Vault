@@ -58,7 +58,7 @@
 # **<u>Traits</u>**  
 **Divine Being.** Auril can't be [[surprised]] and can't be changed into another form against her will.
 
-**Divine Resurrection.** When Auril drops to 0 [[hit points]], her crystalline form shatters and her divine spark vanishes. She is dead until the next winter solstice, when she reappears at full health in a cold, remote location of her choosing.
+**Divine Resurrection.** When Auril drops to 0 [[Hit Point]], her crystalline form shatters and her divine spark vanishes. She is dead until the next winter solstice, when she reappears at full health in a cold, remote location of her choosing.
 
 **Frigid Aura.** So long as Auril has at least 1 hit point in this form, each creature within 10 feet of her takes 10 cold damage at the start of each of her turns.
 
@@ -72,7 +72,7 @@
 
 **Polar Ray.** _Ranged Spell Attack:_ +13 to hit, range 120 ft., one target. _Hit:_ 14 (4d6) cold damage.
 
-**Blizzard Veil.** Auril creates a magical blizzard in a 30-foot-radius sphere centered on herself. The area within the sphere is [[heavily obscured]], and the sphere moves with Auril. The effect lasts until Auril drops to 0 [[hit points]] in this form, until she chooses to end the effect (no action required), or until her [[concentration]] is broken (as if concentrating on a spell).
+**Blizzard Veil.** Auril creates a magical blizzard in a 30-foot-radius sphere centered on herself. The area within the sphere is [[heavily obscured]], and the sphere moves with Auril. The effect lasts until Auril drops to 0 [[Hit Point]] in this form, until she chooses to end the effect (no action required), or until her [[concentration]] is broken (as if concentrating on a spell).
 
 # Legendary Actions
 _Legendary Action Uses: 3. Immediately after another creature's turn, Auril can expend a use to take one of the following actions. Auril regains all expended uses at the start of each of their turns._
@@ -119,7 +119,7 @@ While she's on the island, the Frostmaiden can take one of the following lair ac
 
 ## Auril's Three Forms
 
-In her current weakened state, Auril can assume three different forms. To destroy her, heroes must reduce each of her forms to 0 [[hit points]] one after another. After she's defeated in her third and final form, Auril dies. As long as she has mortal followers who worship her, however, Auril is reborn at full strength during the next winter solstice, with divine power far beyond what is reflected in the stat blocks presented here.
+In her current weakened state, Auril can assume three different forms. To destroy her, heroes must reduce each of her forms to 0 [[Hit Point]] one after another. After she's defeated in her third and final form, Auril dies. As long as she has mortal followers who worship her, however, Auril is reborn at full strength during the next winter solstice, with divine power far beyond what is reflected in the stat blocks presented here.
 
 After finishing a [[long rest]], Auril regains any of her forms that were destroyed, provided at least one form survives. When she transitions from one form to another, she loses all the traits and actions of the old form and gains those of the new form.
 

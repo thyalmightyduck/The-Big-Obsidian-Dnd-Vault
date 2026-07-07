@@ -9,9 +9,9 @@ Choose one creature or nonmagical object that you can see within range. The crea
 
 An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.
 
-**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a [[Challenge Rating]] equal to or less than the target's [[Challenge Rating]] or level. The target's game statistics are replaced by the stat block of the new form, but it retains its [[Hit Points]], [[Hit Point Dice]], alignment, and personality.
+**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a [[Challenge Rating]] equal to or less than the target's [[Challenge Rating]] or level. The target's game statistics are replaced by the stat block of the new form, but it retains its [[Hit Point]], [[Hit Point Dice]], alignment, and personality.
 
-The target gains a number of [[Temporary Hit Points]] equal to the [[Hit Points]] of the new form. These [[Temporary Hit Points]] vanish if any remain when the spell ends.
+The target gains a number of [[Temporary Hit Point]] equal to the [[Hit Point]] of the new form. These [[Temporary Hit Point]] vanish if any remain when the spell ends.
 
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
 

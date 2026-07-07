@@ -15,8 +15,8 @@
 
 ##### Core Traits
 **Hit Point Die:** D10 per Captain level
-**[[Hit Points]] at Level 1:** 10 + Con. modifier
-**[[Hit Points]] per additional Captain Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point]] at Level 1:** 10 + Con. modifier
+**[[Hit Point]] per additional Captain Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
 **[[Saving Throw]] Proficiencies:** Constitution, Charisma
 
@@ -39,7 +39,7 @@ When you gain a level in a class other than your first, you gain only some of th
 **Armor Training:** [[Light Armor]], [[Medium Armor]], and [[Heavy armor]] and [[Shield]]s
 
 ## Level 1: Leadership
-You possess the ability to direct others to action—when under pressure, other people naturally turn to you for guidance. As an action in combat, choose a number of friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you, up to twice your [[proficiency bonus]]. Each creature can gain [[temporary hit points]] equal to your Captain level + your Charisma modifier. These [[temporary hit points]] last until they are depleted or the creature finishes a short or [[long rest]]. You must then finish a short or [[long rest]] to use this feature again.
+You possess the ability to direct others to action—when under pressure, other people naturally turn to you for guidance. As an action in combat, choose a number of friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you, up to twice your [[proficiency bonus]]. Each creature can gain [[Temporary Hit Point]] equal to your Captain level + your Charisma modifier. These [[Temporary Hit Point]] last until they are depleted or the creature finishes a short or [[long rest]]. You must then finish a short or [[long rest]] to use this feature again.
 
 ## Level 2: Fighting Style
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You cannot take a Fighting Style option more than once, even if you later get to choose again.

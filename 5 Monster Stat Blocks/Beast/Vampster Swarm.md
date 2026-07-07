@@ -61,14 +61,14 @@ Medium Swarm Of Tiny Beasts, Unaligned
 #### **<u>Features</u>**  
 **Keen Hearing And Sight:** The Swarm Has [[Advantage]] On Wisdom ([[Perception]]) Checks That Rely On Hearing Or Sight. 
 
-**Swarm:** The Swarm Can Occupy Another Creature’s Space And Vise Versa, And The Swarm Can Move Through Any Opening Large Enough For A Tiny Vampster. The Swarm Can’t Regain [[Hit Points]] Or Regain [[Temporary Hit Points]].
+**Swarm:** The Swarm Can Occupy Another Creature’s Space And Vise Versa, And The Swarm Can Move Through Any Opening Large Enough For A Tiny Vampster. The Swarm Can’t Regain [[Hit Point]] Or Regain [[Temporary Hit Point]].
 
 **Yet So Fluffy:** If The Swarm Hits A [[Humanoid]] Or [[Beast]] With A Melee Attack, That Creature Feels A Fluffy Sensation And Must Succeed On A DC 13 WIS Saving Throw Or Be [[Charmed]] By The Swarm Until The Start Of The Swarms Next Turn.
 #### <u>Actions</u> 
 
 **Multiattack:** The Swarm Makes Two Attacks
 
-**Bites:** *Melee Weapon Attack:* +4 To Hit, Reach 0ft., One Creature In Swarm’s Space. *Hit:* 4 (1d4+2) Piercing Damage Plus 2 (2d4) Necrotic, Or 2 (1d4) Piecing Damage Plus 1 Necrotic Damage If The Swarm Has Half Of It’s [[Hit Points]] Or Fewer. The Target’s Hit Point Maximum Is Reduced By An Amount Equal To The Necrotic Damage Taken. The Reduction Lasts Until The Target Finishes A [[Rules/Core Rules/Long Rest]]. 
+**Bites:** *Melee Weapon Attack:* +4 To Hit, Reach 0ft., One Creature In Swarm’s Space. *Hit:* 4 (1d4+2) Piercing Damage Plus 2 (2d4) Necrotic, Or 2 (1d4) Piecing Damage Plus 1 Necrotic Damage If The Swarm Has Half Of It’s [[Hit Point]] Or Fewer. The Target’s Hit Point Maximum Is Reduced By An Amount Equal To The Necrotic Damage Taken. The Reduction Lasts Until The Target Finishes A [[Rules/Core Rules/Long Rest]]. 
 
 **Habitat:** 
 **Treasure:** 

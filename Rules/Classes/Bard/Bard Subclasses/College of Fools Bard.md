@@ -27,8 +27,8 @@
 **Primary Ability:** Charisma
 
 **Hit Point Die:** D8 per Bard level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **Saving Throw Proficiencies:** Dexterity, Charisma
 
@@ -126,7 +126,7 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 You gain a feature from your Bard Subclass.
 
 ### Level 6: Gallows Humor
-When a creature that you can see within 60 feet of you is reduced to 0 [[Hit Points]] or killed outright, you can take a [[Reaction]] to regain an expended use of your Bardic Inspiration. When you do so, choose a creature within 30 feet of you that can hear and understand you. That creature must succeed on a Wisdom saving throw against your spell save DC or gain the [[Prone]] condition and have its [[Speed]] reduced to 0 until the end of its next turn. If the creature succeeds on the Wisdom saving throw, you regain the use of this ability. Otherwise, once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
+When a creature that you can see within 60 feet of you is reduced to 0 [[Hit Point]] or killed outright, you can take a [[Reaction]] to regain an expended use of your Bardic Inspiration. When you do so, choose a creature within 30 feet of you that can hear and understand you. That creature must succeed on a Wisdom saving throw against your spell save DC or gain the [[Prone]] condition and have its [[Speed]] reduced to 0 until the end of its next turn. If the creature succeeds on the Wisdom saving throw, you regain the use of this ability. Otherwise, once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
 ## Level 7: Countercharm
 You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a [[saving throw]] against an effect that applies the [[Charmed]] or [[Frightened]] condition, you can take a [[Reaction]] to cause the save to be rerolled, and the new roll has [[Advantage]].

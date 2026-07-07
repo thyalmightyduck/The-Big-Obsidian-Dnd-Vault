@@ -28,8 +28,8 @@
 **Primary Ability:** Charisma
 
 **Hit Point Die:** D8 per Bard level
-**[[Hit Points]] at Level 1:** 8 + Con. modifier
-**[[Hit Points]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
+**[[Hit Point]] at Level 1:** 8 + Con. modifier
+**[[Hit Point]] per additional Bard Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
 **Saving Throw Proficiencies:** Dexterity, Charisma
 
@@ -113,7 +113,7 @@ Your [[Speed]] increases by 10 feet. It increases by another 5 feet when you r
 ### Level 3: Inspirational Dance
 You learn how to use the universal language of dance. As a [[Bonus Action]], you can expend one use of your Bardic Inspiration to dance and reinvigorate another creature of your choice who can see you.
 
-When you do, roll your Bardic Inspiration die; that creature gains a number of [[Temporary Hit Points]] equal to the number rolled plus your Charisma modifier (minimum of 2 [[Temporary Hit Points]]). When a creature gains [[Temporary Hit Points]] in this way, it can immediately take a [[Reaction]] to move up to its [[Speed]] without provoking [[Opportunity Attack]]s or take the [[Dodge action]].
+When you do, roll your Bardic Inspiration die; that creature gains a number of [[Temporary Hit Point]] equal to the number rolled plus your Charisma modifier (minimum of 2 [[Temporary Hit Point]]). When a creature gains [[Temporary Hit Point]] in this way, it can immediately take a [[Reaction]] to move up to its [[Speed]] without provoking [[Opportunity Attack]]s or take the [[Dodge action]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
@@ -150,7 +150,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Bard Subclass.
 
 ### Level 14: Endless Dance
-Your dance has become so invigorating that it can inspire an ally to attack. When a creature would gain [[Temporary Hit Points]] from your Inspirational Dance feature, it can instead choose to take a [[Reaction]] to make one attack using a weapon or an [[Unarmed Strike]].
+Your dance has become so invigorating that it can inspire an ally to attack. When a creature would gain [[Temporary Hit Point]] from your Inspirational Dance feature, it can instead choose to take a [[Reaction]] to make one attack using a weapon or an [[Unarmed Strike]].
 
 In addition, your endless dancing allows you to more easily avoid being hit. You can take the [[Dodge action]] as a [[Bonus Action]], and whenever you take a [[Bonus Action]] to expend a Bardic Inspiration die, you can take the [[Dodge action]] as part of that [[Bonus Action]].
 

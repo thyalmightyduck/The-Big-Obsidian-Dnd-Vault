@@ -24,11 +24,11 @@
 | 20th  | +6                | Subclass Feature                                         | 3                | 15              | 4   | 3   | 3   | 3   | 2   |
 
 ## Level 1: Lay on Hands
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a [[Long Rest]]. With that pool, you can restore a total number of [[Hit Points]] equal to five times your Paladin level.
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a [[Long Rest]]. With that pool, you can restore a total number of [[Hit Point]] equal to five times your Paladin level.
 
-As a [[Bonus Action]], you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of [[Hit Points]] to that creature, up to the maximum amount remaining in the pool.
+As a [[Bonus Action]], you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of [[Hit Point]] to that creature, up to the maximum amount remaining in the pool.
 
-You can also expend 5 [[Hit Points]] from the pool of healing power to remove the [[Poisoned]] condition from the creature; those points don't also restore [[Hit Points]] to the creature.
+You can also expend 5 [[Hit Point]] from the pool of healing power to remove the [[Poisoned]] condition from the creature; those points don't also restore [[Hit Point]] to the creature.
 
 ## Level 1: Spellcasting
 You have learned to cast spells through prayer and meditation. The information below details how you use those rules with Paladin spells, which appear in the [[Paladin spell list]] later in the class's description.
@@ -116,7 +116,7 @@ Your strikes now carry supernatural power. When you hit a target with an attack 
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Restoring Touch
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[Blinded]], [[Charmed]], [[Deafened]], [[Frightened]], [[Paralyzed]], or [[Stunned]]. You must expend 5 [[Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[Hit Points]] to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[Blinded]], [[Charmed]], [[Deafened]], [[Frightened]], [[Paralyzed]], or [[Stunned]]. You must expend 5 [[Hit Point]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[Hit Point]] to the creature.
 
 ## Level 15: Subclass Feature
 You gain a feature from your Paladin Subclass.
