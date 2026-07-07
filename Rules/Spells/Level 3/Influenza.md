@@ -10,3 +10,6 @@ With a mighty sneeze that can be heard up to 300 feet away, you blast forth a 30
 Whilst [[poisoned]] in this way, a creature must roll a d12 at the start of each of its turns On a 3 or lower, it is racked by a coughing fit and becomes [[incapacitated]] until the start of its next turn Each creature within 5 feet of a creature when it becomes [[incapacitated]] in this way must succeed on a Constitution saving throw or also become [[poisoned]] in this way for the spell's duration
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the value a [[poisoned]] creature must roll on the d12 to cause a coughing fit increases by 1 for each slot level above 3rd.
+
+**Classes:** [[Cleric]], [[Druid]], [[Warlock]]
+**Subclasses:** [[Dark Petitioner Rogue]], [[Hand of Dread Pugilist]], [[Necromancer Tamer]]

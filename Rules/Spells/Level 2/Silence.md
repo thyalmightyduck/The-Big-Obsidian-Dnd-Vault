@@ -9,3 +9,5 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 **Classes:** [[Apothecary]], [[Bard]], [[Cleric]], [[Ranger]], [[Tamer]]
 **Subclasses:** [[Architect of Ruin Illrigger]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Inquisition Domain Cleric]], [[Leyline Magic Wizard]], [[The Fathomless Warlock]], [[The Undying Warlock]], [[way of shadow Monk]]
+**Species:** [[Elf]], [[Gnome (Mark of Scribing)]]
+**Feats:** [[Adept of the Red Robes]], [[Mark of Scribing]]

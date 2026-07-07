@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e62d74b2763e9dd3",
+            "id": "e221b99972349ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 2/Silence.md",
+                "file": "Rules/Spells/Level 3/Influenza.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Silence"
+              "title": "Influenza"
             }
           },
           {
@@ -472,14 +472,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e62d74b2763e9dd3",
+  "active": "e221b99972349ee1",
   "lastOpenFiles": [
+    "0 Roadmap/Roadmap.md",
+    "Rules/Spells/Level 2/Silence.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
     "Rules/Classes/Monk/Monk.md",
     "Rules/Classes/Fighter/Fighter.md",
-    "Rules/Spells/Level 2/Silence.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Scofflaw Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Samurai Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",

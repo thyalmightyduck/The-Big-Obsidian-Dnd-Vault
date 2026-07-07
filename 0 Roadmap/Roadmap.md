@@ -454,7 +454,7 @@ Finished Cantrip Links
 - [ ] Add picture to all species
 - [ ] Add all sources for species
 - [x] Removed AI Homebrew 
-- [ ] Add links to [[Silence]] spell
+- [x] Add links to [[Silence]] spell
 - [ ] add links to [[Influenza]] spell
 - [ ] Finish [[Delerium Dragon Wyrmling]]
 - [ ] Finish [[Eldritch Crawler]]
