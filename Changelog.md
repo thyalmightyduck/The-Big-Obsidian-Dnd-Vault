@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-06-2026 T 2029 · [[Rune Knight Fighter]]
+- 07-06-2026 T 2032 · [[Rune Knight Fighter]]
 - 07-06-2026 T 2027 · [[Smiths Tools]]
 - 07-06-2026 T 2026 · [[Artisans Tools]]
 - 07-06-2026 T 2026 · [[Gallus (Huden)]]
