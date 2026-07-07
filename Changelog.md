@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-06-2026 T 2038 · [[Scofflaw Fighter]]
+- 07-06-2026 T 2040 · [[Scofflaw Fighter]]
 - 07-06-2026 T 2036 · [[Roadmap]]
 - 07-06-2026 T 2036 · [[Samurai Fighter]]
 - 07-06-2026 T 2033 · [[Rune Knight Fighter]]
