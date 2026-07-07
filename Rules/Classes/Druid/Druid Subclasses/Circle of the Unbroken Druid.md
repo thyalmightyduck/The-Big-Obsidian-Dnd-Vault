@@ -1,4 +1,4 @@
-# WOP Circle of the Unbroken Druid
+# Circle of the Unbroken Druid
 ## The Griffon’s Saddlebag, Book 1 (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                        | Wild Shape | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8t  | 9th |
@@ -119,6 +119,30 @@ Objects. Your ability to handle objects is determined by the form's limbs rathe
 ## Level 3: Druid Subclass
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
 
+### Circle of the Unbroken
+_Use the Strength of Nature Itself to Empower Your Martial Prowess_
+
+Circle of the Unbroken is an order of Druids who have abandoned the patient teachings of their predecessors, deciding instead to take up arms in defense of the wilderness. These combative Druids form militias and harness the fury of nature itself to forcefully remove any encroaching evil that threatens their sacred lands.
+
+While the chaotic bend of nature is found within these Druids, their bodies and impulses are tamed through training and discipline. Originally from the unforgiving Festerwood, this circle's teachings are as rigorous as the forest, blending a mixture of offense and defense to stand up to all of the world's challenges.
+
+### Level 3: Unbroken Circle Spells
+When you reach a Druid level specified in the Circle of the Unbroken Spells table, you thereafter always have the listed spells prepared.
+
+**Circle of the Unbroken Spells:**
+
+| Druid Level | Prepared Spells                                                          |
+| ----------- | ------------------------------------------------------------------------ |
+| 3rd         | [[Ensnaring Strike]], [[Shillelagh]], [[Shining Smite]], [[True Strike]] |
+| 5th         | [[Haste]]                                                                |
+| 7th         | [[Fire Shield]]                                                          |
+| 9th         | [[Flame Strike]]         |
+### Level 3: Improved Shillelagh
+When you cast [[Shillelagh]], you can cause any Melee weapon you are holding to be imbued with nature's power; you can choose for the weapon to retain its normal damage die instead of becoming a d8. In addition, you can use any weapon with which you have proficiency as a [[Spellcasting Focus]] for your Druid spells.
+
+### Level 3: Wild Recovery
+You gain the ability to recover using the wild, bestial magic that courses through you. As a [[Bonus Action]], you can expend a use of your Wild Shape to regain a number of [[Hit Points]] equal to 2d6 plus your Druid level. This healing increases by 1d6 when you reach Druid levels 10 (3d6 plus your Druid level) and 14 (4d6 plus your Druid level).
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
@@ -130,6 +154,8 @@ In addition, you can expend one use of Wild Shape (no action required) to give y
 ## Level 6: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 6: Shillelagh Mastery
+While you're wielding a weapon under the effect of Shillelagh, you can attack twice with the weapon instead of once whenever you take the [[Attack action]] on your turn. In addition, you gain a +1 bonus to attack rolls and damage rolls made with that weapon; this bonus increases to +2 when you reach Druid level 10 and +3 when you reach Druid level 14. If the weapon already granted a bonus to attack rolls and damage rolls, you must choose whether to use that bonus or the one granted by this feature when attacking with it.
 
 ## Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
@@ -144,11 +170,19 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 ## Level 10: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 10: War Druid
+When you take the [[Attack Action]] on your turn, you can replace one of the attacks with a casting of one of your Druid cantrips that has a casting time of an action.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Druid Subclass.
+
+### Level 14: Nature Armor
+Your connection to nature helps to shield you from harm. You're always under the effect of the [[Barkskin]] spell.
+
+In addition, at the start of each of your turns, you gain a number of [[Temporary Hit Points]] equal to half your Druid level (round down). When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level plus half your Druid level (round down).
 
 ## Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.
