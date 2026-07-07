@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-06-2026 T 1652 · [[Circle of the Old Ways Druid]]
+- 07-06-2026 T 1700 · [[Circle of the Old Ways Druid]]
 - 07-06-2026 T 1652 · [[Ignatius Hooligan]]
 - 07-02-2026 T 1553 · [[Roadmap]]
 - 07-02-2026 T 1552 · [[Fount of Moonlight]]

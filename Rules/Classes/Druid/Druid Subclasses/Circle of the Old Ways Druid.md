@@ -128,6 +128,39 @@ They harness the power of the Elderwood trees, which are home to the souls of lo
 
 The Old Ways Sacred Sites table offers examples to choose or use as inspiration to create places steeped in the Old Ways where your circle might congregate or where you may commune with primeval powers.
 
+**Old Ways Sacred Sites:**
+
+|1d6|Sacred Site|
+|---|---|
+|1|Ring of standing stones atop a remote hilltop, each one marked with runes and symbols representing animal spirits|
+|2|Perpetually frozen river at the bottom of a deep ravine with a plethora of oversized and seemingly intelligent fish beneath the ice|
+|3|Hidden cave buried beneath a scorched dune, revealed by the shifting sands for a single night four times a year|
+|4|Turbulent tidepool by the coast with bottomless waters filled with glowing flora, fauna, and crystalline outcroppings|
+|5|Circle of ancient trees with ghost-white bark and blood-red leaves, each one bearing the face of a long-dead druid|
+|6|Massive barrow in the deep woods which contains the spirits of countless fey folk and the old gods of the natural world|
+### Level 3: Bough and Branch
+Even the humblest of your weapons channels the might of the old forest. When you cast [[Shillelagh]], you can cause a [[Shield Spell]] made of gnarled wood to grow into your free hand if you have one (no action required to don it), and it vanishes when the spell ends. You can't be forced to drop the affected weapon or Shield unless you have the [[Incapacitated]] condition.
+
+Additionally, for the duration of the spell, you ignore Somatic components of your Druid spells, and the weapon enhanced by the spell becomes a [[Druidic Focus]] for you.
+
+### Level 3: Circle of the Old Ways Spells
+When you reach a Druid level specified in the Circle of the Old Ways Spells table, you thereafter always have the listed spells prepared.
+
+**Circle of the Old Ways Spells:**
+
+| Druid Level | Prepared Spells                                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------------------------------ |
+| 3           | [[Ancestral Communion]], [[Barkskin]], [[Shield of Faith]], [[Shillelagh]], [[Spike Growth]]                       |
+| 5           | [[Magic Circle]], [[Plant Growth]]                                                                                 |
+| 7           | [[Freedom of Movement]], [[Private Sanctum]]                                                                       |
+| 9           | [[Awaken]], [[Tree Stride]] |
+### Level 3: Wood Wose
+As a [[Bonus Action]], or as part of casting [[Shillelagh]], you can expend a use of your Wild Shape to suffuse yourself with the power of the primordial woods, gaining the following benefits.
+**Bark Bulwark:** While you aren't wearing armor, your base [[Armor Class]] is 10 plus your Dexterity and Wisdom modifiers.
+**Elderwood Sap:** When you hit a creature with an attack roll using the weapon enhanced by [[Shillelagh]], the target is coated in Elderwood sap until the start of your next turn. While coated, the target has [[Disadvantage]] on attack rolls against targets other than you.
+**Oaken Resolve:** You have [[Advantage]] on Strength and Constitution saving throws.
+This effect lasts for 10 minutes. It ends early if you dismiss it (no action required), have the [[Incapacitated]] condition, or die.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
@@ -139,6 +172,10 @@ In addition, you can expend one use of Wild Shape (no action required) to give y
 ## Level 6: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 6: Oak and Thorn
+The wrath of the Elderwoods drives you and punishes your foes. When you activate your Wood Wose, you gain the following additional benefits for the duration.
+**Oakenfist:** You can attack twice instead of once whenever you take the [[Attack action]] on your turn.
+**Gnarled Thorns:** Once on each of your turns when you hit a creature with a melee attack roll using a weapon, the target takes an extra 1d6 Piercing damage.
 
 ## Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
@@ -153,11 +190,23 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 ## Level 10: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 10: Deepwood Elder
+Your connection to the Elderwood grows stronger. When you activate your Wood Wose, you now gain additional benefits for the duration.
+**Primeval Wrath:** Once per turn, when you hit a creature with a melee attack, you can force the target to succeed on a Strength saving throw against your spell save DC or have the [[Prone]] condition.
+**Bramblebark:** When a creature within 5 feet of you hits you with a melee attack, the attacker takes 1d8 Piercing damage. A creature takes this damage only once per turn.
+**Rampant Growth:** When you activate Wood Wose and at the start of each of your subsequent turns, you gain a number of [[Temporary Hit Points]] equal to your Wisdom modifier plus your [[Proficiency Bonus]].
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Druid Subclass.
+
+### Level 14: Ancient Protector
+When you awaken your connection to the Elderwood, you now become an incarnation of its ancient might. When you activate your Wood Wose, you now gain additional benefits for the duration.
+**Old Growth:** Your size increases to Large (along with anything you're wearing or carrying) if there is space to accommodate your growth, and your reach increases by 5 feet
+**Mighty Trunk:** You gain [[Resistance]] to Bludgeoning and Piercing damage.
+**Vengeance of the Elders:** When a creature that is covered in Elderwood Sap and is within your reach makes an attack roll, you can take a [[Reaction]] to make a melee attack against that creature.
 
 ## Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.
