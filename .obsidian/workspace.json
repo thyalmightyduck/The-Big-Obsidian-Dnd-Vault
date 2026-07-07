@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Warden Druid.md",
+                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of Wildfire Druid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Circle of the Warden Druid"
+              "title": "Circle of Wildfire Druid"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 5/Conjure Elemental.md",
+                "file": "5 Monster Stat Blocks/Elemental/Wildfire Spirit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -230,11 +230,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conjure Elemental"
+              "title": "Wildfire Spirit"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -452,7 +452,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 495.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -472,13 +473,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "934908baf9733514",
+  "active": "cca4be6c30fd2ec8",
   "lastOpenFiles": [
+    "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
+    "Pictures/Monsters/Wildfire Spirit BGR PNG.png.opdownload",
+    "Rules/Spells/Level 5/Lucky Charm.md",
+    "5 Monster Stat Blocks/Elemental/Wildfire Spirit.md",
+    "Rules/Spells/Level 2/Shining Smite.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of Wildfire Druid.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of Wicker Druid.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the Warden Druid.md",
+    "Rules/Spells/Level 5/Conjure Elemental.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Unbroken Druid.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Symbiote Druid.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Stars Druid.md",
     "Rules/Classes/Druid/Druid.md",
-    "Rules/Spells/Level 5/Conjure Elemental.md",
     "0 Roadmap/Roadmap.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Shepherd Druid.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Sea Druid.md",
@@ -495,15 +504,8 @@
     "5 Monster Stat Blocks/Beast/Giant Insect Monster.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Land Druid.md",
     "Rules/Classes/Wizard/Wizard Subclasses/Abjurer Wizard.md",
-    "Rules/Spells/Level 1/Armor of Agathys.md",
-    "Rules/Spells/Cantrips/Eldritch Blast.md",
-    "Rules/Spells/Level 1/False Life.md",
-    "Rules/Classes/Druid/Druid Subclasses/Circle of the Hive Druid.md",
-    "3 The Kingdom Of Nesafia/About Nesafia.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Socubba The City Of Justice/Soccuba.md",
     "Pictures/Monsters/Giaint Insect Monster BGR PNG.png",
     "Pictures/Monsters/Giaint Insect Monster BGR PNG.png.opdownload",
-    "Rules/Spells/Level 4/Giant Insect.md",
     "Pictures/Monsters/Zombie BGR PNG.png",
     "Pictures/Monsters/Zombie BGR PNG.png.opdownload",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png",
@@ -512,7 +514,6 @@
     "Rules/Classes/Wizard/Wizard Subclasses",
     "Rules/Classes/Warrior Sidekick",
     "Rules/Classes/Warden/Warden Subclasses",
-    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses",
     "Pictures/Monsters/image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png",
     "Pictures/Gods/The Moonweaver BGR PNG.png",
     "Pictures/Gods/The Knowing Mentor BGR PNG.png",

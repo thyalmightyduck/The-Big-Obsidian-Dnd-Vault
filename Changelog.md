@@ -1,6 +1,12 @@
 # Changelog
 
-- 07-06-2026 T 1755 · [[Roadmap]]
+- 07-06-2026 T 1823 · [[Wildfire Spirit]]
+- 07-06-2026 T 1816 · [[Lucky Charm]]
+- 07-06-2026 T 1814 · [[Circle of Wildfire Druid]]
+- 07-06-2026 T 1811 · [[Roadmap]]
+- 07-06-2026 T 1811 · [[Circle of Wicker Druid]]
+- 07-06-2026 T 1806 · [[Circle of the Warden Druid]]
+- 07-06-2026 T 1804 · [[Shining Smite]]
 - 07-06-2026 T 1753 · [[Circle of the Unbroken Druid]]
 - 07-06-2026 T 1747 · [[Circle of the Symbiote Druid]]
 - 07-06-2026 T 1741 · [[Circle of the Stars Druid]]
@@ -94,9 +100,3 @@
 - 06-28-2026 T 1008 · [[Star Warden]]
 - 06-28-2026 T 0959 · [[Lucian Relnor]]
 - 06-28-2026 T 0956 · [[Garak]]
-- 06-28-2026 T 0948 · [[Mordock]]
-- 06-28-2026 T 0920 · [[Session 9 (6-28-2026)]]
-- 06-26-2026 T 1729 · [[War Magic Wizard]]
-- 06-26-2026 T 1728 · [[Wand Lore Wizard]]
-- 06-26-2026 T 1728 · [[School of Transmutation Wizard]]
-- 06-26-2026 T 1726 · [[Shadow Arcane Tradition Wizard]]

@@ -1,4 +1,4 @@
-# WOP Circle of Wicker Druid
+# Circle of Wicker Druid
 ## The Crooked Moon (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                        | Wild Shape | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8t  | 9th |
@@ -119,6 +119,51 @@ Objects. Your ability to handle objects is determined by the form's limbs rathe
 ## Level 3: Druid Subclass
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
 
+### Circle of Wicker
+_Craft Effigies of Sacrifice and Protection_
+
+Cunning in their ancient art, Druids of the Circle of Wicker fashion twig dolls and effigies, binding their magic into these crude forms. These creations often resemble animals, rune shapes, natural symbols, or people. Protective tokens and promises of retribution against trespassers are these Druids' stock in trade. You can weave the magic of the land through your wicker creations as boons to your friends and banes to your foes.
+
+The effigies, charms, and tokens you weave can take a variety of shapes, each intending a ritualistic effect. Use the Wicker Effigies table for inspiration when determining your wicker token's appearance.
+
+**Wicker Effigies:**
+
+|1d12|Effigy|
+|---|---|
+|1|Antlered bowman to ensure a successful hunt|
+|2|Bird-headed scarecrow to protect crops from pests and blight|
+|3|Apple-adorned fertility goddess for a bountiful harvest|
+|4|Unsettling stick figures to ward off interlopers from hidden dwellings|
+|5|Goat with curved horns to ensure a safe winter|
+|6|Wolf's head to protect against dangers of the night|
+|7|Crescent moon with a crone's face to amplify magic rituals|
+|8|Fearsome tusked mask to grant ferocity in battle|
+|9|Spiraled sunburst with a grin to herald a long, warm summer|
+|10|Three-sided pyramid with laddered edges to mark the site of a sacrifice|
+|11|Club-wielding troll to guard roads, bridges, and other passageways|
+|12|Intricate ring that represents the cycle of the year to guarantee life, death, and rebirth|
+### Level 3: Bewitched Effigy
+Your primal magic can manifest as a wicker effigy and radiate out from it. As a [[Bonus Action]], you can expend a use of your Wild Shape to create a wicker effigy in an unoccupied space you can see within 30 feet of yourself.
+The effigy is a Small object (AC 15; HP equal to five times your Druid level; [[Vulnerability]] to Fire damage; [[Immunity]] to Poison and Psychic damage). The effigy vanishes after 1 minute, when reduced to 0 [[Hit Points]], or when you use this feature again. It radiates one of the following auras (chosen when you create the effigy) in a 30-foot [[Emanation]] that is filled with [[Dim Light]].
+**Sacrifice:** When a creature in the aura takes damage, you can take a [[Reaction]] to deal Fire damage to the creature equal to 1d8 plus your Wisdom modifier.
+**Soothe:** When you create the effigy, and as a [[Bonus Action]] on subsequent turns while the effigy remains, one creature that you can see within the aura regains 1d6 [[Hit Points]]. You can use this effigy to restore [[Hit Points]] a number of times equal to twice your spellcasting ability modifier.
+**Ward:** You and your allies within the aura gain a +1 bonus to AC.
+
+### Level 3: Circle of Wicker Spells
+When you reach a Druid level specified in the Circle of Wicker Spells table, you thereafter always have the listed spells prepared.
+
+**Circle of Wicker Spells:**
+
+| Druid Level | Prepared Spells                                          |
+| ----------- | -------------------------------------------------------- |
+| 3           | [[Bane]], [[Bless]], [[Summer Winds]], [[Zone of Truth]] |
+| 5           | [[Bestow Curse]], [[Leomunds Tiny Hut]]                  |
+| 7           | [[Death Ward]], [[Sanctum of the Shepherd]]              |
+| 9           | [[Hold Monster]], [[Lucky Charm]]                        |
+### Level 3: Wicker Token
+You can weave wicker tokens that carry a touch of your magic. When you finish a [[Long Rest]], you can create a number of tokens equal to your [[Proficiency Bonus]]. The tokens are Tiny objects (AC 5; HP 1; [[Immunity]] to Poison and Psychic damage). The tokens vanish when you finish your next [[Long Rest]].
+You can cast spells with a range of touch on a creature carrying one of your tokens while the two of you are on the same plane of existence.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
@@ -130,6 +175,11 @@ In addition, you can expend one use of Wild Shape (no action required) to give y
 ## Level 6: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 6: Wicker Rising
+The energy you channel through your wicker effigy grows stronger, empowering its benefits.
+**Sacrifice:** The Fire damage increases to 2d8 plus your Wisdom modifier.
+**Soothe:** The healing of your effigy increases to 1d8, and when you target a creature with the effigy, you can expend 5 [[Hit Points]] from the effigy to remove one of the following conditions on the target: [[Charmed]], [[Frightened]], [[Paralyzed]], [[Poisoned]], [[Stunned]].
+**Ward:** Choose a damage type other than Force. You and your allies in the aura have [[Resistance]] to the chosen type.
 
 ## Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
@@ -144,11 +194,20 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 ## Level 10: Subclass Feature
 You gain a feature from your Druid Subclass.
 
+### Level 10: Soulbound Poppet
+As a [[Magic action]], you can expend a use of your Wild Shape and choose a creature you can see within 60 feet of yourself to create a wicker doll that vaguely resembles the target. The doll is a Tiny object (AC 10; HP 10; [[Vulnerability]] to Fire damage; [[Immunity]] to Poison and Psychic damage). The doll vanishes after 1 minute or when it is reduced to 0 [[Hit Points]]. While the doll exists, the target has [[Disadvantage]] on attack rolls against a creature carrying the doll, and when a creature carrying the doll damages the target for the first time on a turn, the target takes an extra 2d10 Necrotic damage.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Druid Subclass.
+
+### Level 14: Wicker Zenith
+Your wicker effigies reach the pinnacle of their power. At the start of your turn, you can change your effigy's aura to a different one. Additionally, all the auras grow stronger in the following ways.
+**Sacrifice:** The Fire damage increases to 3d8 plus your Wisdom modifier.
+**Soothe:** When you or your allies start a turn in the aura, the [[Charmed]] or [[Frightened]] condition (target's choice) ends on it.
+**Ward:** Choose an ability. You and each of your allies within the aura have [[Advantage]] on saving throws made with the chosen ability.
 
 ## Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.

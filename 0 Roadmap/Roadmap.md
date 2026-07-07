@@ -175,8 +175,8 @@ Finished Cantrip Links
 	- [x] Stars
 	- [x] Symbiote
 	- [x] Unbroken
-	- [ ] Warden
-	- [ ] Wicker
+	- [x] Warden
+	- [x] Wicker
 	- [ ] Wildfire
 - [ ] Fighter
 	- [ ] Arcane Archer
