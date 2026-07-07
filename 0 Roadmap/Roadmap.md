@@ -167,7 +167,7 @@ Finished Cantrip Links
 	- [x] Moon
 	- [x] Mutation
 	- [x] Old Ways
-	- [ ] Petal
+	- [ ] Petal (Temp Taken Down)
 	- [x] Sea
 	- [x] Shadows
 	- [x] Shepherd
@@ -200,11 +200,11 @@ Finished Cantrip Links
 	- [x] Rune Knight
 	- [x] Samurai
 	- [x] Scoffiaw
-	- [ ] Spirit-Fused
-	- [ ] Steel Hawk
+	- [ ] Spirit-Fused (Temp Taken Down)
+	- [x] Steel Hawk
 - [ ] Gunslinger
 	- [ ] Deadeye
-	- [ ] High ROller
+	- [ ] High Roller
 	- [ ] Secret Agent
 	- [ ] Spellslinger
 	- [ ] Trick Shot

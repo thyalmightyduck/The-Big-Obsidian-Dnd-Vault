@@ -123,6 +123,10 @@ When you attack with a weapon whose mastery property you can use, you can replac
 ## Level 10: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 10: Eagle Eye
+Beginning at 10th level, your attack made immediately after or during your Launch scores a critical hit on a roll of 19 or 20. If you hit a flying creature with this attack, it must also make a Strength saving throw (DC equal to 8 + your proficiency bonus + your Strength modifier). On a failed save, its speed is reduced to 0 feet until the start of its next turn.
+In addition, you gain proficiency in the Perception skill if you don't already have it, and your proficiency bonus is doubled for any Wisdom ([[Perception]]) check you make that relies on sight.
+
 ## Level 11: Two Extra Attacks
 You can attack three times instead of once whenever you take the [[Attack action]] on your turn.
 
@@ -143,6 +147,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 15: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Level 15: Predatory Instinct
+Starting at 15th level, you have advantage on initiative rolls, and when you roll initiative and have no uses of Launch remaining, you regain one use.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -158,6 +165,10 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and
 
 ## Level 18: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 18: Improved Launch
+Starting at 18th level, when you hit a creature with a melee weapon attack immediately after or during your Launch, it must also succeed on a Strength saving throw (save DC equal to 8 + your proficiency bonus + your Strength modifier) or be knocked [[prone]].
+In addition, you can push yourself beyond your normal limits when you use your Launch feature. When you do, your leap can total a maximum of 90 feet, instead of 30, and you don't suffer any damage from falling until you land again. Once you use this feature, you shouldn't do so again before you finish a short or long rest. Each time you do, you suffer one level of [[exhaustion]]. You can't use this feature in this way if you're suffering from two or more levels of [[exhaustion]].
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Combat Prowess]] is recommended.
