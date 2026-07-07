@@ -2,11 +2,12 @@
 Finished Cantrip Links
 # Second Quest
 2 person dnd one shots 
-# Recent Added
+# Recent Added 
  Plugins
 - Checklist
 - Vault Change Log
 - Text Format
+- Git
 # Main Tasks
 ## Classes
 #todo/classes
@@ -455,7 +456,7 @@ Finished Cantrip Links
 - [ ] Add all sources for species
 - [x] Removed AI Homebrew 
 - [x] Add links to [[Silence]] spell
-- [ ] add links to [[Influenza]] spell
+- [x] add links to [[Influenza]] spell
 - [ ] Finish [[Delerium Dragon Wyrmling]]
 - [ ] Finish [[Eldritch Crawler]]
 - [ ] Finish [[Awakened Shrub]]

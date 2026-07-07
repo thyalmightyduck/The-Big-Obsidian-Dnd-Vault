@@ -1,7 +1,9 @@
 # Changelog
 
+- 07-06-2026 T 2053 · [[Roadmap]]
+- 07-06-2026 T 2053 · [[Ignatius Hooligan]]
+- 07-06-2026 T 2052 · [[Delerium Dragon Wyrmling]]
 - 07-06-2026 T 2051 · [[Influenza]]
-- 07-06-2026 T 2050 · [[Roadmap]]
 - 07-06-2026 T 2050 · [[Silence]]
 - 07-06-2026 T 2049 · [[Way of Shadow Monk]]
 - 07-06-2026 T 2044 · [[Steel Hawk Fighter]]
@@ -98,5 +100,3 @@
 - 07-06-2026 T 2001 · [[The Hour Glass Magic Shop]]
 - 07-06-2026 T 2001 · [[The Dusty Tome Magic Shop]]
 - 07-06-2026 T 2001 · [[The Twisting Nether Magic Shop]]
-- 07-06-2026 T 2001 · [[Ignatius Hooligan]]
-- 07-06-2026 T 1959 · [[Hero Fighter]]
