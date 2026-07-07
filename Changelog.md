@@ -1,6 +1,7 @@
 # Changelog
 
-- 07-06-2026 T 2047 · [[Silence]]
+- 07-06-2026 T 2049 · [[Way of Shadow Monk]]
+- 07-06-2026 T 2048 · [[Silence]]
 - 07-06-2026 T 2045 · [[Roadmap]]
 - 07-06-2026 T 2044 · [[Steel Hawk Fighter]]
 - 07-06-2026 T 2041 · [[Scofflaw Fighter]]
@@ -99,4 +100,3 @@
 - 07-06-2026 T 2001 · [[Ignatius Hooligan]]
 - 07-06-2026 T 1959 · [[Hero Fighter]]
 - 07-06-2026 T 1957 · [[Eldritch Knight Fighter]]
-- 07-06-2026 T 1951 · [[Echo Knight Fighter]]

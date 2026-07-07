@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Fighter/Fighter.md",
+                "file": "Rules/Classes/Monk/Monk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fighter"
+              "title": "Monk"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
+                "file": "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Steel Hawk Fighter"
+              "title": "Way of Shadow Monk"
             }
           }
         ],
@@ -474,8 +474,12 @@
   },
   "active": "e62d74b2763e9dd3",
   "lastOpenFiles": [
-    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
+    "Rules/Classes/Monk/Monk.md",
+    "Rules/Classes/Fighter/Fighter.md",
+    "Rules/Spells/Level 2/Silence.md",
+    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Scofflaw Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Samurai Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",
@@ -496,10 +500,6 @@
     "Rules/Tools/Jewelers Tools.md",
     "Rules/Tools/Glassblowers Tools.md",
     "Rules/Tools/Cobblers Tools.md",
-    "Rules/Tools/Cartographers Tools.md",
-    "Rules/Tools/Carpenters Tools.md",
-    "Rules/Spells/Level 2/Find Traps.md",
-    "Rules/Tools/Calligraphers Supplies.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
