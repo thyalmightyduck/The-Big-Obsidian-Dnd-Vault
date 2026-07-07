@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",
+                "file": "Rules/Classes/Fighter/Fighter Subclasses/Samurai Fighter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rune Knight Fighter"
+              "title": "Samurai Fighter"
             }
           }
         ],
@@ -450,8 +450,8 @@
   },
   "active": "934908baf9733514",
   "lastOpenFiles": [
-    "Rules/Tools/Smiths Tools.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",
+    "Rules/Tools/Smiths Tools.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Purple Dragon Knight (Banneret) Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Psi Warrior Fighter.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Nightwatcher Fighter.md",

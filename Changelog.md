@@ -1,6 +1,8 @@
 # Changelog
 
-- 07-06-2026 T 2032 · [[Rune Knight Fighter]]
+- 07-06-2026 T 2033 · [[Samurai Fighter]]
+- 07-06-2026 T 2033 · [[Roadmap]]
+- 07-06-2026 T 2033 · [[Rune Knight Fighter]]
 - 07-06-2026 T 2027 · [[Smiths Tools]]
 - 07-06-2026 T 2026 · [[Artisans Tools]]
 - 07-06-2026 T 2026 · [[Gallus (Huden)]]
@@ -23,7 +25,6 @@
 - 07-06-2026 T 2026 · [[Up The Greenway]]
 - 07-06-2026 T 2026 · [[By Hammer And Anvil]]
 - 07-06-2026 T 2026 · [[Blunted Blade Blacksmith]]
-- 07-06-2026 T 2025 · [[Roadmap]]
 - 07-06-2026 T 2025 · [[Purple Dragon Knight (Banneret) Fighter]]
 - 07-06-2026 T 2022 · [[Psi Warrior Fighter]]
 - 07-06-2026 T 2018 · [[Nightwatcher Fighter]]
@@ -99,4 +100,3 @@
 - 07-06-2026 T 1941 · [[Find Traps]]
 - 07-06-2026 T 1939 · [[Dungeoneer Fighter]]
 - 07-06-2026 T 1935 · [[Couatl Herald Fighter]]
-- 07-06-2026 T 1934 · [[Character Sheet Template]]

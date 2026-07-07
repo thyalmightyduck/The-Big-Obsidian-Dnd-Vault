@@ -197,7 +197,7 @@ Finished Cantrip Links
 	- [x] Night Watcher
 	- [x] Psi Warrior
 	- [x] Purple Dragon Knight (Bannneret)
-	- [ ] Rune Knight
+	- [x] Rune Knight
 	- [ ] Samurai
 	- [ ] Scoffiaw
 	- [ ] Spirit-Fused

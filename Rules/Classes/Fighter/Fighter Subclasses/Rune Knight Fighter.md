@@ -156,6 +156,15 @@ When you attack with a weapon whose mastery property you can use, you can replac
 ## Level 10: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Great Stature
+_10th-level Rune Knight feature_
+The magic of your runes permanently alters you. When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.
+Moreover, the extra damage you deal with your Giant's Might feature increases to 1d8.
+
+### Additional Rune Known
+_10th-level Rune Knight feature_
+You learn an additional Rune.
+
 ## Level 11: Two Extra Attacks
 You can attack three times instead of once whenever you take the [[Attack action]] on your turn.
 
@@ -176,6 +185,14 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 15: Subclass Feature
 You gain a feature from your Fighter Subclass.
 
+### Master of Runes
+_15th-level Rune Knight feature_
+You can invoke each rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.
+
+### Additional Rune Known
+_15th-level Rune Knight feature_
+You learn an additional Rune.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -191,6 +208,10 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and
 
 ## Level 18: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Runic Juggernaut
+_18th-level Rune Knight feature_
+You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Combat Prowess]] is recommended.
