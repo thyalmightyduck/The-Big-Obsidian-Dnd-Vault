@@ -75,6 +75,22 @@ You have a mind for tactics on and off the battlefield. When you fail an [[abili
 ## Level 3: Fighter Subclass
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
 
+### Steel Hawk
+Powerful, nimble soldiers from the mountain city of Heavensteppe, Steel Hawks use explosive bursts of speed to launch themselves great distances in order to reach faraway threats. Despite their often heavy armor, those who follow this archetype leap and strike with the agility of seasoned assassins, becoming every inch the fearsome birds of prey their name would suggest.
+
+### Level 3: Launch
+When you choose this archetype at 3rd level, you learn to magically launch yourself with a mighty leap. While standing on a solid surface, you can use a bonus action to leap horizontally, vertically, or a combination of both, up to a combined distance that totals no more than 15 feet. For example, you can choose to leap 10 feet horizontally and 5 feet vertically, potentially allowing you to avoid a dangerous trap or barricade blocking your path. When you reach 7th level in this class, the leap's distance can total up to 30 feet instead.
+You can't use this feature if your speed is 0, and if you leap completely horizontally, you still leap 1 foot off the ground. Leaping in this way doesn't provoke opportunity attacks, and if you fall immediately after using this feature, you can subtract up to 30 feet from the fall when calculating falling damage.
+You can use this feature three times, and you regain all expended uses of it when you finish a short or long rest. Beginning at 7th level, you can use this feature four times between rests, and beginning at 15th level, you can use it five times between rests.
+Leaping in this way can also strengthen your strikes by using the force of your momentum. If you make a melee weapon attack immediately after using Launch, you have advantage on the attack roll, and if the attack hits, the target takes an extra 1d8 damage of the weapon's type. At 10th level, this extra damage becomes 1d10, and at 18th level, it becomes 1d12. The attack can be made immediately after you land at the end of the leap or during the leap's movement.
+
+### Level 3: Nimble Lancer
+Starting at 3rd level, you are remarkably light on your feet and capable of counterbalancing even some of the most awkward of equipment. Lances have the versatile property for you while you're not mounted, dealing 1d8 piercing damage on a hit when held with one hand and 1d12 piercing damage when wielded with two. When you use your Launch feature and immediately hit with a melee attack using a lance, it counts as if you're wielding it with two hands.
+If you hit a creature within 5 feet of you using a lance, you can immediately move up to 5 feet away from it, without provoking an opportunity attack from the target. You must be standing and have movement remaining in order to move in this way.
+
+### Level 3: Bird Caller
+Also at 3rd level, you learn to identify common birds by their calls, and you have advantage on Wisdom ([[Animal Handling]]) checks when interacting with any beast that has an innate flying speed. In addition, you gain the ability to cast the [[animal messenger]] spell, but only as a ritual and only targeting a beast that has an innate flying speed.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
@@ -89,6 +105,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 7: Subclass Feature
 You gain a feature from your Fighter Subclass.
+
+### Level 7: Steel Grace
+Starting at 7th level, wearing armor doesn't impose disadvantage on your Dexterity ([[Stealth]]) checks. In addition, whenever you make a Dexterity saving throw, you can use your Launch feature as a reaction. When you do so, you take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
