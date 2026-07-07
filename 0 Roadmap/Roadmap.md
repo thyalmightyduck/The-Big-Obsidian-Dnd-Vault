@@ -174,7 +174,7 @@ Finished Cantrip Links
 	- [x] Spores
 	- [x] Stars
 	- [x] Symbiote
-	- [ ] Unbroken
+	- [x] Unbroken
 	- [ ] Warden
 	- [ ] Wicker
 	- [ ] Wildfire
