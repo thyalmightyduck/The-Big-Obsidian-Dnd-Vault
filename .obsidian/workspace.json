@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Gunslinger/Gunslinger Subclasses/White Hat Gunslinger.md",
+                "file": "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "White Hat Gunslinger"
+              "title": "Shadowmaster Illrigger"
+            }
+          },
+          {
+            "id": "8dacc8716d1a2f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Monster Stat Blocks/Fiend/Horned Devil.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Horned Devil"
             }
           }
         ],
@@ -113,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2786357becde5cec",
@@ -192,13 +215,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Monster Stat Blocks/Monstrosity/Auril (First Form).md",
+                "file": "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Auril (First Form)"
+              "title": "Outline of Shadowmaster Illrigger"
+            }
+          },
+          {
+            "id": "3cb053736b5f5809",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -251,16 +284,6 @@
             }
           },
           {
-            "id": "3cb053736b5f5809",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
             "id": "ea4b040392292634",
             "type": "leaf",
             "state": {
@@ -281,12 +304,11 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 495.5,
-    "collapsed": true
+    "width": 495.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,8 +328,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9ded9e3c49b278d",
+  "active": "3cb053736b5f5809",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Fiend/Horned Devil.md",
+    "Pictures/Monsters/Horned Devil BGR PNG.png",
+    "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Fiend/Devil Jurist.md",
+    "Pictures/Monsters/Devil Jurist BGR PNG.png",
+    "Pictures/Monsters/Devil Jurist BGR PNG.png.opdownload",
+    "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
+    "Rules/Classes/Illrigger/Illrigger Subclasses/Sanguine Knight Illrigger.md",
+    "Rules/Classes/Illrigger/Illrigger Subclasses/Painkiller Illrigger.md",
+    "Rules/Classes/Illrigger/Illrigger Subclasses/Hellspeaker Illrigger.md",
+    "Rules/Classes/Illrigger/Illrigger Subclasses/Architect of Ruin Illrigger.md",
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/White Hat Gunslinger.md",
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/Trick Shot Gunslinger.md",
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/Spellslinger Gunslinger.md",
@@ -326,14 +359,6 @@
     "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
     "Rules/Classes/Monk/Monk.md",
-    "Rules/Classes/Fighter/Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Scofflaw Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Samurai Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Rune Knight Fighter.md",
-    "Rules/Tools/Smiths Tools.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Purple Dragon Knight (Banneret) Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Psi Warrior Fighter.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Nightwatcher Fighter.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
@@ -347,12 +372,8 @@
     "Pictures/Monsters/Delerium Elemental BGR PNG.png",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png.opdownload",
     "Rules/Spells/Level 4/Untitled",
-    "Rules/Classes/Wizard/Wizard Subclasses",
-    "Rules/Classes/Warrior Sidekick",
     "Pictures/Monsters/image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png",
     "Pictures/Gods/The Moonweaver BGR PNG.png",
-    "Pictures/Gods/The Knowing Mentor BGR PNG.png",
-    "Pictures/Gods/The Changebringer BGR PNG.png",
-    "Pictures/Gods/The Lord of the Hells BGR PNG.png"
+    "Pictures/Gods/The Knowing Mentor BGR PNG.png"
   ]
 }

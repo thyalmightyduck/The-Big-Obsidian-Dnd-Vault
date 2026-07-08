@@ -207,12 +207,12 @@ Finished Cantrip Links
 	- [x] Spellslinger
 	- [x] Trick Shot
 	- [x] White Hat
-- [ ] Illrigger
-	- [ ] Architect Of Ruin
-	- [ ] Hellspeaker
-	- [ ] Painkiller
-	- [ ] Sanguine Knight
-	- [ ] Shadowmaster
+- [x] Illrigger
+	- [x] Architect Of Ruin
+	- [x] Hellspeaker
+	- [x] Painkiller
+	- [x] Sanguine Knight
+	- [x] Shadowmaster
 - [ ] Messenger
 	- [ ] Counselor
 	- [ ] Herald

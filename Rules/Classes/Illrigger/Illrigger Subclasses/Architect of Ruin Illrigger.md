@@ -1,4 +1,4 @@
-# WOP Architect of Ruin Illrigger
+# Architect of Ruin Illrigger
 ## The Illrigger Revised
 
 | Level | Proficiency Bonus | Features                                                                                 | Seals | Seal Damage | Interdict Boons | Infernal Conduit Dice |
@@ -155,6 +155,42 @@ Each active interdict boon details if any kind of action is required to expend t
 ## Level 3: Diabolic Contract
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
+### Architect of Ruin
+_Architects of Ruin are cool and calculating arcane knights who serve Asmodeus, deploying spells, steel, and subterfuge to win at any cost._
+
+Asmodeus rules Acheron, the City of Fear. His illriggers scour the timescape, collecting secrets and spells designed to deceive and terrify his opponents. The war he fights against the other archdevils is one of deception and information.
+
+His Architects of Ruin work to make Hell's enemies seem outnumbered and outmaneuvered. These illriggers are skillful spellblades on the battlefield, though some employ tactics such as research, infiltration, and propaganda to play mind games with their quarry. When an Architect of Ruin finally confronts an enemy, the advantage is theirs—they have studied, prepared, and gripped fate within their gauntlet, forcing it to favor them. They hungrily seek the dark arts to arm both themselves and Asmodeus with the impossible.
+
+### Precepts of Ruin
+Architects of Ruin swear an oath to Asmodeus when they join the Order of Desolation. These precepts commit them to destroy Asmodeus's enemies by commanding great magic, causing fear, and sowing distrust.
+**The Battlefield of the Mind:** By the time my armies meet yours, you'll be filled with terror and doubt your own strength. I won't have to lift a finger to defeat you.
+**The Proper Secret:** Once I know your secrets, I know your weakness.
+**Knowledge Is Power:** Lore is as powerful as steel. I learn every detail about my enemy and anticipate their every move, checkmating them before the game even begins.
+**Magic Is Mine to Command:** Cunning is also as powerful as steel. I wield the dark arcane arts to manipulate your senses, weaken your resolve, and strengthen my blade. Your soldiers will quake for fear of what dark magics may next cloak my blade.
+
+### Level 3: Asmodeus's Blessing
+When Asmodeus accepts you as an Architect of Ruin, he grants you access to his infernal knowledge. You gain proficiency in one of the following skills of your choice: [[Arcana]], [[History]], [[Nature]], or [[Religion]].
+In addition, you can also read and write the languages granted by your Forked Tongue, instead of only speaking them.
+
+### Level 3: Spellcasting
+As an Architect of Ruin, you access a well of profane magic to cast spells.
+**Cantrips:** You know two cantrips of your choice from the Architect of Ruin spell list (presented at the end of this subclass). You learn an additional cantrip from this list at 10th level.
+**Spell Slots:** The Architect of Ruin Spellcasting table shows how many spell slots you have to cast your illrigger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+For example, if you know the 1st-level spell hellish rebuke and have a 1st-level and a 2nd-level spell slot available, you can cast [[hellish rebuke]] using either slot.
+**Spells Known of 1st Level and Higher** At 3rd level, you know three 1st-level spells of your choice from the Architect of Ruin spell list (presented at the end of this subclass).
+The Spells Known column of the Architect of Ruin Spellcasting table shows when you learn more illrigger spells of 1st level or higher. Each of these spells must be of a level for which you have spell slots. When you reach 7th level, for example, you learn one new spell of 1st or 2nd level.
+Whenever you gain a level in this class, you can replace one of the illrigger spells you know with another spell of your choice from the illrigger spell list. The new spell must be of a level for which you have spell slots.
+**Spellcasting Ability:** Charisma is your spellcasting ability for your spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
+**Spell save DC** = 8 + Charisma modifier + Proficiency Bonus
+**Spell attack modifier** = Charisma modifier + Proficiency Bonus
+**Spellcasting Focus:** You have an unholy symbol, such as an amulet symbolizing your archdevil, a fragment of a blasphemous relic, or a glass orb holding a consecrated drop of archdevil blood. You can use the unholy symbol as a spellcasting focus for your illrigger spells. You must have a free hand to use the unholy symbol, but it can be the same hand you use to perform somatic components.
+
+### Level 3: Invoke Hell
+You gain the following two Invoke Hell options:
+**Enervating Spell:** When you deal damage to a creature with an illrigger spell of 1st level or higher, you can expend a seal (no action required) and imbue the spell with weakening magic. The target has vulnerability to that spell's damage. If they normally have resistance or immunity to the spell's damage, that resistance or immunity is suppressed for this spell, and the target has vulnerability to the damage instead.
+**Spellblade:** You can use an action to both make a melee weapon attack and cast an illrigger spell you know that has a casting time of one action.
+
 ## Level 3: Invoke Hell
 Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen diabolic contract grants you two Invoke Hell options and describes how to use each.
 
@@ -184,6 +220,27 @@ You regain any spent Infernal Conduit dice when you finish a long rest.
 ## Level 7: Diabolic Contract feature
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level
 
+### Hellish Versatility
+Once on each of your turns, you can cast one of your illrigger cantrips in place of one of your attacks granted by your Extra Attack feature.
+
+### Asmodeus's Interdiction
+You learn the following additional interdict boons at the noted illrigger levels. Once you learn an interdict boon granted by this feature, you always know it, and it doesn't count against the number of interdict boons you know.
+
+### Axiomatic Seals (Passive)
+_Prerequisite: Level 7+ Illrigger (Architect of Ruin)_
+
+Asmodeus's secrets allow you to infuse your seals with manifest power. When you burn one or more seals to deal damage to a creature, you can activate this boon (no action required) to add your Charisma modifier (minimum of 1) to each seal's damage roll.
+
+### Hell Mage (Passive)
+_Prerequisite: Level 18+ Illrigger (Architect of Ruin)_
+
+When you or an ally within 30 feet of you succeed on a saving throw against a spell or other magical effect imposed by an enemy, you can immediately place one or more seals on that enemy, up to a number equal to your proficiency bonus.
+
+### Spellbreaker
+_Prerequisite: Level 13+ Illrigger (Architect of Ruin)_
+
+When an interdicted creature you can see within 60 feet of you casts a spell, you can use your reaction to burn one or more of the seals on them. When you do, burning the seal deals no damage, and instead you cast [[counterspell]] on them without expending a spell slot. Your spell's level increases by 1 for every additional seal you burn after the first.
+
 ## Level 8: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -201,6 +258,9 @@ You can strengthen your defenses at the cost of your vitality. Whenever you fail
 
 ## Level 11: Diabolic Contract feature
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+
+### Submit
+When you cast an illrigger spell you know, you can burn two seals on an interdicted creature (no action required) to impose disadvantage on their saving throw against the spell.
 
 ## Level 11: Infernal Conduit Improvement
 When you use the Devour effect of your Infernal Conduit feature, the target also gains a level of [[exhaustion]] on a failed save against this effect.
@@ -220,6 +280,12 @@ In addition, you can use a bonus action to regain a seal if you have none remain
 
 ## Level 15: Diabolic Contract feature
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+
+### Vile Transmogrification
+You uncover two new ways to employ Asmodeus's magic:
+**Regaining Seals:** As a bonus action on your turn, you can expend one spell slot to regain a number of seals equal to that slot's level.
+**Regaining Spell Slots:** As a bonus action on your turn, you can expend any number of seals to regain a spell slot of a level equal to one-third that number. For example, you can expend six seals to regain a 2nd-level spell slot.
+Once you use one of these benefits, you can't use that benefit again until you finish a long rest.
 
 ## Level 16: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
