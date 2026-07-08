@@ -54,19 +54,9 @@
               "icon": "lucide-file",
               "title": "White Hat Gunslinger"
             }
-          },
-          {
-            "id": "1881f8572f15c5a2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,9 +269,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9a800d7e2cdfb01b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -306,7 +306,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1881f8572f15c5a2",
+  "active": "b9ded9e3c49b278d",
   "lastOpenFiles": [
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/White Hat Gunslinger.md",
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/Trick Shot Gunslinger.md",
