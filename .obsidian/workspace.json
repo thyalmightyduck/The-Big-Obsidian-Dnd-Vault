@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
+                "file": "Rules/Classes/Mesenger/Messenger Subclasses/Counsellor Messenger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shadowmaster Illrigger"
+              "title": "Counsellor Messenger"
             }
           },
           {
@@ -328,15 +328,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3cb053736b5f5809",
+  "active": "b9ded9e3c49b278d",
   "lastOpenFiles": [
     "5 Monster Stat Blocks/Fiend/Horned Devil.md",
+    "Rules/Classes/Mesenger/Messenger Subclasses/Counsellor Messenger.md",
+    "Rules/Classes/Tamer/Tamer.md",
+    "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Fiend/Devil Jurist.md",
     "Pictures/Monsters/Devil Jurist BGR PNG.png",
     "Pictures/Monsters/Devil Jurist BGR PNG.png.opdownload",
-    "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
     "Rules/Classes/Illrigger/Illrigger Subclasses/Sanguine Knight Illrigger.md",
     "Rules/Classes/Illrigger/Illrigger Subclasses/Painkiller Illrigger.md",
     "Rules/Classes/Illrigger/Illrigger Subclasses/Hellspeaker Illrigger.md",
@@ -358,7 +360,6 @@
     "Rules/Spells/Level 2/Silence.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
     "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
-    "Rules/Classes/Monk/Monk.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",

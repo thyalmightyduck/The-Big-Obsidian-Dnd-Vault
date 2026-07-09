@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-07-2026 T 1807 · [[Roadmap]]
+- 07-09-2026 T 1157 · [[Roadmap]]
 - 07-07-2026 T 1806 · [[Horned Devil]]
 - 07-07-2026 T 1749 · [[Devil Jurist]]
 - 07-07-2026 T 1734 · [[Shadowmaster Illrigger]]

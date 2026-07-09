@@ -34,7 +34,7 @@ Finished Cantrip Links
 - [x] Warlock
 - [x] Wizard
 - [x] Pugilist
-- [ ] Tamer
+- [x] Tamer
 
 ## Subclasses
 #todo/subclasses
