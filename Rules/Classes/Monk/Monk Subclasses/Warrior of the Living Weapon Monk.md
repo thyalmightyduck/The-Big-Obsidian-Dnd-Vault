@@ -1,4 +1,4 @@
-# WOP Warrior of the Living Weapon Monk
+# Warrior of the Living Weapon Monk
 ## Exploring Eberron (2024)
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,20 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Warrior of the Living Weapon
+_Reshape Your Body for Battle_
+Warriors of the Living Weapon pursue physical perfection, honing their body as a smith sharpens a sword. Their traditions are drawn from cultures of shape-shifters and creatures who fight with tooth and claw.
+
+### Level 3: Martial Form
+At the start of your turn, you can expend 1 Focus Point to manifest your martial form. The form lasts for 10 minutes, until you use this feature again, or until you have the [[Incapacitated]] condition. Choose one of the following options when you adopt the form.
+**Forged Heart:** Whenever you hit an object with an [[Unarmed Strike]], the hit is a [[Critical Hit]]. In addition, whenever you hit a creature with an [[Unarmed Strike]] granted by Flurry of Blows, the target must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
+**Nightmare Shroud:** When you use Deflect Attacks, the attacking creature must make a Wisdom saving throw. On a failed save, the creature has the [[Frightened]] condition until the end of its next turn.
+**Traveler's Blade:** Your reach increases by 10 feet.
+**Weretouched:** When you reduce an enemy within 5 feet of you to 0 [[Hit Point]]s, you gain [[Temporary Hit Point]]s equal to one roll of your Martial Arts die plus your Monk Level.
+
+### Level 3: Mutable Strike
+You have the power to alter your natural weapons, growing claws or reinforcing your fists. Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice of Bludgeoning, Piercing, or Slashing damage.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +122,13 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Manifest Blow
+You gain one of the following options of your choice.
+**Forged Heart:** Once per turn when you hit a creature with an [[Unarmed Strike]], you can deal extra damage of the same type equal to one roll of your Martial Arts die.
+**Nightmare Shroud:** As a [[Magic action]], you can expend 2 Focus Points to cause psychic energy to erupt from you. When you do so, each creature of your choice in a 30-foot [[Emanation]] originating from you must succeed on a Wisdom saving throw. On a failed save, a creature takes Psychic damage equal to three rolls of your Martial Arts die, and has the [[Frightened]] condition until the end of your next turn. On a successful save, a creature takes half as much damage.
+**Traveler's Blade:** Once per turn when you hit a creature with an [[Unarmed Strike]], you can use both the Damage and the Grapple option. You are always considered to have a free hand when determining whether you can Grapple another creature.
+**Weretouched:** When you hit the same creature twice on your turn with [[Unarmed Strike]] you can expend up to 3 Focus Points to deal extra damage on your second hit. The damage equals a number of rolls of your Martial Arts die equal to the Focus Points expended, and is the same type as your triggering [[Unarmed Strike]].
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +158,10 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Reflexive Adaptation
+When you use Self-Restoration, the following conditions are added to the list of conditions you can remove: [[Blinded]], [[Deafened]], and [[Grappled]].
+In addition, when you finish a [[Short Rest]] you can remove 1 level of [[Exhaustion]] from yourself and when you finish a [[Long Rest]] you can remove all levels of [[Exhaustion]] from yourself.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +181,12 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Perfect Form
+Whenever you assume your Martial Form, you can expend an additional 3 Focus Points to gain the following benefits for as long as you remain in the form.
+**Mercurial Strikes:** Whenever you attack with an [[Unarmed Strike]] granted by Flurry of Blows, you have [[Advantage]].
+**Regeneration:** At the start of your turn, roll one Martial Arts die. You regain that many [[Hit Point]]s.
+**Unbreakable Body:** You gain a +2 bonus to your [[Armor Class]].
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

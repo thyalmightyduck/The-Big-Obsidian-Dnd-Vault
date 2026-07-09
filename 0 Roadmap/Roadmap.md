@@ -225,22 +225,22 @@ Finished Cantrip Links
 	- [ ] Cobalt Soul
 	- [x] Cosmic Balance
 	- [ ] Drunken Master
-	- [ ] Elements
+	- [x] Elements
 	- [ ] Four Elements
 	- [ ] Kensei
-	- [ ] Leaden Crown 
-	- [ ] Living Weapon
+	- [x] Leaden Crown 
+	- [x] Living Weapon
 	- [ ] Long Death
 	- [x] Mercy
-	- [ ] Open Hand
-	- [ ] Pestilent Haze
+	- [x] Open Hand
+	- [x] Pestilent Haze
 	- [x] Pride
 	- [ ] Prophet
 	- [x] Regret
 	- [ ] Serpent
 	- [x] Shadow
 	- [ ] Sheep Dragon Shepherd (Temp Taken Down)
-	- [ ] Street
+	- [x] Street
 	- [ ] Sun Soul
 - [ ] Monster Hunter
 	- [ ] Carver

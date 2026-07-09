@@ -1,4 +1,4 @@
-# WOP Warrior of the Pestilent Haze Monk
+# Warrior of the Pestilent Haze Monk
 ## The Crooked Moon (2024)
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,36 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Warrior of the Pestilent Haze
+_Spread Virulent Plague with a Touch_
+Warriors of the Pestilent Haze draw plague into their very beings, folding it into their energy and becoming one with the disease. Monks who follow this tradition wander, often following or even preceding waves of pestilence. Some walk with caution, their touch measured, unleashing sickness only where dense populations must be culled. Others revel in the miasma spreading as far and fast as possible.
+Your Miasmic Plague is a unique magical contagion that can take many forms that you weave through your deep connection to the affliction. The Plague Manifestations table offers suggestions for what magical form your signature disease takes as it spreads, as well as its hallmark symptoms.
+
+**Plague Manifestations:**
+
+|1d10|Manifestation|
+|---|---|
+|1|**Bloodbreath.** Bruise-colored miasma, the edges of which form into slithering tentacles—painful bruises and a hoarse, bloody cough|
+|2|**Drone Spew.** Swarm of monstrous, mutated flies that buzz with a horrifying drone—bleeding ears and intense vomiting|
+|3|**Festergut.** Viscous, gray sewer water that leaves a film on surfaces—intense stomach pain, dehydration, and blood loss|
+|4|**Gutterpox.** Globs of toxic, greenish sludge that oozes erratically to the touch—swollen, green papules and oppressive mucus buildup|
+|5|**Knell Fever.** Hot wind that prickles the skin and howls with the sound of a tolling bell—heat blisters and feverish hallucinations|
+|6|**Rotface.** Numerous spiked, fungal spores that float through the air—rapid rotting of flesh, especially around the eyes and mouth|
+|7|**The Unclean.** Undulating mass of pallid flesh, teeth, and tongues—grotesque, mutated growths such as new tentacle-like appendages and gnashing mouths|
+|8|**Toadscale.** Infected rains filled with venomous, spectral toads—hardened, itchy patches of scaly skin that turn vibrantly colorful and fits of agonized croaking|
+|9|**Verminplague.** Scurrying mass of ravenous, spectral plague rats that gnaw and scratch victims—painful boils and pustules and an incessant, squeaking cough|
+|10|**Yellow Death.** Billowing, skull-shaped clouds of foul-smelling fumes with a sickly yellow hue—debilitating fatigue, muscle aches, and sunken, sallow skin|
+### Level 3: Contagious Discipline
+You have brewed and concentrated disease within yourself and can now push manifestations of it outward. You gain the following benefits.
+**Claws of Pestilence:** Your nails grow into a set of vermin-like claws. You can deal Slashing damage when you hit with an [[Unarmed Strike]] instead of Bludgeoning damage. When you hit a creature with an attack granted by your Flurry of Blows, you deal extra Necrotic damage equal to one roll of your Martial Arts die.
+**Miasmic Plague:** When you hit a creature with an [[Unarmed Strike]], you can expend 1 Focus Point to force the creature to succeed on a Constitution saving throw or be cursed for 1 minute. While cursed, the creature has the [[Poisoned]] condition, and it takes extra Necrotic damage from your [[Unarmed Strike]]s equal to one roll of your Martial Arts die. A creature can take this damage only once per turn. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+If you forego the extra damage granted by Claws of Pestilence, you can use Miasmic Plague without paying its Focus Point cost.
+
+### Level 3: Gift of Pestilence
+Through your observation and meditation, you are attuned to the nature of pestilence and the creatures believed to carry it. You gain the following benefits.
+**Inoculation:** You have [[Advantage]] on saving throws to avoid or end the [[Poisoned]] condition or magical contagions, and you have [[Resistance]] to Poison and Necrotic damage.
+**Vermin Kinship:** Through chittering sounds and hand gestures, you can communicate simple concepts to vermin, such as rats, pigeons, and insects, and you gain the ability to decipher their noises and motions. Vermin lack the intelligence to convey or understand sophisticated concepts, but [[Friendly]] vermin could relay what they have seen or heard in the recent past. Additionally, you can cast [[Animal Messenger]] using Wisdom as the spellcasting ability targeting a Tiny Beast that is considered vermin and thought to spread plague and disease. Once you cast the spell in this way, you can't do so again until you finish a [[Long Rest]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +138,12 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Potent Plague
+The strain of your plague becomes more virulent and deadly. When you deal Necrotic or Poison damage, you ignore the target's [[Resistance]] to those damage types, if any.
+
+### Level 6: Tolling Censer
+You can unleash a cloud of miasma upon your enemies. As a [[Magic action]], you can expend 2 Focus Points to unleash a cloud of miasma in a 20-foot [[Emanation]] originating from you. Each creature of your choice in that area must make a Constitution saving throw. On a failed save, a creature takes Necrotic damage equal to two rolls of your Martial Arts die and is cursed by your Miasmic Plague. On a successful save, it takes half as much damage only.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +173,11 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Miasmic Contagion
+The strength of your Miasmic Plague has increased, granting you the following benefits.
+**Choking Miasma:** Constitution saving throws against your Miasmic Plague have [[Disadvantage]].
+**Scurrying Spread:** When you expend 1 Focus Point to use your Step of the Wind, until the end of the turn, when you enter a space within 5 feet of any creature of your choice, it must succeed on a Constitution saving throw or be cursed by your Miasmic Plague. A creature makes this save only once per turn.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -157,8 +198,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 17: Epidemic
+Your plague has reached the height of its potency and its symptoms rapidly afflict your foes. Your Miasmic Plague ignores a target's [[Immunity]] to the [[Poisoned]] condition. Additionally, when you deal Necrotic damage to a target cursed by your Miasmic Plague, it takes extra Necrotic damage equal to one roll of your Martial Arts die.
+
 ## Level 18: Superior Defense
-At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.
+At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Resistance]] to all damage except Force damage.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Irresistible Offense]] is recommended.

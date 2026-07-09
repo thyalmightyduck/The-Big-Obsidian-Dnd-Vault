@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Monk/Monk Subclasses/Warrior of the Elements Monk.md",
+                "file": "Rules/Classes/Monk/Monk Subclasses/Way of Mercy Monk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Warrior of the Elements Monk"
+              "title": "Way of Mercy Monk"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,11 +328,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8dacc8716d1a2f43",
+  "active": "b9ded9e3c49b278d",
   "lastOpenFiles": [
-    "Rules/Skills/Lord of the Rings/Riddle.md",
-    "Rules/Spells/Cantrips/Elementalism.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Street Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Pestilent Haze Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Open Hand Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Living Weapon Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Leaden Crown.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Elements Monk.md",
+    "Rules/Spells/Cantrips/Elementalism.md",
+    "Rules/Skills/Lord of the Rings/Riddle.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Celestial Monk.md",
     "0 Roadmap/Roadmap.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of Shadow Monk.md",
@@ -356,11 +361,6 @@
     "Rules/Classes/Illrigger/Illrigger Subclasses/Painkiller Illrigger.md",
     "Rules/Classes/Illrigger/Illrigger Subclasses/Hellspeaker Illrigger.md",
     "Rules/Classes/Illrigger/Illrigger Subclasses/Architect of Ruin Illrigger.md",
-    "Rules/Classes/Gunslinger/Gunslinger Subclasses/White Hat Gunslinger.md",
-    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Trick Shot Gunslinger.md",
-    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Spellslinger Gunslinger.md",
-    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Secret Agent Gunslinger.md",
-    "Rules/Classes/Gunslinger/Gunslinger Subclasses/High Roller Gunslinger.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
