@@ -10,7 +10,7 @@ Voice: Medium pitch, Whispering, Normal speed, Gruff
 - Soap _(2 cp)_  
 - Trap, bear _(2 gp)_  
 - Whistle, silent _(9 sp)_  
-- [[Cook's Utensils]] _(50 gp)_  
+- [[Cooks Utensils]] _(50 gp)_  
 - Pick, Miner's _(2 gp)_  
 - [[Map]] _(50 gp)_  
 - [[Barrel]] _(2 gp)_  

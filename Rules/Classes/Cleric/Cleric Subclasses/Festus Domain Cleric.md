@@ -109,7 +109,7 @@ You gain domain spells at the cleric levels listed in the Festus Domain Spells t
 | 9th          | [[cloudkill]], [[contagion]] |
 
 ### Level 1: Bonus Proficiencies
-When you choose this domain at 1st level, you gain proficiency with heavy armor, martial weapons, [[Brewers Supplies]], and [[cook's utensils]].
+When you choose this domain at 1st level, you gain proficiency with heavy armor, martial weapons, [[Brewers Supplies]], and [[Cooks Utensils]].
 
 ### Level 1: Table-Turner
 At 1st level, you can cause an attacker's own body to turn against itself. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Constitution saving throw against your cleric spell save DC. On a failed save, the creature takes 1d12 poison damage and is [[poisoned]] until the end of its next turn. On a successful one, it takes half as much poison damage and isn't [[poisoned]].

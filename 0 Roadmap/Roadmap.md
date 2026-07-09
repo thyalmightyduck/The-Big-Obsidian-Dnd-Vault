@@ -242,11 +242,11 @@ Finished Cantrip Links
 	- [ ] Sheep Dragon Shepherd (Temp Taken Down)
 	- [x] Street
 	- [x] Sun Soul
-- [ ] Monster Hunter
-	- [ ] Carver
-	- [ ] Devourer
-	- [ ] Occultist
-	- [ ] Trapper
+- [x] Monster Hunter
+	- [x] Carver
+	- [x] Devourer
+	- [x] Occultist
+	- [x] Trapper
 - [ ] Paladin
 	- [ ] Ancients
 	- [ ] Castigation

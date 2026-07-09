@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Carver Guild Monster Hunter.md",
+                "file": "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Trapper Guild Monster Hunter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Carver Guild Monster Hunter"
+              "title": "Trapper Guild Monster Hunter"
             }
           },
           {
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Carver Guild Monster Hunter.md",
+                "file": "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Trapper Guild Monster Hunter.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Carver Guild Monster Hunter"
+              "title": "Outline of Trapper Guild Monster Hunter"
             }
           },
           {
@@ -330,8 +330,12 @@
   },
   "active": "b9ded9e3c49b278d",
   "lastOpenFiles": [
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Sun Soul Monk.md",
+    "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Occultist Guild Monster Hunter.md",
+    "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Devourer Guild Monster Hunter.md",
     "Rules/Weapons/Trident.md",
+    "Rules/Tools/Cooks Utensils.md",
+    "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Carver Guild Monster Hunter.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of the Sun Soul Monk.md",
     "1 Daily Notes/Executive Outcomes/2026-01-04.md",
     "1 Daily Notes/Executive Outcomes/2025-12-28.md",
     "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
@@ -352,10 +356,6 @@
     "Rules/Classes/Monk/Monk Subclasses/Way of the Four Elements Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Drunken Master.md",
     "Rules/Tools/Brewers Supplies.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Cobalt Soul Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Astral Self Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Ascendant Dragon Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Arcane Hand Monk.md",
     "Rules/Skills/Lord of the Rings",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",

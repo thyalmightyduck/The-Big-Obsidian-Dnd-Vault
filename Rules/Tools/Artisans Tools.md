@@ -10,7 +10,7 @@ Multiple variations of this item exist, as listed below:
 - [[Carpenters Tools]]
 - [[Cartographers Tools]]
 - [[Cobblers Tools]]
-- [[Cook's Utensils]]
+- [[Cooks Utensils]]
 - [[Glassblowers Tools]]
 - [[Jewelers Tools]]
 - [[Leatherworkers Tools]]

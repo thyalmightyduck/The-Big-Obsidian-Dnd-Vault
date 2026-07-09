@@ -1,4 +1,4 @@
-# WOP Carver Guild Monster Hunter
+# Carver Guild Monster Hunter
 ## Grim Hallow: Player’s Guide (2024)
 
 | Level | Proficiency Bonus | Features                                | Weapon Mastery |
@@ -98,6 +98,17 @@ If the attack misses, you regain the use of your [[Reaction]].
 ## Level 3: Monster Hunter Subclass
 You gain a Monster Hunter subclass of your choice. The Carver Guild, Devourer Guild, Occultist Guild, and Trapper Guild subclasses are detailed below. A subclass is a specialization that grants you features at certain Monster Hunter levels. The guild you choose grants you features when you reach Monster Hunter levels 3, 7, 10, 15, and 18.
 
+### Carver Guild
+_Slay Monsters Fearlessly and Recklessly_
+Since the beginning of time, the brave glared into danger's ferocious eyes and fought monsters. Those who survived were the ones smart enough to arm themselves properly and know precisely where to strike—or those who knew when to flee and return with a new plan.
+Members of the Carver Guild are the Monster Hunters typically called upon when immediate danger threatens a settlement and there is no army or militia available. Carvers stride unflinchingly toward death, armed with years of training and the knowledge passed down from those before them.
+
+### Level 3: Equipped for Battle
+You gain training with Heavy armor.
+
+### Level 3: Close Quarters
+Your skill in close combat enables you to inflict crushing blows while keeping your opponent off balance. When you hit a creature with an attack roll using a Melee weapon, you can take a [[Reaction]] to deal an extra 1d6 damage of the same type dealt by the weapon. That creature has [[Disadvantage]] on its next attack roll before the start of your next turn.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monster Hunter levels 8, 12, and 16.
 
@@ -114,6 +125,10 @@ Additionally, your attack rolls with weapons and [[Unarmed Strike]]s against c
 ## Level 7: Subclass Feature
 You gain a feature from your Monster Hunter Subclass.
 
+### Level 7: True Grit
+You have [[Advantage]] on saving throws you make to avoid or end the [[Frightened]] condition, and you have [[Immunity]] to the [[Frightened]] condition caused by creature types in your Monster Grimoire.
+Additionally, when you hit a creature with an attack as part of a [[Reaction]], you can choose a [[Frightened]] creature within 60 feet that can see you (including yourself). The condition ends on that creature.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -124,6 +139,9 @@ Whenever a creature type in your Monster Grimoire forces you to make a saving th
 
 ## Level 10: Subclass Feature
 You gain a feature from your Monster Hunter Subclass.
+
+### Level 10: Terrorize the Terrors
+Your reputation has become such that monsters preying on the fearful have come to fear you. When you hit a creature with an attack as part of a [[Reaction]], you can force the creature to make a Wisdom saving throw or have the [[Frightened]] condition until the end of your next turn. The DC for the saving throw equals 8 plus your Intelligence modifier and your [[Proficiency Bonus]].
 
 ## Level 11: Extra Attack
 You can attack twice instead of once whenever you take the [[Attack action]] on your turn.
@@ -142,6 +160,9 @@ You are experienced at navigating the threats that arise near a monster's lair. 
 ## Level 15: Subclass Feature
 You gain a feature from your Monster Hunter Subclass.
 
+### Level 15: Deadly Redirect
+Your strikes have become even deadlier. The extra damage of your Close Quarters increases to 3d6. In addition, if you deal damage to a creature with Close Quarters, the target has [[Disadvantage]] on all attack rolls until the end of your next turn.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -152,6 +173,9 @@ When you use Studied Response, choose a [[Friendly (Attitude)]] creature that 
 
 ## Level 18: Subclass Feature
 You gain a feature from your Monster Hunter Subclass.
+
+### Level 18: Controlled Footwork
+You are such an effective combatant that you are always in control and never off balance. You can take a [[Reaction]] twice in a round instead of once.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify.
