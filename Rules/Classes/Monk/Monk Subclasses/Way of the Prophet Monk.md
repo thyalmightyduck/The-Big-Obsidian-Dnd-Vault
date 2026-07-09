@@ -1,4 +1,4 @@
-# WOP Way of the Prophet Monk
+# Way of the Prophet Monk
 ## Book of Ebon Tides
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,15 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Way of the Prophet
+Monks who follow the Way of the Prophet refuse to cloister the wisdom they have learned. They are driven to spread their knowledge to all the peoples of the land. Some are set on this path by divine intervention. Others take up the prophet's mantle out of a sense of personal obligation, and they all share a deep-rooted faith that empowers their actions.
+
+### Level 2: Wise Words
+When you choose this tradition at 3rd level, you gain proficiency in the [[Performance]] and [[Persuasion]] skills. Additionally, whenever you roll an ability check using a Charisma-based skill, you can use your Wisdom modifier instead of your Charisma modifier.
+
+### Level 2: Charming Aura
+Additionally, when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend a ki point to cast [[charm person]] or [[command]], or you can expend 2 ki points to cast [[suggestion]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +117,9 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Righteous Strike
+At 6th level, when you hit a target with an unarmed strike, you can spend 1 ki point to cause the attack to deal either radiant (if you are good-aligned or neutral-aligned) or necrotic (if you are evil-aligned) damage equal to your proficiency bonus. You can use this feature only once on each of your turns.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +149,10 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Blessed Chosen
+Beginning at 11th level, you are protected by the forces who spur your mission. If you are reduced to 0 hit points, you immediately regain hit points equal to your monk level. Alternatively, you can use an action to touch a fallen creature that has been dead for no longer than 10 minutes, and they return to life with hit points equal to your monk level.
+You must finish a long rest before you can use this feature again.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +172,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Force of Personality
+Whenever any creature tries to attack you for the first time on a turn, you can use your reaction to roll a Charisma ([[Performance]] or [[Persuasion]]) ability check. If your check is higher than the creature's Wisdom ability score, it can't attack you on this turn, and it must choose a new target for its attack, or the attack is wasted.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

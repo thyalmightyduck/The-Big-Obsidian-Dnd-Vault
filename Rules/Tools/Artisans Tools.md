@@ -5,7 +5,7 @@ If you have proficiency with a tool, add your [[Proficiency Bonus]] to any abi
 Multiple variations of this item exist, as listed below:
 
 - [[Alchemists Supplies]]
-- [[Brewer's Supplies]]
+- [[Brewers Supplies]]
 - [[Calligraphers Supplies]]
 - [[Carpenters Tools]]
 - [[Cartographers Tools]]

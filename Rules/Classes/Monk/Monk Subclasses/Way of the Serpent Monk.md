@@ -1,4 +1,4 @@
-# WOP Way of the Serpent Monk
+# Way of the Serpent Monk
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,17 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Way of the Serpent
+Master of the spear, this nimble warrior uses polearms not only as a weapon, but as an extension of themselves, using their weapon to amplify mobility, maneuverability, and combat. Like a snake in the grass, the Way of the Serpent hones one's ability to predict oncoming attacks, deflect from a distance, and strike with deadly precision.
+
+### Level 3: Serpent Style
+You gain proficiency with the [[glaive]], [[halberd]], [[pike]], [[trident]], and similar spears and polearms. These weapons count as monk weapons for you, even if they have the heavy or two-handed properties. Furthermore, your grace and mastery of these weapons does not limit your ability to make unarmed strikes while wielding a two-handed weapon.
+While wielding a [[quarterstaff]], [[spear]], or [[trident]] in two hands, that weapon gains the Reach property.
+
+### Level 3: Serpent Spring
+You can use polearm weapons to vault into the air. While you are wielding a weapon with the Reach property, your jump distance is doubled.
+While wielding a weapon with the Reach property, when you expend a ki point to use your Step of the Wind feature, your jump distance is instead tripled for the turn, and you gain advantage on your next melee weapon attack you make this turn.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +119,12 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Serpent Strikes
+You learn the following techniques to augment your attacks:
+- **Cobra Strike** When a creature you can see moves into your reach, you can use your reaction to make one attack against that creature.
+- **Python Strike** When you hit a creature with an opportunity attack, you can also use your Stunning Strike on that attack without expending a ki point.
+- **Viper Strike** Once on your turn when you hit a creature with a melee weapon attack, you can expend 1 or more ki points, up to a number equal to your proficiency bonus. The attack deals 1d6 poison damage, plus 1d6 additional poison damage per ki point spent, and the target is poisoned until the end of your next turn.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +154,13 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Serpent Stances
+At the start of your turn, you can adopt a serpent stance (no action required). When you do, choose one of the following serpent stances, which last until you are [[incapacitated]] or use this feature again.
+- **Anaconda Stance.** While using this stance, increase the reach of your melee weapon attacks and unarmed strikes by 10 feet.
+- **Black Mamba Stance.** While using this stance, once per turn when you miss with a weapon attack, you may make an additional melee attack as part of the same action.
+- **Couatl Stance.** While using this stance, you gain a flying speed equal to your walking speed.
+- **Marilith Stance.** While using this stance, you can take one reaction on every turn in combat, instead of once each round.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +180,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Supreme Serpent
+When you adopt a Serpent Stance, you can instead adopt two serpent stances at the same time, gaining the benefits of both effects.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

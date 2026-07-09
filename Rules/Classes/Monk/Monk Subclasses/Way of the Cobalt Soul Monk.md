@@ -1,4 +1,4 @@
-# WOP Way of the Cobalt Soul Monk
+# Way of the Cobalt Soul Monk
 ## Tal’Dorei Campaign Setting Reborn
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,15 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Way of the Cobalt Soul
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+Driven by the pursuit of knowledge and its scholars' worship of The Knowing Mentor, the Library of the Cobalt Soul is one of the best-respected and most heavily guarded repositories of tomes, history, and information in all Exandria. People from all lands come to the library to seek knowledge, and those particularly dedicated to the virtues of truth often pledge their minds and bodies to the Cobalt Soul's cause. To become a member of the Cobalt Soul is to give oneself over to a quest dedicated to unveiling life's mysteries, bringing light to the secrets of concealed evil, and guarding the most powerful and dangerous of truths from those whose unwholesome thirst for knowledge might bring death and suffering to others.
+The monks of the Cobalt Soul are the embodiment of the maxim: "Know your enemy." Through tireless research, they steel themselves against the unrelenting tides of evil. Through rigorous training, they learn to break through their foes' mental and physical defenses. Then, once the fight is done, they record their findings for future generations of monks to study.
+
+### Extract Aspects
+Starting at 3rd level, you can strike pressure points to intuit crucial information about a foe. When you hit a creature with one of the attacks granted by your Flurry of Blows, you can analyze it. Whenever an analyzed creature misses you with an attack, you can immediately use your reaction to make an unarmed strike against that creature if it's within your reach. This benefit lasts until you finish a [[short rest]] or [[long rest]].
+Additionally, when you analyze a creature, you learn all of its damage vulnerabilities, damage resistances, damage immunities, and condition immunities.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +117,14 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Extort Truth
+Starting at 6th level, you can precisely strike a hidden cluster of nerves on a creature, temporarily preventing it from masking its true thoughts and intent. When you hit a creature with an unarmed strike, you can spend 1 ki point to force it to make a Charisma [[saving throw]]. On a failed save, the creature is unable to speak a deliberate lie, and all Charisma checks directed at the creature are made with [[advantage]] for up to 10 minutes. You know if it succeeded or failed on its [[saving throw]].
+An affected creature is aware of the effect and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as the effect lasts.
+If you wish to impose this effect on a creature without injuring it, you can attack the creature to simply touch it, dealing no damage on a hit.
+
+### Mystical Erudition
+Also by 6th level, you have extensively studied the history and lore within the archives of the Cobalt Soul. You learn one language of your choice, and you gain proficiency with one of the following skills of your choice: Arcana, History, Investigation, Nature, or Religion. If you already have proficiency in one of the listed skills, you can instead choose to double your proficiency bonus for any ability check you make that uses the chosen proficiency.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +154,12 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Mystical Erudition (11th Level)
+You gain an additional language and an additional skill proficiency from the list: [[Arcana]], [[History]], [[Investigation]], [[Nature]], or [[Religion]]—(or you can double the bonus of an existing proficiency from the list) at 11th level.
+
+### Mind of Mercury
+Starting at 11th level, you've honed your awareness and reflexes through mental aptitude and pattern recognition. Once per turn, if you've already taken your reaction, you may spend 1 ki point to take an additional reaction. You can use only one reaction per triggering effect.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +179,13 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Mystical Erudition (17th Level)
+You gain an additional language and an additional skill proficiency from the list: [[Arcana]], [[History]], [[Investigation]], [[Nature]], or [[Religion]]—(or you can double the bonus of an existing proficiency from the list) at 17th level.
+
+### Debilitating Barrage
+Upon reaching 17th level, you've gained the knowledge to manipulate a creature's ki to undermine their fortitude. When you hit a creature with an unarmed strike, you can spend 3 ki points to cause the creature to gain vulnerability to one damage type of your choice for 1 minute, or until the end of a turn in which it has taken damage of that type.
+If a creature has resistance to the damage type you choose, this resistance is suppressed for 1 minute, rather than gaining vulnerability. A creature that is immune to the damage type you choose is unaffected. A creature who is affected by this feature cannot be affected by it again for 24 hours.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

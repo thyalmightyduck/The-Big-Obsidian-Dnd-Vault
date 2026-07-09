@@ -20,7 +20,7 @@ Halfling Nimbleness. You can move through the space of any creature that is of 
 
 Languages. You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
 
-Ever Hospitable. When you make a Charisma (Persuasion) check or an [[ability check]] involving [[brewer's supplies]] or [[Cook's Utensils]], you can roll a d4 and add the number rolled to the [[ability check]].
+Ever Hospitable. When you make a Charisma (Persuasion) check or an [[ability check]] involving [[Brewers Supplies]] or [[Cook's Utensils]], you can roll a d4 and add the number rolled to the [[ability check]].
 
 Innkeeper's Magic. You know the [[prestidigitation]] cantrip. You can also cast the [[purify food and drink]] and [[unseen servant]] spells with this trait. Once you cast either spell with this trait, you can't cast that spell with it again until you finish long rest. Charisma is your spellcasting ability for these spells.
 

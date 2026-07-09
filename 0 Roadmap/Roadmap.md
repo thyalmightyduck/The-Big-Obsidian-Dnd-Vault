@@ -219,23 +219,23 @@ Finished Cantrip Links
 - [ ] Monk
 	- [x] Aether
 	- [x] Arcane Hand
-	- [ ] Ascendant Dragon
-	- [ ] Astral Self
+	- [x] Ascendant Dragon
+	- [x] Astral Self
 	- [x] Celestial
-	- [ ] Cobalt Soul
+	- [x] Cobalt Soul
 	- [x] Cosmic Balance
-	- [ ] Drunken Master
+	- [x] Drunken Master
 	- [x] Elements
-	- [ ] Four Elements
-	- [ ] Kensei
+	- [x] Four Elements
+	- [x] Kensei
 	- [x] Leaden Crown 
 	- [x] Living Weapon
-	- [ ] Long Death
+	- [x] Long Death
 	- [x] Mercy
 	- [x] Open Hand
 	- [x] Pestilent Haze
 	- [x] Pride
-	- [ ] Prophet
+	- [x] Prophet
 	- [x] Regret
 	- [ ] Serpent
 	- [x] Shadow

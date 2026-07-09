@@ -52,7 +52,7 @@
 > | Armor | [[Shield]] |
 > | Weapon | [[Martial Weapons]] |
 > | Weapon | [[Simple Weapons]]
-> | [[Tool]] | [[Brewer's Supplies]] |
+> | [[Tool]] | [[Brewers Supplies]] |
 > | Language | Language |
 >  ##### Defenses And Conditions
   > | Stat | Type |
