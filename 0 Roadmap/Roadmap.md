@@ -463,6 +463,7 @@ Finished Cantrip Links
 - [ ] finish [[Gibbering Mouther]]
 - [ ] finish [[Delerium Dreg]]
 - [ ] finish [[pyknic maunder]]
+- [ ] Fix Weapon Formating
 # Additions
 Make Shop Roll Tables
 # Installed Plugins

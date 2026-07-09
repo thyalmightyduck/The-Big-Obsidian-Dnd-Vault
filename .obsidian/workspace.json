@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 7/Etherealness.md",
+                "file": "Rules/Weapons/Trident.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Etherealness"
+              "title": "Trident"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Mordenkainens Private Sanctum",
+                "query": "file: long ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -308,7 +308,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,10 +328,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9ded9e3c49b278d",
+  "active": "3cb053736b5f5809",
   "lastOpenFiles": [
-    "Rules/Spells/Level 7/Etherealness.md",
+    "Rules/Core Rules/Long Jump.md",
+    "Rules/Weapons/Trident.md",
+    "3 The Kingdom Of Nesafia/About Nesafia.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar.md",
+    "1 Daily Notes/The Three Vedos/Session 9 (6-28-2026).md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Serpent Monk.md",
+    "Rules/Weapons/Pike.md",
+    "Rules/Weapons/Glaive.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Spells/Level 7/Etherealness.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Prophet Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Long Death Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Kensei Monk.md",
@@ -339,7 +347,6 @@
     "Rules/Classes/Monk/Monk Subclasses/Way of the Four Elements Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Drunken Master.md",
     "Rules/Tools/Brewers Supplies.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Cobalt Soul Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Astral Self Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Ascendant Dragon Monk.md",
@@ -349,13 +356,6 @@
     "Rules/Classes/Monk/Monk Subclasses/Way of Mercy Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of Shadow Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Street Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Pestilent Haze Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Open Hand Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Living Weapon Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Leaden Crown.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Elements Monk.md",
-    "Rules/Skills/Lord of the Rings/Riddle.md",
     "Rules/Skills/Lord of the Rings",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",

@@ -1,7 +1,10 @@
 # Changelog
 
+- 07-09-2026 T 1448 · [[Trident]]
+- 07-09-2026 T 1444 · [[Pike]]
+- 07-09-2026 T 1440 · [[Roadmap]]
+- 07-09-2026 T 1439 · [[Glaive]]
 - 07-09-2026 T 1432 · [[Way of the Serpent Monk]]
-- 07-09-2026 T 1429 · [[Roadmap]]
 - 07-09-2026 T 1429 · [[Way of the Prophet Monk]]
 - 07-09-2026 T 1425 · [[Way of the Long Death Monk]]
 - 07-09-2026 T 1421 · [[Way of the Kensei Monk]]
@@ -97,6 +100,3 @@
 - 07-06-2026 T 2002 · [[Gnome (Rock)]]
 - 07-06-2026 T 2002 · [[Bree-Hobbit (Harfoot)]]
 - 07-06-2026 T 2002 · [[Impromptu Artisan]]
-- 07-06-2026 T 2002 · [[Crafter_s Eye]]
-- 07-06-2026 T 2002 · [[Crafter's Eye]]
-- 07-06-2026 T 2002 · [[Artisanal Focus]]
