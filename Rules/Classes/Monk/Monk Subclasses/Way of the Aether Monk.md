@@ -1,4 +1,4 @@
-# WOP Way of the Aether Monk
+# Way of the Aether Monk
 ## The Griffon’s Saddlebag, Book 2
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,16 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Way of the Aether
+Monks of the Way of the Aether tap into the energy of spirits and the Ethereal Plane. This energy is the fifth element, aether, which is contained by every living—and nonliving—soul. Sometimes called ghostfists, monks of this tradition explore the Material and Ethereal Planes on lifelong missions to give the souls of the dead a final resting place. By aligning the ki and aether within themselves, monks of this tradition treat their spirit as an extension of their physical bodies and move through the world unimpeded by material obstacles like a ghost.
+
+### Level 3: Spirit Strike
+When you choose this tradition at 3rd level, you learn to send out blue flashes of spiritual energy to attack your foes. Whenever you make an unarmed strike, you can choose to make a melee spell attack with your spirit instead. You are proficient with this attack, which has a reach of 30 feet, and you add your Wisdom modifier to its attack and damage rolls. Its damage type is force, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+When you reach 6th level in this class, you can use your Stunning Strike feature when you hit a creature with your Spirit Strike.
+
+### Level 3: Spirit Hand
+Also at 3rd level, you learn the [[mage hand]] cantrip, which you can cast and control as a bonus action. When you cast it, it doesn't require verbal or somatic components. The hand from the spell appears as a blue, spiritual copy of your own.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +118,20 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Spectral Guide
+Starting at 6th level, you can't be possessed by ghosts or similar undead creatures, and you can use an action to spend 2 ki points to cast either the [[gentle repose]] or [[see invisibility]] spell, without providing material components. You also gain the [[spare the dying]] cantrip if you don't already know it.
+Furthermore, you learn how to free certain souls from their undead vessels when you harness your ki. You gain the following ability:
+**Dismiss Undead:** When you hit an undead with one of the attacks granted by your Flurry of Blows, you can force it to make a Wisdom saving throw against your ki save DC. On a failed save, its spirit leaves and is put to rest, causing the creature to either vanish or become an unmoving corpse once more. If the creature's challenge rating is above the threshold shown in the following table, it automatically succeeds on the saving throw.
+
+| Monk Level | CR Threshold |
+| ---------- | ------------ |
+| 6th        | 1/2 or lower |
+| 8th        | 1 or lower   |
+| 11th       | 2 or lower   |
+| 14th       | 3 or lower   |
+| 17th       | 4 or lower   |
+If a creature has a bonus or penalty against any effect that turns undead, that bonus or penalty also applies to this effect.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +161,12 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Ghost Walker
+Beginning at 11th level, you are familiar with how ghosts and creatures of the Border Ethereal meld into the Material Plane. You can choose to partially slip into the Ethereal Plane, granting you the following benefits:
+**Etherstep:** You can spend 1 ki point as a bonus action to turn [[invisible]] until the end of your next turn, or until you make an attack or cast a spell.
+Alternatively, you can spend an extra ki point as part of your Step of the Wind to gain this benefit. When you do, you can also move through hostile creatures and solid objects no more than 4 inches thick for as long as you remain [[invisible]].
+**Phase:** When you are hit by an attack, you can use your reaction to reduce the attack's damage against you by an amount equal to your monk level as you partially slip into the Border Ethereal. You can use this ability a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +186,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Sight Beyond Sight
+At 17th level, you gain truesight and telepathy out to 60 feet, as you are able to clearly see the world and connect to the souls within it using aether.
+In addition, you can use an action to cast the [[etherealness]] spell. When you do, the spell has a duration of 1 minute. Once you cast this spell, you can't cast it again until you finish a long rest.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

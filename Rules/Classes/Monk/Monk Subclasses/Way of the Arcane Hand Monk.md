@@ -1,4 +1,4 @@
-# WOP Way of the Arcane Hand Monk
+# Way of the Arcane Hand Monk
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -90,6 +90,25 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
+
+### Way of the Arcane Hand
+Monks who practice the Way of the Arcane Hand have trained their bodies and souls to be attuned to the weave of arcane magic. They can harness those cosmic energies and use them to fuel their martial practices. Monks of this tradition, although not mageborn, have gained control over the rawest and most natural forms of power.
+
+### Level 3: Erudite Education
+You gain proficiency in the Arcana skill. Whenever you make an Intelligence ability check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1)
+
+### Level 3: Spellcasting
+When you reach 3rd level, you gain the ability to cast spells. See Spell Rules for the general rules of spellcasting and the Spells Listing for the wizard spell list.
+**Arcane Focus:** You can use a monk weapon as an [[arcane focus]] for your spellcasting.
+**Cantrips:** You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.
+**Spell Slots:** The Way of the Arcane Hand Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+For example, if you know the 1st-level spell [[thunderwave]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[thunderwave]] using either slot.
+**Spell Known of 1st-Level and Higher:** You know three 1st-level wizard spells of your choice.
+The Spells Known column of the Way of the Arcane Hand Spellcasting table shows when you learn more wizard spells of 1st level or higher of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots.
+**Spellcasting Ability:** Wisdom is your spellcasting ability for your wizard spells, since you learn your spells through contemplation and meditation. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+**Spell save DC** = 8 + Wisdom modifier + Proficiency Bonus
+**Spell attack modifier** = Wisdom modifier + Proficiency Bonus
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.

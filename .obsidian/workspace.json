@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Monk/Monk Subclasses/Way of Mercy Monk.md",
+                "file": "Rules/Classes/Monk/Monk Subclasses/Way of the Arcane Hand Monk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Way of Mercy Monk"
+              "title": "Way of the Arcane Hand Monk"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Cantrips/Elementalism.md",
+                "file": "Rules/Spells/Level 7/Etherealness.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Elementalism"
+              "title": "Etherealness"
             }
           }
         ],
@@ -330,17 +330,21 @@
   },
   "active": "b9ded9e3c49b278d",
   "lastOpenFiles": [
+    "Rules/Classes/Monk/Monk Subclasses/Way of the Aether Monk.md",
+    "Rules/Spells/Level 7/Etherealness.md",
+    "Rules/Spells/Cantrips/Elementalism.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of Mercy Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of Shadow Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Street Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Pestilent Haze Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Open Hand Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Living Weapon Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Leaden Crown.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Elements Monk.md",
-    "Rules/Spells/Cantrips/Elementalism.md",
     "Rules/Skills/Lord of the Rings/Riddle.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Celestial Monk.md",
     "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of Shadow Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of Regret Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of Pride Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of Mercy Monk.md",
@@ -357,10 +361,6 @@
     "5 Monster Stat Blocks/Fiend/Devil Jurist.md",
     "Pictures/Monsters/Devil Jurist BGR PNG.png",
     "Pictures/Monsters/Devil Jurist BGR PNG.png.opdownload",
-    "Rules/Classes/Illrigger/Illrigger Subclasses/Sanguine Knight Illrigger.md",
-    "Rules/Classes/Illrigger/Illrigger Subclasses/Painkiller Illrigger.md",
-    "Rules/Classes/Illrigger/Illrigger Subclasses/Hellspeaker Illrigger.md",
-    "Rules/Classes/Illrigger/Illrigger Subclasses/Architect of Ruin Illrigger.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
