@@ -1,8 +1,9 @@
 # Changelog
 
-- 07-09-2026 T 1342 · [[Way of the Arcane Hand Monk]]
+- 07-09-2026 T 1352 · [[Way of the Ascendant Dragon Monk]]
+- 07-09-2026 T 1346 · [[Roadmap]]
+- 07-09-2026 T 1346 · [[Way of the Arcane Hand Monk]]
 - 07-09-2026 T 1339 · [[Etherealness]]
-- 07-09-2026 T 1334 · [[Roadmap]]
 - 07-09-2026 T 1334 · [[Way of the Aether Monk]]
 - 07-09-2026 T 1327 · [[Way of Mercy Monk]]
 - 07-09-2026 T 1318 · [[Warrior of the Street Monk]]
@@ -96,7 +97,6 @@
 - 07-06-2026 T 2002 · [[Way of the Drunken Master]]
 - 07-06-2026 T 2002 · [[Way of the Cobalt Soul Monk]]
 - 07-06-2026 T 2002 · [[Way of the Astral Self Monk]]
-- 07-06-2026 T 2002 · [[Way of the Ascendant Dragon Monk]]
 - 07-06-2026 T 2002 · [[Sheep Dragon Shepherd Monk]]
 - 07-06-2026 T 2002 · [[Battle Master Fighter]]
 - 07-06-2026 T 2002 · [[College of Adventurers Bard]]

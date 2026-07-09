@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Monk/Monk Subclasses/Way of the Arcane Hand Monk.md",
+                "file": "Rules/Classes/Monk/Monk Subclasses/Way of the Astral Self Monk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Way of the Arcane Hand Monk"
+              "title": "Way of the Astral Self Monk"
             }
           },
           {
@@ -330,6 +330,8 @@
   },
   "active": "b9ded9e3c49b278d",
   "lastOpenFiles": [
+    "Rules/Classes/Monk/Monk Subclasses/Way of the Ascendant Dragon Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of the Arcane Hand Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Aether Monk.md",
     "Rules/Spells/Level 7/Etherealness.md",
     "Rules/Spells/Cantrips/Elementalism.md",
@@ -355,10 +357,8 @@
     "5 Monster Stat Blocks/Fiend/Horned Devil.md",
     "Rules/Skills/Lord of the Rings",
     "Rules/Classes/Tamer/Tamer.md",
-    "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Fiend/Devil Jurist.md",
     "Pictures/Monsters/Devil Jurist BGR PNG.png",
     "Pictures/Monsters/Devil Jurist BGR PNG.png.opdownload",
     "Pictures/Monsters/Warhorse BGR PNG.png",

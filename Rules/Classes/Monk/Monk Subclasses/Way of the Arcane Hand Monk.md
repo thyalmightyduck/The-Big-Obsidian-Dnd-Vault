@@ -110,6 +110,10 @@ Whenever you gain a level in this class, you can replace one of the wizard spell
 **Spell save DC** = 8 + Wisdom modifier + Proficiency Bonus
 **Spell attack modifier** = Wisdom modifier + Proficiency Bonus
 
+### Level 3: Eldritch Flurry
+Whenever you take the [[Attack action]] on your turn, you can cast one of your cantrips in place of one of those attacks.
+When you use your Flurry of Blows, you can cast a spell with a casting time of 1 action as a bonus action instead of making unarmed strikes. Finally, when you use your action to cast a spell, you may treat this as taking an attack with a monk weapon for the purposes of your other monk features.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -127,6 +131,9 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Arcane Empowerment
+While you are concentrating on a spell, you add twice the spell's level to the damage rolls of your unarmed strikes and attacks made with monk weapons.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -156,6 +163,13 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Focus Power
+When you cast a spell, you can expend ki points to increase the level of the spell as if you'd cast the spell using a higher-level spell slot. You must use a spell slot as normal to cast the spell, then expend 1 ki point for each level you increase the spell in this way. You can increase the spell's level higher than your highest-level spell slot to a maximum level equal to your proficiency bonus.
+For example, if you're an 11th-level Way of the Arcane Hand monk, when you cast the spell [[scorching ray]] using a 2nd-level spell slot, you could expend 2 ki points to cast the spell as 4th-level spell.
+
+### Level 11: Spell Resistance
+You have advantage on saving throws against spells and magical effects. Furthermore, you have resistance to damage from spells and magical effects.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -175,6 +189,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Meditative Casting
+Starting at 17th level, when you cast a spell with a casting time of 1 action that requires your concentration, you can expend ki points equal to the spell's level to modify the spell so that it does not require your concentration. Instead, the spell lasts up to 1 minute, or its maximum duration, whichever is shorter.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

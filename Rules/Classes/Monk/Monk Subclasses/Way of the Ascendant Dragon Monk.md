@@ -1,4 +1,4 @@
-# WOP Way of the Ascendant Dragon Monk
+# Way of the Ascendant Dragon Monk
 ## Fizban’s Treasury of Dragons
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,34 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Way of the Ascendant Dragon
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+The dragon god Bahamut is known to travel the Material Plane in the guise of a young monk, and legend says that he founded the first monastery of the Way of the Ascendant Dragon in this guise. The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.
+As a follower of the Way of the Ascendant Dragon, you decide how you unlocked the power of dragons within yourself. The Ascendant Dragon Origin table offers a number of possibilities.
+
+**Ascendant Dragon Origin:**
+
+|d6|Origin|
+|---|---|
+|1|You honed your abilities by aligning your spirit with a dragon's world-altering power.|
+|2|A dragon personally took an active role in shaping your inner energy.|
+|3|You studied at a monastery that traces its teachings back centuries or more to a single dragon's instruction, or one that is devoted to a dragon god.|
+|4|You spent long stretches meditating in the region around an ancient dragon's lair, absorbing that lair's ambient magic.|
+|5|You found a scroll written in Draconic that contained inspiring new techniques.|
+|6|After a dream featuring a five-handed dragonborn, you awoke with the mystical breath of dragons.|
+### Draconic Disciple
+_3rd-level Way of the Ascendant Dragon feature_
+You can channel draconic power to magnify your presence and imbue your unarmed strikes with the essence of a dragon's breath. You gain the following benefits:
+- **Draconic Presence:** If you fail a Charisma (Intimidation) or Charisma (Persuasion) check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a long rest.
+- **Draconic Strike:** When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison.
+- **Tongue of Dragons:** You learn to speak, read, and write [[Draconic]] or one other language of your choice.
+
+### Breath of the Dragon
+_3rd-level Way of the Ascendant Dragon feature_
+You can channel destructive waves of energy, like those created by the dragons you emulate. When you take the [Attack](https://5e.tools/actions.html#attack_phb) action on your turn, you can replace one of the attacks with an exhalation of draconic energy in either a 20-foot cone or a 30-foot line that is 5 feet wide (your choice). Choose a damage type: acid, cold, fire, lightning, or poison. Each creature in that area must make a Dexterity saving throw against your ki save DC, taking damage of the chosen type equal to two rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.
+At 11th level, the damage of this feature increases to three rolls of your Martial Arts die.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 2 ki points to use this feature again.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +136,11 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Wings Unfurled
+_6th-level Way of the Ascendant Dragon feature_
+When you use your Step of the Wind, you can unfurl spectral draconic wings from your back that vanish at the end of your turn. While the wings exist, you have a flying speed equal to your walking speed.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +170,13 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Aspect of the Wyrm
+_11th-level Way of the Ascendant Dragon feature_
+The power of your draconic spirit now radiates from you, warding your allies or inspiring fear in your enemies. As a bonus action, you can create an aura of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:
+- **Frightful Presence:** When you create this aura, and as a bonus action on subsequent turns, you can choose a creature within the aura. The target must succeed on a Wisdom saving throw against your ki save DC or become [[frightened]] of you for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.
+- **Resistance:** Choose a damage type when you activate this aura: acid, cold, fire, lightning, or poison. You and your allies within the aura have resistance to that damage.
+Once you create this aura, you can't create it again until you finish a long rest, unless you expend 3 ki points to create it again.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +196,13 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Ascendant Aspect
+_17th-level Way of the Ascendant Dragon feature_
+Your draconic spirit reaches its peak. You gain the following benefits:
+- **Augment Breath:** When you use your Breath of the Dragon, you can spend 1 ki point to augment its shape and power. The exhalation of draconic energy becomes either a 60-foot cone or a 90-foot line that is 5 feet wide (your choice), and each creature in that area takes damage equal to four rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.
+- **Blindsight:** You gain blindsight out to 10 feet. Within that range, you can effectively see anything that isn't behind [[total cover]], even if you're [[blinded]] or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
+- **Explosive Fury:** When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your aura. Each of those creatures must succeed on a Dexterity saving throw against your ki save DC or take 3d10 acid, cold, fire, lightning, or poison damage (your choice).
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

@@ -218,7 +218,7 @@ Finished Cantrip Links
 	- [x] Herald
 - [ ] Monk
 	- [x] Aether
-	- [ ] Arcane Hand
+	- [x] Arcane Hand
 	- [ ] Ascendant Dragon
 	- [ ] Astral Self
 	- [x] Celestial
