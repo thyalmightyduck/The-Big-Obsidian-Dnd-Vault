@@ -78,9 +78,19 @@
               "icon": "lucide-file",
               "title": "Trident"
             }
+          },
+          {
+            "id": "f9951b4ff612f32f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2786357becde5cec",
@@ -215,13 +226,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Trapper Guild Monster Hunter.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trapper Guild Monster Hunter"
+              "title": "Outline"
             }
           },
           {
@@ -308,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,8 +339,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9ded9e3c49b278d",
+  "active": "f9951b4ff612f32f",
   "lastOpenFiles": [
+    "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Trapper Guild Monster Hunter.md",
     "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Occultist Guild Monster Hunter.md",
     "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Devourer Guild Monster Hunter.md",
     "Rules/Weapons/Trident.md",
@@ -355,7 +367,6 @@
     "Rules/Classes/Monk/Monk Subclasses/Way of the Leaden Crown Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Four Elements Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Drunken Master.md",
-    "Rules/Tools/Brewers Supplies.md",
     "Rules/Skills/Lord of the Rings",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",
