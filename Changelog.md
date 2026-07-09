@@ -1,6 +1,7 @@
 # Changelog
 
-- 07-09-2026 T 1448 · [[Trident]]
+- 07-09-2026 T 1456 · [[Way of the Sun Soul Monk]]
+- 07-09-2026 T 1452 · [[Trident]]
 - 07-09-2026 T 1444 · [[Pike]]
 - 07-09-2026 T 1440 · [[Roadmap]]
 - 07-09-2026 T 1439 · [[Glaive]]
@@ -99,4 +100,3 @@
 - 07-06-2026 T 2002 · [[Hobbit (Harfoot)]]
 - 07-06-2026 T 2002 · [[Gnome (Rock)]]
 - 07-06-2026 T 2002 · [[Bree-Hobbit (Harfoot)]]
-- 07-06-2026 T 2002 · [[Impromptu Artisan]]

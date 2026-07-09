@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Monk/Monk Subclasses/Way of the Serpent Monk.md",
+                "file": "Rules/Classes/Monk/Monk Subclasses/Way of the Sun Soul Monk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Way of the Serpent Monk"
+              "title": "Way of the Sun Soul Monk"
             }
           },
           {
@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Trident"
             }
+          },
+          {
+            "id": "e3fd15acfc7d369d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eldritch Crawler"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
+                "file": "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shadowmaster Illrigger"
+              "title": "Outline of Eldritch Crawler"
             }
           },
           {
@@ -304,7 +328,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -328,14 +352,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3cb053736b5f5809",
+  "active": "bef805bd29ab3503",
   "lastOpenFiles": [
-    "Rules/Core Rules/Long Jump.md",
+    "5 Monster Stat Blocks/Aberration/Delerium Dreg.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of the Sun Soul Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of the Serpent Monk.md",
     "Rules/Weapons/Trident.md",
+    "Rules/Core Rules/Long Jump.md",
     "3 The Kingdom Of Nesafia/About Nesafia.md",
     "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar.md",
     "1 Daily Notes/The Three Vedos/Session 9 (6-28-2026).md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Serpent Monk.md",
     "Rules/Weapons/Pike.md",
     "Rules/Weapons/Glaive.md",
     "0 Roadmap/Roadmap.md",
@@ -354,8 +380,6 @@
     "Rules/Classes/Monk/Monk Subclasses/Way of the Aether Monk.md",
     "Rules/Spells/Cantrips/Elementalism.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of Mercy Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of Shadow Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
     "Rules/Skills/Lord of the Rings",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",

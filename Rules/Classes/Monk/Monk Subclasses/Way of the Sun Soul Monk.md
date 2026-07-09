@@ -1,4 +1,4 @@
-# WOP Way of the Sun Soul Monk
+# Way of the Sun Soul Monk
 ## Xanathar’s Guide to Everything
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,15 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Way of the Sun Soul
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+Monks of the Way of the Sun Soul learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
+
+### Radiant Sun Bolt
+Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.
+You gain a new attack option that you can use with the [[Attack action]]. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+When you take the [[Attack action]] on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the [[Attack action]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +117,10 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Searing Arc Strike
+At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the [[Attack action]] on your turn, you can spend 2 ki points to cast the [[burning hands]] spell as a bonus action.
+You can spend additional ki points to cast [[burning hands]] as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +150,11 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Searing Sunburst
+At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.
+Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn't need to make the save if the creature is behind [[total cover]] that is opaque.
+You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by 2d6.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +174,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Sun Shield
+At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.
+If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.
