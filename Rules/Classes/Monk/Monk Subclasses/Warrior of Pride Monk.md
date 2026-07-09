@@ -1,4 +1,4 @@
-# WOP Warrior of Pride Monk
+# Warrior of Pride Monk
 ## Grim Hallow: Player’s Guide (2024)
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,20 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Warrior of Pride
+_Prove Your Superiority_
+Monks who become Warriors of Pride value themselves above all. These monks focus on mastering their form, ego, and their destructive power. They display monastic aesthetics publicly with the intention of gaining the respect and admiration of "lesser beings."
+The prideful traditions of this order include adorning themselves with jewelry, hiding their scars, and commanding respect from those who would oppose them.
+
+### Level 3: Tall Tales
+You have gained a knack for telling embellished tales of your past achievements. You gain proficiency in one of the following skills of your choice: [[Deception]], [[Intimidation]], [[Performance]], or [[Persuasion]].
+
+### Level 3: Bruised Ego
+Your ego strengthens you as you fight to prove your value. When you expend a Focus Point, you can also gain [[Temporary Hit Point]]s equal to your Wisdom modifier (minimum of 1 [[Temporary Hit Point]]). While you are [[Bloodied]], you gain twice that amount instead.
+
+### Level 3: Assertive Attacker
+While you are [[Bloodied]], you add your Wisdom modifier to the damage you deal with [[Unarmed Strike]]s and Monk weapons.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +122,12 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Irrational Retaliation
+Damage dealt to you is damage dealt to your pride, and that is something you simply can't allow. Whenever a creature deals damage to you, you can take a [[Reaction]] and expend 1 Focus Point. You have [[Advantage]] on attack rolls against that creature until the end of your next turn.
+
+### Level 6: Redoubled Efforts
+When you score a [[Critical Hit]] while you are [[Bloodied]], you can roll one additional damage die when determining the extra damage dealt by the attack.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +157,14 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Ever Prideful
+When you are reduced to 0 [[Hit Point]]s and not killed outright, you can expend 1 Focus Point to enter a trance. While in this trance, you have the following effects:
+- You are Immune to the [[Unconscious]] condition.
+- You can't speak.
+- You can't cast or concentrate on spells.
+- You suffer 1 [[Death Saving Throws]] failure from damage from a [[Critical Hit]] instead of 2.
+Whenever you start your turn with 0 [[Hit Point]], you must expend 1 Focus Point to maintain a trance, and you make [[Death Saving Throws]] as normal.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +184,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Egotistical
+Injuries to your pride enrage you. You are considered [[Bloodied]] if your current [[Hit Point]]s are below your [[Hit Point]] maximum.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

@@ -1,4 +1,4 @@
-# WOP Herald Messenger
+# Herald Messenger
 ## The Lord of the Rings Roleplaying
 
 | Level | Proficiency Bonus | Features                                                        | Sneak Attack |
@@ -70,7 +70,20 @@ The amount of the extra damage increases as you gain levels in this calling, as 
 By 3rd level, the many errands you've borne during your travels have made you proficient in a little bit of everything. You can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
 ## Level 3: Messenger Path
-At 3rd level, you choose a path that shapes your calling as a Messenger. Choose the path of the [[Counsellor]] or the path of the [[Herald]], both detailed at the end of the calling description. Your choice grants you features at 3rd level and again at 7th level.
+At 3rd level, you choose a path that shapes your calling as a Messenger. Choose the path of the [[Counsellor Messenger]] or the path of the [[Herald Messenger]], both detailed at the end of the calling description. Your choice grants you features at 3rd level and again at 7th level.
+
+### Herald
+You believe that advice alone cannot stop the Enemy. To withstand such reckless hate you need both wise words and strength to back them.
+
+### Level 3: Forth to Battle
+When you choose this path at 3rd level, you gain proficiency with medium armour, shields, and martial weapons. In addition, you can give yourself a bonus to your initiative rolls equal to your Charisma modifier.
+
+### Level 3: Fighting Style
+Also at 3rd level, you adopt a style of fighting as your speciality. Choose one of the following options. You cannot take a Fighting Style option more than once, even if you later get to choose again.
+**Archery:** You gain a +2 bonus to attack rolls you make with ranged weapons.
+**Defense:** While you are wearing armor, you gain a +1 bonus to AC.
+**Dueling:** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+**Two-Weapon Fighting:** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ## Level 4: Virtue
 At 4th level, you can take a common or cultural virtue of your choice
@@ -89,6 +102,9 @@ The speed bonus increases to 10 feet when you reach 6th level in this calling.
 
 ## Level 7: Messenger Path feature
 At 7th level, you gain a feature granted by your Messenger Path feature.
+
+### Level 7: Extra Attack
+Starting at 7th level, you can attack twice, instead of once, whenever you take the [[Attack action]] on your turn.
 
 ## Level 8: Virtue
 At 8th level, you can take a common or cultural virtue of your choice

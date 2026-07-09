@@ -1,4 +1,4 @@
-# WOP Warrior of Mercy Monk 
+# Warrior of Mercy Monk 
 ## Player’s Handbook (2024)
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,19 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Warrior of Mercy
+_Manipulate Forces of Life and Death_
+Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.
+
+### Level 3: Hand of Harm
+Once per turn when you hit a creature with an [[Unarmed Strike]] and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
+
+### Level 3: Hand of Healing
+As a [[Magic action]], you can expend 1 Focus Point to touch a creature and restore a number of [[Hit Point]]s equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
+
+### Level 3: Implements of Mercy
+You gain proficiency in the Insight and Medicine skills and proficiency with the [[Herbalism Kit]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +121,11 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Physician's Touch
+Your Hand of Harm and Hand of Healing improve, as detailed below.
+**Hand of Harm:** When you use Hand of Harm on a creature, you can also give that creature the [[Poisoned]] condition until the end of your next turn.
+**Hand of Healing:** When you use Hand of Healing, you can also end one of the following conditions on the creature you heal: [[Blinded]], [[Deafened]], [[Paralyzed]], [[Poisoned]], or [[Stunned]].
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +155,11 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Flurry of Healing and Harm
+When you use Flurry of Blows, you can replace each of the Unarmed Strikes with a use of Hand of Healing without expending Focus Points for the healing.
+In addition, when you make an [[Unarmed Strike]] with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without expending a Focus Point for Hand of Harm. You can still use Hand of Harm only once per turn.
+You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[Long Rest]].
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +179,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Hand of Ultimate Mercy
+Your mastery of life energy opens the door to the ultimate mercy. As a [[Magic action]], you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[Hit Point]]s equal to 4d10 plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [[Blinded]], [[Deafened]], [[Paralyzed]], [[Poisoned]], and [[Stunned]].
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

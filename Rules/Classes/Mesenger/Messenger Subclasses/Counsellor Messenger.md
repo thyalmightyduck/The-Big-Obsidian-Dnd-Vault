@@ -1,4 +1,4 @@
-# WOP Counsellor Messenger
+# Counsellor Messenger
 ## The Lord of the Rings Roleplaying
 
 | Level | Proficiency Bonus | Features                                                        | Sneak Attack |
@@ -70,7 +70,20 @@ The amount of the extra damage increases as you gain levels in this calling, as 
 By 3rd level, the many errands you've borne during your travels have made you proficient in a little bit of everything. You can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
 ## Level 3: Messenger Path
-At 3rd level, you choose a path that shapes your calling as a Messenger. Choose the path of the [[Counsellor]] or the path of the [[Herald]], both detailed at the end of the calling description. Your choice grants you features at 3rd level and again at 7th level.
+At 3rd level, you choose a path that shapes your calling as a Messenger. Choose the path of the [[Counsellor Messenger]]or the path of the [[Herald Messenger]], both detailed at the end of the calling description. Your choice grants you features at 3rd level and again at 7th level.
+
+### Counsellor
+Wise counsel is rare to come by in the Twilight of the Third Age, as words can be distorted and put to crooked uses by the servants of the Enemy. This notwithstanding, you have chosen to oppose the Shadow by bringing your advice to all who need it.
+
+### Level 3: Bonus Proficiencies
+When you choose this path at 3rd level, you become proficient in two of the following skills of your choice: [[Deception]], [[Insight]], [[Intimidation]], [[Performance]], [[Persuasion]], and [[Riddle]]. If you are already proficient in any one of them, you add double your proficiency bonus to checks you make with it.
+
+### Level 3: Words of Guard and Guiding
+Starting at 3rd level, you can use a bonus action to make a Charisma check or take the [[Help action]]. In addition, whenever you use the [[Help Action]] to aid an ally in attacking a creature, the target of the attack can be within 30 feet of you rather than within 5 feet of you, if the ally can hear and understand you.
+
+## CounsellorTLotRR p52
+
+Wise counsel is rare to come by in the Twilight of the Third Age, as words can be distorted and put to crooked uses by the servants of the Enemy. This notwithstanding, you have chosen to oppose the Shadow by bringing your advice to all who need it.v
 
 ## Level 4: Virtue
 At 4th level, you can take a common or cultural virtue of your choice
@@ -89,6 +102,9 @@ The speed bonus increases to 10 feet when you reach 6th level in this calling.
 
 ## Level 7: Messenger Path feature
 At 7th level, you gain a feature granted by your Messenger Path feature.
+
+### Level 7: A Dangerous Gift
+Starting at 7th level, you have advantage on Intelligence ([[Riddle]]) and Wisdom ([[Insight]]) checks. In addition, you can reroll a single ability check that you fail during the Interaction stage of a council (see Chapter 5).
 
 ## Level 8: Virtue
 At 8th level, you can take a common or cultural virtue of your choice

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Mesenger/Messenger Subclasses/Counsellor Messenger.md",
+                "file": "Rules/Classes/Monk/Monk Subclasses/Warrior of the Elements Monk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Counsellor Messenger"
+              "title": "Warrior of the Elements Monk"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Fiend/Horned Devil.md",
+                "file": "Rules/Spells/Cantrips/Elementalism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Horned Devil"
+              "title": "Elementalism"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,10 +328,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9ded9e3c49b278d",
+  "active": "8dacc8716d1a2f43",
   "lastOpenFiles": [
-    "5 Monster Stat Blocks/Fiend/Horned Devil.md",
+    "Rules/Skills/Lord of the Rings/Riddle.md",
+    "Rules/Spells/Cantrips/Elementalism.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Elements Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Celestial Monk.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of Shadow Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of Regret Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of Pride Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of Mercy Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of Cosmic Balance Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Sheep Dragon Shepherd Monk.md",
+    "Rules/Classes/Mesenger/Messenger Subclasses/Herald Messenger.md",
     "Rules/Classes/Mesenger/Messenger Subclasses/Counsellor Messenger.md",
+    "5 Monster Stat Blocks/Fiend/Horned Devil.md",
+    "Rules/Skills/Lord of the Rings",
     "Rules/Classes/Tamer/Tamer.md",
     "Rules/Classes/Illrigger/Illrigger Subclasses/Shadowmaster Illrigger.md",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
@@ -348,18 +361,6 @@
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/Spellslinger Gunslinger.md",
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/Secret Agent Gunslinger.md",
     "Rules/Classes/Gunslinger/Gunslinger Subclasses/High Roller Gunslinger.md",
-    "Rules/Classes/Gunslinger/Gunslinger Subclasses/Deadeye Gunslinger.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Cleric/Cleric Subclasses/Ambition Domain Cleric.md",
-    "Rules/Classes/Apothecary/Apothecary.md",
-    "Rules/Classes/Apothecary/Apothecary Subclasses/Reanimator Apothecary.md",
-    "2 Characters/Ignatius Hooligan.md",
-    "Rules/Spells/Level 5/Nerve Gas.md",
-    "5 Monster Stat Blocks/Dragon/Delerium Dragon Wyrmling.md",
-    "Rules/Spells/Level 3/Influenza.md",
-    "Rules/Spells/Level 2/Silence.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
-    "Rules/Classes/Fighter/Fighter Subclasses/Steel Hawk Fighter.md",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png.opdownload",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
@@ -372,7 +373,6 @@
     "Pictures/Monsters/Zombie BGR PNG.png.opdownload",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png.opdownload",
-    "Rules/Spells/Level 4/Untitled",
     "Pictures/Monsters/image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png",
     "Pictures/Gods/The Moonweaver BGR PNG.png",
     "Pictures/Gods/The Knowing Mentor BGR PNG.png"

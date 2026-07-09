@@ -1,4 +1,4 @@
-# WOP Warrior of Regret Monk
+# Warrior of Regret Monk
 ## Grim Hallow: Player’s Guide (2024)
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,19 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Warrior of Regret
+_Atone for Past Mistakes_
+No one is born intent on bringing evil into this world, yet many lives are transformed by the suffering inflicted upon them. Warriors of Regret are haunted by the shadows of evil deeds done.
+Through training and reflection, Warriors of Regret accept their past can't be erased. Instead, they focus on forging remorse and grief into a weapon against their foes. Though their misdeeds follow their every step, Warriors of Regret are not powerless to atone for them.
+
+### Level 3: Shade of Regret
+Once per turn, on your turn, you can expend 1 Focus Point (no action required) to create a shade of yourself in an unoccupied space you can see within 10 feet of yourself. The shade is intangible and doesn't occupy its space. It lasts until the end of your next turn, but it ends early if you dismiss it (no action required) or have the [[Incapacitated]] condition. While it persists, you gain the following benefits.
+**Shade Strike:** When you use Flurry of Blows, you can have the attacks originate from the shade instead of you. Attacks originating from the shade deal Necrotic or Force damage (your choice) rather than their normal damage type.
+**Move:** As a [[Bonus Action]], you can move the shade up to 60 feet to an unoccupied space you can see that is within 60 feet of yourself.
+
+### Level 3: The Road Not Traveled
+When you take the [[Dash action]], instead of moving, you can teleport yourself or an ally within 60 feet of you to the location of your shade.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +121,9 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Aid Not Given
+You can take a [[Bonus Action]] to take the [[Help action]] or touch a creature and restore a number of [[Hit Point]]s equal to a roll of your Martial Arts die plus your Wisdom modifier. You can use this feature as though you were in the shade's space.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +153,9 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Crushing Guilt
+You can expend 3 Focus Points to release your pent-up guilt in a crushing wave that drops your foes to their knees. Creatures of your choice in a 20-foot [[Emanation]] originating from you or your shade must make a Wisdom saving throw against your Focus Point save DC. On a failed save, a creature takes Psychic damage equal to three rolls of your Martial Arts die and has the [[Prone]] condition. On a successful save, a creature takes half as much damage only.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +175,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Relive the Past
+Your Shade of Regret now lasts for 10 minutes. After using Flurry of Blows, your Shade can make one additional [[Unarmed Strike]] as per Shade Strike. You can also use the Stunning Strike feature through the Shade Strike.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

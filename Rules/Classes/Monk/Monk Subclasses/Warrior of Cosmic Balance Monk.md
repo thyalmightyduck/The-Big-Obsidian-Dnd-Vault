@@ -1,4 +1,4 @@
-# WOP Warrior of Cosmic Balance Monk
+# Warrior of Cosmic Balance Monk
 ## Cthulhu by Torchlight
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
@@ -91,6 +91,16 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 ## Level 3: Monk Subclass
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
+### Warrior of Cosmic Balance
+“_When the cosmos spins out of alignment, my job is to kick it back into place. Literally._”
+— _Sheresa, Acolyte of the Vast_
+Warriors of the Cosmic Balance watch the mystic paths of the world, the dimensional portals and arcane gates. And where eldrtich horrors seek to intrude upon the world, these warriors stand waiting. They are trained to use their inner power to purge even the strongest afflictions, and their merest touch can send the mightiest abominations back to the horrid pits that spawned them.
+
+### Level 3: Guardian of the Way Technique
+You have studied alien creatures and learned to disrupt the foul energies that course through them. Once per turn when you make an [[Unarmed Strike]] with Flurry of Blows and deal damage, you can cause one of the following effects:
+- **Anchoring Strike:** Until the end of your next turn, the target can't teleport or use planar travel, including, entering an extradimensional space or demiplane.
+- **Banishing Strike:** The target teleports up to 15 feet to an unoccupied space you can see.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
@@ -108,6 +118,9 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 
 ## Level 6: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 6: Warden of Harmony
+When a creature within 60 feet of you attempts to teleport, you can take a [[Reaction]] and spend 1 Focus Point to prevent the teleportation.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
@@ -137,6 +150,12 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 ## Level 11: Subclass Feature
 You gain a feature from your Monk subclass.
 
+### Level 11: Cosmic Restoration
+As a [[Bonus Action]], you can touch a willing creature (which could be yourself) and choose one of the following options.
+**Dispelling Touch:** You end all spells of your choice currently affecting the target.
+**Purging Touch:** You remove one of the following conditions from the target: [[Blinded]], [[Charmed]], [[Deafened]], [[Exhaustion]] (decreases by 1), [[Frightened]], [[Paralyzed]], [[Petrified]], [[Poisoned]], or [[Stunned]].
+Once you use this feature, you can't use it again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb). You can also restore your use of it by expending 4 Focus Points (no action required).
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,6 +175,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Monk subclass.
+
+### Level 17: Ward the Profane
+Once per turn when you hit a creature with an [[Unarmed Strike]], you can expend 3 Focus Points to cast [[Banishment]] targeting that creature. Wisdom is your spellcasting ability for it.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

@@ -213,17 +213,17 @@ Finished Cantrip Links
 	- [x] Painkiller
 	- [x] Sanguine Knight
 	- [x] Shadowmaster
-- [ ] Messenger
-	- [ ] Counselor
-	- [ ] Herald
+- [x] Messenger
+	- [x] Counselor
+	- [x] Herald
 - [ ] Monk
 	- [ ] Aether
 	- [ ] Arcane Hand
 	- [ ] Ascendant Dragon
 	- [ ] Astral Self
-	- [ ] Celestial
+	- [x] Celestial
 	- [ ] Cobalt Soul
-	- [ ] Cosmic Balance
+	- [x] Cosmic Balance
 	- [ ] Drunken Master
 	- [ ] Elements
 	- [ ] Four Elements
@@ -231,15 +231,15 @@ Finished Cantrip Links
 	- [ ] Leaden Crown 
 	- [ ] Living Weapon
 	- [ ] Long Death
-	- [ ] Mercy
+	- [x] Mercy
 	- [ ] Open Hand
 	- [ ] Pestilent Haze
-	- [ ] Pride
+	- [x] Pride
 	- [ ] Prophet
-	- [ ] Regret
+	- [x] Regret
 	- [ ] Serpent
-	- [ ] Shadow
-	- [ ] Sheep Dragon Shepherd
+	- [x] Shadow
+	- [ ] Sheep Dragon Shepherd (Temp Taken Down)
 	- [ ] Street
 	- [ ] Sun Soul
 - [ ] Monster Hunter
