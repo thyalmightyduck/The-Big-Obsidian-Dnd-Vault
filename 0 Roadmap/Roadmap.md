@@ -237,11 +237,11 @@ Finished Cantrip Links
 	- [x] Pride
 	- [x] Prophet
 	- [x] Regret
-	- [ ] Serpent
+	- [x] Serpent
 	- [x] Shadow
 	- [ ] Sheep Dragon Shepherd (Temp Taken Down)
 	- [x] Street
-	- [ ] Sun Soul
+	- [x] Sun Soul
 - [ ] Monster Hunter
 	- [ ] Carver
 	- [ ] Devourer

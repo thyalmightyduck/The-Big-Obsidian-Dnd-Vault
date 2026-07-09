@@ -1,9 +1,9 @@
 # Changelog
 
+- 07-09-2026 T 1459 · [[Roadmap]]
 - 07-09-2026 T 1456 · [[Way of the Sun Soul Monk]]
 - 07-09-2026 T 1452 · [[Trident]]
 - 07-09-2026 T 1444 · [[Pike]]
-- 07-09-2026 T 1440 · [[Roadmap]]
 - 07-09-2026 T 1439 · [[Glaive]]
 - 07-09-2026 T 1432 · [[Way of the Serpent Monk]]
 - 07-09-2026 T 1429 · [[Way of the Prophet Monk]]
