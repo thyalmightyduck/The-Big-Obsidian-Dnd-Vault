@@ -247,6 +247,14 @@ Finished Cantrip Links
 	- [x] Devourer
 	- [x] Occultist
 	- [x] Trapper
+- [ ] Mystic
+	- [ ] Order of the avatar
+	- [ ] Order of the awakened
+	- [ ] Order of the Immortal
+	- [ ] Order of the nomad
+	- [ ] order of the soul knife
+	- [ ] Order of the Wu JEn
+	- [ ] 
 - [ ] Paladin
 	- [ ] Ancients
 	- [ ] Castigation

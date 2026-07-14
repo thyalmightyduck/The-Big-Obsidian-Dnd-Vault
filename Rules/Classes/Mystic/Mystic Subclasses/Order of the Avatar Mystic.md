@@ -129,6 +129,17 @@ At 1st level, you choose a Mystic Order from the list of available orders. Each 
 
 Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.
 
+### Order of the Avatar
+_This subclass was published on March 12th, 2017._
+Mystics of the Order of the Avatar delve into the world of emotion, mastering their inner life to such an extent that they can manipulate and amplify the emotions of others with the same ease that an artist shapes clay. Known as Avatars, these mystics vary from tyrants to inspiring leaders who are loved by their followers.
+Avatars can bring out extreme emotions in the people around them. For their allies, they can lend hope, ferocity, and courage, transforming a fighting band into a deadly, unified force. For their enemies, they bring fear, disgust, and trepidation that can make even the most hardened veteran act like a shaky rookie.
+
+### Level 1: Bonus Disciplines
+At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the [[Avatar disciplines]].
+
+### Level 1: Armor Training
+At 1st level, you gain proficiency with medium armor and shields.
+
 ## Level 2: Mystical Recovery
 Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.
 
@@ -140,6 +151,9 @@ At 2nd level, your mind awakens to the ability to communicate via telepathy. You
 ## Level 3: Mystic Order feature
 At 3rd level, you gain another feature from your Mystic Order.
 
+### Level 3: Avatar of Battle
+Starting at 3rd level, you project an inspiring aura. While you aren't [[incapacitated]], each ally within 30 feet of you who can see you gains a +2 bonus to initiative rolls.
+
 ## Level 4: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -150,6 +164,9 @@ Starting at 4th level, you can replace your proficiency in Wisdom saving throws 
 
 ## Level 6: Mystic Order feature
 At 6th level, you gain another feature from your Mystic Order.
+
+### Level 6: Avatar of Healing
+Beginning at 6th level, you project an aura of resilience. While you aren't [[incapacitated]], each ally within 30 feet of you who can see you regains additional hit points equal to your Intelligence modifier (minimum of 0) whenever they regain hit points from a psionic discipline.
 
 ## Level 8: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -181,6 +198,9 @@ At 13th level, you can use your Psionic Mastery twice per day.
 
 ## Level 14: Mystic Order feature
 At 14th level, you gain another feature from your Mystic Order.
+
+### Level 14: Avatar of Speed
+Starting at 14th level, you project an aura of speed. While you aren't [[incapacitated]], any ally within 30 feet of you who can see you can take the [[Dash]] action as a bonus action.
 
 ## Level 14: Potent Psionics (2d8)
 At 14th level, your Potent Psionics damage increased to 2d8.
