@@ -1,5 +1,7 @@
 # Changelog
 
+- 07-14-2026 T 1529 · [[Alarm]]
+- 07-14-2026 T 1527 · [[Absorb Elements]]
 - 07-14-2026 T 1516 · [[Order of the Avatar Mystic]]
 - 07-14-2026 T 1510 · [[Roadmap]]
 - 07-09-2026 T 1527 · [[Trapper Guild Monster Hunter]]
@@ -98,5 +100,3 @@
 - 07-06-2026 T 2018 · [[Nightwatcher Fighter]]
 - 07-06-2026 T 2010 · [[Living Crucible Fighter]]
 - 07-06-2026 T 2008 · [[Weavers Tools]]
-- 07-06-2026 T 2005 · [[Masons Tools]]
-- 07-06-2026 T 2005 · [[Leatherworkers Tools]]

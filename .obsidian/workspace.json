@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Mystic/Mystic Subclasses/Order of the Avatar Mystic.md",
+                "file": "Rules/Spells/Level 1/Alarm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Order of the Avatar Mystic"
+              "title": "Alarm"
             }
           },
           {
@@ -78,9 +78,19 @@
               "icon": "lucide-file",
               "title": "Trident"
             }
+          },
+          {
+            "id": "7532d1f1dffc268a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Petal Druid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Circle of the Petal Druid"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,12 +181,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Petal Druid.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Circle of the Petal Druid"
+              "title": "Outgoing links"
             }
           },
           {
@@ -307,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,10 +335,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9ded9e3c49b278d",
+  "active": "7532d1f1dffc268a",
   "lastOpenFiles": [
-    "0 Roadmap/Roadmap.md",
+    "Rules/Spells/Level 1/Alarm.md",
+    "Rules/Spells/Level 1/Accelerate Decelerate.md",
+    "Rules/Spells/Level 1/Absorb Elements.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Avatar Mystic.md",
+    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Trapper Guild Monster Hunter.md",
     "Rules/Weapons/Trident.md",
     "Rules/Classes/Monster Hunter/Monster Hunter Subclasses/Occultist Guild Monster Hunter.md",
@@ -352,9 +363,6 @@
     "Rules/Spells/Level 7/Etherealness.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Prophet Monk.md",
     "Rules/Classes/Monk/Monk Subclasses/Way of the Long Death Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Kensei Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Leaden Crown Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of the Four Elements Monk.md",
     "Rules/Skills/Lord of the Rings",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",
