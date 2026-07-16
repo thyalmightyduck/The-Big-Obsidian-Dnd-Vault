@@ -1,0 +1,8 @@
+- [[Mastery of Air]]
+- [[Mastery of Fire]]
+- [[Mastery of Force]]
+- [[Mastery of Ice]]
+- [[Mastery of Light and Darkness]]
+- [[Mastery of Water]]
+- [[Mastery of Weather]]
+- [[Mastery of Wood and Earth]]

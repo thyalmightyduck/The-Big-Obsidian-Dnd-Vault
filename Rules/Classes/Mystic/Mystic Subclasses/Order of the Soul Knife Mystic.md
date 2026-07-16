@@ -1,4 +1,4 @@
-# WOP Order of the Soul Knife Mystic
+# Order of the Soul Knife Mystic
 ## The Unearthed Arcana: The Mystic Class
 
 | Level | Proficiency Bonus | Features                                                                                         | Talents Known | Disciplines Known | Psi Points | Psi Limit |
@@ -129,6 +129,19 @@ At 1st level, you choose a Mystic Order from the list of available orders. Each 
 
 Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.
 
+### Order of the Soul Knife
+_This subclass was published on March 12th, 2017._
+The Order of the Soul Knife sacrifices the breadth of knowledge other mystics gain to focus on a specific psionic technique. These mystics learn to manifest a deadly weapon of pure psychic energy that they can use to cleave through foes.
+Soul knives vary widely in their approach to this path. Some follow it out of a desire to achieve martial perfection. Others are ruthless assassins who seek to become the perfect killer.
+
+### Level 1: Martial Training
+At 1st level, you gain proficiency with medium armor and martial weapons.
+
+### Level 1: Soul Knife
+Starting at 1st level, you gain the ability to manifest a blade of psychic energy. As a bonus action, you create scintillating knives of energy that project from both of your fists. You can't hold anything in your hands while manifesting these blades. You can dismiss them as a bonus action.
+For you, a soul knife is a martial melee weapon with the light and finesse properties. It deals 1d8 psychic damage on a hit.
+As a bonus action, you can prepare to use the blades to parry; you gain a +2 bonus to AC until the start of your next turn or until you are [[incapacitated]].
+
 ## Level 2: Mystical Recovery
 Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.
 
@@ -140,6 +153,15 @@ At 2nd level, your mind awakens to the ability to communicate via telepathy. You
 ## Level 3: Mystic Order feature
 At 3rd level, you gain another feature from your Mystic Order.
 
+### Level 3: Hone the Blade
+Starting at 3rd level, you can spend psi points to augment your soul knife's attack rolls and damage. You gain a bonus to attack and damage rolls with your soul knives depending on the number of psi points spent, as shown on the table below. This bonus lasts for 10 minutes.
+
+|Psi Points|Attack and Damage Bonus|
+|---|---|
+|2|+1|
+|5|+2|
+|7|+4|
+
 ## Level 4: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -150,6 +172,9 @@ Starting at 4th level, you can replace your proficiency in Wisdom saving throws 
 
 ## Level 6: Mystic Order feature
 At 6th level, you gain another feature from your Mystic Order.
+
+### Level 6: Consumptive Knife
+Starting at 6th level, whenever you slay an enemy creature with a soul knife attack, you immediately regain 2 psi points.
 
 ## Level 8: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -181,6 +206,9 @@ At 13th level, you can use your Psionic Mastery twice per day.
 
 ## Level 14: Mystic Order feature
 At 14th level, you gain another feature from your Mystic Order.
+
+### Level 14: Phantom Knife
+Starting at 14th level, you can make an attack that phases through most defenses. As an action, you can make one attack with your soul knife. Treat the target's AC as 10 against this attack, regardless of the target's actual AC.
 
 ## Level 14: Potent Psionics (2d8)
 At 14th level, your Potent Psionics damage increased to 2d8.

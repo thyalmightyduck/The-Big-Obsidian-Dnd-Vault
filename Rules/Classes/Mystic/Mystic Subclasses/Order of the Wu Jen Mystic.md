@@ -1,4 +1,4 @@
-# WOP Order of the Wu Jen Mystic
+# Order of the Wu Jen Mystic
 ## Unearthed Arcana: The Mystic Class
 
 | Level | Proficiency Bonus | Features                                                                                         | Talents Known | Disciplines Known | Psi Points | Psi Limit |
@@ -129,6 +129,17 @@ At 1st level, you choose a Mystic Order from the list of available orders. Each 
 
 Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.
 
+### Order of the Wu Jen
+_This subclass was published on March 12th, 2017._
+The Order of the Wu Jen features some of the most devoted mystics. These mystics seek to lock themselves away from the world, denying the limits of the physical world and replacing it with a reality that they create for themselves. Known as wu jens, these mystics cast their minds into the world, seize control of its fundamental principles, and rebuild it.
+In practical terms, wu jens excel at controlling the forces of the natural world. They can hurl objects with their minds, control the four elements, and alter reality to fit their desires.
+
+### Level 1: Bonus Disciplines
+At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the [[Wu Jen disciplines]].
+
+### Level 1: Hermit's Study
+At 1st level, you gain proficiency with two of the following skills of your choice: [[Animal Handling]], [[Arcana]], [[History]], [[Insight]], [[Medicine]], [[Nature]], [[Perception]], [[Religion]], or [[Survival]].
+
 ## Level 2: Mystical Recovery
 Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.
 
@@ -140,6 +151,9 @@ At 2nd level, your mind awakens to the ability to communicate via telepathy. You
 ## Level 3: Mystic Order feature
 At 3rd level, you gain another feature from your Mystic Order.
 
+### Level 3: Elemental Attunement
+Starting at 3rd level, when a creature's resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature's resistance. You can't spend this point if doing so would increase the discipline's cost above your psi limit.
+
 ## Level 4: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -150,6 +164,21 @@ Starting at 4th level, you can replace your proficiency in Wisdom saving throws 
 
 ## Level 6: Mystic Order feature
 At 6th level, you gain another feature from your Mystic Order.
+
+### Level 6: Arcane Dabbler
+At 6th level, you learn three wizard spells of your choice and always have them prepared. The spells must be of 1st through 3rd level.
+As a bonus action, you can spend psi points to create spell slots that you can use to cast these spells, as well as other spells you are capable of casting. The psi-point cost of each spell slot is detailed on the table below.
+
+| Spell Slot Level | Psi Cost |
+| ---------------- | -------- |
+| 1st              | 2        |
+| 2nd              | 3        |
+| 3rd              | 5        |
+| 4th              | 6        |
+| 5th              | 7        |
+
+The spell slot remains until you use it or finish a long rest. You must observe your psi limit when spending psi points to create a spell slot.
+Whenever you gain a level in this class, you can replace one of the chosen wizard spells with a different wizard spell of 1st through 3rd level.
 
 ## Level 8: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -181,6 +210,9 @@ At 13th level, you can use your Psionic Mastery twice per day.
 
 ## Level 14: Mystic Order feature
 At 14th level, you gain another feature from your Mystic Order.
+
+### Level 14: Elemental Mastery
+Starting at 14th level, if you have resistance to a type of damage, you can spend 2 psi points as a reaction when you take damage of that type to ignore that damage; you gain immunity to that damage type until the end of your next turn.
 
 ## Level 14: Potent Psionics (2d8)
 At 14th level, your Potent Psionics damage increased to 2d8.

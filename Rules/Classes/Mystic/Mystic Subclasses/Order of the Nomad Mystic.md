@@ -1,4 +1,4 @@
-# WOP Order of the Nomad Mystic
+# Order of the Nomad Mystic
 ## Unearthed Arcana: The Mystic Class
 
 | Level | Proficiency Bonus | Features                                                                                         | Talents Known | Disciplines Known | Psi Points | Psi Limit |
@@ -129,6 +129,17 @@ At 1st level, you choose a Mystic Order from the list of available orders. Each 
 
 Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.
 
+### Order of the Nomad
+_This subclass was published on March 12th, 2017._
+Mystics of the Order of the Nomad keep their minds in a strange, rarified state. They seek to accumulate as much knowledge as possible, as they quest to unravel the mysteries of the multiverse and seek the underlying structure of all things. At the same time, they perceive a bizarre, living web of knowledge they call the noosphere.
+Nomads, as their name indicates, delight in travel, exploration, and discovery. They desire to accumulate as much knowledge as possible, and the pursuit of secrets and hidden lore can become an obsession for them.
+
+### Level 1: Bonus Disciplines
+At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the [[Nomad disciplines]].
+
+### Level 1: Breadth of Knowledge
+At 1st level, you gain the ability to extend your knowledge. When you finish a long rest, you gain two proficiencies of your choice: two tools, two skills, or one of each. You can replace one or both of these selections with languages. This benefit lasts until you finish a long rest.
+
 ## Level 2: Mystical Recovery
 Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.
 
@@ -140,6 +151,9 @@ At 2nd level, your mind awakens to the ability to communicate via telepathy. You
 ## Level 3: Mystic Order feature
 At 3rd level, you gain another feature from your Mystic Order.
 
+### Level 3: Memory of One Thousand Steps
+At 3rd level, you gain the ability to use psionics to recall your steps. As a reaction when you are hit by an attack, you can teleport to an unoccupied space that you occupied since the start of your last turn, and the attack misses you. Once you use this feature, you can't use it again until you finish a short or long rest.
+
 ## Level 4: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -150,6 +164,9 @@ Starting at 4th level, you can replace your proficiency in Wisdom saving throws 
 
 ## Level 6: Mystic Order feature
 At 6th level, you gain another feature from your Mystic Order.
+
+### Level 6: Superior Teleportation
+At 6th level, you gain a superior talent for teleportation. When you use a psionic discipline to teleport any distance, you can increase that distance by up to 10 feet.
 
 ## Level 8: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -181,6 +198,9 @@ At 13th level, you can use your Psionic Mastery twice per day.
 
 ## Level 14: Mystic Order feature
 At 14th level, you gain another feature from your Mystic Order.
+
+### Level 14: Effortless Journey
+Starting at 14th level, your mind can mystically move your body. Once on each of your turns, you can forfeit up to 30 feet of your movement to teleport the distance you forfeited. You must teleport to an unoccupied space you can see.
 
 ## Level 14: Potent Psionics (2d8)
 At 14th level, your Potent Psionics damage increased to 2d8.

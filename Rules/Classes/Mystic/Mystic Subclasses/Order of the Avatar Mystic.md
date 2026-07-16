@@ -1,4 +1,4 @@
-# WOP Order of the Avatar Mystic
+# Order of the Avatar Mystic
 ## Unearthed Arcana: The Mystic Class
 
 | Level | Proficiency Bonus | Features                                                                                         | Talents Known | Disciplines Known | Psi Points | Psi Limit |
@@ -135,7 +135,7 @@ Mystics of the Order of the Avatar delve into the world of emotion, mastering th
 Avatars can bring out extreme emotions in the people around them. For their allies, they can lend hope, ferocity, and courage, transforming a fighting band into a deadly, unified force. For their enemies, they bring fear, disgust, and trepidation that can make even the most hardened veteran act like a shaky rookie.
 
 ### Level 1: Bonus Disciplines
-At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the [[Avatar disciplines]].
+At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the [[Avatar Disciplines]].
 
 ### Level 1: Armor Training
 At 1st level, you gain proficiency with medium armor and shields.

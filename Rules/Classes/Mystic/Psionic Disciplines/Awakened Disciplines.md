@@ -1,0 +1,8 @@
+- [[Aura Sight]]
+- [[Intellect Fortress]]
+- [[Mantle of Awe]]
+- [[Precognition]]
+- [[Psychic Assault]]
+- [[Psychic Disruption]]
+- [[Psychic Inquisition]]
+- [[Telepathic Contact]]

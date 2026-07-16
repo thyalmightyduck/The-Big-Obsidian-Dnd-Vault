@@ -1,4 +1,4 @@
-# WOP Order of the Immortal Mystic
+# Order of the Immortal Mystic
 ## Unearthed Arcana: The Mystic Class
 
 | Level | Proficiency Bonus | Features                                                                                         | Talents Known | Disciplines Known | Psi Points | Psi Limit |
@@ -129,6 +129,18 @@ At 1st level, you choose a Mystic Order from the list of available orders. Each 
 
 Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.
 
+### Order of the Immorta
+_This subclass was published on March 12th, 2017._
+The Order of the Immortal uses psionic energy to augment and modify the physical form. Followers of this order are known as Immortals. They use psionic energy to modify their bodies, strengthening them against attack and turning themselves into living weapons.
+Their mastery of the physical form grants them their name, for Immortals are notoriously difficult to kill.
+
+### Level 1: Bonus Disciplines
+At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the [[Immortal disciplines]].
+
+### Level 1: Immortal Durability
+Starting at 1st level, your hit point maximum increases by 1 per mystic level.
+In addition, while you aren't wearing armor or wielding a shield, your base AC equals 10 + your Dexterity modifier + your Constitution modifier.
+
 ## Level 2: Mystical Recovery
 Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.
 
@@ -140,6 +152,9 @@ At 2nd level, your mind awakens to the ability to communicate via telepathy. You
 ## Level 3: Mystic Order feature
 At 3rd level, you gain another feature from your Mystic Order.
 
+### Level 3: Psionic Resilience
+Starting at 3rd level, your psionic energy grants you extraordinary fortitude. At the start of each of your turns, you gain temporary hit points equal to your Intelligence modifier (minimum of 0) if you have at least 1 hit point.
+
 ## Level 4: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -150,6 +165,10 @@ Starting at 4th level, you can replace your proficiency in Wisdom saving throws 
 
 ## Level 6: Mystic Order feature
 At 6th level, you gain another feature from your Mystic Order.
+
+### Level 6: Surge of Health
+Starting at 6th level, you can draw on your psychic focus to escape death's grasp. As a reaction when you take damage, you can halve that damage against you. Your psychic focus immediately ends if it's active, and you can't use it until you finish a short or long rest.
+You can't use this feature if you can't use your psychic focus.
 
 ## Level 8: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -181,6 +200,9 @@ At 13th level, you can use your Psionic Mastery twice per day.
 
 ## Level 14: Mystic Order feature
 At 14th level, you gain another feature from your Mystic Order.
+
+### Level 14: Immortal Will
+Starting at 14th level, you can draw on your reserves of psionic power to survive beyond death. At the end of your turn while at 0 hit points, you can spend 5 psi points to immediately regain a number of hit points equal to your mystic level + your Constitution modifier.
 
 ## Level 14: Potent Psionics (2d8)
 At 14th level, your Potent Psionics damage increased to 2d8.
