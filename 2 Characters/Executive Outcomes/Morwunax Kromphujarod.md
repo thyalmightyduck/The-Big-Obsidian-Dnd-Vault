@@ -70,9 +70,11 @@
 # Spells
 ### Cantrips
 ### Level 1: Spell Slots 4/4
-[[Hunter's Mark]], [[Charm Person]]
+[[Hunter's Mark]], [[Charm Person]], [[Cure Wounds]], [[Ensnaring Strike]], [[Hail of Thorns]], [[Speak With Animals]]
 ### Level 2: Spell Slots 3/3
-[[Misty Step]]
+[[Misty Step]], [[Cordon of Arrows]]
+### Level 3: Spell Slots 2/2 
+[[Summon Fey]], [[Dispel Magic]], [[Lightning Arrow]], [[Revivify]], [[Water Breathing]]
 # 5e Statblock
 ```statblock
 layout: Basic 5e Layout
