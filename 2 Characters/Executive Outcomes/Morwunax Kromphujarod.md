@@ -70,7 +70,7 @@
 # Spells
 ### Cantrips
 ### Level 1: Spell Slots 4/4
-[[Hunter's Mark]], [[Charm Person]], [[Cure Wounds]], [[Ensnaring Strike]], [[Hail of Thorns]], [[Speak With Animals]]
+[[Hunters Mark]], [[Charm Person]], [[Cure Wounds]], [[Ensnaring Strike]], [[Hail of Thorns]], [[Speak With Animals]]
 ### Level 2: Spell Slots 3/3
 [[Misty Step]], [[Cordon of Arrows]]
 ### Level 3: Spell Slots 2/2 

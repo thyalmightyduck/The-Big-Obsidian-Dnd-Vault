@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-23-2026 T 1532 · [[Morwunax Kromphujarod]]
+- 07-23-2026 T 1535 · [[Morwunax Kromphujarod]]
 - 07-16-2026 T 1556 · [[Roadmap]]
 - 07-16-2026 T 1555 · [[Order of the Wu Jen Mystic]]
 - 07-16-2026 T 1553 · [[Order of the Soul Knife Mystic]]
