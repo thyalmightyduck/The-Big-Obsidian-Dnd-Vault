@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Order of the Wu Jen Mystic"
             }
+          },
+          {
+            "id": "c40cf96b81953e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Morwunax Kromphujarod"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -373,8 +397,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e97c6413d7cb39b7",
+  "active": "c40cf96b81953e34",
   "lastOpenFiles": [
+    "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Soul Knife Mystic.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Nomad Mystic.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Immortal Mystic.md",
@@ -403,7 +428,6 @@
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal/Psionic Weapon.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal/Psionic Restoration.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Immortal/Iron Durability.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
     "Rules/Classes/Mystic/Psionic Disciplines/Awakened",
     "Rules/Classes/Mystic/Psionic Disciplines/Avatar",

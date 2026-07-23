@@ -1,5 +1,6 @@
 # Changelog
 
+- 07-23-2026 T 1532 · [[Morwunax Kromphujarod]]
 - 07-16-2026 T 1556 · [[Roadmap]]
 - 07-16-2026 T 1555 · [[Order of the Wu Jen Mystic]]
 - 07-16-2026 T 1553 · [[Order of the Soul Knife Mystic]]
@@ -99,4 +100,3 @@
 - 07-09-2026 T 1304 · [[Warrior of the Open Hand Monk]]
 - 07-09-2026 T 1300 · [[Warrior of the Living Weapon Monk]]
 - 07-09-2026 T 1255 · [[Warrior of the Leaden Crown]]
-- 07-09-2026 T 1250 · [[Elementalism]]
