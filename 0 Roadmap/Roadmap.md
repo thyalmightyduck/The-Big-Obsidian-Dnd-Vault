@@ -253,14 +253,14 @@ Finished Cantrip Links
 	- [x] Order of the Immortal
 	- [x] Order of the nomad
 	- [x] order of the soul knife
-	- [ ] Order of the Wu JEn
+	- [x] Order of the Wu JEn
 	- [ ] 
 - [ ] Paladin
 	- [ ] Ancients
-	- [ ] Castigation
-	- [ ] Conquest
+	- [x] Castigation
+	- [x] Conquest
 	- [ ] Crown
-	- [ ] Devotion
+	- [x] Devotion
 	- [ ] Glory
 	- [ ] Guardian
 	- [ ] Harvest

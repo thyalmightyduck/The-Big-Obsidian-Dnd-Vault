@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
+                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of Devotion Paladin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Order of the Wu Jen Mystic"
+              "title": "Oath of Devotion Paladin"
+            }
+          },
+          {
+            "id": "77f803d1caeb78e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Feats/Boon of Truesight.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Boon of Truesight"
             }
           }
         ],
@@ -375,8 +399,15 @@
   },
   "active": "e97c6413d7cb39b7",
   "lastOpenFiles": [
-    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Conquest Paladin.md",
+    "Rules/Feats/Boon of Truesight.md",
+    "Rules/Classes/Paladin/Paladin Features/Aura of Protection.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Castigation Paladin.md",
+    "Rules/Spells/Level 2/Chain of Conviction.md",
+    "Rules/Classes/Paladin/Paladin Features/Channel Divinity.md",
+    "Rules/Classes/Paladin/Paladin Features",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
+    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Soul Knife Mystic.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Nomad Mystic.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Immortal Mystic.md",
@@ -396,13 +427,7 @@
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Force.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Fire.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Air.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad/Third Eye.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad/Nomadic Step.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad/Nomadic Mind.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad/Nomadic Chameleon.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad/Nomadic Arrow.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Immortal/Psionic Weapon.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
     "Rules/Classes/Mystic/Psionic Disciplines/Awakened",
@@ -412,7 +437,6 @@
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Horned Devil BGR PNG.png.opdownload",
     "Pictures/Monsters/Devil Jurist BGR PNG.png",
-    "Pictures/Monsters/Devil Jurist BGR PNG.png.opdownload",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
     "Pictures/Monsters/Giaint Insect Monster BGR PNG.png",
