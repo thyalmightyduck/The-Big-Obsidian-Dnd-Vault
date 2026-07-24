@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Open Sea Paladin.md",
+                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Watchers Paladin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oath of the Open Sea Paladin"
+              "title": "Oath of the Watchers Paladin"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
+                "file": "Rules/Spells/Level 5/Freedom of the Winds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Elemental Spirit"
+              "title": "Freedom of the Winds"
             }
           }
         ],
@@ -375,8 +375,15 @@
   },
   "active": "e97c6413d7cb39b7",
   "lastOpenFiles": [
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Noble Genies Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Spelldrinker Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the River Paladin.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Open Sea Paladin.md",
+    "Rules/Spells/Level 5/Freedom of the Winds.md",
+    "Rules/Spells/Level 3/Freedom of the Waves.md",
+    "Rules/Spells/Level 1/Expeditious Retreat.md",
     "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Noble Genies Paladin.md",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
     "Rules/Spells/Level 4/Summon Elemental.md",
@@ -396,16 +403,10 @@
     "Rules/Spells/Level 4/Supernal Smite.md",
     "Rules/Spells/Level 4/Consume Mind.md",
     "Rules/Spells/Level 3/Suffocate.md",
-    "Rules/Spells/Level 2/Bloodletter.md",
-    "Rules/Core Rules/Mounted Combat.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Revelry Paladin.md",
     "Pictures/Mounted Combat.png",
-    "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
-    "Rules/Spells/Level 2/Find Steed.md",
     "5 Monster Stat Blocks/Multiple Type",
-    "Rules/Spells/Level 5/Geas.md",
     "Pictures/Monsters/Blooderfly.png",
     "Pictures/Monsters/Blooderfly.png.opdownload",
     "Pictures/Spells/Yolandes Regal Presence.png",

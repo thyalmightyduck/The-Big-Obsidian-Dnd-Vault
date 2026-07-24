@@ -1,4 +1,4 @@
-# Oath of the River Paladin
+# WOP Oath of the River Paladin
 ## Obojima: Tales from the Tall Grass
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |

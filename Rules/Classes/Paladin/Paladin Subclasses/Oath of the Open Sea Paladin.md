@@ -104,6 +104,14 @@ You gain oath spells at the paladin levels listed in the Oath of the Open Sea Sp
 | 9th           | [[call lightning]], [[freedom of the waves]]*                                                                                                                                                   |
 | 13th          | [[control water]], [[freedom of movement]]                                                                                                                                                      |
 | 17th          | [[commune with nature]], [[freedom of the winds]]* |
+### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+**Marine Layer:** As an action, you channel the sea to create a thick cloud of fog that surrounds you for 20 feet in all directions. The fog moves with you, remaining centered on you and making its area heavily obscured. You and each creature within 5 feet of you instead treat the area as lightly obscured. This fog lasts for 10 minutes, spreads around corners, and cannot be dispersed unless you choose to end this effect (no action required).
+**Fury of the Tides:** As a bonus action, you channel the powerful might of the waves to bolster your attacks for 1 minute. Once per turn for the duration, when you hit a creature with a weapon attack, you can choose to push the target 10 feet away from you. If pushed into an obstacle or another creature, the target takes bludgeoning damage equal to your Charisma modifier.
+
+#### Rules Tip: Visibility
+Fog and other effects can obscure vision for you, your enemies, and your allies. When you heavily obscure an area using your Marine Layer Channel Divinity option, all creatures within the area have their vision completely blocked, and creatures outside the area can't see in. Creatures that can't see automatically fail [[ability check]]s that require sight. Also, attack rolls against creatures that can't see have [[advantage]], and their own attack rolls have [[disadvantage]].
+Creatures in a lightly obscured area have [[disadvantage]] only on Wisdom (Perception) checks that rely on sight. The rules for when your vision is obscured are described completely in the fifth edition core rules.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
@@ -126,6 +134,9 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 ## Level 7: Subclass Feature
 You gain a feature from your Paladin Subclass.
 
+### Aura of Liberation
+Starting at 7th level, you fill nearby creatures with the energy of movement. While you're not [[incapacitated]], you and creatures of your choice within 10 feet of you cannot be [[grappled]] or [[restrained]], and ignore penalties on movement and attacks while underwater. Creatures that are already [[grappled]] or [[restrained]] when they enter the aura can spend 5 feet of movement to automatically escape unless they are bound by magic restraints.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -147,6 +158,9 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 ## Level 15: Subclass Feature
 You gain a feature from your Paladin Subclass.
 
+### Stormy Waters
+At 15th level, you can call on the force of crashing waters as a reaction whenever a creature moves into or out of your reach. The creature takes 1d12 bludgeoning damage and must succeed on a Strength [[saving throw]] against your spell save DC or be knocked [[prone]].
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -156,8 +170,19 @@ Your Aura of Protection is now a 30-foot [[Emanation]].
 ## Level 18: Subclass Feature
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.
 
+### Aura of Liberation (18th Level)
+When you reach 18th level in this class, the aura affects creatures within 30 feet of you.
+
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Truesight]] is recommended.
 
 ## Level 20: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Mythic Swashbuckler
+At 20th level, you learn to channel the spirits of historic sea captains to briefly become a paragon of heroic adventure. As an action, you embrace these spirits of the sea to gain the following benefits for 1 minute:
+- You have [[advantage]] on Strength ([[Athletics]]) checks and you gain a climbing speed equal to your walking speed. If you already have a climbing speed, it is doubled.
+- If you are within 5 feet of a creature and no other creatures are within 5 feet of you, you have [[advantage]] on attack rolls against that creature.
+- You can take the [[Dash Action]] or [[Disengage action]] as a bonus action.
+- You have [[advantage]] on Dexterity checks and Dexterity [[saving throw]]s against effects you can see.
+Once you use this feature, you can't use it again until you finish a [[long rest]].

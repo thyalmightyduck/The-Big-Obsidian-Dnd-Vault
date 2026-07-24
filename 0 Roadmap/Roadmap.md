@@ -268,11 +268,11 @@ Finished Cantrip Links
 	- [x] Hexes
 	- [x] Noble Genies
 	- [ ] Oath Breaker
-	- [ ] Open Sea
+	- [x] Open Sea
 	- [x] Pestilence
 	- [x] Redemption
 	- [x] Revelry
-	- [ ] River
+	- [ ] River (Temp Taken Down)
 	- [x] Slaughter
 	- [ ] Spelldrinker
 	- [ ] Veneration
