@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-23-2026 T 1736 · [[Oskana]]
+- 07-23-2026 T 1747 · [[Oskana]]
 - 07-23-2026 T 1733 · [[Roadmap]]
 - 07-23-2026 T 1733 · [[Oath of Redemption Paladin]]
 - 07-23-2026 T 1731 · [[Peace Domain Cleric]]

@@ -2,8 +2,52 @@
 mapCalc1: NaN
 ---
 
+# Settlements:
+## Cities
+- [[Aldercrest]]
+- [[Ariorith]]
+- [[Cleport]]
+- [[Drerora]]
+- [[Fin]]
+- [[Illebridge]]
+- [[Kluimta]]
+- [[Ofleaphia]]
+- [[Qowell]]
+## Towns
+- [[Anegate]]
+- [[Arktol]]
+- [[Athemond]]
+- [[Klont]]
+- [[Oreding]]
+- [[Paka]]
+- [[Sleley]]
+- [[Strares]]
+- [[Trocstead]]
+- [[Yugow]]
+## Villages
+- [[Arkdon]]
+- [[Dairmont]]
+- [[Drixgas]]
+- [[Fleypolis]]
+- [[Klolk]]
+- [[Nico]]
+- [[Olismond]]
+- [[Onata]]
+- [[Pario]]
+- [[Pery]]
+- [[Pluford]]
+- [[Puport]]
+- [[Sanbu]]
+- [[Strolburg]]
+- [[Urgron]]
+- [[Yatron]]
+- [[Yhirie]]
+# Factions/Guilds
+- [[The Silversmiths Union of Oskana]]
+# Dungeons
 
-
+# Points of Interest
+- [[Verdant Mountains]]
 
 ```leaflet  
 id: This Is A New ID ### Must be unique with no spaces  
