@@ -110,4 +110,4 @@ stats: [12, 18, 14, 12, 14, 12]
 | Yes    | Traveler’s Clothes                     |        | 1   |      |         |
 | Yes    | Palacial Pacilion                      |        | 1   |      | Yes     |
 |        | Chest (Gift from [[Boyan Connasmith]]) |        | 1   |      |         |
-|        |                                        |        |     |      |         |
+|        | Test                                   |        |     |      |         |

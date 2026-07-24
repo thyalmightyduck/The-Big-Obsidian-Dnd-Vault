@@ -251,21 +251,6 @@
             }
           },
           {
-            "id": "e5ac256845b551ec",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "9b034b91f9ee4629",
             "type": "leaf",
             "state": {
@@ -299,8 +284,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -309,8 +294,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -338,8 +323,8 @@
                 },
                 "id": "ID_bba908a829eb"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -348,8 +333,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -358,8 +343,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -371,13 +356,58 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dbbe854425e86d3f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "5f962b986ab7b8e0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "abadf9e900c1e896",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "7f595a877809403e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 578.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,11 +427,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8c4d03cb05372d45",
+  "active": "83a3b3f37a74c981",
   "lastOpenFiles": [
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Slaughter Paladin.md",
     "Rules/Spells/Level 5/Incite Riot.md",
+    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
+    "5 Monster Stat Blocks/Beast/Blooderfly.md",
+    "3 The Kingdom Of Oskana/Oskana.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Slaughter Paladin.md",
     "Rules/Spells/Level 4/Supernal Smite.md",
     "Rules/Spells/Level 4/Consume Mind.md",
     "Rules/Spells/Level 3/Suffocate.md",
@@ -419,7 +453,6 @@
     "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
     "Rules/Spells/Level 5/Rarys Telepathic Bond.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of Redemption Paladin.md",
-    "5 Monster Stat Blocks/Beast/Blooderfly.md",
     "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
     "5 Monster Stat Blocks/Aberration/Githzerai Uniter.md",
     "5 Monster Stat Blocks/Aberration/Gibbering Mouther.md",
@@ -428,9 +461,6 @@
     "5 Monster Stat Blocks/Beast/Vampster Swarm.md",
     "Pictures/Monsters/Blooderfly.png",
     "Pictures/Monsters/Blooderfly.png.opdownload",
-    "5 Monster Stat Blocks/Beast/Warhorse.md",
-    "5 Monster Stat Blocks/Beast/Swarm of Ravens.md",
-    "5 Monster Stat Blocks/Beast/Riding Horse.md",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Rules/Classes/Paladin/Paladin Features",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
