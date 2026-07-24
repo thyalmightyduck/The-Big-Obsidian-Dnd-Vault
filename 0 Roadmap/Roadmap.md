@@ -256,7 +256,7 @@ Finished Cantrip Links
 	- [x] Order of the Wu JEn
 	- [ ] 
 - [ ] Paladin
-	- [ ] Ancients
+	- [x] Ancients
 	- [x] Castigation
 	- [x] Conquest
 	- [ ] Crown

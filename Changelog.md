@@ -1,7 +1,7 @@
 # Changelog
 
-- 07-23-2026 T 2230 · [[Oath of the Ancients Paladin]]
-- 07-23-2026 T 2228 · [[Roadmap]]
+- 07-23-2026 T 2245 · [[Roadmap]]
+- 07-23-2026 T 2245 · [[Oath of the Ancients Paladin]]
 - 07-23-2026 T 2227 · [[Oath of Slaughter Paladin]]
 - 07-23-2026 T 2225 · [[Incite Riot]]
 - 07-23-2026 T 2223 · [[Supernal Smite]]
