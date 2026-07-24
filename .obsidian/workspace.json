@@ -107,24 +107,14 @@
             "id": "8c4d03cb05372d45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Changelog.md",
+                "bFile": "Changelog.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Morwunax Kromphujarod"
+              "icon": "diff",
+              "title": "Diff: Changelog  (Working Tree)"
             }
           },
           {
@@ -427,10 +417,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "83a3b3f37a74c981",
+  "active": "8c4d03cb05372d45",
   "lastOpenFiles": [
-    "Rules/Spells/Level 5/Incite Riot.md",
     "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+    "Rules/Spells/Level 5/Incite Riot.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
     "5 Monster Stat Blocks/Beast/Blooderfly.md",
     "3 The Kingdom Of Oskana/Oskana.md",
