@@ -107,7 +107,7 @@ Your connection to this domain ensures you always have certain spells ready. Whe
 | 3rd          | [[Augury]], [[Charm Person]], [[Comprehend Languages]], [[Locate Object]] |
 | 5th          | [[Glyph of Warding]], [[Tongues]]                                         |
 | 7th          | [[Divination]], [[Leomund's Secret Chest]]                                |
-| 9th          | [[Legend Lore]], [[Rary's Telepathic Bond]]                               |
+| 9th          | [[Legend Lore]], [[Rarys Telepathic Bond]]                               |
 
 ### Level 3: Divine Wealth
 Your spiritual savvy manifests as material wealth. When you finish a [[Long Rest]], you conjure two divine coins and lose any previously unspent divine coins. Whenever you make a saving throw against a magical effect caused by a hostile creature, you can choose to spend a divine coin or gain a divine coin. You must choose whether or not to spend a coin before you roll your save.

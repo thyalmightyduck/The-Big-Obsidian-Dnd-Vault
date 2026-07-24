@@ -103,7 +103,7 @@ The Keeper domain focuses on social bonds and well-regulated communities. These 
 | 3rd          | [[calm emotions]], [[warding bond]]      |
 | 5th          | [[beacon of hope]], [[spirit guardians]] |
 | 7th          | [[death ward]], [[guardian of faith]]    |
-| 9th          | [[hallow]], [[Rary's Telepathic Bond]]   |
+| 9th          | [[hallow]], [[Rarys Telepathic Bond]]   |
 ### Level 1: Blessed Chosen
 Starting at 1st level, you can assert your divine will to protect your allies. When an enemy within 30 feet of you that you can see attacks one of your allies, you can use your reaction to impose disadvantage on the attack roll before it hits or misses.
 

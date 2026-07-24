@@ -1,4 +1,4 @@
-# WOP Oath of the Ancients Paladin
+# Oath of the Ancients Paladin
 ## Player’s Handbook (2024)
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -79,6 +79,17 @@ A Paladin tries to hold to the highest standards of conduct, but even the most d
 A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
+
+### Oath of the Ancients
+_Preserve Life and Light in the World_
+The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They often adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light.
+These paladins share the following tenets:
+- Kindle the light of hope.
+- Shelter life.
+- Delight in art and laughter.
+
+### Level 3: Oath of the Ancients Spells
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Ancients Spells table, you thereafter always have the listed spells prepared.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.

@@ -271,9 +271,9 @@ Finished Cantrip Links
 	- [ ] Open Sea
 	- [x] Pestilence
 	- [x] Redemption
-	- [ ] Revelry
+	- [x] Revelry
 	- [ ] River
-	- [ ] Slaughter
+	- [x] Slaughter
 	- [ ] Spelldrinker
 	- [ ] Veneration
 	- [ ] Vengeance

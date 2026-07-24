@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of Redemption Paladin.md",
+                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oath of Redemption Paladin"
+              "title": "Oath of the Ancients Paladin"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
+                "file": "Rules/Spells/Level 5/Incite Riot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,16 +119,16 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Otilukes Resilient Sphere"
+              "title": "Incite Riot"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -353,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,10 +373,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7532d1f1dffc268a",
+  "active": "e97c6413d7cb39b7",
   "lastOpenFiles": [
-    "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Slaughter Paladin.md",
+    "Rules/Spells/Level 5/Incite Riot.md",
+    "Rules/Spells/Level 4/Supernal Smite.md",
+    "Rules/Spells/Level 4/Consume Mind.md",
+    "Rules/Spells/Level 3/Suffocate.md",
+    "Rules/Spells/Level 2/Bloodletter.md",
+    "Rules/Core Rules/Mounted Combat.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Revelry Paladin.md",
+    "Pictures/Mounted Combat.png",
+    "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
+    "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
+    "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
+    "Rules/Spells/Level 2/Find Steed.md",
+    "5 Monster Stat Blocks/Multiple Type",
+    "Rules/Spells/Level 5/Geas.md",
+    "Rules/Spells/Level 2/Hangover.md",
+    "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
+    "Rules/Spells/Level 5/Rarys Telepathic Bond.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Redemption Paladin.md",
     "5 Monster Stat Blocks/Beast/Blooderfly.md",
+    "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
     "5 Monster Stat Blocks/Aberration/Githzerai Uniter.md",
     "5 Monster Stat Blocks/Aberration/Gibbering Mouther.md",
     "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
@@ -389,21 +407,6 @@
     "5 Monster Stat Blocks/Beast/Swarm of Ravens.md",
     "5 Monster Stat Blocks/Beast/Riding Horse.md",
     "5 Monster Stat Blocks/Beast/Rat.md",
-    "5 Monster Stat Blocks/Beast/Giant Rat.md",
-    "5 Monster Stat Blocks/Beast/Giant Insect Monster.md",
-    "5 Monster Stat Blocks/Monstrosity/Doppelganger.md",
-    "5 Monster Stat Blocks/Monstrosity/Displacer Beast.md",
-    "3 The Kingdom Of Oskana/Oskana.md",
-    "3 The Kingdom Of Nesafia/About Nesafia.md",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pario Village/NPC of Pario/Joney Lamabrough.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Socubba The City Of Justice/Soccuba.md",
-    "Rules/Core Rules/Long Jump.md",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pario Village/Pario.md",
-    "Rules/Weapons/Trident.md",
-    "Rules/Spells/Level 1/Alarm.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Redemption Paladin.md",
-    "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Pestilence Paladin.md",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Rules/Classes/Paladin/Paladin Features",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
@@ -412,15 +415,11 @@
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
     "Rules/Classes/Mystic/Psionic Disciplines/Awakened",
     "Rules/Classes/Mystic/Psionic Disciplines/Avatar",
-    "Rules/Classes/Mystic/Psionic Disciplines",
-    "Rules/Skills/Lord of the Rings",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Devil Jurist BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png",
     "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
     "Pictures/Monsters/Giaint Insect Monster BGR PNG.png",
-    "Pictures/Monsters/Zombie BGR PNG.png",
-    "Pictures/Monsters/Delerium Elemental BGR PNG.png",
-    "Pictures/Monsters/image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png"
+    "Pictures/Monsters/Zombie BGR PNG.png"
   ]
 }

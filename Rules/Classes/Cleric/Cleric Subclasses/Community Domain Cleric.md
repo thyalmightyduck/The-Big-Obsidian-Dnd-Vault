@@ -107,7 +107,7 @@ Clerics of such gods value unity, and praise the strength that can be gained whe
 | 3rd          | [[Aid]], [[Heroism]]                                                                                                                                             |
 | 5th          | [[Beacon of Hope]], [[Spirit Guardians]]                                                                                                                         |
 | 7th          | [[Banishment]], [[Mordenkainen's Faithful Hound]]                                                                                                                |
-| 9th          | [[Mass Cure Wounds]], [[Rary's Telepathic Bond]] |
+| 9th          | [[Mass Cure Wounds]], [[Rarys Telepathic Bond]] |
 
 ### Blessing of the Hearth
 From 1st level, you gain the ability to conjure a small flagstone hearth with a simple iron cooking pot whenever you rest. This hearth helps warm you and your companions, and can be used to prepare hearty and nutritious meals on the road. If you or any friendly creatures you make camp with would regain hit points at the end of a short rest by spending one or more hit dice, each of those creatures may choose to re-roll one of their resting dice, taking the higher roll between the two.
