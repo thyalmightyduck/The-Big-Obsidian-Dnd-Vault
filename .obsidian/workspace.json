@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Core Rules/Long Jump.md",
+                "file": "3 The Kingdom Of Nesafia/About Nesafia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Long Jump"
+              "title": "About Nesafia"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e10656430e90728a",
@@ -157,8 +157,33 @@
               "icon": "lucide-file",
               "title": "Joney Lamabrough"
             }
+          },
+          {
+            "id": "9d354b1cf4a765b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 The Kingdom Of Oskana/Oskana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Oskana"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -404,11 +429,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8dacc8716d1a2f43",
+  "active": "9d354b1cf4a765b8",
   "lastOpenFiles": [
+    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pario Village/NPC of Pario/Joney Lamabrough.md",
+    "3 The Kingdom Of Nesafia/About Nesafia.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Socubba The City Of Justice/Soccuba.md",
+    "Rules/Core Rules/Long Jump.md",
+    "3 The Kingdom Of Oskana/Oskana.md",
     "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pario Village/Pario.md",
     "Rules/Weapons/Trident.md",
-    "3 The Kingdom Of Oskana/Oskana.md",
     "Rules/Spells/Level 1/Alarm.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of Redemption Paladin.md",
     "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
@@ -430,10 +459,6 @@
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Soul Knife Mystic.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Nomad Mystic.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Immortal Mystic.md",
-    "Rules/Classes/Mystic/Mystic Subclasses/Order of the Awakened Mystic.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Wood and Earth.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Weather.md",
-    "Rules/Classes/Mystic/Mystic Subclasses/Order of the Avatar Mystic.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
     "Rules/Classes/Mystic/Psionic Disciplines/Nomad",

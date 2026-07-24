@@ -11,5 +11,6 @@
   "newFileLocation": "root",
   "readableLineLength": false,
   "showLineNumber": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "propertiesInDocument": "hidden"
 }
