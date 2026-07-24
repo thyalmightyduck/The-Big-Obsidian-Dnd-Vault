@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "8c4d03cb05372d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Morwunax Kromphujarod"
+            }
+          },
+          {
             "id": "8e23455026ff737c",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -373,8 +397,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e97c6413d7cb39b7",
+  "active": "8c4d03cb05372d45",
   "lastOpenFiles": [
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of Slaughter Paladin.md",
     "Rules/Spells/Level 5/Incite Riot.md",
     "Rules/Spells/Level 4/Supernal Smite.md",
@@ -406,7 +431,6 @@
     "5 Monster Stat Blocks/Beast/Warhorse.md",
     "5 Monster Stat Blocks/Beast/Swarm of Ravens.md",
     "5 Monster Stat Blocks/Beast/Riding Horse.md",
-    "5 Monster Stat Blocks/Beast/Rat.md",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Rules/Classes/Paladin/Paladin Features",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
