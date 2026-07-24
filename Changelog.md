@@ -1,7 +1,10 @@
 # Changelog
 
-- 07-24-2026 T 1101 · [[Morwunax Kromphujarod]]
-- 07-23-2026 T 2245 · [[Roadmap]]
+- 07-24-2026 T 1118 · [[Roadmap]]
+- 07-24-2026 T 1118 · [[Oath of the Guardian Paladin]]
+- 07-24-2026 T 1110 · [[Oath of the Crown Paladin]]
+- 07-24-2026 T 1109 · [[Compelled Duel]]
+- 07-24-2026 T 1104 · [[Morwunax Kromphujarod]]
 - 07-23-2026 T 2245 · [[Oath of the Ancients Paladin]]
 - 07-23-2026 T 2227 · [[Oath of Slaughter Paladin]]
 - 07-23-2026 T 2225 · [[Incite Riot]]
@@ -97,6 +100,3 @@
 - 07-09-2026 T 1507 · [[Fresh Growth General Goods]]
 - 07-09-2026 T 1507 · [[Greensward Creations Apothecary]]
 - 07-09-2026 T 1507 · [[Little Flower Elixir Apothecary]]
-- 07-09-2026 T 1504 · [[Carver Guild Monster Hunter]]
-- 07-09-2026 T 1456 · [[Way of the Sun Soul Monk]]
-- 07-09-2026 T 1452 · [[Trident]]

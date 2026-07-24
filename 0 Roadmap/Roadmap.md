@@ -259,10 +259,10 @@ Finished Cantrip Links
 	- [x] Ancients
 	- [x] Castigation
 	- [x] Conquest
-	- [ ] Crown
+	- [x] Crown
 	- [x] Devotion
 	- [x] Glory
-	- [ ] Guardian
+	- [x] Guardian
 	- [ ] Harvest
 	- [ ] Hearth
 	- [x] Hexes
