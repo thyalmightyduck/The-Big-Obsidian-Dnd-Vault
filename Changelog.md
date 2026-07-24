@@ -1,5 +1,6 @@
 # Changelog
 
+- 07-23-2026 T 1808 · [[Blooderfly]]
 - 07-23-2026 T 1747 · [[Oskana]]
 - 07-23-2026 T 1733 · [[Roadmap]]
 - 07-23-2026 T 1733 · [[Oath of Redemption Paladin]]
@@ -99,4 +100,3 @@
 - 07-09-2026 T 1408 · [[Dwarf (Mountain)]]
 - 07-09-2026 T 1408 · [[Dwarf (Mark Of Warding)]]
 - 07-09-2026 T 1408 · [[Dwarf (Hill)]]
-- 07-09-2026 T 1408 · [[Dwarf (Duergar)]]
