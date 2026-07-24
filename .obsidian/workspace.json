@@ -184,7 +184,8 @@
               "title": "Inconspicuous Hamster (Hammy)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -430,14 +431,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "40c279e62fb29d2d",
+  "active": "043d95d5362d52a4",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Beast/Blooderfly.md",
     "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
     "5 Monster Stat Blocks/Aberration/Githzerai Uniter.md",
     "5 Monster Stat Blocks/Aberration/Gibbering Mouther.md",
     "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
     "5 Monster Stat Blocks/Aberration/Delerium Dreg.md",
-    "5 Monster Stat Blocks/Beast/Blooderfly.md",
     "5 Monster Stat Blocks/Beast/Vampster Swarm.md",
     "Pictures/Monsters/Blooderfly.png",
     "Pictures/Monsters/Blooderfly.png.opdownload",
