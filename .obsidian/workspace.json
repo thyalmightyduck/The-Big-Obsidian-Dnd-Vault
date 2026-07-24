@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Alarm.md",
+                "file": "3 The Kingdom Of Oskana/Oskana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alarm"
-            }
-          },
-          {
-            "id": "8dacc8716d1a2f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Weapons/Trident.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trident"
+              "title": "Oskana"
             }
           },
           {
@@ -109,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of Devotion Paladin.md",
+                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of Redemption Paladin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oath of Devotion Paladin"
+              "title": "Oath of Redemption Paladin"
             }
           },
           {
-            "id": "77f803d1caeb78e0",
+            "id": "8e23455026ff737c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Feats/Boon of Truesight.md",
+                "file": "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -143,16 +119,46 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Boon of Truesight"
+              "title": "Otilukes Resilient Sphere"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "e10656430e90728a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dacc8716d1a2f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pario Village/NPC of Pario/Joney Lamabrough.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Joney Lamabrough"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,7 +383,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,10 +404,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e97c6413d7cb39b7",
+  "active": "8dacc8716d1a2f43",
   "lastOpenFiles": [
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Conquest Paladin.md",
+    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pario Village/Pario.md",
+    "Rules/Weapons/Trident.md",
+    "3 The Kingdom Of Oskana/Oskana.md",
+    "Rules/Spells/Level 1/Alarm.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Redemption Paladin.md",
+    "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Pestilence Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Hexes Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Glory Paladin.md",
+    "Rules/Spells/Level 5/Yolandes Regal Presence.md",
+    "Pictures/Spells/Yolandes Regal Presence.png",
     "Rules/Feats/Boon of Truesight.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Devotion Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Conquest Paladin.md",
     "Rules/Classes/Paladin/Paladin Features/Aura of Protection.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of Castigation Paladin.md",
     "Rules/Spells/Level 2/Chain of Conviction.md",
@@ -415,18 +434,7 @@
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Wood and Earth.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Weather.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Avatar Mystic.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Avatar Disciplines.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen Disciplines.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad Disciplines.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
-    "Rules/Classes/Mystic/Psionic Disciplines/Immortal Disciplines.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Awakened Disciplines.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Water.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Light and Darkness.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Ice.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Force.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Fire.md",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen/Mastery of Air.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
     "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
@@ -443,7 +451,6 @@
     "Pictures/Monsters/Zombie BGR PNG.png",
     "Pictures/Monsters/Delerium Elemental BGR PNG.png",
     "Pictures/Monsters/image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png",
-    "Pictures/Gods/The Moonweaver BGR PNG.png",
-    "Pictures/Gods/The Knowing Mentor BGR PNG.png"
+    "Pictures/Gods/The Moonweaver BGR PNG.png"
   ]
 }

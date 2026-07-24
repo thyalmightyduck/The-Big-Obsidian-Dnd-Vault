@@ -261,16 +261,16 @@ Finished Cantrip Links
 	- [x] Conquest
 	- [ ] Crown
 	- [x] Devotion
-	- [ ] Glory
+	- [x] Glory
 	- [ ] Guardian
 	- [ ] Harvest
 	- [ ] Hearth
-	- [ ] Hexes
+	- [x] Hexes
 	- [ ] Noble Genies
 	- [ ] Oath Breaker
 	- [ ] Open Sea
-	- [ ] Pestilence
-	- [ ] Redemption
+	- [x] Pestilence
+	- [x] Redemption
 	- [ ] Revelry
 	- [ ] River
 	- [ ] Slaughter

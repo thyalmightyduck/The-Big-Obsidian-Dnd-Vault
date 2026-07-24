@@ -1,4 +1,4 @@
-# WOP Oath of Hexes Paladin
+# Oath of Hexes Paladin
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -80,6 +80,32 @@ A Paladin who has broken a vow typically seeks absolution, spending an all-night
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
+### Oath of Hexes
+Those who swear an oath of hexes are sworn to witch covens, fey creatures, and occult deities of magic, fate, and death. In exchange, this sacred oath empowers paladins with fickle magic to curse those who would try to tempt fate or escape the ire of the Old Gods.
+
+### Tenets of Hexes
+**Serve the Occult.** Deities with power over the future have infused you with occult magic. Through your oath, you are made a mortal vessel for their inscrutable will.
+**Keeper of Secrets.** This world harbors dark secrets which are best kept long forgotten. You stand as the protectors of those secrets, preventing them from falling into the hands of weak-willed mortals who would misuse them to evil ends.
+**Arbiter of Fate.** The strands of fate were woven long ago, and it is folly to fight them. Misfortune befalls all.
+**Show No Mercy.** Though some think your strange powers are dark or corrupted, you vanquish evil with the very curses and magics that they would use against you. Show no mercy to those who resist their fate.
+
+### Level 3: Oath Spells
+You gain oath spells at the paladin levels listed in the Oath of Hexes Spells table. See the Sacred Oath class feature for how oath spells work.
+
+**Oath of Hexes Spells:**
+
+| Paladin Level | Spells                                                              |
+| ------------- | ------------------------------------------------------------------- |
+| 3rd           | [[hellish rebuke]], [[Tashas Hideous Laughter]], [[eldritch blast]] |
+| 5th           | [[invisibility]], [[suggestion]]                                    |
+| 9th           | [[bestow curse]], [[fear]]                                          |
+| 13th          | [[dimension door]], [[polymorph]]                                   |
+| 17th          | [[dominate person]], [[mislead]]                                    |
+### Level 3: Channel Divinity
+You gain the following Channel Divinity options:
+- **Curse of Hexes** As an action, you curse one creature you can see within 30 feet of you. When you curse a target, choose an ability score. The chosen creature has disadvantage on attack rolls, saving throws, and ability checks using that ability score for one minute or until it drops to 0 hit points or falls unconscious. At the end of each of the cursed creature's turns, it can make a Charisma saving throw against your spell save DC. On a successful save, the curse ends.
+- **Curse of Torment** As a bonus action, you curse one creature you can see within 30 feet of you. Searing pain wracks the target for one minute. While suffering this pain, it takes necrotic damage equal to your paladin level at the start of each of its turns. Each time it takes this damage, it can make a Wisdom saving throw against your spell save DC. On a successful save, the pain ends.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
@@ -100,6 +126,10 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 
 ## Level 7: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Level 7: Bewitching Aura
+You emit an eldritch aura out to a range of 10 feet. When an enemy hits you or a creature within 10 feet of you with an attack, you can use your reaction to force that enemy to make a Charisma saving throw against your spell save DC. On a failed save, you can magically redirect the attack to another creature of your choice within 10 feet of you and within range of the attack. The new target is hit by the attack and suffers all damage and effects.
+At 18th level, the range of this aura increases to 30 feet.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -122,6 +152,9 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 ## Level 15: Subclass Feature
 You gain a feature from your Paladin Subclass.
 
+### Level 15: Reversal of Fortune
+Whenever a creature scores a critical hit against you, the next time you hit that creature with an attack, that attack automatically becomes a critical hit.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -136,3 +169,6 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which 
 
 ## Level 20: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Level 20: Death Hex
+A creature afflicted by your Curse of Hexes or Curse of Torment becomes vulnerable to all damage.

@@ -1,6 +1,12 @@
 # Changelog
 
-- 07-23-2026 T 1644 · [[Roadmap]]
+- 07-23-2026 T 1733 · [[Roadmap]]
+- 07-23-2026 T 1733 · [[Oath of Redemption Paladin]]
+- 07-23-2026 T 1731 · [[Peace Domain Cleric]]
+- 07-23-2026 T 1729 · [[Oath of Pestilence Paladin]]
+- 07-23-2026 T 1725 · [[Oath of Hexes Paladin]]
+- 07-23-2026 T 1722 · [[Oath of Glory Paladin]]
+- 07-23-2026 T 1720 · [[Yolandes Regal Presence]]
 - 07-23-2026 T 1644 · [[Oath of Devotion Paladin]]
 - 07-23-2026 T 1640 · [[Boon of Truesight]]
 - 07-23-2026 T 1639 · [[Oath of Conquest Paladin]]
@@ -94,9 +100,3 @@
 - 07-09-2026 T 1408 · [[Dwarf (Hill)]]
 - 07-09-2026 T 1408 · [[Dwarf (Duergar)]]
 - 07-09-2026 T 1408 · [[On Patrol]]
-- 07-09-2026 T 1408 · [[Garak]]
-- 07-09-2026 T 1405 · [[Way of the Cobalt Soul Monk]]
-- 07-09-2026 T 1358 · [[Way of the Astral Self Monk]]
-- 07-09-2026 T 1352 · [[Way of the Ascendant Dragon Monk]]
-- 07-09-2026 T 1346 · [[Way of the Arcane Hand Monk]]
-- 07-09-2026 T 1339 · [[Etherealness]]
