@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
+                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oathbreaker Paladin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oath of the Ancients Paladin"
+              "title": "Oathbreaker Paladin"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 5/Incite Riot.md",
+                "file": "Rules/Spells/Level 4/Find Greater Steed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incite Riot"
+              "title": "Find Greater Steed"
             }
           }
         ],
@@ -227,6 +227,21 @@
             }
           },
           {
+            "id": "e5ac256845b551ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "9b034b91f9ee4629",
             "type": "leaf",
             "state": {
@@ -260,8 +275,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -270,8 +285,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -299,8 +314,8 @@
                 },
                 "id": "ID_bba908a829eb"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -309,8 +324,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -319,8 +334,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -332,58 +347,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "dbbe854425e86d3f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "5f962b986ab7b8e0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "abadf9e900c1e896",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "7f595a877809403e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 578.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -403,39 +373,40 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9a800d7e2cdfb01b",
+  "active": "8e23455026ff737c",
   "lastOpenFiles": [
+    "Rules/Classes/Paladin/Paladin Subclasses/Oathbreaker Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Zeal Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Vengeance Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Veneration Paladin.md",
+    "Rules/Spells/Level 4/Find Greater Steed.md",
     "Rules/Spells/Level 5/Freedom of the Winds.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Watchers Paladin.md",
+    "Changelog.md",
+    "conflict-files-obsidian-git.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Spelldrinker Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the River Paladin.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Open Sea Paladin.md",
     "Rules/Spells/Level 3/Freedom of the Waves.md",
     "Rules/Spells/Level 1/Expeditious Retreat.md",
+    "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Noble Genies Paladin.md",
+    "Pictures/Monsters/Elemental Spirit BGR PNG.png",
+    "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
     "Rules/Spells/Level 4/Summon Elemental.md",
     "Rules/Spells/Level 4/Conjure Minor Elementals.md",
     "Rules/Spells/Level 2/Continual Flame.md",
-    "Pictures/Monsters/Elemental Spirit BGR PNG.png",
-    "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Hearth Paladin.md",
     "Rules/Spells/Level 2/Prayer of Healing.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Harvest Paladin.md",
     "Rules/Spells/Level 1/Compelled Duel.md",
-    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
-    "Rules/Spells/Level 5/Incite Riot.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
-    "5 Monster Stat Blocks/Beast/Blooderfly.md",
-    "3 The Kingdom Of Oskana/Oskana.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Slaughter Paladin.md",
-    "Rules/Spells/Level 4/Supernal Smite.md",
-    "Rules/Spells/Level 4/Consume Mind.md",
-    "Rules/Spells/Level 3/Suffocate.md",
-    "Rules/Spells/Level 2/Bloodletter.md",
-    "Rules/Core Rules/Mounted Combat.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of Revelry Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Guardian Paladin.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Crown Paladin.md",
     "Pictures/Mounted Combat.png",
-    "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
-    "Rules/Spells/Level 2/Find Steed.md",
     "5 Monster Stat Blocks/Multiple Type",
-    "Rules/Spells/Level 5/Geas.md",
-    "Rules/Spells/Level 2/Hangover.md",
     "Pictures/Monsters/Blooderfly.png",
     "Pictures/Monsters/Blooderfly.png.opdownload",
     "Pictures/Spells/Yolandes Regal Presence.png",
@@ -445,7 +416,6 @@
     "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
     "Rules/Classes/Mystic/Psionic Disciplines/Awakened",
-    "Rules/Classes/Mystic/Psionic Disciplines/Avatar",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "Pictures/Monsters/Devil Jurist BGR PNG.png",
     "Pictures/Monsters/Warhorse BGR PNG.png",

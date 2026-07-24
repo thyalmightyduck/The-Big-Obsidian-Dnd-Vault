@@ -267,18 +267,18 @@ Finished Cantrip Links
 	- [x] Hearth
 	- [x] Hexes
 	- [x] Noble Genies
-	- [ ] Oath Breaker
+	- [x] Oath Breaker
 	- [x] Open Sea
 	- [x] Pestilence
 	- [x] Redemption
 	- [x] Revelry
 	- [ ] River (Temp Taken Down)
 	- [x] Slaughter
-	- [ ] Spelldrinker
-	- [ ] Veneration
-	- [ ] Vengeance
-	- [ ] Watchers
-	- [ ] Zeal
+	- [x] Spelldrinker
+	- [x] Veneration
+	- [x] Vengeance
+	- [x] Watchers
+	- [x] Zeal
 - [ ] Ranger
 	- [ ] Beast Master
 	- [ ] Big Game Hunter

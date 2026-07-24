@@ -1,4 +1,4 @@
-# WOP Oath of Veneration Paladin
+# Oath of Veneration Paladin
 ## Chronicles Of Eberron
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -80,6 +80,25 @@ A Paladin who has broken a vow typically seeks absolution, spending an all-night
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
+### Oath of Veneration
+At 3rd level, a paladin gains the Sacred Oath feature, which offers the choice of a subclass. This section presents a new oath option, which can be played by a Tairnadal character or by anyone who channels a revered ancestor.
+Paladins who are called to follow in the footsteps of a great hero take the Oath of Veneration. The Tairnadal are the most common culture in Eberron to keep these ideals, taking up arms in hopes of emulating the patron ancestor assigned to them by the Keepers of the Past. However, this path isn't limited to the elves. A goblinoid warrior might choose to emulate ancient Dhakaani heroes, or a human of the Five Nations might consider themself the inheritor of Karrn the Conqueror's will.
+
+### Level 3: Tenets of Veneration
+The tenets of the Oath of Veneration challenge a paladin to uphold the legend of a treasured ancestor.
+**Respect the Past:** The deeds and legends of our ancient ancestors are our greatest treasure.
+**Emulate Your Patron:** Keep your patron ancestor's stories alive by reliving their victories.
+**Fight for Your Future:** Resist the tyranny your ancestors devoted their lives to defeating.
+
+### Level 3: Oath Spells
+When you take this oath, choose the following class that best represents your venerated ancestor: artificer, bard, cleric, druid, ranger, sorcerer, warlock, wizard. When you gain this feature, choose one 1st-level spell from your ancestor's class spell list. That spell is an oath spell for you. When you reach certain levels in this class—5th level, 9th level, 13th level, and 17th level—you gain another oath spell of your choice from your ancestor's class spell list. When you gain a paladin level, you can choose one of these spells and replace it with another spell from your ancestor's class spell list. See the Sacred Oath class feature for how oath spells work.
+Additionally, you add the [[enhance ability]], [[find steed]], and [[find greater steed]] spells to your oath spells.
+
+### Level 3: Channel Divinity
+You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.
+**Ancestral Recall:** As a bonus action, you can use your Channel Divinity to call to mind a great deed of your ancestor. Choose one skill and choose one tool or language that your ancestor was skilled in during their life. For the next 10 minutes, you are proficient in any chosen skill or tool, and your proficiency bonus is doubled for each ability check you make using a chosen proficiency. If you choose a language, you can speak, read, and write that language for the duration.
+**Ancestral Companion:** You call on the spirit of one of your ancestor's most treasured allies, manifesting the spirit as a loyal mount or imbuing an ally with its favor. You cast either [[enhance ability]] or [[find steed]] as an action without expending a spell slot. When you reach 15th level in this class, you add [[find greater steed]] to the list of spells you can cast in this manner.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
@@ -100,6 +119,10 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 
 ## Level 7: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Level 7: Aura of the Paragon
+You emanate an aura that evokes the storied history of your patron ancestor, filling you and your companions with hope and drive. When you use your [[Divine Smite]], friendly creatures within 10 feet of you can use their reaction to gain your ancestor's favor until the end of their next turn. Creatures with your ancestor's favor deal an extra 1d4 radiant damage the next time they hit with an attack.
+When you reach 18th level in this class, the range of this aura increases to 30 feet.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -122,6 +145,10 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 ## Level 15: Subclass Feature
 You gain a feature from your Paladin Subclass.
 
+### Level 15: Exemplar Companion
+While a creature is affected by your [[enhance ability]] spell, or while you control a creature that you summoned, animated, or created with magic, that creature becomes an exemplar companion. Your Aura of the Paragon extends to the area around each exemplar companion as if you were in that creature's space.
+Additionally, when an exemplar companion gains your ancestor's favor, the extra damage it deals increases by 1d4 for each spell level higher than 1st that you expended with your [[Divine Smite]].
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -136,3 +163,10 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which 
 
 ## Level 20: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Level 20: Perfect Avatar
+As a bonus action, you reach your spiritual apotheosis and embody your patron ancestor's spirit completely. You and your Exemplar Companion creatures gain the following benefits for 1 minute:
+- You have advantage on all ability checks.
+- When you take the [[Attack action]] on your turn, you can do one of the following as part of that action: take the [[Dash Action]], [[Help Action]], or Use an Object action, or attempt to shove a creature, [[grapple]] a creature, or escape a grapple.
+- When you regain hit points, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
+Once you use this feature, you can't do so again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.
