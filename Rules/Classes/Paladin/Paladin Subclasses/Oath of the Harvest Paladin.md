@@ -1,4 +1,4 @@
-# WOP Oath of the Harvest Paladin
+# Oath of the Harvest Paladin
 ## Heliana’s Guide to Monster Hunting
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -79,6 +79,31 @@ A Paladin tries to hold to the highest standards of conduct, but even the most d
 A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
+
+### Oath of the Harvest
+The Oath of the Harvest attracts paladins who wish to nourish and heal the world. Often found on aid missions to war-torn lands, such paladins resort to harm only as a means of preventing further suffering. Paladins who swear this oath are more likely than not to heal, feed, and nurture a wounded foe, provided the defeated creature gives its word of honor that it will cease its nefarious activities. They are no fools, however. Typically versed in religion and medicine, these paladins are unlikely to believe the word of creatures inherently inclined to lie, or those that have previously broken their word.
+
+### Level 3: Tenets of the Harvest
+The tenets of the Oath of the Harvest inspire their followers to seek out potential harm and quell it before it blossoms.
+**Share Your Meal:** Your powers are a gift to be shared; if someone is in need, you must use your power to meet those needs. To eat your fill while another goes hungry is selfish.
+**Nurture Over Cure:** Act in the greatest interest of the many. Find ways to prevent harm before it must be healed.
+**Permit Prosperity:** Whether in matters of love, politics, or war, always give your antagonist the opportunity to change and redeem themselves before casting a fatal judgment. A good meal can serve as the backdrop to such events.
+
+### Level 3: Oath Tools
+Always keen to fortify others with flavorful food, you've spent hours slicing, dicing, and cooking. You gain proficiency with cook's utensils.
+
+### Level 3: Oath Spells
+You gain the oath spells at the paladin levels listed in the Oath of the Harvest Spells table See the Sacred Oath class feature for how oath spells work.
+
+**Oath of The Harvest Spells:**
+
+| Paladin Level | Spells                                        |
+| ------------- | --------------------------------------------- |
+| 3rd           | [[heroism]], [[purify food and drink]]        |
+| 5th           | [[prayer of healing]], [[warding bond]]       |
+| 9th           | [[beacon of hope]], [[create food and water]] |
+| 13th          | [[death ward]], [[otilukes resilient sphere]] |
+| 17th          | [[greater restoration]], [[mass cure wounds]] |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
