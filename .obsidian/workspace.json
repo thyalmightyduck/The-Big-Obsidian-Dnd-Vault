@@ -6,7 +6,6 @@
       {
         "id": "ea4f6df042d38ae9",
         "type": "tabs",
-        "dimension": 41.904761904761905,
         "children": [
           {
             "id": "144ee6b2f1b77f43",
@@ -64,7 +63,7 @@
               "state": {
                 "file": "5 Monster Stat Blocks/Beast/Blooderfly.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -130,62 +129,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "db4be82c055fbdc6",
-        "type": "tabs",
-        "dimension": 58.0952380952381,
-        "children": [
-          {
-            "id": "40c279e62fb29d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Monster Stat Blocks/Beast/Blooderfly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Blooderfly"
-            }
-          },
-          {
-            "id": "043d95d5362d52a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inconspicuous Hamster (Hammy)"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -431,10 +374,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "043d95d5362d52a4",
+  "active": "7532d1f1dffc268a",
   "lastOpenFiles": [
-    "5 Monster Stat Blocks/Beast/Blooderfly.md",
     "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
+    "5 Monster Stat Blocks/Beast/Blooderfly.md",
     "5 Monster Stat Blocks/Aberration/Githzerai Uniter.md",
     "5 Monster Stat Blocks/Aberration/Gibbering Mouther.md",
     "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",

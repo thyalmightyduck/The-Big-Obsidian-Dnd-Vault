@@ -1,6 +1,6 @@
 # Changelog
 
-- 07-23-2026 T 1811 · [[Blooderfly]]
+- 07-23-2026 T 1821 · [[Blooderfly]]
 - 07-23-2026 T 1747 · [[Oskana]]
 - 07-23-2026 T 1733 · [[Roadmap]]
 - 07-23-2026 T 1733 · [[Oath of Redemption Paladin]]
