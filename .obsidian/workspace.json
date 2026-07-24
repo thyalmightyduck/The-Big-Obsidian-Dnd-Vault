@@ -126,33 +126,9 @@
               "icon": "lucide-file",
               "title": "Freedom of the Winds"
             }
-          },
-          {
-            "id": "29b29a7094bd36c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Changelog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Changelog"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -397,10 +373,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "29b29a7094bd36c3",
+  "active": "8e23455026ff737c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Changelog.md",
+    "conflict-files-obsidian-git.md",
     "Rules/Spells/Level 5/Freedom of the Winds.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Watchers Paladin.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Spelldrinker Paladin.md",
