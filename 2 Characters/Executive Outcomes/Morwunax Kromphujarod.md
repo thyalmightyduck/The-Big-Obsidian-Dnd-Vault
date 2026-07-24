@@ -1,11 +1,11 @@
-### Dragonborn (Brass) [[Ranger]](Fey Wanderer) Lvl 9
+### [[Dragonborn]] (Brass) [[Ranger]]([[Fey Wanderer Ranger|Fey Wanderer]]) Lvl 9
 > [!infobox]
 > # Morwunax Kromphujarod
 > ![[Morwunax BGR PNG.png|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |
-> | AC | 16 |
+> | AC | 19 |
 > | Max HP | 68 |
 > | Speed | 40ft |
 > | [[Initiative]] | +4 |
@@ -68,7 +68,6 @@
 | (P)  | **[[Persuasion]]**      | CHA | +7        |     |
 
 # Spells
-### Cantrips
 ### Level 1: Spell Slots 4/4
 [[Hunters Mark]], [[Charm Person]], [[Cure Wounds]], [[Ensnaring Strike]], [[Hail of Thorns]], [[Speak With Animals]]
 ### Level 2: Spell Slots 3/3
@@ -84,7 +83,7 @@ size: Medium
 type: [[Humanoid]]
 subtype:
 alignment: 
-ac: 14
+ac: 19
 hp: 68
 hit_dice: 68 
 speed: "30ft"
@@ -93,21 +92,36 @@ stats: [12, 18, 14, 12, 14, 12]
 
 # Inventory
 
-| Active | Name                                   | Weight | QTY | Cost | Attuned |
-| ------ | -------------------------------------- | ------ | --- | ---- | ------- |
-| Yes    | [[Studded Leather Armor]]              |        | 1   |      |         |
-| Yes    | [[Longbow]] +1                         |        | 1   |      |         |
-| Yes    | Quiver                                 |        | 1   |      |         |
-|        | [[Druidic Focus]]                      |        | 1   |      |         |
-| Yes    | [[Scimitar]]                           |        | 1   |      |         |
-| Yes    | [[shortsword]]                         |        | 1   |      |         |
-| Yes    | Quarter Staff                          |        | 1   |      |         |
-|        | [[Herbalism kit]]                      |        | 1   |      |         |
-|        | Healers Kit                            |        | 1   |      |         |
-|        | Book Of Philosophy                     |        | 1   |      |         |
-|        | [[Lamp]]                               |        | 1   |      |         |
-|        | [[Oil]] Flask                          |        | 3   |      |         |
-| Yes    | Traveler’s Clothes                     |        | 1   |      |         |
-| Yes    | Palacial Pacilion                      |        | 1   |      | Yes     |
-|        | Chest (Gift from [[Boyan Connasmith]]) |        | 1   |      |         |
-|        | Test                                   |        |     |      |         |
+| Active | Name                                    | Weight | QTY | Cost | Attuned |
+| ------ | --------------------------------------- | ------ | --- | ---- | ------- |
+| Yes    | [[Studded Leather Armor]] +3            |        | 1   |      |         |
+| Yes    | [[Longbow]] +3                          |        | 1   |      |         |
+| Yes    | [[Quiver]]                              |        | 1   |      |         |
+|        | [[Druidic Focus]]                       |        | 1   |      |         |
+| Yes    | [[Scimitar]]                            |        | 1   |      |         |
+| Yes    | [[Shortsword]]                          |        | 1   |      |         |
+| Yes    | [[Quarterstaff]]                        |        | 1   |      |         |
+|        | [[Herbalism kit]]                       |        | 1   |      |         |
+|        | [[Healer's Kit]]                        |        | 1   |      |         |
+|        | Book Of Philosophy                      |        | 1   |      |         |
+|        | [[Lamp]]                                |        | 1   |      |         |
+|        | [[Oil]] Flask                           |        | 3   |      |         |
+| Yes    | Traveler’s Clothes                      |        | 1   |      |         |
+| Yes    | [[Palatial Pacilion]]                   |        | 1   |      | Yes     |
+|        | Chest (Gift from [[Boyan Connasmith]])  |        | 1   |      |         |
+|        | [[Direc-shun Sphere]]                   |        | 1   |      |         |
+|        | [[Ever-Frothing Tankard of Beer]]       |        | 1   |      |         |
+|        | [[Chromatic Quiver]]                    |        | 1   |      |         |
+|        | [[Lapsing Arrow]]                       |        | 3   |      |         |
+|        | [[Bloodwax Candlestick]]                |        | 1   |      |         |
+|        | Snow Goggles                            |        | 1   |      |         |
+|        | Snow Clothes from [[Cloth And Drapery]] |        | 1   |      |         |
+| Yes    | [[Explorer's Pack]]                     |        | 1   |      |         |
+|        | Mystery Syrup (Acidic)                  |        | 1   |      |         |
+|        | [[Thieves Tools]]                       |        | 1   |      |         |
+|        | Diamond (≥300gp)                        |        | 2   |      |         |
+|        | Guilded Flower (≥350gp)                 |        | 1   |      |         |
+|        | Empty Potion Bottles                    |        | 8   |      |         |
+|        | [[Elixir of Health]]                    |        | 1   |      |         |
+|        | [[Potion Of Healing]]                   |        | 1   |      |         |
+|        | Healing Herbs for Potions               |        | 5   |      |         |
