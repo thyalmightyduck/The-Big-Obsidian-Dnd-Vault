@@ -104,6 +104,11 @@ You gain the oath spells at the paladin levels listed in the Oath of the Harvest
 | 9th           | [[beacon of hope]], [[create food and water]] |
 | 13th          | [[death ward]], [[otilukes resilient sphere]] |
 | 17th          | [[greater restoration]], [[mass cure wounds]] |
+### Level 3: Channel Divinity: Vow of Sustenance
+As a bonus action, you can place a ward around one creature you can see within 60 feet of you When you use this bonus action, and at the start of each of its turns for the next minute, the creature gains temporary hit points equal to twice your Charisma modifier (minimum 2).
+
+### Level 3: Channel Divinity: Share Vitality
+As a bonus action, you can take any amount of necrotic damage up to your current number of hit points, which can't be reduced in any way Up to four creatures you can see within 30 feet of you regain hit points equal to half the necrotic damage taken.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
@@ -126,6 +131,14 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 ## Level 7: Subclass Feature
 You gain a feature from your Paladin Subclass.
 
+### Aura of Rejuvenation
+You emanate an aura that increases the potency of magical healing and hearty meals Whenever a creature of your choice within 10 feet of you regains hit points from a spell, potion, magical effect, or food, it regains an additional 1d6 hit points*.
+When a creature rolls one or more Hit Dice to regain hit points during a short rest, it regains 1 additional hit point for each Hit Dice expended in this way, so long as it spends the majority of the short rest within 10 feet of you.
+When you reach 18th level in this class, the range of the aura increases to 30 feet
+
+#### Lay on Hands & Magic
+The paladin's Lay on Hands feature is neither a spell nor a magical effect, thus it does not trigger the bonus healing from the Aura of Rejuvenation.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -147,6 +160,14 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 ## Level 15: Subclass Feature
 You gain a feature from your Paladin Subclass.
 
+### Host of Heroes
+Over the course of an hour (which can be done during a short rest), you can magically create a delicious feast for you and up to nine other creatures, using 25 gp of rare spices and 25 gp of diamond dust Once consumed, a creature that partakes of the feast gains the following benefits for the next 8 hours:
+- The creature has advantage on Constitution saving throws.
+- The creature has resistance to poison damage.
+- The creature is immune to the [[frightened]] condition.
+- The creature gains 2d10 temporary hit points.
+After you use this feature, you can't do so again until you finish a long rest.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -161,3 +182,10 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which 
 
 ## Level 20: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Avatar of Nourishment
+As a bonus action, you become a wellspring of lifeforce, gaining the following benefits for the next minute:
+- At the start of each of your turns, each creature of your choice within 30 feet of you (including you) regains hit points equal to your Charisma modifier (minimum 1) and gains temporary hit points equal to your Charisma modifier (minimum of 1).
+- As bonus action, you can cast the [[revivify]] spell without having it prepared and without expending a spell slot (material components are still required).
+- Whenever a creature within 30 feet of you takes damage, you can use your reaction to grant the creature resistance to that damage.
+After you use this feature, you can't do so again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.

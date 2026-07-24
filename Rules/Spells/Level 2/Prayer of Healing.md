@@ -9,4 +9,6 @@ Up to five creatures of your choice who remain within range for the spell's enti
 **Using a Higher-Level Spell Slot:** The healing increases by 1d8 for each spell slot level above 2.
 
 **Classes:** [[Cleric]], [[Paladin]]
-**Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]]
+**Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Oath of the Harvest Paladin]]
+**Species:** [[Halfling (Mark Of Healing)]]
+**Feats:** [[Adept of the White Robes]], [[Mark of Healing]]

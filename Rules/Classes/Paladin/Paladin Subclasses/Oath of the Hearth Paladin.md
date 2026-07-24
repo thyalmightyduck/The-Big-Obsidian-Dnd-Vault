@@ -1,4 +1,4 @@
-# WOP Oath of the Hearth Paladin
+# Oath of the Hearth Paladin
 ## The Griffon’s Saddlebag, Book 1 (2024)
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -80,6 +80,31 @@ A Paladin who has broken a vow typically seeks absolution, spending an all-night
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
+### Oath of the Hearth
+_Protect Your Friends with Your Warmth and Incinerate Those Who Would Harm Them_
+The Oath of the Hearth originates from the city of the same name, whose tragic downfall has been all but lost to history over centuries. These Paladins swore an oath to protect this tropical, sunlit city in the name of their celestial guardians. Until the end, they fulfilled their oaths. You may swear this oath because you have an age-old connection to the city through your bloodline, or you may have established a connection to the city's principles through stories or interaction with a related celestial being. Regardless of your reasons for taking it, those who swear this oath adorn their armor with symbols of community, fire, and the sun to reflect their commitment to the city and the lives that were led there.
+These Paladins share the following tenets:
+- Light the way to progress and salvation.
+- Offer guidance and respite to those that need it.
+- Turn those that would douse the peoples' flames to ash.
+
+### Level 3: Oath of the Hearth Spells
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Hearth Spells table, you thereafter always have the listed spells prepared.
+
+**Oath of the Hearth Spells:**
+
+| Paladin Level | Spells                                      |
+| ------------- | ------------------------------------------- |
+| 3             | [[Burning Hands]], [[Find Familiar]]        |
+| 5             | [[Aid]], [[Continual Flame]]                |
+| 9             | [[Beacon of Hope]], [[Daylight]]            |
+| 13            | [[Fire Shield]], [[Guardian of Faith]]      |
+| 17            | [[Flame Strike]], [[Rarys Telepathic Bond]] |
+### Level 3: Burning weapon
+When you take the [[Attack action]], you can expend one use of your Channel Divinity to ignite one Melee weapon that you're holding with fiery energy. For 10 minutes or until you use this feature again, you deal extra Fire damage equal to your Charisma modifier (minimum of 1) whenever you hit a target with that weapon, and each time you hit with it, you can cause it to deal its normal damage type or Fire damage.
+The weapon also emits [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet.
+You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
@@ -100,6 +125,9 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 
 ## Level 7: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Level 7: Aura of Warmth
+You and your allies have [[Resistance]] to Cold and Fire damage while in your Aura of Protection.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -122,6 +150,9 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 ## Level 15: Subclass Feature
 You gain a feature from your Paladin Subclass.
 
+### Level 15: Insulating Ward
+Whenever you cast a level 1+ Paladin spell with a spell slot or cast a level 1+ spell without a spell slot using a Paladin feature, you and allies within your Aura of Protection each gain a number of [[Temporary Hit Point]]s equal to the spell's level plus your Charisma modifier (minimum of 2 [[Temporary Hit Point]]s).
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -136,3 +167,9 @@ You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which 
 
 ## Level 20: Subclass Feature
 You gain a feature from your Paladin Subclass.
+
+### Level 20: Burning Spirit
+You can magically ignite yourself to embody your fiery soul. As a [[Bonus Action]], you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
+**Firelight:** You shed [[Bright Light]] that fills your Aura of Protection and [[Dim Light]] for an additional 30 feet.
+**Fleet of Foot:** Your [[Speed]] increases by 10 feet. In addition, you can pass through and end a move in a space occupied by another creature as if that space were unoccupied, and ending a turn in a space with another creature doesn't cause you or that creature to have the [[Prone]] condition.
+**Vengeful Flame:** At the end of each of your turns, each creature of your choice in a 10-foot [[Emanation]] originating from you takes Fire damage equal to twice your Charisma modifier (minimum of 2 Fire damage).

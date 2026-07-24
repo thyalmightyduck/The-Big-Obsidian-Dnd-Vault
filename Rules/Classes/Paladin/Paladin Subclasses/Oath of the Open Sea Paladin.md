@@ -1,4 +1,4 @@
-# WOP Oath of the Open Sea Paladin
+# Oath of the Open Sea Paladin
 ## Tal’Dorei Campaign Setting Reborn
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -79,6 +79,31 @@ A Paladin tries to hold to the highest standards of conduct, but even the most d
 A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
+
+### Oath of the Open Sea
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon. Driven to search for adventure and mystery across and beneath every endless oceanic expanse, paladins who swear this oath stand against those who would deny liberty to like-minded travelers, rooting out tyranny and corruption wherever it is found.
+Such guardians believe in the natural beauty of the sea, often making offerings and prayers to entities or deities such as the [[Wildmother]] or the [[Stormlord]] who influence safe passage. At the same time, they answer the call to hunt the monstrous creatures that too often bloody the waters with wanton violence and ill intent, and which terrorize the folk of the sea and shore.
+
+### Tenets of the Open Sea
+Freedom can be a selfless virtue or a selfish want. For paladins who swear the Oath of the Open Sea, freedom is the highest calling, and a gift to be granted to all.
+**No Greater Life than a Life Lived Free:** One should be free to chart their own path without oppression. Those who would exert their power to dominate others shall be smote.
+**Trust the Skies:** The guidance of a strong breeze. The rumbling warnings of a coming storm. Nature is a source of portent and council that should be heeded.
+**Adapt Like the Water:** The waters of the ocean can shift around any obstacle—or become the most impassable obstacle of all. They carve away the land to reveal the secrets of the past, or swallow the truth and hide it forever. To embrace this fluidity is to be ready for any challenge.
+**Explore the Uncharted:** The world is filled with mystery. Through the pursuit of enigmatic ends, one can uncover those who hide their foul deeds, and find the path to becoming something great.
+
+### Oath Spells
+You gain oath spells at the paladin levels listed in the Oath of the Open Sea Spells table. Spells marked with an asterisk are new spells described on the spells page.
+
+**Oath of the Open Sea Spells:**
+
+| Paladin Level | Spells                                                                                                                                                                                          |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3rd           | [[create or destroy water]], [[expeditious retreat]]                                                                                                                                            |
+| 5th           | [[augury]], [[misty step]]                                                                                                                                                                      |
+| 9th           | [[call lightning]], [[freedom of the waves]]*                                                                                                                                                   |
+| 13th          | [[control water]], [[freedom of movement]]                                                                                                                                                      |
+| 17th          | [[commune with nature]], [[freedom of the winds]]* |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
