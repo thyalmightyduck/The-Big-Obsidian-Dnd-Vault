@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+                "file": "2 Characters/Executive Outcomes/Goobus Scion Of Brainrot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Morwunax Kromphujarod"
+              "title": "Goobus Scion Of Brainrot"
+            }
+          },
+          {
+            "id": "89f25c9d34b11cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Items/Herbalism Kit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Herbalism Kit"
             }
           }
         ],
@@ -405,11 +429,13 @@
   },
   "active": "8e23455026ff737c",
   "lastOpenFiles": [
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Draconic Sorcery Sorcerer.md",
+    "2 Characters/Executive Outcomes/Goobus Scion Of Brainrot.md",
+    "2 Characters/Executive Outcomes/Ibrahim Canoo.md",
+    "2 Characters/Executive Outcomes/Yohn Mclovin.md",
     "2 Characters/Executive Outcomes/Wormomancer.md",
     "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
-    "2 Characters/Executive Outcomes/Yohn Mclovin.md",
-    "2 Characters/Executive Outcomes/Ibrahim Canoo.md",
-    "2 Characters/Executive Outcomes/Goobus Scion Of Brainrot.md",
+    "Rules/Items/Herbalism Kit.md",
     "Rules/Spells/Level 5/Incite Riot.md",
     "Rules/Spells/Level 4/Find Greater Steed.md",
     "Rules/Spells/Level 5/Freedom of the Winds.md",
@@ -430,8 +456,6 @@
     "Rules/Spells/Level 4/Supernal Smite.md",
     "Rules/Spells/Level 4/Consume Mind.md",
     "Rules/Spells/Level 3/Suffocate.md",
-    "Rules/Spells/Level 2/Bloodletter.md",
-    "Rules/Core Rules/Mounted Combat.md",
     "Pictures/Mounted Combat.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",

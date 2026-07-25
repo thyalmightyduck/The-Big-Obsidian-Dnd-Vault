@@ -1,5 +1,7 @@
 # Changelog
 
+- 07-24-2026 T 2049 · [[Goobus Scion Of Brainrot]]
+- 07-24-2026 T 2047 · [[Herbalism Kit]]
 - 07-24-2026 T 2045 · [[Morwunax Kromphujarod]]
 - 07-24-2026 T 2044 · [[Wormomancer]]
 - 07-24-2026 T 1449 · [[Find Greater Steed]]
@@ -98,5 +100,3 @@
 - 07-24-2026 T 0045 · [[Power Word Heal]]
 - 07-24-2026 T 0045 · [[Power Word Kill]]
 - 07-24-2026 T 0045 · [[Mass Magic Missile]]
-- 07-24-2026 T 0045 · [[Surprised]]
-- 07-24-2026 T 0045 · [[True Resurrection]]
