@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Ranger/Ranger Subclasses/Drakewarden Ranger.md",
+                "file": "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Drakewarden Ranger"
+              "title": "Fey Wanderer Ranger"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Dragon/Drake Companion.md",
+                "file": "Rules/Spells/Level 3/Summon Fey.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Drake Companion"
+              "title": "Summon Fey"
+            }
+          },
+          {
+            "id": "3a311c609f1ab5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Spells/Level 4/Dimension Door.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dimension Door"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,11 +184,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "line:(arcane trickster rog)",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -181,7 +205,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -373,13 +398,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e97c6413d7cb39b7",
+  "active": "3a311c609f1ab5ac",
   "lastOpenFiles": [
+    "Rules/Spells/Level 3/Summon Fey.md",
     "5 Monster Stat Blocks/Dragon/Drake Companion.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Drakewarden Ranger.md",
     "Pictures/Monsters/Drake Companion BGR PNG.png",
     "Pictures/Monsters/Drake Companion BGR PNG.png.opdownload",
     "Rules/Spells/Level 6/True Seeing.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Drakewarden Ranger.md",
     "Rules/Classes/Ranger/Ranger Subclasses/Corrupted Ranger Ranger.md",
     "0 Roadmap/Roadmap.md",
     "Rules/Classes/Ranger/Ranger Subclasses/Bloodhound Druid.md",
@@ -410,7 +437,6 @@
     "Rules/Classes/Paladin/Paladin Subclasses/Oathbreaker Paladin.md",
     "2 Characters/The Three Vedos/Mordock.md",
     "conflict-files-obsidian-git.md",
-    "7 Magic Items/Potions/Elixir of Health.md",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
     "Pictures/Mounted Combat.png",
