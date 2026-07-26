@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Armor of Agathys.md",
+                "file": "Rules/Spells/Level 1/Bane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Armor of Agathys"
+              "title": "Bane"
             }
           }
         ],
@@ -375,6 +375,7 @@
   },
   "active": "272107a4b42e6510",
   "lastOpenFiles": [
+    "Rules/Spells/Level 1/Armor of Agathys.md",
     "Pictures/Spells/Armor of Agathys PNG.png",
     "Rules/Spells/Level 1/Animal Friendship.md",
     "Rules/Spells/Level 1/Ancestral Communion.md",
@@ -417,7 +418,6 @@
     "Pictures/Monsters/Hound BGR PNG.png.opdownload",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
-    "Pictures/Mounted Combat.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Multiple Type",
     "Pictures/Monsters/Blooderfly.png.opdownload"

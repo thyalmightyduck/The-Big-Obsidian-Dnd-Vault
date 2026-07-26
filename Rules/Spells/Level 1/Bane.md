@@ -10,6 +10,6 @@ Up to three creatures of your choice that you can see within range must each mak
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
 **Classes:** [[Bard]], [[Cleric]], [[Warlock]]
-**Subclasses:** Architect of Ruin Illrigger, Circle of Wicker Druid, College of Lore Bard, [[Daemonologist Wizard]], Divine Soul Sorcerer, Grave Domain Cleric, [[Grim Harbinger Ranger]], [[Haunted Sorcery Sorcerer]], [[Horned King Patron Warlock]], Oath of Pestilence Paladin, Oath of Vengeance Paladin, Oath of the Spelldrinker Paladin, The First Vampire Patron Warlock, [[The Undead Warlock]], Ambition Domain (PSA) Cleric
-**Feats:** Divinely Favored, Fey Touched, Fey-Touched, Magic Initiate, Strixhaven Initiate, Vampire Touched
-**Other Options/Features:** Thief of Five Fates
+**Subclasses:** [[Architect of Ruin Illrigger]], [[Circle of Wicker Druid]], [[College of Lore Bard]], [[Daemonologist Wizard]], [[Divine Soul Sorcerer]], [[Grave Domain Cleric]], [[Grim Harbinger Ranger]], [[Hand of Dread Pugilist]], [[Haunted Sorcery Sorcerer]], [[Horned King Patron Warlock]], [[Oath of Pestilence Paladin]], [[Oath of Vengeance Paladin]], [[Shadow Sorcery Sorcerer]], [[The First Vampire Patron Warlock]], [[The Undead Warlock]], [[Undead Patron Warlock]], [[Ambition Domain Cleric]]
+**Feats:** [[Divinely Favored]], [[Fey Touched]], [[Fey-Touched]], [[Magic Initiate]], [[Magic Initiate]], [[Strixhaven Initiate]], [[Vampire Touched]]
+**Other Options/Features:** [[Thief of Five Fates]]
