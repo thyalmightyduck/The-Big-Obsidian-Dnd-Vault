@@ -1,4 +1,4 @@
-# WOP Squared Circle Pugilist
+# Squared Circle Pugilist
 ## The Pugilist Class (2024)
 
 | Level | Proficiency Bonus | Features                                                                                           | Fisticuffs | Moxie Points |
@@ -85,6 +85,19 @@ When you hit a creature with an [[Unarmed Strike]], you can use both the Damage
 ## Level 3: Pugilist Subclass
 You gain a Pugilist subclass of your choice. A subclass is a specialization that grants you features at certain Pugilist levels. For the rest of your career, you gain each of your subclass's features that are of your Pugilist level or lower.
 
+### Squared Circle
+_Drop and Lock Your Foes_
+Pugilists who fight in the Squared Circle know the fastest way to win a fight is to force a submission. These wrestlers focus on controlling their most powerful opponents with chokeholds and arm bars, forcing the enemy to fight on the Pugilist's terms.
+
+### Level 3: Groundwork
+You gain the following benefits.
+**Compression Lock:** When you start your turn with one or more creatures [[Grappled]], you can deal Bludgeoning damage to each creature you have [[Grappled]] (no action required). The damage equals one roll of your Fisticuffs die plus your Strength modifier.
+**Inescapable:** When a creature makes a saving throw or ability check against your grapple or shove DC, you can expend 1 Moxie Point to give that roll [[Disadvantage]].
+**Stop and Drop:** When you hit a creature with an [[Unarmed Strike]] and don't use a mastery property as part of the attack, you can use both the Grapple and Shove option.
+
+### Level 3: Muscle Mass
+Choose the [[Acrobatics]] or [[Athletics]] skill. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [[Expertise]] in it.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -104,6 +117,9 @@ Whenever you deal damage with your [[Unarmed Strike]] or an attack with an imp
 
 ## Level 6: Subclass Feature
 You gain a feature from your Pugilist Subclass.
+
+### Level 6: Meat Shield
+While you have a creature [[Grappled]], you gain [[Half Cover]] against attacks made by creatures you haven’t [[Grappled]]. When a creature you don’t have [[Grappled]] misses you with an attack roll, you can take a [[Reaction]] and expend 1 Moxie Point to force that creature make the same attack with a new attack roll against a creature you have [[Grappled]].
 
 ## Level 7: Down But Not Out
 When you use your Bloodied But Unbowed while you are [[Bloodied]], you can add a bonus to the damage of your Unarmed Strikes and attacks with Pugilist weapons for the next minute. This bonus equals your Constitution modifier plus the number of levels of [[Exhaustion]] you have.
@@ -131,6 +147,9 @@ Once you use this feature, you can't use it again until you finish a [[Long Res
 ## Level 11: Subclass Feature
 You gain a feature from your Pugilist Subclass.
 
+### Level 11: Heavyweight
+When you use the Grapple or Shove option of your [[Unarmed Strike]], you count as being one size larger. Additionally, you don't have to spend extra movement to move a creature [[Grappled]] by you if the creature is your size or smaller.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -154,6 +173,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Pugilist Subclass.
+
+### Level 17: Clean Finish
+When a creature ends its turn [[Grappled]] by you, you can take a [[Reaction]] to force it to make a Constitution saving throw against your grapple's escape DC or have the [[Incapacitated]] condition until the end of its next turn. If the creature is [[Bloodied]] and already [[Incapacitated]] by this feature, its [[Hit Point]]s are reduced to 0 instead.
+Once you use this feature to reduce a creature to 0 [[Hit Point]]s, you can't use it again until you finish a [[Long Rest]].
 
 ## Level 18: Fighting Spirit
 When you are reduced to 0 [[Hit Point]] but not killed outright, you can drop to 1 [[Hit Point]] instead. When you do, you gain [[Temporary Hit Point]] equal to half of your maximum [[Hit Point]], regain all your expended [Moxie Points, and have [[Resistance]] to all damage except Force for the next minute.

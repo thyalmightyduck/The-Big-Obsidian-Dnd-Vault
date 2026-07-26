@@ -421,13 +421,13 @@ Finished Cantrip Links
 	- [ ] Transmutation
 	- [ ] Wand
 	- [ ] War
-- [ ] Pugilist
-	- [ ] Dog and Hound
-	- [ ] Hand of Dread
-	- [ ] Piss and Vinegar
-	- [ ] Squared Circle
-	- [ ] Street Saint
-	- [ ] Sweet Science
+- [x] Pugilist
+	- [x] Dog and Hound
+	- [x] Hand of Dread
+	- [x] Piss and Vinegar
+	- [x] Squared Circle
+	- [x] Street Saint
+	- [x] Sweet Science
 - [ ] Tamer
 	- [ ] Infuser
 	- [ ] Leader

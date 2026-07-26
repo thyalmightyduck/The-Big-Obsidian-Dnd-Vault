@@ -1,4 +1,4 @@
-# WOP Hand of Dread Pugilist
+# Hand of Dread Pugilist
 ## The Pugilist Class (2024)
 
 | Level | Proficiency Bonus | Features                                                                                           | Fisticuffs | Moxie Points |
@@ -85,6 +85,26 @@ When you hit a creature with an [[Unarmed Strike]], you can use both the Damage
 ## Level 3: Pugilist Subclass
 You gain a Pugilist subclass of your choice. A subclass is a specialization that grants you features at certain Pugilist levels. For the rest of your career, you gain each of your subclass's features that are of your Pugilist level or lower.
 
+### Hand of Dread
+_Dabble With Dread Powers_
+In your darkest hour, you pleaded for the strength to take what you wanted from the world and a dread power took notice. At first, you may have relished the cathartic rush that came with channeling your eldritch might to claim what you felt you deserved, but this pact came with strings attached. In times of distress you hear the entity whispering in the back of your mind, urging you to indulge your most base impulses.
+
+### Level 3: Black Magic
+As a result of your relationship with your dread power, you gain the following benefits.
+**Two Cantrips:** You learn two cantrips of your choice from the Warlock spell list. Constitution is your spellcasting ability for your Black Magic spells.
+**Level 1 Spell:** Choose a level 1 spell from the Warlock spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[Long Rest]]. You can also cast the spell using any spell slots you have.
+**Spell Change:** Whenever you gain a new level, you can replace one of the spells you chose with this feature with a different spell of the same level from the Warlock spell list.
+
+### Level 3: Dread Hand
+When you take the [[Attack action]] on your turn, you can manifest the evidence of your foul pledge to otherworldly powers. When you do, one of your limbs transmogrifies into a monstrous appearance reminiscent of your dread power and you gain the benefits below for 1 minute. Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
+**Revenging Strike:** When you are hit by a melee attack, you can take a [[Reaction]] to make an [[Unarmed Strike]] against the creature that attacked you if it is within reach.
+**Unslakeable Bloodlust:** When you hit a target with an [[Unarmed Strike]], you can roll the attack's damage dice twice and use either roll against the target.
+**Whirlwind of Violence:** The first time you miss with an [[Unarmed Strike]] each turn, you can reroll the attack and must use the new result.
+
+#### Dread Powers
+
+A dread power can be any powerful malevolent entity capable of bestowing a portion of its power onto a mortal. Archdemons, Fey royalty, ancient liches, and unfathomable intelligences from beyond space and time are all possibilities.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -104,6 +124,12 @@ Whenever you deal damage with your [[Unarmed Strike]] or an attack with an imp
 
 ## Level 6: Subclass Feature
 You gain a feature from your Pugilist Subclass.
+
+### Level 6: Deal with the Devil
+You gain one of the following options of your choice. Whenever you finish a [[Long Rest]], you can change your choice.
+**Cloak of Shadows:** You can cast [[Invisibility]] once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Short Rest]] or [[Long Rest]].
+**Mask of Many Faces:** You can cast [[Disguise Self]] without expending a spell slot.
+**Otherworldly Walk:** You can cast [[Misty Step]] once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Short Rest]] or [[Long Rest]].
 
 ## Level 7: Down But Not Out
 When you use your Bloodied But Unbowed while you are [[Bloodied]], you can add a bonus to the damage of your Unarmed Strikes and attacks with Pugilist weapons for the next minute. This bonus equals your Constitution modifier plus the number of levels of [[Exhaustion]] you have.
@@ -131,6 +157,10 @@ Once you use this feature, you can't use it again until you finish a [[Long Res
 ## Level 11: Subclass Feature
 You gain a feature from your Pugilist Subclass.
 
+### Level 11: Grotesque Growth
+When you use your Dread Hand feature, you gain the benefits of the Enlarge effect of the [[Enlarge Reduce]] spell and have a 10-foot reach.
+Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you take a level of [[Exhaustion]] (no action required by you) to restore your use of it.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -154,6 +184,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Pugilist Subclass.
+
+### Level 17: Fountain of Viscera
+You can take a [[Magic action]] and expend 6 Moxie Points to attempt to execute a creature of your choice within reach by magically burrowing your hand into its body and extracting its innards. The creature must make a Dexterity saving throw (DC 8 plus your Strength modifier and [[Proficiency Bonus]]). On a failure, the creature takes 100 Piercing damage. On a success, the creature takes 50 Piercing damage instead.
+If this damage reduces the target to 0 [[Hit Point]]s, it immediately dies as you rip a hole through it, creating a stomach-turning fountain of viscera. When this happens, each creature of your choice within a 30-foot [[Emanation]] originating from you must succeed on a Wisdom saving throw (DC 8 plus your Strength modifier and [[Proficiency Bonus]]) or have the [[Frightened]] condition for 1 minute. A creature that fails the saving throw can repeat the Wisdom saving throw again at the end of each of its turns, ending the [[Frightened]] condition on itself on a success.
+Once you use this feature, you must finish a [[Long Rest]] before you can use it again.
 
 ## Level 18: Fighting Spirit
 When you are reduced to 0 [[Hit Point]] but not killed outright, you can drop to 1 [[Hit Point]] instead. When you do, you gain [[Temporary Hit Point]] equal to half of your maximum [[Hit Point]], regain all your expended [Moxie Points, and have [[Resistance]] to all damage except Force for the next minute.
