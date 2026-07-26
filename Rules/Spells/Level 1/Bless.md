@@ -10,14 +10,6 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 **Using a Higher-Level Spell Slot:** You can target one additional creature for each spell slot level above 1.
 
-# Player’s Handbook (2014)
-_Enchantment Level 1_
-
-**Casting Time:** Action
-**Range:** 30 Feet
-**Components:** V, S, M (a sprinkling of [[holy water]])
-**Duration:** [[Concentration]], up to 1 Minute
-
-You bless up to three creatures of your choice within range. Whenever a target makes an [[Attack Rolls]] or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the [[Attack Rolls]] or saving throw.
-
-**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+**Classes:** [[Cleric]], [[Paladin]]
+**Subclasses:** [[Circle of Wicker Druid]], [[College of Lore Bard]], [[Daemonologist Wizard]], [[Divine Soul Sorcerer]], [[Exorcist Apothecary]], [[Life Domain Cleric]], [[Solidarity Domain Cleric]]
+**Feats:** [[Divinely Favored]], [[Fey Touched]], [[Fey-Touched]], [[Magic Initiate]], [[Magic Initiate]], [[Strixhaven Initiate]], [[Vampire Touched]]

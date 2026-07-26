@@ -240,7 +240,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 | Artificer Level | Spell                                     |
 | --------------- | ----------------------------------------- |
 | 3rd             | [[heroism]], [[shield]]                   |
-| 5th             | [[branding smite]], [[warding bond]]      |
+| 5th             | [[Branding Smite]], [[warding bond]]      |
 | 9th             | [[aura of vitality]], [[conjure barrage]] |
 | 13th            | [[aura of purity]], [[fire shield]]       |
 | 17th            | [[banishing smite]], [[mass cure wounds]] |

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Bane.md",
+                "file": "Rules/Spells/Level 1/Charm Person.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bane"
+              "title": "Charm Person"
             }
           }
         ],
@@ -375,6 +375,13 @@
   },
   "active": "272107a4b42e6510",
   "lastOpenFiles": [
+    "Rules/Spells/Level 1/Burning Hands.md",
+    "Rules/Spells/Level 1/Blood Rush.md",
+    "Rules/Spells/Level 2/Untitled.md",
+    "Rules/Spells/Level 2/Branding Smite.md",
+    "Rules/Spells/Level 1/Bless.md",
+    "Rules/Spells/Level 1/Binding Pledge.md",
+    "Rules/Spells/Level 1/Bane.md",
     "Rules/Spells/Level 1/Armor of Agathys.md",
     "Pictures/Spells/Armor of Agathys PNG.png",
     "Rules/Spells/Level 1/Animal Friendship.md",
@@ -400,11 +407,6 @@
     "Rules/Classes/Ranger/Ranger Subclasses/Bloodhound Druid.md",
     "Rules/Traps and Hazards/Dehydration.md",
     "Rules/Classes/Ranger/Ranger Subclasses/Big Game Hunter Druid.md",
-    "Rules/Spells/Level 1/Hunters Mark.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Beast Master Ranger.md",
-    "5 Monster Stat Blocks/Beast/Beast of the Sky.md",
-    "5 Monster Stat Blocks/Beast/Beast of the Sea.md",
-    "5 Monster Stat Blocks/Beast/Beast of the Land.md",
     "Pictures/Monsters/Beast of the Sky BGR PNG.png",
     "Pictures/Monsters/Beast of the Sky BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
@@ -412,8 +414,6 @@
     "Pictures/Monsters/Beast of the Sea BGR PNG.png.opdownload",
     "Pictures/Monsters/Beast of the Land BGR PNG.png",
     "Pictures/Monsters/Beast of the Land BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Beast/Hound.md",
-    "Rules/Classes/Pugilist/Pugilist Subclasses/Dog and Hound Pugilist.md",
     "Pictures/Monsters/Hound BGR PNG.png",
     "Pictures/Monsters/Hound BGR PNG.png.opdownload",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png",
