@@ -1,4 +1,4 @@
-### [[Goblin]] Sorcerer Draconic Sorcery Level 9
+### [[Goblin]] [[Sorcerer]] ([[Draconic Sorcery Sorcerer|Draconic Sorcery]]) Level 9
 
 # 5e Statblock
 ```statblock

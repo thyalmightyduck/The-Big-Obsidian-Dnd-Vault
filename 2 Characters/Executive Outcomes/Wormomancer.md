@@ -1,4 +1,4 @@
-### Worm Wizard 7 (Abjuration Savant) -Fighter Lvl 1
+### Worm [[Wizard]] 7 (Abjuration Savant) - [[Fighter]] Lvl 1
 > [!infobox]
 > # Wormomancer
 > ![[Wormomancer-removebg-preview.png|cover hsmall]]

@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Mordock"
             }
+          },
+          {
+            "id": "304f87bd9d3cbc66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -397,8 +421,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "63956230e09b1ba8",
+  "active": "304f87bd9d3cbc66",
   "lastOpenFiles": [
+    "2 Characters/The Three Vedos/Mordock.md",
+    "conflict-files-obsidian-git.md",
+    "7 Magic Items/Potions/Elixir of Health.md",
     "2 Characters/The Three Vedos/Lucian Relnor.md",
     "2 Characters/The Three Vedos/Garak.md",
     "Rules/Spells/Level 4/Find Greater Steed.md",
@@ -409,7 +436,6 @@
     "Rules/Spells/Level 5/Freedom of the Winds.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Watchers Paladin.md",
     "Changelog.md",
-    "conflict-files-obsidian-git.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Spelldrinker Paladin.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of the River Paladin.md",
     "0 Roadmap/Roadmap.md",
@@ -425,8 +451,6 @@
     "Rules/Spells/Level 2/Continual Flame.md",
     "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Hearth Paladin.md",
     "Rules/Spells/Level 2/Prayer of Healing.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Harvest Paladin.md",
-    "Rules/Spells/Level 1/Compelled Duel.md",
     "Pictures/Mounted Combat.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
