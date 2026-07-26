@@ -12,4 +12,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 **Using a Higher-Level Spell Slot:** Use the spell slot's level for the spell's level in the stat block.
 
 **Classes:** [[Druid]], [[Ranger]], [[Warlock]], [[Wizard]]
-**Subclasses:** [[Arcane Trickster Rogue]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Fey Wanderer Ranger]], [[Hand of Dread Pugilist]], [[Illusionist Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+
+![[Summon Fey PNG.png]]

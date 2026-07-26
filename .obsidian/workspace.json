@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 3/Summon Fey.md",
+                "file": "Rules/Spells/Level 1/Armor of Agathys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,35 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Summon Fey"
-            }
-          },
-          {
-            "id": "3a311c609f1ab5ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Spells/Level 4/Dimension Door.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dimension Door"
+              "title": "Armor of Agathys"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(arcane trickster rog)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -398,9 +373,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3a311c609f1ab5ac",
+  "active": "272107a4b42e6510",
   "lastOpenFiles": [
+    "Pictures/Spells/Armor of Agathys PNG.png",
+    "Rules/Spells/Level 1/Animal Friendship.md",
+    "Rules/Spells/Level 1/Ancestral Communion.md",
+    "Rules/Spells/Level 1/Alarm.md",
+    "Rules/Spells/Level 1/Accelerate Decelerate.md",
+    "Rules/Spells/Level 1/Absorb Elements.md",
+    "5 Monster Stat Blocks/Fey/Fey Spirit.md",
+    "Pictures/Monsters/Fey Spirt BGR PNG.png",
+    "Pictures/Monsters/Fey Spirt BGR PNG.png.opdownload",
     "Rules/Spells/Level 3/Summon Fey.md",
+    "Pictures/Spells/Summon Fey PNG.png",
+    "Rules/Spells/Level 2/Knock.md",
+    "Rules/Spells/Level 4/Dimension Door.md",
     "5 Monster Stat Blocks/Dragon/Drake Companion.md",
     "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
     "Rules/Classes/Ranger/Ranger Subclasses/Drakewarden Ranger.md",
@@ -426,25 +413,13 @@
     "Pictures/Monsters/Beast of the Land BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Beast/Hound.md",
     "Rules/Classes/Pugilist/Pugilist Subclasses/Dog and Hound Pugilist.md",
-    "Rules/Classes/Pugilist/Pugilist Subclasses/Sweet Science Pugilist.md",
-    "Rules/Classes/Pugilist/Pugilist Subclasses/Street Saint Pugilist.md",
-    "Rules/Classes/Pugilist/Pugilist Subclasses/Squared Circle Pugilist.md",
-    "Rules/Classes/Pugilist/Pugilist Subclasses/Piss and Vinegar Pugilist.md",
-    "Rules/Classes/Pugilist/Pugilist Subclasses/Hand of Dread Pugilist.md",
     "Pictures/Monsters/Hound BGR PNG.png",
     "Pictures/Monsters/Hound BGR PNG.png.opdownload",
-    "Rules/Spells/Level 4/Find Greater Steed.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oathbreaker Paladin.md",
-    "2 Characters/The Three Vedos/Mordock.md",
-    "conflict-files-obsidian-git.md",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
     "Pictures/Mounted Combat.png",
-    "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Multiple Type",
-    "Pictures/Monsters/Blooderfly.png",
-    "Pictures/Monsters/Blooderfly.png.opdownload",
-    "Rules/Classes/Paladin/Paladin Features"
+    "Pictures/Monsters/Blooderfly.png.opdownload"
   ]
 }
