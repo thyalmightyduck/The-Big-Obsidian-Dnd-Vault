@@ -1,4 +1,4 @@
-# WOP Bloodhound Druid
+# Bloodhound Druid
 ## Frontiers of Eberron: Quickstone
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Favored Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -66,7 +66,7 @@ Spellcasting Ability. Wisdom is your spellcasting ability for your Ranger spell
 [[Spellcasting Focus]]. You can use a [[Druidic Focus]] as a [[Spellcasting Focus]] for your Ranger spells.
 
 ## Level 1: Favored Enemy
-You always have the [[Hunter's Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[Long Rest]].
+You always have the [[Hunters Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[Long Rest]].
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
@@ -90,6 +90,29 @@ Druidic Warrior. You learn two [[Druid]] cantrips of your choice. [[Guidance
 ## Level 3: Ranger Subclass
 You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
+### Bloodhound
+_Follow your Mark to the Bitter End_
+Rangers recognize the primal connections between all living things, and as a Bloodhound you know precisely how to exploit them to track down your chosen prey. The Western Frontier is home to countless fugitives and war criminals, and House Tharashk trains its best bounty hunters to follow these ancient techniques— while on the other side of the Border Road, Znir hunters and worgs of the Great Pack use the skills of the Bloodhound to track enemies of Droaam.
+
+### Level 3: Bloodhound Spells
+When you reach a Ranger level specified in the Bloodhound Spells table, you thereafter always have the listed spells prepared.
+**Bloodhound Spells:**
+
+| Ranger Level | Prepared Spells                                     |
+| ------------ | --------------------------------------------------- |
+| 3rd          | [[Alarm]]                                           |
+| 5th          | [[Hold Person]]                                     |
+| 9th          | [[Clairvoyance]]                                    |
+| 13th         | [[Locate Creature]]                                 |
+| 17th         | [[Scrying]] |
+### Level 3: Ley Line Tracker
+Given your knowledge of the landscape, you can use ley lines as conduits to stretch your magic over vast distances when tracking a target, granting you the following benefits.
+**Mark Bounty:** Whenever you finish a [[Short Rest]] or [[Long Rest]], you can single out one creature as your bounty. To mark a creature as your bounty, you must have seen that creature or possess an object that has been in their possession for at least 24 hours. Once on each of your turns you can change your bounty to one creature you can see (no action required).
+**Masterful Tracking:** Your Ranger spells of the Divination school can target your bounty at any distance, even if you cannot see them, unless your bounty is protected from Divination spells (as with [[Nondetection]]) or is on another plane of existence.
+
+### Level 3: Unwavering Attention
+When you hit your bounty or a creature currently marked by your [[Hunters Mark]], you deal an extra 1d6 damage. You can deal this extra damage only once per turn. If you deal this damage as part of an [[Opportunity Attack]], you can take a [[Reaction]] again from the start of the next creature's turn (instead of on your next turn).
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
@@ -101,6 +124,9 @@ Your [[Speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]]. 
 
 ## Level 7: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 7: Relentless Pursuit
+If your bounty or a creature currently marked by your [[Hunters Mark]] ends its turn more than 5 feet away from you and you can see it, you can use your [[Reaction]] to move your speed towards it. This movement does not provoke [[Opportunity Attack]]s.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
@@ -118,11 +144,14 @@ Decrease Exhaustion. Whenever you finish a [[Short Rest]], your [[Exhaustion]
 ## Level 11: Subclass Feature
 You gain a feature from your Ranger Subclass.
 
+### Level 11: Eyes on the Prize
+You focus everything on bringing your chosen target down. When you take the [[Attack action]] and target only one creature with all your attacks, you can make an additional attack against that creature. If the additional attack is a melee attack and it hits, the target has either the [[Grappled]] or [[Prone]] condition (your choice). If the additional attack is a ranged attack and it hits, the target has the [[Prone]] condition.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 13: Relentless Hunter
-Taking damage can't break your [[Concentration]] on [[Hunter's Mark]].
+Taking damage can't break your [[Concentration]] on [[Hunters Mark]].
 
 ## Level 14: Nature's Veil
 You invoke spirits of nature to magically hide yourself. As a [[Bonus Action]], you can give yourself the [[Invisible Condition]] until the end of your next turn.
@@ -132,11 +161,15 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 ## Level 15: Subclass Feature
 You gain a feature from your Ranger Subclass.
 
+### Level 15: Nowhere to Hide
+Illusions and other magical concealments cannot hinder your pursuit. You can cast [[True Seeing]] on yourself without expending a spell slot or material components. If you do so, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]].
+Additionally, when you use your Ley Line Tracker feature to target your bounty, you are not affected by magic that conceals your bounty from your Divination spells.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 17: Precise Hunter
-You have [[Advantage]] on [[attack rolls]] against the creature currently marked by your [[Hunter's Mark]].
+You have [[Advantage]] on [[attack rolls]] against the creature currently marked by your [[Hunters Mark]].
 
 ## Level 18: Feral Senses
 Your connection to the forces of nature grants you [[Blindsight]] with a range of 30 feet.
@@ -145,4 +178,4 @@ Your connection to the forces of nature grants you [[Blindsight]] with a range
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
 
 ## Level 20: Foe Slayer
-The damage die of your [[Hunter's Mark]] is a d10 rather than a d6.
+The damage die of your [[Hunters Mark]] is a d10 rather than a d6.

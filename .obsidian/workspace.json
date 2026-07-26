@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
+                "file": "Rules/Classes/Ranger/Ranger Subclasses/Drakewarden Ranger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,40 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oath of the Ancients Paladin"
+              "title": "Drakewarden Ranger"
             }
           },
           {
-            "id": "041ff0f645045fa2",
+            "id": "272107a4b42e6510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Morwunax Kromphujarod"
-            }
-          },
-          {
-            "id": "4130f8b8da4d84b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Magic Items/Potions/Healing/Potion Of Healing.md",
+                "file": "5 Monster Stat Blocks/Dragon/Drake Companion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,59 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Potion Of Healing"
-            }
-          },
-          {
-            "id": "8e23455026ff737c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Magic Items/Potions/Elixir of Health.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Elixir of Health"
-            }
-          },
-          {
-            "id": "89f25c9d34b11cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Items/Herbalism Kit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Herbalism Kit"
+              "title": "Drake Companion"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: long",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -299,6 +227,21 @@
             }
           },
           {
+            "id": "e5ac256845b551ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "9b034b91f9ee4629",
             "type": "leaf",
             "state": {
@@ -332,8 +275,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -342,8 +285,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -371,8 +314,8 @@
                 },
                 "id": "ID_bba908a829eb"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -381,8 +324,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -391,8 +334,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -404,58 +347,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "dbbe854425e86d3f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "5f962b986ab7b8e0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "abadf9e900c1e896",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "7f595a877809403e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 578.5
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -475,53 +373,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9a800d7e2cdfb01b",
+  "active": "e97c6413d7cb39b7",
   "lastOpenFiles": [
-    "Pictures/Monsters/Hound BGR PNG.png",
-    "5 Monster Stat Blocks/Beast/Hound.md",
-    "7 Magic Items/Potions/Healing/Potion Of Healing.md",
-    "7 Magic Items/Potions/Elixir of Health.md",
-    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
-    "2 Characters/Executive Outcomes/Wormomancer.md",
-    "2 Characters/Executive Outcomes/Goobus Scion Of Brainrot.md",
-    "Rules/Items/Herbalism Kit.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Draconic Sorcery Sorcerer.md",
-    "2 Characters/Executive Outcomes/Ibrahim Canoo.md",
-    "2 Characters/Executive Outcomes/Yohn Mclovin.md",
-    "Rules/Spells/Level 5/Incite Riot.md",
-    "Rules/Spells/Level 4/Find Greater Steed.md",
-    "Rules/Spells/Level 5/Freedom of the Winds.md",
-    "Rules/Spells/Level 3/Freedom of the Waves.md",
-    "Rules/Spells/Level 1/Expeditious Retreat.md",
-    "Rules/Spells/Level 4/Summon Elemental.md",
-    "Rules/Spells/Level 4/Conjure Minor Elementals.md",
-    "Rules/Spells/Level 2/Continual Flame.md",
-    "Pictures/Monsters/Elemental Spirit BGR PNG.png",
-    "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
-    "Rules/Spells/Level 2/Prayer of Healing.md",
-    "Rules/Spells/Level 1/Compelled Duel.md",
-    "Rules/Classes/Paladin/Paladin Subclasses/Oath of the Ancients Paladin.md",
-    "5 Monster Stat Blocks/Beast/Blooderfly.md",
-    "3 The Kingdom Of Oskana/Oskana.md",
+    "5 Monster Stat Blocks/Dragon/Drake Companion.md",
+    "Pictures/Monsters/Drake Companion BGR PNG.png",
+    "Pictures/Monsters/Drake Companion BGR PNG.png.opdownload",
+    "Rules/Spells/Level 6/True Seeing.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Drakewarden Ranger.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Corrupted Ranger Ranger.md",
     "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Bloodhound Druid.md",
+    "Rules/Traps and Hazards/Dehydration.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Big Game Hunter Druid.md",
+    "Rules/Spells/Level 1/Hunters Mark.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Beast Master Ranger.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Sky.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Sea.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Land.md",
+    "Pictures/Monsters/Beast of the Sky BGR PNG.png",
+    "Pictures/Monsters/Beast of the Sky BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
+    "Pictures/Monsters/Beast of the Sea BGR PNG.png",
+    "Pictures/Monsters/Beast of the Sea BGR PNG.png.opdownload",
+    "Pictures/Monsters/Beast of the Land BGR PNG.png",
+    "Pictures/Monsters/Beast of the Land BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Beast/Hound.md",
+    "Rules/Classes/Pugilist/Pugilist Subclasses/Dog and Hound Pugilist.md",
+    "Rules/Classes/Pugilist/Pugilist Subclasses/Sweet Science Pugilist.md",
+    "Rules/Classes/Pugilist/Pugilist Subclasses/Street Saint Pugilist.md",
+    "Rules/Classes/Pugilist/Pugilist Subclasses/Squared Circle Pugilist.md",
+    "Rules/Classes/Pugilist/Pugilist Subclasses/Piss and Vinegar Pugilist.md",
+    "Rules/Classes/Pugilist/Pugilist Subclasses/Hand of Dread Pugilist.md",
+    "Pictures/Monsters/Hound BGR PNG.png",
+    "Pictures/Monsters/Hound BGR PNG.png.opdownload",
+    "Rules/Spells/Level 4/Find Greater Steed.md",
+    "Rules/Classes/Paladin/Paladin Subclasses/Oathbreaker Paladin.md",
+    "2 Characters/The Three Vedos/Mordock.md",
+    "conflict-files-obsidian-git.md",
+    "7 Magic Items/Potions/Elixir of Health.md",
+    "Pictures/Monsters/Elemental Spirit BGR PNG.png",
+    "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
     "Pictures/Mounted Combat.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Multiple Type",
     "Pictures/Monsters/Blooderfly.png",
     "Pictures/Monsters/Blooderfly.png.opdownload",
-    "Pictures/Spells/Yolandes Regal Presence.png",
-    "Rules/Classes/Paladin/Paladin Features",
-    "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
-    "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
-    "Rules/Classes/Mystic/Psionic Disciplines/Awakened",
-    "Rules/Classes/Mystic/Psionic Disciplines/Avatar",
-    "Pictures/Monsters/Horned Devil BGR PNG.png",
-    "Pictures/Monsters/Devil Jurist BGR PNG.png",
-    "Pictures/Monsters/Warhorse BGR PNG.png",
-    "Pictures/Monsters/Wildfire Spirit BGR PNG.png",
-    "Pictures/Monsters/Giaint Insect Monster BGR PNG.png"
+    "Rules/Classes/Paladin/Paladin Features"
   ]
 }

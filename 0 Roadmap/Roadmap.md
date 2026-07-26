@@ -280,11 +280,11 @@ Finished Cantrip Links
 	- [x] Watchers
 	- [x] Zeal
 - [ ] Ranger
-	- [ ] Beast Master
-	- [ ] Big Game Hunter
-	- [ ] Bloodhound
-	- [ ] Corrupted Ranger
-	- [ ] Drakewarden
+	- [x] Beast Master
+	- [x] Big Game Hunter
+	- [x] Bloodhound
+	- [ ] Corrupted Ranger (Temp Taken Down)
+	- [x] Drakewarden
 	- [ ] Fey Wanderer
 	- [ ] Gloom Stalker
 	- [ ] Green Stalker

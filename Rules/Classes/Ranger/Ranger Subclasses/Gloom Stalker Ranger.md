@@ -66,7 +66,7 @@ Spellcasting Ability. Wisdom is your spellcasting ability for your Ranger spell
 [[Spellcasting Focus]]. You can use a [[Druidic Focus]] as a [[Spellcasting Focus]] for your Ranger spells.
 
 ## Level 1: Favored Enemy
-You always have the [[Hunter's Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[Long Rest]].
+You always have the [[Hunters Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[Long Rest]].
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
@@ -122,7 +122,7 @@ You gain a feature from your Ranger Subclass.
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 13: Relentless Hunter
-Taking damage can't break your [[Concentration]] on [[Hunter's Mark]].
+Taking damage can't break your [[Concentration]] on [[Hunters Mark]].
 
 ## Level 14: Nature's Veil
 You invoke spirits of nature to magically hide yourself. As a [[Bonus Action]], you can give yourself the [[Invisible Condition]] until the end of your next turn.
@@ -136,7 +136,7 @@ You gain a feature from your Ranger Subclass.
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 17: Precise Hunter
-You have [[Advantage]] on [[attack rolls]] against the creature currently marked by your [[Hunter's Mark]].
+You have [[Advantage]] on [[attack rolls]] against the creature currently marked by your [[Hunters Mark]].
 
 ## Level 18: Feral Senses
 Your connection to the forces of nature grants you [[Blindsight]] with a range of 30 feet.
@@ -145,4 +145,4 @@ Your connection to the forces of nature grants you [[Blindsight]] with a range
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
 
 ## Level 20: Foe Slayer
-The damage die of your [[Hunter's Mark]] is a d10 rather than a d6.
+The damage die of your [[Hunters Mark]] is a d10 rather than a d6.

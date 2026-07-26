@@ -133,7 +133,7 @@ The damage increases by 1d6 if the target is a Fiend or an Undead.
 
 Once you use this talent, you must finish a [[Short Rest]] or [[Long Rest]] before you can use it again.
 
-**Ranger.** You always have the [[Hunter's Mark]] spell prepared. You can cast this spell using a 5th-level spell slot without expending a spell slot.
+**Ranger.** You always have the [[Hunters Mark]] spell prepared. You can cast this spell using a 5th-level spell slot without expending a spell slot.
 
 Once you cast the spell using this talent, you can't do so again until you finish a [[Long Rest]].
 
