@@ -150,33 +150,9 @@
               "icon": "lucide-file",
               "title": "Mordock"
             }
-          },
-          {
-            "id": "304f87bd9d3cbc66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -421,10 +397,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "304f87bd9d3cbc66",
+  "active": "63956230e09b1ba8",
   "lastOpenFiles": [
-    "2 Characters/The Three Vedos/Mordock.md",
     "conflict-files-obsidian-git.md",
+    "2 Characters/The Three Vedos/Mordock.md",
     "7 Magic Items/Potions/Elixir of Health.md",
     "2 Characters/The Three Vedos/Lucian Relnor.md",
     "2 Characters/The Three Vedos/Garak.md",
