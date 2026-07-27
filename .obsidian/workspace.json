@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b9ded9e3c49b278d",
+            "id": "73bc2f8d6fb102d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Alarm.md",
+                "file": "Rules/Spells/Level 1/Detect Magic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alarm"
-            }
-          },
-          {
-            "id": "8dacc8716d1a2f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Weapons/Trident.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trident"
+              "title": "Detect Magic"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Rules/Spells/Level 1/Detect Magic.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Detect Magic"
             }
           },
           {
@@ -226,8 +204,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -236,8 +214,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -265,8 +243,8 @@
                 },
                 "id": "ID_bba908a829eb"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -275,8 +253,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -285,8 +263,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -295,8 +273,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -318,23 +296,13 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "7130a4c01f027bcb",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,8 +322,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "73bc2f8d6fb102d5",
   "lastOpenFiles": [
+    "Rules/Spells/Level 1/Detect Evil And Good.md",
+    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Leaden Crown Monk.md",
+    "Rules/Spells/Level 1/Cure Wounds.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Weapons/Trident.md",
+    "Rules/Spells/Level 1/Alarm.md",
     "Class Selector WOP.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
     "Rules/Traps and Hazards/Dehydration.md",
@@ -376,11 +350,7 @@
     "Rules/Spells/Level 3/Suffocate.md",
     "Rules/Spells/Level 3/Freedom of the Waves.md",
     "Rules/Spells/Level 2/Prayer of Healing.md",
-    "Rules/Core Rules/Mounted Combat.md",
-    "Rules/Classes/Paladin/Paladin Features/Aura of Protection.md",
-    "Rules/Classes/Paladin/Paladin Features/Channel Divinity.md",
     "Rules/Classes/Paladin/Paladin Features",
-    "Rules/Classes/Cleric/Cleric Subclasses/Dragon Domain Cleric.md",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Pictures/Spells/Summon Fey PNG.png",
     "Pictures/Spells/Summon Dragon BGR PNG.png",
@@ -391,8 +361,6 @@
     "Pictures/Monsters/Fey Spirt BGR PNG.png",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png",
     "Pictures/Monsters/Drake Companion BGR PNG.png",
-    "7 Magic Items/Potions/Elixir of Health.md",
-    "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
     "5 Monster Stat Blocks/Multiple Type",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",

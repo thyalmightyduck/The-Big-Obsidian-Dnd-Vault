@@ -10,6 +10,6 @@ For the duration, you sense the location of any Aberration, Celestial, Elemental
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
 **Classes:** [[Apothecary]], [[Cleric]], [[Paladin]]
-**Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Oath of Zeal Paladin]], [[The Genie Warlock]], [[Warrior Of The Leaden Crown Monk]], [[Wretched Bloodline Sorcery Sorcerer]]
+**Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Oath of Zeal Paladin]], [[The Genie Warlock]], [[Warrior of the Leaden Crown Monk]], [[Wretched Bloodline Sorcery Sorcerer]]
 **Species:** [[Half-Elf (Mark Of Detection)]]
-**Feats:** Divinely Favored, Fey Touched, Fey-Touched, Initiate of High Sorcery, Magic Initiate, Mark of Detection, Strixhaven Initiate
+**Feats:** [[Divinely Favored]], [[Fey Touched]], [[Fey-Touched]], [[Initiate of High Sorcery]], [[Magic Initiate]], [[Magic Initiate]], [[Mark of Detection]], [[Strixhaven Initiate]]
