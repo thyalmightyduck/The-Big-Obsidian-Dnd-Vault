@@ -9,3 +9,7 @@ One creature of your choice that you can see within range hears a discordant mel
 
 **Using a Higher-Level Spell Slot:** The damage increases by 1d6 for each spell slot level above 1.
 
+**Classes:** [[Bard]]
+**Subclasses:** [[Aberrant Mind Sorcerer]], [[College of Fools Bard]], [[Great Old One Patron Warlock]], [[Mind Domain Cleric]]
+**Backgrounds:** [[Rakdos Cultist]], [[Silverquill Student]]
+**Feats:** [[Fey Touched]], [[Fey-Touched]], [[Initiate of High Sorcery]], [[Magic Initiate]], [[Strixhaven Initiate]], [[Vampire Touched]]

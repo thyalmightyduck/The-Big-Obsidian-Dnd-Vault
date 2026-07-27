@@ -14,6 +14,6 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 **Classes:** [[Druid]], [[Ranger]]
 **Subclasses:** [[Artillerist Artificer]], [[College of Lore Bard]], [[Nature Domain Cleric]], [[The Genie Warlock]]
-**Species:** [[Half-Elf (Variant Mark Of Storm)]]
+**Species:** [[Half-Elf (Mark Of Storm)]]
 **Background:** [[Simic Scientist]]
 **Feats:** [[Mark of Storm]]

@@ -13,7 +13,7 @@ Whenever a creature you can see enters the spirit's space or starts its turn wit
 
 **Classes:** [[Druid]], [[Wizard]]
 **Subclasses:** [[Circle of the Land Druid]], [[Circle of the Sea Druid]], [[Frost Sorcery Sorcerer]], [[Leyline Magic Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
-**Species:** [[Half-Elf (Variant Mark Of Storm)]]
+**Species:** [[Half-Elf (Mark Of Storm)]]
 **Backgrounds:** [[Izzet Engineer]], [[Prismari Student]]
 **Feats:** [[Mark of Storm]]
 **Other Options/Features:** [[Minions of Chaos]]

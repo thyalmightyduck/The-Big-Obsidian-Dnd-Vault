@@ -11,6 +11,6 @@ In addition, the ground in the [[Emanation]] is [[Difficult Terrain]] for yo
 
 **Classes:** [[Druid]], [[Wizard]]
 **Subclasses:** [[Arcane Trickster Rogue]], [[Eldritch Knight Fighter]], [[Oath of the Noble Genies Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
-**Species:** [[Half-Elf (Variant Mark of Storm)]]
+**Species:** [[Half-Elf (Mark Of Storm)]]
 **Backgrounds:** [[Izzet Engineer]], [[Selesnya Initiate]]
 **Feats:** [[Mark of Storm]]

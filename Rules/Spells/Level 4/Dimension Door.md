@@ -12,6 +12,6 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
 
 **Classes:** [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]]
-**Subclasses:** Alienist Apothecary, [[Arcane Trickster Rogue]], Architect of Ruin Illrigger, Eldritch Knight Fighter, Fey Wanderer Ranger, Oath of Hexes Paladin, Oath of Vengeance Paladin, Oath of the Spelldrinker Paladin, Trickery Domain Cleric, [[Urban Ranger]] Ranger, Way of the Arcane Hand Monk, Ambition Domain (PSA) Cleric
+**Subclasses:** Alienist Apothecary, [[Arcane Trickster Rogue]], Architect of Ruin Illrigger, Eldritch Knight Fighter, Fey Wanderer Ranger, Oath of Hexes Paladin, Oath of Vengeance Paladin, Oath of the Spelldrinker Paladin, Trickery Domain Cleric, [[Urban Ranger Ranger]] Ranger, Way of the Arcane Hand Monk, Ambition Domain (PSA) Cleric
 **Species:** [[Human (Mark Of Passage)]]
 **Feats:** Boon of Siberys

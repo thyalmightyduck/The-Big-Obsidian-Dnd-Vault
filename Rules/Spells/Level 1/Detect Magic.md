@@ -11,3 +11,6 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 **Classes:** [[Apothecary]], [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[Sorcerer]], [[Tamer]], [[Warlock]], [[Wizard]]
 **Subclasses:** [[Arcana Domain Cleric]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[Hand of Dread Pugilist]], [[Knowledge Domain Cleric]], [[Oath of the Spelldrinker Paladin]], [[Oath of the Watchers Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Warrior of Cosmic Balance Monk]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Elf]], [[Firbolg]], [[Firbolg]], [[Half-Elf (Mark of Detection)]]
+**Feats:** [[Aberrant Dragonmark]], [[Aberrant Dragonmark]], [[Artificer Initiate]], [[Boon of Siberys]], [[Divinely Favored]], [[Drow High Magic]], [[Fey Touched]], [[Fey-Touched]], [[Magic Initiate]], [[Magic Initiate]], [[Mark of Detection]], [[Quicksmithing]], [[Ritual Caster]], [[Ritual Caster]], [[Strixhaven Initiate]]
+**Other Option/Features:** [[Book of Ancient Secrets]], [[Eldritch Sight]], [[Pact of the Tome]]

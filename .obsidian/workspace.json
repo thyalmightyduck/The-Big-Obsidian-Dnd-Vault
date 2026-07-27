@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Detect Magic.md",
+                "file": "Rules/Spells/Level 1/Guiding Bolt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Detect Magic"
+              "title": "Guiding Bolt"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Spells/Level 1/Detect Magic.md",
+                "file": "Rules/Spells/Level 1/Guiding Bolt.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Detect Magic"
+              "title": "Outline of Guiding Bolt"
             }
           },
           {
@@ -324,32 +324,32 @@
   },
   "active": "73bc2f8d6fb102d5",
   "lastOpenFiles": [
+    "Rules/Spells/Level 1/Grease.md",
+    "Rules/Spells/Level 1/Goodberry.md",
+    "Rules/Spells/Level 1/Gentle Repose.md",
+    "Rules/Spells/Level 1/Fog Cloud.md",
+    "Untitled.md",
+    "Rules/Spells/Level 1/Find Familiar.md",
+    "Rules/Spells/Level 1/Feather Fall.md",
+    "Rules/Species/Half-Elf (Mark Of Storm).md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Archfey Warlock.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Urban Ranger Ranger.md",
+    "Rules/Spells/Level 1/False Life.md",
+    "Rules/Spells/Level 1/Faerie Fire.md",
+    "Rules/Classes/Warlock/Warlock.md",
+    "Rules/Spells/Level 1/Expeditious Retreat.md",
+    "Rules/Spells/Level 1/Entangle.md",
+    "Rules/Spells/Level 1/Ensnaring Strike.md",
+    "Rules/Spells/Level 1/Divine Smite.md",
+    "Rules/Spells/Level 1/Divine Favor.md",
+    "Rules/Spells/Level 1/Dissonant Whispers.md",
+    "Rules/Spells/Level 1/Disguise Self.md",
+    "Rules/Spells/Level 1/Detect Poison and Disease.md",
+    "Rules/Spells/Level 1/Detect Magic.md",
     "Rules/Spells/Level 1/Detect Evil And Good.md",
     "Rules/Classes/Monk/Monk Subclasses/Warrior of the Leaden Crown Monk.md",
     "Rules/Spells/Level 1/Cure Wounds.md",
     "0 Roadmap/Roadmap.md",
-    "Rules/Weapons/Trident.md",
-    "Rules/Spells/Level 1/Alarm.md",
-    "Class Selector WOP.md",
-    "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
-    "Rules/Traps and Hazards/Dehydration.md",
-    "Rules/Spells/Level 6/True Seeing.md",
-    "Rules/Spells/Level 5/Yolandes Regal Presence.md",
-    "Rules/Spells/Level 5/Summon Dragon.md",
-    "Rules/Spells/Level 5/Rarys Telepathic Bond.md",
-    "Rules/Spells/Level 5/Incite Riot.md",
-    "Rules/Spells/Level 5/Geas.md",
-    "Rules/Spells/Level 5/Freedom of the Winds.md",
-    "Rules/Spells/Level 4/Supernal Smite.md",
-    "Rules/Spells/Level 4/Summon Elemental.md",
-    "Rules/Spells/Level 4/Otilukes Resilient Sphere.md",
-    "Rules/Spells/Level 4/Find Greater Steed.md",
-    "Rules/Spells/Level 4/Consume Mind.md",
-    "Rules/Spells/Level 4/Conjure Minor Elementals.md",
-    "Rules/Spells/Level 3/Summon Fey.md",
-    "Rules/Spells/Level 3/Suffocate.md",
-    "Rules/Spells/Level 3/Freedom of the Waves.md",
-    "Rules/Spells/Level 2/Prayer of Healing.md",
     "Rules/Classes/Paladin/Paladin Features",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Pictures/Spells/Summon Fey PNG.png",
