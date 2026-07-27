@@ -4,127 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea4f6df042d38ae9",
+        "id": "cb0c567b8fbbfb37",
         "type": "tabs",
         "children": [
           {
-            "id": "144ee6b2f1b77f43",
+            "id": "08f07d0627d978c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Roadmap/Roadmap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Roadmap"
-            }
-          },
-          {
-            "id": "b9ded9e3c49b278d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 The Kingdom Of Oskana/Oskana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Oskana"
-            }
-          },
-          {
-            "id": "7532d1f1dffc268a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Monster Stat Blocks/Beast/Blooderfly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Blooderfly"
-            }
-          },
-          {
-            "id": "e97c6413d7cb39b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Fey Wanderer Ranger"
-            }
-          },
-          {
-            "id": "272107a4b42e6510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Spells/Level 1/Cure Wounds.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cure Wounds"
+              "title": "New tab"
             }
           }
         ]
@@ -159,11 +49,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: long",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
+                "collapseAll": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -226,21 +116,6 @@
             }
           },
           {
-            "id": "e5ac256845b551ec",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "9b034b91f9ee4629",
             "type": "leaf",
             "state": {
@@ -274,8 +149,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -284,8 +159,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -313,8 +188,8 @@
                 },
                 "id": "ID_bba908a829eb"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -323,8 +198,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -333,8 +208,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -346,13 +221,58 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dbbe854425e86d3f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "5f962b986ab7b8e0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "abadf9e900c1e896",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "7f595a877809403e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 578.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -372,53 +292,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "08f07d0627d978c3",
   "lastOpenFiles": [
-    "Rules/Spells/Level 1/Cure Wounds.md",
-    "Rules/Spells/Level 1/Crimson Lash.md",
-    "Rules/Spells/Level 1/Create Or Destroy Water.md",
-    "Rules/Spells/Level 1/Comprehend Languages.md",
-    "Rules/Spells/Level 1/Compelled Duel.md",
-    "Rules/Spells/Level 1/Command.md",
-    "Rules/Spells/Level 1/Color Spray.md",
-    "Rules/Spells/Level 1/Chromatic Orb.md",
-    "5 Monster Stat Blocks/Dragon/Draconic Spirit.md",
-    "Pictures/Monsters/Draconic Spirit BGRP NG.png",
-    "Pictures/Monsters/Draconic Spirit BGRP NG.png.opdownload",
+    "conflict-files-obsidian-git.md",
     "Rules/Spells/Level 5/Summon Dragon.md",
-    "Pictures/Spells/Summon Dragon BGR PNG.png",
-    "Pictures/Spells/Summon Dragon BGR PNG.png.opdownload",
     "Rules/Spells/Level 2/Dragons Breath.md",
     "Rules/Classes/Cleric/Cleric Subclasses/Dragon Domain Cleric.md",
-    "Rules/Classes/Cleric/Cleric.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Spells/Level 1/Charm Person.md",
-    "Rules/Spells/Level 1/Burning Hands.md",
-    "Rules/Spells/Level 1/Blood Rush.md",
+    "Pictures/Spells/Summon Dragon BGR PNG.png",
+    "Pictures/Monsters/Draconic Spirit BGRP NG.png",
+    "5 Monster Stat Blocks/Dragon/Draconic Spirit.md",
+    "Rules/Traps and Hazards/Dehydration.md",
+    "Rules/Spells/Level 6/True Seeing.md",
+    "Rules/Spells/Level 3/Summon Fey.md",
     "Rules/Spells/Level 2/Branding Smite.md",
-    "Rules/Spells/Level 1/Bless.md",
-    "Rules/Spells/Level 1/Binding Pledge.md",
-    "Rules/Spells/Level 1/Bane.md",
-    "Rules/Spells/Level 1/Armor of Agathys.md",
-    "Pictures/Spells/Armor of Agathys PNG.png",
-    "Rules/Spells/Level 1/Animal Friendship.md",
-    "Rules/Spells/Level 1/Ancestral Communion.md",
-    "Rules/Spells/Level 1/Alarm.md",
-    "Rules/Spells/Level 1/Accelerate Decelerate.md",
-    "Pictures/Monsters/Fey Spirt BGR PNG.png",
-    "Pictures/Monsters/Fey Spirt BGR PNG.png.opdownload",
     "Pictures/Spells/Summon Fey PNG.png",
+    "Pictures/Spells/Armor of Agathys PNG.png",
+    "Pictures/Monsters/Fey Spirt BGR PNG.png",
     "Pictures/Monsters/Drake Companion BGR PNG.png",
-    "Pictures/Monsters/Drake Companion BGR PNG.png.opdownload",
     "Pictures/Monsters/Beast of the Sky BGR PNG.png",
-    "Pictures/Monsters/Beast of the Sky BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "Pictures/Monsters/Beast of the Sea BGR PNG.png",
-    "Pictures/Monsters/Beast of the Sea BGR PNG.png.opdownload",
     "Pictures/Monsters/Beast of the Land BGR PNG.png",
-    "Pictures/Monsters/Beast of the Land BGR PNG.png.opdownload",
-    "Pictures/Monsters/Hound BGR PNG.png.opdownload",
-    "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
-    "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload"
+    "5 Monster Stat Blocks/Fey/Fey Spirit.md",
+    "5 Monster Stat Blocks/Dragon/Drake Companion.md",
+    "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
+    "5 Monster Stat Blocks/Beast/Beast of the Sky.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Sea.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Land.md",
+    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+    "2 Characters/Executive Outcomes/Goobus Scion Of Brainrot.md",
+    "2 Characters/Executive Outcomes/Ibrahim Canoo.md",
+    "7 Magic Items/Potions/Healing/Potion Of Healing.md",
+    "7 Magic Items/Potions/Elixir of Health.md",
+    "5 Monster Stat Blocks/Beast/Hound.md",
+    "2 Characters/Executive Outcomes/Wormomancer.md",
+    "Rules/Items/Herbalism Kit.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Draconic Sorcery Sorcerer.md",
+    "2 Characters/Executive Outcomes/Yohn Mclovin.md",
+    "Rules/Spells/Level 5/Incite Riot.md",
+    "Rules/Spells/Level 4/Find Greater Steed.md",
+    "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Multiple Type",
+    "Pictures/Monsters/Blooderfly.png.opdownload",
+    "Rules/Classes/Paladin/Paladin Features",
+    "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
+    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
+    "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
+    "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
+    "Rules/Classes/Mystic/Psionic Disciplines/Awakened",
+    "Rules/Classes/Mystic/Psionic Disciplines/Avatar"
   ]
 }
