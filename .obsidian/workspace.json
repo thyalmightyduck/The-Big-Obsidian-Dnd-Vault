@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
+                "file": "Class Selector WOP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Order of the Wu Jen Mystic"
+              "title": "Class Selector WOP"
             }
           }
         ],
@@ -403,8 +403,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7130a4c01f027bcb",
+  "active": "e97c6413d7cb39b7",
   "lastOpenFiles": [
+    "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
     "Rules/Traps and Hazards/Dehydration.md",
     "Rules/Spells/Level 6/True Seeing.md",
     "Rules/Spells/Level 5/Yolandes Regal Presence.md",
@@ -442,7 +443,6 @@
     "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
     "5 Monster Stat Blocks/Multiple Type",
     "5 Monster Stat Blocks/Fey/Fey Spirit.md",
-    "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
     "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
