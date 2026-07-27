@@ -78,57 +78,8 @@
               "icon": "lucide-file",
               "title": "Trident"
             }
-          },
-          {
-            "id": "7532d1f1dffc268a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Core Rules/Long Jump.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Long Jump"
-            }
-          },
-          {
-            "id": "e97c6413d7cb39b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Selector WOP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Class Selector WOP"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -399,12 +350,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e97c6413d7cb39b7",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "Class Selector WOP.md",
     "Rules/Classes/Mystic/Mystic Subclasses/Order of the Wu Jen Mystic.md",
     "Rules/Traps and Hazards/Dehydration.md",
     "Rules/Spells/Level 6/True Seeing.md",
@@ -442,7 +393,6 @@
     "7 Magic Items/Potions/Elixir of Health.md",
     "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
     "5 Monster Stat Blocks/Multiple Type",
-    "5 Monster Stat Blocks/Fey/Fey Spirit.md",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
     "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
