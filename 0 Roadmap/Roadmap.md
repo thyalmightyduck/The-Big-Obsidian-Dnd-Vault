@@ -1,5 +1,5 @@
 # Last Left Off
-Finished Cantrip Links
+Finished Cure Wounds links
 # Second Quest
 2 person dnd one shots 
 # Recent Added 
@@ -116,7 +116,7 @@ Finished Cantrip Links
 - [x] Champion
 	- [x] Sharp-Shooter
 	- [x] Slayer
-- [x] Cleric
+- [ ] Cleric
 	- [x] Ambition
 	- [x] Apocalypse
 	- [x] Arcana
@@ -152,6 +152,7 @@ Finished Cantrip Links
 	- [x] Twilight
 	- [x] War
 	- [x] Zeal
+	- [ ] Dragon Domain
 - [ ] Druid
 	- [x] Blighted
 	- [x] Blood

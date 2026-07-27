@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Charm Person.md",
+                "file": "Rules/Spells/Level 1/Cure Wounds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Charm Person"
+              "title": "Cure Wounds"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -373,11 +372,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "272107a4b42e6510",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "Rules/Spells/Level 1/Cure Wounds.md",
+    "Rules/Spells/Level 1/Crimson Lash.md",
+    "Rules/Spells/Level 1/Create Or Destroy Water.md",
+    "Rules/Spells/Level 1/Comprehend Languages.md",
+    "Rules/Spells/Level 1/Compelled Duel.md",
+    "Rules/Spells/Level 1/Command.md",
+    "Rules/Spells/Level 1/Color Spray.md",
+    "Rules/Spells/Level 1/Chromatic Orb.md",
+    "5 Monster Stat Blocks/Dragon/Draconic Spirit.md",
+    "Pictures/Monsters/Draconic Spirit BGRP NG.png",
+    "Pictures/Monsters/Draconic Spirit BGRP NG.png.opdownload",
+    "Rules/Spells/Level 5/Summon Dragon.md",
+    "Pictures/Spells/Summon Dragon BGR PNG.png",
+    "Pictures/Spells/Summon Dragon BGR PNG.png.opdownload",
+    "Rules/Spells/Level 2/Dragons Breath.md",
+    "Rules/Classes/Cleric/Cleric Subclasses/Dragon Domain Cleric.md",
+    "Rules/Classes/Cleric/Cleric.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Spells/Level 1/Charm Person.md",
     "Rules/Spells/Level 1/Burning Hands.md",
     "Rules/Spells/Level 1/Blood Rush.md",
-    "Rules/Spells/Level 2/Untitled.md",
     "Rules/Spells/Level 2/Branding Smite.md",
     "Rules/Spells/Level 1/Bless.md",
     "Rules/Spells/Level 1/Binding Pledge.md",
@@ -388,25 +405,11 @@
     "Rules/Spells/Level 1/Ancestral Communion.md",
     "Rules/Spells/Level 1/Alarm.md",
     "Rules/Spells/Level 1/Accelerate Decelerate.md",
-    "Rules/Spells/Level 1/Absorb Elements.md",
-    "5 Monster Stat Blocks/Fey/Fey Spirit.md",
     "Pictures/Monsters/Fey Spirt BGR PNG.png",
     "Pictures/Monsters/Fey Spirt BGR PNG.png.opdownload",
-    "Rules/Spells/Level 3/Summon Fey.md",
     "Pictures/Spells/Summon Fey PNG.png",
-    "Rules/Spells/Level 2/Knock.md",
-    "Rules/Spells/Level 4/Dimension Door.md",
-    "5 Monster Stat Blocks/Dragon/Drake Companion.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Drakewarden Ranger.md",
     "Pictures/Monsters/Drake Companion BGR PNG.png",
     "Pictures/Monsters/Drake Companion BGR PNG.png.opdownload",
-    "Rules/Spells/Level 6/True Seeing.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Corrupted Ranger Ranger.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Bloodhound Druid.md",
-    "Rules/Traps and Hazards/Dehydration.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Big Game Hunter Druid.md",
     "Pictures/Monsters/Beast of the Sky BGR PNG.png",
     "Pictures/Monsters/Beast of the Sky BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
@@ -414,12 +417,8 @@
     "Pictures/Monsters/Beast of the Sea BGR PNG.png.opdownload",
     "Pictures/Monsters/Beast of the Land BGR PNG.png",
     "Pictures/Monsters/Beast of the Land BGR PNG.png.opdownload",
-    "Pictures/Monsters/Hound BGR PNG.png",
     "Pictures/Monsters/Hound BGR PNG.png.opdownload",
-    "Pictures/Monsters/Elemental Spirit BGR PNG.png",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png.opdownload",
-    "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Multiple Type",
-    "Pictures/Monsters/Blooderfly.png.opdownload"
+    "Pictures/Monsters/Otherworldly Steed BGR PNG.png.opdownload"
   ]
 }
