@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Guiding Bolt.md",
+                "file": "Rules/Spells/Level 1/Heroism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Guiding Bolt"
+              "title": "Heroism"
             }
           }
         ],
@@ -324,6 +324,12 @@
   },
   "active": "73bc2f8d6fb102d5",
   "lastOpenFiles": [
+    "Rules/Classes/Sorcerer/Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Heroic Sorcery.md",
+    "Rules/Spells/Level 1/Heroism.md",
+    "Rules/Spells/Level 1/Hellish Rebuke.md",
+    "Rules/Spells/Level 1/Healing Word.md",
+    "Rules/Spells/Level 1/Guiding Bolt.md",
     "Rules/Spells/Level 1/Grease.md",
     "Rules/Spells/Level 1/Goodberry.md",
     "Rules/Spells/Level 1/Gentle Repose.md",
@@ -344,12 +350,6 @@
     "Rules/Spells/Level 1/Divine Favor.md",
     "Rules/Spells/Level 1/Dissonant Whispers.md",
     "Rules/Spells/Level 1/Disguise Self.md",
-    "Rules/Spells/Level 1/Detect Poison and Disease.md",
-    "Rules/Spells/Level 1/Detect Magic.md",
-    "Rules/Spells/Level 1/Detect Evil And Good.md",
-    "Rules/Classes/Monk/Monk Subclasses/Warrior of the Leaden Crown Monk.md",
-    "Rules/Spells/Level 1/Cure Wounds.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Paladin/Paladin Features",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Pictures/Spells/Summon Fey PNG.png",

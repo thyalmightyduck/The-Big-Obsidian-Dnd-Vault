@@ -10,14 +10,7 @@ A creature of your choice that you can see within range regains [[Hit Point]] 
 
 **Using a Higher-Level Spell Slot:** The healing increases by 2d4 for each spell slot level above 1
 
-# Player’s Handbook (2014)
-_Evocation Level 1_
-
-**Casting Time:** [[Bonus action]]
-**Range:** 60 Feet
-**Components:** V
-**Duration:** Instantaneous
-
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
-
-**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+**Classes:** [[Apothecary]], [[Bard]], [[Cleric]], [[Druid]], [[Tamer]]
+**Subclasses:** [[Alchemist Artificer]], [[Cartographer Artificer]], [[College of Lore Bard]], [[Divine Soul Sorcerer]]
+**Species:** [[Halfling (Mark of Healing)]]
+**Feats:** [[Divinely Favored]], [[Magic Initiate]], [[Mark of Healing]], [[Strixhaven Initiate]]
