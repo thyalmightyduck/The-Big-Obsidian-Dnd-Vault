@@ -10,3 +10,8 @@ You place a curse on a creature that you can see within range. Until the spell e
 If the target drops to 0 [[Hit Point]] before this spell ends, you can take a [[Bonus Action]] on a later turn to curse a new creature.
 
 **Using a Higher-Level Spell Slot:** Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+
+**Classes:** [[Warlock]]
+**Subclasses:** [[Great Old One Patron Warlock]], [[Hand of Dread Pugilist]], [[Primordial Archer Ranger]]
+**Species:** [[Elf (Zendikar Mul Daya Nation)]], [[Hexblood]]
+**Feats:** [[Divinely Favored]], [[Fey Touched]], [[Fey-Touched]], [[Initiate of High Sorcery]], [[Magic Initiate]], [[Shadowmoor Hexer]], [[Vampire Touched]]

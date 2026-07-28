@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Heroism.md",
+                "file": "Rules/Spells/Level 1/Hunters Mark.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heroism"
+              "title": "Hunters Mark"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,11 +321,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "73bc2f8d6fb102d5",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "Rules/Spells/Level 1/Hunters Mark.md",
+    "Rules/Spells/Level 1/Ice Knife.md",
+    "Rules/Spells/Level 1/Hex.md",
+    "Rules/Spells/Level 1/Hunter_s Mark(1).md",
+    "Rules/Spells/Level 1/Heroism.md",
     "Rules/Classes/Sorcerer/Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Heroic Sorcery.md",
-    "Rules/Spells/Level 1/Heroism.md",
     "Rules/Spells/Level 1/Hellish Rebuke.md",
     "Rules/Spells/Level 1/Healing Word.md",
     "Rules/Spells/Level 1/Guiding Bolt.md",
@@ -346,10 +349,6 @@
     "Rules/Spells/Level 1/Expeditious Retreat.md",
     "Rules/Spells/Level 1/Entangle.md",
     "Rules/Spells/Level 1/Ensnaring Strike.md",
-    "Rules/Spells/Level 1/Divine Smite.md",
-    "Rules/Spells/Level 1/Divine Favor.md",
-    "Rules/Spells/Level 1/Dissonant Whispers.md",
-    "Rules/Spells/Level 1/Disguise Self.md",
     "Rules/Classes/Paladin/Paladin Features",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Pictures/Spells/Summon Fey PNG.png",

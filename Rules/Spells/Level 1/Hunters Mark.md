@@ -11,3 +11,7 @@ If the target drops to 0 [[Hit Point]] before this spell ends, you can take a�
 
 **Using a Higher-Level Spell Slot:** Your [[Concentration]] can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
+**Classes:** [[Ranger]]
+**Subclasses:** [[Oath of Vengeance Paladin]], [[Oath of Zeal Paladin]], [[The Predator Warlock]]
+**Species:** [[Half-Orc (Mark of Finding)]], [[Human (Mark of Finding)]]
+**Feats:** [[Fey Touched]], [[Fey-Touched]], [[Mark of Finding]]

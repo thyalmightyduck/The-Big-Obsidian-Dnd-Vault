@@ -1,5 +1,5 @@
 # Last Left Off
-Finished Cure Wounds links
+Finished Hunters Mark links
 # Second Quest
 2 person dnd one shots 
 # Recent Added 
