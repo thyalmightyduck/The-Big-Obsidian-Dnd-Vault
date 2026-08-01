@@ -1,4 +1,4 @@
-# WOP Gloom Stalker Ranger
+# Gloom Stalker Ranger
 ## Player’s Handbook (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Favored Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -90,6 +90,32 @@ Druidic Warrior. You learn two [[Druid]] cantrips of your choice. [[Guidance
 ## Level 3: Ranger Subclass
 You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
+### Gloom Stalker
+_Draw on Shadow Magic to Fight Your Foes_
+Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.
+
+### Level 3: Dread Ambusher
+You have mastered the art of creating fearsome ambushes, granting you the following benefits.
+**Ambusher's Leap:** At the start of your first turn of each combat, your [[Speed]] increases by 10 feet until the end of that turn.
+**Dreadful Strike:** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+**Initiative Bonus:** When you roll [[Initiative]], you can add your Wisdom modifier to the roll.
+
+### Level 3: Gloom Stalker Spells
+When you reach a Ranger level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.
+
+**Gloom Stalker Spells:**
+
+| Ranger Level | Spells                   |
+| ------------ | ------------------------ |
+| 3rd          | [[Disguise Self]]        |
+| 5th          | [[Rope Trick]]           |
+| 9th          | [[Fear]]                 |
+| 13th         | [[Greater Invisibility]] |
+| 17th         | [[Seeming]]              |
+### Level 3: Umbral Sight
+You gain Darkvision with a range of 60 feet. If you already have Darkvision when you gain this feature, its range increases by 60 feet.
+You are also adept at evading creatures that rely on Darkvision. While entirely in [[Darkness]], you have the [[Invisible]] condition to any creature that relies on Darkvision to see you in that [[Darkness]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
@@ -101,6 +127,9 @@ Your [[Speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]]. 
 
 ## Level 7: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 7: Iron Mind
+You have honed your ability to resist mind-altering powers. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
@@ -118,6 +147,11 @@ Decrease Exhaustion. Whenever you finish a [[Short Rest]], your [[Exhaustion]
 ## Level 11: Subclass Feature
 You gain a feature from your Ranger Subclass.
 
+### Level 11: Stalker's Flurry
+The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you use the Dreadful Strike effect of your Dread Ambusher feature, you can cause one of the following additional effects.
+**Sudden Strike:** You can make another attack with the same weapon against a different creature that is within 5 feet of the original target and that is within the weapon's range.
+**Mass Fear:** The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [[Frightened]] condition until the start of your next turn.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -131,6 +165,9 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ## Level 15: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 15: Shadowy Dodge
+When a creature makes an attack roll against you, you can take a [[Reaction]] to impose [[Disadvantage]] on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.

@@ -90,7 +90,7 @@ If a Cunning Strike effect requires a [[saving throw]], the DC equals 8 plus you
 
 Poison (Cost: 1d6). You add a toxin to your strike, forcing the target to make a Constitution [[saving throw]]. On a failed save, the target has the [[Poisoned]] condition for 1 minute. At the end of each of its turns, the [[Poisoned]] target repeats the save, ending the effect on itself on a success.
 
-To use this effect, you must have a [[Poisoner's Kit]] on your person.
+To use this effect, you must have a [[Poisoners Kit]] on your person.
 
 Trip (Cost: 1d6). If the target is Large or smaller, it must succeed on a Dexterity [[saving throw]] or have the [[Prone]] condition.
 

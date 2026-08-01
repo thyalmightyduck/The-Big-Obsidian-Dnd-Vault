@@ -8,7 +8,7 @@ Owner: [[Mati Tommten]]
 - Potion of Climbing _(50 gp)_  
 - Potion of Superior Healing _(500 gp)_  
 - [[Oil]] ([[flask]]) _(1 sp)_  
-- [[Poisoner's Kit]] _(50 gp)_  
+- [[Poisoners Kit]] _(50 gp)_  
 - Potion of Greater Healing _(100 gp)_  
 - Potion of Gaseous Form _(500 gp)_  
 - [[Antitoxin]] ([[vial]]) _(50 gp)_  

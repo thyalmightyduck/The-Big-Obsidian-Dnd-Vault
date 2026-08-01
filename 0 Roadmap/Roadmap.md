@@ -286,10 +286,10 @@ Finished Hunters Mark links
 	- [x] Bloodhound
 	- [ ] Corrupted Ranger (Temp Taken Down)
 	- [x] Drakewarden
-	- [ ] Fey Wanderer
-	- [ ] Gloom Stalker
-	- [ ] Green Stalker
-	- [ ] Green Reaper
+	- [x] Fey Wanderer
+	- [x] Gloom Stalker
+	- [ ] Green Stalker (Temp Removed)
+	- [x] Green Reaper
 	- [ ] Grim Harbinger
 	- [ ] Hallow Warden
 	- [ ] Horizon Walker
