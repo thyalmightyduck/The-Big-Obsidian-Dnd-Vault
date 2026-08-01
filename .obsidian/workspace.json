@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "73bc2f8d6fb102d5",
+            "id": "9450d89ba2a127a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Hunters Mark.md",
+                "file": "Rules/Classes/Ranger/Ranger Subclasses/Grim Harbinger Ranger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hunters Mark"
+              "title": "Grim Harbinger Ranger"
+            }
+          },
+          {
+            "id": "6aa5649cf5f17c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Monster Stat Blocks/Undead/Grim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -112,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2786357becde5cec",
@@ -301,7 +329,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,8 +350,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "9450d89ba2a127a1",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Undead/Grim.md",
+    "Pictures/Monsters/Grim BGR PNG.png",
+    "Pictures/Monsters/Grim BGR PNG.png.opdownload",
+    "Rules/Spells/Level 4/Intrusive Despair.md",
+    "Rules/Spells/Level 2/Rope Trick.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Grim Harbinger Ranger.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Green Reaper Ranger.md",
+    "Rules/Items/Poisoners Kit.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Gloom Stalker Ranger.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
     "Rules/Spells/Level 1/Hunters Mark.md",
     "Rules/Spells/Level 1/Ice Knife.md",
     "Rules/Spells/Level 1/Hex.md",
@@ -339,16 +379,6 @@
     "Rules/Spells/Level 1/Fog Cloud.md",
     "Untitled.md",
     "Rules/Spells/Level 1/Find Familiar.md",
-    "Rules/Spells/Level 1/Feather Fall.md",
-    "Rules/Species/Half-Elf (Mark Of Storm).md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Archfey Warlock.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Urban Ranger Ranger.md",
-    "Rules/Spells/Level 1/False Life.md",
-    "Rules/Spells/Level 1/Faerie Fire.md",
-    "Rules/Classes/Warlock/Warlock.md",
-    "Rules/Spells/Level 1/Expeditious Retreat.md",
-    "Rules/Spells/Level 1/Entangle.md",
-    "Rules/Spells/Level 1/Ensnaring Strike.md",
     "Rules/Classes/Paladin/Paladin Features",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Pictures/Spells/Summon Fey PNG.png",
@@ -359,7 +389,6 @@
     "Pictures/Monsters/Hound BGR PNG.png",
     "Pictures/Monsters/Fey Spirt BGR PNG.png",
     "Pictures/Monsters/Elemental Spirit BGR PNG.png",
-    "Pictures/Monsters/Drake Companion BGR PNG.png",
     "5 Monster Stat Blocks/Multiple Type",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
     "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
@@ -367,7 +396,6 @@
     "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
     "Rules/Classes/Mystic/Psionic Disciplines/Awakened",
     "Rules/Classes/Mystic/Psionic Disciplines/Avatar",
-    "Rules/Classes/Mystic/Psionic Disciplines",
-    "Rules/Skills/Lord of the Rings"
+    "Rules/Classes/Mystic/Psionic Disciplines"
   ]
 }

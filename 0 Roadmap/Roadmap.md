@@ -290,7 +290,7 @@ Finished Hunters Mark links
 	- [x] Gloom Stalker
 	- [ ] Green Stalker (Temp Removed)
 	- [x] Green Reaper
-	- [ ] Grim Harbinger
+	- [x] Grim Harbinger
 	- [ ] Hallow Warden
 	- [ ] Horizon Walker
 	- [ ] Hunter

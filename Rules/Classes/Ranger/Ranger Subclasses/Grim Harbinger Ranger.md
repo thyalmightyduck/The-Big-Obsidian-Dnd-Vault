@@ -1,4 +1,4 @@
-# WOP Grim Harbinger Ranger
+# Grim Harbinger Ranger
 ## The Crooked Moon (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Favored Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -90,6 +90,30 @@ Druidic Warrior. You learn two [[Druid]] cantrips of your choice. [[Guidance
 ## Level 3: Ranger Subclass
 You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
+### Grim Harbinger
+_Seal Fate as an Omen of Doom_
+Grim harbingers wander places touched by death, serving as both a watcher of the dead and the herald of doom for those whose lives are running out. At their side is a guardian spirit and omen of death known as a grim, a constant companion that aids in performing their shared, grave duty.
+
+### Level 3: Grim Harbinger Spells
+When you reach a Ranger level specified in the Grim Harbinger Spells table, you thereafter always have the listed spell prepared.
+
+**Grim Harbinger Spells:**
+
+| Ranger Level | Spells                                           |
+| ------------ | ------------------------------------------------ |
+| 3rd          | [[Bane]]                                         |
+| 5th          | [[Hold Person]]                                  |
+| 9th          | [[Fear]]                                         |
+| 13th         | [[Intrusive Despair]]                            |
+| 17th         | [[Dream]] |
+
+### Level 3: Omen of Doom
+As a [[Bonus Action]], you target a creature you can see within 90 feet of you and magically seal its doom for 1 hour. Once per turn when you hit the doomed target with an attack, it takes an extra 1d6 Necrotic damage.
+In addition, a ghostly creature called the [[Grim]] appears in an unoccupied space within 30 feet of the target. Grims most often appear as black, spectral hounds, but you can choose an appearance appropriate to its stat block.
+The grim is [[Friendly]] to you and your allies, and it obeys your commands. It vanishes if you die, when the doomed creature dies, when it is reduced to 0 [[Hit Point]]s, or when you use this feature again.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Short Rest]] or [[Long Rest]]. You can also expend a spell slot to restore an expended use (no action required).
+**The Grim in Combat:** In combat, the grim acts during your turn. It can move and use its [[Reaction]] on its own, but the only action it takes is the [[Dodge action]] unless you take a [[Bonus Action]] to command it to take an action in its stat block or some other action. You can also command it as part of the [[Bonus Action]] you take to use Omen of Doom, or you can sacrifice one of your attacks when you take the [[Attack action]] to command the grim to take the Ominous Rend action. If you have the [[Incapacitated]] condition, the grim acts on its own and is not limited to the [[Dodge action]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
@@ -101,6 +125,12 @@ Your [[Speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]]. 
 
 ## Level 7: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 7: Harbinger of Doom
+Your control over doom grows stronger, granting the following benefits.
+**Graveyard Hunter:** The [[Grim]]’s Ominous Rend action deals an extra 1d6 Necrotic damage on a hit.
+**Mortal Reminder:** When you deal damage to a creature doomed by your Omen of Doom, you can change the damage type to Necrotic.
+**Mounting Dread:** Necrotic damage dealt by you or the grim ignores [[Resistance]].
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
@@ -118,6 +148,12 @@ Decrease Exhaustion. Whenever you finish a [[Short Rest]], your [[Exhaustion]
 ## Level 11: Subclass Feature
 You gain a feature from your Ranger Subclass.
 
+### Level 11: Grave Bond
+You draw deeper strength from the grave. You gain the following benefits.
+**Ghastly Hound:** The grim gains [[Resistance]] to Bludgeoning, Piercing, and Slashing damage.
+**Grave Fortitude:** You gain [[Resistance]] to Necrotic damage.
+**Inescapable Fate:** When the target of your Omen of Doom succeeds on a saving throw, you can take a [[Reaction]] to force it to reroll the save with [[Disadvantage]] and use the new roll. Once you cause a save to fail with this benefit, you can't use it again until the current Omen of Doom ends.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -131,6 +167,11 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ## Level 15: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 15: Sealed Fate
+The strength of your Omen of Doom reaches its peak, granting the following benefits while it is active.
+**Jaws of Doom:** The [[Grim]]’s Ominous Rend action deals an extra 1d6 Necrotic damage (for a total of 2d6 extra damage).
+**Marked for Death:** When you use Omen of Doom, you can force the target to make a Charisma saving throw against your spell save DC. On a failed save, until the current Omen of Doom ends, the target has [[Vulnerability]] to damage dealt by the grim and to the extra damage you deal with Omen of Doom. Once you use this benefit, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 4+ spell slot (no action required).
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
