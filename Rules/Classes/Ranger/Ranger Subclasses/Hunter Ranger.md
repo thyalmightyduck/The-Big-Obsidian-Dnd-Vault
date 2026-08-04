@@ -1,4 +1,4 @@
-# WOP Hunter Ranger
+# Hunter Ranger
 ## Player’s Handbook (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Favored Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -90,6 +90,18 @@ Druidic Warrior. You learn two [[Druid]] cantrips of your choice. [[Guidance
 ## Level 3: Ranger Subclass
 You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
+### Hunter
+_Protect Nature and People from Destruction_
+You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
+
+### Level 3: Hunter's Prey
+You gain one of the following feature options of your choice. Whenever you finish a [[Short Rest]] or [[Long Rest]], you can replace the chosen option with the other one.
+**Colossus Slayer:** Your tenacity can wear down even the most resilient of foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it's missing any of its [[Hit Point]]s. You can deal this extra damage only once per turn.
+**Horde Breaker:** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
+
+### Level 3: Hunter's Lore
+You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
@@ -101,6 +113,11 @@ Your [[Speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]]. 
 
 ## Level 7: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 7: Defensive Tactics
+You gain one of the following feature options of your choice. Whenever you finish a [[Short Rest]] or [[Long Rest]], you can replace the chosen option with the other one.
+**Escape the Horde:** [[Opportunity Attack]]s have [[Disadvantage]] against you.
+**Multiattack Defense:** When a creature hits you with an attack roll, that creature has [[Disadvantage]] on all other attack rolls against you this turn.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
@@ -118,6 +135,9 @@ Decrease Exhaustion. Whenever you finish a [[Short Rest]], your [[Exhaustion]
 ## Level 11: Subclass Feature
 You gain a feature from your Ranger Subclass.
 
+### Level 11: Superior Hunter's Prey
+Once per turn when you deal damage to a creature marked by your Hunter's Mark, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -131,6 +151,9 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ## Level 15: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 15: Superior Hunter's Defense
+When you take damage, you can take a [[Reaction]] to give yourself [[Resistance]] to that damage and any other damage of the same type until the end of the current turn.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.

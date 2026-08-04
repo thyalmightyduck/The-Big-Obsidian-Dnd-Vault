@@ -102,7 +102,7 @@ stats: [12, 18, 14, 12, 14, 12]
 | Yes    | [[Shortsword]]                          |        | 1   |      |         |
 | Yes    | [[Quarterstaff]]                        |        | 1   |      |         |
 |        | [[Herbalism kit]]                       |        | 1   |      |         |
-|        | [[Healer's Kit]]                        |        | 1   |      |         |
+|        | [[Healers Kit]]                        |        | 1   |      |         |
 |        | Book Of Philosophy                      |        | 1   |      |         |
 |        | [[Lamp]]                                |        | 1   |      |         |
 |        | [[Oil]] Flask                           |        | 3   |      |         |

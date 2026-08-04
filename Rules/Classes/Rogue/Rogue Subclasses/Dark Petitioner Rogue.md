@@ -1,4 +1,4 @@
-# WOP Dark Petitioner Rogue 
+# Dark Petitioner Rogue 
 ## Chronicles of Eberron
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -77,6 +77,24 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
+### Dark Petitioner
+As a rogue, you know that the path to peace and prosperity is rarely as virtuous as the Vassals of the Sovereign Host claim. Victory must be won by pragmatism, sacrifice, and the blood of those who aren't afraid to get their hands dirty—like you. With these tenets, you ask the Dark Six for the gift of their power.
+Though some Dark Petitioners worship the Six as great leaders to venerate and emulate, many among the Five Nations don't hold their patrons in such high esteem. For these petitioners, their rites and rituals instead serve to appease the dark powers, and to turn the Six's attention to their enemies. Do you enjoy the power of Dol Azur's blessing on a poisoned blade? Or do you only hope that your offerings to the Mockery will cause your opponent to stumble first?
+
+### Level 3: Spellcasting
+When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the [[cleric spell list]].
+**Cantrips:** You learn the [[guidance]] cantrip and two cantrips of your choice from the following list: [[dancing lights]], [[friends]], [[message]], [[resistance]], [[spare the dying]], [[thaumaturgy]], [[true strike]], and [[Travelers enigma]]. At 10th level, you learn another cantrip of your choice from this list.
+**Spell Slots:** The Dark Petitioner Spellcasting table shows how many spell slots you have to cast your Cleric Spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+For example, if you know the 1st-level spell [[cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[cure wounds]] using either slot.
+**Spells Known of 1st-Level and Higher:** You know three 1st-level cleric spells of your choice. The Spells Known column of the Dark Petitioner Spellcasting table shows when you learn more cleric spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+Whenever you gain a level in this class, you can replace one of the cleric spells you know with another spell of your choice from the cleric spell list. The new spell must be of a level for which you have spell slots.
+**Spellcasting Ability:** Wisdom is your spellcasting ability for your cleric spells, since your spells come from your appeasement or veneration of the Dark Six. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+**Spell save DC** = 8 + Wisdom modifier + Proficiency Bonus
+**Spell attack modifier** = Wisdom modifier + Proficiency Bonus
+
+### Level 3: Pragmatic Petition
+You ask the Six for their guidance and protection when you take advantage of an opening, no matter how dishonorable another Vassal might consider it. When you hit a creature with an attack on your turn, you can use the bonus action granted by your Cunning Action to cast one of your Dark Petitioner cantrips, regardless of its normal casting time.
+
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
@@ -114,6 +132,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Level 9: Azur's Advantage
+If you roll a 1 or 2 on one or more of your Sneak Attack dice when dealing damage to a creature that is blinded, charmed, deafened, frightened, grappled, incapacitated, poisoned, prone or restrained, you can reroll those dice and must use the new roll.
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -125,6 +146,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 13: Shadow's Veil
+Through careful positioning, cunning and a divine gift or two, you've learned to slip out of a weakened creature's sight. When you hit a creature with an attack, you can choose to become [[invisible]] to that creature for 1 minute or until you dismiss this effect (no action required). This invisibility ends early if you deal damage to a creature or force a creature to make a saving throw.
+Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot to use this feature again.
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -143,6 +168,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 17: Keeper's End
+When you reduce a creature to 0 hit points, you can steal that creature's soul and keep it joined with your own. While a creature's soul is joined to yours, that creature can be restored to life only by a [[wish]] spell.
+Additionally, when you have to make a death saving throw, you can instead choose to release a soul you have stolen. When you do so, you regain 1 hit point, and that soul is no longer joined to yours.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

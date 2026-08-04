@@ -1,4 +1,4 @@
-# WOP Highway Rider Rogue
+# Highway Rider Rogue
 ## Grim Hallow: Player’s Guide (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -77,6 +77,24 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
+### Highway Rider
+_A Steed Makes the Best Partner in Crime_
+Stalking the backroads, the Highway Rider strikes fear into the heart of every traveler and penny-pinching merchant. They run down their prize astride a swift and loyal steed—and then make a quick getaway.
+
+### Level 3: Hair Trigger
+You gain proficiency with [[Blackpowder Pistols]]. In addition, when you roll [[Initiative]] and don't have [[Disadvantage]] on that roll, you can immediately take a [[Reaction]] for one of the following options:
+- Make one attack with a weapon or [[Unarmed Strike]].
+- Move up to your [[Speed]] without provoking [[Opportunity Attack]]s.
+- A controlled mount moves up to its [[Speed]] without provoking [[Opportunity Attack]]s.
+- Take the [[Dodge Action]] or [[Utilize action]].
+
+### Level 3: Trusty Mount
+You always have the [[Find Steed]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence.
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [[Long Rest]].
+
+### Level 3: Ride Them Down
+You don't need [[Advantage]] on the attack roll to Sneak Attack if you or a controlled mount you ride moves at least 20 feet, and you don't have [[Disadvantage]] on the attack roll.
+
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
@@ -114,6 +132,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Level 9: Horse Lord
+You can spend 1 minute grooming and caring for your mount, at the end of which it gains a number of [[Temporary Hit Point]]s equal to twice your Rogue level.
+In addition, your cunning extends to your steed. While you control a mount, it can take one of the following actions as a [[Bonus Action]]: [[Dash Action]], [[Disengage Action]], or [[Dodge Action]].
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -125,6 +147,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 13: True Grit
+You gain proficiency in Constitution saving throws. In addition, when you are subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -143,6 +168,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 17: Desperado
+When you are reduced to 0 [[Hit Point]]s and not killed outright, you can use your Hair Trigger feature immediately before you fall [[Unconscious]].
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

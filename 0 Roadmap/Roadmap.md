@@ -291,35 +291,35 @@ Finished Hunters Mark links
 	- [ ] Green Stalker (Temp Removed)
 	- [x] Green Reaper
 	- [x] Grim Harbinger
-	- [ ] Hallow Warden
-	- [ ] Horizon Walker
-	- [ ] Hunter
-	- [ ] Monster Slayer
-	- [ ] Primordial Archer
-	- [ ] Rocborn
-	- [ ] Swarmkeeper
-	- [ ] Trail Warden
-	- [ ] Trapper
-	- [ ] Urban
-	- [ ] Vermin Lord 
-	- [ ] Winter Walker
+	- [x] Hallow Warden
+	- [x] Horizon Walker
+	- [x] Hunter
+	- [x] Monster Slayer
+	- [x] Primordial Archer
+	- [x] Rocborn
+	- [x] Swarmkeeper
+	- [x] Trail Warden
+	- [x] Trapper
+	- [x] Urban
+	- [x] Vermin Lord 
+	- [x] Winter Walker
 - [ ] Rogue
-	- [ ] Arachnoid Stalker
-	- [ ] Arcane Trickster
-	- [ ] Assassin
-	- [ ] Dark Petitioner
-	- [ ] Grim Surgeon
-	- [ ] Highway Rider
-	- [ ] Inquisitive
-	- [ ] Mastermind
-	- [ ] Misfortune Bringer
-	- [ ] Phantom 
-	- [ ] Runetagger
-	- [ ] Sanguine Thief
-	- [ ] Scion of the Three
-	- [ ] Scout
-	- [ ] Shadow Stalker
-	- [ ] Sinner
+	- [x] Arachnoid Stalker
+	- [x] Arcane Trickster
+	- [x] Assassin
+	- [x] Dark Petitioner
+	- [x] Grim Surgeon
+	- [x] Highway Rider
+	- [x] Inquisitive
+	- [x] Mastermind
+	- [x] Misfortune Bringer
+	- [x] Phantom 
+	- [x] Runetagger
+	- [x] Sanguine Thief
+	- [x] Scion of the Three
+	- [x] Scout
+	- [x] Shadow Stalker
+	- [x] Sinner
 	- [ ] Smuggler
 	- [ ] Soulknife
 	- [ ] Swashbuckler

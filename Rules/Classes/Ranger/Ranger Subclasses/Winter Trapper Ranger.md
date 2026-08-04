@@ -1,4 +1,4 @@
-# WOP Winter Trapper Ranger
+# Winter Trapper Ranger
 ## The Griffon’s Saddlebag, Book 1 (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Favored Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -90,6 +90,27 @@ Druidic Warrior. You learn two [[Druid]] cantrips of your choice. [[Guidance
 ## Level 3: Ranger Subclass
 You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
+### Winter Trapper
+_Employ Icy Snares to Render Your Quarry Frozen and Helpless_
+Winter Trappers are masters of control and keep both their adversaries and quarries helpless and at bay. Originating from the Everglacier, these trained hunters are experts at staying upright when others would surely fall, and have learned how to use magic and acrobatics to keep both themselves and their allies out of harm's reach.
+
+### Level 3: Pin Down
+You learn how to keep your prey exactly where you want them. Once per turn when you hit a creature with a weapon or an [[Unarmed Strike]], you can cause it to take an extra 1d6 damage of the attack's normal damage type and reduce the creature's [[Speed]] by 10 feet until the start of your next turn.
+When you reach Ranger level 11, this extra damage increases to 1d8, and the target also can't make [[Opportunity Attack]]s until the start of your next turn.
+
+### Level 3: Winter Trapper Spells
+When you reach a Ranger level specified in the Winter Trapper Spells table, you thereafter always have the listed spells prepared.
+
+**Winter Trapper Spells:**
+
+| Ranger Level | Spells                                                           |
+| ------------ | ---------------------------------------------------------------- |
+| 3rd          | [[Ice Knife]]                                                    |
+| 5th          | [[Mirror Image]]                                                 |
+| 9th          | [[Sleet Storm]]                                                  |
+| 13th         | [[Hallucinatory terrain]]                                        |
+| 17th         | [[Hold Monster]] |
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
@@ -101,6 +122,12 @@ Your [[Speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]]. 
 
 ## Level 7: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 7: Arctic Predator
+Your archetype's wintry history grants you the following benefits.
+**Helpless Prey:** When you make an attack against a target that has the [[Prone]] condition while you're more than 5 feet away from it, you don't have [[Disadvantage]] on the attack roll as a result of that condition.
+**Ice Walker:** [[Difficult Terrain]] composed of ice or snow doesn't cost you extra movement, and you have [[Advantage]] on Dexterity (Stealth) checks while in icy or snowy terrain.
+**Sure-Footed:** You can't have the [[Prone]] condition unless you also have the [[Incapacitated]] condition.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
@@ -118,6 +145,10 @@ Decrease Exhaustion. Whenever you finish a [[Short Rest]], your [[Exhaustion]
 ## Level 11: Subclass Feature
 You gain a feature from your Ranger Subclass.
 
+### Level 11: Magic Snare
+As a [[Bonus Action]], you can imperceptibly create a magical trap in the ground at your feet. The first Large or smaller creature other than you that enters that space in the next minute springs the trap and must make a Dexterity saving throw against your spell save DC; the trap can't be sprung by you or creatures you designate when you create it. On a failed save, a creature takes 2d8 Piercing damage, and its [[Speed]] is reduced to 0 until the end of your next turn. On a successful save, a creature takes half as much damage only.
+A creature that can see [[Invisible]] objects (such as one benefiting from [[See Invisibility]] or Truesight) can see these traps. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -131,6 +162,9 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ## Level 15: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 15: Tripped Defenses
+You have learned to use a creature's mistakes against them. When a creature you can see within 5 feet of you misses you with an attack roll, you can take a [[Reaction]] to attempt to throw it off balance. If the target is a Large or smaller creature, it has the [[Prone]] condition; otherwise, its [[Speed]] is halved until the end of the current turn unless it has [[Immunity]] to the [[Prone]] condition. Immediately after you do this, you can either make one attack with a weapon or an [[Unarmed Strike]] against that creature or move up to half your [[Speed]] without provoking an [[Opportunity Attack]] from that creature.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.

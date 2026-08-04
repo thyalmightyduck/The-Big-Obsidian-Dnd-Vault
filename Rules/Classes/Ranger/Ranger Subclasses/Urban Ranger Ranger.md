@@ -1,4 +1,4 @@
-# WOP Urban Ranger 
+# Urban Ranger 
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Favored Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -90,6 +90,28 @@ Druidic Warrior. You learn two [[Druid]] cantrips of your choice. [[Guidance
 ## Level 3: Ranger Subclass
 You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
+### Urban Ranger
+Urban rangers are less accustomed to nature and the wilds, but to the rooftops and guerilla tactics of city warfare. Training for maneuverability and stealth amongst ruined buildings, and twisting streets, these rangers are at home amongst the ruins and rubble. They are agile runners, skilled snipers, and always able to know where the best vantage points against their enemies are.
+
+### Level 3: Urban Ranger Magic
+You learn an additional spell when you reach certain levels in this class, as shown in the Urban Ranger Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+**Urban Ranger Spells:**
+
+| Ranger Level | Spells                                                                |
+| ------------ | --------------------------------------------------------------------- |
+| 3rd          | [[feather fall]]                                                      |
+| 5th          | [[invisibility]]                                                      |
+| 9th          | [[haste]]                                                             |
+| 13th         | [[dimension door]]                                                    |
+| 17th         | [[animate objects]] |
+### Level 3: Gutter Runner
+You gain a climb speed equal to your walking speed, and proficiency in the Athletics and Acrobatics skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+In addition, when you take the [[Dash action]] on your turn, you can move through other creature's spaces without penalty (but not stop there). When you do, your movement doesn't provoke opportunity attacks.
+
+### Level 3: Vantage Point
+When you make a ranged weapon attack against a creature, you gain advantage on the attack roll if there are no other creatures within 5 feet of that target, or if you are 20 feet or more above the target and that creature doesn't have cover.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
@@ -101,6 +123,9 @@ Your [[Speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]]. 
 
 ## Level 7: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 7: Rooftop Mobility
+Your movement speed increases by 10 feet, and you can take the [[Dash action]] as a bonus action on your turn. In addition, you have mastered the means to propel yourself forwards and upwards when you move and climb. When you take the [[Dash action]] on your turn, your jumping distance increases to match your movement speed.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
@@ -118,6 +143,9 @@ Decrease Exhaustion. Whenever you finish a [[Short Rest]], your [[Exhaustion]
 ## Level 11: Subclass Feature
 You gain a feature from your Ranger Subclass.
 
+### Level 11: Perfect Position
+When you attack a creature with the benefits of your Vantage Point feature, you deal an additional 2d6 damage to the target, and score a critical hit on a d20 roll of 19-20.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -131,6 +159,9 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ## Level 15: Subclass Feature
 You gain a feature from your Ranger Subclass.
+
+### Level 15: Sitting Duck
+Once on your turn, when you hit a creature that did not move on its last turn with a ranged weapon attack, that attack automatically becomes a critical hit.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.

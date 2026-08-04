@@ -56,31 +56,31 @@
             }
           },
           {
-            "id": "c510af688eda2804",
+            "id": "bc71d481f0faa44c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/Species Book View - 5etools.pdf"
+                "file": "Rules/Classes/Rogue/Rogue Subclasses/Smuggler Rogue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Species Book View - 5etools"
-            }
-          },
-          {
-            "id": "31cf5ea0b4459690",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Smuggler Rogue"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: long",
+                "query": "file: invisi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -348,38 +348,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "31cf5ea0b4459690",
+  "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
-    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Sinner Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Shadow Stalker Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Scout Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Scion of the Three Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Sanguine Thief Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Runetagger Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Phantom Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Misfortune Bringer Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Mastermind Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Inquisitive Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Highway Rider Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Grim Surgeon Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Dark Petitioner Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Assassin Rogue.md",
+    "Rules/Items/Disguise Kit.md",
+    "5 Monster Stat Blocks/Monstrosity/Crag Cat.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Arcane Trickster Rogue.md",
+    "Rules/Spells/Level 2/Invisibility.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Arachnoid Stalker Rogue.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Winter Walker Ranger.md",
+    "Pictures/Monsters/Crag Cat BGR PNG.png",
+    "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Monstrosity/Yeti.md",
+    "Pictures/Monsters/Yeti BGR PNG.png",
+    "Pictures/Monsters/Yeti BGR PNG.png.opdownload",
+    "Rules/Spells/Level 1/Consumption.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Winter Trapper Ranger.md",
+    "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
+    "Pictures/Monsters/Swarm of Vermin BGR PNG.png",
+    "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",
+    "Rules/Spells/Level 1/Wrathful Smite.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Vermin Lord Ranger.md",
     "PDFs/Species Book View - 5etools.pdf",
     "PDFs",
     "New folder",
-    "Rules/Spells/Level 4/Intrusive Despair.md",
-    "Rules/Spells/Level 2/Rope Trick.md",
-    "Rules/Items/Poisoners Kit.md",
     "Pictures/Monsters/Grim BGR PNG.png",
-    "5 Monster Stat Blocks/Undead/Grim.md",
-    "Rules/Spells/Level 1/Hunters Mark.md",
-    "Rules/Spells/Level 1/Ice Knife.md",
-    "Rules/Spells/Level 1/Hex.md",
-    "Rules/Spells/Level 1/Hunter_s Mark(1).md",
-    "Rules/Spells/Level 1/Heroism.md",
-    "Rules/Classes/Sorcerer/Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Heroic Sorcery.md",
-    "Rules/Spells/Level 1/Hellish Rebuke.md",
-    "Rules/Spells/Level 1/Healing Word.md",
-    "Rules/Spells/Level 1/Guiding Bolt.md",
-    "Rules/Spells/Level 1/Grease.md",
-    "Rules/Spells/Level 1/Goodberry.md",
-    "Rules/Spells/Level 1/Gentle Repose.md",
-    "Rules/Spells/Level 1/Fog Cloud.md",
-    "Untitled.md",
-    "Rules/Spells/Level 1/Find Familiar.md",
-    "Rules/Spells/Level 1/Feather Fall.md",
-    "Rules/Species/Half-Elf (Mark Of Storm).md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Archfey Warlock.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Urban Ranger Ranger.md",
-    "Rules/Spells/Level 1/False Life.md",
     "Rules/Classes/Paladin/Paladin Features",
     "Pictures/Spells/Yolandes Regal Presence.png",
     "Pictures/Spells/Summon Fey PNG.png",
@@ -387,14 +393,8 @@
     "Pictures/Spells/Armor of Agathys PNG.png",
     "Pictures/Mounted Combat.png",
     "Pictures/Monsters/Otherworldly Steed BGR PNG.png",
-    "Pictures/Monsters/Hound BGR PNG.png",
-    "Pictures/Monsters/Fey Spirt BGR PNG.png",
-    "Pictures/Monsters/Elemental Spirit BGR PNG.png",
     "5 Monster Stat Blocks/Multiple Type",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
-    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
-    "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
-    "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
-    "Rules/Classes/Mystic/Psionic Disciplines/Awakened"
+    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen"
   ]
 }

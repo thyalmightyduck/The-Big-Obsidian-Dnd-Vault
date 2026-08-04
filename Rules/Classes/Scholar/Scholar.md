@@ -29,7 +29,7 @@
 
 **Starting Equipment:** You start with the following equipment, in addition to the equipment granted by your standard of living:
 
-- A [[healer's kit]], any simple melee weapon, and any two tools
+- A [[Healers Kit]], any simple melee weapon, and any two tools
 - (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[quiver]] of [[Arrows (20)]]
 
 ##### Multiclassing

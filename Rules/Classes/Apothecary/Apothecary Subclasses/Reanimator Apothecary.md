@@ -42,7 +42,7 @@ You start with the following items, plus anything provided by your background:
 - (a) a [[component pouch]] or (b) an [[arcane focus]]
 - (a) a [[scholar's pack]] or (b) a [[Dungeoneer's Pack]]
 - [[hide armor]], any [[simple weapons]], and two [[dagger]]s
-- a [[healer's kit]]
+- a [[Healers Kit]]
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 ##### Multiclassing
@@ -115,9 +115,9 @@ You have constructed a companion from scavenged body parts and brought it to lif
 
 In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [[Dodge action]], unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[incapacitated]], the creature can take any action of its choice, not just [[Dodge Action]].
 
-If your corpsewrought creature has died within the last hour, you can use your [[healer's kit]] as an action to revive it, provided you are within 5 feet of it and you expend an apothecary spell slot. The corpsewrought companion returns to life after 1 minute with all its hit points restored.
+If your corpsewrought creature has died within the last hour, you can use your [[Healers Kit]] as an action to revive it, provided you are within 5 feet of it and you expend an apothecary spell slot. The corpsewrought companion returns to life after 1 minute with all its hit points restored.
 
-At the end of a long rest, you can create a new corpsewrought creature if you have your [[healer's kit]] with you and access to suitable "materials." If you already have a corpsewrought creature from this feature, the first one immediately perishes. The creature also perishes if you die.
+At the end of a long rest, you can create a new corpsewrought creature if you have your [[Healers Kit]] with you and access to suitable "materials." If you already have a corpsewrought creature from this feature, the first one immediately perishes. The creature also perishes if you die.
 
 ## Level 4: Ability Score Improvement
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -202,4 +202,4 @@ At 20th level, you discover a magical secret called a Greater Formula. Choose on
 
 ## Level 20: Miraculous Recovery
 
-At 20th level, you can spend 5 minutes channeling power into a number of creatures (which can include yourself) equal to your Intelligence modifier to facilitate an abnormally fast recovery. You must tend to the creatures during this period, using a [[healer's kit]] with at least one use remaining. The targets regain hit points, spell slots, hit dice, and other abilities as if they completed a long rest. A creature can only benefit from one Miraculous Recovery in a 24-hour period. Once you use this feature, you can't do so again until you finish a long rest.
+At 20th level, you can spend 5 minutes channeling power into a number of creatures (which can include yourself) equal to your Intelligence modifier to facilitate an abnormally fast recovery. You must tend to the creatures during this period, using a [[Healers Kit]] with at least one use remaining. The targets regain hit points, spell slots, hit dice, and other abilities as if they completed a long rest. A creature can only benefit from one Miraculous Recovery in a 24-hour period. Once you use this feature, you can't do so again until you finish a long rest.

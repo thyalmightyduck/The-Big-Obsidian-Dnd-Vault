@@ -1,4 +1,4 @@
-# WOP Inquisitive Rogue
+# Inquisitive Rogue
 ## Xanathar’s Guide to Everything
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -77,6 +77,20 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
+### Inquisitive
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.
+
+### Ear for Deceit
+When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom (Insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.
+
+### Eye for Detail
+Starting at 3rd level, you can use a bonus action to make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover or decipher clues.
+
+### Insightful Fighting
+At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't [[incapacitated]], contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+This benefit lasts for 1 minute or until you successfully use this feature against a different target.
+
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
@@ -114,6 +128,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Steady Eye
+Starting at 9th level, you have advantage on any Wisdom (Perception) or Intelligence (Investigation) check if you move no more than half your speed on the same turn.
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -125,6 +142,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Unerring Eye
+Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't [[blinded]] or [[deafened]]. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -143,6 +164,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Eye for Weakness
+At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

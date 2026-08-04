@@ -1,4 +1,4 @@
-# WOP Scion of the Three Rogue
+# Scion of the Three Rogue
 ## Forgotten Realms: Heroes of Faurûn
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -77,6 +77,23 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
+### Scion of the Three
+_Become a Gruesome Agent of Malice_
+A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: [[Bane]], deity of tyranny; Bhaal, deity of violence and murder; and Myrkul, deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.
+Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to [[Bane]], Bhaal, and Myrkul often count Scions of the Three among their most useful agents. Outside Baldur's Gate, secular thieves' guilds such as the Shadow Thieves of Amn or Xanathar's guild in Waterdeep might cautiously call on a Scion of the Three to undertake an especially violent contract.
+
+### Level 3: Bloodthirst
+When an enemy you can see within 30 feet of yourself takes damage and is [[Bloodied]] after taking that damage but not killed outright, you can take a [[Reaction]] and use [[teleportation]] to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+
+### Level 3: Dread Allegiance
+Choose one of the Dead Three: [[Bane]], Bhaal, or Myrkul. You gain [[Resistance]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[Long Rest]], you can change your choice.
+
+| God    | Damage Resistance | Cantrip            |
+| ------ | ----------------- | ------------------ |
+| Bane   | Psychic           | [[Minor Illusion]] |
+| Bhaal  | Poison            | [[Blade Ward]]     |
+| Myrkul | Necrotic          | [[Chill Touch]]    |
+
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
@@ -114,6 +131,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Level 9: Strike Feat
+You gain the following Cunning Strike option.
+**Terrify (Cost: 1d6):** The target must succeed on a Wisdom saving throw, or it has the [[Frightened]] condition for 1 minute. While the target is Frightened in this way, you have [[Advantage]] on attack rolls against the target.
+The [[Frightened]] target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -125,6 +147,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 13: Aura of Malevolence
+You radiate malignant power associated with one of the Dead Three. When you use Bloodthirst and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[Resistance]] granted by your choice in the Dread Allegiance feature. Damage dealt by this feature ignores [[Resistance]].
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -143,6 +168,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 17: Dread Incarnate
+You gain the following benefits.
+**Cutthroat:** You regain one expended use of Bloodthirst when you finish a [[Short Rest]].
+**Murderous Intent:** When you roll for your Sneak Attack damage, you can treat a roll of a 1 or 2 on the die as a 3.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

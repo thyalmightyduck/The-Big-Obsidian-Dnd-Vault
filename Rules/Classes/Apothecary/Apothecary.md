@@ -42,7 +42,7 @@ You start with the following items, plus anything provided by your background:
 - (a) a [[component pouch]] or (b) an [[arcane focus]]
 - (a) a [[scholar's pack]] or (b) a [[Dungeoneer's Pack]]
 - [[hide armor]], any [[simple weapons]], and two [[dagger]]s
-- a [[healer's kit]]
+- a [[Healers Kit]]
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 ##### Multiclassing
@@ -149,4 +149,4 @@ At 20th level, you discover a magical secret called a Greater Formula. Choose on
 
 ## Level 20: Miraculous Recovery
 
-At 20th level, you can spend 5 minutes channeling power into a number of creatures (which can include yourself) equal to your Intelligence modifier to facilitate an abnormally fast recovery. You must tend to the creatures during this period, using a [[healer's kit]] with at least one use remaining. The targets regain hit points, spell slots, hit dice, and other abilities as if they completed a long rest. A creature can only benefit from one Miraculous Recovery in a 24-hour period. Once you use this feature, you can't do so again until you finish a long rest.
+At 20th level, you can spend 5 minutes channeling power into a number of creatures (which can include yourself) equal to your Intelligence modifier to facilitate an abnormally fast recovery. You must tend to the creatures during this period, using a [[Healers Kit]] with at least one use remaining. The targets regain hit points, spell slots, hit dice, and other abilities as if they completed a long rest. A creature can only benefit from one Miraculous Recovery in a 24-hour period. Once you use this feature, you can't do so again until you finish a long rest.

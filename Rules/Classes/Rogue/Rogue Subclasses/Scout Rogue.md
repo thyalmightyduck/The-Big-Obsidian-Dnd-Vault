@@ -1,4 +1,4 @@
-# WOP Scout Rogue
+# Scout Rogue
 ## Xanathar’s Guide to Everything
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -77,6 +77,16 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
+### Scout
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter—these are just a few of the roles that Scouts assume as they range the world.
+
+### Skirmisher
+Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.
+
+### Survivalist
+When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
@@ -114,6 +124,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Superior Mobility
+At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -125,6 +138,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Ambush Master
+Starting at 13th level, you excel at leading ambushes and acting first in a fight.
+You have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -143,6 +160,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Sudden Strike
+Starting at 17th level, you can strike with deadly speed. If you take the [[Attack action]] on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.
