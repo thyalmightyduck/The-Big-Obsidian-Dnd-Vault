@@ -66,9 +66,21 @@
               "icon": "lucide-file-text",
               "title": "Species Book View - 5etools"
             }
+          },
+          {
+            "id": "31cf5ea0b4459690",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -334,7 +348,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c510af688eda2804",
+  "active": "31cf5ea0b4459690",
   "lastOpenFiles": [
     "0 Roadmap/Roadmap.md",
     "PDFs/Species Book View - 5etools.pdf",
