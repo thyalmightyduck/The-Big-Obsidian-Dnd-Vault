@@ -1,4 +1,4 @@
-# WOP Thief Rogue
+# Thief Rogue
 ## Player’s Handbook (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -77,6 +77,20 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
+### Thief
+_Hunt for Treasure as a Classic Adventurer_
+A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
+
+### Level 3: Fast Hands
+As a [[Bonus Action]], you can do one of the following.
+**Sleight of Hand:** Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with [[Thieves Tools]] or to pick a pocket.
+**Use an Object:** Take the [[Utilize action]], or take the [[Magic action]] to use a magic item that requires that action.
+
+### Level 3: Second-Story Work
+You've trained to get into especially hard-to-reach places, granting you these benefits.
+**Climber:** You gain a [[Climb Speed]] equal to your [[Speed]].
+**Jumper:** You can determine your jump distance using your Dexterity rather than your Strength.
+
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
@@ -114,6 +128,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Level 9: Supreme Sneak
+You gain the following Cunning Strike option.
+**Stealth Attack (Cost: 1d6):** If you have the [[Hide action]]'s [[Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[Three Quarters Cover]] or [[Total Cover]].
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -125,6 +143,12 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 13: Use Magic Device
+You've learned how to maximize use of magic items, granting you the following benefits.
+**Attunement:** You can attune to up to four magic items at once.
+**Charges:** Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.
+**Scrolls:** You can use any [[Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -143,6 +167,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 17: Thief's Reflexes
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[Initiative]] and your second turn at your [[Initiative]] minus 10.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

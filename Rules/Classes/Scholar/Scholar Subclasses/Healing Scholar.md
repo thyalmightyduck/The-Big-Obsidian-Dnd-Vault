@@ -1,4 +1,4 @@
-# WOP Healing Scholar
+# Healing Scholar
 ## The Lord of the Rings Scholar
 
 | Level | Proficiency Bonus | Features                                                      | Craft Slots |
@@ -72,7 +72,17 @@ At 3rd level, choose any combination of two of your skill and tool proficiencies
 At 10th level, you can choose another two proficiencies (in skills or with tools) to gain this benefit.
 
 ## Level 3: Scholar Tradition
-Also at 3rd level, you choose a tradition that determines the focus of your study. Choose [[Healing]] or [[Lore]] (both are detailed at the end of the calling description). The tradition you choose grants you features at 3rd level and again at 7th level.
+Also at 3rd level, you choose a tradition that determines the focus of your study. Choose [[Healing Scholar]] or [[Lore Scholar]] (both are detailed at the end of the calling description). The tradition you choose grants you features at 3rd level and again at 7th level.
+
+### Healing
+Few can hope to learn as much as you will about the healing arts. Your skill can mend the body, as well as the mind and the spirit.
+
+### Level 3: Bonus Proficiencies
+When you choose this tradition at 3rd level, you gain proficiency in the Medicine skill and with the [[herbalism kit]]. If you are already proficient in any one of them, you add double your proficiency bonus to checks you make with it.
+
+### Level 3: Wise Leechcraft
+Also starting at 3rd level, you add your Wisdom modifier (minimum of +1) to your Intelligence (Medicine) checks, to the hit points regained for each Hit Die spent by any creature you choose as the target of your Hands of a Healer, and to the number of uses of your Rhymes of Lore. The Lore dice granted by these additional uses can only be added to Intelligence ([[Medicine]]) checks.
+In addition, when a creature would roll a Lore die it gained from you on an Intelligence ([[Medicine]]) check, it instead uses the highest number possible for the die.
 
 ## Level 4: Virtue
 At 4th level, and again at 6th and 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.
@@ -88,6 +98,9 @@ At 6th level, you can take a common or cultural virtue of your choice. You can
 
 ## Level 7: Scholar Tradition feature
 At 7th level, you gain a feature granted by your Scholar Tradition feature.
+
+### Level 7: A Cure for Weariness
+Beginning at 7th level, the healing you impart on others also shakes off their weariness. During a short rest, you can reduce a creature's [[exhaustion]] level by one. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain any expended uses when you finish a long rest.
 
 ## Level 8: Virtue
 At 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.

@@ -1,4 +1,4 @@
-# WOP Aberrant Mind Sorcerer
+# Aberrant Mind Sorcerer
 ## Tasha’s Cauldron of Everything
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -143,6 +143,40 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
+
+### Aberrant Mind
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?
+As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you born with them? Or did an event later in life leave you shining with psionic awareness? Consult the Aberrant Origins table for a possible origin of your power.
+
+**Aberrant Origins:**
+
+|d6|Origin|
+|---|---|
+|1|You were exposed to the Far Realm's warping influence. You are convinced that a tentacle is now growing on you, but no one else can see it.|
+|2|A psychic wind from the Astral Plane carried psionic energy to you. When you use your powers, faint motes of light sparkle around you.|
+|3|You once suffered the dominating powers of an aboleth, leaving a psychic splinter in your mind.|
+|4|You were implanted with a mind flayer tadpole, but the ceremorphosis never completed. And now its psionic power is yours. When you use it, your flesh shines with a strange mucus.|
+|5|As a child, you had an imaginary friend that looked like a flumph or a strange platypus-like creature. One day, it gifted you with psionic powers, which have ended up being not so imaginary.|
+|6|Your nightmares whisper the truth to you: your psionic powers are not your own. You draw them from your parasitic twin!|
+### Psionic Spells
+_1st-level Aberrant Mind feature_
+You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.
+Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be a divination or an enchantment spell from the sorcerer, warlock, or wizard spell list.
+
+**Psionic Spells:**
+
+| Sorcerer Level | Spells                                                     |
+| -------------- | ---------------------------------------------------------- |
+| 1st            | [[arms of Hadar]], [[dissonant whispers]], [[mind sliver]] |
+| 3rd            | [[calm emotions]], [[detect thoughts]]                     |
+| 5th            | [[hunger of Hadar]], [[sending]]                           |
+| 7th            | [[Evards black tentacles]], [[summon aberration]]          |
+| 9th            | [[Rarys telepathic bond]], [[telekinesis]]                 |
+### Telepathic Speech
+_1st-level Aberrant Mind feature_
+You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
+The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you are [[incapacitated]] or die or if you use this ability to form a connection with a different creature.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.

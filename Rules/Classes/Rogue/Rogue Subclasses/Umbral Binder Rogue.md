@@ -1,4 +1,4 @@
-# WOP Umbral Binder Rogue
+# Umbral Binder Rogue
 ## Book of Ebon Tides
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -77,6 +77,18 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
+### Umbral Binder
+Some rogues are content to steal mere treasures, but umbral binders possess the energies that shape the world. Through secret rites and rituals, these rogues have learned to bind the powers of shadow into themselves and to use its power to fuel their abilities.
+
+### Level 3: Eyes In the Dark
+When you choose this archetype at 3rd level, your experience with the raw magic of shadow affects your senses. You gain darkvision out to a range of 120 feet.
+
+### Level 3: Shadow Bind
+Starting at 3rd level, you can perform a special ritual to siphon the power of shadow and bind it to yourself. You can conduct this ritual during a long rest. Performing the ritual requires time spent meditating in nonmagical darkness for at least 1 hour. At the end of the ritual, you choose one of the following effects, which lasts for 24 hours or until you perform the ritual again:
+- When you are in dim light or darkness, as part of your move, you can teleport up to half your speed to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first Dexterity (Stealth) check you make before the end of your turn.
+- When you are in dim light or darkness, if you move at least half your speed, you benefit from a perpetual [[half cover]] until the start of your next turn: +2 bonus to AC and Dexterity saving throws.
+- When you hit with a melee or ranged weapon attack, you can cause the attack to deal additional cold damage equal to your proficiency bonus. You can use this feature only once on each of your turns.
+
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
@@ -114,6 +126,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Level 9: Cloaked Dagger
+At 9th level, shadows hide your every strike. You gain an additional way to use your Sneak Attack. You don't need advantage on the attack roll to use your Sneak Attack against a creature if you are within 30 feet, are in dim light or darkness, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -125,6 +140,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 13: Black Magic
+At 13th level, you can draw more power from the shadows bound to you. As a bonus action, you can cast [[darkness]] without providing material components. Once you use this feature three times, you cannot do so again until you finish a long rest.
+Additionally, when you are in an area of dim light or darkness, you can use your action to become [[invisible]]. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -143,6 +162,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 17: Shadow Grasp
+At 17th level, you can wrap your foes in debilitating shadow. When you deal Sneak Attack damage to a creature, you can force them to make a Dexterity saving throw (DC 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is [[restrained]] for 1 minute. The restrained target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Once you use this feature, you can't do so again until you finish a short or long rest.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

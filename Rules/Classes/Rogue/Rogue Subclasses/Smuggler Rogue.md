@@ -130,10 +130,8 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
-### Level 9: Slip PastSCGtD p169
-
-You can move through another creature's space, including hostile creatures, without penalty when you take the [Dash](https://5e.tools/actions.html#dash_phb) or [Disengage](https://5e.tools/actions.html#disengage_phb) action on your turn.
-
+### Level 9: Slip Past
+You can move through another creature's space, including hostile creatures, without penalty when you take the [[Dash Action]] or [[Disengage action]] on your turn.
 When you do so, you gain advantage on attack rolls against any creature whose space you moved through this turn.
 
 ## Level 10: Ability Score Improvement
@@ -147,6 +145,10 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 13: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 13: Never Tell Me the Odds
+Sometimes when the odds seem against you is the exact right moment to pull a fast one on your foes, using the chaos to get in a vital strike.
+You can still apply your Sneak Attack even when you have disadvantage on the attack roll, so long as you meet the other conditions for making a Sneak Attack.
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -165,6 +167,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 
 ## Level 17: Subclass Feature
 You gain a feature from your Rogue Subclass.
+
+### Level 17: Smuggled Spells
+Beginning at 17th level, you can store spells cast by other creatures in your bag. Your bag can store up to 6 levels worth of spells at a time.
+Any creature can cast a spell of 1st through 5th level into your bag by touching the bag as the spell is cast. The spell has no effect, other than to be stored in your bag. If your bag can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+Alternatively, you can place a [[spell scroll]] in the bag. The spell is cast and stored in your bag and the spell scroll is destroyed. You can cast any spell stored in your bag. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the bag is no longer stored in it, freeing up space.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

@@ -320,15 +320,15 @@ Finished Hunters Mark links
 	- [x] Scout
 	- [x] Shadow Stalker
 	- [x] Sinner
-	- [ ] Smuggler
-	- [ ] Soulknife
-	- [ ] Swashbuckler
-	- [ ] Thief
-	- [ ] Umbral Binder
-	- [ ] Waxwork
-- [ ] Scholar
-	- [ ] Healing
-	- [ ] Lore
+	- [x] Smuggler
+	- [x] Soulknife
+	- [x] Swashbuckler
+	- [x] Thief
+	- [x] Umbral Binder
+	- [ ] Waxwork (Temp Taken Down)
+- [x] Scholar
+	- [x] Healing
+	- [x] Lore
 - [ ] Sorcerer
 	- [ ] Aberrant
 	- [ ] Aberrant Mind

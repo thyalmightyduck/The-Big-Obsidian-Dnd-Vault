@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Rogue/Rogue Subclasses/Smuggler Rogue.md",
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Smuggler Rogue"
+              "title": "Aberrant Mind Sorcerer"
+            }
+          },
+          {
+            "id": "800ebd1471f8742f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Weapons/Psychic Blade.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Psychic Blade"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -348,8 +372,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc71d481f0faa44c",
+  "active": "800ebd1471f8742f",
   "lastOpenFiles": [
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
+    "Rules/Classes/Scholar/Scholar Subclasses/Lore Scholar.md",
+    "Rules/Classes/Scholar/Scholar Subclasses/Healing Scholar.md",
+    "Rules/Classes/Scholar/Scholar.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Umbral Binder Rogue.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Thief Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Swashbuckler Rogue.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Soulknife Rogue.md",
+    "Rules/Weapons/Psychic Blade.md",
+    "Rules/Classes/Rogue/Rogue Subclasses/Smuggler Rogue.md",
     "Rules/Classes/Rogue/Rogue Subclasses/Sinner Rogue.md",
     "Rules/Classes/Rogue/Rogue Subclasses/Shadow Stalker Rogue.md",
     "Rules/Classes/Rogue/Rogue Subclasses/Scout Rogue.md",
@@ -365,23 +400,12 @@
     "Rules/Classes/Rogue/Rogue Subclasses/Dark Petitioner Rogue.md",
     "Rules/Classes/Rogue/Rogue Subclasses/Assassin Rogue.md",
     "Rules/Items/Disguise Kit.md",
-    "5 Monster Stat Blocks/Monstrosity/Crag Cat.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Arcane Trickster Rogue.md",
-    "Rules/Spells/Level 2/Invisibility.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Arachnoid Stalker Rogue.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Winter Walker Ranger.md",
     "Pictures/Monsters/Crag Cat BGR PNG.png",
     "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Monstrosity/Yeti.md",
     "Pictures/Monsters/Yeti BGR PNG.png",
     "Pictures/Monsters/Yeti BGR PNG.png.opdownload",
-    "Rules/Spells/Level 1/Consumption.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Winter Trapper Ranger.md",
-    "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
     "Pictures/Monsters/Swarm of Vermin BGR PNG.png",
     "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",
-    "Rules/Spells/Level 1/Wrathful Smite.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Vermin Lord Ranger.md",
     "PDFs/Species Book View - 5etools.pdf",
     "PDFs",
     "New folder",

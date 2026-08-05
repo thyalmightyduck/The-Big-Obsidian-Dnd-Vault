@@ -72,7 +72,16 @@ At 3rd level, choose any combination of two of your skill and tool proficiencies
 At 10th level, you can choose another two proficiencies (in skills or with tools) to gain this benefit.
 
 ## Level 3: Scholar Tradition
-Also at 3rd level, you choose a tradition that determines the focus of your study. Choose [[Healing]] or [[Lore]] (both are detailed at the end of the calling description). The tradition you choose grants you features at 3rd level and again at 7th level.
+Also at 3rd level, you choose a tradition that determines the focus of your study. Choose [[Healing Scholar]] or [[Lore Scholar]] (both are detailed at the end of the calling description). The tradition you choose grants you features at 3rd level and again at 7th level.
+
+### Lore
+Some say that lore-masters risk accumulating knowledge at the expense of wisdom. You are determined to prove them wrong.
+
+### Level 3: Bonus Proficiencies
+When you choose this tradition at 3rd level, you gain proficiency in the Old Lore skill and with [[calligraphers supplies]]. If you are already proficient in any one of them, you add double your proficiency bonus to checks you make with it.
+
+### Level 3: Lore-Master
+Also at 3rd level, when a creature rolls a Lore die it gained from you, the creature can reroll the Lore die and use either total.
 
 ## Level 4: Virtue
 At 4th level, and again at 6th and 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.
@@ -88,6 +97,9 @@ At 6th level, you can take a common or cultural virtue of your choice. You can
 
 ## Level 7: Scholar Tradition feature
 At 7th level, you gain a feature granted by your Scholar Tradition feature.
+
+### Level 7: Words of Command
+At 7th level, when you roll a Lore die and add the number rolled to an ability check using a skill other than Medicine, you can obtain a magical success. You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain any expended uses when you finish a long rest.
 
 ## Level 8: Virtue
 At 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.
