@@ -1,4 +1,4 @@
-# WOP Smuggler Rogue
+# Smuggler Rogue
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |
@@ -76,6 +76,22 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 
 ## Level 3: Rogue Subclass
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
+
+### Smuggler
+Whenever someone has something of value, usually illegal, that they need delivered discreetly, they call a smuggler. These rogues are experts at concealing, stealing, and blending in unnoticed to the common folk. They are also uniquely skilled at turning opportunities around when things are not going their way, and using whatever means necessary to achieve their goals. These slippery rogues are crafty and cunning and should not be underestimated.
+
+### Level 3: Pack Rat
+Provided you have your hands free, you can retrieve and stow handheld items or weapons on your person as part of the action you use them (including the [[Attack action]]).
+You have accumulated a collection of miscellaneous gear, which you conceal on your person for emergencies. This gear is kept in a bag, jacket, or backpack that you carry with you. You can retrieve any nonmagical, inanimate item detailed in the Adventuring Gear section of the Core Rules with a value of 25 gp or less and weighing less than 10 pounds. You may use this feature to retrieve a number of items equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+Though otherwise functional, objects retrieved using this feature are visibly worthless junk.
+
+### Level 3: Tricks of the Trade
+You gain proficiency with the disguise kit, land vehicles, and water vehicles.
+Whenever you make an ability check related to smuggling or concealing objects you add double your proficiency bonus to the check.
+If you are driving a wagon, boat, or other vehicle with which you are proficient, you know tricks and modifications that you can make to build simple smuggler compartments in almost any vehicle. After one hour of work, you can conceal up to one-quarter of the maximum carrying capacity of the vehicle at the Game Master's discretion. It takes one hour of work to modify a Large or smaller vehicle, eight hours to modify a huge vehicle, and two days to modify a Gargantuan or larger vehicle.
+
+### Level 3: Blend Into the Crowd
+You can attempt to hide even when you are obscured only by two or more creatures that aren't hostile to you. Those creatures must be within 5 feet of each other and at least your size or larger.
 
 ## Level 3: Steady Aim
 As a [[Bonus Action]], you give yourself [[Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
