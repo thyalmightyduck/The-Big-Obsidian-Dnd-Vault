@@ -130,6 +130,12 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 9: Subclass Feature
 You gain a feature from your Rogue Subclass.
 
+### Level 9: Slip PastSCGtD p169
+
+You can move through another creature's space, including hostile creatures, without penalty when you take the [Dash](https://5e.tools/actions.html#dash_phb) or [Disengage](https://5e.tools/actions.html#disengage_phb) action on your turn.
+
+When you do so, you gain advantage on attack rolls against any creature whose space you moved through this turn.
+
 ## Level 10: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
