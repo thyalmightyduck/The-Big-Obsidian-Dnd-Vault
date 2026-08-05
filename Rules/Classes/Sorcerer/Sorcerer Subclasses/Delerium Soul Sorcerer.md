@@ -173,6 +173,9 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 6: Contaminated Sorcery
+When you cast a contaminated spell, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level. If you cast the spell using sorcery points, you don't gain a Contamination Level by casting the spell, and if the spell requires delerium as a material component, it is not consumed by the spell. In addition, casting a contaminated spell in this manner immediately causes an Arcane Anomaly (see page 233).
+
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
 
@@ -194,6 +197,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 14: Incomprehensible Arcana
+You can tap into contaminated energy to cast a spell you do not know. You can cast any spell from any class spell list. The spell must be of a level for which you have spell slots, and you must expend a spell slot as normal. Casting the spell uses the spell's normal casting time, and if the spell has material components, you must provide those components as normal. As part of casting the spell, but before the spell takes effect, you gain a number of Contamination Levels equal to half the spell's level, rounded down (minimum of one). You can't prevent or reduce these Contamination Levels by any means, but you can remove them as normal.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -207,6 +213,9 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 18: Chaos Theory
+Once per turn when you make an attack roll, ability check, or saving throw, you can choose to trigger an Arcane Anomaly (see page 233). If you do, you make that roll with advantage. You can use this feature a number of times equal to your Charisma modifier (minimum once). You regain all expended uses when you finish a long rest.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.

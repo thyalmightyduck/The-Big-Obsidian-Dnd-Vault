@@ -1,4 +1,4 @@
-# WOP Frost Sorcery Sorcerer
+# Frost Sorcery Sorcerer
 ## The Griffon’s Saddlebag, Book 1
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -144,6 +144,32 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
+### Frost Sorcery
+_Summon Storms and Sheets of Slick Ice to Control the Battlefield_
+
+Your magic is created by pieces of the Everheart, the center and driving force behind the expanding Everglacier wastelands. This power within you might be passed down through ancestors who protected the glacier's magical core, or it might have been forced upon you through a chance encounter with the enchanted ice itself. Regardless of the source of your power, you are a creature of cold incarnate.
+
+### Level 3: Frost Spells
+When you reach a Sorcerer level specified in the Frost Spells table, you thereafter always have the listed spells prepared.
+
+**Frost Spells:**
+
+| Sorcerer Level | Spells                                                                                                                                                            |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3              | [[Blindness Deafness]], [[Ice Knife]], [[Misty Step]], [[Sleep]]                                                                                                  |
+| 5              | [[Sleet Storm]], [[Slow]]                                                                                                                                         |
+| 7              | [[Fire Shield]], [[Ice Storm]]                                                                                                                                    |
+| 9              | [[Cone of Cold]], [[Conjure Elemental]] (Cold damage only) |
+### Level 3: Create Ice
+While touching a solid surface (such as the ground or a wall), you can take a [[Bonus Action]] to magically create icy terrain on up to five 5-foot squares, starting with the surface you're touching. Each square covers a solid surface and must be contiguous with at least one other square. The ice-covered squares are [[Difficult Terrain]] and last until the end of your next turn.
+
+You can spend 1 or more Sorcery Points when you take this [[Bonus Action]] to freeze an additional five contiguous squares for each Sorcery Point spent.
+
+### Level 3: Frozen Body
+Your skin takes on a faintly ice-like, crystalline glow. Your [[Hit Point]] maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+
+In addition, [[Difficult Terrain]] composed of ice or snow doesn't cost you extra movement, and when you walk on ice, you only spend 1 foot of movement for every 2 feet you move.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
@@ -152,6 +178,15 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 6: Cold-Hearted
+Your icy core manifests outwardly, granting you the following benefits.
+
+**Cryomancy:** When you deal Cold damage to a Large or smaller creature with a spell, you can spend 1 or more Sorcery Points to attempt to freeze that creature in place. When you do, that creature's [[Speed]] is reduced by 15 feet for each Sorcery Point you spend; this reduction lasts until the end of the creature's next turn. If you reduce a creature's [[Speed]] to 0 in this way, it takes 2d6 Cold damage.
+
+**Freeze Water:** You can now use your Create Ice feature to turn water into icy terrain, in addition to solid surfaces. When you do, the ice extends 5 feet deep, freezing up to a 5-foot [[Cube]]. These [[Cube]]s can support Large or smaller creatures; if a Huge or larger creature moves onto one of these [[Cube]]s, it reverts to its water form early.
+
+**Resistance:** You have [[Resistance]] to Cold damage.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
@@ -174,6 +209,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 14: Flash Freeze
+You're most confident on the ice. Your movement doesn't provoke [[Opportunity Attack]]s while you're moving on icy terrain.
+
+In addition, when a creature you can see within 5 feet of yourself hits you with an attack roll, you can take a [[Reaction]] to deal Cold damage to the attacker equal to your Charisma modifier plus half your Sorcerer level (round down). When you do, you can use your Create Ice feature as part of that [[Reaction]].
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -187,6 +227,11 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 18: Frozen Soul
+You have [[Immunity]] to Cold damage and [[Resistance]] to Fire damage.
+
+In addition, you always have the [[Wall of Ice]] spell prepared, and you can cast it without a Material component. You can also cast it once without a spell slot; if you choose for its form to be flat when cast in this way, the panels of ice don't need to be contiguous with one another. Once you use this feature to cast the spell without a spell slot, you can't do so again until you finish a [[Long Rest]].
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.

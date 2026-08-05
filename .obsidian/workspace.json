@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Delerium Soul Sorcerer.md",
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Delerium Soul Sorcerer"
+              "title": "Haunted Sorcery Sorcerer"
             }
           },
           {
-            "id": "800ebd1471f8742f",
+            "id": "41244ffd8f463e72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 3/Weave the Elder Sign.md",
+                "file": "5 Monster Stat Blocks/Undead/Specter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,31 +100,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weave the Elder Sign"
+              "title": "Specter"
             }
           },
           {
-            "id": "d213ae9b319970dc",
+            "id": "981e6916dc7c7abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aberrant Mind Sorcerer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -187,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2786357becde5cec",
@@ -376,7 +363,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 473.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -396,41 +384,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d213ae9b319970dc",
+  "active": "981e6916dc7c7abd",
   "lastOpenFiles": [
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
+    "5 Monster Stat Blocks/Undead/Specter.md",
+    "5 Monster Stat Blocks/Undead/Ghost.md",
+    "Pictures/Monsters/Spectre BGR PNG.png",
+    "Pictures/Monsters/Spectre BGR PNG.png.opdownload",
+    "Rules/Spells/Level 7/Resurrection.md",
+    "Pictures/Monsters/Ghost BGR PNG.png",
+    "Pictures/Monsters/Ghost BGR PNG.png.opdownload",
+    "Rules/Spells/Level 5/Little Death.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Frost Sorcery Sorcerer.md",
+    "Rules/Spells/Level 6/Wall of Ice.md",
+    "3 The Kingdom Of Nesafia/About Nesafia.md",
+    "Rules/Spells/Level 5/Contaminated Hands.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Draconic Sorcery Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Divine Soul Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Desert Soul Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Delerium Soul Sorcerer.md",
+    "Rules/Spells/Level 4/Siphon Time.md",
     "Rules/Spells/Level 3/Weave the Elder Sign.md",
+    "5 Monster Stat Blocks/Aberration/Sock Hydra.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
     "Rules/Spells/Level 3/Vanish to the Space Between Worlds.md",
     "Rules/Spells/Level 2/Grasping Ghost.md",
     "Rules/Spells/Level 1/Comet Shards.md",
     "Rules/Spells/Level 4/Sacrificial Siphon.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Delerium Soul Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Crimson Sorcery Sorcerer.md",
     "Rules/Spells/Level 3/Crimson Harvest.md",
     "Rules/Spells/Level 2/Blood Sacrifice.md",
     "Rules/Spells/Cantrips/Blood Bolt.md",
     "5 Monster Stat Blocks/Construct/Construct Spirit.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Clockwork Soul Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Clockwork Sorcery Sorcerer.md",
     "Pictures/Monsters/Construct Spirit BGR PNG.png",
     "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
-    "Rules/Spells/Level 4/Summon Construct.md",
-    "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
     "Pictures/Spells/Summon Construct .png",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Apocalypse Sorcery Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Sorcery Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
     "Pictures/Monsters/Aberrant Spirit BGR PNG.png",
-    "Rules/Spells/Level 4/Summon Aberration.md",
     "Pictures/Monsters/Aberrant Spirit BGR PNG.png.opdownload",
-    "Rules/Spells/Level 3/Hunger of Hadar.md",
-    "Rules/Spells/Level 2/Darkness (Spell).md",
-    "Rules/Spells/Level 1/Arms of Hadar.md",
     "Pictures/Spells/Hunger of Hadar PNG.png",
-    "Rules/Weapons/Psychic Blade.md",
     "Pictures/Spells/Arms of Hadar.png",
-    "Rules/Classes/Scholar/Scholar Subclasses/Lore Scholar.md",
-    "Rules/Classes/Scholar/Scholar Subclasses/Healing Scholar.md",
-    "Rules/Classes/Scholar/Scholar.md",
     "Pictures/Monsters/Crag Cat BGR PNG.png",
     "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
     "Pictures/Monsters/Yeti BGR PNG.png",
@@ -439,10 +431,6 @@
     "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",
     "PDFs/Species Book View - 5etools.pdf",
     "PDFs",
-    "New folder",
-    "Pictures/Monsters/Grim BGR PNG.png",
-    "Rules/Classes/Paladin/Paladin Features",
-    "Pictures/Spells/Yolandes Regal Presence.png",
-    "5 Monster Stat Blocks/Multiple Type"
+    "New folder"
   ]
 }

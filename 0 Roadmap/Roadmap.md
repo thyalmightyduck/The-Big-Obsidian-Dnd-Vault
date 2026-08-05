@@ -335,11 +335,11 @@ Finished Hunters Mark links
 	- [x] Apocalypse
 	- [x] Clockwork
 	- [x] Crimson
-	- [ ] Delerium
-	- [ ] Desert Soul
-	- [ ] Divine Soul
-	- [ ] Draconic
-	- [ ] Frost
+	- [x] Delerium
+	- [x] Desert Soul
+	- [x] Divine Soul
+	- [x] Draconic
+	- [x] Frost
 	- [ ] Haunted
 	- [ ] Hungering Dark
 	- [ ] Light Weaver
