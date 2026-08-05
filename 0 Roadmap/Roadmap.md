@@ -330,9 +330,9 @@ Finished Hunters Mark links
 	- [x] Healing
 	- [x] Lore
 - [ ] Sorcerer
-	- [ ] Aberrant
-	- [ ] Aberrant Mind
-	- [ ] Apocalypse
+	- [x] Aberrant
+	- [x] Aberrant Mind
+	- [x] Apocalypse
 	- [ ] Clockwork
 	- [ ] Crimson
 	- [ ] Delerium

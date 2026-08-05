@@ -1,4 +1,4 @@
-# WOP Clockwork Sorcery Sorcerer
+# Clockwork Sorcery Sorcerer
 ## Player’s Handbook (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -143,6 +143,39 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
+
+### Clockwork Sorcery
+_Channel Cosmic Forces of Order_
+
+The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.
+
+### Level 3: Clockwork Spells
+When you reach a Sorcerer level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.
+
+**Clockwork Spells:**
+
+| Sorcerer Level | Spells                                                                        |
+| -------------- | ----------------------------------------------------------------------------- |
+| 3rd            | [[Aid]], [[Alarm]], [[Lesser Restoration]], [[Protection from Evil and Good]] |
+| 5th            | [[Dispel Magic]], [[Protection From Energy]]                                  |
+| 7th            | [[Freedom of Movement]], [[Summon Construct]]                                 |
+| 9th            | [[Greater Restoration]], [[Wall of Force]]                                    |
+In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
+
+**Manifestations of Order:**
+
+| 1d6 | Manifestation                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------ |
+| 1   | Spectral cogwheels hover behind you.                                                             |
+| 2   | The hands of a clock spin in your eyes.                                                          |
+| 3   | Your skin glows with a brassy sheen.                                                             |
+| 4   | Floating equations and geometric objects overlay your body.                                      |
+| 5   | Your [[Spellcasting Focus]] temporarily takes the form of a Tiny clockwork mechanism.            |
+| 6   | The ticking of gears or ringing of a clock can be heard by you and those affected by your magic. |
+### Level 3: Restore Balance
+Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a d20 with [[Advantage]] or [[Disadvantage]], you can take a [[Reaction]] to prevent the roll from being affected by [[Advantage]] and [[Disadvantage]].
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
