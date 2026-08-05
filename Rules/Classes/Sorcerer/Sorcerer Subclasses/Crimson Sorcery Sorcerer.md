@@ -1,4 +1,4 @@
-# WOP Crimson Sorcery Sorcerer
+# Crimson Sorcery Sorcerer
 ## The Crooked Moon (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -144,6 +144,44 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
+### Crimson Sorcery
+_Control the Vital Power of Your Lifeblood_
+
+Crimson Sorcerers harness the ancient magic of blood and life essence. They twist and guide the flow of this quintessential energy as a hunger grows deep within them. They manipulate their power to infuse the vitality of others, or they can rip it away and steal it for themselves.
+
+Crimson sorcery can be acquired in a variety of ways. Some with this power were born with it. Others were infused with it through a dark ritual or grim event. There are those who discover it through lost secrets.
+
+Consult the Crimson Origins table for a possible origin of your power.
+
+There are a variety of ways you might have received the ability to harness your Crimson Sorcery to manipulate vitality and life essence. The Crimson Origins table offers suggestions of where your power comes from.
+
+**Crimson Origins:**
+
+|1d6|Origin|
+|---|---|
+|1|One of your parents was a vampire. Though you aren't one yourself, you inherited their hunger, and it drives your magic.|
+|2|You studied blood rites at a monastery that infused your own blood with power.|
+|3|You survived a vampire's bite, though it left you forever changed and awakened your sorcery.|
+|4|Your family suffers under a generational curse that has reared its head with you, driving you to drain vital energy.|
+|5|You studied the secrets of life and death, perhaps to save yourself or a loved one. In so doing, you unlocked the crimson power in your blood.|
+|6|You died, and a cunning entity offered you a second chance at life. You accepted and awoke with crimson sorcery coursing through your veins.|
+### Level 3: Blood Well
+You hold a reserve of vital energy called your Blood Well, which you can use to empower your magic and fuel other powers from this subclass. When you deal damage or restore [[Hit Point]]s to a creature, you can expend your Blood Well to add 1d8 to the total for one target.
+
+You regain your expended Blood Well when you finish a [[Long Rest]] or when a creature takes 10 or more Necrotic damage from you at one time.
+
+### Level 3: Crimson Spells
+When you reach a Sorcerer level specified in the Crimson Spells table, you thereafter always have the listed spells prepared.
+
+**Crimson Spells:**
+
+| Sorcerer Level | Spells                                                                                                                                                          |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3              | [[Aid]], [[Blood Bolt]], [[Cure Wounds]], [[Inflict Wounds]], [[Blood Sacrifice]]                                                                               |
+| 5              | [[Crimson Harvest]], [[Vampiric Touch]]                                                                                                                         |
+| 7              | [[Death Ward]], [[Sacrificial Siphon]]                                                                                                                          |
+| 9              | [[Field of Reaping]], [[Mass Cure Wounds]] |
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
@@ -152,6 +190,24 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 6: Pool of Blood
+As a [[Bonus Action]], you can expend your Blood Well to magically dissolve into a pool of blood, along with everything you're wearing or carrying, for 1 hour. The transformation ends early if you drop to 0 [[Hit Point]]s or if you choose to end it (no action required).
+
+While you are a pool of blood, you use your game statistics with the following changes.
+
+- Your [[Speed]] becomes 10 feet.
+- You gain Climb and Swim Speeds equal to your Speed, and you can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+- You have [[Resistance]] to Bludgeoning, Piercing, and Slashing damage.
+- You have [[Immunity]] to the [[Prone]] condition.
+- You have [[Advantage]] on Strength, Dexterity, and Constitution saving throws.
+- You can pass through small holes, narrow openings, and even mere cracks.
+- You can enter and occupy the space of another creature.
+- You can't drop, use, or otherwise interact with anything you were carrying or holding.
+- You can't talk, manipulate objects, attack, or cast spells.
+
+### Level 6: Scarlet Vigor
+You have [[Resistance]] to Necrotic damage. In addition, when you finish a [[Short Rest]], you can expend your Blood Well to reduce your [[Exhaustion]] level, if any, by 1.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
@@ -174,6 +230,13 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 14: Vital Siphoning
+You can feed on your own life essence to fuel your magic. As a [[Bonus Action]], you can expend a [[Hit Point Dice]] and choose one of the following benefits.
+
+**Blood Boil:** You regain the use of your Blood Well.
+
+**Crimson Pulse:** Expend your Blood Well to make the next Metamagic option you use this turn cost no Sorcery Points.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -187,6 +250,14 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 18: Sanguine Feast
+Your hunger for vital essence is unquenchable. As a [[Magic action]], you can unleash tendrils of blood that lash any creatures of your choice within 30 feet of you. A target must make a Constitution saving throw, taking 5d8 Necrotic damage on a failed save, or half as much damage on a successful one. If your Blood Well is already expended when you use this action, the targets have [[Disadvantage]] on the saving throw. If at least one creature takes damage from Sanguine Feast, you regain a number of [[Hit Point]]s equal to the damage roll.
+
+Once you use this feature, you can't do so again until you finish a [[Long Rest]], unless you spend 5 Sorcery Points to use it again.
+
+#### Variant: Bloodless Crimson Sorcerers
+If you're playing a character from a species that lacks blood in the traditional sense, you can still take the Crimson Sorcery subclass. The essence of Crimson Sorcery is lifeforce, or animating energy that approximates life.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.

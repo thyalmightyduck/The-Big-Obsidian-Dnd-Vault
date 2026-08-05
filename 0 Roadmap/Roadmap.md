@@ -333,8 +333,8 @@ Finished Hunters Mark links
 	- [x] Aberrant
 	- [x] Aberrant Mind
 	- [x] Apocalypse
-	- [ ] Clockwork
-	- [ ] Crimson
+	- [x] Clockwork
+	- [x] Crimson
 	- [ ] Delerium
 	- [ ] Desert Soul
 	- [ ] Divine Soul

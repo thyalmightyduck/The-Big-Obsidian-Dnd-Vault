@@ -1,4 +1,4 @@
-# WOP Delerium Soul Sorcerer
+# Delerium Soul Sorcerer
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -143,6 +143,26 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
+
+### Delerium Soul
+Delerium is naturally drawn to magic and can twist and augment its presence in unnatural and unpredictable ways. Some who ventured into the ruins of Drakkenheim are twisted by the eldritch powers and emerge infused with contaminated energies. They become a living vessel for the Arcane Anomalies and twisting realities found within the ruins.
+
+### Level 1: Delerium Spells
+Imbued with the eldritch power of delerium, your magic is fundamentally contaminated. You learn additional spells when you reach certain levels in this class, as shown on the Delerium Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.
+
+Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be a contaminated spell.
+
+**Delerium Soul Spells:**
+
+| Sorcerer Level | Spells                                                                                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st            | [[comet shards]], [[feather fall]]                                                                                                                            |
+| 3rd            | [[controlled mutation]], [[grasping ghost]]                                                                                                                   |
+| 5th            | [[vanish to the space between worlds]], [[weave the elder sign]]                                                                                              |
+| 7th            | [[siphon time]], [[summon delerium elemental]]                                                                                                                |
+| 9th            | [[contaminated hands]], [[wall of force]] |
+### Level 1: Mutant Manifestation
+When you finish a long rest, you can choose to roll twice on the Mutations table (see page 231), and must select one of the results. You gain that mutation, which remains until you finish a long rest, even if you don't currently have any contamination levels.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.

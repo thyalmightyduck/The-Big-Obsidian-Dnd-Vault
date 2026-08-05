@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Clockwork Sorcery Sorcerer.md",
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Delerium Soul Sorcerer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clockwork Sorcery Sorcerer"
+              "title": "Delerium Soul Sorcerer"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+                "file": "Rules/Spells/Level 3/Weave the Elder Sign.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aberrant Spirit"
+              "title": "Weave the Elder Sign"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -372,12 +372,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc71d481f0faa44c",
+  "active": "800ebd1471f8742f",
   "lastOpenFiles": [
+    "Rules/Spells/Level 3/Vanish to the Space Between Worlds.md",
+    "Rules/Spells/Level 3/Weave the Elder Sign.md",
+    "Rules/Spells/Level 2/Grasping Ghost.md",
+    "Rules/Spells/Level 1/Comet Shards.md",
+    "Rules/Spells/Level 4/Sacrificial Siphon.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Delerium Soul Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Crimson Sorcery Sorcerer.md",
+    "Rules/Spells/Level 3/Crimson Harvest.md",
+    "Rules/Spells/Level 2/Blood Sacrifice.md",
+    "Rules/Spells/Cantrips/Blood Bolt.md",
+    "5 Monster Stat Blocks/Construct/Construct Spirit.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Clockwork Soul Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Clockwork Sorcery Sorcerer.md",
+    "Pictures/Monsters/Construct Spirit BGR PNG.png",
+    "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
+    "Rules/Spells/Level 4/Summon Construct.md",
+    "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+    "Pictures/Spells/Summon Construct .png",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Apocalypse Sorcery Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Sorcery Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
-    "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
     "Pictures/Monsters/Aberrant Spirit BGR PNG.png",
     "Rules/Spells/Level 4/Summon Aberration.md",
     "Pictures/Monsters/Aberrant Spirit BGR PNG.png.opdownload",
@@ -390,20 +407,6 @@
     "Rules/Classes/Scholar/Scholar Subclasses/Lore Scholar.md",
     "Rules/Classes/Scholar/Scholar Subclasses/Healing Scholar.md",
     "Rules/Classes/Scholar/Scholar.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Umbral Binder Rogue.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Thief Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Swashbuckler Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Soulknife Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Smuggler Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Sinner Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Shadow Stalker Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Scout Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Scion of the Three Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Sanguine Thief Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Runetagger Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Phantom Rogue.md",
-    "Rules/Classes/Rogue/Rogue Subclasses/Misfortune Bringer Rogue.md",
     "Pictures/Monsters/Crag Cat BGR PNG.png",
     "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
     "Pictures/Monsters/Yeti BGR PNG.png",
@@ -416,9 +419,6 @@
     "Pictures/Monsters/Grim BGR PNG.png",
     "Rules/Classes/Paladin/Paladin Features",
     "Pictures/Spells/Yolandes Regal Presence.png",
-    "Pictures/Spells/Summon Fey PNG.png",
-    "Pictures/Spells/Summon Dragon BGR PNG.png",
-    "5 Monster Stat Blocks/Multiple Type",
-    "Rules/Classes/Mystic/Psionic Disciplines/Untitled"
+    "5 Monster Stat Blocks/Multiple Type"
   ]
 }

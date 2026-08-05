@@ -186,6 +186,11 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 6: Bastion of Law
+You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a [[Magic action]], you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
+
+The ward lasts until you finish a [[Long Rest]] or until you use this feature again.
+
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
 
@@ -207,6 +212,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 14: Trance of Order
+You gain the ability to align your consciousness with the endless calculations of Mechanus. As a [[Bonus Action]], you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from [[Advantage]], and whenever you make a [[D20 Test]], you can treat a roll of 9 or lower on the d20 as a 10.
+
+Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -220,6 +230,15 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 18: Clockwork Cavalcade
+You momentarily summon spirits of order to expunge disorder around you. As a [[Magic action]], you summon the spirits in a 30-foot [[Cube]] originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [[Cube]] before vanishing. Once you use this action, you can't use it again until you finish a [[Long Rest]] unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+
+**Heal:** The spirits restore up to 100 [[Hit Point]]s, divided as you choose among any number of creatures of your choice in the [[Cube]].
+
+**Repair:** Any damaged objects entirely in the [[Cube]] are repaired instantly.
+
+**Dispel:** Every spell of level 6 and lower ends on creatures and objects of your choice in the [[Cube]].
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
