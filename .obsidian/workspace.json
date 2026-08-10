@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Storm Sorcery Sorcerer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shadow Magic Sorcerer"
+              "title": "Storm Sorcery Sorcerer"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "Grim"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,10 +351,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9450d89ba2a127a1",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Storm Sorcery Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Spellfire Sorcery Sorcerer.md",
     "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Skinshifter Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Sorcery Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
+    "5 Monster Stat Blocks/Undead/Grim.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Runechild Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Pyromancer Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Oni Bloodline Sorcerer.md",
@@ -385,14 +389,9 @@
     "5 Monster Stat Blocks/Construct/Construct Spirit.md",
     "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
     "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
-    "5 Monster Stat Blocks/Undead/Grim.md",
     "Pictures/Monsters/Grim BGR PNG.png.opdownload",
     "Rules/Spells/Level 4/Intrusive Despair.md",
     "Rules/Spells/Level 2/Rope Trick.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Green Reaper Ranger.md",
-    "Rules/Items/Poisoners Kit.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Gloom Stalker Ranger.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
     "Rules/Classes/Paladin/Paladin Features",
     "5 Monster Stat Blocks/Multiple Type",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",

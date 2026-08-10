@@ -349,11 +349,12 @@ Finished Hunters Mark links
 	- [ ] Oni (Temp Taken Down)
 	- [x] Pyromance
 	- [x] Runechild
-	- [ ] Shadow
+	- [x] Shadow
 		- [ ] (Shadow) Add Summons
-	- [ ] Skinshifter
-	- [ ] Spellfire
-	- [ ] Storm 
+	- [x] Skinshifter
+		- [ ] (Skinshifter) Add Spells
+	- [x] Spellfire
+	- [x] Storm 
 	- [ ] Wild
 	- [ ] Wild Magic 
 	- [ ] Wretched
