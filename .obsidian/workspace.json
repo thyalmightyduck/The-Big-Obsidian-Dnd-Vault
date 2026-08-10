@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "73bc2f8d6fb102d5",
+            "id": "9450d89ba2a127a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 1/Hunters Mark.md",
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hunters Mark"
+              "title": "Shadow Magic Sorcerer"
             }
           },
           {
-            "id": "bc71d481f0faa44c",
+            "id": "6aa5649cf5f17c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
+                "file": "5 Monster Stat Blocks/Undead/Grim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,45 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Haunted Sorcery Sorcerer"
-            }
-          },
-          {
-            "id": "41244ffd8f463e72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Monster Stat Blocks/Undead/Specter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Specter"
-            }
-          },
-          {
-            "id": "981e6916dc7c7abd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Grim"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: darkne",
+                "query": "file: long",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,11 +151,76 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3cb053736b5f5809",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "bef805bd29ab3503",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2229f9a472ce7dc5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c801670ed5e77592",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fa3afae8eb69",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 15,
+                    "month": 1,
+                    "year": 57057
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": false,
+                  "hideEra": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_bba908a829eb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
             "id": "f2c34fa431896e64",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -245,31 +277,6 @@
             }
           },
           {
-            "id": "bef805bd29ab3503",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Rules/Spells/Level 1/Guiding Bolt.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Guiding Bolt"
-            }
-          },
-          {
-            "id": "3cb053736b5f5809",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
             "id": "8d10ececb499a3ae",
             "type": "leaf",
             "state": {
@@ -277,45 +284,6 @@
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "c801670ed5e77592",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_fa3afae8eb69",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 15,
-                    "month": 1,
-                    "year": 57057
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": false,
-                  "hideEra": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_bba908a829eb"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "2229f9a472ce7dc5",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
             }
           },
           {
@@ -363,7 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
+    "width": 460.8999938964844,
     "collapsed": true
   },
   "left-ribbon": {
@@ -384,53 +352,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "981e6916dc7c7abd",
+  "active": "9450d89ba2a127a1",
   "lastOpenFiles": [
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Runechild Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Pyromancer Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Oni Bloodline Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Nemesis Sorcery Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Lunar Sorcery Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Light Weaver Sorcerous Origin Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Hungering Dark Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Heroic Sorcery.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
-    "5 Monster Stat Blocks/Undead/Specter.md",
-    "5 Monster Stat Blocks/Undead/Ghost.md",
-    "Pictures/Monsters/Spectre BGR PNG.png",
-    "Pictures/Monsters/Spectre BGR PNG.png.opdownload",
-    "Rules/Spells/Level 7/Resurrection.md",
-    "Pictures/Monsters/Ghost BGR PNG.png",
-    "Pictures/Monsters/Ghost BGR PNG.png.opdownload",
-    "Rules/Spells/Level 5/Little Death.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Frost Sorcery Sorcerer.md",
-    "Rules/Spells/Level 6/Wall of Ice.md",
-    "3 The Kingdom Of Nesafia/About Nesafia.md",
-    "Rules/Spells/Level 5/Contaminated Hands.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Draconic Sorcery Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Divine Soul Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Desert Soul Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Delerium Soul Sorcerer.md",
-    "Rules/Spells/Level 4/Siphon Time.md",
-    "Rules/Spells/Level 3/Weave the Elder Sign.md",
-    "5 Monster Stat Blocks/Aberration/Sock Hydra.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
-    "Rules/Spells/Level 3/Vanish to the Space Between Worlds.md",
-    "Rules/Spells/Level 2/Grasping Ghost.md",
-    "Rules/Spells/Level 1/Comet Shards.md",
-    "Rules/Spells/Level 4/Sacrificial Siphon.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Crimson Sorcery Sorcerer.md",
-    "Rules/Spells/Level 3/Crimson Harvest.md",
-    "Rules/Spells/Level 2/Blood Sacrifice.md",
-    "Rules/Spells/Cantrips/Blood Bolt.md",
-    "5 Monster Stat Blocks/Construct/Construct Spirit.md",
-    "Pictures/Monsters/Construct Spirit BGR PNG.png",
-    "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
+    "Rules/Classes/Ranger/Ranger Subclasses/Grim Harbinger Ranger.md",
     "Pictures/Spells/Summon Construct .png",
-    "Pictures/Monsters/Aberrant Spirit BGR PNG.png",
-    "Pictures/Monsters/Aberrant Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Hunger of Hadar PNG.png",
     "Pictures/Spells/Arms of Hadar.png",
-    "Pictures/Monsters/Crag Cat BGR PNG.png",
-    "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
     "Pictures/Monsters/Yeti BGR PNG.png",
-    "Pictures/Monsters/Yeti BGR PNG.png.opdownload",
     "Pictures/Monsters/Swarm of Vermin BGR PNG.png",
-    "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",
+    "Pictures/Monsters/Spectre BGR PNG.png",
+    "Pictures/Monsters/Ghost BGR PNG.png",
+    "Pictures/Monsters/Crag Cat BGR PNG.png",
+    "Pictures/Monsters/Construct Spirit BGR PNG.png",
+    "Pictures/Monsters/Aberrant Spirit BGR PNG.png",
     "PDFs/Species Book View - 5etools.pdf",
     "PDFs",
-    "New folder"
+    "5 Monster Stat Blocks/Undead/Specter.md",
+    "5 Monster Stat Blocks/Undead/Ghost.md",
+    "5 Monster Stat Blocks/Monstrosity/Yeti.md",
+    "5 Monster Stat Blocks/Monstrosity/Crag Cat.md",
+    "5 Monster Stat Blocks/Construct/Construct Spirit.md",
+    "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
+    "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+    "5 Monster Stat Blocks/Undead/Grim.md",
+    "Pictures/Monsters/Grim BGR PNG.png.opdownload",
+    "Rules/Spells/Level 4/Intrusive Despair.md",
+    "Rules/Spells/Level 2/Rope Trick.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Green Reaper Ranger.md",
+    "Rules/Items/Poisoners Kit.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Gloom Stalker Ranger.md",
+    "Rules/Classes/Ranger/Ranger Subclasses/Fey Wanderer Ranger.md",
+    "Rules/Classes/Paladin/Paladin Features",
+    "5 Monster Stat Blocks/Multiple Type",
+    "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
+    "Rules/Classes/Mystic/Psionic Disciplines/Wu Jen",
+    "Rules/Classes/Mystic/Psionic Disciplines/Nomad",
+    "Rules/Classes/Mystic/Psionic Disciplines/Immortal",
+    "Rules/Classes/Mystic/Psionic Disciplines/Awakened"
   ]
 }

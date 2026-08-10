@@ -340,15 +340,17 @@ Finished Hunters Mark links
 	- [x] Divine Soul
 	- [x] Draconic
 	- [x] Frost
-	- [ ] Haunted
-	- [ ] Hungering Dark
-	- [ ] Light Weaver
-	- [ ] Lunar
-	- [ ] Nemisis
-	- [ ] Oni
-	- [ ] Pyromance
-	- [ ] Runechild
+	- [x] Haunted
+		- [ ] (Haunted) Add Spells
+	- [x] Hungering Dark
+	- [x] Light Weaver
+	- [x] Lunar
+	- [x] Nemisis
+	- [ ] Oni (Temp Taken Down)
+	- [x] Pyromance
+	- [x] Runechild
 	- [ ] Shadow
+		- [ ] (Shadow) Add Summons
 	- [ ] Skinshifter
 	- [ ] Spellfire
 	- [ ] Storm 
