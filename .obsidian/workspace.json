@@ -113,8 +113,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2786357becde5cec",
@@ -363,8 +361,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
-    "collapsed": true
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -384,11 +381,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc71d481f0faa44c",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
     "5 Monster Stat Blocks/Undead/Specter.md",
     "conflict-files-obsidian-git.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
     "Rules/Spells/Level 1/Hunters Mark.md",
     "5 Monster Stat Blocks/Undead/Ghost.md",
     "Pictures/Monsters/Spectre BGR PNG.png",
