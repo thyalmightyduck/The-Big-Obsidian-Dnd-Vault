@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "dd351fc37bd1f170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "41244ffd8f463e72",
             "type": "leaf",
             "state": {
@@ -138,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -408,12 +384,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dd351fc37bd1f170",
+  "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
-    "conflict-files-obsidian-git.md",
-    "Rules/Spells/Level 1/Hunters Mark.md",
     "5 Monster Stat Blocks/Undead/Specter.md",
+    "conflict-files-obsidian-git.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
+    "Rules/Spells/Level 1/Hunters Mark.md",
     "5 Monster Stat Blocks/Undead/Ghost.md",
     "Pictures/Monsters/Spectre BGR PNG.png",
     "Pictures/Monsters/Spectre BGR PNG.png.opdownload",
