@@ -340,21 +340,26 @@ Finished Hunters Mark links
 	- [x] Divine Soul
 	- [x] Draconic
 	- [x] Frost
-	- [ ] Haunted
-	- [ ] Hungering Dark
-	- [ ] Light Weaver
-	- [ ] Lunar
-	- [ ] Nemisis
-	- [ ] Oni
-	- [ ] Pyromance
-	- [ ] Runechild
-	- [ ] Shadow
-	- [ ] Skinshifter
-	- [ ] Spellfire
-	- [ ] Storm 
-	- [ ] Wild
-	- [ ] Wild Magic 
-	- [ ] Wretched
+	- [x] Haunted
+		- [ ] (Haunted) Add Spells
+	- [x] Hungering Dark
+	- [x] Light Weaver
+	- [x] Lunar
+	- [x] Nemisis
+	- [ ] Oni (Temp Taken Down)
+	- [x] Pyromance
+	- [x] Runechild
+	- [x] Shadow
+		- [ ] (Shadow) Add Summons
+	- [x] Skinshifter
+		- [ ] (Skinshifter) Add Spells
+	- [x] Spellfire
+	- [x] Storm 
+	- [ ] Wild (temp taken down)
+	- [x] Wild Magic 
+		- [ ] Wild Magic (add links)
+	- [x] Wretched
+		- [ ] Wretched (add links)
 - [ ] Treasure Hunter
 	- [ ] Burglar
 	- [ ] Spy
@@ -363,13 +368,15 @@ Finished Hunters Mark links
 	- [ ] Hunter
 - [ ] Warlock
 	- [x] Archfey
-	- [ ] Astral Griffon
+	- [x] Astral Griffon
 	- [x] Celestial
 	- [ ] Cosmic
+		- [ ] Cosmic (Add links)
 	- [ ] Coven
 	- [ ] Fathomless
-	- [ ] Feline Court
-	- [ ] Fiend
+	- [x] Feline Court
+		- [ ] Feline (add spells)
+	- [x] Fiend
 	- [ ] First Vampire
 	- [ ] Flesh
 	- [ ] Future You

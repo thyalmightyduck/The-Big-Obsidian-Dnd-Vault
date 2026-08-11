@@ -1,5 +1,5 @@
-# WOP Pyromancer Sorcerer
-## Plane Shift: Kaladesh
+# Pyromancer Sorcerer
+## Plane Shift: Kaladesh:
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | --------------------------------------------------------- | -------------- | -------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -144,6 +144,15 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
+### Pyromancer (PSK)
+_This subclass was published on February 15th, 2017._
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+
+Your innate magic manifests in fire. You are your fire, and your fire is you.
+
+### Heart of Fire
+At 1st level, whenever you start casting a spell of 1st level or higher that deals fire damage, fiery magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take fire damage equal to half your sorcerer level (minimum of 1).
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
@@ -152,6 +161,9 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Fire in the Veins
+At 6th level, you gain resistance to fire damage. In addition, spells you cast ignore resistance to fire damage.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
@@ -174,6 +186,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Pyromancer's Fury
+Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal fire damage to the attacker. The damage equals your sorcerer level, and ignores resistance to fire damage.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -187,6 +202,9 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Fiery Soul
+At 18th level, you gain immunity to fire damage. In addition, any spell or effect you create ignores resistance to fire damage and treats immunity to fire damage as resistance to fire damage.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.

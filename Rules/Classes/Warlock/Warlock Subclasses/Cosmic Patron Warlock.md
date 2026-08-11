@@ -1,4 +1,4 @@
-# WOP Cosmic Patron Warlock
+# Cosmic Patron Warlock
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -255,6 +255,22 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
+
+### Cosmic Patron
+Some warlocks gain their eldritch power from the very cosmos, answering to entities of space, the constellations, planets, and moons. A warlock swearing fealty to a Cosmic patron typically believes they speak to gods, or god-like beings, but these entities are shrouded in mystery, their appearance incomprehensible and horrible, and their divine power is bestowed into the warlock from the stars and galaxies beyond.
+
+### Level 1: Expanded Spell List
+The Cosmos lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+**Expanded Spell List:**
+
+| Spell Level | Spell                                                                                                                                          |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st         | [[magic missile]], [[faerie fire]]                                                                                                             |
+| 2nd         | [[moonbeam]], [[scorching ray]]                                                                                                                |
+| 3rd         | [[blink]], [[spirit guardian]]                                                                                                                 |
+| 4th         | [[fire shield]], [[wall of fire]]                                                                                                              |
+| 5th         | [[flame strike]], [[greater restoration]] |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.

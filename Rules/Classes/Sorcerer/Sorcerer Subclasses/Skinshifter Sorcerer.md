@@ -1,4 +1,4 @@
-# WOP Skinshifter Sorcerer
+# Skinshifter Sorcerer
 ## Heliana’s Guide to Monster Hunting
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -144,6 +144,63 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
+### Skinshifter
+Whether it be some distant doppelganger heritage or over-exposure to biomantic magic, your body thrums with the potential for change Though you may try to channel that power into those around you, the magic that inoculates your body is just as likely to change you, transforming your form into a myriad of magical morphs. Will you end up with two left feet and paper-thin skin, or rake through your enemies with toxic claws as spells bounce off of your reflective carapace?
+
+### Level 1: Skinshifter Magic
+You learn additional spells when you reach certain levels in this class, as shown on the Skinshifter Spells table Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.
+
+Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level The new spell must be a biomancy or transmutation spell from the [[Sorcerer Spell List]], [[Warlock Spell List]], or [[wizard spell list]]s.
+
+**Skinshifter Spells:**
+
+| Sorcerer Level | Spells                                   |
+| -------------- | ---------------------------------------- |
+| 1st            | [[chameleon skin]], [[inflict wounds]]   |
+| 3rd            | [[barkskin]], [[protection from poison]] |
+| 5th            | [[vampiric touch]], [[zippit]]           |
+| 7th            | [[freedom of movement]], [[frogskin]]    |
+| 9th            | [[feverskin]], [[greater restoration]]   |
+### Level 1: Skinshift
+Your spellcasting stimulates the latent changeability of your body. Immediately after you cast a sorcerer spell of 1st level or higher, roll a d20 If the result is equal to or lower than one-third of your sorcerer level (minimum 1), roll on the Skinshift Adaptations table below to magically alter your body in a random way until the end of your next turn. Immediately after you roll on this table, you can spend 1 sorcery point (no action required) to extend the duration of the effect to 10 minutes. If an effect calls for a saving throw, the DC equals your sorcerer spell save DC.
+
+**Modify Shift:** When you reach 6th level in this class, you can add a bonus to the result of the d20 you roll on the Skinshifter Adaptation table equal to up to half your sorcerer level For example, at 6th level, if you rolled a 19 on the d20 you could choose any result between 19 and 22.
+
+### Skinshift Adaptations
+
+| d20 | Item                                                                                                                                                                                                                                                                                                                              |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Paper Skin:** You have [[vulnerability]] to piercing and slashing damage.                                                                                                                                                                                                                                                       |
+| 2   | **Brittle Bones:** You have [[vulnerability]] to bludgeoning and thunder damage.                                                                                                                                                                                                                                                  |
+| 3   | **Elemental Sensitivity:** You have [[vulnerability]] to acid, cold, fire, and lightning damage.                                                                                                                                                                                                                                  |
+| 4   | **Left Footed:** Your right foot becomes a left foot. You have a -1 penalty to your AC and your speed is reduced by 10 feet.                                                                                                                                                                                                      |
+| 5   | **The Wobbles:** Your inner ear is filled with fluid. You have disadvantage on Dexterity saving throws and on [[Perception]] checks that rely on hearing.                                                                                                                                                                         |
+| 6   | **Sunlight Sensitivity:** You have disadvantage on attack rolls and on [[Perception]] checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive by sight is in direct sunlight.                                                                                                       |
+| 7   | **Pins and Needles:** You feel a stinging sensation in one of your limbs. You have disadvantage on attack rolls.                                                                                                                                                                                                                  |
+| 8   | **Shrink:** You decrease one size category, as per the Reduce effect of the [[enlarge reduce]] spell                                                                                                                                                                                                                              |
+| 9   | **Firefly:** You can cast the [[light]] cantrip with yourself as the target                                                                                                                                                                                                                                                       |
+| 10  | **Malleable Visage:** You change appearance, as per the effect in the [[alter self]] spell, to appear like a humanoid you've seen before (GM's choice).                                                                                                                                                                           |
+| 11  | **Natural Weapon:** You grow a natural weapon of your choice (e.g. claws, fangs, horns). Your unarmed strikes deal 1d8 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose.                                                                                                                 |
+| 12  | **Amphibisprings:** With enhanced muscles and a ratcheting mechanism in your tendons, your jumping distance is tripled.                                                                                                                                                                                                           |
+| 13  | **Aqueous Adaptation:** You can breathe underwater and gain a swimming speed equal to your walking speed.                                                                                                                                                                                                                         |
+| 14  | **Tentacle Arm:** One of your limbs is replaced with an octopus-like tentacle. Your reach with this tentacle is 5 feet greater than normal, and it can hold weapons and items as normal. You have advantage on ability checks made to grapple with it.                                                                            |
+| 15  | **Growth:** You increase one size category, as per the Enlarge effect of the [[enlarge reduce]] spell                                                                                                                                                                                                                             |
+| 16  | **Aerial Adaptation:** You gain a flying speed equal to your walking speed.                                                                                                                                                                                                                                                       |
+| 17  | **Elemental Resistance:** You gain resistance to an elemental damage type. Roll a d4 to determine which type: 1, acid; 2, cold; 3, fire; 4, lightning.                                                                                                                                                                            |
+| 18  | **Rubber Skin:** You gain resistance to bludgeoning damage.                                                                                                                                                                                                                                                                       |
+| 19  | **Crystal Skin:** You gain resistance to piercing damage.                                                                                                                                                                                                                                                                         |
+| 20  | **Steel Skin:** You gain resistance to slashing damage.                                                                                                                                                                                                                                                                           |
+| 21  | **Tumor Skin:** At the start of each of your turns, you gain [[temporary hit point]]s equal to your Charisma modifier (minimum 1).                                                                                                                                                                                                |
+| 22  | **Stimulated Metabolism:** Your speed increases by 10 feet and, when you take the [[Attack action]] on your turn, you can attack twice instead of once.                                                                                                                                                                           |
+| 23  | **Empowered Strikes:** Your unarmed strikes are magical and have a bonus to attack and damage rolls equal to half your [[proficiency bonus]], rounded down.                                                                                                                                                                       |
+| 24  | **Shimmerskin:** Your skin shimmers in a pleasing array of colours, or changes to match your background. For the duration, you have advantage on Charisma checks. For the duration, you can use a [[bonus action]] to swap between this effect and the effects of the [[chameleon skin]] spell.                                   |
+| 25  | **Secreted Toxin:** Your unarmed strikes deal an additional 1d6 poison or acid damage on a hit (your choice when you gain this adaptation). In addition, a creature that has [[Grappled]] you must succeed on a Constitution saving throw at the end of each of your turns or take this damage.                                   |
+| 26  | **Scaleskin:** While you're not wearing armour, you gain a +2 bonus to your AC.                                                                                                                                                                                                                                                   |
+| 27  | **Relentless Metabolism:** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead, and you lose this adaptation. If you benefit from this adaptation more than once before you finish a long rest, you gain one level of [[exhaustion]] each time you benefit from it after the first. |
+| 28  | **Salamander Skin:** You have resistance to fire damage. As a [[bonus action]] by a creature, you can make your skin fiery hot for a moment. Any creature touching you must make a Constitution saving throw, taking 3d6 fire damage on a failure or half as much damage on a success.                                            |
+| 29  | **Fortified Metabolism:** You have advantage on Constitution checks and Constitution saving throws, as well as any checks or saves made to avoid the [[exhaustion]] condition.                                                                                                                                                    |
+| 30  | **Reflective Carapace:** When you are targeted by a [[magic missile]] spell or a spell that requires a ranged attack roll, roll a d6 On a 4 to 5, you are unaffected. On a 6, you are unaffected, and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.            |
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
@@ -152,6 +209,9 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Selective Shift
+As a [[bonus action]], you can spend 1 or more sorcery points to magically transform your body for the next 10 minutes For each sorcery point you spend, you gain one adaptation of your choice from the Skinshift Adaptations table, the effects of which last until the transformation ends The adaptation must have a value in the d20 column equal to or lower than 20 plus half your sorcerer level If you gain a random skinshift adaptation that replaces one you already had (for example, tumour skin replacing rubber skin), this new adaptation lasts for the duration of the transformation.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
@@ -174,6 +234,26 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Reactive Mutations
+Immediately after you take damage, you can use your reaction to spend 1 sorcery point and gain resistance to that damage type for 10 minutes or until you use this feature again If you take multiple types of damage simultaneously, you choose one of the damage types to gain resistance to.
+
+Looking for inspiration to describe how a skinshifter's reactive mutations might physically manifest?
+
+Try adapting the following examples!
+
+- **Bludgeoning:** Spongy growths bloom, cushioning the blows of impact weapons.
+- **Piercing:** Layer upon layer of pointy membranes overlap one another, dispersing the penetrating potential of piercing weapons.
+- **Slashing:** A hard coating of angled crystal deflects blades.
+- **Acid:** Secreted alkaline liquid neutralizes acid near the skin.
+- **Cold & Fire:** An insulating gel prevents the transfer of heat.
+- **Force:** Pockets of antimagic dissipate incoming raw, magical energy.
+- **Lightning:** Channels of conductive metals in the skin ground the flow of electricity.
+- **Necrotic:** Pus-filled sacs of immunity-enhancing symbionts fortify the skinshifter against decay.
+- **Radiant:** The skinshifter takes on a brilliant sheen, reflecting radiation of all descriptions.
+- **Thunder:** A membrane expands out from the skinshifter's skin. A low-pressure void between the two membranes inhibits the propagation of sound waves.
+- **Poison:** Vesicles rapidly excrete toxins before they can do significant harm.
+- **Psychic:** A rush of bright purple hormones causes the skinshifter's psyche to relax, shedding the mental harm that might have been caused.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -187,6 +267,15 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Shapeshift
+You unleash your inner shapeshifter, allowing your body to react to all manner of environmental stimuli As [[bonus action]], you can cause a metabolic cascade that transforms your body for 10 minutes granting you the following effects:
+- All grapple and restraining effects on you immediately end.
+- You gain six adaptations of your choice from the Skinshift Adaptations table. For these, you ignore the restrictions on which adaptations you can have simultaneously.
+- You can't use the Reactive Mutations skinshifter feature, and it ends if it is active.
+- Immediately after you take damage, you gain resistance to that damage type You can simultaneously sustain three damage resistances in this way; if you gain another resistance from this feature while at your limit, the oldest one is lost.
+
+After you activate this feature, you can't do so again until you finish a [[long rest]].
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.

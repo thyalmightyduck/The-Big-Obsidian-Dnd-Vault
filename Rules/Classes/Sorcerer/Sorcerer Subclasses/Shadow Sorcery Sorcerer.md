@@ -1,4 +1,4 @@
-# WOP Shadow Sorcery Sorcerer
+# Shadow Sorcery Sorcerer
 ## Ravenloft: The Horrors Within
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -144,6 +144,29 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
+### Shadow Sorcery
+_Bend Doom and Darkness to Your Will_
+
+Your innate magic comes from the most nebulous and inscrutable forces of the Shadowfell or from other regions of supernatural darkness. You might trace your lineage to an entity from such a place, or perhaps you were exposed to the sinister energy of a shadow dragon and were transformed by it. Your shadowy magic allows you to command darkness, undeath, and woe.
+
+### Level 3: Shadow Spells
+When you reach a Sorcerer level specified in the Shadow Spells table, you thereafter always have the listed spells prepared.
+
+**Shadow Spells:**
+
+| Sorcerer Level | Spells                                                                                                           |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 3              | [[Bane]], [[Darkness]], [[Inflict Wounds]], [[Pass Without Trace]]                                               |
+| 5              | [[Hunger of Hadar]], [[Nondetection]]                                                                            |
+| 7              | [[Greater Invisibility]], [[Phantasmal Killer]]                                                                  |
+| 9              | [[Contagion]], [[Creation]] |
+### Level 3: Power of Shadow
+You gain the following benefits.
+
+**Eyes of the Dark:** You have [[Darkvision]] with a range of 120 feet and [[Blindsight]] with a range of 10 feet. In addition, if a spell you cast creates an area of [[Darkness]], you can see normally through that spell's Darkness.
+
+**Strength of the Grave:** If you would drop to 0 [[Hit Point]]s and not die outright, you can make a Charisma saving throw (DC 5 plus the damage taken). On a successful save, your [[Hit Point]]s instead change to a number equal to your Charisma modifier plus your Sorcerer level. After you succeed on this save, you can't use this benefit again until you finish a [[Long Rest]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
@@ -152,6 +175,11 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 6: Beasts of Ill Omen
+You can call forth a howling creature of shadow to hound your foes. You can spend 3 Sorcery Points to cast [[Summon Beast]] as a [[Bonus Action]] without expending a spell slot, without preparing the spell, and without Material components. The summoned creature appears as a beast made of shadow, and enemies within 5 feet of the summoned creature have [[Disadvantage]] on saving throws against spells you cast.
+
+Whenever you cast the spell, you can modify it so that it doesn't require [[Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting, and the spell ends early if you cast the spell again.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
@@ -174,6 +202,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 14: Shadow Walk
+While you are in [[Dim Light]] or [[Darkness]], you can take a [[Bonus Action]] to teleport up to 120 feet to an unoccupied space you can see that is also in [[Dim Light]] or [[Darkness]].
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -187,6 +218,13 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 18: Umbral Form
+When you use Innate Sorcery, you can adopt a shadowy form, gaining the benefits below while your Innate Sorcery is active or until you end the form (no action required). Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you spend 6 Sorcery Points (no action required) to restore your use of it.
+
+**Incorporeal Movement:** You can move through creatures and objects as if they were [[Difficult Terrain]], but you take 1d10 Force damage if you end your turn inside a creature or an object.
+
+**Shadow Resilience:** You have [[Resistance]] to all damage except Force and Radiant damage.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.

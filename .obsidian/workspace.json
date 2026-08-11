@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "dd351fc37bd1f170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "41244ffd8f463e72",
             "type": "leaf",
             "state": {
@@ -114,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -384,10 +408,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc71d481f0faa44c",
+  "active": "dd351fc37bd1f170",
   "lastOpenFiles": [
-    "Rules/Spells/Level 1/Hunters Mark.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
+    "conflict-files-obsidian-git.md",
+    "Rules/Spells/Level 1/Hunters Mark.md",
     "5 Monster Stat Blocks/Undead/Specter.md",
     "5 Monster Stat Blocks/Undead/Ghost.md",
     "Pictures/Monsters/Spectre BGR PNG.png",
@@ -415,7 +440,6 @@
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Crimson Sorcery Sorcerer.md",
     "Rules/Spells/Level 3/Crimson Harvest.md",
     "Rules/Spells/Level 2/Blood Sacrifice.md",
-    "Rules/Spells/Cantrips/Blood Bolt.md",
     "Pictures/Monsters/Construct Spirit BGR PNG.png",
     "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Summon Construct .png",

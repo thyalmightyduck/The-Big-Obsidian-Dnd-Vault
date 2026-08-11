@@ -1,4 +1,4 @@
-# WOP Book of Ebon Tides
+# Book of Ebon Tides
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | --------------------------------------------------------- | -------------- | -------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -143,6 +143,22 @@ When you cast a spell, such as [[Charm Person]], that can be cast with a higher
 ## Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
+### Light Weaver Sorcerous Origin
+Your powers are drawn from the spark of light kindled within you. In places of great darkness, there are always those born with the affinity for light, and every shadow must have a shining source. The magic within you represents cosmic balance, and like the light, your magic flickers from radiance to darkness moment to moment.
+
+#### Illumination Magic
+If you have access to _Deep Magic_, consider granting light weaver sorcerers spells from the school of Illumination. These are spells dealing with light, stars, and darkness and fit the character type perfectly from a story and theme perspective.
+
+### Level 1: Trick of the Light
+Starting at 1st level, you can see normally in [[darkness]], both magical and nonmagical, to a distance of 60 feet.
+
+### Level 1: Flickering Aura
+Starting at 1st level, you can choose whether your magic is light-shifted or dark-shifted. You can change your choice at the end of a long rest.
+
+While light-shifted you can use an action to emit an aura of bright light in a 15-foot-radius sphere centered on yourself. While the aura persists, you can use a bonus action to expand or reduce its radius of bright light by 5 feet, to a maximum of 30 feet each or a minimum of 10 feet.
+
+While dark-shifted you gain the same ability, but you project an aura of nonmagical darkness.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
@@ -151,6 +167,9 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 
 ## Level 6: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 6: Refraction Shield
+At 6th level, you can manipulate the light around you for protection. As a [[bonus action]], you can spend 3 sorcery points to magically create a shield of light. While the shield is in place, whenever a creature within 5 feet of you hits you with a melee attack, the shield flashes with searing energy, and the attacker takes 2d8 radiant damage if you are light-shifted or 2d8 necrotic damage if you are dark-shifted. The shield disappears if you fall [[unconscious]] or after 10 minutes.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
@@ -173,6 +192,11 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 14: Subclass Feature
 You gain a feature from your Sorcerer subclass.
 
+### Level 14: Aura Magnification
+Starting at 14th level, your manipulation of the light around you becomes masterful. While light-shifted, your Flickering Aura produces sunlight. While dark-shifted, your aura produces magical [[darkness]].
+
+If any of this aura's area overlaps with an area of light or [[darkness]] created by a spell equal to or lower than the level of your highest available spell slot, the spell that created the light or [[darkness]] is dispelled.
+
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
 
@@ -186,6 +210,9 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ## Level 18: Subclass Feature
 You gain a feature from your Sorcerer subclass.
+
+### Level 18: Spell Blind
+Beginning at 18th level, your spell energy overwhelms your target's perceptions. As an action, you can spend 5 sorcery points to empower your Flickering Aura. For 1 minute or until you lose your [[concentration]] (as if you were casting a concentration spell), each hostile creature that starts its turn within 60 feet of you must succeed on a Constitution saving throw or be [[blinded]] until the aura ends.
 
 ## Level 19: Epic Boon
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
