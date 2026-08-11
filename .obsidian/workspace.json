@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -384,8 +384,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "981e6916dc7c7abd",
+  "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
+    "Rules/Spells/Level 1/Hunters Mark.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
     "5 Monster Stat Blocks/Undead/Specter.md",
     "5 Monster Stat Blocks/Undead/Ghost.md",
@@ -415,7 +416,6 @@
     "Rules/Spells/Level 3/Crimson Harvest.md",
     "Rules/Spells/Level 2/Blood Sacrifice.md",
     "Rules/Spells/Cantrips/Blood Bolt.md",
-    "5 Monster Stat Blocks/Construct/Construct Spirit.md",
     "Pictures/Monsters/Construct Spirit BGR PNG.png",
     "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Summon Construct .png",
