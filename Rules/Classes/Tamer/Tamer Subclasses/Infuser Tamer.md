@@ -1,4 +1,4 @@
-# WOP Infuser Tamer
+# Infuser Tamer
 ## Heliana’s Guide to Monster Hunting
 
 | Level | Proficiency Bonus | Features                                                                                                        | Cantrips Known | Spell Known | 1st | 2nd | 3rd | 4th | 5th |
@@ -65,7 +65,7 @@ Some magical effects, like the [[banishment]] spell, have the ability to perma
 **Summoning.** As an action, you can summon your companion from this vessel, causing it to appear in an unoccupied space that you can see within 30 feet of you, or any unoccupied space within 5 feet of you. You can dismiss a companion within 30 feet of you as a bonus action or action, drawing it back into its vessel. To summon or dismiss a companion, you must be holding its vessel in hand. You can only have one companion summoned at a time.
 
 #### Dominated Companions
-A companion that is controlled by another creature, such as by the [[dominate monster]] spell, can try to resist being recalled into its vessel. When you try to recall such a creature into its vessel, it can make make a Charisma saving throw against yourtamer spell save DC. On a failed saving throw, it is recalled, while on a success, it is not.
+A companion that is controlled by another creature, such as by the [[dominate monster]] spell, can try to resist being recalled into its vessel. When you try to recall such a creature into its vessel, it can make make a Charisma saving throw against your tamer spell save DC. On a failed saving throw, it is recalled, while on a success, it is not.
 **Combat.** In combat, your companion shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action or action on your turn to command it to take a different action. That action can be one in its statistics or some other action. If you are [[incapacitated]], the companion can take any action of its choice, not just Dodge. Your companion can't take the Multiattack action until you reach 5th level in this class, even if it would otherwise be able to.
 **Rest.** A companion gains the benefits of a long rest when its tamer finish a long rest; if it has at least 1 hit point, it regains all its hit points when you finish a long rest. Unlike other creatures, a companion can't spend its own Hit Dice to recover hit points at the end of a short rest. See the Soul Bond feature for details on recovering hit points.
 **Items.** Armour, barding, and weapons can be equipped to enhance your companion. A companion can wear or carry any equipment that their size and body shape permits. However, your companion must be proficient with the armour or weapon to make full use of it. If your companion wears armour that it lacks proficiency with, it has disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity. A companion that is not proficient with a weapon type does not add its proficiency bonus to attack rolls made with that weapon type.
@@ -255,6 +255,25 @@ You choose the type of Training Paradigm you follow from the list of available p
 ## Level 3: Subclass Feature
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.
 
+### Infuser
+Infusers meld the power of the elements with their companions through the act of summoning How you came across this power is anyone's guess. Perhaps you took a tumble across the Elemental Flux during an inter-planar voyage, were born with some primordial heritage, or were tutored by an elementalist wizard However it happened, you have the ability to empower those with which you are most closely bonded: your companions.
+
+### Level 3: Infuse
+You have a deep connection with the elements and can infuse your companions with primordial energy. When you finish a [[long rest]], you can choose one of the following elements with which to individually infuse each of your companions: acid, cold, fire, or lightning. When you do so, any previous infusion on those companions end. The first time your companion hits a target with an attack on its turn, it deals 1d4 additional damage of the infused type This damage increases when you reach certain levels in this class: 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.
+
+### Level 3: Infuser Spells
+You learn additional spells when you reach certain levels in this class, as shown in the Infuser Spells table. Each spell counts as a tamer spell for you, but it doesn't count against the number of tamer spells you know.
+
+**Infuser Spells:**
+
+| Tamer Level | Spells                                                                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3rd         | [[hellish rebuke]], [[peppermint plate]]                                                                                                               |
+| 5th         | [[eelskin]], [[riptide]]                                                                                                                               |
+| 9th         | [[protection from energy]], [[wind wall]]                                                                                                              |
+| 13th        | [[control water]], [[fire shield]]                                                                                                                     |
+| 17th        | [[wall of stone]], [[feverskin]] |
+
 ## Level 4: Ability Score Improvement
 When you reach 4th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
@@ -285,11 +304,24 @@ When you bond with a new companion, the companion gains improvements and Hit Dic
 ## Level 7: Training Paradigm Feature
 At 7th level, you gain one feature granted by your Training Paradigm.
 
+### Elemental Discharge I
+Your companions gain the ability to unleash a torrent of elemental energy in a devastating blow. When you infuse a companion at the end of a long rest, it gains an action option corresponding to the chosen element The DC for the saving throw equals your tamer spell save DC.
+
+- **Acid:** Caustic Mist. Your companion disperses an acidic vapour into a 20-foot cube originating from it that lasts for 1 minute, or until dispersed by a wind of moderate or greater speed (at least 10 miles per hour). Each other creature that starts its turn in the area must make a Constitution saving throw, taking 4d4 acid damage on a failure, or half as much damage on a success.
+- **Cold:** Snap Freeze. Your companion absorbs the heat in a 10-foot-radius sphere around it. Each other creature in the area must make a Constitution saving throw On a failed save, a creature takes 4d8 cold damage and its speed is halved until the end of its next turn. On a successful save, it takes half as much damage and its speed isn't affected.
+- **Fire:** Flametongue. Your companion unleashes a raging inferno in a 25-foot cone. Each creature in the area must make a Dexterity saving throw, taking 6d6 fire damage on a failure, or half as much damage on a success. The fire ignites any flammable objects in the area that aren't being worn or carried.
+- **Lightning:** Sparkstep. Your companion discharges lightning in a 10-foot-radius sphere. Each other creature in the area must make a Dexterity saving throw. On a failure, a creature takes 4d6 lightning damage and it can't take reactions until the start of its next turn On a success, it takes half as much damage and can take reactions as normal. After the saving throws are resolved, your companion can immediately fly up to 30 feet as part of this action.
+
+Once a companion uses one of these actions, it can't use any action granted by this feature again until you finish a short or long rest.
+
 ## Level 8: Ability Score Improvement
 When you reach 8th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1 As normal, you can't increase an ability score above 20 using this feature.
 
 ## Level 10: Training Paradigm Feature
 At 10th level, you gain one feature granted by your Training Paradigm.
+
+### Primordial Shield
+Your companion gains resistance to the element with which it is infused When your companion takes damage of that type, you can use your reaction to bolster its defences, granting it immunity to that damage type, including against the triggering damage, until the start of your next turn Once you use this reaction, you can't do so again until you finish a short or long rest.
 
 ## Level 11: Pocket Family II
 As you gain levels in this class, the number of companions and maximum size of companion to which you can become bonded increases. You can be bonded to four creatures at 11th level. Your companions can be sized Large at 11th level. If you are already bonded to your maximum number of companions and become bonded to a new companion, you must choose one existing companion to release from its vessel.
@@ -304,6 +336,9 @@ You learn how to switch places with your companion in the nick of time. While yo
 
 ## Level 14: Training Paradigm Feature
 At 14th level, you gain one feature granted by your Training Paradigm.
+
+### Unstable Fusion
+Sometimes, more is better As an action, you can infuse your companion with a second element for 1 minute, choosing from the options in the Infuse feature. Your companion gains the benefits of the Infuse, Elemental Discharge, and Primordial Shield features for both of the elements with which it is infused. If you activate your Primordial Shield feature while Unstable Fusion is active, your companion gains immunity to both damage types Once you use this feature, you can't do so again until you finish a long rest.
 
 ## Level 15: Pocket Family IV
 As you gain levels in this class, the number of companions and maximum size of companion to which you can become bonded increases. You can be bonded to five creatures at 15th level. Your companions can be sized Huge at 17th level. If you are already bonded to your maximum number of companions and become bonded to a new companion, you must choose one existing companion to release from its vessel.
@@ -325,6 +360,9 @@ After you use this feature, you can't do so again until you finish a long rest.
 
 ## Level 18: Training Paradigm Feature
 At 18th level, you gain one feature granted by your Training Paradigm
+
+### Elemental Discharge II
+Starting at 18th level, a companion can use this action twice before a rest, but only once on the same turn.
 
 ## Level 19: Ability Score Improvement
 When you reach 19th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.

@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "73bc2f8d6fb102d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Spells/Level 1/Hunters Mark.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hunters Mark"
-            }
-          },
-          {
             "id": "bc71d481f0faa44c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
+                "file": "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Haunted Sorcery Sorcerer"
+              "title": "Splicer Tamer"
             }
           },
           {
@@ -85,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Undead/Specter.md",
+                "file": "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Specter"
+              "title": "Minotaur Skeleton"
             }
           },
           {
@@ -111,6 +87,37 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f5c80d3df71bbb67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1d93e6313b4eafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Minotaur Skeleton"
             }
           }
         ]
@@ -172,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2786357becde5cec",
@@ -248,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Spells/Level 1/Guiding Bolt.md",
+                "file": "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guiding Bolt"
+              "title": "Outline"
             }
           },
           {
@@ -357,11 +365,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 473.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,12 +390,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "c1d93e6313b4eafb",
   "lastOpenFiles": [
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
+    "Pictures/Monsters/Minotaur Skeleton BGR PNG.png",
+    "Pictures/Monsters/Minotaur Skeleton BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Undead/Ghast.md",
+    "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
+    "Pictures/Monsters/Ghast BGR PNG.png",
+    "Pictures/Monsters/Ghast BGR PNG.png.opdownload",
+    "Rules/Spells/Level 5/Feverskin.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
+    "Rules/Classes/Tamer/Tamer Subclasses/Necromancer Tamer.md",
+    "Rules/Classes/Tamer/Tamer Subclasses/Leader Tamer.md",
+    "Rules/Classes/Tamer/Tamer Subclasses/Infuser Tamer.md",
+    "Rules/Spells/Level 2/Riptide.md",
+    "Rules/Spells/Level 2/Eelskin.md",
+    "Rules/Spells/Level 1/Peppermint Plate.md",
     "5 Monster Stat Blocks/Undead/Specter.md",
-    "conflict-files-obsidian-git.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
     "Rules/Spells/Level 1/Hunters Mark.md",
+    "conflict-files-obsidian-git.md",
     "5 Monster Stat Blocks/Undead/Ghost.md",
     "Pictures/Monsters/Spectre BGR PNG.png",
     "Pictures/Monsters/Spectre BGR PNG.png.opdownload",
@@ -401,18 +425,6 @@
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Draconic Sorcery Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Divine Soul Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Desert Soul Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Delerium Soul Sorcerer.md",
-    "Rules/Spells/Level 4/Siphon Time.md",
-    "Rules/Spells/Level 3/Weave the Elder Sign.md",
-    "5 Monster Stat Blocks/Aberration/Sock Hydra.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Aberrant Mind Sorcerer.md",
-    "Rules/Spells/Level 3/Vanish to the Space Between Worlds.md",
-    "Rules/Spells/Level 2/Grasping Ghost.md",
-    "Rules/Spells/Level 1/Comet Shards.md",
-    "Rules/Spells/Level 4/Sacrificial Siphon.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Crimson Sorcery Sorcerer.md",
-    "Rules/Spells/Level 3/Crimson Harvest.md",
-    "Rules/Spells/Level 2/Blood Sacrifice.md",
     "Pictures/Monsters/Construct Spirit BGR PNG.png",
     "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Summon Construct .png",
@@ -424,10 +436,7 @@
     "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
     "Pictures/Monsters/Yeti BGR PNG.png",
     "Pictures/Monsters/Yeti BGR PNG.png.opdownload",
-    "Pictures/Monsters/Swarm of Vermin BGR PNG.png",
     "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",
-    "PDFs/Species Book View - 5etools.pdf",
-    "PDFs",
-    "New folder"
+    "PDFs/Species Book View - 5etools.pdf"
   ]
 }

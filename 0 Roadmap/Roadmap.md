@@ -436,11 +436,11 @@ Finished Hunters Mark links
 	- [x] Squared Circle
 	- [x] Street Saint
 	- [x] Sweet Science
-- [ ] Tamer
-	- [ ] Infuser
-	- [ ] Leader
-	- [ ] Necromancer
-	- [ ] Splicer
+- [x] Tamer
+	- [x] Infuser
+	- [x] Leader
+	- [x] Necromancer
+	- [x] Splicer
 
 ## Feats
 #todo/feats
