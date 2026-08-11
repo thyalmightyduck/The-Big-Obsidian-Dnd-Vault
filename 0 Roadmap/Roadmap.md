@@ -355,9 +355,11 @@ Finished Hunters Mark links
 		- [ ] (Skinshifter) Add Spells
 	- [x] Spellfire
 	- [x] Storm 
-	- [ ] Wild
-	- [ ] Wild Magic 
-	- [ ] Wretched
+	- [ ] Wild (temp taken down)
+	- [x] Wild Magic 
+		- [ ] Wild Magic (add links)
+	- [x] Wretched
+		- [ ] Wretched (add links)
 - [ ] Treasure Hunter
 	- [ ] Burglar
 	- [ ] Spy
@@ -366,13 +368,15 @@ Finished Hunters Mark links
 	- [ ] Hunter
 - [ ] Warlock
 	- [x] Archfey
-	- [ ] Astral Griffon
+	- [x] Astral Griffon
 	- [x] Celestial
 	- [ ] Cosmic
+		- [ ] Cosmic (Add links)
 	- [ ] Coven
 	- [ ] Fathomless
-	- [ ] Feline Court
-	- [ ] Fiend
+	- [x] Feline Court
+		- [ ] Feline (add spells)
+	- [x] Fiend
 	- [ ] First Vampire
 	- [ ] Flesh
 	- [ ] Future You

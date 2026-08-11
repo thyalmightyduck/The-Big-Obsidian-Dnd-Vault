@@ -1,4 +1,4 @@
-# WOP Fiend Patron Warlock
+# Fiend Patron Warlock
 ## Player’s Handbook (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -256,11 +256,35 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
+### Fiend Patron
+_Make a Deal with the Lower Planes_
+
+Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
+
+### Level 3: Fiend Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.
+
+**Fiend Spells:**
+
+| Warlock Level | Spells                                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 3             | [[Burning Hands]], [[Command]], [[Scorching Ray]], [[Suggestion]]                                                  |
+| 5             | [[Fireball]], [[Stinking Cloud]]                                                                                   |
+| 7             | [[Fire Shield]], [[Wall of Fire]]                                                                                  |
+| 9             | [[Geas]], [[Insect Plague]] |
+### Level 3: Dark One's Blessing
+When you reduce an enemy to 0 [[Hit Point]]s, you gain [[Temporary Hit Point]]s equal to your Charisma modifier plus your Warlock level (minimum of 1 [[Temporary Hit Point]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[Hit Point]]s.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Dark One's Own Luck
+You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add 1d10 to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [[Long Rest]].
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -272,6 +296,9 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Fiendish Resilience
+Choose one damage type, other than Force, whenever you finish a [[Short Rest]] or [[Long Rest]]. You have [[Resistance]] to that damage type until you choose a different one with this feature.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -290,6 +317,11 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Hurl Through Hell
+Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn't a Fiend, and it has the [[Incapacitated]] condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+
+Once you use this feature, you can't use it again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

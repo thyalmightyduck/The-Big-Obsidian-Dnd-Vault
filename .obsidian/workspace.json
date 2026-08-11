@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Sorcerer/Sorcerer Subclasses/Storm Sorcery Sorcerer.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/Fiend Patron Warlock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Storm Sorcery Sorcerer"
+              "title": "Fiend Patron Warlock"
             }
           },
           {
@@ -353,9 +353,16 @@
   },
   "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "Rules/Classes/Warlock/Warlock Subclasses/Fiend Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Exalted Assembly of the Feline Court Warlock.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Cosmic Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Astral Griffon Patron Warlock.md",
+    "Rules/Classes/Spellcaster Sidekick/Spellcaster Sidekick.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Wretched Bloodline Sorcery Sorcerer.md",
+    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Wild Magic Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Storm Sorcery Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Spellfire Sorcery Sorcerer.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Skinshifter Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Sorcery Sorcerer.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Shadow Magic Sorcerer.md",
@@ -384,14 +391,7 @@
     "PDFs",
     "5 Monster Stat Blocks/Undead/Specter.md",
     "5 Monster Stat Blocks/Undead/Ghost.md",
-    "5 Monster Stat Blocks/Monstrosity/Yeti.md",
-    "5 Monster Stat Blocks/Monstrosity/Crag Cat.md",
-    "5 Monster Stat Blocks/Construct/Construct Spirit.md",
-    "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
-    "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
     "Pictures/Monsters/Grim BGR PNG.png.opdownload",
-    "Rules/Spells/Level 4/Intrusive Despair.md",
-    "Rules/Spells/Level 2/Rope Trick.md",
     "Rules/Classes/Paladin/Paladin Features",
     "5 Monster Stat Blocks/Multiple Type",
     "Rules/Classes/Mystic/Psionic Disciplines/Untitled",
