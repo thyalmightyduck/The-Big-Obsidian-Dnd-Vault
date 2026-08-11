@@ -312,7 +312,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 3rd         | [[chameleon skin]], [[disguise self]]                                                                                                      |
 | 5th         | [[barkskin]], [[eelskin]]                                                                                                                  |
-| 9th         | [[mass leech]], [[zippit!]]                                                                                                                |
+| 9th         | [[mass leech]], [[Zippit]]                                                                                                                |
 | 13th        | [[frogskin]], [[stoneskin]]                                                                                                                |
 | 17th        | [[contagion]], [[feverskin]] |
 

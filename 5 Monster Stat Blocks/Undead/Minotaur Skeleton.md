@@ -22,5 +22,5 @@ actions:
   - name: "Gore."
     desc: "_Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the [[Prone]] condition."  
   - name: "Slam."
-    desc:   
+    desc: "_Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 15 (2d10 + 4) Bludgeoning damage."  
 ```

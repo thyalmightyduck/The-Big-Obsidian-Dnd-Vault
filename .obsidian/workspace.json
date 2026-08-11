@@ -61,48 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Minotaur Skeleton"
-            }
-          },
-          {
-            "id": "981e6916dc7c7abd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "f5c80d3df71bbb67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c1d93e6313b4eafb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
+                "file": "Rules/Spells/Level 5/Bone Cage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -117,10 +76,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Minotaur Skeleton"
+              "title": "Bone Cage"
+            }
+          },
+          {
+            "id": "981e6916dc7c7abd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2786357becde5cec",
@@ -256,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
+                "file": "Rules/Spells/Level 5/Bone Cage.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -369,8 +338,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
-    "collapsed": true
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -390,17 +358,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c1d93e6313b4eafb",
+  "active": "41244ffd8f463e72",
   "lastOpenFiles": [
+    "Rules/Spells/Level 5/Endure.md",
+    "Rules/Spells/Level 5/Bone Cage.md",
+    "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
+    "Rules/Spells/Level 2/Inequality.md",
+    "Rules/Spells/Level 4/Frogskin.md",
+    "Rules/Spells/Level 3/Zippit.md",
+    "Rules/Spells/Level 3/Mass Leech.md",
+    "Rules/Spells/Level 1/Chameleon Skin.md",
+    "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Undead/Ghast.md",
-    "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
     "Pictures/Monsters/Ghast BGR PNG.png",
     "Pictures/Monsters/Ghast BGR PNG.png.opdownload",
     "Rules/Spells/Level 5/Feverskin.md",
     "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
     "Rules/Classes/Tamer/Tamer Subclasses/Necromancer Tamer.md",
     "Rules/Classes/Tamer/Tamer Subclasses/Leader Tamer.md",
     "Rules/Classes/Tamer/Tamer Subclasses/Infuser Tamer.md",
@@ -419,12 +394,6 @@
     "Pictures/Monsters/Ghost BGR PNG.png.opdownload",
     "Rules/Spells/Level 5/Little Death.md",
     "Rules/Classes/Sorcerer/Sorcerer Subclasses/Frost Sorcery Sorcerer.md",
-    "Rules/Spells/Level 6/Wall of Ice.md",
-    "3 The Kingdom Of Nesafia/About Nesafia.md",
-    "Rules/Spells/Level 5/Contaminated Hands.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Draconic Sorcery Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Divine Soul Sorcerer.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Desert Soul Sorcerer.md",
     "Pictures/Monsters/Construct Spirit BGR PNG.png",
     "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Summon Construct .png",
@@ -434,7 +403,6 @@
     "Pictures/Spells/Arms of Hadar.png",
     "Pictures/Monsters/Crag Cat BGR PNG.png",
     "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
-    "Pictures/Monsters/Yeti BGR PNG.png",
     "Pictures/Monsters/Yeti BGR PNG.png.opdownload",
     "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",
     "PDFs/Species Book View - 5etools.pdf"
