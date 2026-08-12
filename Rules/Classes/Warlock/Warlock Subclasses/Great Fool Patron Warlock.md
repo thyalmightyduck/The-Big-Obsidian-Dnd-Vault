@@ -1,4 +1,4 @@
-# WOP Great Fool Patron Warlock
+# Great Fool Patron Warlock
 ## The Crooked Moon (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -255,6 +255,35 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
+
+### Great Fool Patron
+_Laugh in the Face of Danger with Foolish Antics_
+
+What horrors and sorrows can't be remedied by maniacal laughter? Warlocks that have made a pact with the Great Fool draw their enigmatic power from a powerful, otherworldly being of jolly revelry, whose twisted sense of humor is lost on mortal understanding. They are a mocking mirror to bring low the arrogant and mighty, though the Great Fool's ultimate designs are often nonsensical and incomprehensible.
+
+Many Warlocks of the Great Fool adopt a signature aesthetic and performance style that best represents their folly. The Foolish Personas table offers archetypes of fools with suggestions for corresponding outfits and routines.
+
+**Foolish Personas:**
+
+|1d6|Persona|
+|---|---|
+|1|**The Harlequin.** An elegant outfit of diamond motley with a painted mask—performs dances, gives eloquent speeches, and plays tricks|
+|2|**The Jester.** A two-toned, checkered motley outfit with cap and bells—favors feats of acrobatics, tumbling, and juggling|
+|3|**The Joker.** A vibrant, colorful suit with wild hair and bowler hat—favors silly jokes, slapstick comedy, and clumsy self-deprecation|
+|4|**The Mime.** A striped, black-and-white shirt with a flat cap and red suspenders—pantomimes comical scenarios without speaking|
+|5|**The Sad Clown.** A monochromatic, one-piece outfit with pointed hat and puffball buttons—utilizes melodramatic melancholy and song|
+|6|**The Tramp.** A patch-covered coat, tattered scarf, scuffed shoes, and cigar—leverages sardonic wit, insults, and mocking observations|
+### Level 3: Great Fool Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Fool Spells table, you thereafter always have the listed spells prepared.
+
+**Great Fool Spells:**
+
+| Warlock Level | Spells                                                                                                    |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| 3             | [[Disguise Self]], [[Tashas Hideous Laughter]], [[Rope Trick]], [[Spiritual Weapon]], [[Vicious Mockery]] |
+| 5             | [[Blink]], [[Stinking Cloud]]                                                                             |
+| 7             | [[Phantasmal Killer]], [[Puppet Master]]                                                                  |
+| 9             | [[Bigbys Hand]], [[Mislead]]                                                                              |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.

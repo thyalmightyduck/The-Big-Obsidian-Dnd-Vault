@@ -378,8 +378,8 @@ Finished Hunters Mark links
 		- [ ] Feline (add spells)
 	- [x] Fiend
 	- [ ] First Vampire
-	- [ ] Flesh
-	- [ ] Future You
+	- [x] Flesh
+	- [x] Future You
 	- [ ] Genie
 	- [ ] Great Fool
 	- [ ] Great Old One
@@ -482,6 +482,7 @@ Finished Hunters Mark links
 - [ ] Fix Weapon Formating
 # Additions
 Make Shop Roll Tables
+Add Schools of Magic
 # Installed Plugins
 - Advanced Tables-Tony Grosinger
 - Buttons-shabegom

@@ -279,13 +279,23 @@ As an action, you can take on a reshaped form, which lasts until you become inca
 
 - **Inverse Kneecaps.** Your legs become more powerful, and your knees now bend the opposite direction. While in this form, you increase your walking speed by 10 feet, and you can double your long and high jump distance.
 - **Aquatic Attributes.** You grow gills and your skin becomes slimy, the flesh between your fingers and toes becomes webbed. While in this form, you can breathe underwater, and gain a swimming speed equal to your walking speed.
-- **Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. You can use your Charisma modifier for attack and damage rolls. The damage of your unarmed strikes increases as you gain levels in this class: 2d6 damage beginning at 10th level, and 3d6 damage at 14th level.
+- **Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you have [[Proficiency]] with your unarmed strikes. You can use your Charisma modifier for attack and damage rolls. The damage of your unarmed strikes increases as you gain levels in this class: 2d6 damage beginning at 10th level, and 3d6 damage at 14th level.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Body Modification
+When you choose your reshaped form, you can choose any two options available to you.
+
+You gain the following additional options when you take on a reshaped form:
+
+- **Gelatin Bones.** Your skin looks loose and saggy as you struggle to maintain your structure. You can now fit into spaces as small as one inch in diameter and gain advantage on Stealth checks.
+- **Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You can't appear as a creature of a different size than you, and your basic shape stays the same. For example, if you're bipedal, you can't use this spell to become quadrupedal.
+- **Combat Instincts.** You can attack twice, instead of once, when you take the [[Attack action]] on your turn. In addition, your natural weapons and unarmed strikes are considered magical for the purposes of overcoming resistance to bludgeoning, piercing, and slashing damage.
+- **Spider Claws.** Your hands and feet grow strange mucus-slicked insectoid features that allow you to climb surfaces. You gain a climb speed equal to your walk speed and can stick to ceilings as well without needing to make an ability check.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -297,6 +307,13 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Physiological Mastery
+You gain the following additional options when you take on a reshaped form:
+
+- **Aerial Adaptation.** Feathered or batlike wings rip out of your back, you gain a flying speed equal to your walking speed.
+- **Toxic Fumes.** A cloud of noxious gas seeps from your pores, you appear sickly, and green slime oozes from your pores. You have [[disadvantage]] on Charisma checks while in this form, but any creature that starts its turn within 10 feet of you takes 2d6 poison damage and has [[disadvantage]] on attack rolls against you.
+- **Hardened Skin.** You gain resistance to bludgeoning, piercing, and slashing damage from non-magical weapons.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -315,6 +332,9 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Unfathomable Horror
+You can choose any three available options when you transform using your Reshape Flesh feature. Additionally, you have [[Immunity]] to any spell or effect that would alter your form against your will.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.
