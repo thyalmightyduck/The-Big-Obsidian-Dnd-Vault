@@ -293,6 +293,21 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
 
+### Level 6: Jester's Japes
+By calling down an aspect of the Great Fool, you can curse your foes. As a [[Magic action]], you target a creature you can see within 60 feet of you and force it to succeed on a Charisma saving throw against your spell save DC or suffer one of the following curses (your choice).
+
+**Flower Spurt:** You spray a strange liquid at the creature's eyes, giving it the [[Blinded]] condition.
+
+**Clown Shoes:** The creature's feet or similar appendages grow to awkwardly exaggerated proportions. The creature's [[Speed]] is halved, and it has [[Disadvantage]] on ability checks and saving throws that rely on Dexterity.
+
+**Honk Honk:** The creature emits sounds, such as honks, chimes, or squeaks, that are audible out to 100 feet with every movement, no matter how slight. The creature can't benefit from the [[Invisible]] condition.
+
+**Jolly Arms:** Any weapon or [[Unarmed Strike]] the creature attacks with, including natural weapons such as fangs and claws, takes on a comical appearance as if it were made of wood, stuffed cloth, or balloons. The target deals half damage with weapon attacks and [[Unarmed Strike]]s.
+
+The curse lasts for 1 minute. The creature repeats the saving throw at the end of each of its turns, ending the curse on a success.
+
+Once you use this feature, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]].
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
