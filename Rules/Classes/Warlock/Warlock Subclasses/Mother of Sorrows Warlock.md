@@ -1,4 +1,4 @@
-# WOP Mother of Sorrows Warlock
+# Mother of Sorrows Warlock
 ## Book of Ebon Tides
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -256,11 +256,39 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
+### Mother of Sorrows
+Universal suffering has given rise to an enigmatic being known as the Mother of Sorrows, and warlocks who bind themselves to her cause seek to spread her poisonous vengeance. The Mother of Sorrows was born from the suffering of parents who have lost children to pestilence, disease, and treachery, and her gifts grant warlocks the power to avenge the thousands of sorrows laid at her feet.
+
+### Expanded Spell List
+The Mother of Sorrows lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+**Expanded Spell List:**
+
+| Spell Level | Spells                                                                                                                                                     |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st         | [[detect poison and disease]], [[inflict wounds]]                                                                                                          |
+| 2nd         | [[ray of enfeeblement]], [[silence]]                                                                                                                       |
+| 3rd         | [[stinking cloud]], [[vampiric touch]]                                                                                                                     |
+| 4th         | [[greater invisibility]], [[phantasmal killer]] |
+| 5th         | [[cloudkill]], [[contagion]]                                                                                                                               |
+### Level 1: Poison Soul
+Starting at 1st level, your affinity for poison becomes supernatural. Any poison damage you deal ignores any [[resistance]] or [[immunity]].
+
+### Level 1: Venomous Mark
+Also at 1st level, as a [[bonus action]], choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[incapacitated]]. Until the curse ends, you deal an extra 1d6 poison damage to the target whenever you hit it with a spell attack. (You can only apply this damage once per spell even if there are multiple spell attack instances, such as with [[eldritch blast]].)
+
+If the target drops to 0 hit points before the curse ends, you can use a [[bonus action]] on a subsequent turn of yours to curse a new creature. Only one creature can be affected with a venomous mark at any given time.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Sickening Revenge
+Starting at 6th level, you can take vengeance on those who harm you. When you take damage, you can use your reaction to attempt to poison the creature that damaged you. The triggering creature must make a Constitution saving throw against your warlock spell save DC or become [[poisoned]] for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the condition on a success.
+
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -272,6 +300,9 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Dark Inoculation
+Starting at 10th level, your poisonous magic has infused your body. You have [[Immunity]] to disease, poison damage, and the [[poisoned]] condition.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -290,6 +321,11 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Touch of Sorrow
+Starting at 14th level, when you hit a creature with an attack, you can use this feature to infuse the target with your sorrow. The target must make a Wisdom saving throw or be [[paralyzed]] and [[poisoned]] for 24 hours. The creature remains paralyzed until it takes damage or is no longer poisoned.
+
+You must finish a [[Short Rest]] or [[Long Rest]] before you can use this feature again.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

@@ -1,4 +1,4 @@
-# WOP Stone Sovereign Patron Warlock
+# Stone Sovereign Patron Warlock
 ## Frontiers of Eberron: Quickstone
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -256,11 +256,47 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
+### Stone Sovereign Patron
+_Hear the Whispering of the Stones_
+
+You have listened to the will of the stone, and made a pact with one of Eberron's great earthen powers. The whispers of the daelkyr Orlassk corrupt many Warlocks to their cause, but similar magics may be the gifts of the greedy fey King Grayfinger or even the medusa Queen Sheshka of Cazhaak Draal. The gnomes of Lorghalan draw their power from their friendship with the earth elementals of their island; perhaps you have made peace with the earth itself.
+
+### Level 3: Eternity in Stone
+When you reduce a creature to 0 [[Hit Point]]s, you can cause it to turn to stone. If you do so, you gain [[Temporary Hit Point]]s equal to 1d10 + your Warlock level. A creature turned to stone in this way has the [[Petrified]] condition.
+
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
+
+### Level 3: Stone Speaker
+Your pact grants you the ability to commune with earth and stone. As a [[Magic action]], you imbue stones in an immobile 30-foot [[Emanation]] with limited sentience, giving them the ability to communicate with you. You can question stones about events in the spell's area within the past day, gaining information about creatures that have passed, items that might have been removed from the area, and other circumstances.
+
+If an earth Elemental or a creature with the [[Petrified]] condition is in the area, you can communicate with it as if you shared a language, but you gain no magical ability to influence it.
+
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].
+
+### Level 3: Stone Sovereign Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Stone Sovereign Spells table, you thereafter always have the listed spells prepared.
+
+**Stone Sovereign Spells:**
+
+| Warlock Level | Prepared Spells                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 3             | [[Absorb Elements]], [[Earthbind]], [[Earth Tremor]], [[Spike Growth]]                                                               |
+| 5             | [[Magic Circle]], [[Slow]]                                                                                                           |
+| 7             | [[Stone Shape]], [[Stoneskin]]                                                                                                       |
+| 9             | [[Bigby's Hand]], [[Wall of Stone]] |
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Form of Stone
+Stone is no prison to you. Whenever you have the [[Petrified]] condition, you are aware of your surroundings and you have [[Immunity]] to Bludgeoning, Piercing, and Slashing damage.
+
+Additionally, you have learned to take on a stone form to protect yourself from injury. As a [[Reaction]] when you take damage, you can give yourself the [[Petrified]] condition until the start of your next turn. The [[Petrified]] condition applies before you take the triggering damage, possibly granting [[Resistance]] or [[Immunity]] to that damage. When the [[Petrified]] condition ends, you can choose to emerge from a stone surface into an unoccupied space you can see within 30 feet of yourself.
+
+Once you use this feature, you can't use it again until you finish a [[Short rest]] or [[Long Rest]].
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -272,6 +308,11 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Stone's Embrace
+You always have the [[Meld into Stone]] spell prepared. When you cast [[Meld into Stone]], you can choose up to five willing creatures within 5 feet of you to also gain the benefits of the spell. Each creature must be touching a stone object or surface large enough to fully contain their body. Affected creatures can end the effect on themselves early by using 5 feet of movement to leave the stone where they entered it.
+
+Creatures who finish a [[Short Rest]] or [[Long Rest]] while under the effect of your [[Meld into Stone]] spell gain [[Resistance]] against the first instance of damage they take after leaving the stone.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -290,6 +331,9 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Stone Servant
+You gain the ability to control the actions of [[Petrified]] creatures, while bestowing upon them the power of your patron. One creature with the [[Petrified]] condition that you touch becomes an Earth [[Elemental Spirit]] under your control as if you had cast the [[Summon Elemental]] spell at 6th-level. The creature's size does not change and you do not need to maintain [[Concentration]]. The transformation lasts until a [[Greater Restoration]] spell is cast on the creature, until the Elemental Spirit is reduced to 0 [[Hit Point]]s, or until you use this feature again.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

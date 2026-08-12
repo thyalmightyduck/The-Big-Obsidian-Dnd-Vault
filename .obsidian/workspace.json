@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Celestial Warlock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Great Fool Patron Warlock"
+              "title": "The Celestial Warlock"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 5/Bigby's Hand.md",
+                "file": "Rules/Spells/Level 3/Meld into Stone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bigby's Hand"
+              "title": "Meld into Stone"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Celestial Warlock.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -360,14 +360,24 @@
   },
   "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
+    "Rules/Classes/Warlock/Warlock Subclasses/The Archfey Warlock.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Stone Sovereign Patron Warlock.md",
+    "Rules/Spells/Level 3/Meld into Stone.md",
+    "Rules/Spells/Level 4/Stone Shape.md",
+    "Rules/Classes/Druid/Druid Subclasses/Circle of the City Druid.md",
+    "Rules/Spells/Level 1/Earth Tremor.md",
+    "Rules/Spells/Level 2/Earthbind.md",
     "Rules/Spells/Level 5/Bigby's Hand.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Mother of Sorrows Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Horned King Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Great Old One Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
     "Pictures/Spells/Bigbys Hand PNG.png",
     "Rules/Spells/Level 4/Puppet Master.md",
     "Rules/Spells/Level 2/Crown of Madness.md",
     "Rules/Spells/Level 4/Dire Warning.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/Future You Patron Warlock.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Spells/Level 2/Recall.md",
     "Rules/Spells/Cantrips/Moment to Think.md",
     "Rules/Spells/Level 1/Delay.md",
@@ -377,15 +387,6 @@
     "Rules/Classes/Warlock/Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Patron Warloc.md",
     "Rules/Classes/Warlock/Warlock Spell List.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Fiend Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Exalted Assembly of the Feline Court Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Cosmic Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Celestial Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Astral Griffon Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Archfey Patron Warlock.md",
-    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses/Burglar Treasure Hunter.md",
-    "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
-    "Rules/Spells/Level 5/Endure.md",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png.opdownload",
     "Pictures/Monsters/Ghast BGR PNG.png",

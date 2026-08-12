@@ -177,6 +177,7 @@ Finished Hunters Mark links
 	- [x] Warden
 	- [x] Wicker
 	- [x] Wildfire
+	- [ ] City
 - [ ] Fighter
 	- [x] Arcane Archer
 	- [x] Banneret
@@ -381,16 +382,16 @@ Finished Hunters Mark links
 	- [x] Flesh
 	- [x] Future You
 	- [ ] Genie
-	- [ ] Great Fool
-	- [ ] Great Old One
+	- [x] Great Fool
+	- [x] Great Old One
 	- [ ] Hexblade
-	- [ ] Horned King
+	- [x] Horned King
 	- [ ] Lantern
 	- [ ] Many
-	- [ ]  Mother of Sorrows
+	- [x]  Mother of Sorrows
 	- [ ] Parasite
 	- [ ] Predator
-	- [ ] Stone Sovereign
+	- [x] Stone Sovereign
 	- [ ] The First Vampire
 	- [ ] Undead
 	- [ ] Undying

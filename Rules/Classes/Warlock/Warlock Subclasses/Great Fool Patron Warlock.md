@@ -319,6 +319,11 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
 
+### Level 10: Mocking Banter
+Your witty and insulting japes become biting to the point of needling your foes' very psyche. When a creature damages you, you can take a [[Reaction]] to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes Psychic damage equal to the triggering damage you took, or half as much damage on a successful one.
+
+Once you use this [[Reaction]], you can't use it again until you finish a [[Short rest]] or [[Long Rest]].
+
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
 
@@ -336,6 +341,11 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Send in the Clowns
+You can call upon the laughing, jeering spirits of the followers of the Great Fool to strike down your foes. As a [[Magic action]], you summon three ghostly fools. The fools are translucent and intangible, and they resemble clowns, jesters, or similar entertainers. Make up to three melee spell attacks against creatures within 60 feet of you. On a hit, a target takes 2d10 Psychic damage and has the [[Frightened]] condition until the end of its next turn, or the [[Prone]] condition (your choice). You can use your action on subsequent turns to repeat the attacks.
+
+The fools remain for 1 minute or until you have the [[Incapacitated]] condition or you die. Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.
