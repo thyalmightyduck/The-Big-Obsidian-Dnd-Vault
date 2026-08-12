@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Spells/Level 5/Bigby's Hand.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -358,11 +358,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "41244ffd8f463e72",
+  "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
+    "Rules/Spells/Level 5/Bigby's Hand.md",
     "Pictures/Spells/Bigbys Hand PNG.png",
     "Rules/Spells/Level 4/Puppet Master.md",
-    "Rules/Spells/Level 5/Bigby's Hand.md",
     "Rules/Spells/Level 2/Crown of Madness.md",
     "Rules/Spells/Level 4/Dire Warning.md",
     "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
@@ -401,7 +401,6 @@
     "Pictures/Monsters/Aberrant Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Hunger of Hadar PNG.png",
     "Pictures/Spells/Arms of Hadar.png",
-    "Pictures/Monsters/Crag Cat BGR PNG.png",
     "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
     "Pictures/Monsters/Yeti BGR PNG.png.opdownload",
     "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",

@@ -284,6 +284,8 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 5             | [[Blink]], [[Stinking Cloud]]                                                                             |
 | 7             | [[Phantasmal Killer]], [[Puppet Master]]                                                                  |
 | 9             | [[Bigbys Hand]], [[Mislead]]                                                                              |
+### Level 3: Killing Joke
+You see the humor in everything—especially in the end of things. When a creature you can see within 60 feet of you takes damage or fails a saving throw, you can take a [[Reaction]] to cast [[Vicious Mockery]] on that creature. You can use this [[Reaction]] a number of times equal to your Charisma modifier (minimum of once). You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
