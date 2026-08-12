@@ -1,4 +1,4 @@
-# WOP Flesh Patron Warlock
+# Flesh Patron Warlock
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -255,6 +255,31 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
+
+### Flesh Patron
+A Warlock of the Flesh has made a pact with an entity so alien and unknown that its mere existence is enough to cause madness in most people. These warlocks have allowed an alien entity to inhabit their bodies, answering to some ancient and eldritch thing from beyond comprehension. This entity creates a symbiotic relationship with the host, granting them powers while reshaping and twisting their form.
+
+### Level 1: Expanded Spell List
+The Flesh lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+**Expanded Spell List:**
+
+| Spell Level | Spell                                     |
+| ----------- | ----------------------------------------- |
+| 1st         | [[jump]], [[shield]]                      |
+| 2nd         | [[enhance ability]], [[enlarge reduce]]   |
+| 3rd         | [[haste]], [[slow]]                       |
+| 4th         | [[Evards Black Tentacles]], [[polymorph]] |
+| 5th         | [[greater restoration]], [[reincarnate]]  |
+### Level 1: Unarmored Defense
+While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Constitution modifier.
+
+### Level 1: Reshape Flesh
+As an action, you can take on a reshaped form, which lasts until you become incapacitated, use an action to change back, or use this feature again. When you do, choose from one of the reshaped forms below:
+
+- **Inverse Kneecaps.** Your legs become more powerful, and your knees now bend the opposite direction. While in this form, you increase your walking speed by 10 feet, and you can double your long and high jump distance.
+- **Aquatic Attributes.** You grow gills and your skin becomes slimy, the flesh between your fingers and toes becomes webbed. While in this form, you can breathe underwater, and gain a swimming speed equal to your walking speed.
+- **Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. You can use your Charisma modifier for attack and damage rolls. The damage of your unarmed strikes increases as you gain levels in this class: 2d6 damage beginning at 10th level, and 3d6 damage at 14th level.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
