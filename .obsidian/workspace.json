@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "0b6603fd5d2a9c9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
+          },
+          {
             "id": "981e6916dc7c7abd",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Spells/Level 5/Bone Cage.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -358,7 +369,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "41244ffd8f463e72",
+  "active": "0b6603fd5d2a9c9a",
   "lastOpenFiles": [
     "Rules/Spells/Level 5/Endure.md",
     "Rules/Spells/Level 5/Bone Cage.md",
