@@ -11,3 +11,5 @@ Magical marionette strings attach to the [[Charmed]] creature's limbs or body,
 
 On your later turns, you must take a [[Bonus Action]] to maintain control of the target, or the spell ends.
 
+**Classes:** [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Great Fool Patron Warlock]], [[Hand of Dread Pugilist]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
