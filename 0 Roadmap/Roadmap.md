@@ -373,12 +373,12 @@ Finished Hunters Mark links
 	- [x] Celestial
 	- [ ] Cosmic
 		- [ ] Cosmic (Add links)
-	- [ ] Coven
-	- [ ] Fathomless
+	- [x] Coven
+	- [x] Fathomless
 	- [x] Feline Court
 		- [ ] Feline (add spells)
 	- [x] Fiend
-	- [ ] First Vampire
+	- [x] First Vampire
 	- [x] Flesh
 	- [x] Future You
 	- [ ] Genie

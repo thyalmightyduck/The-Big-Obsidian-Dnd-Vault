@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Celestial Warlock.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Celestial Warlock"
+              "title": "The Genie Warlock"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 3/Meld into Stone.md",
+                "file": "5 Monster Stat Blocks/Elemental/Marid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meld into Stone"
+              "title": "Marid"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Celestial Warlock.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -360,10 +360,29 @@
   },
   "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
-    "Rules/Classes/Warlock/Warlock Subclasses/The Archfey Warlock.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Stone Sovereign Patron Warlock.md",
+    "5 Monster Stat Blocks/Elemental/Marid.md",
+    "Pictures/Monsters/Marid BGR PNG.png",
+    "Pictures/Monsters/Marid BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Elemental/Efreeti.md",
+    "Pictures/Monsters/Efreeti GBR PNG.png",
+    "Pictures/Monsters/Efreeti GBR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Elemental/Djinni.md",
+    "Pictures/Monsters/Djinni BGR PNG.png",
+    "Pictures/Monsters/Djinni BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Elemental/Dao.md",
+    "Pictures/Monsters/Dao BGR PNG.png",
+    "Pictures/Monsters/Dao BGR PNG.png.opdownload",
     "Rules/Spells/Level 3/Meld into Stone.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Warlock.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Fiend Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Fathomless Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Coven Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Celestial Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Archfey Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Stone Sovereign Patron Warlock.md",
     "Rules/Spells/Level 4/Stone Shape.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the City Druid.md",
     "Rules/Spells/Level 1/Earth Tremor.md",
@@ -375,18 +394,6 @@
     "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
     "Pictures/Spells/Bigbys Hand PNG.png",
     "Rules/Spells/Level 4/Puppet Master.md",
-    "Rules/Spells/Level 2/Crown of Madness.md",
-    "Rules/Spells/Level 4/Dire Warning.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Future You Patron Warlock.md",
-    "Rules/Spells/Level 2/Recall.md",
-    "Rules/Spells/Cantrips/Moment to Think.md",
-    "Rules/Spells/Level 1/Delay.md",
-    "5 Monster Stat Blocks/Dragon/Delerium Dragon Wyrmling.md",
-    "Rules/Spells/Level 5/Bone Cage.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Flesh Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Patron Warloc.md",
-    "Rules/Classes/Warlock/Warlock Spell List.md",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png.opdownload",
     "Pictures/Monsters/Ghast BGR PNG.png",
@@ -397,14 +404,6 @@
     "Pictures/Monsters/Ghost BGR PNG.png.opdownload",
     "Pictures/Monsters/Construct Spirit BGR PNG.png",
     "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
-    "Pictures/Spells/Summon Construct .png",
-    "Pictures/Monsters/Aberrant Spirit BGR PNG.png",
-    "Pictures/Monsters/Aberrant Spirit BGR PNG.png.opdownload",
-    "Pictures/Spells/Hunger of Hadar PNG.png",
-    "Pictures/Spells/Arms of Hadar.png",
-    "Pictures/Monsters/Crag Cat BGR PNG.png.opdownload",
-    "Pictures/Monsters/Yeti BGR PNG.png.opdownload",
-    "Pictures/Monsters/Swarm of Vermin BGR PNG.png.opdownload",
-    "PDFs/Species Book View - 5etools.pdf"
+    "Pictures/Monsters/Aberrant Spirit BGR PNG.png.opdownload"
   ]
 }
