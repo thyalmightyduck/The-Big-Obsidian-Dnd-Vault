@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/Flesh Patron Warlock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Splicer Tamer"
+              "title": "Flesh Patron Warlock"
             }
           },
           {
@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "0b6603fd5d2a9c9a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
-            }
-          },
-          {
             "id": "981e6916dc7c7abd",
             "type": "leaf",
             "state": {
@@ -102,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,6 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/Flesh Patron Warlock.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -369,11 +358,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0b6603fd5d2a9c9a",
+  "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
+    "Rules/Classes/Warlock/Warlock Subclasses/Fiend Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Exalted Assembly of the Feline Court Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Cosmic Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Celestial Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Astral Griffon Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Archfey Patron Warlock.md",
+    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses/Burglar Treasure Hunter.md",
+    "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
     "Rules/Spells/Level 5/Endure.md",
     "Rules/Spells/Level 5/Bone Cage.md",
-    "Rules/Classes/Tamer/Tamer Subclasses/Splicer Tamer.md",
     "Rules/Spells/Level 2/Inequality.md",
     "Rules/Spells/Level 4/Frogskin.md",
     "Rules/Spells/Level 3/Zippit.md",
@@ -394,17 +390,10 @@
     "Rules/Spells/Level 2/Eelskin.md",
     "Rules/Spells/Level 1/Peppermint Plate.md",
     "5 Monster Stat Blocks/Undead/Specter.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Haunted Sorcery Sorcerer.md",
-    "Rules/Spells/Level 1/Hunters Mark.md",
-    "conflict-files-obsidian-git.md",
-    "5 Monster Stat Blocks/Undead/Ghost.md",
     "Pictures/Monsters/Spectre BGR PNG.png",
     "Pictures/Monsters/Spectre BGR PNG.png.opdownload",
-    "Rules/Spells/Level 7/Resurrection.md",
     "Pictures/Monsters/Ghost BGR PNG.png",
     "Pictures/Monsters/Ghost BGR PNG.png.opdownload",
-    "Rules/Spells/Level 5/Little Death.md",
-    "Rules/Classes/Sorcerer/Sorcerer Subclasses/Frost Sorcery Sorcerer.md",
     "Pictures/Monsters/Construct Spirit BGR PNG.png",
     "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Summon Construct .png",

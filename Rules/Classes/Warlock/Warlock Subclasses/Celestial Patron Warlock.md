@@ -1,4 +1,4 @@
-# WOP Celestial Patron Warlock
+# Celestial Patron Warlock
 ## Player’s Handbook (2024)
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
