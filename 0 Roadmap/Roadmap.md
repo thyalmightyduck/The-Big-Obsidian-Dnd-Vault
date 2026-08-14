@@ -361,22 +361,20 @@ Finished Hunters Mark links
 		- [ ] Wild Magic (add links)
 	- [x] Wretched
 		- [ ] Wretched (add links)
-- [ ] Treasure Hunter
-	- [ ] Burglar
-	- [ ] Spy
-- [ ] Warden
-	- [ ] Forayer
-	- [ ] Hunter
+- [x] Treasure Hunter
+	- [x] Burglar
+	- [x] Spy
+- [x] Warden
+	- [x] Forayer
+	- [x] Hunter
 - [ ] Warlock
 	- [x] Archfey
 	- [x] Astral Griffon
 	- [x] Celestial
-	- [ ] Cosmic
-		- [ ] Cosmic (Add links)
+	- [x] Cosmic
 	- [x] Coven
 	- [x] Fathomless
 	- [x] Feline Court
-		- [ ] Feline (add spells)
 	- [x] Fiend
 	- [x] First Vampire
 	- [x] Flesh
@@ -394,42 +392,42 @@ Finished Hunters Mark links
 	- [x] Stone Sovereign
 	- [x] The First Vampire
 	- [x] Undead
-	- [ ] Undying
+	- [x] Undying
 - [ ] Wizard
-	- [ ] Abjuration
-	- [ ] Abjurer
-	- [ ] Bibliomancer
-	- [ ] Biomancy
-	- [ ] Bladesinger
-	- [ ] Bladesinging
-	- [ ] Blood Magic
-	- [ ] Chronurgy
-	- [ ] Conjuration
-	- [ ] Daemonologist
-	- [ ] Divination
-	- [ ] Diviner
-	- [ ] Enchantment
-	- [ ] Evocation
-	- [ ] Evoker
-	- [ ] Gravilurgy
-	- [ ] Illusion
-	- [ ] Illusionist
-	- [ ] Leyline
-	- [ ] Malfeasant
-	- [ ] Materializer
-	- [ ] Necromancy
-	- [ ] Occultism
-	- [ ] Occultist
-	- [ ] Origami Mage
-	- [ ] Philosopher
-	- [ ] Philosophy
-	- [ ] Plague Doctor
-	- [ ] Sangromancer
-	- [ ] Scribes
-	- [ ] Shadow
-	- [ ] Transmutation
-	- [ ] Wand
-	- [ ] War
+	- [x] Abjuration
+	- [x] Abjurer
+	- [x] Bibliomancer
+	- [x] Biomancy
+	- [x] Bladesinger
+	- [x] Bladesinging
+	- [x] Blood Magic
+	- [x] Chronurgy
+	- [x] Conjuration
+	- [x] Daemonologist
+	- [x] Divination
+	- [x] Diviner
+	- [x] Enchantment
+	- [x] Evocation
+	- [x] Evoker
+	- [x] Gravilurgy
+	- [x] Illusion
+	- [x] Illusionist
+	- [x] Leyline
+	- [x] Malfeasant
+	- [x] Materializer
+	- [x] Necromancy
+	- [x] Occultism
+	- [x] Occultist
+	- [ ] Origami Mage (Temp Taken Down)
+	- [x] Philosopher
+	- [x] Philosophy
+	- [x] Plague Doctor
+	- [x] Sangromancer
+	- [x] Scribes
+	- [x] Shadow
+	- [x] Transmutation
+	- [x] Wand
+	- [x] War
 - [x] Pugilist
 	- [x] Dog and Hound
 	- [x] Hand of Dread

@@ -1,4 +1,4 @@
-# WOP Chronurgy Magic Wizard
+# Chronurgy Magic Wizard
 ## Explorer’s Guide to Wildemount
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -94,6 +94,23 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### Chronurgy Magic
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+
+Focusing on the manipulation of time, those who follow the Chronurgy tradition learn to alter the pace of reality to their liking. Using the ramping of anticipatory dunamis energy, these mages can bend the flow of time as adroitly as a skilled musician plays an instrument, lending themselves and their allies an advantage in the blink of an eye.
+
+### Chronal Shift
+_2nd-level Chronurgy Magic feature_
+
+You can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll.
+
+You can use this ability twice, and you regain any expended uses when you finish a long rest.
+
+### Temporal Awareness
+_2nd-level Chronurgy Magic feature_
+
+You can add your Intelligence modifier to your initiative rolls.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +120,40 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Momentary Stasis
+_6th-level Chronurgy Magic feature_
+
+As an action, you can magically force a Large or smaller creature you can see within 60 feet of you to make a Constitution saving throw against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is [[incapacitated]] and has a speed of 0.
+
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Arcane Abeyance
+_10th-level Chronurgy Magic feature_
+
+When you cast a spell using a spell slot of 4th level or lower, you can condense the spell's magic into a mote. The spell is frozen in time at the moment of casting and held within a gray bead for 1 hour. This bead is a Tiny object with AC 15 and 1 hit point, and it is immune to poison and psychic damage. When the duration ends, or if the bead is destroyed, it vanishes in a flash of light, and the spell is lost.
+
+A creature holding the bead can use its action to release the spell within, whereupon the bead disappears. The spell uses your spell attack bonus and save DC, and the spell treats the creature who released it as the caster for all other purposes.
+
+Once you create a bead with this feature, you can't do so again until you finish a short or long rest.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Convergent Future
+_14th-level Chronurgy Magic feature_
+
+You can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within 60 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice).
+
+When you use this feature, you gain one level of [[exhaustion]]. Only by finishing a long rest can you remove a level of [[exhaustion]] gained in this way.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

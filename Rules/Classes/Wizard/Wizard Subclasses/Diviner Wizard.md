@@ -1,4 +1,4 @@
-# WOP Diviner Wizard 
+# Diviner Wizard 
 ## Player’s Handbook (2024):
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -94,6 +94,21 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### Diviner
+_Learn the Secrets of the Multiverse_
+
+The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+
+### Level 3: Divination Savant
+Choose two Wizard spells from the Divination school, each of which must be no higher than level 2, and add them to your spellbook for free.
+
+In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Divination school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+### Level 3: Portent
+Glimpses of the future begin to press on your awareness. Whenever you finish a [[Long Rest]], roll two d20s and record the numbers rolled. You can replace any [[D20 Test]] made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+
+Each foretelling roll can be used only once. When you finish a [[Long Rest]], you lose any unused foretelling rolls.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +118,32 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 6: Expert Divination
+Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a Divination spell using a level 2+ spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the slot you expended and can't be higher than level 5.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 10: The Third Eye
+You can increase your powers of perception. As a [[Bonus Action]], choose one of the following benefits, which lasts until you start a [[Short]] or [[Long Rest]]. You can't use this feature again until you finish a [[Short Rest]] or [[Long Rest]].
+
+**Darkvision:** You gain Darkvision with a range of 120 feet.
+
+**Greater Comprehension:** You can read any language.
+
+**See Invisibility:** You can cast [[See Invisibility]] without expending a spell slot.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Level 14: Greater Portent
+The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

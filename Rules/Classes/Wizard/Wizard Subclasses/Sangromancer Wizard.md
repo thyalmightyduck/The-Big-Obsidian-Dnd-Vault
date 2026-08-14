@@ -1,4 +1,4 @@
-# WOP Sangromancer Wizard
+# Sangromancer Wizard
 ## Grim Hallow: Player’s Guide (2024)
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -94,6 +94,19 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### Sangromancer
+_Spill Blood for Power_
+
+You study an uncommon school of magic known as Sangromancy or blood magic. Despite its dark reputation, there's nothing inherently evil about the practice of Sangromancy, though its demands on its practitioners are gruesome. As a Sangromancer, your chosen magic demands more than knowledge: it demands sacrifice. Other Wizards may view you with skepticism or even outright hostility, but none can deny the potency of your art.
+
+### Level 3: Sangromancy Savant
+Sangromancy spells count as Wizard spells for you. Choose two Sangromancy spells, each of which must be no higher than level 2, and add them to your spellbook for free.
+
+In addition, whenever you gain access to a new level of spell slots in this class, you can add one Sangromancy spell to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+
+### Level 3: Full-Blooded
+You draw magic from blood. It is represented by your Sangromancy Dice, which fuel powers you have from this subclass. You have a pool of d12s that you can expend instead of a [[Hit Dice]] when you cast Sangromancy spells. The number of dice in the pool equals 1 plus your Wizard level. You regain one expended Sangromancy Die when you finish a [[Short Rest]], and you regain all expended Sangromancy Dice when you finish a [[Long Rest]].
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +116,28 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 6: Sanguine Vigor
+Your [[Hit Point]] maximum increases by 6, and it increases by 1 whenever you gain another Wizard level. In addition, whenever you cast a Sangromancy spell with a spell slot, you regain [[Hit Point]]s equal to the level of the spell slot.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 10: Blood for Blood
+Once on each of your turns when you deal damage to one or more creatures with a Wizard spell you cast, you can spend a [[Hit Point Dice]] or a Sangromancy Die, roll the die, and deal extra damage to one of those creatures equal to the roll. If the creature is [[Bloodied]], you can roll twice and use the higher of the two rolls.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Level 14: Red Renewal
+When you finish a [[Short Rest]], you regain expended [[Hit Point Dice]] and Sangromancy Dice equal to half your Wizard level.
+
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

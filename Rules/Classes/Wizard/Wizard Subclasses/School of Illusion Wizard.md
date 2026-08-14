@@ -1,4 +1,4 @@
-# WOP School of Illusion Wizard
+# School of Illusion Wizard
 ## Player’s Handbook (2014):
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -94,6 +94,19 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### School of Illusion
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+
+You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists—including many gnome wizards—are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
+
+### Illusion Savant
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved.
+
+### Improved Minor Illusion
+When you choose this school at 2nd level, you learn the [[minor illusion]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+
+When you cast [[minor illusion]], you can create both a sound and an image with a single casting of the spell.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +116,30 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Malleable Illusions
+Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell's normal parameters for the illusion), provided that you can see the illusion.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Illusory Self
+Beginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Illusory Reality
+By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semi-reality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.
+
+The object can't deal damage or otherwise directly harm anyone.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

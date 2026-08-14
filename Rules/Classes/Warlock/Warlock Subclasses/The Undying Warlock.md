@@ -275,12 +275,21 @@ The Undying lets you choose from an expanded list of spells when you learn a war
 | 3rd         | [[feign death]], [[speak with dead]] |
 | 4th         | [[aura of life]], [[death ward]]     |
 | 5th         | [[contagion]], [[legend lore]]       |
+### Among the Dead
+Starting at 1st level, you learn the [[spare the dying]] cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.
+
+Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of [[fireball]]). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Defy Death
+Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with [[spare the dying]].
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -292,6 +301,11 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Undying Nature
+Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce [[exhaustion]] and still benefit from finishing short and long rests.
+
+In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -310,6 +324,11 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Indestructible Life
+When you reach 14th level, you partake some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

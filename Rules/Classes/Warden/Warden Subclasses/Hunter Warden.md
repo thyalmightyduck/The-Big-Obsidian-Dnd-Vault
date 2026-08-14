@@ -1,4 +1,4 @@
-# WOP Hunter Warden
+# Hunter Warden
 ## The Lord of the Rings Roleplaying:
 
 | Level | [[Proficiency Bonus]] | Features                                                                         |
@@ -79,6 +79,21 @@ Two-Weapon Fighting. When you engage in two-weapon fighting, you can add your a
 ## Level 3: Warden Oath
 At 3rd level, you swear your oath as a Warden. You might choose to be a Forayer or a Hunter, both detailed at the end of the calling description. Your choice grants you features at 3rd level and again at 7th level.
 
+### Hunter
+You have chosen to prey upon the enemies of the Free Peoples, as a hunter relentlessly seeks a dangerous quarry.
+
+### Level 3: Bonus Proficiency
+When you choose this oath at 3rd level, you gain proficiency in the Hunting skill. If you are already proficient, or when tracking your favoured foes, you add double your proficiency bonus to checks you make with it.
+
+### Level 3: Hunter's Prey
+At 3rd level, you gain one of the following features of your choice.
+
+**Foe-Hammer:** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, you can roll one additional weapon damage die on the damage roll if it's below its hit points maximum. You can deal this extra damage only once per turn.
+
+**Goblin-Cleaver:** Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+
+**Troll-Killer:** Once on each of your turns when you make a weapon attack against a Large or larger creature, you can make another attack with the same weapon against the same creature.
+
 ## Level 3: Rumour of the Earth
 Beginning at 3rd level, you can use your action to focus your awareness on the region around you. You can sense whether and which of your favoured foes are present within a number of miles of you equal to your Wisdom modifier (minimum of 1; double this value if you are in your warded lands). This feature doesn't reveal the creatures' location or number. Once you use this feature, you cannot use it again until you finish a short or long rest.
 
@@ -104,6 +119,15 @@ You choose one additional warded land at 6th level. As you gain levels, your cho
 
 ## Level 7: Warden Oath feature
 At 7th level, you gain a feature granted by your Warden Oath feature.
+
+### Level 7: Defensive Tactics
+At 7th level, you gain one of the following features of your choice.
+
+**Multiattack Defence:** When a creature hits or misses you with an attack, you add your proficiency bonus to your AC against all subsequent attacks made by that creature for the rest of the turn.
+
+**Stout Resistance:** You gain proficiency in a saving throw of your choice.
+
+**Swift to Fly:** You can use the [[Disengage action]] as a bonus action on your turn.
 
 ## Level 8: Virtue
 At 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.

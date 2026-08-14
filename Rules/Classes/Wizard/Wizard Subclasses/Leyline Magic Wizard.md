@@ -1,5 +1,5 @@
-# WOP Leyline Magic Wizard
-## Humblewood Tales
+# Leyline Magic Wizard
+## Humblewood Tales:
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | --------------------------------------------------------- | -------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -94,6 +94,95 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### Leyline Magic
+The primal forces of nature have their own magical energy, one which can be harnessed by wizards with proper training. By drawing on this power, leyline wizards can tap into primordial reservoirs of magic to gain access to new spells, empower their own spellcasting, or disrupt opposing forces that attempt to take root in their domain. The most powerful wizards of this tradition can set new leylines, transforming unnatural or inhospitable places into paradises with time. These wizards work closely with druids, and they can gradually heal environments that have been blighted or corrupted.
+
+### Level 2: Natural Attunement
+When you choose this arcane tradition at 2nd level, you learn how to attune yourself to the magic of leylines which course through nature. Each day when you prepare your spells in a natural setting, you may also attune yourself to the energy of a nearby leyline to gain additional spells. When you do, consult the list of spells from the Leyline Spells table that matches the environment in which you prepared your spells. You can only be attuned to one leyline at a time.
+
+While attuned to a leyline, you gain access to any spells on your current list of leyline spells for which you meet the level requirement. For as long as you are attuned to a leyline, you always have these spells prepared, and they don't count against the number of spells you can prepare each day. Leyline spells are not copied into your spellbook. If you gain access to a spell that doesn't appear on the wizard spell list, the spell is nonetheless a wizard spell for you.
+
+### Level 2: Leyline Spells
+**Leyline Spells:**
+
+**Arctic:**
+
+| Wizard Level | Leyline Spells                                                    |
+| ------------ | ----------------------------------------------------------------- |
+| 1st          | [[grease]]                                                        |
+| 3rd          | [[hold person]]                                                   |
+| 5th          | [[slow]]                                                          |
+| 7th          | [[ice storm]]                                                     |
+| 9th          | [[cone of cold]] |
+
+**Coast:**
+
+| Wizard Level | Leyline Spells                            |
+| ------------ | ----------------------------------------- |
+| 1st          | [[thunderwave]]                           |
+| 3rd          | [[mirror image]]                          |
+| 5th          | [[call lightning]]                        |
+| 7th          | [[control water]]                         |
+| 9th          | [[conjure elemental]] (air or water only) |
+
+**Desert:**
+
+| Wizard Level | Leyline Spells                                      |
+| ------------ | --------------------------------------------------- |
+| 1st          | [[color spray]]                                     |
+| 3rd          | [[blur]]                                            |
+| 5th          | [[daylight]]                                        |
+| 7th          | [[blight]]                                          |
+| 9th          | [[seeming]] |
+
+**Forest:**
+
+| Wizard Level | Leyline Spells                                                |
+| ------------ | ------------------------------------------------------------- |
+| 1st          | [[entangle]]                                                  |
+| 3rd          | [[barkskin]]                                                  |
+| 5th          | [[conjure animals]]                                           |
+| 7th          | [[shape plants]]*                                             |
+| 9th          | [[tree stride]] |
+
+**Grassland:**
+
+| Wizard Level | Leyline Spells                                                                  |
+| ------------ | ------------------------------------------------------------------------------- |
+| 1st          | [[elevated sight]]*                                                             |
+| 3rd          | [[gust of wind]]                                                                |
+| 5th          | [[wind wall]]                                                                   |
+| 7th          | [[freedom of movement]]                                                         |
+| 9th          | [[commune with nature]] |
+
+**Mountain:**
+
+| Wizard Level | Leyline Spells                                                      |
+| ------------ | ------------------------------------------------------------------- |
+| 1st          | [[fog cloud]]                                                       |
+| 3rd          | [[silence]]                                                         |
+| 5th          | [[sleet storm]]                                                     |
+| 7th          | [[stoneskin]]                                                       |
+| 9th          | [[wall of stone]] |
+
+**Swamp:**
+
+| Wizard Level | Leyline Spells                                                    |
+| ------------ | ----------------------------------------------------------------- |
+| 1st          | [[veil of dusk]]*                                                 |
+| 3rd          | [[spike growth]]                                                  |
+| 5th          | [[stinking cloud]]                                                |
+| 7th          | [[giant insect]]                                                  |
+| 9th          | [[insect plague]] |
+### Level 2: Thrum of the Land
+Also at 2nd level, you learn how to channel energy from a leyline to supplement your spells, infusing them with power. Whenever you are in an environment that matches a leyline to which you are attuned, you can apply one of the following benefits to any leyline spell you cast (chosen when you cast the spell):
+
+- You gain a +2 bonus to attack rolls made with this spell.
+- You gain a +1 bonus to your spell save DC for this spell.
+- You have advantage on Constitution saving throws you make to maintain [[concentration]] on this spell, and you can concentrate on this spell for up to twice its normal duration.
+
+At 14th level, you can apply one of these benefits to a single spell of 6th level or higher when you cast it, so long as you are in an environment that matches a leyline to which you are attuned. You can't use this feature again until you have completed a long rest.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +192,32 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 6: Biorhythm
+At 6th level, you learn to channel the leyline's energies to augment your body's natural healing. As long as you are attuned to a leyline, whenever you use your Arcane Recovery feature to regain expended spell slots, you regain 1d8 hit points for each spell slot you recover.
+
+Additionally, when you complete a short rest in a natural setting, you can attune yourself to a different leyline, following the rules of your Natural Attunement feature.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 10: Natural Disruption
+By 10th level, you can channel energy from your leyline to disrupt others' magic. You can cast [[counterspell]] or [[dispel magic]] without expending a spell slot at the level of the highest spell slot available to you.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Level 14: Leyline Weaving
+At 14th level, you have learned how to tap into the interconnected network of distant leylines, temporarily infusing even unnatural or hostile environments with their power. By spending 1 hour in meditation, you can draw on the power of a distant leyline to temporarily create a new one in your location. When you do this, you may choose any one terrain from the Leyline Spells tables and attune yourself to its leyline. The terrain of this leyline does not need to match the terrain you are currently in. Your new leyline affects a 1-mile radius area from the spot you meditated upon, which counts as the terrain of the leyline you attuned to for the purposes of using your leyline abilities. It is hard for a leyline to take root in unfamiliar spaces, and after 24 hours, this effect dissipates. Once you use this feature, you can't do so again until you finish a long rest.
+
+By using this ability to create the same type of leyline on the same spot each day for a full year, you can cause the effect to become permanent. This will forever alter the natural landscape within the zone you created, and you can choose whether the environment within this zone matches your new leyline or combines the features of its terrain with those naturally present.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

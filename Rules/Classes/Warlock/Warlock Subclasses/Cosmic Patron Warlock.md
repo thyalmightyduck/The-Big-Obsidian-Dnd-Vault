@@ -264,19 +264,44 @@ The Cosmos lets you choose from an expanded list of spells when you learn a warl
 
 **Expanded Spell List:**
 
-| Spell Level | Spell                                                                                                                                          |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st         | [[magic missile]], [[faerie fire]]                                                                                                             |
-| 2nd         | [[moonbeam]], [[scorching ray]]                                                                                                                |
-| 3rd         | [[blink]], [[spirit guardian]]                                                                                                                 |
-| 4th         | [[fire shield]], [[wall of fire]]                                                                                                              |
+| Spell Level | Spell                                     |
+| ----------- | ----------------------------------------- |
+| 1st         | [[magic missile]], [[faerie fire]]        |
+| 2nd         | [[moonbeam]], [[scorching ray]]           |
+| 3rd         | [[blink]], [[spirit guardians]]           |
+| 4th         | [[fire shield]], [[wall of fire]]         |
 | 5th         | [[flame strike]], [[greater restoration]] |
+### Level 1: Cosmic Attributes
+You take on an otherworldly cosmic appearance or essence. Choose one or more of the attributes listed below, decide your own, or roll randomly to determine how the cosmic powers bestowed into you take form.
+
+|1d6| |
+|---|---|
+|1|Your eyes become pools of inky black with small galaxies floating within them. To look into them is as if floating through the cosmos lost in the void of space.|
+|2|Your touch becomes cold as ice and your skin becomes pale. Some might think you undead or sickly. You appear as if you had died in the cold of space.|
+|3|Your voice has a slight echoing nature to it. As if there is more than one entity speaking through you. Your own voice is most prominent but when listening carefully one can make out a chorus of celestial voices speaking through you.|
+|4|You give off a faint smell of ozone — acrid and sulfuric, as if lightning had just struck nearby. It seems unnatural and otherworldly.|
+|5|You develop a third eye in the middle of your forehead that is unblinking, and seems to pierce into people's minds as it stares upon them.|
+|6|Your veins glow with a soft radiant light, giving you the appearance of a walking constellation of stars and cosmic energy.|
+### Level 1: Shooting Stars
+Beginning at first level, you learn the [[eldritch blast]] cantrip if you don't know it already. It doesn't count against the number of warlock cantrips you know. When you cast [[eldritch blast]], you can have it deal radiant damage instead of force damage.
+
+### Level 1: Cosmic Guidance
+You can speak, read, and write Celestial and Deep Speech. In addition, you learn the [[guidance]] cantrip. It doesn't count against the number of warlock cantrips you know. Additionally, you may cast the spell [[augury]] once without expending a spell slot. You can't do so again until you finish a long rest.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Orbit
+Once per turn when you miss a creature with [[eldritch blast]], the beam returns to you as an orbiting comet around your head. While you have an orbiting comet, you can absorb its energy to do the following:
+
+- **Cosmic Power.** Once on your turn when you cast [[eldritch blast]], you can consume one orbiting comet to fire an additional beam.
+- **Interception.** You can use your reaction to intercept a melee or ranged attack, gaining resistance to the damage from that attack.
+- **Lightspeed.** As a bonus action, you can consume a comet to teleport 30 feet to an unoccupied space you can see.
+
+You can have a maximum number of orbiting comets equal to your proficiency bonus. As long as you have comets, you glow with bright light out to 20 feet, and dim light for an additional 10 feet. The comets last until you finish a short or long rest, or until you dismiss them (no action required).
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -288,6 +313,11 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Meteoric Impact
+Once per turn when you hit a creature with [[eldritch blast]], you can cause the beam to explode. Each creature within 10 feet of the target must succeed on a Dexterity saving throw or take 3d6 fire damage.
+
+The damage increases to 4d6 damage at 14th level, and to 5d6 damage at 17th level.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -306,6 +336,12 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Supernova
+Charged by the energy of the stars, you gain additional benefits from the otherworldly entities lurking in the deep void of space.
+
+- When you cast [[eldritch blast]], you can fire one additional beam.
+- Whenever you score a critical hit with [[eldritch blast]], you can use your Meteoric Impact feature an additional time that turn.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

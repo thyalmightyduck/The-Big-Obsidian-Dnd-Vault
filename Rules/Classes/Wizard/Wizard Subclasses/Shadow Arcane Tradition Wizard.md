@@ -1,5 +1,5 @@
-# WOP Shadow Arcane Tradition Wizard
-## Book of Ebon Tides
+# Shadow Arcane Tradition Wizard
+## Book of Ebon Tides:
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | --------------------------------------------------------- | -------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -94,6 +94,19 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### Shadow Arcane Tradition
+The powers of shadow are an obsession for wizards who follow the Shadow Arcane tradition. Because they understand shadow's tantalizing powers—and seek to learn more—these practitioners infuse their very beings with it to discover its secrets firsthand.
+
+### Level 2: Shadow Symbiote
+At 2nd level, you bond a living shadow to your body, wearing it like a second skin. While you are bonded in this way, you gain the following:
+
+- You gain darkvision out to a range of 60 feet. If you already have darkvision, its range is extended by 60 feet.
+- You can see in magical darkness out to a range of 30 feet.
+- You have sunlight sensitivity, and while in sunlight, you have disadvantage on attack rolls as well as on Wisdom (Perception) checks that rely on sight.
+
+### Level 2: Dark Transfusion
+Starting at 2nd level, you can feed energy to your symbiote to transform it. As a bonus action, you can expend two spell slots to recover one spell slot equal to or less than the total combined value of the expended spell slots. For example, you could expend a 1st-level spell slot and a 2nd-level spell slot to recover one 3rd-level spell slot.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +116,28 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 6: Orb of Night
+At 6th level, your shadow symbiote can expand to hide you from foes. When a creature makes an attack roll against you, you can use your reaction to encase yourself in a 10-foot-radius sphere of magical darkness (imposing disadvantage on attacks against you if a creature cannot see through magical darkness). If the triggering target hits you with the attack, you can't use this feature on the attacker again until you finish a long rest. The darkness persists until the beginning of your next turn.
+
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that don't rely on eyesight are immune to this effect.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 10: From the Shadows
+Starting at 10th level, your shadow symbiote camouflages you, allowing you to get the drop on your enemies. Whenever you roll initiative while in dim light or darkness, you automatically take the [[Hide Action]] from all creatures at least 10 feet away from you. You are no longer hidden if you move, attack, or cast a spell.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Level 14: Second Skin
+Starting at 14th level, your shadow symbiote shares your pain. While in dim light or darkness, you have a +2 to AC and resistance to all bludgeoning, piercing, and slashing damage.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

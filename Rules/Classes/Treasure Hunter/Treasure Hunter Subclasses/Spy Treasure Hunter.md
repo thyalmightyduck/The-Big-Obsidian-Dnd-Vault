@@ -1,4 +1,4 @@
-# WOP Spy Treasure Hunter
+# Spy Treasure Hunter
 ## The Lord of the Rings Roleplaying: 
 
 | Level | [[Proficiency Bonus]] | Features                           | Sneak Attack |
@@ -59,7 +59,18 @@ The amount of the extra damage increases as you gain levels in this calling, as 
 Starting at 2nd level, you can take a [[bonus action]] on each of your turns in combat. This action can be used only to take the [[Dash Action]], [[Disengage Action]], or [[Hide action]].
 
 ## Level 3: Treasure Hunter Speciality
-When you reach 3rd level, you choose a speciality to pattern your career as a Treasure Hunter after. You can choose to be a Burglar or a Spy. Specialities grant you features at 3rd and 7th level. Both specialties are detailed at the end of the calling description.
+When you reach 3rd level, you choose a speciality to pattern your career as a Treasure Hunter after. You can choose to be a Burglar or a Spy. Specialties grant you features at 3rd and 7th level. Both specialties are detailed at the end of the calling description.
+
+### Spy
+The Enemy sends many agents among the Free Peoples, and you intend to spy upon them, lest they undermine your efforts to resist the Shadow.
+
+### Level 3: Cunning Eye
+Starting at 3rd level, you can add your Intelligence modifier to your Wisdom ([[Insight]]) and Wisdom ([[Perception]]) checks. In addition, you can use the bonus action granted by your Cunning Action to take the [[Search action]].
+
+### Level 3: Weak Spot
+Also at 3rd level, you can use a bonus action to make an Intelligence ([[Investigation]]) or Wisdom ([[Perception]]) check against a creature within 30 feet of you that you can see, contested by the target's Dexterity ([[Stealth]]) check. If you win the contest, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+
+This benefit lasts for 1 minute or until you successfully use this feature against a different target.
 
 ## Level 4: Virtue
 At 4th level, and again at 6th and 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.
@@ -76,6 +87,9 @@ At 6th level, instead of taking a virtue you can gain a craft slot and a craft o
 
 ## Level 7: Treasure Hunter Speciality feature
 At 7th level, you gain a feature granted by your Treasure Hunter Speciality feature.
+
+### Level 7: Sharp-Eyed
+Starting at 7th level, you have advantage on Intelligence ([[Investigation]]) and Wisdom ([[Perception]]) checks if you move no more than half your speed on the same turn.
 
 ## Level 8: Virtue
 At 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.

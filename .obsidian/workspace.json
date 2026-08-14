@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Undying Warlock.md",
+                "file": "Rules/Classes/Artificer/Artificer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Undying Warlock"
+              "title": "Artificer"
+            }
+          },
+          {
+            "id": "69152446efcac026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 Magic Items/Misc/Sending Stones.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sending Stones"
             }
           },
           {
@@ -61,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 3/Feign Death.md",
+                "file": "Rules/Spells/Level 5/Feline Chaos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Feign Death"
+              "title": "Feline Chaos"
             }
           },
           {
@@ -225,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Spells/Level 3/Feign Death.md",
+                "file": "7 Magic Items/Misc/Sending Stones.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -358,53 +382,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "41244ffd8f463e72",
+  "active": "69152446efcac026",
   "lastOpenFiles": [
-    "Rules/Spells/Level 2/Ambush Prey.md",
-    "Rules/Spells/Level 3/Feign Death.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Undying Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Undead Warlock.md",
+    "Pictures/Magic Items/Sending Stones BGR PNG.png",
+    "Pictures/Magic Items/Sending Stones BGR PNG.png.opdownload",
+    "Rules/Tools/Tinkers Tools.md",
+    "7 Magic Items/Misc/Sending Stones.md",
+    "Rules/Classes/Artificer/Artificer.md",
+    "Rules/Classes/Warden/Warden Subclasses/Hunter Warden.md",
     "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Predator Warlock.md",
+    "Rules/Classes/Warden/Warden Subclasses/Forayer Warden.md",
+    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses/Spy Treasure Hunter.md",
+    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses/Burglar Treasure Hunter.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Exalted Assembly of the Feline Court Warlock.md",
+    "Rules/Spells/Level 5/Feline Chaos.md",
+    "Rules/Spells/Level 3/Phantom Panther.md",
+    "Rules/Spells/Level 2/Feline Grace.md",
+    "Rules/Spells/Cantrips/Cats Spring.md",
+    "Rules/Spells/Level 9/Shapechange.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Cosmic Patron Warlock.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/Occultism Wizard.md",
+    "Rules/Classes/Wizard/Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/War Magic Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/Wand Lore Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/Shadow Arcane Tradition Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/School of Transmutation Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/School of Necromancy Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/School of Sangromancy Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/School of Illusion Wizard.md",
+    "Rules/Classes/Wizard/Wizard Subclasses/School of Evocation Wizard.md",
+    "Pictures/Spells/Shapechage PNG.png",
+    "Pictures/Spells/Elevated Sight PNG.png",
+    "Pictures/Spells/Shape Plants PNG.png",
+    "Pictures/Monsters/Bestial Spirit BGR PNG.png",
+    "Pictures/Monsters/Bestial Spirit BGR PNG.png.opdownload",
     "Pictures/Spells/Ambush Prey PNG.png",
-    "Rules/Traps and Hazards/Environmental Hazards/Extreme Cold.md",
-    "Rules/Traps and Hazards/Environmental Hazards/Frigid Water.md",
-    "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
     "Rules/Traps and Hazards/Environmental Hazards",
     "Pictures/Monsters/Ancient White Dragon BGR PNG.png",
     "Pictures/Monsters/Ancient White Dragon BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Ooze/Parasitic Ooze.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Parasite Warlock.md",
-    "Rules/Spells/Level 4/Staggering Smite.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Parasite Patron.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Many Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Lantern Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Hexblade Warlock.md",
-    "5 Monster Stat Blocks/Elemental/Marid.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
     "Pictures/Monsters/Marid BGR PNG.png",
     "Pictures/Monsters/Marid BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Elemental/Efreeti.md",
     "Pictures/Monsters/Efreeti GBR PNG.png",
     "Pictures/Monsters/Efreeti GBR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Elemental/Djinni.md",
     "Pictures/Monsters/Djinni BGR PNG.png",
     "Pictures/Monsters/Djinni BGR PNG.png.opdownload",
-    "5 Monster Stat Blocks/Elemental/Dao.md",
     "Pictures/Monsters/Dao BGR PNG.png",
     "Pictures/Monsters/Dao BGR PNG.png.opdownload",
-    "Rules/Spells/Level 3/Meld into Stone.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Fiend Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Fathomless Warlock.md",
-    "Pictures/Spells/Bigbys Hand PNG.png",
-    "Pictures/Monsters/Minotaur Skeleton BGR PNG.png",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png.opdownload",
-    "Pictures/Monsters/Ghast BGR PNG.png",
-    "Pictures/Monsters/Ghast BGR PNG.png.opdownload",
-    "Pictures/Monsters/Spectre BGR PNG.png",
-    "Pictures/Monsters/Spectre BGR PNG.png.opdownload",
-    "Pictures/Monsters/Ghost BGR PNG.png.opdownload"
+    "Pictures/Monsters/Ghast BGR PNG.png.opdownload"
   ]
 }

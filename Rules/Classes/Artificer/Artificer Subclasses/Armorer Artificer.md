@@ -33,7 +33,7 @@
 
 **Weapon Proficiencies:** [[Simple weapons]] and firearms
 
-**Tool Proficiencies:** [[thieves tools]], [[tinker's tools]], and one type of [[Artisans Tools]] of your choice
+**Tool Proficiencies:** [[thieves tools]], [[Tinkers Tools]], and one type of [[Artisans Tools]] of your choice
 
 **Armor Training:** [[Light armor]] and [[Medium armor]] and [[Shields]]
 
@@ -49,13 +49,13 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 **[[Skill]] Proficiencies:** _Choose 1:_ [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], or [[Sleight of Hand]].
-**Tool Proficiencies:** [[Tinker's Tools]]
+**Tool Proficiencies:** [[Tinkers Tools]]
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
 ## Level 1: Spellcasting
 You have learned how to channel magical energy through objects. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [[Artificer spell list]] later in the class's description.
 
-**Tools Required:** You produce your Artificer spells through tools. You can use [[Thieves Tools]], [[Tinker's Tools]], or another kind of [[Artisans Tools]] with which you have [[proficiency]] as a [[Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
+**Tools Required:** You produce your Artificer spells through tools. You can use [[Thieves Tools]], [[Tinkers Tools]], or another kind of [[Artisans Tools]] with which you have [[proficiency]] as a [[Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
 
 **Cantrips:** You know two Artificer cantrips of your choice. [[Acid Splash]] and [[Prestidigitation]] are recommended.
 
@@ -78,7 +78,7 @@ Spellcasting Ability. Intelligence is your spellcasting ability for your Artifi
 ## Level 1: Tinker's Magic
 You know the [[Mending]] cantrip.
 
-As a [[Magic Action]] while holding [[Tinker's Tools]], you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
+As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
 
 - [[Ball Bearings]]    
 - [[Basket]]
@@ -123,7 +123,7 @@ Plans Known. When you gain this feature, choose four plans to learn from the Ma
 
 You learn another plan of your choice when you reach certain Artificer levels, as shown in the Plans Known column of the Artificer Features table. When you choose a plan to learn, you choose it from any Magic Item Plans table for which you qualify; your qualification is based on your Artificer level.
 
-Creating an Item. When you finish a [[Long Rest]], you can create one or two different magic items if you have [[Tinker's Tools]] in hand. Each item is based on one of the plans you know for this feature.
+Creating an Item. When you finish a [[Long Rest]], you can create one or two different magic items if you have [[Tinkers Tools]] in hand. Each item is based on one of the plans you know for this feature.
 
 If a created item requires [[Attunement]], you can attune yourself to it the instant you create it. If you decide to attune to the item later, you must do so using the normal process for [[Attunement]].
 

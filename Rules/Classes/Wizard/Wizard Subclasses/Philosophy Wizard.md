@@ -1,4 +1,4 @@
-# WOP Philosophy Wizard
+# Philosophy Wizard
 ## The Crooked Moon (2014)
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -94,6 +94,43 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### Philosophy
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+
+_Distill the Essence of Creation_
+
+Philosophys have focused their study of wizardry on the fundamental nature of existence and reality. They seek the most quintessential truths of creation and manipulate those forces and substances through alchemical practice. Through understanding, deconstruction, and reconstruction, they master the natural energies of the world around them and alter it to their will.
+
+Every Wizard who walks the steps of the Philosophy does so to solve some specific problem, even if only at first. The Philosophical Pursuits table offers challenges or goals that set you onto your study of alchemical magic.
+
+**Philosophical Pursuits:**
+
+| 1d12 | Guiding Goal                                                                                                                                            |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Someone close to you is lost in time, the planes, or some other esoteric state of being. Unraveling the nature of reality is your path to finding them. |
+| 2    | You suffered a debilitating ailment or injury and turned to the study of magic to deconstruct the impairment's nature and transmute it.                 |
+| 3    | Your teacher was killed by a rival Philosophy, and you must learn all you can of that discipline to protect yourself and bring them to justice.         |
+| 4    | The rediscovered research of a missing mage unlocked the first secrets of your understanding but contains many more you can't yet decipher.             |
+| 5    | Wizardry provides a path to immense power, but you know an even greater state of being awaits your ascension.                                           |
+| 6    | You encountered a material with miraculous properties, and you can't rest until you discover the secret of its creation.                                |
+| 7    | Your sibling's soul was separated from their body in a spell gone wrong, and you cannot forgive yourself until you make them whole.                     |
+| 8    | You were a stage performer who wowed audiences with magical acts, and you seek the ultimate magic trick to become a legend.                             |
+| 9    | You come from an impoverished hometown and wish to utilize the transmutation of metals to bring prosperity to your community.                           |
+| 10   | In your pursuit to be closer to the gods, you have sought the secrets of creating new life forms in your own image.                                     |
+| 11   | You were raised to revere the four elements, and you hypothesized that mastering the stuff of existence will bring harmony to them all.                 |
+| 12   | You had aspirations of joining the military and rising through the ranks, believing that the magic of reality can be used as a weapon of war.           |
+### Alchemical Knowledge
+You gain a set of [[alchemists supplies]]. You have proficiency with it and can use it as an arcane focus. Additionally, you can use [[alchemists supplies]] instead of another tool required to craft a magic item.
+
+### Quintessence
+You have learned the fundamental process of dissolution. You know the [[Dissolution]] cantrip. A creature or object you reduce to 0 hit points with the cantrip is destroyed. If the target was Small or larger, it dissolves into a measure (about an ounce) of crystalline powder called Quintessence. You can have a maximum amount of Quintessence equal to twice your Intelligence modifier (minimum of 2 measures) at one time. If you create more, the oldest measure vanishes. You can use Quintessence you are touching in the following ways.
+
+**Material Component:** When you cast a spell, you can expend Quintessence to serve as the spell's material components up to a value of 100 gp per Quintessence expended.
+
+**Reagent:** When you scribe a spell into your spellbook, or when you use [[alchemists supplies]] to craft a magic item, you can expend Quintessence to serve as 50 gp worth of material for the task per Quintessence expended.
+
+**Vitriolic Enhancement:** When you cast a spell that deals damage, you can expend 1 Quintessence as an additional material component to change one damage type the spell deals to force.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +140,36 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Albedo
+You can purify your Quintessence to amplify your spells. When you cast a spell using a spell slot, you can expend 1 Quintessence as a material component to increase the level of the spell slot by 1, up to 9th level. The maximum Quintessence you can expend in this way on a given spell is half of your proficiency bonus (rounded up).
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Citrinitas
+You can now manipulate Quintessence to create, not merely to purify. You add the [[Creation]] and [[Fabricate]] spells to your spellbook if they aren't there already, and you can cast each spell once without expending a spell slot, regaining the ability to do so when you finish a long rest. When you cast a spell using this feature, the casting time becomes 1 action. You can also cast the spells normally using spell slots of the appropriate level.
+
+Additionally, when you cast [[Creation]], you can expend a number of Quintessence up to your Intelligence modifier (minimum of 1) to multiply the spell's duration by 1 plus the amount expended.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Rubedo
+The culmination of your great work, you can now distill your perfected knowledge of existence into a physical form. When you finish a short or long rest, you can expend 10 Quintessence to create a Philosophy's stone—a translucent red crystal. The stone is a Tiny magical object with an AC of 18, 20 hit points, and immunity to all damage except force. If you create a second Philosophy's stone, the first one vanishes. While you carry the stone, it grants you the following benefits.
+
+**Amplification:** When you cast a spell, you can expend up to 2 Quintessence as an additional material component to increase your spell save DC for that spell by the same amount.
+
+**Equivalent Exchange:** When you fail a saving throw, you can use your reaction to expend 5 Quintessence to succeed on the save instead.
+
+**Longevity:** You stop aging and don't suffer any effects from old age, including dying from it.
+
+**Sympathy:** The stone counts as part of your body for the purpose of the [[Scrying]] spell and for spells that restore you to life if you die. The stone itself serves as the material component for the spell (if any) and is destroyed when the spell is cast.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

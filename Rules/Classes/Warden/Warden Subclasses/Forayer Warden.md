@@ -1,4 +1,4 @@
-# WOP Forayer Warden
+# Forayer Warden
 ## The Lord of the Rings Roleplaying:
 
 | Level | [[Proficiency Bonus]] | Features                                                                         |
@@ -79,6 +79,18 @@ Two-Weapon Fighting. When you engage in two-weapon fighting, you can add your a
 ## Level 3: Warden Oath
 At 3rd level, you swear your oath as a Warden. You might choose to be a Forayer or a Hunter, both detailed at the end of the calling description. Your choice grants you features at 3rd level and again at 7th level.
 
+### Forayer
+You patrol the land ceaselessly seeking to ambush the servants of the Enemy, for they are found in many places, not in Mordor only.
+
+### Level 3: Bonus Proficiency
+When you choose this oath at 3rd level, you gain proficiency in the [[Stealth]] skill. If you are already proficient, or if you are in one of your warded lands, you add double your proficiency bonus to checks you make with it.
+
+### Level 3: Ambusher
+Starting at 3rd level, you excel at ambushing your enemies. You can add your Wisdom modifier to your initiative rolls, and you have advantage on attack rolls against any creature that hasn't taken a turn. In addition, you gain the Sneak Attack feature. The extra damage is 1d6, and it increases to 2d6 when you reach 7th level in this calling.
+
+**Sneak Attack:** You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[incapacitated]], and you don't have disadvantage on the attack roll.
+
 ## Level 3: Rumour of the Earth
 Beginning at 3rd level, you can use your action to focus your awareness on the region around you. You can sense whether and which of your favoured foes are present within a number of miles of you equal to your Wisdom modifier (minimum of 1; double this value if you are in your warded lands). This feature doesn't reveal the creatures' location or number. Once you use this feature, you cannot use it again until you finish a short or long rest.
 
@@ -104,6 +116,9 @@ You choose one additional warded land at 6th level. As you gain levels, your cho
 
 ## Level 7: Warden Oath feature
 At 7th level, you gain a feature granted by your Warden Oath feature.
+
+### Level 7: Harrier
+Starting at 7th level, you can use the [[Hide action]] as a [[bonus action]] on your turn.
 
 ## Level 8: Virtue
 At 8th level, you can take a common or cultural virtue of your choice. You can take each virtue only once. As normal, you cannot increase an ability score above 20 using this feature.

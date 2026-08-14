@@ -1,5 +1,5 @@
-# WOP Malfeasant Wizard
-## Sebastian Crowe’s Guide to Drakkenheim
+# Malfeasant Wizard
+## Sebastian Crowe’s Guide to Drakkenheim:
 
 | Level | Proficiency Bonus | Features                                                  | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | --------------------------------------------------------- | -------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -94,6 +94,18 @@ While studying magic, you also specialized in another field of study. Choose one
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
+### Malfeasant
+The path of the Malfeasant wizard unlocks eldritch abilities lesser spellcasters consider to be unnatural. Malfeasant wizards flout the restrictions of the Amethyst Academy which bar such forbidden magic. As a result, most hide from the Academy and the Silver Order, having been expelled from the school for their pursuit of such dark and dangerous magic.
+
+### Level 2: Forbidden Study
+Whenever you gain a wizard level, you can add one Contaminated Spell to your spellbook. This is in addition to the two wizard spells you normally learn. You don't need to research or discover the spell beforehand, instead developing the spell as a result of your own research.
+
+### Level 2: Horrific Potential
+If you undergo a Monstrous Transformation, the form chosen by the Game Master must have a Challenge Rating equal to at least half your level (rounded down), but can't have a Challenge Rating greater than your level.
+
+### Level 2: Anomalous Materials
+You've learned how to cast Contaminated Spells while shielding yourself from their harmful energies. You don't gain a Contamination Level when you cast a Contaminated Spell. Any delerium required as material components for the spell isn't consumed when you cast the spell in this way, but you must still provide those components. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
@@ -103,17 +115,40 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 6: Increased Threshold
+Your dedicated long-term exposure to eldritch contamination has inured your body to its effects, and you can withstand a greater accumulation of contamination.
+
+You gain proficiency in Constitution saving throws and resistance to necrotic damage.
+
+When determining which Symptoms apply to you as a result of gaining Eldritch Contamination, you are treated as having a number of Contamination Levels equal to half your current Contamination Level instead, rounded down. For example, if you gained 5 Contamination Levels, you would only suffer the Symptoms of Contamination Level 2. Thus, you would need to gain 12 Contamination Levels to undergo a Monstrous Transformation, instead of 6.
+
+In the same manner, when checking to see if you develop a mutation when you gain a new Contamination Level, you are treated as having a number of Contamination Levels equal to half your current Contamination Level instead, rounded down. For example, if you gained 4 Contamination Levels, you would only develop a new mutation if the result of the 1d6 roll is 2 or lower.
+
+Note that if you have six or more contamination levels, being subject to the [[purge contamination]] spell will cause you to gain six (or more) levels of exhaustion, and you'll die as a result.
+
+### Level 6: Expel Contaminants
+You've discovered an arcane method to safely discharge eldritch pollutants from your own body. Whenever you finish a long rest, you can reduce your Contamination Level by an amount equal to half your proficiency bonus (rounded down).
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Level 10: Contaminated Casting
+You can gain Contamination Levels to empower your spells. Whenever you cast a spell which has increased effects from being cast using a higher-level spell slot, you can increase the spell's level without expending a higher-level spell slot. For each level you increase the spell's level in this way, you gain 1 Contamination Level. For example, if you wanted to cast the 3rd-level spell fireball as if it was a 5th-level spell, you could expend a 3rd-level spell slot and gain 2 Contamination Levels instead. You can't use this feature on a Contaminated Spell, nor to increase a spell's level higher than your highest level spell slot.
+
+### Level 10: Stabilizing Focus
+While you are concentrating on a spell, you ignore the Symptoms of any Contamination Levels you have gained, except for a Monstrous Transformation.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Level 14: Apotheosis in Flesh
+If you undergo a Monstrous Transformation, you maintain control over your new form for 1 minute. Unless you die, you revert back to your original form after 24 hours. When you assume your original form, you gain the benefits of a long rest and all Contamination Levels are removed from you. The Game Master determines what memories you retain from your transformation, if any. Regardless, the harrowing experience will haunt you in your nightmares forever, and you gain one form of Drakkenheim Madness.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

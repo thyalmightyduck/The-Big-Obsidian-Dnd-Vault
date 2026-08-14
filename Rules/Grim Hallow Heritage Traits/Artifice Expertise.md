@@ -1,4 +1,4 @@
-Working with detritus and shattered objects has granted you an affinity for repairing and remaking things. You have proficiency with [[Tinker's Tools]]. (This is an Exploration trait.) Additionally, you can use your [[Tinker's Tools]] and 10 GP worth of appropriate materials to spend 10 minutes creating a small clockwork device. The device must fit in the palm of your hand, and can serve one of the following functions:
+Working with detritus and shattered objects has granted you an affinity for repairing and remaking things. You have proficiency with [[Tinkers Tools]]. (This is an Exploration trait.) Additionally, you can use your [[Tinkers Tools]] and 10 GP worth of appropriate materials to spend 10 minutes creating a small clockwork device. The device must fit in the palm of your hand, and can serve one of the following functions:
 
 **Smoker:** The device exudes smoke in a 5-foot [[Cube]] for 1 minute. Any objects or creatures within this [[Cube]] are considered [[Lightly Obscured]].
 

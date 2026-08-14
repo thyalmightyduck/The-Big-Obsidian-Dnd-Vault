@@ -33,7 +33,7 @@
 
 **Weapon Proficiencies:** [[Simple weapons]] and firearms
 
-**Tool Proficiencies:** [[thieves tools]], [[tinker's tools]], and one type of [[Artisans Tools]] of your choice
+**Tool Proficiencies:** [[thieves tools]], [[Tinkers Tools]], and one type of [[Artisans Tools]] of your choice
 
 **Armor Training:** [[Light armor]] and [[Medium armor]] and [[Shields]]
 
@@ -42,20 +42,20 @@ You start with the following items, plus anything provided by your background.
 - any two [[simple weapons]] of your choice
 - a [[light crossbow]] and [[Bolts (20)]]
 - (a) [[studded leather armor]] or (b) [[scale mail]]
-- [[thieves' tools]] and a [[dungeoneer's pack]]
+- [[thieves tools]] and a [[dungeoneer's pack]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 **[[Skill]] Proficiencies:** _Choose 1:_ [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], or [[Sleight of Hand]].
-**Tool Proficiencies:** [[Tinker's Tools]]
+**Tool Proficiencies:** [[Tinkers Tools]]
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
 ## Level 1: Spellcasting
 You have learned how to channel magical energy through objects. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [[Artificer spell list]] later in the class's description.
 
-**Tools Required:** You produce your Artificer spells through tools. You can use [[Thieves Tools]], [[Tinker's Tools]], or another kind of [[Artisans Tools]] with which you have [[proficiency]] as a [[Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
+**Tools Required:** You produce your Artificer spells through tools. You can use [[Thieves Tools]], [[Tinkers Tools]], or another kind of [[Artisans Tools]] with which you have [[proficiency]] as a [[Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
 
 **Cantrips:** You know two Artificer cantrips of your choice. [[Acid Splash]] and [[Prestidigitation]] are recommended.
 
@@ -78,7 +78,7 @@ Spellcasting Ability. Intelligence is your spellcasting ability for your Artifi
 ## Level 1: Tinker's Magic
 You know the [[Mending]] cantrip.
 
-As a [[Magic Action]] while holding [[Tinker's Tools]], you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
+As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
 
 - [[Ball Bearings]]    
 - [[Basket]]
@@ -86,7 +86,7 @@ As a [[Magic Action]] while holding [[Tinker's Tools]], you can create one it
 - [[Bell]]
 - [[Blanket]]
 - [[Block and Tackle]]
-- [[Bottle, Glass]]
+- [[Glass Bottle]]
 - [[Bucket]]
 - [[Caltrops]]
 - [[Candle]]
@@ -106,7 +106,7 @@ As a [[Magic Action]] while holding [[Tinker's Tools]], you can create one it
 - [[Rope]]
 - [[Sack]]
 - [[Shovel]]
-- [[Spikes, Iron]]
+- [[Iron Spikes]]
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
@@ -119,11 +119,11 @@ You can use this feature a number of times equal to your Intelligence modifier (
 ## Level 2: Replicate Magic Item
 You have learned arcane plans that you use to make magic items.
 
-Plans Known. When you gain this feature, choose four plans to learn from the Magic Item Plans (Artificer Level 2+) table (see the Dungeon Master's Guide for the items' descriptions). [[Bag of Holding]], [[Cap of Water Breathing]], [[Sending Stones]], and [[Wand of the War Mage]] are recommended. Whenever you gain an Artificer level, you can replace one of the plans you know with a new plan for which you qualify.
+Plans Known. When you gain this feature, choose four plans to learn from the Magic Item Plans (Artificer Level 2+) table (see the Dungeon Master's Guide for the items' descriptions). [[Bag of Holding]], [[Cap of Water Breathing]], [[Sending Stones]], and [[+1 Wand of the War Mage]] are recommended. Whenever you gain an Artificer level, you can replace one of the plans you know with a new plan for which you qualify.
 
 You learn another plan of your choice when you reach certain Artificer levels, as shown in the Plans Known column of the Artificer Features table. When you choose a plan to learn, you choose it from any Magic Item Plans table for which you qualify; your qualification is based on your Artificer level.
 
-Creating an Item. When you finish a [[Long Rest]], you can create one or two different magic items if you have [[Tinker's Tools]] in hand. Each item is based on one of the plans you know for this feature.
+Creating an Item. When you finish a [[Long Rest]], you can create one or two different magic items if you have [[Tinkers Tools]] in hand. Each item is based on one of the plans you know for this feature.
 
 If a created item requires [[Attunement]], you can attune yourself to it the instant you create it. If you decide to attune to the item later, you must do so using the normal process for [[Attunement]].
 
@@ -145,51 +145,51 @@ When an Artificer crafts a magic item using the normal rules in the Dungeon Mas
 Magic Item Plans (Artificer Level 2+)
 
 | Magic Item Plan                                             | [[Attunement]] |
-| ----------------------------------------------------------- | ---------- |
-| [[Alchemy Jug]]                                             | No         |
-| [[Bag of Holding]]                                          | No         |
-| [[Cap of Water Breathing]]                                  | No         |
-| Common magic item that isn't a Potion, a Scroll, or cursed* | Varies     |
-| [[Goggles of Night]]                                        | No         |
-| [[Manifold Tool]]                                           | Yes        |
-| [[Repeating Shot]]                                          | Yes        |
-| [[Returning Weapon]]                                        | No         |
-| [[Rope of Climbing]]                                        | No         |
-| [[Sending Stones]]                                          | No         |
-| [[Shield +1]]                                               | No         |
-| [[Wand of Magic Detection]]                                 | No         |
-| [[Wand of Secrets]]                                         | No         |
-| [[Wand of the War Mage +1]]                                 | Yes        |
-| [[Weapon +1]]                                               | No         |
-| [[Wraps of Unarmed Power, +1]]                              | No         |
+| ----------------------------------------------------------- | -------------- |
+| [[Alchemy Jug]]                                             | No             |
+| [[Bag of Holding]]                                          | No             |
+| [[Cap of Water Breathing]]                                  | No             |
+| Common magic item that isn't a Potion, a Scroll, or cursed* | Varies         |
+| [[Goggles of Night]]                                        | No             |
+| [[Manifold Tool]]                                           | Yes            |
+| [[Repeating Shot]]                                          | Yes            |
+| [[Returning Weapon]]                                        | No             |
+| [[Rope of Climbing]]                                        | No             |
+| [[Sending Stones]]                                          | No             |
+| [[+1 Shield]]                                               | No             |
+| [[Wand of Magic Detection]]                                 | No             |
+| [[Wand of Secrets]]                                         | No             |
+| [[+1 Wand of the War Mage]]                                 | Yes            |
+| [[+1 Weapon]]                                               | No             |
+| [[+1 Wraps of Unarmed Power]]                               | No             |
 *You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.*
 
 Magic Item Plans (Artificer Level 6+)
 
 | Magic Item Plan               | [[Attunement]] |
-| ----------------------------- | ---------- |
-| [[Armor +1]]                  | No         |
-| [[Boots of Elvenkind]]        | No         |
-| [[Boots of the Winding Path]] | Yes        |
-| [[Cloak of Elvenkind]]        | Yes        |
-| [[Cloak of the Manta Ray]]    | Yes        |
-| [[Dazzling Weapon]]           | Yes        |
-| [[Eyes of Charming]]          | Yes        |
-| [[Eyes of Minute Seeing]]     | No         |
-| [[Gloves of Thievery]]        | No         |
-| [[Helm of Awareness]]         | No         |
-| [[Lantern of Revealing]]      | No         |
-| [[Mind Sharpener]]            | Yes        |
-| [[Necklace of Adaptation]]    | Yes        |
-| [[Pipes of Haunting]]         | No         |
-| [[Repulsion Shield]]          | No         |
-| [[Ring of Swimming]]          | No         |
-| [[Ring of Water Walking]]     | No         |
-| [[Sentinel Shield]]           | No         |
-| [[Spell-Refueling Ring]]      | Yes        |
-| [[Wand of Magic Missiles]]    | No         |
-| [[Wand of Web]]               | Yes        |
-| [[Weapon of Warning]]         | Yes        |
+| ----------------------------- | -------------- |
+| [[+1 Armor]]                  | No             |
+| [[Boots of Elvenkind]]        | No             |
+| [[Boots of the Winding Path]] | Yes            |
+| [[Cloak of Elvenkind]]        | Yes            |
+| [[Cloak of the Manta Ray]]    | Yes            |
+| [[Dazzling Weapon]]           | Yes            |
+| [[Eyes of Charming]]          | Yes            |
+| [[Eyes of Minute Seeing]]     | No             |
+| [[Gloves of Thievery]]        | No             |
+| [[Helm of Awareness]]         | No             |
+| [[Lantern of Revealing]]      | No             |
+| [[Mind Sharpener]]            | Yes            |
+| [[Necklace of Adaptation]]    | Yes            |
+| [[Pipes of Haunting]]         | No             |
+| [[Repulsion Shield]]          | No             |
+| [[Ring of Swimming]]          | No             |
+| [[Ring of Water Walking]]     | No             |
+| [[Sentinel Shield]]           | No             |
+| [[Spell-Refueling Ring]]      | Yes            |
+| [[Wand of Magic Missiles]]    | No             |
+| [[Wand of Web]]               | Yes            |
+| [[Weapon of Warning]]         | Yes            |
 Magic Item Plans (Artificer Level 10+)
 
 | Magic Item Plan                           | [[Attunement]] |
