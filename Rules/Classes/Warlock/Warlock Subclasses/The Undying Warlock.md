@@ -1,4 +1,4 @@
-# WOP The Undying Warlock
+# The Undying Warlock
 ## Sword Coast Adventurer’s Guide
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -255,6 +255,26 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
+
+### The Undying
+_This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
+
+Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize—like all power—comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantilus.
+
+In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.
+
+### Expanded Spell List
+The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+**Undying Expanded Spells:**
+
+| Spell Level | Spells                               |
+| ----------- | ------------------------------------ |
+| 1st         | [[false life]], [[ray of sickness]]  |
+| 2nd         | [[blindness deafness]], [[silence]]  |
+| 3rd         | [[feign death]], [[speak with dead]] |
+| 4th         | [[aura of life]], [[death ward]]     |
+| 5th         | [[contagion]], [[legend lore]]       |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.

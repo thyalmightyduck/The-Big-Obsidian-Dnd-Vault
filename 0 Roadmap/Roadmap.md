@@ -392,8 +392,8 @@ Finished Hunters Mark links
 	- [x] Parasite
 	- [x] Predator
 	- [x] Stone Sovereign
-	- [ ] The First Vampire
-	- [ ] Undead
+	- [x] The First Vampire
+	- [x] Undead
 	- [ ] Undying
 - [ ] Wizard
 	- [ ] Abjuration

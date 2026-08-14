@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Undead Warlock.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Undying Warlock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Undead Warlock"
+              "title": "The Undying Warlock"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 2/Ambush Prey.md",
+                "file": "Rules/Spells/Level 3/Feign Death.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ambush Prey"
+              "title": "Feign Death"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Undead Warlock.md",
+                "file": "Rules/Spells/Level 3/Feign Death.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -358,11 +358,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc71d481f0faa44c",
+  "active": "41244ffd8f463e72",
   "lastOpenFiles": [
-    "Rules/Classes/Warlock/Warlock Subclasses/The Predator Warlock.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Spells/Level 2/Ambush Prey.md",
+    "Rules/Spells/Level 3/Feign Death.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Undying Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Undead Warlock.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Patron Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Predator Warlock.md",
     "Pictures/Spells/Ambush Prey PNG.png",
     "Rules/Traps and Hazards/Environmental Hazards/Extreme Cold.md",
     "Rules/Traps and Hazards/Environmental Hazards/Frigid Water.md",
@@ -391,12 +395,9 @@
     "Pictures/Monsters/Dao BGR PNG.png",
     "Pictures/Monsters/Dao BGR PNG.png.opdownload",
     "Rules/Spells/Level 3/Meld into Stone.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Patron Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The Fiend Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The Fathomless Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Coven Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Celestial Warlock.md",
     "Pictures/Spells/Bigbys Hand PNG.png",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png.opdownload",
