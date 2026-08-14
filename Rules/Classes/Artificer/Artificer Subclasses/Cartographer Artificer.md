@@ -119,7 +119,7 @@ You can use this feature a number of times equal to your Intelligence modifier (
 ## Level 2: Replicate Magic Item
 You have learned arcane plans that you use to make magic items.
 
-Plans Known. When you gain this feature, choose four plans to learn from the Magic Item Plans (Artificer Level 2+) table (see the Dungeon Master's Guide for the items' descriptions). [[Bag of Holding]], [[Cap of Water Breathing]], [[Sending Stones]], and [[Wand of the War Mage]] are recommended. Whenever you gain an Artificer level, you can replace one of the plans you know with a new plan for which you qualify.
+Plans Known. When you gain this feature, choose four plans to learn from the Magic Item Plans (Artificer Level 2+) table (see the Dungeon Master's Guide for the items' descriptions). [[Bag of Holding]], [[Cap of Water Breathing]], [[Sending Stones]], and [[+1 Wand of the War Mage]] are recommended. Whenever you gain an Artificer level, you can replace one of the plans you know with a new plan for which you qualify.
 
 You learn another plan of your choice when you reach certain Artificer levels, as shown in the Plans Known column of the Artificer Features table. When you choose a plan to learn, you choose it from any Magic Item Plans table for which you qualify; your qualification is based on your Artificer level.
 
@@ -160,7 +160,7 @@ Magic Item Plans (Artificer Level 2+)
 | [[Shield +1]]                                               | No         |
 | [[Wand of Magic Detection]]                                 | No         |
 | [[Wand of Secrets]]                                         | No         |
-| [[Wand of the War Mage +1]]                                 | Yes        |
+| [[+1 Wand of the War Mage]]                                 | Yes        |
 | [[Weapon +1]]                                               | No         |
 | [[Wraps of Unarmed Power, +1]]                              | No         |
 *You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.*

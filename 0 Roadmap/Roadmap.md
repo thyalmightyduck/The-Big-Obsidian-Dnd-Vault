@@ -1,5 +1,7 @@
 # Last Left Off
 Finished Hunters Mark links
+Artificer 
+	Repeating shot links
 # Second Quest
 2 person dnd one shots 
 # Recent Added 
@@ -8,151 +10,11 @@ Finished Hunters Mark links
 # Main Tasks
 ## Classes
 #todo/classes
-- [x] Apothecary
 - [x] Artificer
 - [ ] Add magic items
-- [x] Barbarian
-- [x] Bard
-- [x] Captain
-- [x] Champion
-- [x] Cleric
-- [x] Druid
-- [x] Fighter
-- [x] Gunslinger
-- [x] Illrigger
-- [x] Messenger
-- [x] Monk
-- [x] Monster Hunter
-- [x] Mystic
-- [x] Paladin
-- [x] Ranger
-- [x] Rogue
-- [x] Scholar
-- [x] Sorcerer
-- [x] Treasure Hunter
-- [x] Warden
-- [x] Warlock
-- [x] Wizard
-- [x] Pugilist
-- [x] Tamer
 
 ## Subclasses
 #todo/subclasses
-- [x] Apothecary
-	- [x] Alienist
-	- [x] Chemist
-	- [x] Exorcitst
-	- [x] Mutagenist
-	- [x] Pathogenist
-	- [x] Reanimator
-		- [x] Add Corpsewrought creature
-- [x] Artificer
-	- [x] Alchemist
-	- [x] Armorer
-	- [x] Artillerist
-	- [x] Battle Smith
-	- [x] Cartographer
-	- [x] Forge
-	- [x] Maverick
-	- [x] Reanimator
-- [x] Barbarian
-	- [x] Ancestral Guardian 
-	- [x] Battlerager
-	- [x] Beast
-	- [x] Belly Brewer
-	- [x] Berserker
-	- [x] Experiment
-	- [x] Fractured
-	- [x] Giant
-	- [x] Infernal
-	- [x] Juggernaut
-	- [x] Primal Spirit
-	- [x] Shadow Gnawer
-	- [x] Spell Scorned
-	- [x] Storm Herald
-	- [x] Totem Warrior
-	- [x] Wild Heart
-	- [x] Wild Magic
-	- [x] World Tree
-	- [x] Wrathful Dead
-	- [x] Zealot
-	- [x] Muscle Wizard
-	- [x] Carrion Raven
-	- [x] Demon Shard
-	- [x] Glacier
-	- [x] Haze Rager
-	- [x] Old Gods
-- [x] Bard
-	- [x] Adventurers
-	- [x] Choreography
-	- [x] Creation
-	- [x] Cuisine
-	- [x] Dance
-	- [x] Dirge Singer
-	- [x] Doomslayers
-	- [x] Drama
-	- [x] Eloquence
-	- [x] Fleshweaving
-	- [x] Fools
-	- [x] Fury
-	- [x] Glamor
-	- [x] Lore
-	- [x] Masks
-	- [x] Mercantile
-	- [x] Moon
-	- [x] Requiems
-	- [x] Road
-	- [x] Shadow
-	- [x] Spirits
-	- [x] Swords
-	- [x] Tragedy
-	- [x] Valor
-	- [x] Wands
-	- [x] Whispers
-	- [x] Whistle
-- [x] Captain
-	- [x] Cheiftain
-	- [x] Thane
-- [x] Champion
-	- [x] Sharp-Shooter
-	- [x] Slayer
-- [x] Cleric
-	- [x] Ambition
-	- [x] Apocalypse
-	- [x] Arcana
-	- [x] Aspiration
-	- [x] Astral
-	- [x] Blood
-	- [x] Commerce
-	- [x] Community
-	- [x] Death
-	- [x] Eldritch
-	- [x] Festus
-	- [x] Forge
-	- [x] Grave
-	- [x] Harvest
-	- [x] Hunt
-	- [x] Inquisition
-	- [x] Keeper
-	- [x] Knowledge
-	- [x] Life
-	- [x] Light
-	- [x] Mind
-	- [x] Moon
-	- [x] Nature
-	- [x] Night
-	- [x] Order
-	- [x] Peace
-	- [x] Purification
-	- [x] Shadow
-	- [x] Solidarity
-	- [x] Strength
-	- [x] Tempest
-	- [x] Trickery
-	- [x] Twilight
-	- [x] War
-	- [x] Zeal
-	- [x] Dragon Domain
 - [ ] Druid
 	- [x] Blighted
 	- [x] Blood
@@ -202,22 +64,6 @@ Finished Hunters Mark links
 	- [x] Scoffiaw
 	- [ ] Spirit-Fused (Temp Taken Down)
 	- [x] Steel Hawk
-- [x] Gunslinger
-	- [x] Deadeye
-	- [x] High Roller
-	- [x] Secret Agent
-	- [x] Spellslinger
-	- [x] Trick Shot
-	- [x] White Hat
-- [x] Illrigger
-	- [x] Architect Of Ruin
-	- [x] Hellspeaker
-	- [x] Painkiller
-	- [x] Sanguine Knight
-	- [x] Shadowmaster
-- [x] Messenger
-	- [x] Counselor
-	- [x] Herald
 - [ ] Monk
 	- [x] Aether
 	- [x] Arcane Hand
@@ -244,19 +90,6 @@ Finished Hunters Mark links
 	- [ ] Sheep Dragon Shepherd (Temp Taken Down)
 	- [x] Street
 	- [x] Sun Soul
-- [x] Monster Hunter
-	- [x] Carver
-	- [x] Devourer
-	- [x] Occultist
-	- [x] Trapper
-- [x] Mystic
-	- [x] Order of the avatar
-	- [x] Order of the awakened
-	- [x] Order of the Immortal
-	- [x] Order of the nomad
-	- [x] order of the soul knife
-	- [x] Order of the Wu JEn
-	- [ ] 
 - [ ] Paladin
 	- [x] Ancients
 	- [x] Castigation
@@ -327,9 +160,6 @@ Finished Hunters Mark links
 	- [x] Thief
 	- [x] Umbral Binder
 	- [ ] Waxwork (Temp Taken Down)
-- [x] Scholar
-	- [x] Healing
-	- [x] Lore
 - [ ] Sorcerer
 	- [x] Aberrant
 	- [x] Aberrant Mind
@@ -361,12 +191,6 @@ Finished Hunters Mark links
 		- [ ] Wild Magic (add links)
 	- [x] Wretched
 		- [ ] Wretched (add links)
-- [x] Treasure Hunter
-	- [x] Burglar
-	- [x] Spy
-- [x] Warden
-	- [x] Forayer
-	- [x] Hunter
 - [ ] Warlock
 	- [x] Archfey
 	- [x] Astral Griffon
@@ -428,18 +252,6 @@ Finished Hunters Mark links
 	- [x] Transmutation
 	- [x] Wand
 	- [x] War
-- [x] Pugilist
-	- [x] Dog and Hound
-	- [x] Hand of Dread
-	- [x] Piss and Vinegar
-	- [x] Squared Circle
-	- [x] Street Saint
-	- [x] Sweet Science
-- [x] Tamer
-	- [x] Infuser
-	- [x] Leader
-	- [x] Necromancer
-	- [x] Splicer
 
 ## Feats
 #todo/feats
@@ -478,10 +290,11 @@ Finished Hunters Mark links
 - [ ] finish [[Gibbering Mouther]]
 - [ ] finish [[Delerium Dreg]]
 - [ ] finish [[pyknic maunder]]
-- [ ] Fix Weapon Formating
+- [ ] Fix Weapon Formatting
 # Additions
 Make Shop Roll Tables
 Add Schools of Magic
+[[Repeating Shot]] links
 # Installed Plugins
 - Advanced Tables-Tony Grosinger
 - Buttons-shabegom

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Druid/Druid Subclasses/Circle of the Petal Druid.md",
+                "file": "0 Roadmap/Roadmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Circle of the Petal Druid"
+              "title": "Roadmap"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Cleric/Cleric Subclasses/Dragon Domain Cleric.md",
+                "file": "Rules/Classes/Artificer/Artificer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dragon Domain Cleric"
+              "title": "Artificer"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Magic Items/Misc/Alchemy Jug.md",
+                "file": "7 Magic Items/Weapons/Repeating Shot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alchemy Jug"
+              "title": "Repeating Shot"
             }
           },
           {
@@ -113,8 +113,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Magic Items/Misc/Alchemy Jug.md",
+                "file": "0 Roadmap/Roadmap.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -382,52 +381,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "69152446efcac026",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
-    "Pictures/Magic Items/Alchemy Jug BGR PNG.png",
-    "Pictures/Magic Items/Alchemy Jug BGR PNG.png.opdownload",
-    "7 Magic Items/Wands/+1 Wand of the War Mage.md",
-    "7 Magic Items/Misc/Alchemy Jug.md",
-    "7 Magic Items/Misc/Sending Stones.md",
-    "7 Magic Items/Wands",
+    "7 Magic Items/Weapons/Repeating Shot.md",
+    "0 Roadmap/Roadmap.md",
+    "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
+    "Rules/Weapons/Double-Barrel Shotgun.md",
+    "7 Magic Items/Weapons/Repeating Cannon.md",
+    "Rules/Weapons/Cannon.md",
+    "7 Magic Items/Weapons/Repeating Blunderbuss.md",
+    "Rules/Weapons/Blunderbuss.md",
+    "7 Magic Items/Weapons/Repeating Blowgun.md",
+    "Rules/Weapons/Blowgun.md",
+    "Pictures/Weapons/Blowgun BGR PNG.png",
+    "Pictures/Weapons/Blowgun BGR PNG.png.opdownload",
+    "7 Magic Items/Weapons/Repeating Assault Rifle.md",
+    "Rules/Actions/Ready Action.md",
+    "Rules/Weapons/Assault Rifle.md",
+    "Pictures/Weapons/Assault Rigle BGR PNG.png",
+    "Pictures/Weapons/Assault Rigle.png",
+    "Pictures/Weapons/Assault Rigle.png.opdownload",
+    "Pictures/Weapons",
+    "Pictures/New folder",
+    "Rules/Core Rules/Action.md",
+    "7 Magic Items/Misc/Manifold Tool.md",
+    "Rules/Classes/Artificer/Artificer.md",
     "Rules/Classes/Cleric/Cleric Subclasses/Dragon Domain Cleric.md",
     "Rules/Classes/Druid/Druid Subclasses/Circle of the Petal Druid.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Classes/Artificer/Artificer.md",
+    "7 Magic Items/Misc/Goggles of Night.md",
+    "7 Magic Items/Misc/Alchemy Jug.md",
+    "7 Magic Items/Wands/+1 Wand of the War Mage.md",
+    "7 Magic Items/Misc/Sending Stones.md",
+    "Rules/Tools/Tinkers Tools.md",
+    "Pictures/Magic Items/Goggles of Night BGR PNG.png",
+    "Pictures/Magic Items/Goggles of Night BGR PNG.png.opdownload",
+    "Pictures/Magic Items/Alchemy Jug BGR PNG.png",
+    "Pictures/Magic Items/Alchemy Jug BGR PNG.png.opdownload",
+    "7 Magic Items/Wands",
     "Pictures/Magic Items/Sending Stones BGR PNG.png",
     "Pictures/Magic Items/Sending Stones BGR PNG.png.opdownload",
-    "Rules/Tools/Tinkers Tools.md",
     "Rules/Classes/Warden/Warden Subclasses/Hunter Warden.md",
     "Rules/Classes/Warden/Warden Subclasses/Forayer Warden.md",
     "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses/Spy Treasure Hunter.md",
-    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses/Burglar Treasure Hunter.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Exalted Assembly of the Feline Court Warlock.md",
-    "Rules/Spells/Level 5/Feline Chaos.md",
-    "Rules/Spells/Level 3/Phantom Panther.md",
-    "Rules/Spells/Level 2/Feline Grace.md",
-    "Rules/Spells/Cantrips/Cats Spring.md",
-    "Rules/Spells/Level 9/Shapechange.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Cosmic Patron Warlock.md",
-    "Rules/Classes/Wizard/Wizard Subclasses/Occultism Wizard.md",
-    "Rules/Classes/Wizard/Wizard.md",
-    "Rules/Classes/Wizard/Wizard Subclasses/War Magic Wizard.md",
-    "Rules/Classes/Wizard/Wizard Subclasses/Wand Lore Wizard.md",
-    "Rules/Classes/Wizard/Wizard Subclasses/Shadow Arcane Tradition Wizard.md",
-    "Rules/Classes/Wizard/Wizard Subclasses/School of Transmutation Wizard.md",
     "Pictures/Spells/Shapechage PNG.png",
     "Pictures/Spells/Elevated Sight PNG.png",
     "Pictures/Spells/Shape Plants PNG.png",
     "Pictures/Monsters/Bestial Spirit BGR PNG.png",
     "Pictures/Monsters/Bestial Spirit BGR PNG.png.opdownload",
-    "Pictures/Spells/Ambush Prey PNG.png",
-    "Rules/Traps and Hazards/Environmental Hazards",
-    "Pictures/Monsters/Ancient White Dragon BGR PNG.png",
-    "Pictures/Monsters/Ancient White Dragon BGR PNG.png.opdownload",
-    "Pictures/Monsters/Marid BGR PNG.png",
-    "Pictures/Monsters/Marid BGR PNG.png.opdownload",
-    "Pictures/Monsters/Efreeti GBR PNG.png",
-    "Pictures/Monsters/Efreeti GBR PNG.png.opdownload",
-    "Pictures/Monsters/Djinni BGR PNG.png.opdownload",
-    "Pictures/Monsters/Dao BGR PNG.png.opdownload"
+    "Rules/Traps and Hazards/Environmental Hazards"
   ]
 }
