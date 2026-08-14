@@ -381,16 +381,16 @@ Finished Hunters Mark links
 	- [x] First Vampire
 	- [x] Flesh
 	- [x] Future You
-	- [ ] Genie
+	- [x] Genie
 	- [x] Great Fool
 	- [x] Great Old One
-	- [ ] Hexblade
+	- [x] Hexblade
 	- [x] Horned King
-	- [ ] Lantern
-	- [ ] Many
+	- [ ] Lantern (Temp Taken Down)
+	- [x] Many
 	- [x]  Mother of Sorrows
-	- [ ] Parasite
-	- [ ] Predator
+	- [x] Parasite
+	- [x] Predator
 	- [x] Stone Sovereign
 	- [ ] The First Vampire
 	- [ ] Undead

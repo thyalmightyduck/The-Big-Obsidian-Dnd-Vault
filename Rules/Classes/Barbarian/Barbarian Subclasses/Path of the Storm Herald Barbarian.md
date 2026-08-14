@@ -118,7 +118,7 @@ Desert. You gain [[resistance]] to fire damage, and you don't suffer the effect
 
 Sea. You gain [[resistance]] to lightning damage, and you can breathe underwater. You also gain a swimming [[speed]] of 30 feet.
 
-Tundra. You gain [[resistance]] to cold damage, and you don't suffer the effects of [[extreme cold]], as described in the Dungeon Master's Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.
+Tundra. You gain [[resistance]] to cold damage, and you don't suffer the effects of [[Rules/Core Rules/Extreme Cold]], as described in the Dungeon Master's Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.
 
 ## Level 7: Feral Instinct
 Your instincts are so honed that you have [[Advantage]] on [[Initiative]] rolls.

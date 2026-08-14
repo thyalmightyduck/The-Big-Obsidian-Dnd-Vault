@@ -1,4 +1,4 @@
-# WOP The Predator Warlock
+# The Predator Warlock
 ## Humblewood Tales
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -256,11 +256,46 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
+### The Predator
+Your patron is a primal beast, driven by a bloodthirsty need to hunt. These beings tempt creatures to give in to their base instincts and become apex predators. [[Ancient white dragon]]s, demons with a bestial bent, and the Amaranthine Kren have all been known to occasionally grant feral powers to those desperate enough to seek their aid. Many who strike a pact with a Predator find themselves forever changed, bearing razor teeth and wicked claws, an aspect of their predatory patron.
+
+### Level 1: Expanded Spell List
+The Predator lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+**The Predator Expanded Spell List:**
+
+| Spell Level | Spells                                      |
+| ----------- | ------------------------------------------- |
+| 1st         | [[hunters mark]], [[jump]]                  |
+| 2nd         | [[alter self]], [[ambush prey]]*            |
+| 3rd         | [[blink]], [[slow]]                         |
+| 4th         | [[dominate beast]], [[freedom of movement]] |
+| 5th         | [[contagion]], [[mislead]]                  |
+### Level 1: Bonus Proficiencies
+Starting at 1st level, your patron grants you enhanced tracking skills. You gain expertise with the Survival skill, and you add double your proficiency bonus to any Wisdom ([[Survival]]) skill checks you make.
+
+### Level 1: Form of the Beast
+At 1st level, you can use your bonus action to channel the ferocity and guile of your patron, transforming into a beastly figure. For 10 minutes, you gain the following abilities:
+
+- You are flooded with adrenaline, feeling nothing besides the thrill of the hunt. You gain temporary hit points equal to two times your warlock level, up to a maximum of 20 temporary hit points at 10th level. These temporary hit points last until the end of your transformation.
+- Your senses become supernaturally keen. You have advantage on Dexterity (Stealth), Wisdom (Perception), and Wisdom (Survival) checks you make to track or stalk your prey.
+- You sprout a set of pointed teeth and razor-sharp claws, which are natural weapons you can use to make unarmed strikes against creatures within 5 feet of you. You have proficiency with these weapons and can use your Charisma modifier for the attack and damage rolls made using these natural weapons. On a hit, your bite deals 1d6 piercing damage, and your claws deal 1d4 slashing damage. If you already had a bite or claw attack (talon attacks count as claw attacks), its damage increases by one step (a d4 becomes a d6, a d6 becomes a d8, etc.). As a bonus action, after making a bite attack, you can make a claw attack.
+- Starting at 5th level, your muscles strengthen, and your movements quicken. You can now make two claw attacks using your bonus action after you have made a bite attack with your action. Additionally, at 5th level, you can take the [[Dash Action]] or [[Hide action]] as a bonus action while you are in your Form of the Beast.
+
+You can use this feature twice per short or long rest. At 6th level, your transformation lasts for 1 hour instead of 10 minutes.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Thrill of the Hunt
+At 6th level, you gain the ability to feast on the vitality of your foes while you are in your Form of the Beast. Once per turn, when you hit a creature with your bite attack, you can cause the attack to deal an extra 3d6 points of necrotic damage. You regain a number of hit points equal to half the total damage dealt with this attack.
+
+Once you use this feature, you can't use it again until you score a critical hit with a bite or claw attack or until you finish a short or long rest.
+
+At 10th level, the extra necrotic damage provided by this feature increases to 5d6.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -272,6 +307,11 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Fearsome Presence
+At 10th level, you learn how to channel the presence of a frightful beast, even when not transformed. You can use your action to cause each hostile creature you can see within a 30-foot radius to make a Wisdom saving throw against your spell save DC. On a failure, the target becomes [[frightened]] of you for 1 minute, and it is [[restrained]] until the end of your next turn. A [[frightened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -290,6 +330,11 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Uncaged Beast
+Upon reaching 14th level, you become even more ferocious when pushed to your limits. When an attacker that you can see hits you with an attack, you can use your reaction to immediately transform into your Form of the Beast and then make one bite or claw attack at an enemy within 5 feet of you.
+
+Additionally, while transformed into your Form of the Beast, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a bite or claw attack against that creature.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

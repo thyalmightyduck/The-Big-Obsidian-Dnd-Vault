@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Undead Warlock.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Genie Warlock"
+              "title": "The Undead Warlock"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Elemental/Marid.md",
+                "file": "Rules/Spells/Level 2/Ambush Prey.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Marid"
+              "title": "Ambush Prey"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: crown of ",
+                "query": "file: frigi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Monster Stat Blocks/Elemental/Marid.md",
+                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Undead Warlock.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -358,9 +358,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "41244ffd8f463e72",
+  "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
+    "Rules/Classes/Warlock/Warlock Subclasses/The Predator Warlock.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Spells/Level 2/Ambush Prey.md",
+    "Pictures/Spells/Ambush Prey PNG.png",
+    "Rules/Traps and Hazards/Environmental Hazards/Extreme Cold.md",
+    "Rules/Traps and Hazards/Environmental Hazards/Frigid Water.md",
+    "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
+    "Rules/Traps and Hazards/Environmental Hazards",
+    "Pictures/Monsters/Ancient White Dragon BGR PNG.png",
+    "Pictures/Monsters/Ancient White Dragon BGR PNG.png.opdownload",
+    "5 Monster Stat Blocks/Ooze/Parasitic Ooze.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Parasite Warlock.md",
+    "Rules/Spells/Level 4/Staggering Smite.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Parasite Patron.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Many Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Lantern Warlock.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Hexblade Warlock.md",
     "5 Monster Stat Blocks/Elemental/Marid.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
     "Pictures/Monsters/Marid BGR PNG.png",
     "Pictures/Monsters/Marid BGR PNG.png.opdownload",
     "5 Monster Stat Blocks/Elemental/Efreeti.md",
@@ -373,37 +391,19 @@
     "Pictures/Monsters/Dao BGR PNG.png",
     "Pictures/Monsters/Dao BGR PNG.png.opdownload",
     "Rules/Spells/Level 3/Meld into Stone.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Patron Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The First Vampire Warlock.md",
-    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The Fiend Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The Fathomless Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The Coven Warlock.md",
     "Rules/Classes/Warlock/Warlock Subclasses/The Celestial Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Archfey Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Stone Sovereign Patron Warlock.md",
-    "Rules/Spells/Level 4/Stone Shape.md",
-    "Rules/Classes/Druid/Druid Subclasses/Circle of the City Druid.md",
-    "Rules/Spells/Level 1/Earth Tremor.md",
-    "Rules/Spells/Level 2/Earthbind.md",
-    "Rules/Spells/Level 5/Bigby's Hand.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Mother of Sorrows Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Horned King Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Great Old One Patron Warlock.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Great Fool Patron Warlock.md",
     "Pictures/Spells/Bigbys Hand PNG.png",
-    "Rules/Spells/Level 4/Puppet Master.md",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png",
     "Pictures/Monsters/Minotaur Skeleton BGR PNG.png.opdownload",
     "Pictures/Monsters/Ghast BGR PNG.png",
     "Pictures/Monsters/Ghast BGR PNG.png.opdownload",
     "Pictures/Monsters/Spectre BGR PNG.png",
     "Pictures/Monsters/Spectre BGR PNG.png.opdownload",
-    "Pictures/Monsters/Ghost BGR PNG.png",
-    "Pictures/Monsters/Ghost BGR PNG.png.opdownload",
-    "Pictures/Monsters/Construct Spirit BGR PNG.png",
-    "Pictures/Monsters/Construct Spirit BGR PNG.png.opdownload",
-    "Pictures/Monsters/Aberrant Spirit BGR PNG.png.opdownload"
+    "Pictures/Monsters/Ghost BGR PNG.png.opdownload"
   ]
 }

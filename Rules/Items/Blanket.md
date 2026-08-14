@@ -2,4 +2,4 @@
 *5 SP, 3 lb.*
 - - - 
 
-While wrapped in a blanket, you have [[Advantage]] on saving throws against [[extreme cold]]
+While wrapped in a blanket, you have [[Advantage]] on saving throws against [[Rules/Core Rules/Extreme Cold]]

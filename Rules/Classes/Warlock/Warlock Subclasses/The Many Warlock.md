@@ -1,4 +1,4 @@
-# WOP The Many Warlock
+# The Many Warlock
 ## The Griffon’s Saddlebag, Book 2
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
@@ -256,11 +256,49 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 ## Level 3: Warlock Subclass
 You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
+### The Many
+Your patron is a powerful entity composed of a multitude of heads. These heads provide unique strengths, such as the regenerative properties of a mighty hydra, or the bewitching gaze of a medusa. Your patron may consider you one of its estranged or forgotten heads, allowing you to do as you please, or compel you to work toward a shared goal as one of its own. Those that make a pact with a patron such as this may find beauty in patterns or matching sets, or become plagued with internal bickering and indecisiveness. Regardless, one thing is for certain: two heads are always better than one.
+
+Entities of this type include extremely powerful or godlike multi-headed or -conscious beings, swarms, or hiveminds. Example patrons in this book include the Butcher Dray, Three-Headed Ettin; Grihoo, the Superhydra; Lady Feluciana, Legendary Medusa Sorceress; the Thousand Voices, Supreme Soul Vortex; and Vaanor, Primeval Cerberus. Details on these patrons can be found in appendix I on page 378.
+
+### Level 1: Expanded Spell List
+The Many lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+| Spell Level | Spells                                     |
+| ----------- | ------------------------------------------ |
+| 1st         | [[entangle]], [[magic missile]]            |
+| 2nd         | [[scorching ray]], [[see invisibility]]    |
+| 3rd         | [[blink]], [[nondetection]]                |
+| 4th         | [[arcane eye]], [[Evards Black Tentacles]] |
+| 5th         | [[mislead]], [[Rarys Telepathic Bond]]     |
+### Level 1: Eldritch Heads
+At 1st level, you gain a number of eldritch heads equal to your proficiency bonus. Only you and creatures with truesight can see these heads, which sprout from your shoulders as representations of your patron. You can choose to ignore the heads and cause them to vanish from your vision.
+
+These eldritch heads provide you with motes of power from your patron that can be expended to grant you the following benefits:
+
+- Once per turn, you can expend one head when you hit a creature with an attack to cause that creature to take extra psychic damage equal to 1 + your proficiency bonus.
+- When you make a Charisma (Intimidation) check, you can expend one head to gain advantage on the roll. When you do, your eldritch heads become briefly visible to everyone.
+- When you fail a death saving throw, you can expend one head to succeed instead.
+
+When a head is expended, its appearance becomes wispy and gaseous, but its glowing eyes remain. You regain all expended heads when you finish a long rest.
+
+In addition, you can use a bonus action to beseech your patron to restore two of your expended heads. Once you use this ability, you can't use it again until you finish a long rest.
+
+### Level 1: Guarded
+Also at 1st level, while you have at least one eldritch head remaining, you can't be surprised, and if a creature would gain advantage on an attack roll against you due to having its ally within 5 feet of you, it makes the attack roll without advantage.
+
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Improved Eldritch Heads
+At 6th level, you've devised more ways to use your eldritch heads. You gain the following benefits:
+
+- You can use a bonus action to expend one eldritch head, reabsorbing it to gain a number of temporary hit points equal to 2d6 + your Charisma modifier.
+- Once per turn, you can expend one head to take a reaction even if you've already used your reaction. You can't use this benefit on the same turn that you take your normal reaction.
+- When you fail a saving throw against being [[charmed]], [[frightened]], or put to sleep by magic, you can expend one head to reroll the saving throw. If you do so, you must use the new roll.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -272,6 +310,9 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Groupthink
+Starting at 10th level, your eldritch heads are always there to support your mortal mind and body. You gain a bonus to Intelligence checks, Wisdom (Perception) checks, and Intelligence saving throws equal to half your proficiency bonus.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -290,6 +331,11 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Eldritch Frenzy
+Starting at 14th level, you can use an action to revive your expended eldritch heads in a frenzied burst, during which time they become visible to everyone. When you do, you regain all expended heads, which releases a thunderous roar audible out to 300 feet as they tear into existence. Choose a number of creatures within 60 feet of you up to the number of heads you regain in this way. Each target must make an Intelligence saving throw against your warlock spell save DC. On a failed save, a target takes 4d8 psychic damage and is [[incapacitated]] until the end of your next turn as its mind is flooded with otherworldly energy. On a successful save, a target takes half as much psychic damage and isn't [[incapacitated]].
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.
