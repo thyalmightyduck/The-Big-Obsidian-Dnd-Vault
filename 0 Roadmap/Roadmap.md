@@ -116,7 +116,7 @@ Finished Hunters Mark links
 - [x] Champion
 	- [x] Sharp-Shooter
 	- [x] Slayer
-- [ ] Cleric
+- [x] Cleric
 	- [x] Ambition
 	- [x] Apocalypse
 	- [x] Arcana
@@ -152,7 +152,7 @@ Finished Hunters Mark links
 	- [x] Twilight
 	- [x] War
 	- [x] Zeal
-	- [ ] Dragon Domain
+	- [x] Dragon Domain
 - [ ] Druid
 	- [x] Blighted
 	- [x] Blood
