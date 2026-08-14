@@ -40,7 +40,7 @@
 You start with the following items, plus anything provided by your background.
 
 - any two [[simple weapons]] of your choice
-- a [[light crossbow]] and [[Bolts (20)]]
+- a [[Light Crossbow]] and [[Bolts (20)]]
 - (a) [[studded leather armor]] or (b) [[scale mail]]
 - [[thieves' tools]] and a [[dungeoneer's pack]]
 

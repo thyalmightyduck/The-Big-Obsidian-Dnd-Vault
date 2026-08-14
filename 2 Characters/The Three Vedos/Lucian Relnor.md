@@ -47,7 +47,7 @@
 > | Passive Insight | 10 |
 > | Passive Stealth | 12 |
 > | Armor | [[Light Armor]] |
-> | Weapon | [[Rapier]], [[Shortsword]], [[Shortsword]], [[Crossbow, Light]], [[Simple Weapons]] |
+> | Weapon | [[Rapier]], [[Shortsword]], [[Shortsword]], [[Light Crossbow]], [[Simple Weapons]] |
 > | Language | [[Common]], [[Elvish]], [[Undercommon]], [[Dwarvish]] |
 >  ##### Defenses And Conditions
   > | Stat | Type |

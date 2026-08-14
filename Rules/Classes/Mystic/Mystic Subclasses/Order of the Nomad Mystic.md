@@ -41,7 +41,7 @@ You start with the following items, plus anything provided by your background.
 
 - (a) a [[spear]] or (b) a [[mace]]
 - (a) [[leather armor]] or (b) [[studded leather armor]]
-- (a) a [[light crossbow]] and [[Bolts (20)]] or (b) any one [[simple weapons]]
+- (a) a [[Light Crossbow]] and [[Bolts (20)]] or (b) any one [[simple weapons]]
 - (a) a [[Scholar’s Pack]] or (b) an [[Explorer's Pack]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.

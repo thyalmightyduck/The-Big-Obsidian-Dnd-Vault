@@ -42,7 +42,7 @@ You start with the following items, plus anything provided by your background.
 
 - (a) [[Scale Mail]] or (b) [[leather armor]]
 - A [[simple weapons]], a [[net]] and a [[shield]]
-- A [[light crossbow]] and [[Bolts (20)]]
+- A [[Light Crossbow]] and [[Bolts (20)]]
 - (a) a [[dungeoneer's pack]] or (b) an [[explorer's pack]]
 
 Alternatively, you may start with 5d4*10 gp to buy your own equipment.

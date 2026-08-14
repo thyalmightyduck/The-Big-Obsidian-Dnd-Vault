@@ -38,7 +38,7 @@
 **Armor Training:** [[Light armor]] and [[Medium armor]]
 
 You start with the following items, plus anything provided by your background:
-- (a) a [[light crossbow]] and 20 bolts, (b) a [[shortsword]] or (c) any [[simple weapons]]
+- (a) a [[Light Crossbow]] and 20 bolts, (b) a [[shortsword]] or (c) any [[simple weapons]]
 - (a) a [[component pouch]] or (b) an [[arcane focus]]
 - (a) a [[scholar's pack]] or (b) a [[Dungeoneer's Pack]]
 - [[hide armor]], any [[simple weapons]], and two [[dagger]]s

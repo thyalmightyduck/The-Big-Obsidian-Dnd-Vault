@@ -113,6 +113,37 @@
               "title": "Graph view"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d401dcf1de83ae3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2126e60665f67ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 Magic Items/Weapons/Repeating Magnum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Repeating Magnum"
+            }
+          }
         ]
       }
     ],
@@ -147,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: frigi",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -248,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Roadmap/Roadmap.md",
+                "file": "7 Magic Items/Weapons/Repeating Magnum.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -381,8 +412,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "2126e60665f67ff6",
   "lastOpenFiles": [
+    "Rules/Weapons/Magnum.md",
+    "7 Magic Items/Weapons/Repeating Magnum.md",
+    "7 Magic Items/Weapons/Repeating Longbow.md",
+    "Rules/Weapons/Longbow.md",
+    "7 Magic Items/Weapons/Repeating Light Crossbow.md",
+    "Rules/Weapons/Light Crossbow.md",
+    "7 Magic Items/Weapons/Repeating Hunting Rifle.md",
+    "Rules/Weapons/Hunting Rifle.md",
+    "7 Magic Items/Weapons/Repeating Heavy Crossbow.md",
+    "Rules/Weapons/Heavy Crossbow.md",
+    "Pictures/Weapons/Heavy Crossbow BGR PNG.png",
+    "Pictures/Weapons/Heavy Crossbow BGR PNG.png.opdownload",
+    "Rules/Weapons/Hand Crossbow.md",
+    "7 Magic Items/Weapons/Repeating Handgun.md",
+    "Rules/Weapons/Handgun.md",
+    "7 Magic Items/Weapons/Repeating Hand Crossbow.md",
+    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
+    "Rules/Weapons/Gatling Gun.md",
+    "7 Magic Items/Weapons/Repeating Flare Gun.md",
+    "Rules/Weapons/Flare Gun.md",
     "7 Magic Items/Weapons/Repeating Shot.md",
     "0 Roadmap/Roadmap.md",
     "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
@@ -391,28 +442,13 @@
     "Rules/Weapons/Cannon.md",
     "7 Magic Items/Weapons/Repeating Blunderbuss.md",
     "Rules/Weapons/Blunderbuss.md",
-    "7 Magic Items/Weapons/Repeating Blowgun.md",
-    "Rules/Weapons/Blowgun.md",
     "Pictures/Weapons/Blowgun BGR PNG.png",
     "Pictures/Weapons/Blowgun BGR PNG.png.opdownload",
-    "7 Magic Items/Weapons/Repeating Assault Rifle.md",
-    "Rules/Actions/Ready Action.md",
-    "Rules/Weapons/Assault Rifle.md",
     "Pictures/Weapons/Assault Rigle BGR PNG.png",
     "Pictures/Weapons/Assault Rigle.png",
     "Pictures/Weapons/Assault Rigle.png.opdownload",
     "Pictures/Weapons",
     "Pictures/New folder",
-    "Rules/Core Rules/Action.md",
-    "7 Magic Items/Misc/Manifold Tool.md",
-    "Rules/Classes/Artificer/Artificer.md",
-    "Rules/Classes/Cleric/Cleric Subclasses/Dragon Domain Cleric.md",
-    "Rules/Classes/Druid/Druid Subclasses/Circle of the Petal Druid.md",
-    "7 Magic Items/Misc/Goggles of Night.md",
-    "7 Magic Items/Misc/Alchemy Jug.md",
-    "7 Magic Items/Wands/+1 Wand of the War Mage.md",
-    "7 Magic Items/Misc/Sending Stones.md",
-    "Rules/Tools/Tinkers Tools.md",
     "Pictures/Magic Items/Goggles of Night BGR PNG.png",
     "Pictures/Magic Items/Goggles of Night BGR PNG.png.opdownload",
     "Pictures/Magic Items/Alchemy Jug BGR PNG.png",
@@ -420,14 +456,9 @@
     "7 Magic Items/Wands",
     "Pictures/Magic Items/Sending Stones BGR PNG.png",
     "Pictures/Magic Items/Sending Stones BGR PNG.png.opdownload",
-    "Rules/Classes/Warden/Warden Subclasses/Hunter Warden.md",
-    "Rules/Classes/Warden/Warden Subclasses/Forayer Warden.md",
-    "Rules/Classes/Treasure Hunter/Treasure Hunter Subclasses/Spy Treasure Hunter.md",
     "Pictures/Spells/Shapechage PNG.png",
     "Pictures/Spells/Elevated Sight PNG.png",
     "Pictures/Spells/Shape Plants PNG.png",
-    "Pictures/Monsters/Bestial Spirit BGR PNG.png",
-    "Pictures/Monsters/Bestial Spirit BGR PNG.png.opdownload",
-    "Rules/Traps and Hazards/Environmental Hazards"
+    "Pictures/Monsters/Bestial Spirit BGR PNG.png.opdownload"
   ]
 }

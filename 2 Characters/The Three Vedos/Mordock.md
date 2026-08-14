@@ -50,7 +50,7 @@
 > | Weapon | [[Dart]] |
 > | Weapon | [[Sling]] |
 > | Weapon | [[Quarterstaff]] |
-> | Weapon | [[Crossbow, Light]] | 
+> | Weapon | [[Light Crossbow]] | 
 > | Language | [[Common]] |
 > | Language | [[Elvish]] |
 > | Language | [[Orcish]] |

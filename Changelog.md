@@ -90,7 +90,7 @@
 - 07-24-2026 T 0045 · [[Sling]]
 - 07-24-2026 T 0045 · [[Light Crossbow]]
 - 07-24-2026 T 0045 · [[Greatclub]]
-- 07-24-2026 T 0045 · [[Crossbow, Light]]
+- 07-24-2026 T 0045 · [[Light Crossbow]]
 - 07-24-2026 T 0045 · [[Spear]]
 - 07-24-2026 T 0045 · [[Longbow]]
 - 07-24-2026 T 0045 · [[Greatsword]]
