@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Warlock/Warlock Subclasses/The Genie Warlock.md",
+                "file": "5 Monster Stat Blocks/Elemental/Marid.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -358,7 +358,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc71d481f0faa44c",
+  "active": "41244ffd8f463e72",
   "lastOpenFiles": [
     "5 Monster Stat Blocks/Elemental/Marid.md",
     "Pictures/Monsters/Marid BGR PNG.png",
