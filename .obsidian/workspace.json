@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "69152446efcac026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Magic Items/Weapons/Repeating Shot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Repeating Shot"
-            }
-          },
-          {
             "id": "41244ffd8f463e72",
             "type": "leaf",
             "state": {
@@ -114,19 +90,19 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "d401dcf1de83ae3d",
+        "id": "5c2fc2c174cefee2",
         "type": "tabs",
         "children": [
           {
-            "id": "2126e60665f67ff6",
+            "id": "ea9285027546fb58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Magic Items/Weapons/Repeating Magnum.md",
+                "file": "7 Magic Items/Weapons/Returning Weapon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -141,7 +117,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Repeating Magnum"
+              "title": "Returning Weapon"
             }
           }
         ]
@@ -279,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Magic Items/Weapons/Repeating Magnum.md",
+                "file": "7 Magic Items/Weapons/Returning Weapon.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -412,36 +388,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2126e60665f67ff6",
+  "active": "ea9285027546fb58",
   "lastOpenFiles": [
-    "Rules/Weapons/Magnum.md",
+    "Rules/Classes/Artificer/Artificer.md",
+    "7 Magic Items/Weapons/Returning Weapon.md",
+    "Rules/Spells/Level 5/Feline Chaos.md",
+    "7 Magic Items/Weapons/Repeating Shot.md",
+    "7 Magic Items/Weapons/Repeating Submachine Gun.md",
+    "Rules/Weapons/Submachine Gun.md",
+    "7 Magic Items/Weapons/Repeating Sniper Rifle.md",
+    "Rules/Weapons/Sniper Rifle.md",
+    "7 Magic Items/Weapons/Repeating Sling.md",
+    "Rules/Weapons/Sling.md",
+    "7 Magic Items/Weapons/Repeating Shortbow.md",
+    "Rules/Weapons/Shortbow.md",
+    "7 Magic Items/Weapons/Repeating Revolver.md",
+    "Rules/Weapons/Revolver.md",
+    "7 Magic Items/Weapons/Repeating Pump Shotgun.md",
+    "Rules/Weapons/Pump Shotgun.md",
+    "7 Magic Items/Weapons/Repeating Pistol.md",
+    "Rules/Weapons/Pistol.md",
+    "7 Magic Items/Weapons/Repeating Parlor Gun.md",
+    "Rules/Weapons/Parlor Gun.md",
+    "7 Magic Items/Weapons/Repeating Musket.md",
+    "Rules/Weapons/Musket.md",
     "7 Magic Items/Weapons/Repeating Magnum.md",
+    "Rules/Weapons/Magnum.md",
     "7 Magic Items/Weapons/Repeating Longbow.md",
     "Rules/Weapons/Longbow.md",
-    "7 Magic Items/Weapons/Repeating Light Crossbow.md",
-    "Rules/Weapons/Light Crossbow.md",
-    "7 Magic Items/Weapons/Repeating Hunting Rifle.md",
-    "Rules/Weapons/Hunting Rifle.md",
-    "7 Magic Items/Weapons/Repeating Heavy Crossbow.md",
-    "Rules/Weapons/Heavy Crossbow.md",
     "Pictures/Weapons/Heavy Crossbow BGR PNG.png",
     "Pictures/Weapons/Heavy Crossbow BGR PNG.png.opdownload",
-    "Rules/Weapons/Hand Crossbow.md",
-    "7 Magic Items/Weapons/Repeating Handgun.md",
-    "Rules/Weapons/Handgun.md",
-    "7 Magic Items/Weapons/Repeating Hand Crossbow.md",
-    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
-    "Rules/Weapons/Gatling Gun.md",
-    "7 Magic Items/Weapons/Repeating Flare Gun.md",
-    "Rules/Weapons/Flare Gun.md",
-    "7 Magic Items/Weapons/Repeating Shot.md",
-    "0 Roadmap/Roadmap.md",
-    "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
-    "Rules/Weapons/Double-Barrel Shotgun.md",
-    "7 Magic Items/Weapons/Repeating Cannon.md",
-    "Rules/Weapons/Cannon.md",
-    "7 Magic Items/Weapons/Repeating Blunderbuss.md",
-    "Rules/Weapons/Blunderbuss.md",
     "Pictures/Weapons/Blowgun BGR PNG.png",
     "Pictures/Weapons/Blowgun BGR PNG.png.opdownload",
     "Pictures/Weapons/Assault Rigle BGR PNG.png",
