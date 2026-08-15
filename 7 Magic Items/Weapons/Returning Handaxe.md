@@ -1,0 +1,13 @@
+*Uncommon*
+**Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon
+**Properties:** Light, Thrown (Range 120/60ft.)
+5 GP 2lbs
+**Mastery:** Vex
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.
+
+**Light.** When you take the [[Attack action]] on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[Dagger]] in the other using the [[Attack action]] and a [[Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[Bonus Action]] unless that modifier is negative.
+
+**Thrown**. If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
+
+**Mastery: Vex.** If you hit a creature with this weapon and deal damage to the creature, you have [[Advantage]] on your next attack roll against that creature before the end of your next turn.

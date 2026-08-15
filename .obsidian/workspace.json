@@ -54,73 +54,9 @@
               "icon": "lucide-file",
               "title": "Artificer"
             }
-          },
-          {
-            "id": "41244ffd8f463e72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Spells/Level 5/Feline Chaos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Feline Chaos"
-            }
-          },
-          {
-            "id": "981e6916dc7c7abd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "5c2fc2c174cefee2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea9285027546fb58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Magic Items/Weapons/Returning Weapon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Returning Weapon"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -255,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Magic Items/Weapons/Returning Weapon.md",
+                "file": "Rules/Classes/Artificer/Artificer.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -388,53 +324,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ea9285027546fb58",
+  "active": "bc71d481f0faa44c",
   "lastOpenFiles": [
+    "7 Magic Items/Misc/Gloves of Thievery.md",
+    "Pictures/Magic Items/Gloves of Thievery BGR PNG.png",
+    "Pictures/Magic Items/Gloves of Thievery BGR PNG.png.opdownload",
     "Rules/Classes/Artificer/Artificer.md",
-    "7 Magic Items/Weapons/Returning Weapon.md",
+    "7 Magic Items/Misc/Eyes of Minute Seeing.md",
+    "7 Magic Items/Misc/Eyes of Charming.md",
+    "Pictures/Magic Items/Eyes of Charming BGR PNG.png",
+    "Pictures/Magic Items/Eyes of Charming BGR PNG.png.opdownload",
+    "7 Magic Items/Weapons/Dazzling Weapon.md",
+    "0 Roadmap/Roadmap.md",
+    "7 Magic Items/Misc/Cloak of the Manta Ray.md",
+    "Pictures/Magic Items/Cloak of the Manta Ray BGR PNG.png",
+    "Pictures/Magic Items/Cloak of the Manta Ray BGR PNG.png.opdownload",
+    "7 Magic Items/Misc/Cloak of Elvenkind.md",
+    "Pictures/Magic Items/Cloak of Elvenkind BGR PNG.png",
+    "Pictures/Magic Items/Cloak of Elvenkind BGR PNG.png.opdownload",
     "Rules/Spells/Level 5/Feline Chaos.md",
-    "7 Magic Items/Weapons/Repeating Shot.md",
-    "7 Magic Items/Weapons/Repeating Submachine Gun.md",
-    "Rules/Weapons/Submachine Gun.md",
-    "7 Magic Items/Weapons/Repeating Sniper Rifle.md",
-    "Rules/Weapons/Sniper Rifle.md",
-    "7 Magic Items/Weapons/Repeating Sling.md",
-    "Rules/Weapons/Sling.md",
-    "7 Magic Items/Weapons/Repeating Shortbow.md",
-    "Rules/Weapons/Shortbow.md",
-    "7 Magic Items/Weapons/Repeating Revolver.md",
-    "Rules/Weapons/Revolver.md",
-    "7 Magic Items/Weapons/Repeating Pump Shotgun.md",
-    "Rules/Weapons/Pump Shotgun.md",
-    "7 Magic Items/Weapons/Repeating Pistol.md",
-    "Rules/Weapons/Pistol.md",
-    "7 Magic Items/Weapons/Repeating Parlor Gun.md",
-    "Rules/Weapons/Parlor Gun.md",
-    "7 Magic Items/Weapons/Repeating Musket.md",
-    "Rules/Weapons/Musket.md",
-    "7 Magic Items/Weapons/Repeating Magnum.md",
-    "Rules/Weapons/Magnum.md",
-    "7 Magic Items/Weapons/Repeating Longbow.md",
-    "Rules/Weapons/Longbow.md",
-    "Pictures/Weapons/Heavy Crossbow BGR PNG.png",
-    "Pictures/Weapons/Heavy Crossbow BGR PNG.png.opdownload",
-    "Pictures/Weapons/Blowgun BGR PNG.png",
-    "Pictures/Weapons/Blowgun BGR PNG.png.opdownload",
-    "Pictures/Weapons/Assault Rigle BGR PNG.png",
-    "Pictures/Weapons/Assault Rigle.png",
-    "Pictures/Weapons/Assault Rigle.png.opdownload",
-    "Pictures/Weapons",
-    "Pictures/New folder",
-    "Pictures/Magic Items/Goggles of Night BGR PNG.png",
-    "Pictures/Magic Items/Goggles of Night BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Alchemy Jug BGR PNG.png",
-    "Pictures/Magic Items/Alchemy Jug BGR PNG.png.opdownload",
-    "7 Magic Items/Wands",
-    "Pictures/Magic Items/Sending Stones BGR PNG.png",
-    "Pictures/Magic Items/Sending Stones BGR PNG.png.opdownload",
-    "Pictures/Spells/Shapechage PNG.png",
-    "Pictures/Spells/Elevated Sight PNG.png",
-    "Pictures/Spells/Shape Plants PNG.png",
-    "Pictures/Monsters/Bestial Spirit BGR PNG.png.opdownload"
+    "7 Magic Items/Boots/Boots of the Winding Path.md",
+    "7 Magic Items/Armor/Armor +1.md",
+    "7 Magic Items/Weapons/Wraps of Unarmed Power +1.md",
+    "7 Magic Items/Weapons/+1 Weapon.md",
+    "Rules/Weapons/Brass Knuckles.md",
+    "Pictures/Weapons/Brass Knuckles BGR PNG.png",
+    "Pictures/Weapons/Brass Knuckles BGR PNG.png.opdownload",
+    "Rules/Weapons/Blunderbuss, Hand.md",
+    "Rules/Weapons/Blackpowder Rifle.md",
+    "Rules/Weapons/Blackpowder Pistol.md",
+    "Rules/Weapons/Battleaxe.md",
+    "Pictures/Weapons/Battleaxe BGR PNG.png",
+    "Pictures/Weapons/Battleaxe BGR PNG.png.opdownload",
+    "Rules/Weapons/Battle Axe.md",
+    "Rules/Weapons/Axe.md",
+    "Rules/Weapons/Automatic Rifle.md",
+    "Rules/Weapons/Arbalest.md",
+    "Rules/Weapons/Antimatter Rifle.md",
+    "Rules/Weapons/+1 Acid Fighting Chain.md",
+    "7 Magic Items/Wands/Wand of Secrets.md",
+    "Pictures/Magic Items/Wand of Secrets BGR PNG.png",
+    "Pictures/Magic Items/Wand of Secrets BGR PNG.png.opdownload",
+    "Pictures/Magic Items/Wand of Magic Detection BGR PNG.png",
+    "Pictures/Magic Items/Wand of Magic Detection BGR PNG.png.opdownload",
+    "Pictures/Weapons/Light Hammer BGR.png",
+    "Pictures/Weapons/Light Hammer.png",
+    "Pictures/Weapons/Light Hammer.png.opdownload",
+    "Pictures/Weapons/Handaxe.png.opdownload"
   ]
 }

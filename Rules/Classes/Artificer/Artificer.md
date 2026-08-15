@@ -161,14 +161,14 @@ Magic Item Plans (Artificer Level 2+)
 | [[Wand of Secrets]]                                         | No             |
 | [[+1 Wand of the War Mage]]                                 | Yes            |
 | [[+1 Weapon]]                                               | No             |
-| [[+1 Wraps of Unarmed Power]]                               | No             |
+| [[Wraps of Unarmed Power +1]]                               | No             |
 *You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.*
 
 Magic Item Plans (Artificer Level 6+)
 
 | Magic Item Plan               | [[Attunement]] |
 | ----------------------------- | -------------- |
-| [[+1 Armor]]                  | No             |
+| [[Armor +1]]                  | No             |
 | [[Boots of Elvenkind]]        | No             |
 | [[Boots of the Winding Path]] | Yes            |
 | [[Cloak of Elvenkind]]        | Yes            |

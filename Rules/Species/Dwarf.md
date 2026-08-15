@@ -15,7 +15,7 @@ This race has multiple subraces, as listed below:
 **Speed:** Your speed is not reduced by wearing heavy armor.
 **Darkvision:** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Dwarven Resilience:** You have advantage on saving throws against poison, and you have resistance against poison damage.
-**Dwarven Combat Training:** You have proficiency with the [[battleaxe]], [[handaxe]], [[light hammer]], and [[warhammer]].
+**Dwarven Combat Training:** You have proficiency with the [[Battleaxe]], [[handaxe]], [[light hammer]], and [[warhammer]].
 **Tool Proficiency:** You gain proficiency with the [[Artisans Tools]] of your choice: [[Smiths Tools]], [[Brewers Supplies]], or [[mason's tools]].
 **Stonecunning:** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 **Languages:** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
@@ -41,7 +41,7 @@ This race has multiple subraces, as listed below:
 - [[Dwarf (Iron Hill)]]
 - [[Dwarf (Wandering)]]
 **Adventuring Age:** Between 50–100 years of age. Dwarves generally start their life on the road in their fifties, and do not usually consider retiring before their nineties. Around that time, many among them choose to dedicate themselves solely to the perfection of their crafts.
-**Axes of the Dwarves:** You have proficiency with the [[battle axe]], [[great axe]], and [[mattock]].
+**Axes of the Dwarves:** You have proficiency with the [[Battle Axe]], [[great axe]], and [[mattock]].
 **Endurance of the Dwarves:** Your hit point maximum increases by 1, and it increases by an additional 1 every time you gain a level.
 **Make Light of Burdens:** Armour doesn't impose disadvantage on your fatigue saving throws, and your carrying capacity (including the weight you can carry before you are encumbered or heavily encumbered, and the weight you can push, drag or lift) is doubled.
 **Tool Proficiencies:** You have proficiency with the [[Artisans Tools]] of your choice: [[jeweler's tools]], [[mason's tools]], or [[Smiths Tools]].

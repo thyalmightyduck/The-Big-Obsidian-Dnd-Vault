@@ -157,7 +157,7 @@ Magic Item Plans (Artificer Level 2+)
 | [[Returning Weapon]]                                        | No         |
 | [[Rope of Climbing]]                                        | No         |
 | [[Sending Stones]]                                          | No         |
-| [[Shield +1]]                                               | No         |
+| [[+1 Shield]]                                               | No         |
 | [[Wand of Magic Detection]]                                 | No         |
 | [[Wand of Secrets]]                                         | No         |
 | [[+1 Wand of the War Mage]]                                 | Yes        |

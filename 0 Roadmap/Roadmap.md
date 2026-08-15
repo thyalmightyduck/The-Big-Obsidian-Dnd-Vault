@@ -1,7 +1,9 @@
 # Last Left Off
 Finished Hunters Mark links
 Artificer 
-	Repeating shot links
+	+1 Weapon Links
+	+1 Armor Links
+	Dazzling Weapon Links
 # Second Quest
 2 person dnd one shots 
 # Recent Added 
