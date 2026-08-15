@@ -201,18 +201,18 @@ Magic Item Plans (Artificer Level 10+)
 | [[Ring of Feather Falling]]               | Yes        |
 | [[Ring of Jumping]]                       | Yes        |
 | [[Ring of Mind Shielding]]                | Yes        |
-| [[Shield, +2]]                            | No         |
+| [[+2 Shield]]                            | No         |
 | Uncommon Wondrous Item that isn't cursed* | Varies     |
-| [[Wand of the War Mage, +2]]              | Yes        |
-| [[Weapon, +2]]                            | No         |
-| [[Wraps of Unarmed Power, +2]]            | No         |
+| [[+2 Wand of the War Mage]]              | Yes        |
+| [[+2 Weapon]]                            | No         |
+| [[+2 Wraps of Unarmed Power]]            | No         |
 *You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.
 
 Magic Item Plans (Artificer Level 14+)
 
 | Magic Item Plan                       | [[Attunement]] |
 | ------------------------------------- | ---------- |
-| [[Armor, +2]]                         | No         |
+| [[+2 Armor]]                         | No         |
 | [[Arrow-Catching Shield]]             | Yes        |
 | [[Flame Tongue]]                      | Yes        |
 | Rare Wondrous Item that isn't cursed* | Varies     |

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "bc71d481f0faa44c",
+            "id": "c217321c64179887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Artificer/Artificer.md",
+                "file": "Rules/Spells/Level 1/Ice Knife.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Artificer"
-            }
-          },
-          {
-            "id": "f043a5110d419e80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Magic Items/Armor/Elven Chain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Elven Chain"
+              "title": "Ice Knife"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Magic Items/Armor/Elven Chain.md",
+                "file": "Rules/Spells/Level 1/Ice Knife.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -348,53 +324,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f043a5110d419e80",
+  "active": "c217321c64179887",
   "lastOpenFiles": [
-    "7 Magic Items/Armor/Elven Chain.md",
+    "Rules/Spells/Level 1/Hunters Mark.md",
+    "0 Roadmap/Roadmap.md",
     "Rules/Classes/Artificer/Artificer.md",
+    "7 Magic Items/Rings/Ring of the Ram.md",
+    "Pictures/Magic Items/Ring of the Ram BGR PNG.png",
+    "Pictures/Magic Items/Ring of the Ram BGR PNG.png.opdownload",
+    "7 Magic Items/Rings/Ring of Protection.md",
+    "Pictures/Magic Items/Ring of Protection BGR PNG.png",
+    "Pictures/Magic Items/Ring of Protection BGR PNG.png.opdownload",
+    "7 Magic Items/Rings/Ring of Free Action.md",
+    "Pictures/Magic Items/Ring of Free Action.png",
+    "Pictures/Magic Items/Ring of Free Action.png.opdownload",
+    "7 Magic Items/Weapons/Flame Tongue.md",
+    "Pictures/Magic Items/Flame Tongue BGR PNG.png",
+    "Pictures/Magic Items/Flame Tongue BGR PNG.png.opdownload",
+    "7 Magic Items/Shields/Arrow-Catching Shield.md",
+    "7 Magic Items/Armor/+2 Armor.md",
+    "7 Magic Items/Misc/+2 Wraps of Unarmed Power.md",
+    "7 Magic Items/Weapons/+2 Weapon.md",
+    "7 Magic Items/Wands/+2 Wand of the War Mage.md",
+    "7 Magic Items/Shields/+2 Shield.md",
+    "7 Magic Items/Armor/Ring of Mind Shielding.md",
+    "Pictures/Magic Items/Ring of Mind Shielding BGR PNG.png",
+    "Pictures/Magic Items/Ring of Mind Shielding BGR PNG.png.opdownload",
+    "7 Magic Items/Rings/Ring of Jumping.md",
+    "7 Magic Items/Rings/Ring of Feather Falling.md",
+    "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png",
+    "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png.opdownload",
+    "7 Magic Items/Armor/Elven Chain Mail.md",
+    "7 Magic Items/Armor/Elven Chain Shirt.md",
+    "7 Magic Items/Armor/Elven Chain.md",
+    "Pictures/Magic Items/Elven Chain BGR PNG.png",
+    "Pictures/Magic Items/Elven Chain BGR PNG.png.opdownload",
     "7 Magic Items/Weapons/Dagger of Venom.md",
     "Pictures/Magic Items/Dagger of Venom BGR PNG.png",
     "Pictures/Magic Items/Dagger of Venom BGR PNG.png.opdownload",
     "7 Magic Items/Armor/Armor of Resistance.md",
-    "0 Roadmap/Roadmap.md",
     "Pictures/Magic Items/Armor of Resistance BGR PNG.png",
     "Pictures/Magic Items/Armor of Resistance BGR PNG.png.opdownload",
     "7 Magic Items/Weapons/Weapon of Warning.md",
     "Pictures/Magic Items/Weapon of Warning BGR PNG.png",
     "Pictures/Magic Items/Weapon of Warning BGR PNG.png.opdownload",
     "7 Magic Items/Wands/Wand of Web.md",
-    "Pictures/Magic Items/Wand of Web BGR PNG.png",
-    "Pictures/Magic Items/Wand of Web BGR PNG.png.opdownload",
     "7 Magic Items/Wands/Wand of Magic Missiles.md",
-    "Pictures/Magic Items/Wand of Magic Missiles BGR PNG.png",
-    "Pictures/Magic Items/Wand of Magic Missiles BGR PNG.png.opdownload",
     "7 Magic Items/Rings/Spell-Refueling Ring.md",
-    "7 Magic Items/Rings/Ring of Water Walking.md",
-    "Rules/Spells/Level 3/Water Walk.md",
-    "Pictures/Spells/Water Walking PNG.png",
-    "Pictures/Magic Items/Ring of Water Walking BGR PNG.png",
-    "Pictures/Magic Items/Ring of Water Walking BGR PNG.png.opdownload",
-    "7 Magic Items/Rings/Ring of Swimming.md",
-    "7 Magic Items/Shields/Repulsion Shield.md",
-    "7 Magic Items/Misc/Pipes of Haunting.md",
-    "Pictures/Magic Items/Pipes of Haunging.png",
-    "Pictures/Magic Items/Pipes of Haunging.png.opdownload",
-    "7 Magic Items/Misc/Necklace of Adaptation.md",
-    "Pictures/Magic Items/Necklace of Adaption GBR PNG.png",
-    "Pictures/Magic Items/Necklace of Adaption GBR PNG.png.opdownload",
-    "7 Magic Items/Rings/Mind Sharpener.md",
-    "7 Magic Items/Misc/Lantern of Revealing.md",
-    "Pictures/Magic Items/Lantern of Revealing BGR PNG.png",
-    "Pictures/Magic Items/Lantern of Revealing BGR PNG.png.opdownload",
-    "7 Magic Items/Misc/Helm of Awareness.md",
-    "7 Magic Items/Misc/Gloves of Thievery.md",
-    "Pictures/Magic Items/Gloves of Thievery BGR PNG.png.opdownload",
-    "7 Magic Items/Misc/Eyes of Minute Seeing.md",
-    "7 Magic Items/Misc/Eyes of Charming.md",
-    "7 Magic Items/Weapons/Dazzling Weapon.md",
-    "7 Magic Items/Misc/Cloak of the Manta Ray.md",
-    "7 Magic Items/Misc/Cloak of Elvenkind.md",
-    "Rules/Spells/Level 5/Feline Chaos.md",
-    "7 Magic Items/Boots/Boots of the Winding Path.md"
+    "7 Magic Items/Rings/Ring of Water Walking.md"
   ]
 }

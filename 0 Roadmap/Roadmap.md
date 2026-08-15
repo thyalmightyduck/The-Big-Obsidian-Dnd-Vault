@@ -6,6 +6,8 @@ Artificer
 	Dazzling Weapon Links
 	Weapon of Warning Links
 	Armor of Resistance Links
+	+2 Weapons
+	Flame Tongue Links
 # Second Quest
 2 person dnd one shots 
 # Recent Added 
