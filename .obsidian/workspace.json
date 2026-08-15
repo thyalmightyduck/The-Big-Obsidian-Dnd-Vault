@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Artificer"
             }
+          },
+          {
+            "id": "114afa7ea6d61981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 Magic Items/Misc/Lantern of Revealing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lantern of Revealing"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Classes/Artificer/Artificer.md",
+                "file": "7 Magic Items/Misc/Lantern of Revealing.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -324,12 +348,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc71d481f0faa44c",
+  "active": "114afa7ea6d61981",
   "lastOpenFiles": [
+    "7 Magic Items/Misc/Lantern of Revealing.md",
+    "Rules/Classes/Artificer/Artificer.md",
+    "7 Magic Items/Misc/Helm of Awareness.md",
     "7 Magic Items/Misc/Gloves of Thievery.md",
     "Pictures/Magic Items/Gloves of Thievery BGR PNG.png",
     "Pictures/Magic Items/Gloves of Thievery BGR PNG.png.opdownload",
-    "Rules/Classes/Artificer/Artificer.md",
     "7 Magic Items/Misc/Eyes of Minute Seeing.md",
     "7 Magic Items/Misc/Eyes of Charming.md",
     "Pictures/Magic Items/Eyes of Charming BGR PNG.png",
@@ -362,7 +388,6 @@
     "Rules/Weapons/Arbalest.md",
     "Rules/Weapons/Antimatter Rifle.md",
     "Rules/Weapons/+1 Acid Fighting Chain.md",
-    "7 Magic Items/Wands/Wand of Secrets.md",
     "Pictures/Magic Items/Wand of Secrets BGR PNG.png",
     "Pictures/Magic Items/Wand of Secrets BGR PNG.png.opdownload",
     "Pictures/Magic Items/Wand of Magic Detection BGR PNG.png",
