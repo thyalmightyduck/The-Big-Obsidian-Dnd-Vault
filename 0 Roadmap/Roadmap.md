@@ -4,6 +4,8 @@ Artificer
 	+1 Weapon Links
 	+1 Armor Links
 	Dazzling Weapon Links
+	Weapon of Warning Links
+	Armor of Resistance Links
 # Second Quest
 2 person dnd one shots 
 # Recent Added 

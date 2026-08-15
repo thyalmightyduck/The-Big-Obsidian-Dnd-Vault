@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "da8a8b546cd6960a",
+            "id": "f043a5110d419e80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Magic Items/Rings/Ring of Water Walking.md",
+                "file": "7 Magic Items/Armor/Elven Chain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ring of Water Walking"
+              "title": "Elven Chain"
             }
           }
         ],
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Magic Items/Rings/Ring of Water Walking.md",
+                "file": "7 Magic Items/Armor/Elven Chain.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -348,10 +348,32 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "da8a8b546cd6960a",
+  "active": "f043a5110d419e80",
   "lastOpenFiles": [
-    "7 Magic Items/Rings/Ring of Water Walking.md",
+    "7 Magic Items/Armor/Elven Chain.md",
     "Rules/Classes/Artificer/Artificer.md",
+    "7 Magic Items/Weapons/Dagger of Venom.md",
+    "Pictures/Magic Items/Dagger of Venom BGR PNG.png",
+    "Pictures/Magic Items/Dagger of Venom BGR PNG.png.opdownload",
+    "7 Magic Items/Armor/Armor of Resistance.md",
+    "0 Roadmap/Roadmap.md",
+    "Pictures/Magic Items/Armor of Resistance BGR PNG.png",
+    "Pictures/Magic Items/Armor of Resistance BGR PNG.png.opdownload",
+    "7 Magic Items/Weapons/Weapon of Warning.md",
+    "Pictures/Magic Items/Weapon of Warning BGR PNG.png",
+    "Pictures/Magic Items/Weapon of Warning BGR PNG.png.opdownload",
+    "7 Magic Items/Wands/Wand of Web.md",
+    "Pictures/Magic Items/Wand of Web BGR PNG.png",
+    "Pictures/Magic Items/Wand of Web BGR PNG.png.opdownload",
+    "7 Magic Items/Wands/Wand of Magic Missiles.md",
+    "Pictures/Magic Items/Wand of Magic Missiles BGR PNG.png",
+    "Pictures/Magic Items/Wand of Magic Missiles BGR PNG.png.opdownload",
+    "7 Magic Items/Rings/Spell-Refueling Ring.md",
+    "7 Magic Items/Rings/Ring of Water Walking.md",
+    "Rules/Spells/Level 3/Water Walk.md",
+    "Pictures/Spells/Water Walking PNG.png",
+    "Pictures/Magic Items/Ring of Water Walking BGR PNG.png",
+    "Pictures/Magic Items/Ring of Water Walking BGR PNG.png.opdownload",
     "7 Magic Items/Rings/Ring of Swimming.md",
     "7 Magic Items/Shields/Repulsion Shield.md",
     "7 Magic Items/Misc/Pipes of Haunting.md",
@@ -366,35 +388,13 @@
     "Pictures/Magic Items/Lantern of Revealing BGR PNG.png.opdownload",
     "7 Magic Items/Misc/Helm of Awareness.md",
     "7 Magic Items/Misc/Gloves of Thievery.md",
-    "Pictures/Magic Items/Gloves of Thievery BGR PNG.png",
     "Pictures/Magic Items/Gloves of Thievery BGR PNG.png.opdownload",
     "7 Magic Items/Misc/Eyes of Minute Seeing.md",
     "7 Magic Items/Misc/Eyes of Charming.md",
-    "Pictures/Magic Items/Eyes of Charming BGR PNG.png",
-    "Pictures/Magic Items/Eyes of Charming BGR PNG.png.opdownload",
     "7 Magic Items/Weapons/Dazzling Weapon.md",
-    "0 Roadmap/Roadmap.md",
     "7 Magic Items/Misc/Cloak of the Manta Ray.md",
-    "Pictures/Magic Items/Cloak of the Manta Ray BGR PNG.png",
-    "Pictures/Magic Items/Cloak of the Manta Ray BGR PNG.png.opdownload",
     "7 Magic Items/Misc/Cloak of Elvenkind.md",
-    "Pictures/Magic Items/Cloak of Elvenkind BGR PNG.png",
-    "Pictures/Magic Items/Cloak of Elvenkind BGR PNG.png.opdownload",
     "Rules/Spells/Level 5/Feline Chaos.md",
-    "7 Magic Items/Boots/Boots of the Winding Path.md",
-    "7 Magic Items/Armor/Armor +1.md",
-    "7 Magic Items/Weapons/Wraps of Unarmed Power +1.md",
-    "7 Magic Items/Weapons/+1 Weapon.md",
-    "Rules/Weapons/Brass Knuckles.md",
-    "Pictures/Weapons/Brass Knuckles BGR PNG.png",
-    "Pictures/Weapons/Brass Knuckles BGR PNG.png.opdownload",
-    "Rules/Weapons/Blunderbuss, Hand.md",
-    "Rules/Weapons/Blackpowder Rifle.md",
-    "Rules/Weapons/Blackpowder Pistol.md",
-    "Rules/Weapons/Battleaxe.md",
-    "Pictures/Weapons/Battleaxe BGR PNG.png",
-    "Pictures/Weapons/Battleaxe BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Wand of Secrets BGR PNG.png",
-    "Pictures/Magic Items/Wand of Secrets BGR PNG.png.opdownload"
+    "7 Magic Items/Boots/Boots of the Winding Path.md"
   ]
 }
