@@ -10,6 +10,6 @@ A creature you touch makes a Constitution saving throw, taking `dice: 2d10` 2d1
 **Using a Higher-Level Spell Slot:** The damage increases by 1d10 for each spell slot level above 1.
 
 **Classes:** [[Cleric]]
-**Subclasses:** [[College of Lore Bard]], [[Crimson Dynasty Sorcerer]], [[Divine Soul Sorcerer]], [[Harvest Domain Cleric]], [[Necromancer Tamer]], [[Oath of Castigation Paladin]], [[Oath of Pestilence Paladin]], [[Oath of Slaughter Paladin]], [[Oathbreaker Paladin]], [[Pathogenist Apothecary]], [[Reanimator Apothecary]], [[Shadow Sorcerer Sorcerer]], [[Skinshifer Sorcerer]]
+**Subclasses:** [[College of Lore Bard]], [[Crimson Sorcery Sorcerer]], [[Divine Soul Sorcerer]], [[Harvest Domain Cleric]], [[Necromancer Tamer]], [[Oath of Castigation Paladin]], [[Oath of Pestilence Paladin]], [[Oath of Slaughter Paladin]], [[Oathbreaker Paladin]], [[Pathogenist Apothecary]], [[Reanimator Apothecary]], [[Shadow Sorcery Sorcerer]], [[Skinshifter Sorcerer]]
 **Backgrounds:** [[Witherbloom Student]]
 **Feats:** [[Divinely Favored]], [[Magic Initiate]], [[Rune Shaper]], [[Shadow Touched]], [[Shadow-Touched]], [[Strixhaven Initiate]]

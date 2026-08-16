@@ -10,3 +10,6 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 **Using a Higher-Level Spell Slot:** The Cold damage increases by 1d6 for each spell slot level above 1.
 
 **Classes:** [[Druid]], [[Sorcerer]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Frost Sorcery Sorcerer]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]], [[Winter Trapper Ranger]], [[Winter Walker Ranger]]
+**Species:** [[Rimekin]]
+**Feats:** [[Aberrant Dragonmark]], [[Boon of Siberys]], [[Divinely Favored]], [[Magic Initiate]], [[Strixhaven Initiate]]

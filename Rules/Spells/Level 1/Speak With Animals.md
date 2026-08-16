@@ -9,3 +9,5 @@ For the duration, you can comprehend and verbally communicate with Beasts, and y
 
 Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
+**Classes:** [[Bard]], [[Druid]], [[Ranger]], [[Tamer]], [[Warlock]]
+**Subclasses:** [[College of Lore Bard]], [[Exalted Assembly of the Feline Court Warlock]], [[Hand of Dread Pugilist]], [[Nature Domain Cleric]], [[Oath of the Ancients Paladin]], [[Path of the Primal Spirit Barbarian]]

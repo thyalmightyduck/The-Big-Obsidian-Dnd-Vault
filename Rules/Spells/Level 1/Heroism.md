@@ -11,7 +11,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 **Using a Higher-Level Spell Slot:** You can target one additional creature for each spell slot level above 1.
 
 **Classes:** [[Bard]], [[Paladin]]
-**Subclasses:** [[Battle Smith Artificer]], [[Heroic Sorcery]], [[Oath of Glory Paladin]], [[Oath of the Harvest Paladin]], [[Order Domain Cleric]], [[Peace Domain Cleric]], [[The Parasite Warlock]]
+**Subclasses:** [[Battle Smith Artificer]], [[Heroic Sorcery Sorcerer]], [[Oath of Glory Paladin]], [[Oath of the Harvest Paladin]], [[Order Domain Cleric]], [[Peace Domain Cleric]], [[The Parasite Warlock]]
 **Species:** [[Elf]] 
 **Backgrounds:** [[Boros Legionnaire]]
 **Feats:** [[Fey Touched]], [[Fey-Touched]], [[Magic Initiate]], [[Strixhaven Initiate]], [[Vampire Touched]]

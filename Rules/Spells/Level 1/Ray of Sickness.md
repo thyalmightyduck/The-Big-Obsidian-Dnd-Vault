@@ -8,16 +8,10 @@ _Necromancy Level 1_
 
 You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and has the [[Poisoned]] condition until the end of your next turn.
 
-Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 1.
+**Using a Higher-Level Spell Slot:** The damage increases by 1d8 for each spell slot level above 1.
 
-# Player’s Handbook (2014)
-Necromancy Level 1_
-
-**Casting Time:** Action
-**Range:** 60 Feet
-**Components:** V, S
-**Duration:** Intantaneous
-
-A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also [[poisoned]] until the end of your next turn.
-
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+**Classes:** [[Sorcerer]], [[Wizard]]
+**Subclasses:** [[Alchemist Artificer]], [[Arcane Trickster Rogue]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Death Domain Cleric]], [[Eldritch Knight Fighter]], [[Lunar Sorcery Sorcerer]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[The Undying Warlock]], [[Undead Patron Warlock]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Tiefling]], [[Tiefling (Baalzebul)]]
+**Backgrounds:** [[Golgari Agent]]
+**Feats:** [[Aberrant Dragonmark]], [[Boon of Siberys]], [[Initiate of High Sorcery]], [[Magic Initiate]], [[Shadow Touched]], [[Shadow-Touched]], [[Strixhaven Initiate]]

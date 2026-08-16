@@ -10,3 +10,6 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 
 **Using a Higher-Level Spell Slot:** The spell creates one more dart for each spell slot level above 1.
 
+**Classes:** [[Sorcerer]], [[Wizard]]
+**Subclasses:** [[Nature Domain Cleric]], [[Arcane Trickster Rogue]], [[Armorer Artificer]], [[Astral Griffon Patron Warlock]], [[College of Lore Bard]], [[Cosmic Patron Warlock]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[magic missile mage wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Many Warlock]], [[Way of the Arcane Hand Monk]]
+**Feats:** [[Aberrant Dragonmark]], [[Boon of Siberys]], [[Magic Initiate]], [[Magic Initiate]], [[Strixhaven Initiate]]

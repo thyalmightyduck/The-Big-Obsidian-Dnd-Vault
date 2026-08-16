@@ -1,4 +1,3 @@
-# Player’s Handbook (2014)
 _Abjuration Level 1_
 
 **Casting Time:** [[Bonus Action]]
@@ -6,6 +5,10 @@ _Abjuration Level 1_
 **Components:** V, S, M (a small silver [[mirror]])
 **Duration:** 1 Minute
 
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a [[fireball]].
+You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect.
 
-If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
+The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
+
+**Classes:** [[Artificer]], [[Cleric]], [[Tamer]]
+**Subclasses:** [[College of Lore Bard]], [[Couatl Herald Fighter]], [[Divine Soul Sorcerer]], [[Oath of Devotion Paladin]], [[Oath of Redemption Paladin]], [[Peace Domain Cleric]], [[The Genie Warlock]], [[The Parasite Patron]], [[way of the open hand monk]]
+**Feats:** [[Artificer Initiate]], [[Divinely Favored]], [[Magic Initiate]], [[Mark of Warding]], [[Rune Shaper]], [[Strixhaven Initiate]]

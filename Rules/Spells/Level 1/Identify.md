@@ -10,3 +10,9 @@ You touch an object throughout the spell's casting. If the object is a magic ite
 
 If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.
 
+**Classes:** [[Apothecary]], [[Artificer]], [[Bard]], [[Tamer]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Astral Griffon Patron Warlock]], [[Circle of the Forged Druid]], [[College of Lore Bard]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[Forge Domain Cleric]], [[Knowledge Domain Cleric]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Human (Mark of Making)]]
+**Backgrounds:** [[Lorehold Student]]
+**Feats:** [[Artificer Initiate]], [[Fey Touched]], [[Fey-Touched]], [[Magic Initiate]], [[Magic Initiate]], [[Mark of Detection]], [[Mark of Making]], [[Quicksmithing]], [[Ritual Caster]], [[Ritual Caster]], [[Strixhaven Initiate]]
+**Other Options/Features:** [[Book of Ancient Secrets]], [[Pact of the Tome]]
