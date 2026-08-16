@@ -12,3 +12,9 @@ Any creature in the Line must spend 2 feet of movement for every 1 foot it mov
 The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 
 As a [[Bonus Action]] on your later turns, you can change the direction in which the Line blasts from you.
+
+**Classes:** [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Circle of the Sea Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Leyline Magic Wizard]], [[Occultist Guild Monster Hunter]], [[Rocborne Ranger]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Tempest Domain Cleric]], [[The Fathomless Warlock]], [[The Genie Warlock]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Aarakocra]], [[Half-Elf (Mark of Storm)]], [[Triton]]
+**Feats:** [[Boon of Siberys]], [[Mark of Storm]]
+**Other Options/Features:** [[Rush of the Gale Spirits]]

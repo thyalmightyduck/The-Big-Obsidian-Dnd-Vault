@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 2/Darkness (Spell).md",
+                "file": "Rules/Spells/Level 2/Gust Of Wind.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Darkness (Spell)"
+              "title": "Gust Of Wind"
             }
           }
         ],
@@ -191,6 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Rules/Spells/Level 2/Gust Of Wind.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -323,8 +324,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "83a3b3f37a74c981",
+  "active": "c217321c64179887",
   "lastOpenFiles": [
+    "0 Roadmap/Roadmap.md",
+    "Rules/Spells/Level 2/Gust Of Wind.md",
+    "Rules/Spells/Level 2/Grasping Ghost.md",
+    "Rules/Spells/Level 2/Flaming Sphere.md",
+    "Rules/Spells/Level 2/Flame Blade.md",
+    "Rules/Spells/Level 2/Find Traps.md",
+    "Rules/Spells/Level 2/Find Steed.md",
+    "Rules/Spells/Level 2/Feline Grace.md",
+    "Rules/Spells/Level 2/Enthrall.md",
+    "Rules/Spells/Level 2/Enlarge Reduce.md",
+    "Rules/Spells/Level 2/Enhance Ability.md",
+    "Rules/Spells/Level 2/Eelskin.md",
+    "Rules/Spells/Level 2/Earthbind.md",
+    "Rules/Spells/Level 2/Dragons Breath.md",
+    "Rules/Spells/Level 2/Detect Thoughts.md",
+    "Rules/Spells/Level 2/Dragon_s Breath.md",
+    "The Great Old One Warlock.md",
+    "Rules/Classes/Warlock/Warlock.md",
     "Rules/Spells/Level 2/Darkness (Spell).md",
     "Rules/Species/Elf (Zendikar Mul Daya Nation).md",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
@@ -335,23 +354,6 @@
     "Rules/Spells/Level 2/Controlled Mutation.md",
     "Rules/Spells/Level 2/Continual Flame.md",
     "Rules/Spells/Level 2/Chain of Conviction.md",
-    "Rules/Spells/Level 2/Calm Emotions.md",
-    "Rules/Spells/Level 2/Branding Smite.md",
-    "Rules/Spells/Level 2/Blur.md",
-    "Rules/Spells/Level 2/Bloodletter.md",
-    "Rules/Spells/Level 2/Blood Sacrifice.md",
-    "Rules/Spells/Level 2/Blindness Deafness.md",
-    "Rules/Spells/Level 2/Biohazard.md",
-    "Rules/Spells/Level 2/Barkskin.md",
-    "Rules/Spells/Level 2/Augury.md",
-    "Rules/Classes/Barbarian/Barbarian.md",
-    "Rules/Classes/Barbarian/Barbarian Subclasses/Path of the Ancestral Guardian Barbarian.md",
-    "Rules/Spells/Level 2/Arcane Lock.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Spells/Level 2/Animal Messenger.md",
-    "Rules/Spells/Level 2/Ambush Prey.md",
-    "Rules/Spells/Level 2/Alter Self.md",
-    "Rules/Classes/Ranger/Ranger Subclasses/Hollow Warden Ranger.md",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png.opdownload",
     "Pictures/Spells/Mage Armor.png",

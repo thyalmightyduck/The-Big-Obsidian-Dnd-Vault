@@ -14,3 +14,9 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 Read Thoughts. Target one creature you can see within 30 feet of yourself or one creature within 30 feet of yourself that you detected with the Sense Thoughts option. You learn what is most on the target's mind right now. If the target doesn't know any languages and isn't telepathic, you learn nothing.
 
 As a [[Magic Action]] on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence (Arcana) check against your spell save DC, ending the spell on a success.
+
+**Classes:** [[Bard]], [[Sorcerer]], [[Tamer]], [[Wizard]]
+**Subclasses:** [[Aberrant Mind Sorcerer]], [[Aberrant Sorcery Sorcerer]], [[Alienist Apothecary]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[College of Lore Bard]], [[Diviner Wizard]], [[Eldritch Domain Cleric]], [[Eldritch Knight Fighter]], [[Great Old One Patron Warlock]], [[Knowledge Domain Cleric]], [[Mind Domain Cleric]], [[Oath of Zeal Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Great Old One Warlock]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Gith (Githzerai)]], [[Githzerai]], [[Half-Elf (Mark of Detection)]], [[Tiefling (Dispater)]]
+**Backgrounds:** [[Dimir Operative]]
+**Feats:** [[Adept of the White Robes]], [[Boon of Siberys]], [[Mark of Detection]], [[Telepathic]]

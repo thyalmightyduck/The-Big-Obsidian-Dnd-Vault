@@ -1,4 +1,5 @@
-# Warlock: Player’s Handbook (2024):
+# The Great Old One Warlock
+# Player’s Handbook (2014):
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 | ----- | ----------------- | --------------------------------------------------------------------------- | ----------- | -------- | --------------- | ----------- | ---------- |
@@ -249,6 +250,24 @@ _Prerequisite: Level 15+ Warlock_
 
 You have [[Truesight]] with a range of 30 feet.
 
+### The Great Old One
+Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it. Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.
+
+### Expanded Spell List
+The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+**Great Old One Expanded Spells:**
+
+| Spell Level | Spells                                              |
+| ----------- | --------------------------------------------------- |
+| 1st         | [[dissonant whispers]], [[Tashas hideous laughter]] |
+| 2nd         | [[detect thoughts]], [[phantasmal force]]           |
+| 3rd         | [[clairvoyance]], [[sending]]                       |
+| 4th         | [[dominate beast]], [[Evards black tentacles]]      |
+| 5th         | [[dominate person]], [[telekinesis]]                |
+### Level 1: Awakened Mind
+Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
 ## Level 2: Magical Cunning
 You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
@@ -258,8 +277,24 @@ You gain a Warlock subclass of your choice. A subclass is a specialization that 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
+### Level 4: Eldritch Versatility
+_4th-level warlock optional feature_
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
+
+- Replace one cantrip you learned from this class's Pact Magic feature with another cantrip from the [[warlock spell list]].
+- Replace the option you chose for the Pact Boon feature with one of that feature's other options.
+- If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level.
+
+If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify.
+
 ## Level 6: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 6: Entropic Ward
+At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -271,6 +306,9 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 
 ## Level 10: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 10: Thought Shield
+Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -289,6 +327,11 @@ You gain a level 7 Warlock Spell of your choice.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Warlock subclass.
+
+### Level 14: Create Thrall
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[incapacitated]] humanoid. That creature is then [[charmed]] by you until a [[remove curse]] spell is cast on it, the [[charmed]] condition is removed from it, or you use this feature again.
+
+You can communicate telepathically with the [[charmed]] creature as long as the two of you are on the same plane of existence.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

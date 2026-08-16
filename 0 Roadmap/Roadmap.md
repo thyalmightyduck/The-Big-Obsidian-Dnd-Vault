@@ -1,5 +1,5 @@
 # Last Left Off
-Finished Animal Messenger
+Finished Gust of Wind
 Artificer 
 	+1 Weapon Links
 	+1 Armor Links

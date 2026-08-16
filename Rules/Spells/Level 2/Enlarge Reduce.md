@@ -12,3 +12,9 @@ Everything that a targeted creature is wearing and carrying changes size with it
 Enlarge. The target's size increases by one category—from Medium to Large, for example. The target also has [[Advantage]] on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit.
 
 Reduce. The target's size decreases by one category—from Medium to Small, for example. The target also has [[Disadvantage]] on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
+
+**Classes:** [[Apothecary]], [[Artificer]], [[Bard]], [[Druid]], [[Sorcerer]], [[Tamer]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Flesh Patron Warlock]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Parasite Warlock]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Duergar]], [[Dwarf (Duergar)]], [[Faerie]], [[Fairy]], [[Fairy]]
+**Backgrounds:** [[Quandrix Student]], [[Simic Scientist]]
+**Feats:** [[Adept of the Red Robes]], [[Boon of Siberys]]
