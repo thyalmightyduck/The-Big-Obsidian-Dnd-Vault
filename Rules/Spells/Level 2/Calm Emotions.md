@@ -1,14 +1,17 @@
-# Calm Emotions (2014)
-_Enchantment Level 2_
+_Level 2 Enchantment_
 
-**Casting Time:** Action
-**Range:** 60 Feet
+**Casting Time:** Action
+**Range:** 60 feet
 **Components:** V, S
 **Duration:** [[Concentration]], up to 1 minute
 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
+Each Humanoid in a 20-foot-radius [[Sphere]] centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
 
-You can suppress any effect causing a target to be [[charmed]] or [[frightened]]. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+- The creature has [[Immunity]] to the [[Charmed]] and [[Frightened]] conditions until the spell ends. If the creature was already [[Charmed]] or [[Frightened]], those conditions are suppressed for the duration.
+- The creature becomes [[Indifferent]] about creatures of your choice that it's [[Hostile]] toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
 
-Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
-
+**Classes:** [[Bard]], [[Cleric]], [[Tamer]]
+**Subclasses:** [[Aberrant Mind Sorcerer]], [[Aberrant Sorcery Sorcerer]], [[Archfey Patron Warlock]], [[College of Lore Bard]], [[Couatl Herald Fighter]], [[Divine Soul Sorcerer]], [[Divine Soul Sorcerer]], [[Oath of Redemption Paladin]], [[The Archfey Warlock]]
+**Species:** [[Halfling (Mark of Hospitality)]], [[Human (Mark of Handling)]]
+**Backgrounds:**  [[Azorius Functionary]], [[Selesnya Initiate]], [[Silverquill Student]]
+**Feats:** [[Adept of the Black Robes]], [[Mark of Handling]], [[Mark of Hospitality]]

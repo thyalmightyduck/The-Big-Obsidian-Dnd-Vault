@@ -10,3 +10,9 @@ For the duration, magical Darkness spreads from a point within range and fills
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the Darkness to fill a 15-foot [[Emanation]] originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the Darkness.
 
 If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
+
+**Classes:** [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Apocalypse Domain Cleric]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Hand of Dread Pugilist]], [[Hungering Dark Sorcerer]], [[Oathbreaker Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Shadow Domain Cleric]], [[Shadow Sorcery Sorcerer]], [[Spellslinger Gunslinger]], [[Warrior of Shadow Monk]], [[Way of Shadow Monk]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Elf]], [[Elf (Drow)]], [[Elf (Mark of Shadow)]], [[Elf (Zendikar Mul Daya Nation)]], [[Half-Elf (Drow Descent)]], [[Tiefling]], [[Tiefling]], [[Tiefling (Asmodeus)]], [[Tiefling (Levistus)]], [[Tiefling (Hellfire)]], [[Tiefling (Infernal Legacy)]]
+**Backgrounds:** [[Silverquill Student]]
+**Feats:** [[Boon of Siberys]], [[Mark of Shadow]]

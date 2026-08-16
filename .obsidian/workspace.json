@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 2/Arcane Lock.md",
+                "file": "Rules/Spells/Level 2/Darkness (Spell).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arcane Lock"
+              "title": "Darkness (Spell)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +191,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Roadmap/Roadmap.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -323,36 +323,37 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "83a3b3f37a74c981",
   "lastOpenFiles": [
+    "Rules/Spells/Level 2/Darkness (Spell).md",
+    "Rules/Species/Elf (Zendikar Mul Daya Nation).md",
+    "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
+    "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
+    "Rules/Classes/Monk/Monk.md",
+    "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
+    "Rules/Spells/Level 2/Crown of Madness.md",
+    "Rules/Spells/Level 2/Controlled Mutation.md",
+    "Rules/Spells/Level 2/Continual Flame.md",
+    "Rules/Spells/Level 2/Chain of Conviction.md",
+    "Rules/Spells/Level 2/Calm Emotions.md",
+    "Rules/Spells/Level 2/Branding Smite.md",
+    "Rules/Spells/Level 2/Blur.md",
+    "Rules/Spells/Level 2/Bloodletter.md",
+    "Rules/Spells/Level 2/Blood Sacrifice.md",
+    "Rules/Spells/Level 2/Blindness Deafness.md",
+    "Rules/Spells/Level 2/Biohazard.md",
+    "Rules/Spells/Level 2/Barkskin.md",
+    "Rules/Spells/Level 2/Augury.md",
+    "Rules/Classes/Barbarian/Barbarian.md",
+    "Rules/Classes/Barbarian/Barbarian Subclasses/Path of the Ancestral Guardian Barbarian.md",
     "Rules/Spells/Level 2/Arcane Lock.md",
     "0 Roadmap/Roadmap.md",
     "Rules/Spells/Level 2/Animal Messenger.md",
     "Rules/Spells/Level 2/Ambush Prey.md",
     "Rules/Spells/Level 2/Alter Self.md",
     "Rules/Classes/Ranger/Ranger Subclasses/Hollow Warden Ranger.md",
-    "Rules/Classes/Ranger/Ranger.md",
-    "Rules/Core Rules/Enemy.md",
-    "Rules/Spells/Level 2/Aid.md",
-    "Rules/Spells/Level 1/Wrathful Smite.md",
-    "Rules/Spells/Level 1/Witch Bolt.md",
-    "Rules/Spells/Level 1/Veil of Dusk.md",
-    "Rules/Spells/Level 1/Unseen Servant.md",
-    "Rules/Spells/Level 1/Toxic Shield.md",
-    "Rules/Spells/Level 1/Thunderwave.md",
-    "Rules/Spells/Level 1/Thunderous Smite.md",
-    "Rules/Spells/Level 1/Tensers Floating Disk.md",
-    "Rules/Spells/Level 1/Tashas Hideous Laughter.md",
-    "Rules/Spells/Level 1/Speak With Animals.md",
-    "5 Monster Stat Blocks/Beast/Primal Striker.md",
-    "5 Monster Stat Blocks/Beast/Primal Guardian.md",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png.opdownload",
-    "Rules/Classes/Barbarian/Barbarian Subclasses/Path of the Primal Spirit Barbarian.md",
-    "Rules/Classes/Barbarian/Barbarian.md",
-    "Rules/Spells/Level 1/Sleep.md",
-    "Rules/Spells/Level 1/Silent Image.md",
-    "Untitled.md",
     "Pictures/Spells/Mage Armor.png",
     "Pictures/Magic Items/Ring of the Ram BGR PNG.png",
     "Pictures/Magic Items/Ring of the Ram BGR PNG.png.opdownload",
@@ -366,9 +367,7 @@
     "Pictures/Magic Items/Ring of Mind Shielding BGR PNG.png.opdownload",
     "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png",
     "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Elven Chain BGR PNG.png",
     "Pictures/Magic Items/Elven Chain BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Dagger of Venom BGR PNG.png",
     "Pictures/Magic Items/Dagger of Venom BGR PNG.png.opdownload",
     "Pictures/Magic Items/Armor of Resistance BGR PNG.png.opdownload"
   ]
