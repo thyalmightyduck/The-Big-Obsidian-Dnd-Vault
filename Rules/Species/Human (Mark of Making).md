@@ -26,7 +26,7 @@ Mark of Making Spells
 
 | Spell Level | Spells                                    |
 | ----------- | ----------------------------------------- |
-| 1st         | [[identify]], [[Tenser's floating disk]]  |
+| 1st         | [[identify]], [[Tensers Floating Disk]]  |
 | 2nd         | [[continual flame]], [[magic weapon]]     |
 | 3rd         | [[conjure barrage]], [[elemental weapon]] |
 | 4th         | [[fabricate]], [[stone shape]]            |

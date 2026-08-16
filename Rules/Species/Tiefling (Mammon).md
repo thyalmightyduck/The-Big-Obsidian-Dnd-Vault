@@ -8,7 +8,7 @@
 **Size:** Tieflings are about the same size and build as humans. Your size is Medium.
 **[[Darkvision]]:** Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Hellish Resistance:** You have resistance to fire damage.
-**Legacy of Minauros:** You know the [[mage hand]] cantrip. When you reach 3rd level, you can cast the [[Tenser's floating disk]] spell once with this trait and regain the ability to do so when you finish a short or [[Long Rest]]. When you reach 5th level, you can cast the [[arcane lock]] spell once with this trait, requiring no material component, and regain the ability to do so when you finish a [[Long Rest]]. Charisma is your spellcasting ability for these spells.
+**Legacy of Minauros:** You know the [[mage hand]] cantrip. When you reach 3rd level, you can cast the [[Tensers Floating Disk]] spell once with this trait and regain the ability to do so when you finish a short or [[Long Rest]]. When you reach 5th level, you can cast the [[arcane lock]] spell once with this trait, requiring no material component, and regain the ability to do so when you finish a [[Long Rest]]. Charisma is your spellcasting ability for these spells.
 **Languages:** You can speak, read, and write Common and Infernal.
 
 

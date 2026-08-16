@@ -10,7 +10,7 @@ When the Beast arrives, it delivers your message to the creature that you descri
 **Using a Higher-Level Spell Slot:** The spell's duration increases by 48 hours for each spell slot level above 2.
 
 **Classes:** [[Bard]], [[Druid]], [[Ranger]]
-**Subclasses:** [[College of Lore Bard]], [[Vermin Lord Ranger]], [[Warrior Of The Pestilent Haze]]
+**Subclasses:** [[College of Lore Bard]], [[Vermin Lord Ranger]], [[Warrior Of The Pestilent Haze Monk]]
 **Species:** [[Gnome (Mark Of Scribing)]]
 **Background:** [[Selesnya Initiate]]
 **Feats:** [[Adept of the Black Robes]], [[Mark of Scribing]]

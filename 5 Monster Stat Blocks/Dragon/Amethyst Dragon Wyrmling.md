@@ -61,7 +61,7 @@
 **Singularity Breath (Recharge 5–6)** The dragon creates a shining bead of gravitational force in its mouth, then releases the energy in a 15-foot cone. Each creature in that area must make a DC 13 Strength saving throw. On a failed save, the creature takes 22 (5d8) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, the creature takes half as much damage, and its speed isn't reduced.
 
 **Spellcasting (Psionics).** The dragon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):
-- 1/day each: [[Protection From Evil And Good]], [[Tenser's Floating Disk]], [[Unseen Servant]]
+- 1/day each: [[Protection From Evil And Good]], [[Tensers Floating Disk]], [[Unseen Servant]]
 
 # **Lore**
 Amethyst dragons, the mightiest of the gem dragons, study and psionically manipulate the fundamental principles of the multiverse, from the force of gravity to the emanations of the Outer Planes. Their innate psionics give them a measure of control over how physical laws affect them. They defy gravity with flight that doesn't rely solely upon their great wings, and gravitational force empowers both their devastating breath weapon and the exploding amethyst crystals they spit at their foes.

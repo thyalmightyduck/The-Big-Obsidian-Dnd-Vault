@@ -11,3 +11,8 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
+**Classes:** [[Apothecary]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Human (Mark of Making)]], [[Tiefling (Mammon)]]
+**Feats:** [[Magic Initiate]], [[Magic Initiate]], [[Mark of Making]], [[Quicksmithing]], [[Ritual Caster]], [[Strixhaven Initiate]]
+**Other Options/Features:** [[Book of Ancient Secrets]], [[Pact of the Tome]]

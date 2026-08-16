@@ -12,5 +12,5 @@ At the end of each of its turns and each time it takes damage, it makes another 
 **Using a Higher-Level Spell Slot:** You can target one additional creature for each spell slot level above 1.
 
 **Classes:** [[Apothecary]], [[Bard]], [[Warlock]], [[Wizard]]
-**Subclasses:** [[Alienist Apothecary]], [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Domain Cleric]], [[Eldritch Knight Fighter]], [[Great Fool Patron Warlock]], [[[[The Great Old One Patron Warlock]]]], [[Hand of Dread Pugilist]], [[Oath of Hexes Paladin]], [[Oath of Revelry Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Great Fool Warlock]], [[The Great Old One Warlock]], [[Way of the Arcane Hand Monk]]
+**Subclasses:** [[Alienist Apothecary]], [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Domain Cleric]], [[Eldritch Knight Fighter]], [[Great Fool Patron Warlock]], [[Great Old One Patron Warlock]], [[Hand of Dread Pugilist]], [[Oath of Hexes Paladin]], [[Oath of Revelry Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
 **Feats:** [[Divinely Favored]], [[Fey Touched]], [[Fey-Touched]], [[Magic Initiate]], [[Strixhaven Initiate]], [[Vampire Touched]]

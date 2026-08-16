@@ -14,3 +14,6 @@ The spell ends if the target is ever outside the spell's range or if it has Tota
 
 **Using a Higher-Level Spell Slot:** The initial damage increases by 1d12 for each spell slot level above 1.
 
+**Classes:**  [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Hand of Dread Pugilist]], [[Occultist Guild Monster Hunter]], [[Reanimator Artificer]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+**Feats:** [[Aberrant Dragonmark]], [[Boon of Siberys]], [[Divinely Favored]], [[Magic Initiate]], [[Strixhaven Initiate]]

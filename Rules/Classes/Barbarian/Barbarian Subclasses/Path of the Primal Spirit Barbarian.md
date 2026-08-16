@@ -113,6 +113,9 @@ Your [[speed]] increases by 10 feet while you aren't wearing [[Heavy armor]].
 ## Level 6: Subclass Feature
 You gain a feature from your Barbarian subclass.
 
+### Level 6: Kin to Beasts
+You always have the [[Animal Friendship]] and [[Speak with Animals]] spells prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a [[Short Rest]] or [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level. Constitution is your spellcasting ability for them.
+
 ## Level 7: Feral Instinct
 Your instincts are so honed that you have [[Advantage]] on [[Initiative]] rolls.
 
@@ -130,6 +133,15 @@ Hamstring Blow. The target's [[Speed]] is reduced by 15 feet until the start 
 ## Level 10: Subclass Feature
 You gain a feature from your Barbarian subclass.
 
+### Level 10: Skinrider's Trance
+You take a [[Magic action]] to enter a trance and choose your primal companion or one Beast currently under the effect of your [[Animal Friendship]] spell within 60 feet of yourself. For the duration of this trance, you possess the chosen creature.
+
+Once you possess a creature's body, you control it. Your [[Hit Point]]s, [[Hit Point Dice]], Strength, Dexterity, Constitution, [[Speed]], and senses are replaced by the creature's. You otherwise keep your game statistics. This possession ends if you choose to exit the trance (no action required by you), if the Beast you're possessing is reduced to 0 [[Hit Point]]s, or if you and the Beast are on different planes of existence.
+
+While in this trance, your body falls into a catatonic state. You can't move or take [[Reaction]]s, and you're unaware of your surroundings. You can remain in the trance for a number of hours up to half your Barbarian level plus your Constitution modifier.
+
+Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending one use of your Rage (no action required).
+
 ## Level 11: Relentless Rage
 Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
@@ -144,6 +156,11 @@ Sundering Blow. Before the start of your next turn, the next [[Attack Rolls]] m
 
 ## Level 14: Subclass Feature
 You gain a feature from your Barbarian subclass.
+
+### Level 14: Shape of the Wild
+As a [[Bonus Action]], you can choose a new form for your primal companion, causing it to transform instantaneously. When you cause your primal companion to transform in this way, its current [[Hit Point]]s change to its new [[Hit Point]] maximum.
+
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]]. You can also restore your use of it by expending one use of your Rage (no action required).
 
 ## Level 15: Persistent Rage
 When you roll [[Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[Long Rest]].

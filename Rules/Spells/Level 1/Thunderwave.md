@@ -11,4 +11,8 @@ In addition, unsecured objects that are entirely within the [[Cube]] are pushe
 
 **Using a Higher-Level Spell Slot:** The damage increases by 1d8 for each spell slot level above 1.
 
-
+**Classes:** [[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]]
+**Subclasses:** [[Apocalypse Domain Cleric]], [[Arcane Trickster Rogue]], [[Armorer Artificer]], [[Artillerist Artificer]], [[Circle of the Sea Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Leyline Magic Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Tempest Domain Cleric]], [[The Fathomless Warlock]], [[The Genie Warlock]], [[Way of the Arcane Hand Monk]]
+**Backgrounds:**  [[Gruul Anarch]], [[Prismari Student]]
+**Feats:** [[Aberrant Dragonmark]], [[Boon of Siberys]], [[Divinely Favored]], [[Magic Initiate]], [[Rune Shaper]], [[Strixhaven Initiate]]
+**Other Option/Features:** [[Fist of Four Thunders]]
