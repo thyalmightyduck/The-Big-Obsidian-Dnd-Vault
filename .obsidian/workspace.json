@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 2/Gust Of Wind.md",
+                "file": "Rules/Spells/Level 2/Levitate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gust Of Wind"
+              "title": "Levitate"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Spells/Level 2/Gust Of Wind.md",
+                "file": "0 Roadmap/Roadmap.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -304,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 473.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,10 +324,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c217321c64179887",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
-    "0 Roadmap/Roadmap.md",
+    "Rules/Spells/Level 2/Levitate.md",
+    "Rules/Spells/Level 2/Lesser Restoration.md",
+    "Rules/Spells/Level 2/Knock.md",
+    "Rules/Spells/Level 2/Invisibility.md",
+    "Rules/Spells/Level 2/Invigorate.md",
+    "Rules/Spells/Level 2/Inequality.md",
+    "Rules/Spells/Level 2/Hold Person.md",
+    "Rules/Spells/Level 2/Heat Metal.md",
+    "Rules/Spells/Level 2/Hangover.md",
     "Rules/Spells/Level 2/Gust Of Wind.md",
+    "0 Roadmap/Roadmap.md",
     "Rules/Spells/Level 2/Grasping Ghost.md",
     "Rules/Spells/Level 2/Flaming Sphere.md",
     "Rules/Spells/Level 2/Flame Blade.md",
@@ -343,17 +352,8 @@
     "Rules/Spells/Level 2/Detect Thoughts.md",
     "Rules/Spells/Level 2/Dragon_s Breath.md",
     "The Great Old One Warlock.md",
-    "Rules/Classes/Warlock/Warlock.md",
-    "Rules/Spells/Level 2/Darkness (Spell).md",
-    "Rules/Species/Elf (Zendikar Mul Daya Nation).md",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
-    "Rules/Classes/Monk/Monk.md",
-    "Rules/Classes/Monk/Monk Subclasses/Way of Shadow Monk.md",
-    "Rules/Spells/Level 2/Crown of Madness.md",
-    "Rules/Spells/Level 2/Controlled Mutation.md",
-    "Rules/Spells/Level 2/Continual Flame.md",
-    "Rules/Spells/Level 2/Chain of Conviction.md",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png.opdownload",
     "Pictures/Spells/Mage Armor.png",

@@ -1,5 +1,5 @@
 # Last Left Off
-Finished Gust of Wind
+Finished Levitate
 Artificer 
 	+1 Weapon Links
 	+1 Armor Links
