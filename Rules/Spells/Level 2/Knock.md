@@ -14,6 +14,6 @@ If the target is held shut by [[Arcane Lock]], that spell is suppressed for 10 
 When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
 
 **Classes:** [[Bard]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], Eldritch Knight Fighter, Oath of Zeal Paladin, Occultist Guild Monster Hunter, [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], Way of the Arcane Hand Monk
+**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Oath of Zeal Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
 **Species:** [[Dwarf (Mark Of Warding)]]
-**Feats:** Adept of the Red Robes, Boon of Siberys, Mark of Warding
+**Feats:** [[Adept of the Red Robes]], [[Boon of Siberys]], [[Mark of Warding]]
