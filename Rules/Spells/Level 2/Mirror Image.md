@@ -12,5 +12,5 @@ Each time a creature hits you with an attack roll during the spell's duration, r
 A creature is unaffected by this spell if it has the [[Blinded]] condition, [[Blindsight]], or [[Truesight]].
 
 **Classes:** [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]]
-**Subclasses:** [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Armorer Artificer]], [[Circle of Land Druid]], [[College of Glamour Bard]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Illusionist Wizard]], [[Oath of the Noble Genies Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Trickery Domain Cleric]], [[Ambition Domain Cleric]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Armorer Artificer]], [[Circle of the Land Druid]], [[College of Glamour Bard]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Illusionist Wizard]], [[Oath of the Noble Genies Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Trickery Domain Cleric]], [[Ambition Domain Cleric]]
 **Feats:** [[Adept of the Red Robes]], [[Boon of Siberys]]

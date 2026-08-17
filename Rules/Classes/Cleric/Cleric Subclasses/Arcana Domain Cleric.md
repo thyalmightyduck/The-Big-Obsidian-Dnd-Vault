@@ -106,7 +106,7 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 | Cleric Level | Spells                                       |
 | ------------ | -------------------------------------------- |
 | 1st          | [[detect magic]], [[magic missile]]          |
-| 3rd          | [[magic weapon]], [[Nystul's Magic Aura]]    |
+| 3rd          | [[magic weapon]], [[Nystuls Magic Aura]]    |
 | 5th          | [[dispel magic]], [[magic circle]]           |
 | 7th          | [[arcane eye]], [[Leomund's Secret Chest]]   |
 | 9th          | [[planar binding]], [[teleportation circle]] |

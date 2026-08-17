@@ -9,5 +9,5 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 
 **Classes:** [[Bard]], [[Druid]], [[Ranger]], [[Tamer]]
 **Subclasses:** [[College of Lore Bard]], [[Hunt Domain Cleric]]
-**Species:** [[Half-Orc (Variant; Mark of Finding)]], [[Human (Variant; Mark of Finding)]]
+**Species:** [[Half-Orc (Mark of Finding)]], [[Human (Mark of Finding)]]
 **Feats:** [[Adept of the White Robes]], [[Mark of Finding]]

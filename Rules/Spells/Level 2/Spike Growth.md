@@ -11,6 +11,6 @@ The ground in a 20-foot-radius [[Sphere]] centered on a point within range spr
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [[Search action]] and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
 **Classes:** [[Druid]], [[Ranger]]
-**Subclasses:** [[Circle of the Land Druid]], [[Circle of the Old Ways Druid]], [[College of Lore Bard]], [[Horned King Patron Warlock]], [[Leyline Magic Wizard]], [[Nature Domain Cleric]], [[Stone Sovereign Patron Warlock]], [[The Genie Warlock]], [[The Horned King Warlock]]
+**Subclasses:** [[Circle of the Land Druid]], [[Circle of the Old Ways Druid]], [[College of Lore Bard]], [[Horned King Patron Warlock]], [[Leyline Magic Wizard]], [[Nature Domain Cleric]], [[Stone Sovereign Patron Warlock]], [[The Genie Warlock]]
 **Species:** [[Halfling (Lotusden)]]
 **Feats:** [[Adept of the Red Robes]]

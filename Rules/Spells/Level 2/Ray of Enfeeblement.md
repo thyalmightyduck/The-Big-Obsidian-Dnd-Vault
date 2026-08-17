@@ -10,14 +10,8 @@ A beam of enervating energy shoots from you toward a creature within range. The 
 
 On a failed save, the target has [[Disadvantage]] on Strength-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
-# Player’s Handbook (2014)
-_Necromancy Level 2_
-
-**Casting Time:** Action
-**Range:** 60 Feet
-**Components:** V, S
-**Duration:** [[Concentration]], up to 1 Minute
-
-A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.
-
-At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
+**Classes:** [[Apothecary]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Apocalypse Sorcery Sorcerer]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[College of Lore Bard]], [[Death Domain Cleric]], [[Eldritch Knight Fighter]], [[Grave Domain Cleric]], [[Hand of Dread Pugilist]], [[Necromancer Tamer]], [[Oath of Pestilence Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Tiefling]]
+**Backgrounds:** [[Golgari Agent]], [[Orzhov Representative]]
+**Feats:** [[Adept of the Black Robes]]

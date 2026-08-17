@@ -95,7 +95,7 @@ You gain oath spells at the paladin levels listed.
 | Paladin Level | Spells                                            |
 | ------------- | ------------------------------------------------- |
 | 3rd           | [[bane]], [[detect magic]]                        |
-| 5th           | [[Nystul's Magic Aura]], [[hold person]]          |
+| 5th           | [[Nystuls Magic Aura]], [[hold person]]          |
 | 9th           | [[dispel magic]], [[slow]]                        |
 | 13th          | [[dimension door]], [[Otilukes Resilient Sphere]] |
 | 17th          | [[dominate person]], [[scrying]]                  |

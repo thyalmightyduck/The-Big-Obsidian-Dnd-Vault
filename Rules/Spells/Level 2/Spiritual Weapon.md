@@ -12,5 +12,5 @@ As a [[Bonus Action]] on your later turns, you can move the force up to 20 fee
 **Using a Higher-Level Spell Slot:** The damage increases by 1d8 for every slot level above 2.
 
 **Classes:** [[Cleric]]
-**Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Exorcist Apothecary]], [[Forge Adept Artificer]], [[Great Fool Patron Warlock]], [[Life Domain Cleric]], [[Oath of Conquest Paladin]], [[The Great Fool Warlock]], [[War Domain Cleric]]
+**Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Exorcist Apothecary]], [[Forge Adept Artificer]], [[Great Fool Patron Warlock]], [[Life Domain Cleric]], [[Oath of Conquest Paladin]], [[Great Fool Patron Warlock]], [[War Domain Cleric]]
 **Feats:** [[Mark of Making]]

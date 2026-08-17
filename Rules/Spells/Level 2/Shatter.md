@@ -11,7 +11,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 **Using a Higher-Level Spell Slot:** The damage increases by 1d8 for each spell slot level above 2.
 
 **Classes:** [[Bard]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Arcane Trickster Rogue]], [[Armorer Artificer]], [[Artillerist Artificer]], [[Circle of the Sea Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Oath of Slaughter Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Tempest Domain Cleric]], [[Warrior Of The Leaden Crown Monk]], [[Zeal Domain (PSA Cleric]] 
+**Subclasses:** [[Arcane Trickster Rogue]], [[Armorer Artificer]], [[Artillerist Artificer]], [[Circle of the Sea Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Oath of Slaughter Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Tempest Domain Cleric]], [[Warrior Of The Leaden Crown Monk]], [[Zeal Domain Cleric]] 
 **Backgrounds:** [[Gruul Anarch]]
 **Feats:** [[Boon of Siberys]], [[Mark of Storm]]
 **Other Options/Features:** [[Gong of the Summit]]

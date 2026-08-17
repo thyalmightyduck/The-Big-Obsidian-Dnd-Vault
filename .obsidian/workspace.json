@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 2/Levitate.md",
+                "file": "Rules/Spells/Level 2/Warding Bond.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Levitate"
+              "title": "Warding Bond"
             }
           }
         ]
@@ -303,8 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
-    "collapsed": true
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,37 +319,38 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
-    "Rules/Spells/Level 2/Levitate.md",
-    "Rules/Spells/Level 2/Lesser Restoration.md",
-    "Rules/Spells/Level 2/Knock.md",
-    "Rules/Spells/Level 2/Invisibility.md",
-    "Rules/Spells/Level 2/Invigorate.md",
-    "Rules/Spells/Level 2/Inequality.md",
-    "Rules/Spells/Level 2/Hold Person.md",
-    "Rules/Spells/Level 2/Heat Metal.md",
-    "Rules/Spells/Level 2/Hangover.md",
-    "Rules/Spells/Level 2/Gust Of Wind.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Spells/Level 2/Grasping Ghost.md",
-    "Rules/Spells/Level 2/Flaming Sphere.md",
-    "Rules/Spells/Level 2/Flame Blade.md",
-    "Rules/Spells/Level 2/Find Traps.md",
-    "Rules/Spells/Level 2/Find Steed.md",
-    "Rules/Spells/Level 2/Feline Grace.md",
-    "Rules/Spells/Level 2/Enthrall.md",
-    "Rules/Spells/Level 2/Enlarge Reduce.md",
-    "Rules/Spells/Level 2/Enhance Ability.md",
-    "Rules/Spells/Level 2/Eelskin.md",
-    "Rules/Spells/Level 2/Earthbind.md",
-    "Rules/Spells/Level 2/Dragons Breath.md",
-    "Rules/Spells/Level 2/Detect Thoughts.md",
-    "Rules/Spells/Level 2/Dragon_s Breath.md",
-    "The Great Old One Warlock.md",
+    "Rules/Spells/Level 2/Warding Bond.md",
+    "Rules/Spells/Level 2/Summon Beast.md",
+    "Rules/Spells/Level 2/Summer Winds.md",
+    "Rules/Spells/Level 2/Suggestion.md",
+    "Rules/Spells/Level 2/Spiritual Weapon.md",
+    "Rules/Spells/Level 2/Spike Growth.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/Horned King Patron Warlock.md",
+    "Rules/Spells/Level 2/Spider Climb.md",
+    "Rules/Spells/Level 2/Silence.md",
+    "Rules/Spells/Level 2/Shining Smite.md",
+    "Rules/Spells/Level 2/Shatter.md",
+    "Rules/Spells/Level 2/Sense Lifeblood.md",
+    "Rules/Spells/Level 2/See Invisibility.md",
+    "Rules/Spells/Level 2/Scorching Ray.md",
+    "Rules/Spells/Level 2/Rope Trick.md",
+    "Rules/Spells/Level 2/Riptide.md",
+    "Rules/Spells/Level 2/Recall.md",
+    "Rules/Spells/Level 2/Ray of Enfeeblement.md",
+    "Rules/Spells/Level 2/Protection From Poison.md",
+    "Rules/Spells/Level 2/Prayer of Healing.md",
+    "Rules/Spells/Level 2/Phantasmal Force.md",
+    "Rules/Spells/Level 2/Pass Without Trace.md",
+    "Rules/Classes/Warlock/Warlock Subclasses/The Great Old One Warlock.md",
+    "Rules/Spells/Level 2/Nystuls Magic Aura.md",
+    "Rules/Spells/Level 2/Moonbeam.md",
+    "Rules/Spells/Level 2/Misty Step.md",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",
