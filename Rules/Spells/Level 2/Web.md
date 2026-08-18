@@ -16,5 +16,5 @@ A creature [[Restrained]] by the webs can take an action to make a Strength (A
 The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 round, dealing 2d4 Fire damage to any creature that starts its turn in the fire.
 
 **Classes:** [[Apothecary]], [[Artificer]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Arcane Trickster Rogue]], Circle of the Land Druid, College of Lore Bard, Eldritch Knight Fighter, Occultist Guild Monster Hunter, Sanguine [[Thief Rogue]], [[Spellslinger Gunslinger]], [[Swarmkeeper Ranger]], Way of the Arcane Hand Monk
-**Feats:** Boon of Siberys
+**Subclasses:** [[Arcane Trickster Rogue]], [[Circle of the Hive Druid]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Swarmkeeper Ranger]], [[Way of the Arcane Hand Monk]]
+**Feats:** [[Boon of Siberys]]

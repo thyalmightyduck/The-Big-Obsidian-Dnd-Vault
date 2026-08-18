@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 2/Warding Bond.md",
+                "file": "Rules/Spells/Level 3/Fireball.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Warding Bond"
+              "title": "Fireball"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Roadmap/Roadmap.md",
+                "file": "Rules/Spells/Level 3/Fireball.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -323,34 +324,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "c217321c64179887",
   "lastOpenFiles": [
+    "Rules/Spells/Level 3/Flash Fever.md",
+    "Rules/Spells/Level 3/Feign Death.md",
+    "Rules/Spells/Level 3/Fear.md",
+    "Rules/Spells/Level 3/Elemental Weapon.md",
+    "Rules/Spells/Level 3/Doom.md",
+    "Rules/Spells/Level 3/Dispel Magic.md",
+    "Rules/Spells/Level 3/Daylight.md",
+    "Rules/Spells/Level 3/Culling Sickle.md",
+    "Rules/Spells/Level 3/Crusaders Mantle.md",
+    "Rules/Spells/Level 3/Crimson Harvest.md",
+    "Rules/Spells/Level 3/Create Food and Water.md",
+    "Rules/Spells/Level 3/Counterspell.md",
+    "Rules/Spells/Level 3/Conjure Barrage.md",
+    "Rules/Spells/Level 3/Conjure Animals.md",
+    "Rules/Spells/Level 3/Clairvoyance.md",
+    "Rules/Spells/Level 3/Call Lightning.md",
+    "Rules/Spells/Level 3/Blood Bond.md",
+    "Rules/Spells/Level 3/Blink.md",
+    "Rules/Spells/Level 3/Bestow Curse.md",
+    "Rules/Spells/Level 3/Beacon of Hope.md",
+    "Rules/Spells/Level 3/Aura of Vitality.md",
+    "Rules/Spells/Level 3/Animate Dead.md",
+    "Rules/Spells/Level 2/Zone of Truth.md",
+    "Rules/Spells/Level 2/Web.md",
     "Rules/Spells/Level 2/Warding Bond.md",
-    "Rules/Spells/Level 2/Summon Beast.md",
-    "Rules/Spells/Level 2/Summer Winds.md",
-    "Rules/Spells/Level 2/Suggestion.md",
-    "Rules/Spells/Level 2/Spiritual Weapon.md",
-    "Rules/Spells/Level 2/Spike Growth.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/Horned King Patron Warlock.md",
-    "Rules/Spells/Level 2/Spider Climb.md",
-    "Rules/Spells/Level 2/Silence.md",
-    "Rules/Spells/Level 2/Shining Smite.md",
-    "Rules/Spells/Level 2/Shatter.md",
-    "Rules/Spells/Level 2/Sense Lifeblood.md",
-    "Rules/Spells/Level 2/See Invisibility.md",
-    "Rules/Spells/Level 2/Scorching Ray.md",
-    "Rules/Spells/Level 2/Rope Trick.md",
-    "Rules/Spells/Level 2/Riptide.md",
-    "Rules/Spells/Level 2/Recall.md",
-    "Rules/Spells/Level 2/Ray of Enfeeblement.md",
-    "Rules/Spells/Level 2/Protection From Poison.md",
-    "Rules/Spells/Level 2/Prayer of Healing.md",
-    "Rules/Spells/Level 2/Phantasmal Force.md",
-    "Rules/Spells/Level 2/Pass Without Trace.md",
-    "Rules/Classes/Warlock/Warlock Subclasses/The Great Old One Warlock.md",
-    "Rules/Spells/Level 2/Nystuls Magic Aura.md",
-    "Rules/Spells/Level 2/Moonbeam.md",
-    "Rules/Spells/Level 2/Misty Step.md",
+    "0 Roadmap/Roadmap.md",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",

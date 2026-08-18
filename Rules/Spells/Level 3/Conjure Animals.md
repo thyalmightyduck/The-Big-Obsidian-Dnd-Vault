@@ -14,7 +14,7 @@ Whenever the pack moves within 10 feet of a creature you can see and whenever a 
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 3.
 
 **Classes:** [[Druid]], [[Ranger]]
-**Subclasses:** [[Circle of the Moon Druid]], [[College of Lore Bard]], [[Hunt Domain Cleric]], [[Leyline Magic Wizard]], [[The First Vampire Warlock]], [[The First Vampire Patron Warlock]]
+**Subclasses:** [[Circle of the Moon Druid]], [[College of Lore Bard]], [[Hunt Domain Cleric]], [[Leyline Magic Wizard]], [[The First Vampire Patron Warlock]]
 **Species:** [[Human (Mark of Handling)]]
 **Backgrounds:** [[Gruul Anarch]]
 **Feats:** [[Mark of Handling]]

@@ -10,3 +10,9 @@ For the duration, sunlight spreads from a point within range and fills a 60-foot
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot [[Emanation]] originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.
 
 If any of this spell's area overlaps with an area of [[Darkness (Spell)]] created by a spell of level 3 or lower, that other spell is dispelled.
+
+**Classes:**  [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[Sorcerer]], [[Tamer]]
+**Subclasses:** [[Celestial Patron Warlock]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Leyline Magic Wizard]], [[Light Domain Cleric]], [[Oath of the Hearth Paladin]], [[The Celestial Warlock]]
+**Species:** [[Aasimar]]
+**Backgrounds:** [[Silverquill Student]]
+**Feats:** [[Boon of Siberys]]

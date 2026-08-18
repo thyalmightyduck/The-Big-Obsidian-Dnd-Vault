@@ -13,7 +13,7 @@ When you cast the spell, choose seeing or hearing. You can use the chosen sense 
 A creature that sees the sensor (such as a creature benefiting from [[See Invisibility]] or [[Truesight]]) sees a luminous orb about the size of your fist.
 
 **Classes:** [[Bard]], [[Cleric]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Arcane Trickster Rogue]], [[Cartographer Artificer]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[[[The Great Old One Patron Warlock]]]], [[Occultist Guild Monster Hunter]], [[Path of the Ancestral Guardian Barbarian]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Great Old One Warlock]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Cartographer Artificer]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[The Great Old One Warlock]], [[Occultist Guild Monster Hunter]], [[Path of the Ancestral Guardian Barbarian]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Great Old One Warlock]]
 **Species:** [[Elf (Mark of Shadow)]], [[Half-Elf (Mark Of Detection)]], [[Half-Orc (Mark of Finding)]], [[Human (Mark of Finding)]]
 **Backgrounds:** [[Azorius Functionary]]
 **Feats:** [[Boon of Siberys]], [[Mark of Detection]], [[Mark of Finding]], [[Mark of Shadow]]
