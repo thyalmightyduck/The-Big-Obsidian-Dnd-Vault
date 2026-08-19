@@ -12,4 +12,4 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[Disadv
 **Dismissal.** As a [[Magic action]], you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
 
 **Classes:** [[Cleric]], [[Paladin]]
-**Subclasses:** Divine Soul Sorcerer, Exorcist Apothecary, [[Warrior of the Leaden Crown Monk]] Monk
+**Subclasses:** [[Divine Soul Sorcerer]], [[Exorcist Apothecary]], [[Warrior of the Leaden Crown Monk]] 

@@ -15,4 +15,4 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to [[D20 Test]]s. Every time the target finishes a [[Long Rest]], the penalty is reduced by 1 until it becomes 0.
 
 **Classes:** [[Bard]], [[Cleric]], [[Paladin]]
-**Subclasses:** [[Alchemist Artificer]], [[Divine Soul Sorcerer]], [[Grave Cleric]], [[Life Domain Cleric]], [[Oath of the Guardian Paladin]]
+**Subclasses:** [[Alchemist Artificer]], [[Divine Soul Sorcerer]], [[Grave Domain Cleric]], [[Life Domain Cleric]], [[Oath of the Guardian Paladin]]

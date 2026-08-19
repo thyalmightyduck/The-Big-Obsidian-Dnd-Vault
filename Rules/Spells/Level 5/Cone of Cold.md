@@ -10,7 +10,7 @@ You unleash a blast of cold air. Each creature in a 60-foot [[Cone]] originati
 **Using a Higher-Level Spell Slot:** The damage increases by 1d8 for each spell slot level above 5.
 
 **Classes:** [[Druid]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Artillerist Artificer]], [[Circle of the Land Druid]], [[Evoker Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Fathomless Warlock]], [[Genie (Marid) Warlock]], [[Hexblade Warlock]], [[Winter Walker Ranger]]
+**Subclasses:** [[Artillerist Artificer]], [[Circle of the Land Druid]], [[Evoker Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Fathomless Warlock]], [[The Genie Warlock]], [[the Hexblade Warlock]], [[Winter Walker Ranger]]
 **Backgrounds:** [[Prismari Student]]
 **Feats:** [[Boon of Siberys]]
 **Other Options/Features:** [[Breath of Winter]]

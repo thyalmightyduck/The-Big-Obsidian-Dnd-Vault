@@ -12,3 +12,9 @@ The target gains a number of [[Temporary Hit Point]] equal to the [[Hit Point
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
 
 The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
+
+**Classes:** [[Apothecary]], [[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Circle of the Land Druid]], [[Eldritch Knight Fighter]], [[Flesh Patron Warlock]], [[Horned King Patron Warlock]], [[Mutagenist Apothecary]], [[Oath of Hexes Paladin]], [[Occultist Guild Monster Hunter]], [[Primordial Archer Ranger]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[The First Vampire Patron Warlock]], [[Trickery Domain Cleric]], [[Way of the Arcane Hand Monk]]
+**Backgrounds:** [[Simic Scientist]]
+**Feats:** [[Boon of Siberys]]
+**Other Options/Features:** [[Sculptor of Flesh]]

@@ -14,6 +14,6 @@ You can command the target to take a [[Reaction]] but must take your own [[Re
 **Using a Higher-Level Spell Slot:** Your [[Concentration]] can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 
 **Classes:** [[Bard]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Archfey Patron Warlock]], [[Circle of Blood Druid]], [[Horned King Patron Warlock]], [[Oath of Conquest Paladin]], [[Oath of the Spelldrinker Paladin]], [[Occultist Guild Monster Hunter]], [[Order Domain Cleric]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The First Vampire Patron Warlock]], [[The Great Old One Warlock]], [[The Horned King Warlock]], [[The Parasite Patron Warlock]], [[Trickery Domain Cleric]], [[Ambition Domain (PSA) Cleric)]]
+**Subclasses:** [[Archfey Patron Warlock]], [[Circle of Blood Druid]], [[Horned King Patron Warlock]], [[Oath of Conquest Paladin]], [[Oath of the Spelldrinker Paladin]], [[Occultist Guild Monster Hunter]], [[Order Domain Cleric]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The First Vampire Patron Warlock]], [[The Great Old One Warlock]], [[The Parasite Patron Warlock]], [[Trickery Domain Cleric]], [[Ambition Domain Cleric]]
 **Backgrounds:** [[Azorius Functionary]], [[Rakdos Cultist]], [[Silverquill Student]]
 **Feats:** [[Boon of Siberys]]

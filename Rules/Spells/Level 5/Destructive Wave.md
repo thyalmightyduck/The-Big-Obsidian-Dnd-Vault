@@ -6,3 +6,7 @@ _Evocation Level 5_
 **Duration:** Instantaneous
 
 Destructive energy ripples outward from you in a 30-foot [[Emanation]]. Each creature you choose in the [[Emanation]] makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the [[Prone]] condition. On a successful save, a target takes half as much damage only.
+
+**Classes:** [[Paladin]]
+**Subclasses:** [[Oath of Slaughter Paladin]], [[Tempest Domain Cleric]], [[Strength Domain Cleric]], [[Zeal Domain Cleric]]
+**Backgrounds:** [[Gruul Anarch]]

@@ -26,4 +26,4 @@ On a failed save, the spell creates an [[Invisible Condition]], intangible sens
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
 **Classes:** [[Bard]], [[Cleric]], [[Druid]], [[Warlock]], [[Wizard]]
-**Subclasses:** [[Cartographer Artificer]], [[Circle of Land Druid]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Knowledge Domain Cleric]], [[Light Domain Cleric]], [[Vengeance Paladin]], [[Oath of Zeal Paladin]], [[Oath of the Spelldrinker Paladin]], [[Oath of the Watchers Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[The Horned King Warlock]]
+**Subclasses:** [[Cartographer Artificer]], [[Circle of the Land Druid]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Knowledge Domain Cleric]], [[Light Domain Cleric]], [[Oath of Vengeance Paladin]], [[Oath of Zeal Paladin]], [[Oath of the Spelldrinker Paladin]], [[Oath of the Watchers Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[Horned King Patron Warlock]]

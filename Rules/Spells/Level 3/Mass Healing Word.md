@@ -8,3 +8,8 @@ _Abjuration Level 3_
 Up to six creatures of your choice that you can see within range regain [[Hit Point]] equal to 2d4 plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot:** The healing increases by 1d4 for each spell slot level above 3.
+
+**Classes:** [[Apothecary]], [[Bard]], [[Cleric]]
+**Subclasses:** [[Alchemist Artificer]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Life Domain Cleric]], [[Order Domain Cleric]]
+**Species:** [[Halfling (Mark of Healing)]]
+**Feats:** [[Mark of Healing]]

@@ -12,7 +12,7 @@ The lore might consist of important details, amusing revelations, or even secret
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
 **Classes:** [[Bard]], [[Cleric]], [[Wizard]]
-**Subclasses:** Divine Soul Sorcerer, Diviner Wizard, [[Draconic Sorcery Sorcerer]], [[Future You Patron Warlock]], [[Knowledge Domain Cleric]], Oath of Glory Paladin, Occultist Guild Monster Hunter, [[Rocborne Ranger]], Sanguine [[Thief Rogue]], [[Spellslinger Gunslinger]], [[The Undying Warlock]], Way of the Arcane Hand Monk
+**Subclasses:** [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Draconic Sorcery Sorcerer]], [[Future You Patron Warlock]], [[Knowledge Domain Cleric]], [[Oath of Glory Paladin]], [[Occultist Guild Monster Hunter]], [[Rocborne Ranger]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Undying Warlock]], [[Way of the Arcane Hand Monk]]
 **Species:** [[Half-Elf (Mark Of Detection)]]
-**Backgrounds:** Lorehold Student
-**Feats:** Mark of Detection
+**Backgrounds:** [[Lorehold Student]]
+**Feats:** [[Mark of Detection]]

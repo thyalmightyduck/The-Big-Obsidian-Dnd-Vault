@@ -19,6 +19,6 @@ For example, you could determine the location of a powerful monster in the area,
 
 **Classes:** [[Druid]], [[Ranger]]
 **Subclasses:** [[Circle of the Land Druid]], [[Hunt Domain Cleric]], [[Leyline Magic Wizard]], [[Oath of the Ancients Paladin]], [[Path of the Totem Warrior Barbarian]], [[Path of the Wild Heart Barbarian]]
-**Species:** [[Half-Orc (Variant; Mark of Finding)]], [[Human (Variant; Mark of Finding)]]
+**Species:** [[Half-Orc (Mark of Finding)]], [[Human (Mark of Finding)]]
 **Backgrounds:** [[Selesnya Initiate]]
 **Feats:** [[Mark of Finding]]

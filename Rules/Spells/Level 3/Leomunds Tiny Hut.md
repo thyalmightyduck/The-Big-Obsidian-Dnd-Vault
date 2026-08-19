@@ -12,3 +12,8 @@ Creatures and objects within the [[Emanation]] when you cast the spell can mov
 The atmosphere inside the [[Emanation]] is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[Dim Light]] or Darkness (no action required). The [[Emanation]] is opaque from the outside and of any color you choose, but it's transparent from the inside.
 
 The spell ends early if you leave the [[Emanation]] or if you cast it again.
+
+**Classes:** [[Bard]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Circle of Wicker Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Twilight Domain Cleric]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Halfling (Mark of Hospitality)]]
+**Feats:** [[Mark of Hospitality]]

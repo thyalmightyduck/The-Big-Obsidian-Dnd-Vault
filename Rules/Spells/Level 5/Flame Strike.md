@@ -10,5 +10,5 @@ A vertical column of brilliant fire roars down from above. Each creature in a 10
 **Using a Higher-Level Spell Slot:** The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
 
 **Classes:** [[Cleric]]
-**Subclasses:** [[Circle of Wildfire Druid]], [[Circle of Unbroken Druid]], [[Cosmic Patron Warlock]], [[Divine Soul Sorcerer]], [[Exorcist Apothecary]], [[Light Domain Cleric]], [[Oath of Castigation Paladin]], [[Oath of Devotion Paladin]], [[Oath of glory Paladin]], [[Oath of the Hearth Paladin]], [[Purification Domain Cleric]], [[Spellfire Sorcery Sorcerer]], [[The Celestial Warlock]], [[The Fiend Warlock]], [[The Genie Warlock]], [[War Domain Cleric]], [[Zeal Domain Cleric]]
+**Subclasses:** [[Circle of Wildfire Druid]], [[Circle of the Unbroken Druid]], [[Cosmic Patron Warlock]], [[Divine Soul Sorcerer]], [[Exorcist Apothecary]], [[Light Domain Cleric]], [[Oath of Castigation Paladin]], [[Oath of Devotion Paladin]], [[Oath of glory Paladin]], [[Oath of the Hearth Paladin]], [[Purification Domain Cleric]], [[Spellfire Sorcery Sorcerer]], [[The Celestial Warlock]], [[The Fiend Warlock]], [[The Genie Warlock]], [[War Domain Cleric]], [[Zeal Domain Cleric]]
 **Backgrounds:** [[Boros Legionnaire]], [[Lorehold Student]]

@@ -12,3 +12,9 @@ While in this form, the target's only method of movement is a Fly Speed of 10 
 The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
 **Using a Higher-Level Spell Slot:** You can target one additional creature for each spell slot level above 3.
+
+**Classes:** [[Apothecary]], [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Alchemist Artificer]], [[Arcane Trickster Rogue]], [[Circle of Spores Druid]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Hand of Dread Pugilist]], [[Oath of the Noble Genies Paladin]], [[Occultist Guild Monster Hunter]], [[Path of the Haze Rager Barbarian]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Swarmkeeper Ranger]], [[The First Vampire Patron Warlock]], [[Way of the Arcane Hand Monk]]
+**Backgrounds:** [[Dimir Operative]], [[Simic Scientist]]
+**Feats:** [[Boon of Misty Escape]], [[Boon of Siberys]]
+**Other Options/Features:** [[Mist Stance]]

@@ -11,4 +11,4 @@ An Invisible wall of force springs into existence at a point you choose within
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [[Dispel Magic]]. A [[Disintegrate]] spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
 **Classes:** [[Wizard]]
-**Subclasses:** [[Armorer Artificer]], [[Artillerist Artificer]], [[Clockwork Sorcerer]], [[Evoker Wizard]], [[Oath of Redemption Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Warrior of the Leaden Crown Monk]]
+**Subclasses:** [[Armorer Artificer]], [[Artillerist Artificer]], [[Clockwork Soul Sorcerer]], [[Clockwork Sorcery Sorcerer]] [[Evoker Wizard]], [[Oath of Redemption Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Warrior of the Leaden Crown Monk]]

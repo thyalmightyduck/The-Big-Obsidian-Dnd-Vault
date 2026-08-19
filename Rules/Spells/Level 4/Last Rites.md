@@ -1,6 +1,6 @@
 _Abjuration Level 4_
 
-**Casting Time:** Actioin
+**Casting Time:** Action
 **Range:** 120
 **Components:** V, S, M (a small piece of brass, a rose petal, and a drop of holy water)
 **Duration:** Instantaneous

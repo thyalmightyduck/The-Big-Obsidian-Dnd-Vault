@@ -12,3 +12,9 @@ You have a telepathic link with the [[Charmed]] target while the two of you ar
 You can command the target to take a [[Reaction]] but must take your own [[Reaction]] to do so.
 
 **Using a Higher-Level Spell Slot:** Your [[Concentration]] can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
+
+**Classes:** [[Druid]], [[Ranger]], [[Sorcerer]], [[Tamer]]
+**Subclasses:** [[Archfey Patron Warlock]], [[Architect of Ruin Illrigger]], [[Hollow Warden Ranger]], [[Nature Domain Cleric]], [[Oath of Conquest Paladin]], [[The Archfey Warlock]], [[The Great Old One Warlock]], [[The Predator Warlock]], [[Strength Domain Cleric]]
+**Species:** [[Human (Mark of Handling)]]
+**Backgrounds:** [[Gruul Anarch]]
+**Feats:** [[Boon of Siberys]], [[Mark of Handling]]

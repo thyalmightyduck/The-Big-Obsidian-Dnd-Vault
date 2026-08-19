@@ -106,7 +106,7 @@ Clerics of such gods value unity, and praise the strength that can be gained whe
 | 1st          | [[Bless]], [[Goodberry]]                                                                                                                                         |
 | 3rd          | [[Aid]], [[Heroism]]                                                                                                                                             |
 | 5th          | [[Beacon of Hope]], [[Spirit Guardians]]                                                                                                                         |
-| 7th          | [[Banishment]], [[Mordenkainen's Faithful Hound]]                                                                                                                |
+| 7th          | [[Banishment]], [[Mordenkainens Faithful Hound]]                                                                                                                |
 | 9th          | [[Mass Cure Wounds]], [[Rarys Telepathic Bond]] |
 
 ### Blessing of the Hearth

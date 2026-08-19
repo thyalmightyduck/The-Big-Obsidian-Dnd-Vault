@@ -12,3 +12,8 @@ If the target is asleep, the messenger appears in the target's dreams and can co
 If the target is awake when you cast the spell, the messenger knows it and can either end the trance (and the spell) or wait for the target to sleep, at which point the messenger enters its dreams.
 
 You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes 3d6 Psychic damage when it wakes up.
+
+**Classes:** [[Bard]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Circle of the Land Druid]], [[Eldritch Domain Cleric]], [[Grim Harbinger Ranger]], [[Hand of Dread Pugilist]], [[Illusionist Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Shadow Domain Cleric]], [[Spellslinger Gunslinger]], [[Warrior of the Celestial Monk]], [[Way of the Arcane Hand Monk]]
+**Species:** [[Gnome (Mark of Scribing)]]
+**Feats:** [[Mark of Scribing]]

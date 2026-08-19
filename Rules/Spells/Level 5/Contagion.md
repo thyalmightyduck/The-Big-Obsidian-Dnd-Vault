@@ -12,4 +12,4 @@ The target must repeat the saving throw at the end of each of its turns until it
 Whenever the [[Poisoned]] target receives an effect that would end the [[Poisoned]] condition, the target must succeed on a Constitution saving throw, or the [[Poisoned]] condition doesn't end on it.
 
 **Classes:** [[Cleric]], [[Druid]]
-**Subclasses:** [[Apocalypse Sorcery Sorcerer]], [[Circle of Spores Druid]], [[Divine Soul Sorcerer]], [[Festus Domain Cleric]], [[Oath of Pestilence Paladin]], [[Oathbreaker Paladin]], [[Pathogenist Apothecary]], [[Shadow Sorcerer Sorcerer]], [[Splicer Tamer]], [[The Predator Warlock]], [[The Undying Warlock]], [[Vermin Lord Ranger]]
+**Subclasses:** [[Apocalypse Sorcery Sorcerer]], [[Circle of Spores Druid]], [[Divine Soul Sorcerer]], [[Festus Domain Cleric]], [[Oath of Pestilence Paladin]], [[Oathbreaker Paladin]], [[Pathogenist Apothecary]], [[Shadow Sorcery Sorcerer]], [[Splicer Tamer]], [[The Predator Warlock]], [[The Undying Warlock]], [[Vermin Lord Ranger]]

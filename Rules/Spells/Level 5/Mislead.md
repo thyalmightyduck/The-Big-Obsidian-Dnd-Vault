@@ -12,6 +12,6 @@ As a [[Magic Action]], you can move the illusory double up to twice your [[Spe
 You can see through its eyes and hear through its ears as if you were located where it is.
 
 **Classes:** [[Bard]], [[Tamer]], [[Warlock]], [[Wizard]]
-**Subclasses:** [[Circle of the Hive Druid]], [[Fey Wanderer Ranger]], [[Great Fool Patron Warlock]], [[Hand of Dread Pugilist]], [[Hungering Dark Sorcerer]], [[Illusionist Wizard]], [[Lunar Sorcery Sorcerer]], [[Nemesis Sorcery Sorcerer]], [[Oath of Hexes Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Great Fool Warlock]], [[The Many Warlock]], [[The Predator Warlock]], [[Twilight Domain Cleric]], [[Way of the Arcane Hand Monk]]
+**Subclasses:** [[Circle of the Hive Druid]], [[Fey Wanderer Ranger]], [[Great Fool Patron Warlock]], [[Hand of Dread Pugilist]], [[Hungering Dark Sorcerer]], [[Illusionist Wizard]], [[Lunar Sorcery Sorcerer]], [[Nemesis Sorcery Sorcerer]], [[Oath of Hexes Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Great Fool Patron Warlock]], [[The Many Warlock]], [[The Predator Warlock]], [[Twilight Domain Cleric]], [[Way of the Arcane Hand Monk]]
 **Species:** [[Elf (Mark of Shadow)]]
 **Feats:** [[Mark of Shadow]]

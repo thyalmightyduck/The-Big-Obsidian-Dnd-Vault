@@ -12,6 +12,6 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 4.
 
 **Classes:** [[Apothecary]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]]
-**Subclasses:** [[Alchemist Artificer]], [[Apocalypse Domain Cleric]], [[Arcane Trickster Rogue]], Architect of Ruin Illrigger, Circle of Spores, Circle of Land Druid, [[Death Domain Cleric]], Eldritch Knight Fighter, [[Festus Domain Cleric]], [[Grave Domain Cleric]], Leyline Magic Wizard, Oath of Pestilence Paladin, Oathbreaker Paladin, Occultist Guild Monster Hunter, Pathogenist Apothecary, Sanguine [[Thief Rogue]], [[Spellslinger Gunslinger]], Arcane Hand Monk
-**Backgrounds:** Orzhov Representative, Witherbloom Student
-**Feats:** Boon of Siberys
+**Subclasses:** [[Alchemist Artificer]], [[Apocalypse Domain Cleric]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Circle of Spores Druid]], [[Circle of the Land Druid]], [[Death Domain Cleric]], [[Eldritch Knight Fighter]], [[Festus Domain Cleric]], [[Grave Domain Cleric]], [[Leyline Magic Wizard]], [[Oath of Pestilence Paladin]], [[Oathbreaker Paladin]], [[Occultist Guild Monster Hunter]], [[Pathogenist Apothecary]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+**Backgrounds:** [[Orzhov Representative]], [[Witherbloom Student]]
+**Feats:** [[Boon of Siberys]]

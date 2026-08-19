@@ -18,5 +18,5 @@ A [[Remove Curse]] or [[Greater Restoration]] spell cast on the target resto
 **Using a Higher-Level Spell Slot:** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
 
 **Classes:** [[Bard]], [[Wizard]]
-**Subclasses:** [[The Old One Patron Warlock]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Trickery Domain Cleric]], [[Ambition Domain Cleric]]
+**Subclasses:** [[The Great Old One Warlock]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Trickery Domain Cleric]], [[Ambition Domain Cleric]]
 **Backgrounds:** [[Dimir Operative]]

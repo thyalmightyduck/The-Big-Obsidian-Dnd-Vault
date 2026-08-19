@@ -10,3 +10,10 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the [[Grappled]] condition on it.
 
 **Using a Higher-Level Spell Slot:** You can target one additional creature for each spell slot level above 4.
+
+**Classes:** [[Apothecary]], [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Ranger]], [[Tamer]]
+**Subclasses:** [[Circle of the Land Druid]], [[Circle of the Old Ways Druid]], [[Clockwork Sorcery Sorcerer]], [[Clockwork Soul Sorcerer]], [[Divine Soul Sorcerer]], [[Exalted Assembly of the Feline Court Warlock]], [[Hunt Domain Cleric]], [[Leader Tamer]], [[Leyline Magic Wizard]], [[Oath of Devotion Paladin]], [[Oath of Glory Paladin]], [[Oath of Revelry Paladin]], [[Skinshifter Sorcerer]], [[The Parasite Patron Warlock]], [[The Predator Warlock]], [[Vermin Lord Ranger]], [[War Domain Cleric]], [[Zeal Domain Cleric]]
+**Species:** [[Human (Mark of Passage)]]
+**Backgrounds:** [[Dimir Operative]], [[Prismari Student]], [[Quandrix Student]], [[Simic Scientist]]
+**Feats:** [[Mark of Passage]]
+**Other Options/Features:** [[Tricksters Escape]]

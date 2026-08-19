@@ -10,3 +10,5 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other kn
 
 On a failed save, you take 6d6 Psychic damage and have the [[Incapacitated]] condition until you finish a [[Long Rest]]. A [[Greater Restoration]] spell cast on you ends this effect.
 
+**Classes:** [[Apothecary]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Diviner Wizard]], [[Eldritch Domain Cleric]], [[Hand of Dread Pugilist]], [[Oath of the Noble Genies Paladin]], [[Occultist Guild Monster Hunter]], [[Path of the Haze Rager Barbarian]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[Way of the Arcane Hand Monk]]

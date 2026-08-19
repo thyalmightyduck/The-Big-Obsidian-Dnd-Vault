@@ -23,6 +23,6 @@ When you cast the spell and as a [[Bonus Action]] on your later turns, you can
 **Using a Higher-Level Spell Slot:** The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5.
 
 **Classes:** [[Artificer]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Evoker Wizard]], [[Great Fool Patron Warlock]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Stone Sovereign Patron Warlock]], [[The Fathomless Warlock]], [[The Great Fool Warlock]], [[Way of the Arcane Hand Monk]]
+**Subclasses:** [[Evoker Wizard]], [[Great Fool Patron Warlock]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Stone Sovereign Patron Warlock]], [[The Fathomless Warlock]], [[Way of the Arcane Hand Monk]]
 **Species:** [[Human (Mark of Sentinel)]]
 **Feats:** [[Boon of Siberys]], [[Mark of Sentinel]]

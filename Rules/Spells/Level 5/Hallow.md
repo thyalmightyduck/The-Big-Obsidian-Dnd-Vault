@@ -21,3 +21,7 @@ You touch a point and infuse an area around it with holy or unholy power. The ar
 - **Tongues:** Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language.
 - **Vulnerability:** Creatures of any types you choose have [[Vulnerability]] to one damage type of your choice while in the area.
 
+**Classes:** [[Cleric]]
+**Subclasses:** [[Divine Soul Sorcerer]], [[Inquisition Domain Cleric]], [[The Fiend Warlock]]
+**Species:** [[Halfling (Mark of Hospitality)]]
+**Feats:** [[Mark of Hospitality]]

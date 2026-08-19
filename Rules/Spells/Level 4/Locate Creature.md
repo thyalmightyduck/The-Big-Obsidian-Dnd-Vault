@@ -12,6 +12,6 @@ The spell can locate a specific creature known to you or the nearest creature of
 This spell can't locate a creature if any thickness of lead blocks a direct path between you and the creature.
 
 **Classes:** [[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[Wizard]]
-**Subclasses:** [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Cartographer Artificer]], [[Circle of the Land  Druid]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[Inquisition Domain Cleric]], [[Oath of Castigation Paladin]], [[Oath of Zeal Paladin]], [[Occultist Guild Monster Hunter]], [[Rules/Classes/Cleric/Cleric Subclasses/Order Domain Cleric]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[The Lantern Warlock]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Cartographer Artificer]], [[Circle of the Land Druid]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[Inquisition Domain Cleric]], [[Oath of Castigation Paladin]], [[Oath of Zeal Paladin]], [[Occultist Guild Monster Hunter]], [[Rules/Classes/Cleric/Cleric Subclasses/Order Domain Cleric]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[The Lantern Warlock]]
 **Species:** [[Half-Orc (Mark of Finding)]], [[Human (Mark of Finding)]]
 **Feats:** [[Mark of Finding]]

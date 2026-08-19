@@ -10,5 +10,5 @@ Negative energy ripples out in a 60-foot-radius Sphere from a point you choose
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for each spell slot level above 6.
 
 **Classes:** [[Apothecary]], [[Sorcerer]], [[Warlock]], [[Wizard]]
-**Subclasses:** [[Arcana Domain Cleric]], Occultist Guild Monster Hunter, Sanguine [[Thief Rogue|[[Thief Rog]]ue|[[Thief Rog]]ue]], [[Spellslinger Gunslinger]], Way of the Arcane Hand Monk
-**Feats:** Boon of Siberys
+**Subclasses:** [[Arcana Domain Cleric]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+**Feats:** [[Boon of Siberys]]

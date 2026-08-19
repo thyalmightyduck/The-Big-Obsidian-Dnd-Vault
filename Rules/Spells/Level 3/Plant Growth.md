@@ -10,3 +10,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 **Overgrowth:** Choose a point within range. All normal plants in a 100-foot-radius Sphere centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
 
 **Enrichment:** All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
+
+**Classes:** [[Bard]], [[Druid]], [[Ranger]]
+**Subclasse:** [[Archfey Patron Warlock]], [[Circle of Wildfire Druid]], [[Circle of the Land Druid]], [[Circle of the Old Ways Druid]], [[Circle of the Symbiote Druid]], [[College of Lore Bard]], [[Harvest Domain Cleric]], [[Nature Domain Cleric]], [[Oath of the Ancients Paladin]], [[The Archfey Warlock]]
+**Backgrounds:** [[Golgari Agent]], [[Selesnya Initiate]]

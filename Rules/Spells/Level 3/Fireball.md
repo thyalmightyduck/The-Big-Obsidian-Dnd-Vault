@@ -12,4 +12,6 @@ Flammable objects in the area that aren't being worn or carried start burning.
 **Using a Higher-Level Spell Slot:** The damage increases by 1d6 for each spell slot level above 3.
 
 **Classes:** [[Sorcerer]], [[Wizard]]
-**Subclasses:** 
+**Subclasses:** [[Arcane Trickster Rogue]], [[Artillerist Artificer]], [[Chemist Apothecary]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Fiend Patron Warlock]], [[Light Domain Cleric]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Fiend Warlock]], [[The Genie Warlock]], [[Way of the Arcane Hand Monk]], [[Zeal Domain Cleric]]
+**Feats:** [[Boon of Siberys]]
+**Other Options/Features:** [[Flames of the Phoenix]]

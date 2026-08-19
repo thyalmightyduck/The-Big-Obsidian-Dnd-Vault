@@ -8,3 +8,7 @@ _Enchantment Level 4_
 One creature you can see within range makes a Wisdom saving throw. It does so with [[Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[Charmed]] condition until the spell ends or until you or your allies damage it. The [[Charmed]] creature is Friendly to you. When the spell ends, the target knows it was [[Charmed]] by you.
 
 **Using a Higher-Level Spell Slot:** You can target one additional creature for each spell slot level above 4.
+
+**Classes:** [[Bard]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[Draconic Sorcery Sorcerer]], [[Dragon Domain Cleric]], [[Eldritch Knight Fighter]], [[Hand of Dread Pugilist]], [[Oath of Revelry Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+**Feats:** [[Boon of Siberys]]

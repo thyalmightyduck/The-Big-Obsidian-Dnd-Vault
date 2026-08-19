@@ -9,4 +9,7 @@ You call forth an Undead spirit. It manifests in an unoccupied space that you ca
 
 The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[Dodge Action]] action and uses its movement to avoid danger.
 
-Using a Higher-Level Spell Slot. Use the spell slot's level for the spell's level in the stat block.
+**Using a Higher-Level Spell Slot:** Use the spell slot's level for the spell's level in the stat block.
+
+**Classes:** [[Warlock]], [[Wizard]]
+**Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Hand of Dread Pugilist]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Undead Patron Warlock]], [[Way of the Arcane Hand Monk]]
