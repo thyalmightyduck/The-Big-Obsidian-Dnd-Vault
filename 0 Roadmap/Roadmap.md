@@ -1,5 +1,4 @@
 # Last Left Off
-Finished Warding Bond
 Artificer 
 	+1 Weapon Links
 	+1 Armor Links

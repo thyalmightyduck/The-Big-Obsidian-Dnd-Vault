@@ -6,3 +6,6 @@ _Divination Level 9_
 **Duration:** 8 Hours
 
 You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[Advantage]] on D20 Tests, and other creatures have [[Disadvantage]] on [[attack rolls]] against it. The spell ends early if you cast it again.
+
+**Classes:** [[Apothecary]], [[Bard]], [[Druid]], [[Warlock]], [[Wizard]]
+**Subclasses:** [[Arcana Domain Cleric]], [[Diviner Wizard]], [[Hand of Dread Pugilist]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]

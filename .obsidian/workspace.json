@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 8/Feeble Mind.md",
+                "file": "Rules/Spells/Level 9/Wish.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Feeble Mind"
+              "title": "Wish"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Spells/Level 8/Feeble Mind.md",
+                "file": "0 Roadmap/Roadmap.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -324,8 +323,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c217321c64179887",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "Rules/Spells/Level 9/Wish.md",
+    "Rules/Spells/Level 9/True Resurrection.md",
+    "Rules/Spells/Level 9/True Polymorph.md",
+    "Rules/Spells/Level 9/Shapechange.md",
+    "Rules/Spells/Level 9/Power Word Kill.md",
+    "Rules/Spells/Level 9/Power Word Heal.md",
+    "Rules/Spells/Level 9/Mass Magic Missile.md",
+    "Rules/Spells/Level 9/Foresight.md",
+    "Rules/Spells/Level 8/Feeble Mind.md",
     "Rules/Spells/Level 8/Dominate Monster.md",
     "Rules/Spells/Level 8/Antimagic Field.md",
     "Rules/Spells/Level 7/Simulacrum.md",
@@ -343,15 +351,6 @@
     "Rules/Spells/Level 6/Find the Path.md",
     "Rules/Spells/Level 6/Disintegrate.md",
     "Rules/Spells/Level 6/Circle of Death.md",
-    "Rules/Spells/Level 5/Yolandes Regal Presence.md",
-    "Rules/Spells/Level 5/Wall of Stone.md",
-    "Rules/Spells/Level 5/Wall of Force.md",
-    "Rules/Spells/Level 5/Tree Stride.md",
-    "Rules/Spells/Level 5/Toxic Barrage.md",
-    "Rules/Spells/Level 5/Teleportation Circle.md",
-    "Rules/Spells/Level 5/Telekinesis.md",
-    "Rules/Spells/Level 5/Synaptic Static.md",
-    "Rules/Spells/Level 5/Summon Dragon.md",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",
