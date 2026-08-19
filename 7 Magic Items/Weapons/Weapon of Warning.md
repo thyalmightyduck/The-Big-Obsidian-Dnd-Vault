@@ -27,7 +27,7 @@ As long as this weapon is within your reach and you are attuned to it, you and a
 - [[Dagger]] ([[Dagger of Warning]])
 - [[Dart]] ([[Dart of Warning]])
 - [[Double-Barrel Shotgun]] ([[Double-Barrel Shotgun of Warning]])
-- [[Double-Bladed Scimitar]] ([[Double-Bladed Scimitar of Warning]])
+- [[Double Bladed Scimitar]] ([[Double-Bladed Scimitar of Warning]])
 - [[Flail]] ([[Flail of Warning]])
 - [[Flare Gun]] ([[Flare Gun of Warning]])
 - [[Gatling Gun]] ([[Gatling Gun of Warning]])

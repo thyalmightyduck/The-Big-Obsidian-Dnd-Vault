@@ -35,7 +35,7 @@ Base items. This item variant can be applied to the following base items:
 - [[Double Blade]] ([[+2 Double Blade]])
 - [[Double Spear]] ([[+2 Double Spear]])
 - [[Double-Barrel Shotgun]] ([[+2 Double-Barrel Shotgun]])
-- [[Double-Bladed Scimitar]] ([[+2 Double-Bladed Scimitar]])
+- [[Double Bladed Scimitar]] ([[+2 Double-Bladed Scimitar]])
 - [[Dragon Pistol]] ([[+2 Dragon Pistol]])
 - [[Dragon Rifle]] ([[+2 Dragon Rifle]])
 - [[Elite Rapier]] ([[+2 Elite Rapier]])

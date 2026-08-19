@@ -1,0 +1,8 @@
+**Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon
+**Properties:** Finesse
+500 GP, 2 lb.
+**Mastery:** Swift
+
+**Finesse.** When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+**Mastery: Swift.** Swift weapons help you recover quickly from missed attacks. When you miss with a Swift weapon, you have [[Advantage]] on the first attack roll you make with the weapon against the same target before the end of your next turn. If that attack hits, it also deals an extra 1d4 damage of the weapon's normal damage type.

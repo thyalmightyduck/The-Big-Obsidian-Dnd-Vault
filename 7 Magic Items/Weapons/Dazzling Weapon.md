@@ -25,7 +25,7 @@ Base items. This item variant can be applied to the following base items:
 - [[Dagger]] ([[Dazzling Dagger]])
 - [[Dart]] ([[Dazzling Dart]])
 - [[Double-Barrel Shotgun]] ([[Dazzling Double-Barrel Shotgun]])
-- [[Double-Bladed Scimitar]] ([[Dazzling Double-Bladed Scimitar]])
+- [[Double Bladed Scimitar]] ([[Dazzling Double-Bladed Scimitar]])
 - [[Flail]] ([[Dazzling Flail]])
 - [[Flare Gun]] ([[Dazzling Flare Gun]])
 - [[Gatling Gun]] ([[Dazzling Gatling Gun]])

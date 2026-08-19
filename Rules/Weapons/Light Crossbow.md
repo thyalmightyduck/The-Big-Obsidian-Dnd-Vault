@@ -1,4 +1,4 @@
-**Weapon:** 1d8 Piercing, [[Simple Weapons]], [[Ranged Weapons]]
+**Weapon:** 1d8 Piercing, Simple Weapons, Ranged Weapons
 **Properties:** Ammunition (Range 80/320 ft.; [[Bolt]]), Loading, Two-Handed
 25 GP 5lbs
 **Mastery:** Slow
