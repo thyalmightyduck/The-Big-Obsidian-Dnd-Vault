@@ -5,7 +5,7 @@
 **Speed:** 25 Feet
 
 **Adventuring Age:** Between 50–100 years of age. Dwarves generally start their life on the road in their fifties, and do not usually consider retiring before their nineties. Around that time, many among them choose to dedicate themselves solely to the perfection of their crafts.
-**Axes Of The Dwarves:** You have proficiency with the [[Battle Axe]], [[great axe]], and [[mattock]].
+**Axes Of The Dwarves:** You have proficiency with the [[Battle Axe]], [[great axe]], and [[Mattock]].
 **Endurance Of The Dwarves:** Your hit point maximum increases by 1, and it increases by an additional 1 every time you gain a level.
 **Make Light Of Burdens:** Armour doesn't impose disadvantage on your fatigue saving throws, and your carrying capacity (including the weight you can carry before you are encumbered or heavily encumbere], and the weight you can push, drag or lift) is doubled.
 **Tool Proficiencies:** You have [[Proficiency]] with the [[Artisans Tools]] of your choice: [[Jeweler's Tools]], [[Mason's Tools]], or [[Smiths Tools]].

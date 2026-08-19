@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "07193dace656dd05",
+            "id": "ebe5f30da1c541f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flame Bellows.md",
+                "file": "Punch Knife.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flame Bellows"
+              "title": "Punch Knife"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: +1",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flame Bellows.md",
+                "file": "Punch Knife.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -348,34 +348,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "07193dace656dd05",
+  "active": "ebe5f30da1c541f6",
   "lastOpenFiles": [
-    "Flame Bellows.md",
+    "Punch Knife.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
-    "Fighting Chain, Sickle.md",
-    "Rules/Weapons/Fighting Chain, Hook.md",
-    "Rules/Weapons/Fighting Chain, Brutal.md",
-    "Rules/Weapons/Fighting Chain.md",
-    "Rules/Weapons/Elite Rapier.md",
-    "Rules/Weapons/Longbow.md",
-    "Rules/Weapons/Sniper Rifle.md",
-    "Rules/Weapons/Assault Rifle.md",
-    "Rules/Weapons/Longsword.md",
-    "Rules/Weapons/Light Crossbow.md",
-    "Rules/Weapons/Dragon Rifle.md",
-    "Rules/Weapons/Automatic Rifle.md",
-    "Rules/Weapons/Dragon Pistol.md",
-    "Rules/Weapons/Double Bladed Scimitar.md",
-    "Rules/Weapons/Double Spear.md",
-    "Rules/Weapons/Double Blade.md",
-    "Rules/Weapons/Composite Shortbow.md",
-    "Rules/Spells/Level 7/Plane Shift.md",
-    "Rules/Classes/Artificer/Artificer.md",
-    "Rules/Weapons/Composite Longbow.md",
-    "Rules/Weapons/Claymore.md",
-    "Rules/Weapons/Chakram.md",
-    "Rules/Weapons/Cavalry Pick.md",
-    "Rules/Weapons/Cavalry Hammer.md",
+    "Rules/Weapons/Polearm.md",
+    "Rules/Weapons/Parrying Dagger.md",
+    "Rules/Weapons/Morningstar.md",
+    "Pictures/Weapons/Morningstar BGR PNG.png",
+    "Pictures/Weapons/Morningstar BGR PNG.png.opdownload",
+    "Rules/Weapons/Military Fork.md",
+    "Rules/Weapons/Maul.md",
+    "Pictures/Weapons/Maul BGR PNG.png",
+    "Pictures/Weapons/Maul BGR PNG.png.opdownload",
+    "Rules/Weapons/Mattock.md",
+    "Rules/Weapons/Long Sword.md",
+    "Rules/Weapons/Light Repeating Crossbow.md",
+    "Rules/Weapons/Laser Rifle.md",
+    "Rules/Weapons/Laser Pistol.md",
+    "5 Monster Stat Blocks/Celestial/Celestial Spirit.md",
+    "5 Monster Stat Blocks/Undead/Bone Executioner.md",
+    "5 Monster Stat Blocks/Undead/Accursed Defiler.md",
+    "5 Monster Stat Blocks/Undead/Zombie.md",
+    "Rules/Weapons/Lance.md",
+    "Pictures/Weapons/Lance BGR PNG.png",
+    "Pictures/Weapons/Lance BGR PNG.png.opdownload",
+    "Rules/Weapons/Knightly Sword.md",
+    "Rules/Weapons/Knightly Lance.md",
+    "Rules/Weapons/Hoopak.md",
+    "Pictures/Weapons/Hoopak BGR PNG.png",
+    "Pictures/Weapons/Hoopak BGR PNG.png.opdownload",
+    "Rules/Weapons/Hooked Shortspear.md",
+    "Rules/Weapons/Hand Claws.md",
+    "Class Selector WOP.md",
+    "Rules/Weapons/Heavy Hammer.md",
+    "Rules/Weapons/Hammer.md",
+    "Rules/Weapons/Guardian Poleaxe.md",
     "7 Magic Items/Weapons/+1 Weapons",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
@@ -386,15 +394,7 @@
     "Pictures/Magic Items/Ring of the Ram BGR PNG.png.opdownload",
     "Pictures/Magic Items/Ring of Protection BGR PNG.png",
     "Pictures/Magic Items/Ring of Protection BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Ring of Free Action.png",
     "Pictures/Magic Items/Ring of Free Action.png.opdownload",
-    "Pictures/Magic Items/Flame Tongue BGR PNG.png",
-    "Pictures/Magic Items/Flame Tongue BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Ring of Mind Shielding BGR PNG.png",
-    "Pictures/Magic Items/Ring of Mind Shielding BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png",
-    "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Elven Chain BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Dagger of Venom BGR PNG.png.opdownload"
+    "Pictures/Magic Items/Flame Tongue BGR PNG.png.opdownload"
   ]
 }
