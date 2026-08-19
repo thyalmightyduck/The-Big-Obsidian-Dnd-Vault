@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Level 9/Wish.md",
+                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wish"
+              "title": "+1 Weapon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: +1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Roadmap/Roadmap.md",
+                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -323,34 +324,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "c217321c64179887",
   "lastOpenFiles": [
+    "Composite Longbow.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+    "Rules/Weapons/Claymore.md",
+    "Rules/Weapons/Chakram.md",
+    "Rules/Weapons/Cavalry Pick.md",
+    "Rules/Weapons/Cavalry Hammer.md",
+    "Rules/Weapons/Cavalry Flail.md",
+    "Rules/Weapons/Catchpole.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Battleaxe.md",
+    "Rules/Weapons/Battleaxe.md",
+    "Rules/Weapons/Battle Axe.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Battle Axe.md",
+    "Rules/Weapons/Axe.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Axe.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Automatic Rifle.md",
+    "Rules/Weapons/Automatic Rifle.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Assault Rifle.md",
+    "7 Magic Items/Weapons/+1 Weapons",
+    "Rules/Weapons/Assault Rifle.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Arbalest.md",
+    "Rules/Weapons/Arbalest.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Antimatter Rifle.md",
+    "Rules/Weapons/Antimatter Rifle.md",
+    "0 Roadmap/Roadmap.md",
+    "Rules/Weapons/+1 Acid Fighting Chain.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 +1 Acid Fighting Chain.md",
     "Rules/Spells/Level 9/Wish.md",
-    "Rules/Spells/Level 9/True Resurrection.md",
-    "Rules/Spells/Level 9/True Polymorph.md",
-    "Rules/Spells/Level 9/Shapechange.md",
-    "Rules/Spells/Level 9/Power Word Kill.md",
-    "Rules/Spells/Level 9/Power Word Heal.md",
-    "Rules/Spells/Level 9/Mass Magic Missile.md",
-    "Rules/Spells/Level 9/Foresight.md",
-    "Rules/Spells/Level 8/Feeble Mind.md",
-    "Rules/Spells/Level 8/Dominate Monster.md",
-    "Rules/Spells/Level 8/Antimagic Field.md",
-    "Rules/Spells/Level 7/Simulacrum.md",
-    "Rules/Spells/Level 7/Resurrection.md",
-    "Rules/Spells/Level 7/Regenerate.md",
-    "Rules/Spells/Level 7/Plane Shift.md",
-    "Rules/Spells/Level 7/Etherealness.md",
-    "Rules/Spells/Level 6/Wall of Ice.md",
-    "Rules/Spells/Level 6/True Seeing.md",
-    "Rules/Spells/Level 6/Tashas Bubbling Cauldron.md",
-    "Rules/Spells/Level 6/Ottos Irresistible Dance.md",
-    "Rules/Spells/Level 6/Heroes Feast.md",
-    "Rules/Spells/Level 6/Heal.md",
-    "Rules/Spells/Level 6/Flesh to Stone.md",
-    "Rules/Spells/Level 6/Find the Path.md",
-    "Rules/Spells/Level 6/Disintegrate.md",
-    "Rules/Spells/Level 6/Circle of Death.md",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",
@@ -369,7 +371,6 @@
     "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png",
     "Pictures/Magic Items/Ring of Feather Falling BGR PNG.png.opdownload",
     "Pictures/Magic Items/Elven Chain BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Dagger of Venom BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Armor of Resistance BGR PNG.png.opdownload"
+    "Pictures/Magic Items/Dagger of Venom BGR PNG.png.opdownload"
   ]
 }
