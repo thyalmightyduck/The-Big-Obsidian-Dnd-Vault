@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "+1 Weapon"
             }
-          },
-          {
-            "id": "ebe5f30da1c541f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Punch Knife.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Punch Knife"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Punch Knife.md",
+                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -348,10 +324,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebe5f30da1c541f6",
+  "active": "c217321c64179887",
   "lastOpenFiles": [
-    "Punch Knife.md",
+    "Rules/Weapons/Repeater Crossbow.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+    "Rules/Weapons/Rapier.md",
+    "Pictures/Weapons/Rapier BGR PNG.png",
+    "Pictures/Weapons/Rapier BGR PNG.png.opdownload",
+    "Rules/Weapons/Punching Dagger.md",
+    "Rules/Weapons/Punch Knife.md",
     "Rules/Weapons/Polearm.md",
     "Rules/Weapons/Parrying Dagger.md",
     "Rules/Weapons/Morningstar.md",
@@ -381,9 +362,6 @@
     "Rules/Weapons/Hooked Shortspear.md",
     "Rules/Weapons/Hand Claws.md",
     "Class Selector WOP.md",
-    "Rules/Weapons/Heavy Hammer.md",
-    "Rules/Weapons/Hammer.md",
-    "Rules/Weapons/Guardian Poleaxe.md",
     "7 Magic Items/Weapons/+1 Weapons",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
@@ -392,9 +370,7 @@
     "Pictures/Spells/Mage Armor.png",
     "Pictures/Magic Items/Ring of the Ram BGR PNG.png",
     "Pictures/Magic Items/Ring of the Ram BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Ring of Protection BGR PNG.png",
     "Pictures/Magic Items/Ring of Protection BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Ring of Free Action.png.opdownload",
-    "Pictures/Magic Items/Flame Tongue BGR PNG.png.opdownload"
+    "Pictures/Magic Items/Ring of Free Action.png.opdownload"
   ]
 }
