@@ -9,7 +9,7 @@
 **Speed:** Your speed is not reduced by wearing heavy armor.
 **Superior Darkvision:** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Duergar Resilience:**  You have advantage on saving throws against poison, and you have resistance against poison damage. You also have advantage on saving throws against illusions and against being [[charmed]] or [[paralyzed]].
-**Dwarven Combat Training:** You have proficiency with the [[Battleaxe]], [[handaxe]], [[light hammer]], and [[warhammer]].
+**Dwarven Combat Training:** You have proficiency with the [[Battleaxe]], [[handaxe]], [[light hammer]], and [[Warhammer]].
 **Tool Proficiency:** You gain [[proficiency]] with the [[Artisans Tools]] of your choice: [[Smiths Tools]], [[Brewers Supplies]], or [[mason's tools]].
 **Stonecunning:** Whenever you make an Intelligence ([[History]]) check related to the origin of stonework, you are considered proficient in the [[History]] skill and add double your [[Proficiency Bonus]] to the check, instead of your normal proficiency bonus.
 **Languages:** You can speak, read, and write [[Common]], [[Dwarvish]], and [[Undercommon]].

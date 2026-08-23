@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "+1 Weapon"
             }
-          },
-          {
-            "id": "0ab4aeb548779891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warhammer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Warhammer"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warhammer.md",
+                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -348,39 +324,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "83a3b3f37a74c981",
+  "active": "c217321c64179887",
   "lastOpenFiles": [
-    "Rules/Weapons/War Pick.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Pick.md",
+    "Rules/Weapons/Cavalry Pick.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Hammer.md",
+    "Rules/Weapons/Cavalry Hammer.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Flail.md",
+    "Rules/Weapons/Cavalry Flail.md",
+    "Rules/Weapons/Catchpole.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Catchpole.md",
+    "Rules/Weapons/Cannon.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cannon.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Brass Knuckles.md",
+    "Rules/Weapons/Brass Knuckles.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blunderbuss, Hand.md",
+    "Rules/Weapons/Blunderbuss, Hand.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blunderbuss.md",
+    "Rules/Weapons/Blunderbuss.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blowgun.md",
+    "Rules/Weapons/Blowgun.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blackpowder Rifle.md",
+    "Rules/Weapons/Blackpowder Rifle.md",
+    "Rules/Weapons/Blackpowder Pistol.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blackpowder Pistol.md",
+    "Rules/Weapons/Yklwa.md",
+    "Rules/Weapons/Wrath Maul.md",
+    "Rules/Weapons/Wrath Axe.md",
+    "Pictures/Weapons/Warhammer BGR PNG.png",
+    "Pictures/Weapons/Warhammer BGR PNG.png.opdownload",
     "Pictures/Weapons/War Pick BGR PNG.png",
     "Pictures/Weapons/War Pick BGR PNG.png.opdownload",
-    "Warhammer.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
-    "Rules/Species/Worg.md",
-    "Rules/Weapons/Steel Jaws.md",
     "Pictures/Species/Worg BGR PNG.png",
     "Pictures/Species/Worg BGR PNG.png.opdownload",
-    "Rules/Weapons/Staff.md",
-    "Rules/Weapons/Side-handle Baton.md",
-    "Rules/Weapons/Shotgun.md",
-    "Rules/Weapons/Sheathed Staff.md",
-    "Rules/Weapons/Semiautomatic Pistol.md",
-    "Rules/Items/Ammuniton/Firearm Bullet.md",
-    "Rules/Weapons/Sabre.md",
-    "Rules/Weapons/Returning Club.md",
-    "Rules/Weapons/Repeater Slinger.md",
-    "Rules/Weapons/Repeater Needler.md",
-    "Rules/Items/Spellcasting Focus/Yew Wand.md",
-    "Rules/Items/Adventuring Gear/Waterskin.md",
-    "Rules/Items/Instruments/Viol.md",
-    "Rules/Items/Adventuring Gear/Travelers Clothes.md",
-    "Rules/Items/Adventuring Gear/Torch.md",
-    "Rules/Items/Adventuring Gear/Tinderbox.md",
-    "Rules/Items/Adventuring Gear/Lantern.md",
     "Pictures/Items/Lantern BGR PNG.png",
     "Pictures/Items/Lantern BGR PNG.png.opdownload",
-    "Rules/Items/Adventuring Gear/Tent.md",
-    "Rules/Items/Adventuring Gear/String.md",
-    "Rules/Items/Adventuring Gear/Spyglass.md",
     "Rules/Items/Scrolls",
     "Pictures/Items/Spell Scroll BGR PNG.png",
     "Pictures/Items/Spell Scroll BGR PNG.png.opdownload",
@@ -388,12 +367,10 @@
     "Pictures/New folder",
     "Rules/Items/Tools",
     "Rules/Items/Instruments",
-    "Rules/Items/Spellcasting Focus",
     "Pictures/Weapons/Rapier BGR PNG.png",
     "Pictures/Weapons/Morningstar BGR PNG.png",
     "Pictures/Weapons/Maul BGR PNG.png",
     "Pictures/Weapons/Lance BGR PNG.png",
-    "Pictures/Weapons/Hoopak BGR PNG.png",
-    "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png"
+    "Pictures/Weapons/Hoopak BGR PNG.png"
   ]
 }

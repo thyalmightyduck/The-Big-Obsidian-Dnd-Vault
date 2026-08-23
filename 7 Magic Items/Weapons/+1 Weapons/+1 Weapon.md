@@ -18,7 +18,6 @@ Base items. This item variant can be applied to the following base items:
 - [[Blackpowder Rifle]] ([[+1 Blackpowder Rifle]])
 - [[Blowgun]] ([[+1 Blowgun]])
 - [[Blunderbuss]] ([[+1 Blunderbuss]])
-- [[Blunderbuss]] ([[+1 Blunderbuss]])
 - [[Blunderbuss, Hand]] ([[+1 Blunderbuss, Hand]])
 - [[Brass Knuckles]] ([[+1 Brass Knuckles]])
 - [[Cannon]] ([[+1 Cannon]])

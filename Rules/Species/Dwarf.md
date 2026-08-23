@@ -15,7 +15,7 @@ This race has multiple subraces, as listed below:
 **Speed:** Your speed is not reduced by wearing heavy armor.
 **Darkvision:** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Dwarven Resilience:** You have advantage on saving throws against poison, and you have resistance against poison damage.
-**Dwarven Combat Training:** You have proficiency with the [[Battleaxe]], [[handaxe]], [[light hammer]], and [[warhammer]].
+**Dwarven Combat Training:** You have proficiency with the [[Battleaxe]], [[handaxe]], [[light hammer]], and [[Warhammer]].
 **Tool Proficiency:** You gain proficiency with the [[Artisans Tools]] of your choice: [[Smiths Tools]], [[Brewers Supplies]], or [[mason's tools]].
 **Stonecunning:** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 **Languages:** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
