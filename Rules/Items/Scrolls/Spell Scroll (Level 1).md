@@ -8,3 +8,5 @@ If the spell is on your spell list but of a higher level than you can normally c
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5.
 
 **Copying a Scroll into a Spellbook.** A Wizard spell on a _Spell Scroll_ can be copied into a spellbook. When a level 1 spell is copied in this way, the copier must succeed on a DC 11 Intelligence (Arcana). On a successful check, the spell is copied. Whether the check succeeds or fails, the _Spell Scroll_ is destroyed.
+
+![[Spell Scroll BGR PNG.png]]

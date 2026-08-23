@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "607c66abac5117c5",
+            "id": "0ab4aeb548779891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeater Needler.md",
+                "file": "Warhammer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Repeater Needler"
-            }
-          },
-          {
-            "id": "65799fd368597fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Items/Scrolls/Spell Scroll.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spell Scroll"
-            }
-          },
-          {
-            "id": "a17bb3299c9feb35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spell Scroll (Level 1).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spell Scroll (Level 1)"
+              "title": "Warhammer"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: war pick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -263,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spell Scroll (Level 1).md",
+                "file": "Warhammer.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -396,53 +348,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a17bb3299c9feb35",
+  "active": "83a3b3f37a74c981",
   "lastOpenFiles": [
-    "Spell Scroll (Level 1).md",
-    "Rules/Items/Scrolls/Spell Scroll.md",
-    "Rules/Items/Scrolls/Spell Scroll (Cantrip).md",
+    "Rules/Weapons/War Pick.md",
+    "Pictures/Weapons/War Pick BGR PNG.png",
+    "Pictures/Weapons/War Pick BGR PNG.png.opdownload",
+    "Warhammer.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+    "Rules/Species/Worg.md",
+    "Rules/Weapons/Steel Jaws.md",
+    "Pictures/Species/Worg BGR PNG.png",
+    "Pictures/Species/Worg BGR PNG.png.opdownload",
+    "Rules/Weapons/Staff.md",
+    "Rules/Weapons/Side-handle Baton.md",
+    "Rules/Weapons/Shotgun.md",
+    "Rules/Weapons/Sheathed Staff.md",
+    "Rules/Weapons/Semiautomatic Pistol.md",
+    "Rules/Items/Ammuniton/Firearm Bullet.md",
+    "Rules/Weapons/Sabre.md",
+    "Rules/Weapons/Returning Club.md",
+    "Rules/Weapons/Repeater Slinger.md",
+    "Rules/Weapons/Repeater Needler.md",
+    "Rules/Items/Spellcasting Focus/Yew Wand.md",
+    "Rules/Items/Adventuring Gear/Waterskin.md",
+    "Rules/Items/Instruments/Viol.md",
+    "Rules/Items/Adventuring Gear/Travelers Clothes.md",
+    "Rules/Items/Adventuring Gear/Torch.md",
+    "Rules/Items/Adventuring Gear/Tinderbox.md",
+    "Rules/Items/Adventuring Gear/Lantern.md",
+    "Pictures/Items/Lantern BGR PNG.png",
+    "Pictures/Items/Lantern BGR PNG.png.opdownload",
+    "Rules/Items/Adventuring Gear/Tent.md",
+    "Rules/Items/Adventuring Gear/String.md",
+    "Rules/Items/Adventuring Gear/Spyglass.md",
     "Rules/Items/Scrolls",
     "Pictures/Items/Spell Scroll BGR PNG.png",
     "Pictures/Items/Spell Scroll BGR PNG.png.opdownload",
     "Pictures/Items",
     "Pictures/New folder",
-    "Rules/Items/Adventuring Gear/Signal Whistle.md",
-    "Rules/Items/Adventuring Gear/Shovel.md",
-    "Rules/Items/Instruments/Shawm.md",
-    "Rules/Items/Adventuring Gear/Scholars Pack.md",
-    "Rules/Items/Adventuring Gear/Sack.md",
-    "Rules/Items/Adventuring Gear/Rope.md",
-    "Rules/Items/Adventuring Gear/Robe.md",
-    "Rules/Items/Spellcasting Focus/Reliquary.md",
-    "Rules/Items/Adventuring Gear/Rations.md",
-    "Rules/Items/Adventuring Gear/Quiver.md",
-    "Rules/Items/Adventuring Gear/Priests Pack.md",
-    "Rules/Items/Adventuring Gear/Pouch.md",
-    "Rules/Items/Adventuring Gear/Portable Ram.md",
-    "Rules/Items/Adventuring Gear/Pole.md",
-    "Rules/Items/Adventuring Gear/Poisoners Kit.md",
-    "Rules/Items/Adventuring Gear/Perfume.md",
-    "Rules/Items/Adventuring Gear/Parchment.md",
-    "Rules/Items/Adventuring Gear/Paper.md",
-    "Rules/Items/Instruments/Pan Flute.md",
-    "Rules/Items/Spellcasting Focus/Orb.md",
-    "Rules/Items/Adventuring Gear/Oil.md",
-    "Rules/Items/Adventuring Gear/Net.md",
-    "Rules/Items/Adventuring Gear/Mirror.md",
     "Rules/Items/Tools",
     "Rules/Items/Instruments",
     "Rules/Items/Spellcasting Focus",
-    "Rules/Items/Adventuring Gear",
-    "Rules/Items/Ammuniton",
     "Pictures/Weapons/Rapier BGR PNG.png",
-    "Pictures/Weapons/Rapier BGR PNG.png.opdownload",
     "Pictures/Weapons/Morningstar BGR PNG.png",
     "Pictures/Weapons/Maul BGR PNG.png",
     "Pictures/Weapons/Lance BGR PNG.png",
     "Pictures/Weapons/Hoopak BGR PNG.png",
-    "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
-    "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
-    "Pictures/Monsters/Primal Guardian BGR PNG.png",
-    "Pictures/Spells/Mage Armor.png"
+    "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png"
   ]
 }

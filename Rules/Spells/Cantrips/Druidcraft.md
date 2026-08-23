@@ -12,7 +12,7 @@ Bloom. You instantly make a flower blossom, a seed pod open, or a leaf bud bloo
 
 Sensory Effect. You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [[Cube]].
 
-Fire Play. You light or snuff out a candle, a [[torch]], or a campfire.
+Fire Play. You light or snuff out a candle, a [[Torch]], or a campfire.
 
 **Classes:** [[Druid]]
 **Subclasses:** [[Arcane Archer Fighter]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[College of the Moon Bard]], [[Harvest Domain Cleric]], [[Path of the Giant Barbarian]], [[Strength Domain Cleric]]

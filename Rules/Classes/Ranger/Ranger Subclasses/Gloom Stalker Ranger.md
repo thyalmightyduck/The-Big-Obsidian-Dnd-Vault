@@ -39,7 +39,7 @@
 
 **Armor Training:** [[Light armor]] and [[Medium armor]] and [[Shields]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Druidic Focus]] ([[sprig of mistletoe]]), [[Explorers Pack]], and 7 GP; or (B) 150 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Druidic Focus]] ([[Sprig of Mistletoe]]), [[Explorers Pack]], and 7 GP; or (B) 150 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
