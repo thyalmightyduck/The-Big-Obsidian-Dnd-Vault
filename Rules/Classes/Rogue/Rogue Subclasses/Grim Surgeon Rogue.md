@@ -83,7 +83,7 @@ You've developed a unique familiarity with knives, bodies, and blood in your lin
 ### Level 3: Medic
 When you choose this archetype at 3rd level, you gain proficiency in the Medicine skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses this skill.
 In addition, your familiarity with blood has become magical, giving you some degree of control over it. As a result, you can use a bonus action to magically stabilize an [[unconscious]] creature within 5 feet of you.
-You can use this same magic when you apply traditional healing techniques. You can use a bonus action to expend one use of a [[healers kit]] on a creature. When you do, that creature regains hit points equal 1d4 + your proficiency bonus. The creature can't regain hit points from this feature again until it finishes a short or long rest.
+You can use this same magic when you apply traditional healing techniques. You can use a bonus action to expend one use of a [[Healers Kit]] on a creature. When you do, that creature regains hit points equal 1d4 + your proficiency bonus. The creature can't regain hit points from this feature again until it finishes a short or long rest.
 
 ### Level 3: Transfusion
 Starting at 3rd level, once on each of your turns when you deal Sneak Attack damage to a creature that isn't a construct or an undead, you gain temporary hit points equal to your Wisdom modifier (minimum 1). When you reach 13th level, you gain temporary hit points equal to twice your Wisdom modifier instead. These temporary hit points last until the start of your next turn.

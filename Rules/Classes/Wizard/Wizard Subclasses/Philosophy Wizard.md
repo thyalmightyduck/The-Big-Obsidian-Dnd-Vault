@@ -38,7 +38,7 @@
 **Weapon Proficiencies:** [[Simple weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholars Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -120,14 +120,14 @@ Every Wizard who walks the steps of the Philosophy does so to solve some specifi
 | 11   | You were raised to revere the four elements, and you hypothesized that mastering the stuff of existence will bring harmony to them all.                 |
 | 12   | You had aspirations of joining the military and rising through the ranks, believing that the magic of reality can be used as a weapon of war.           |
 ### Alchemical Knowledge
-You gain a set of [[alchemists supplies]]. You have proficiency with it and can use it as an arcane focus. Additionally, you can use [[alchemists supplies]] instead of another tool required to craft a magic item.
+You gain a set of [[Alchemists Supplies]]. You have proficiency with it and can use it as an arcane focus. Additionally, you can use [[Alchemists Supplies]] instead of another tool required to craft a magic item.
 
 ### Quintessence
 You have learned the fundamental process of dissolution. You know the [[Dissolution]] cantrip. A creature or object you reduce to 0 hit points with the cantrip is destroyed. If the target was Small or larger, it dissolves into a measure (about an ounce) of crystalline powder called Quintessence. You can have a maximum amount of Quintessence equal to twice your Intelligence modifier (minimum of 2 measures) at one time. If you create more, the oldest measure vanishes. You can use Quintessence you are touching in the following ways.
 
 **Material Component:** When you cast a spell, you can expend Quintessence to serve as the spell's material components up to a value of 100 gp per Quintessence expended.
 
-**Reagent:** When you scribe a spell into your spellbook, or when you use [[alchemists supplies]] to craft a magic item, you can expend Quintessence to serve as 50 gp worth of material for the task per Quintessence expended.
+**Reagent:** When you scribe a spell into your spellbook, or when you use [[Alchemists Supplies]] to craft a magic item, you can expend Quintessence to serve as 50 gp worth of material for the task per Quintessence expended.
 
 **Vitriolic Enhancement:** When you cast a spell that deals damage, you can expend 1 Quintessence as an additional material component to change one damage type the spell deals to force.
 

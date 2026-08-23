@@ -40,7 +40,7 @@
 
 **Armor Training:** [[Light armor]] and [[Shields]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Shield]], [[Sickle]], [[Druidic Focus]] ([[Quarterstaff]]), [[Explorer's Pack]], [[Herbalism kit]], 9 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Shield]], [[Sickle]], [[Druidic Focus]] ([[Quarterstaff]]), [[Explorers Pack]], [[Herbalism Kit]], 9 GP; or (B) 50 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.

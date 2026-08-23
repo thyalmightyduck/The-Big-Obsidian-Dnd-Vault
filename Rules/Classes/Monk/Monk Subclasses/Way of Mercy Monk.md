@@ -39,7 +39,7 @@
 
 **Tool Proficiencies:** Choose one type of [[Artisans Tools]] or [[Musical Instrument]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Spear]], 5 [[Dagger]]s, [[Artisans Tools]] or [[Musical Instrument]] chosen for the tool proficiency above, [[Explorer's Pack]], and 11 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Spear]], 5 [[Dagger]]s, [[Artisans Tools]] or [[Musical Instrument]] chosen for the tool proficiency above, [[Explorers Pack]], and 11 GP; or (B) 50 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -99,7 +99,7 @@ The walkers of this way usually don robes with deep cowls, and they often concea
 
 ### Implements of Mercy
 _3rd-level Way of Mercy feature_
-You gain proficiency in the Insight and Medicine skills, and you gain proficiency with the [[herbalism kit]].
+You gain proficiency in the Insight and Medicine skills, and you gain proficiency with the [[Herbalism Kit]].
 You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table.
 
 **Merciful Mask:**

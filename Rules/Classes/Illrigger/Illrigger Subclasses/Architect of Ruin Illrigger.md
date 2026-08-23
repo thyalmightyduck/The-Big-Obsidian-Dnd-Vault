@@ -41,7 +41,7 @@
 You start with the following items, plus anything provided by your background.
 - (a) two [[martial weapons]] or (b) one [[Martial Weapons]] and a [[shield]]
 - (a) [[chain shirt]] or (b) [[leather armor]], a [[longbow]], and [[Arrows (20)]]
-- (a) a [[Priests Pack]] or (b) a [[Dungeoneer's Pack]]
+- (a) a [[Priests Pack]] or (b) a [[Dungeoneers Pack]]
 - five [[Javelin]]s
 
 ##### Multiclassing

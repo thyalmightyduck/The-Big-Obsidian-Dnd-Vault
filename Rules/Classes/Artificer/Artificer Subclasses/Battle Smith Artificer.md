@@ -33,7 +33,7 @@
 
 **Weapon Proficiencies:** [[Simple weapons]] and firearms
 
-**Tool Proficiencies:** [[thieves tools]], [[Tinkers Tools]], and one type of [[Artisans Tools]] of your choice
+**Tool Proficiencies:** [[Thieves Tools]], [[Tinkers Tools]], and one type of [[Artisans Tools]] of your choice
 
 **Armor Training:** [[Light armor]] and [[Medium armor]] and [[Shields]]
 
@@ -42,7 +42,7 @@ You start with the following items, plus anything provided by your background.
 - any two [[simple weapons]] of your choice
 - a [[Light Crossbow]] and [[Bolts (20)]]
 - (a) [[studded leather armor]] or (b) [[scale mail]]
-- [[thieves' tools]] and a [[dungeoneer's pack]]
+- [[thieves' tools]] and a [[Dungeoneers Pack]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 

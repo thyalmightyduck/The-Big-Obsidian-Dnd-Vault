@@ -141,7 +141,7 @@
 | [[Thieves Tools]]                                 | 1   |        |          |        |             |     |
 | [[Crowbar]]                                       | 1   |        |          |        |             |     |
 | [[Pouch]]es                                       | 2   |        |          |        |             |     |
-| [[Traveler's Clothes]]                            | 1   |        |          |        |             |     |
+| [[Travelers Clothes]]                            | 1   |        |          |        |             |     |
 | Magic Hats                                        | 2   |        |          |        |             |     |
 | [[Potion Of Fire Breath]]                         | 4   |        |          |        |             |     |
 | 8th Level [[Spell Scroll]] Of [[Antimagic Field]] | 1   |        |          |        |             |     |

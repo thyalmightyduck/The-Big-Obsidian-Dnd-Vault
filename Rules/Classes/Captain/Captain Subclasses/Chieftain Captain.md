@@ -30,7 +30,7 @@
 
 - (a) [[ring-mail]] or (b) [[hide armor]]
 - (a) a martial melee weapon and a [[shield]] or (b) a martial melee weapon and a simple melee weapon
-- (a) a [[shortbow]] and a [[quiver]] of  [[arrows (20)]] or (b) two simple [[simple weapons]]
+- (a) a [[shortbow]] and a [[Quiver]] of  [[Arrows (20)]] or (b) two simple [[simple weapons]]
 
 ##### Multiclassing
 **Ability Score Minimum:** Strength 13, Charisma 13

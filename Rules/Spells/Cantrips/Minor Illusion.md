@@ -11,7 +11,7 @@ If a creature takes a [[Study Action]] action to examine the sound or image, t
 
 **Sound:** If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
-**Image:** If you create an image of an object—such as a chair, muddy footprints, or a small [[chest]]—it must be no larger than a 5-foot [[Cube]]. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it
+**Image:** If you create an image of an object—such as a chair, muddy footprints, or a small [[Chest]]—it must be no larger than a 5-foot [[Cube]]. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it
 
 **Classes:** [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]]
 **Subclasses:** [[Arcana Domain Cleric]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Hand of Dread Pugilist]], [[Illusionist Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Scion of the Three Rogue]], [[Shadow Domain Cleric]], [[Sinner Rogue]], [[Spellslinger Gunslinger]], [[The Coven Warlock]], [[Warrior of Shadow Monk]], [[Way of the Arcane Hand Monk]]

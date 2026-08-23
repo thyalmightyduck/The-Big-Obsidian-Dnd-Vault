@@ -2,7 +2,7 @@ _Abjuration Level 1_
 
 **Casting Time:** [[Bonus Action]]
 **Range:** 30 Feet
-**Components:** V, S, M (a small silver [[mirror]])
+**Components:** V, S, M (a small silver [[Mirror]])
 **Duration:** 1 Minute
 
 You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect.

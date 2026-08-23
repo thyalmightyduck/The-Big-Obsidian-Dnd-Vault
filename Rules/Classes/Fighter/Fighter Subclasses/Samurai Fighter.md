@@ -37,8 +37,8 @@
 **Armor Training:** [[Light armor]], [[Medium armor]], and [[Heavy armor]] and [[Shields]]
 
 **Starting Equipment:** _Choose A, B, or C:_ 
-(A) [[Chain Mail]], [[Greatsword]], [[Flail]], 8 [[Javelin]]s, [[Dungeoneer's Pack]], and 4 GP; 
-(B) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Dungeoneer's Pack]], and 11 GP; or 
+(A) [[Chain Mail]], [[Greatsword]], [[Flail]], 8 [[Javelin]]s, [[Dungeoneers Pack]], and 4 GP; 
+(B) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Dungeoneers Pack]], and 11 GP; or 
 (C) 155 GP
 
 ##### Multiclassing

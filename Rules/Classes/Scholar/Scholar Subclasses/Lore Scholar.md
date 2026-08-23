@@ -24,14 +24,14 @@
 
 **Weapon Proficiencies:** [[Simple weapons]]
 
-**Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[herbalism kit]], a [[musical instrument]], [[navigator's tools]], or [[pipes]].
+**Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[Herbalism Kit]], a [[musical instrument]], [[navigator's tools]], or [[Pipes]].
 
 **Armor Training:** [[Light armor]]
 
 **Starting Equipment:** You start with the following equipment, in addition to the equipment granted by your standard of living:
 
 - A [[Healers Kit]], any simple melee weapon, and any two tools
-- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[quiver]] of [[Arrows (20)]]
+- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[Quiver]] of [[Arrows (20)]]
 
 ##### Multiclassing
 **Ability Score Minimum:** Intelligence 13
@@ -78,7 +78,7 @@ Also at 3rd level, you choose a tradition that determines the focus of your stud
 Some say that lore-masters risk accumulating knowledge at the expense of wisdom. You are determined to prove them wrong.
 
 ### Level 3: Bonus Proficiencies
-When you choose this tradition at 3rd level, you gain proficiency in the Old Lore skill and with [[calligraphers supplies]]. If you are already proficient in any one of them, you add double your proficiency bonus to checks you make with it.
+When you choose this tradition at 3rd level, you gain proficiency in the Old Lore skill and with [[Calligraphers Supplies]]. If you are already proficient in any one of them, you add double your proficiency bonus to checks you make with it.
 
 ### Level 3: Lore-Master
 Also at 3rd level, when a creature rolls a Lore die it gained from you, the creature can reroll the Lore die and use either total.

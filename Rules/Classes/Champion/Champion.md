@@ -28,7 +28,7 @@
 **Starting Equipment:** You start with the following equipment, in addition to the equipment granted by your standard of living:
 - (a) [[ring-mail]] or (b) [[hide armor]] or (c) [[leather shirt]], [[Longbow]], and a [[Quiver]] of 20 [[Arrows (20)]]
 - (a) a martial melee weapon and a [[Shield]] or (b) a martial melee weapon and a simple melee weapon
-- (a) a [[Shortbow]] and a [[quiver]] of  [[Arrows (20)]]  or (b) two simple melee weapons
+- (a) a [[Shortbow]] and a [[Quiver]] of  [[Arrows (20)]]  or (b) two simple melee weapons
 
 ##### Multiclassing
 **Ability Score Minimum:** Strength 13 or Dexterity 13

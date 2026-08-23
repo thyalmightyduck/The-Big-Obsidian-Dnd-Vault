@@ -38,7 +38,7 @@
 
 **Armor Training:** [[Light Armor]] and [[Medium Armor]] and [[Shield]]s
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Greataxe]], 4 [[Handaxes]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Greataxe]], 4 [[Handaxes]], [[Explorers Pack]], and 15 GP; or (B) 75 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.

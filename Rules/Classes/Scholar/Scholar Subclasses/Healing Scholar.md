@@ -24,14 +24,14 @@
 
 **Weapon Proficiencies:** [[Simple weapons]]
 
-**Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[herbalism kit]], a [[musical instrument]], [[navigator's tools]], or [[pipes]].
+**Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[Herbalism Kit]], a [[musical instrument]], [[navigator's tools]], or [[Pipes]].
 
 **Armor Training:** [[Light armor]]
 
 **Starting Equipment:** You start with the following equipment, in addition to the equipment granted by your standard of living:
 
 - A [[Healers Kit]], any simple melee weapon, and any two tools
-- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[quiver]] of [[Arrows (20)]]
+- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[Quiver]] of [[Arrows (20)]]
 
 ##### Multiclassing
 **Ability Score Minimum:** Intelligence 13
@@ -78,7 +78,7 @@ Also at 3rd level, you choose a tradition that determines the focus of your stud
 Few can hope to learn as much as you will about the healing arts. Your skill can mend the body, as well as the mind and the spirit.
 
 ### Level 3: Bonus Proficiencies
-When you choose this tradition at 3rd level, you gain proficiency in the Medicine skill and with the [[herbalism kit]]. If you are already proficient in any one of them, you add double your proficiency bonus to checks you make with it.
+When you choose this tradition at 3rd level, you gain proficiency in the Medicine skill and with the [[Herbalism Kit]]. If you are already proficient in any one of them, you add double your proficiency bonus to checks you make with it.
 
 ### Level 3: Wise Leechcraft
 Also starting at 3rd level, you add your Wisdom modifier (minimum of +1) to your Intelligence (Medicine) checks, to the hit points regained for each Hit Die spent by any creature you choose as the target of your Hands of a Healer, and to the number of uses of your Rhymes of Lore. The Lore dice granted by these additional uses can only be added to Intelligence ([[Medicine]]) checks.

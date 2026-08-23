@@ -33,14 +33,14 @@
 
 **Weapon Proficiencies:** [[Simple weapons]], [[Shortsword]]s, and [[hand crossbow]]s
 
-**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[Poisoners Kit]], [[herbalism kit]], or [[Alchemists Supplies]].
+**Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[Poisoners Kit]], [[Herbalism Kit]], or [[Alchemists Supplies]].
 
 **Armor Training:** [[Light armor]] and [[Medium armor]]
 
 You start with the following items, plus anything provided by your background:
 - (a) a [[Light Crossbow]] and 20 bolts, (b) a [[shortsword]] or (c) any [[simple weapons]]
-- (a) a [[component pouch]] or (b) an [[arcane focus]]
-- (a) a [[scholar's pack]] or (b) a [[Dungeoneer's Pack]]
+- (a) a [[Component Pouch]] or (b) an [[arcane focus]]
+- (a) a [[Scholars Pack]] or (b) a [[Dungeoneers Pack]]
 - [[hide armor]], any [[simple weapons]], and two [[dagger]]s
 - a [[Healers Kit]]
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
@@ -62,7 +62,7 @@ You have a book or collection of notes that you study to prepare your apothecary
 - A leather briefcase with two small golden locks
 - A medical bag with surgical symbols on the sides
 - A beat-up satchel slung over one shoulder with vials and bottles poking out of every pocket
-If the book is destroyed or lost, you can recreate it using inks and [[paper]] during a long rest.
+If the book is destroyed or lost, you can recreate it using inks and [[Paper]] during a long rest.
 ### Cantrip
 You know three cantrips of your choice from the apothecary spell list. You learn additional apothecary cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Apothecary table.
 Elementary Reformulation. Whenever you finish a long rest and consult your formula book, you can replace one apothecary cantrip you know with another cantrip from the apothecary spell list.
@@ -88,7 +88,7 @@ Your choice grants you additional proficiencies and an expanded spell list at 1s
 The study of diseases opens doorways to many dangerous scientific discoveries. As experts in both ridding the body of sickness and the mutations of infectious disease, Pathogenists bring their study to the battlefield by using monsters and enemies as test subjects for their infections. Long years spent carefully monitoring the causes and effects of such plagues allows them to be experts at disease mutation, allowing their sickness to spread in a terrifying manner and riddle their foes with debilitating symptoms, crippling their bodies and rattling their minds.
 
 ### Level 1: Plague Proficiency
-You learn the [[chill touch]] cantrip. You gain proficiency with the [[herbalism kit]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+You learn the [[chill touch]] cantrip. You gain proficiency with the [[Herbalism Kit]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
 ### Level 1: Pathogenist Spells
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Pathogenist Spells table. These spells count as apothecary spells for you, but they don't count against the number of apothecary spells you prepare.

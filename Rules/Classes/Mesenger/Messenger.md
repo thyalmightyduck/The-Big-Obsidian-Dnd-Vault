@@ -33,7 +33,7 @@
 
 - Any one tool and any simple melee weapon
 - (a) a [[Shortsword]] or (b) a [[sword]]
-- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[quiver]] of [[Arrows (20)]]
+- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[Quiver]] of [[Arrows (20)]]
 
 ##### Multiclassing
 **Ability Score Minimum:** Dexterity 13, Charisma 13

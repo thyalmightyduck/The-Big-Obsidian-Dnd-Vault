@@ -54,9 +54,81 @@
               "icon": "lucide-file",
               "title": "+1 Weapon"
             }
+          },
+          {
+            "id": "607c66abac5117c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repeater Needler.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Repeater Needler"
+            }
+          },
+          {
+            "id": "65799fd368597fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Items/Scrolls/Spell Scroll.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Spell Scroll"
+            }
+          },
+          {
+            "id": "a17bb3299c9feb35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spell Scroll (Level 1).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Spell Scroll (Level 1)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+                "file": "Spell Scroll (Level 1).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -324,53 +396,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c217321c64179887",
+  "active": "a17bb3299c9feb35",
   "lastOpenFiles": [
-    "Rules/Weapons/Repeater Crossbow.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
-    "Rules/Weapons/Rapier.md",
+    "Spell Scroll (Level 1).md",
+    "Rules/Items/Scrolls/Spell Scroll.md",
+    "Rules/Items/Scrolls/Spell Scroll (Cantrip).md",
+    "Rules/Items/Scrolls",
+    "Pictures/Items/Spell Scroll BGR PNG.png",
+    "Pictures/Items/Spell Scroll BGR PNG.png.opdownload",
+    "Pictures/Items",
+    "Pictures/New folder",
+    "Rules/Items/Adventuring Gear/Signal Whistle.md",
+    "Rules/Items/Adventuring Gear/Shovel.md",
+    "Rules/Items/Instruments/Shawm.md",
+    "Rules/Items/Adventuring Gear/Scholars Pack.md",
+    "Rules/Items/Adventuring Gear/Sack.md",
+    "Rules/Items/Adventuring Gear/Rope.md",
+    "Rules/Items/Adventuring Gear/Robe.md",
+    "Rules/Items/Spellcasting Focus/Reliquary.md",
+    "Rules/Items/Adventuring Gear/Rations.md",
+    "Rules/Items/Adventuring Gear/Quiver.md",
+    "Rules/Items/Adventuring Gear/Priests Pack.md",
+    "Rules/Items/Adventuring Gear/Pouch.md",
+    "Rules/Items/Adventuring Gear/Portable Ram.md",
+    "Rules/Items/Adventuring Gear/Pole.md",
+    "Rules/Items/Adventuring Gear/Poisoners Kit.md",
+    "Rules/Items/Adventuring Gear/Perfume.md",
+    "Rules/Items/Adventuring Gear/Parchment.md",
+    "Rules/Items/Adventuring Gear/Paper.md",
+    "Rules/Items/Instruments/Pan Flute.md",
+    "Rules/Items/Spellcasting Focus/Orb.md",
+    "Rules/Items/Adventuring Gear/Oil.md",
+    "Rules/Items/Adventuring Gear/Net.md",
+    "Rules/Items/Adventuring Gear/Mirror.md",
+    "Rules/Items/Tools",
+    "Rules/Items/Instruments",
+    "Rules/Items/Spellcasting Focus",
+    "Rules/Items/Adventuring Gear",
+    "Rules/Items/Ammuniton",
     "Pictures/Weapons/Rapier BGR PNG.png",
     "Pictures/Weapons/Rapier BGR PNG.png.opdownload",
-    "Rules/Weapons/Punching Dagger.md",
-    "Rules/Weapons/Punch Knife.md",
-    "Rules/Weapons/Polearm.md",
-    "Rules/Weapons/Parrying Dagger.md",
-    "Rules/Weapons/Morningstar.md",
     "Pictures/Weapons/Morningstar BGR PNG.png",
-    "Pictures/Weapons/Morningstar BGR PNG.png.opdownload",
-    "Rules/Weapons/Military Fork.md",
-    "Rules/Weapons/Maul.md",
     "Pictures/Weapons/Maul BGR PNG.png",
-    "Pictures/Weapons/Maul BGR PNG.png.opdownload",
-    "Rules/Weapons/Mattock.md",
-    "Rules/Weapons/Long Sword.md",
-    "Rules/Weapons/Light Repeating Crossbow.md",
-    "Rules/Weapons/Laser Rifle.md",
-    "Rules/Weapons/Laser Pistol.md",
-    "5 Monster Stat Blocks/Celestial/Celestial Spirit.md",
-    "5 Monster Stat Blocks/Undead/Bone Executioner.md",
-    "5 Monster Stat Blocks/Undead/Accursed Defiler.md",
-    "5 Monster Stat Blocks/Undead/Zombie.md",
-    "Rules/Weapons/Lance.md",
     "Pictures/Weapons/Lance BGR PNG.png",
-    "Pictures/Weapons/Lance BGR PNG.png.opdownload",
-    "Rules/Weapons/Knightly Sword.md",
-    "Rules/Weapons/Knightly Lance.md",
-    "Rules/Weapons/Hoopak.md",
     "Pictures/Weapons/Hoopak BGR PNG.png",
-    "Pictures/Weapons/Hoopak BGR PNG.png.opdownload",
-    "Rules/Weapons/Hooked Shortspear.md",
-    "Rules/Weapons/Hand Claws.md",
-    "Class Selector WOP.md",
-    "7 Magic Items/Weapons/+1 Weapons",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 2.png",
     "Pictures/Species/Elf Zendikar Mul Daya Nation 1.png",
     "Pictures/Monsters/Primal Guardian BGR PNG.png",
-    "Pictures/Monsters/Primal Guardian BGR PNG.png.opdownload",
-    "Pictures/Spells/Mage Armor.png",
-    "Pictures/Magic Items/Ring of the Ram BGR PNG.png",
-    "Pictures/Magic Items/Ring of the Ram BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Ring of Protection BGR PNG.png.opdownload",
-    "Pictures/Magic Items/Ring of Free Action.png.opdownload"
+    "Pictures/Spells/Mage Armor.png"
   ]
 }

@@ -38,7 +38,7 @@
 
 **Armor Training:** [[Light Armor]] and [[Medium Armor]] and [[Shield]]s
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Greataxe]], 4 [[Handaxes]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Greataxe]], 4 [[Handaxes]], [[Explorers Pack]], and 15 GP; or (B) 75 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -86,7 +86,7 @@ Most barbarian tribes consider a totem animal to be kin to a particular clan. In
 Yours is a path that seeks [[attunement]] with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [[beast sense]] and [[speak with animals]] spells, but only as rituals.
 
 ### Totem Spirit
-At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object—an [[amulet]] or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.
+At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object—an [[Amulet]] or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.
 
 Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
 

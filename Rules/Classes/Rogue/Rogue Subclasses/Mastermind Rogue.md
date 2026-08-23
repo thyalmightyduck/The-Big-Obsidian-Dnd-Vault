@@ -82,7 +82,7 @@ _This subclass is from a different game edition. For a given subclass feature, y
 Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.
 
 ### Master of Intrigue
-When you choose this archetype at 3rd level, you gain proficiency with the [[disguise kit]], the [[forgery kit]], and one [[gaming set]] of your choice. You also learn two languages of your choice.
+When you choose this archetype at 3rd level, you gain proficiency with the [[Disguise Kit]], the [[forgery kit]], and one [[gaming set]] of your choice. You also learn two languages of your choice.
 Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.
 
 ### Master of Tactics

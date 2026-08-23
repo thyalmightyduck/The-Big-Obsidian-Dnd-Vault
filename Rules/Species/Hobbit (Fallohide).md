@@ -16,7 +16,7 @@ Hobbit Elusiveness. You have proficiency in the Stealth skill.
 
 Hobbit-Sense. You have advantage on all Intelligence, Wisdom, and Charisma saving throws against Shadow.
 
-Pipe-Weed Lore. You have proficiency with [[pipes]].
+Pipe-Weed Lore. You have proficiency with [[Pipes]].
 
 Unobtrusive. You can move through the space of any creature that is of a size larger than yours.
 

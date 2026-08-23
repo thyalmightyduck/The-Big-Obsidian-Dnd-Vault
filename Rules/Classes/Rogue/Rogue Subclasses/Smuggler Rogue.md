@@ -171,7 +171,7 @@ You gain a feature from your Rogue Subclass.
 ### Level 17: Smuggled Spells
 Beginning at 17th level, you can store spells cast by other creatures in your bag. Your bag can store up to 6 levels worth of spells at a time.
 Any creature can cast a spell of 1st through 5th level into your bag by touching the bag as the spell is cast. The spell has no effect, other than to be stored in your bag. If your bag can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
-Alternatively, you can place a [[spell scroll]] in the bag. The spell is cast and stored in your bag and the spell scroll is destroyed. You can cast any spell stored in your bag. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the bag is no longer stored in it, freeing up space.
+Alternatively, you can place a [[Spell Scroll]] in the bag. The spell is cast and stored in your bag and the spell scroll is destroyed. You can cast any spell stored in your bag. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the bag is no longer stored in it, freeing up space.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

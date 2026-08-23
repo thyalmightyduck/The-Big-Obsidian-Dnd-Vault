@@ -23,14 +23,14 @@
 
 **Weapon Proficiencies:** [[Simple weapons]]
 
-**Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[herbalism kit]], a [[musical instrument]], [[navigator's tools]], or [[pipes]].
+**Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[Herbalism Kit]], a [[musical instrument]], [[navigator's tools]], or [[Pipes]].
 
 **Armor Training:** [[Light armor]]
 
 **Starting Equipment:** You start with the following equipment, in addition to the equipment granted by your standard of living:
 
 - A [[Healers Kit]], any simple melee weapon, and any two tools
-- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[quiver]] of [[Arrows (20)]]
+- (a) [[Leather shirt]] or (b) a [[Shortbow]] and a [[Quiver]] of [[Arrows (20)]]
 
 ##### Multiclassing
 **Ability Score Minimum:** Intelligence 13

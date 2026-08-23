@@ -101,7 +101,7 @@ stats: [12, 18, 14, 12, 14, 12]
 | Yes    | [[Scimitar]]                            |        | 1   |      |         |
 | Yes    | [[Shortsword]]                          |        | 1   |      |         |
 | Yes    | [[Quarterstaff]]                        |        | 1   |      |         |
-|        | [[Herbalism kit]]                       |        | 1   |      |         |
+|        | [[Herbalism Kit]]                       |        | 1   |      |         |
 |        | [[Healers Kit]]                        |        | 1   |      |         |
 |        | Book Of Philosophy                      |        | 1   |      |         |
 |        | [[Lamp]]                                |        | 1   |      |         |
@@ -116,7 +116,7 @@ stats: [12, 18, 14, 12, 14, 12]
 |        | [[Bloodwax Candlestick]]                |        | 1   |      |         |
 |        | Snow Goggles                            |        | 1   |      |         |
 |        | Snow Clothes from [[Cloth And Drapery]] |        | 1   |      |         |
-| Yes    | [[Explorer's Pack]]                     |        | 1   |      |         |
+| Yes    | [[Explorers Pack]]                     |        | 1   |      |         |
 |        | Mystery Syrup (Acidic)                  |        | 1   |      |         |
 |        | [[Thieves Tools]]                       |        | 1   |      |         |
 |        | Diamond (≥300gp)                        |        | 2   |      |         |
