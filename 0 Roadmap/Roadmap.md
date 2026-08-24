@@ -1,6 +1,6 @@
 # Last Left Off
 Feats
-	Aquatic Adaption
+	Bandit Cunning
 Artificer 
 	+1 Weapon Links
 	+1 Armor Links

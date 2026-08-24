@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "aa9cfc6292e2b4a9",
+            "id": "c217321c64179887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Feats/Ashbound Initiate.md",
+                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ashbound Initiate"
+              "title": "+1 Weapon"
+            }
+          },
+          {
+            "id": "63414200e872e5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5 City_s Hum Inn"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: war pick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,13 +155,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -149,8 +174,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -191,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Feats/Untitled.md",
+                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -300,12 +326,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
-    "collapsed": true
+    "width": 708.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,53 +350,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "aa9cfc6292e2b4a9",
+  "active": "63414200e872e5a4",
   "lastOpenFiles": [
-    "Rules/Feats/Artificer Initiate.md",
-    "Rules/Feats/Ashbound Initiate.md",
-    "Rules/Feats/Art of Disappearing.md",
-    "Rules/Feats/Archery.md",
+    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/4 Portable Potents Magic Shop.md",
+    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/3 Pink Dragon_s Snap Apothecary.md",
+    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/2 Get Hammered And Die Blacksmith.md",
+    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/1 Quality And Substance General Store.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Vanie Clarkcliff.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Qusy Deanabridge.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Omwan Manndale.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Lile Ruldorf.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Iomend Garrett.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Cyna Doyling.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Anice Hendalake.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/5 Steady Stag Inn.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/4 The Wise Sphinx Magic Shop.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/3 Fruitful Harvest Apothecary.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/2 Steady Hand Blacksmith.md",
+    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/1 Harvest Treasure General Store.md",
+    "2 Characters/Tectonic Game/Lucian Relnor.md",
+    "2 Characters/Executive Outcomes/Yohn Mclovin.md",
+    "2 Characters/Executive Outcomes/Wormomancer.md",
+    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+    "2 Characters/Executive Outcomes/Ibrahim Canoo.md",
+    "2 Characters/Executive Outcomes/Goobus Scion Of Brainrot.md",
+    "Rules/Feats/Bandit Cunning.md",
     "0 Roadmap/Roadmap.md",
-    "Rules/Spells/Level 2/Levitate.md",
-    "Rules/Items/Spellcasting Focus/Yew Wand.md",
-    "Rules/Items/Spellcasting Focus/Sprig of Mistletoe.md",
-    "Rules/Items/Spellcasting Focus/Reliquary.md",
-    "Rules/Items/Spellcasting Focus/Orb.md",
-    "Rules/Items/Spellcasting Focus/Holy Symbol.md",
-    "Rules/Items/Spellcasting Focus/Emblem.md",
-    "Rules/Items/Spellcasting Focus/Druidic Focus.md",
-    "Rules/Items/Spellcasting Focus/Amulet.md",
-    "Rules/Items/Spellcasting Focus",
-    "Rules/Items/Scrolls/Spell Scroll.md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 9).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 8).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 7).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 6).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 5).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 4).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 3).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 2).md",
-    "Rules/Items/Scrolls/Spell Scroll (Level 1).md",
-    "Rules/Items/Scrolls/Spell Scroll (Cantrip).md",
-    "Rules/Items/Scrolls",
-    "Rules/Weapons/Yklwa.md",
-    "Rules/Items/Tools",
-    "Rules/Items/Instruments",
-    "Rules/Items/Ammuniton",
-    "Rules/Items/Adventuring Gear",
-    "Pictures/Weapons/Warhammer BGR PNG.png",
-    "Pictures/Weapons/War Pick BGR PNG.png",
-    "Pictures/Weapons/Rapier BGR PNG.png",
-    "Pictures/Weapons/Morningstar BGR PNG.png",
-    "Pictures/Weapons/Maul BGR PNG.png",
-    "Pictures/Weapons/Lance BGR PNG.png",
-    "Pictures/Weapons/Hoopak BGR PNG.png",
-    "Pictures/Species/Worg BGR PNG.png",
+    "Rules/Feats/Baleful Scion.md",
+    "Pictures/Feats/Altered BGR PNG.png",
+    "Pictures/Feats/Altered BGR PNG.png.opdownload",
     "Pictures/Mages of High Sorcery BGR PNG.png",
-    "Pictures/Items/Spell Scroll BGR PNG.png",
-    "Pictures/Items",
+    "Pictures/Mages of Black Sorcery BGR PNG.png",
+    "Pictures/Mages of Black Sorcery BGR PNG.png.opdownload",
+    "Pictures/Feats/Aberrant Anatomy PNG.png",
     "Pictures/Feats",
-    "7 Magic Items/Weapons/+1 Weapons",
-    "Pictures/Monsters/Primal Guardian BGR PNG.png.opdownload"
+    "Pictures/New folder",
+    "Pictures/Weapons/Warhammer BGR PNG.png",
+    "Pictures/Weapons/Warhammer BGR PNG.png.opdownload",
+    "Pictures/Weapons/War Pick BGR PNG.png",
+    "Pictures/Weapons/War Pick BGR PNG.png.opdownload",
+    "Pictures/Species/Worg BGR PNG.png",
+    "Pictures/Species/Worg BGR PNG.png.opdownload",
+    "Pictures/Items/Lantern BGR PNG.png",
+    "Pictures/Items/Lantern BGR PNG.png.opdownload",
+    "Rules/Items/Scrolls",
+    "Pictures/Items/Spell Scroll BGR PNG.png",
+    "Pictures/Items/Spell Scroll BGR PNG.png.opdownload",
+    "Pictures/Weapons/Rapier BGR PNG.png"
   ]
 }
