@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c217321c64179887",
+            "id": "aa9cfc6292e2b4a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+                "file": "Rules/Feats/Ashbound Initiate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "+1 Weapon"
-            }
-          },
-          {
-            "id": "63414200e872e5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Feats/Aquatic Adaptation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aquatic Adaptation"
+              "title": "Ashbound Initiate"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: war pick",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Roadmap/Roadmap.md",
+                "file": "Rules/Feats/Untitled.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -327,7 +304,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 473.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,53 +325,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "aa9cfc6292e2b4a9",
   "lastOpenFiles": [
-    "Rules/Feats/Aquatic Adaptation.md",
-    "Rules/Feats/Altered.md",
-    "Pictures/Feats/Altered BGR PNG.png",
-    "Pictures/Feats/Altered BGR PNG.png.opdownload",
-    "Rules/Feats/Alert 1.md",
-    "Rules/Feats/Alacrity.md",
-    "Rules/Feats/Agent of Order.md",
-    "Rules/Feats/Scion of the Outer Planes.md",
-    "Rules/Feats/Against the Unseen.md",
-    "Rules/Feats/Aerial Expert.md",
-    "Rules/Feats/Aereni Half-Life.md",
-    "Rules/Feats/Aereni Expertise.md",
-    "Rules/Feats/Advanced Weapon Proficiency (G).md",
-    "Rules/Feats/Advanced Weapon Proficiency (FS).md",
-    "Rules/Feats/Adroit Crafter.md",
-    "Rules/Feats/Adept of the White Robes.md",
-    "Rules/Feats/Adept of the Red Robes.md",
-    "Rules/Feats/Adept of the Black Robes.md",
-    "Rules/Feats/Initiate of High Sorcery.md",
-    "Rules/Backgrounds/Mage of High Sorcery.md",
-    "Random Generators/Trinkets table.md",
-    "Rules/Items/Adventuring Gear/Common Clothes.md",
-    "Pictures/Mages of High Sorcery BGR PNG.png",
-    "Pictures/Mages of Black Sorcery BGR PNG.png",
-    "Pictures/Mages of Black Sorcery BGR PNG.png.opdownload",
-    "Rules/Feats/Actor.md",
-    "Rules/Feats/Aberrant Dragonmark.md",
-    "Rules/Feats/Aberrant Anatomy.md",
-    "Rules/Core Rules/Proficiency Bonus.md",
-    "Pictures/Feats/Aberrant Anatomy PNG.png",
-    "Pictures/Feats",
-    "Pictures/New folder",
+    "Rules/Feats/Artificer Initiate.md",
+    "Rules/Feats/Ashbound Initiate.md",
+    "Rules/Feats/Art of Disappearing.md",
+    "Rules/Feats/Archery.md",
     "0 Roadmap/Roadmap.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
-    "Pictures/Weapons/Warhammer BGR PNG.png",
-    "Pictures/Weapons/Warhammer BGR PNG.png.opdownload",
-    "Pictures/Weapons/War Pick BGR PNG.png",
-    "Pictures/Weapons/War Pick BGR PNG.png.opdownload",
-    "Pictures/Species/Worg BGR PNG.png",
-    "Pictures/Species/Worg BGR PNG.png.opdownload",
-    "Pictures/Items/Lantern BGR PNG.png",
-    "Pictures/Items/Lantern BGR PNG.png.opdownload",
+    "Rules/Spells/Level 2/Levitate.md",
+    "Rules/Items/Spellcasting Focus/Yew Wand.md",
+    "Rules/Items/Spellcasting Focus/Sprig of Mistletoe.md",
+    "Rules/Items/Spellcasting Focus/Reliquary.md",
+    "Rules/Items/Spellcasting Focus/Orb.md",
+    "Rules/Items/Spellcasting Focus/Holy Symbol.md",
+    "Rules/Items/Spellcasting Focus/Emblem.md",
+    "Rules/Items/Spellcasting Focus/Druidic Focus.md",
+    "Rules/Items/Spellcasting Focus/Amulet.md",
+    "Rules/Items/Spellcasting Focus",
+    "Rules/Items/Scrolls/Spell Scroll.md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 9).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 8).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 7).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 6).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 5).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 4).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 3).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 2).md",
+    "Rules/Items/Scrolls/Spell Scroll (Level 1).md",
+    "Rules/Items/Scrolls/Spell Scroll (Cantrip).md",
     "Rules/Items/Scrolls",
+    "Rules/Weapons/Yklwa.md",
+    "Rules/Items/Tools",
+    "Rules/Items/Instruments",
+    "Rules/Items/Ammuniton",
+    "Rules/Items/Adventuring Gear",
+    "Pictures/Weapons/Warhammer BGR PNG.png",
+    "Pictures/Weapons/War Pick BGR PNG.png",
+    "Pictures/Weapons/Rapier BGR PNG.png",
+    "Pictures/Weapons/Morningstar BGR PNG.png",
+    "Pictures/Weapons/Maul BGR PNG.png",
+    "Pictures/Weapons/Lance BGR PNG.png",
+    "Pictures/Weapons/Hoopak BGR PNG.png",
+    "Pictures/Species/Worg BGR PNG.png",
+    "Pictures/Mages of High Sorcery BGR PNG.png",
     "Pictures/Items/Spell Scroll BGR PNG.png",
-    "Pictures/Items/Spell Scroll BGR PNG.png.opdownload",
-    "Pictures/Weapons/Rapier BGR PNG.png"
+    "Pictures/Items",
+    "Pictures/Feats",
+    "7 Magic Items/Weapons/+1 Weapons",
+    "Pictures/Monsters/Primal Guardian BGR PNG.png.opdownload"
   ]
 }
