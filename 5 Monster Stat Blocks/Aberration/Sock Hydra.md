@@ -36,7 +36,7 @@
 > ###### Defenses And Conditions
 > | Type | Stat |
 > | ---- | ---- |
-> | Lightning | Resistance |
+> | Lightning | [[Resistance]] |
 
 # Traits:
 **Multiply Heads.** This Sock Hydra Begins Within 3 Heads. When It Takes 5 Or More Damage From A Single Attack, One Sock Head May Be Destroyed. At The start Of Its Next Turn, Two New Mismatched Sock Heads Sprout Unless Fire Damage Was Dealt. It Can Have Up To 7 Heads At Once.

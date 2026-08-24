@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
+                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 City_s Hum Inn"
+              "title": "Repeating Gatling Gun"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
+                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
+                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/5 City_s Hum Inn.md",
+                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -352,32 +352,32 @@
   },
   "active": "63414200e872e5a4",
   "lastOpenFiles": [
-    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/4 Portable Potents Magic Shop.md",
-    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/3 Pink Dragon_s Snap Apothecary.md",
-    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/2 Get Hammered And Die Blacksmith.md",
-    "3 The Kingdom Of Nesafia/2 Towns Of Nesafia/Katai The Enduring Town/Katai Locations/1 Quality And Substance General Store.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Vanie Clarkcliff.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Qusy Deanabridge.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Omwan Manndale.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Lile Ruldorf.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Iomend Garrett.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Cyna Doyling.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar NPCs/Anice Hendalake.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/5 Steady Stag Inn.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/4 The Wise Sphinx Magic Shop.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/3 Fruitful Harvest Apothecary.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/2 Steady Hand Blacksmith.md",
-    "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Bulmaar The City Of Honor/Bulmaar Locations/1 Harvest Treasure General Store.md",
-    "2 Characters/Tectonic Game/Lucian Relnor.md",
-    "2 Characters/Executive Outcomes/Yohn Mclovin.md",
-    "2 Characters/Executive Outcomes/Wormomancer.md",
-    "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
-    "2 Characters/Executive Outcomes/Ibrahim Canoo.md",
-    "2 Characters/Executive Outcomes/Goobus Scion Of Brainrot.md",
-    "Rules/Feats/Bandit Cunning.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Feats/Baleful Scion.md",
+    "7 Magic Items/Weapons/Repeating Flare Gun.md",
+    "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
+    "7 Magic Items/Weapons/Repeating Cannon.md",
+    "7 Magic Items/Weapons/Repeating Blunderbuss.md",
+    "7 Magic Items/Weapons/Repeating Blowgun.md",
+    "7 Magic Items/Weapons/Repeating Assault Rifle.md",
+    "7 Magic Items/Weapons/Lapsing Arrow.md",
+    "7 Magic Items/Weapons/Hook Chain.md",
+    "7 Magic Items/Weapons/Handheld Ballista.md",
+    "7 Magic Items/Weapons/Flame Tongue.md",
+    "7 Magic Items/Weapons/Dazzling Weapon.md",
+    "7 Magic Items/Weapons/Dagger of Venom.md",
+    "7 Magic Items/Weapons/Chromatic Quiver.md",
+    "7 Magic Items/Weapons/Bloodrage Greataxe.md",
+    "7 Magic Items/Weapons/Armblade (Trident).md",
+    "7 Magic Items/Weapons/+1 Weapons/+2 Weapon.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Pick.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Hammer.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Flail.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Catchpole.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Cannon.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Brass Knuckles.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blunderbuss, Hand.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blunderbuss.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Blowgun.md",
     "Pictures/Feats/Altered BGR PNG.png",
     "Pictures/Feats/Altered BGR PNG.png.opdownload",
     "Pictures/Mages of High Sorcery BGR PNG.png",

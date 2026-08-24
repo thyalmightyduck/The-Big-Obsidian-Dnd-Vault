@@ -14,10 +14,10 @@ Smoothbore, muzzleloading Cannons are common fixtures on pirate ships and defens
 
 **Firearm:** You don't add your ability modifier to the weapon's damage, unless otherwise stated. Firearm ammunition is destroyed upon use.
 
-**Heavy:** You have [[Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+**Heavy:** You have [[Disadvantage]] on [[attack rolls]] with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
-**Loading:** You can fire only one piece of ammunition from a Loading weapon when you use an action, a [[Bonus Action]], or a [[Reaction]] to fire it, regardless of the number of attacks you can normally make.
+**Loading:** You can fire only one piece of ammunition from a Loading weapon when you use an [[action]], a [[Bonus Action]], or a [[Reaction]] to fire it, regardless of the number of attacks you can normally make.
 
 **Two-Handed:** A Two-Handed weapon requires two hands when you attack with it.
 
-**Mastery: Explode:** When you take the [[Attack action]], you can replace one of your attacks with an explosion from this weapon's projectile. This explosion is a 5-foot-radius [[Sphere]] centered on a point you choose within the weapon's normal range. Each creature within the [[Sphere]] makes a Dexterity saving throw (DC 8 plus your Strength or Dexterity modifier and your [[Proficiency Bonus]]). On a failed save, a creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. On a successful save, a creature takes half as much damage. You can create this explosion only once per turn.
+**Mastery: Explode:** When you take the [[Attack action]], you can replace one of your attacks with an explosion from this weapon's projectile. This explosion is a 5-foot-radius [[Sphere]] centered on a point you choose within the weapon's normal range. Each creature within the [[Sphere]] makes a Dexterity [[saving throw]] (DC 8 plus your Strength or Dexterity modifier and your [[Proficiency Bonus]]). On a failed save, a creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. On a successful save, a creature takes half as much damage. You can create this explosion only once per turn.

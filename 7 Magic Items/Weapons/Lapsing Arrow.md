@@ -12,7 +12,7 @@ Long after harvesting, the essence of a supplanter remains as insidious as ever.
 
 An arrow tipped with a fragile container of writhing ooze, primed to briefly puppeteer a creature’s body before expiring.
 
-𝙎𝙪𝙙𝙙𝙚𝙣 𝙎𝙥𝙖𝙨𝙢: On a hit, if the target is a creature it must make a DC 15 CON save. On a failed save, the creature must immediately use its reaction, if available, to make a melee attack against a target within range.
+𝙎𝙪𝙙𝙙𝙚𝙣 𝙎𝙥𝙖𝙨𝙢: On a hit, if the target is a creature it must make a DC 15 CON save. On a failed save, the creature must immediately use its [[reaction]], if available, to make a melee attack against a target within range.
 
 Once a Lapsing Arrow hits a creature, it becomes a nonmagical arrow.
 

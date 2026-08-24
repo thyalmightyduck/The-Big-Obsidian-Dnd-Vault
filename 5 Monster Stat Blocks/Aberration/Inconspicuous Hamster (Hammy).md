@@ -40,9 +40,9 @@
 > ###### Defenses And Conditions
 > | Type | Stat |
 > | ---- | ---- |
-> | Bludgeoning | Resistance |
-> | Piercing | Resistance |
-> | Slashing | Resistance |
+> | Bludgeoning | [[Resistance]] |
+> | Piercing | [[Resistance]] |
+> | Slashing | [[Resistance]] |
 > | [[Blinded]] | Immune |
 > | [[Charmed]] | Immune |
 > | [[Frightened]] | Immune |
@@ -59,7 +59,7 @@ Furthermore, If a creature has half or more of its hit points after taking psych
 
 **Multiattack:** The Inconspicuous Hamster makes two attacks
 
-**Brain Probe:** _Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma saving throw. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn.
+**Brain Probe:** _Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma [[saving throw]]. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn.
 
 **Mental Meal:** _Melee Spell Attack:_ +5 to hit, reach 30 ft., one target. _Hit:_ 1 psychic damage. The Inconspicuous Hamster regains 2 (1d4) hit points and gains 2 (1d4) [[Temporary Hit Point]].
 
@@ -98,7 +98,7 @@ actions:
   - name: "Multiattack."
     desc: "The Inconspicuous Hamster makes two attacks"
   - name: "Brain Probe"
-    desc: "_Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma saving throw. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn."
+    desc: "_Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma [[saving throw]]. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn."
   - name: "Mental Meal"
     desc: "_Melee Spell Attack:_ +5 to hit, reach 30 ft., one target. _Hit:_ 1 psychic damage. The Inconspicuous Hamster regains 2 (1d4) hit points and gains 2 (1d4) [[temporary hit points]]."
 

@@ -1,4 +1,4 @@
-*Generic Variant, Rare (Requires Attunement)*
+*Generic Variant, Rare (Requires [[Attunement]])*
 - - - 
 
 You have [[Resistance]] to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.

@@ -1,4 +1,4 @@
-Ring, Uncommon (Requires Attunement)
+Ring, Uncommon (Requires [[Attunement]])
 - - - 
 
 While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.

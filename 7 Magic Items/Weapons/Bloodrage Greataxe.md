@@ -1,4 +1,4 @@
-*Weapon (Greataxe) Uncommon*
+*Weapon ([[Greataxe]]) Uncommon*
 > [!infobox]
 > # Bloodrage Greataxe
 > ###### Stats

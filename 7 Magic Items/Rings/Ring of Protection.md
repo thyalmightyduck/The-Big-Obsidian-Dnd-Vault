@@ -1,4 +1,4 @@
-Ring, Rare (Requires Attunement)
+Ring, Rare (Requires [[Attunement]])
 - - - 
 
 You gain a +1 bonus to [[Armor Class]] and saving throws while wearing this ring.

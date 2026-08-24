@@ -1,4 +1,4 @@
-*Uncommon (Requires Attunement)*
+*Uncommon (Requires [[Attunement]])*
 **Weapon:** 2d6 Fire Simple Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 30/120ft.; Flare), Firearm, Loading, Modern Era
 100 GP 1lbs
@@ -16,6 +16,6 @@ Less a firearm and more a survival tool, a Flare Gun fires a single white-hot fl
 
 **Firearm.** You don't add your ability modifier to the weapon's damage, unless otherwise stated. Firearm ammunition is destroyed upon use.
 
-**Loading.** You can fire only one piece of ammunition from a Loading weapon when you use an action, a [[Bonus Action]], or a [[Reaction]] to fire it, regardless of the number of attacks you can normally make.
+**Loading.** You can fire only one piece of ammunition from a Loading weapon when you use an [[action]], a [[Bonus Action]], or a [[Reaction]] to fire it, regardless of the number of attacks you can normally make.
 
 **Mastery: Slow.** If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [[Speed]] reduction doesn't exceed 10 feet.

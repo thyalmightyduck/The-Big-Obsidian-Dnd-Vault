@@ -18,7 +18,7 @@ When A Creature You Can See Within 90ft Of You Misses With An Attack, You Can Us
 
 **Curse: Herald Of Pain:** When You Roll A d12 As Part Of The *Grievous Blessing* Feature, The Curse Of This Item Extends To You. As Long As You Remain Cursed, You Are Unwilling To Part With This Item.
 
-Whenever You Roll A *Pain Die* As Part Of The *Grievous Blessing* Feature, The DM Rolls A d100. If The Result Of The d100 Is Lower Than The Roll On The *Pain Die*, A Chain Devil Appears In An Unoccupied Space Within 30ft Of You. The DM Decides The Creature’s Attitude (Hostile/Indifferent/Friendly) And Actions.
+Whenever You Roll A *Pain Die* As Part Of The *Grievous Blessing* Feature, The DM Rolls A d100. If The Result Of The d100 Is Lower Than The Roll On The *Pain Die*, A Chain Devil Appears In An Unoccupied Space Within 30ft Of You. The DM Decides The Creature’s Attitude ([[Hostile]]/[[Indifferent]]/[[Friendly]]) And Actions.
 
 #### Lore
 New Initiates Of The Painful Path Often Lack The Means To Share The Gift With Others. Those More Versed In Deliverance Of Agony Must Guide Them, Directing Their Hands In Surgical Applications To Maximize Suffering. Outsiders Who Seek To Exploit This Generosity For Their Own Ends Are Met With Consequences Fitting Their Blasphemous Indiscretions; Not All Are Meant To Walk The Path

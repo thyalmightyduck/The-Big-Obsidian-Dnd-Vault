@@ -1,4 +1,4 @@
-_Wondrous Item, Rare (Requires Attunement)_
+_Wondrous Item, Rare (Requires [[Attunement]])_
 - - - 
 While you wear these boots, you can take a [[Bonus Action]] to click the boots' heels together. If you do, the boots double your [[Speed]], and any creature that makes an [[Opportunity Attack]] against you has [[Disadvantage]] on the attack roll. If you click your heels together again, you end the effect.
 

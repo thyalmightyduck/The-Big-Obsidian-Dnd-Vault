@@ -36,21 +36,21 @@
 > ###### Defenses And Conditions
 > | Type | Stat |
 > | ---- | ---- |
-> | Necrotic | Resistance |
+> | Necrotic | [[Resistance]] |
 > | [[Grappled]] | Immune |
 > | [[Restrained]] | Immune |
 > ###### Description
 > Amidst a web of fractured realities and glimpsed timelines sits an arachnid creature with twisted features. Its elongated form writhes and shivers as it clambers across its broken glass mosaic of possibilities. Its fanged maw gnashes and chomps. Within its movements one can make out faint resounding reverberations of possible movements and reactions that did not occur, as if with every step the creature takes, an infinite ghost of possible movements it may have taken glimmer and fade.
 # **<u>Traits</u>**  
-**Alien Intellect.** The eldritch crawler is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the eldritch crawler's intentions or sincerity have [[Disadvantage]].
+**Alien Intellect.** The eldritch crawler is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([[Insight]]) checks made to ascertain the eldritch crawler's intentions or sincerity have [[Disadvantage]].
 
 **Fully Contaminated.** The eldritch crawler is immune to [[Contamination]] and has [[Advantage]] on saving throws against contaminated spells. The eldritch crawler may cast contaminated spells even though it does not gain [[Contamination]] levels.
 
-**Insectoid Limbs.** The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an ability check. It ignores movement restrictions caused by webbing.
+**Insectoid Limbs.** The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an [[ability check]]. It ignores movement restrictions caused by webbing.
 # <u>Actions</u> 
-**Bite.** _Constitution Saving Throw:_ DC 12, one target within 5 ft. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only.
+**Bite.** _Constitution [[Saving Throw]]:_ DC 12, one target within 5 ft. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only.
 
-**Contaminated Venom.** _Constitution Saving Throw:_ DC 12, one target within 40 feet. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only.
+**Contaminated Venom.** _Constitution [[Saving Throw]]:_ DC 12, one target within 40 feet. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only.
 
 # <u>Bonus Actions</u> 
 **Void Walker.** The eldritch crawler climbs through a tear in reality, traveling from the Material Plane to the Space Between Worlds or vice versa.
@@ -66,7 +66,7 @@ These strange arachnid-like creatures seem to weave together partial realities, 
 Those who have faced one have commented on the broken sense of reality that occurs when attempting to attack an Eldritch Crawler. In response Eldritch Crawlers shift realities, and whether the attack hits or misses, a glimpse through time and space shows all possible outcomes of the attack at once. Even when an Eldritch Crawlers is defeated, it's debatable if they are truly dead, or if it was simply observed in a single timeline in which it was killed—the monster may still exist in every other possible reality. This could mean Eldritch Crawlers transcend human concepts of time and space and can't actually be killed, only removed from one instance of time and space amongst an infinite sea of them.
 
 ### Study the Foe
-Characters proficient in History or Nature gain [[Advantage]] on Intelligence (Arcana) checks when they take the [[Study action]] to examine an Eldritch Crawler, learning the following based on the result.
+Characters proficient in [[History]] or [[Nature]] gain [[Advantage]] on Intelligence ([[Arcana]]) checks when they take the [[Study action]] to examine an Eldritch Crawler, learning the following based on the result.
 
 (5+) Uncontainable. You know the creature's [[Resistance]] and [[Immunity]].
 
@@ -75,7 +75,7 @@ Characters proficient in History or Nature gain [[Advantage]] on Intellige
 (15+) Dull and Diffident. You recognize the creature's highest and lowest ability scores.
 
 ### Combat Tactics
-The Eldritch Crawlers weave together fractured timelines, and slip in and out of the Space Between Worlds with ease. They create their own Thin Places and travel through them back and forth as needed. When under attack, Eldritch Crawlers bend and alter the realities they exist in to shift to one where they are more likely to survive. They teleport around the battlefield and vanish into the Space Between Worlds as they need to, using Void Walker and their Fractured Reality Reaction, only to reemerge and attack their prey with Contaminated Venom.
+The Eldritch Crawlers weave together fractured timelines, and slip in and out of the Space Between Worlds with ease. They create their own Thin Places and travel through them back and forth as needed. When under attack, Eldritch Crawlers bend and alter the realities they exist in to shift to one where they are more likely to survive. They teleport around the battlefield and vanish into the Space Between Worlds as they need to, using Void Walker and their Fractured Reality [[Reaction]], only to reemerge and attack their prey with Contaminated Venom.
 
 ### Harvestable Components (Uncommon)
 Animus: Aberration.
@@ -111,16 +111,16 @@ senses: [[Darkvision]] 60Ft, [[Passive Perception]] 10
 cr: 3
 traits:
   - name: Alien Intellect.
-    desc: The eldritch crawler is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the eldritch crawler's intentions or sincerity have [[Disadvantage]].
+    desc: The eldritch crawler is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([[Insight]]) checks made to ascertain the eldritch crawler's intentions or sincerity have [[Disadvantage]].
   - name: Fully Contaminated.
     desc: The eldritch crawler is immune to [[Contamination]] and has [[Advantage]] on saving throws against contaminated spells. The eldritch crawler may cast contaminated spells even though it does not gain [[Contamination]] levels.
   - name: Insectiod Limbs.
-    desc: The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an ability check. It ignores movement restrictions caused by webbing.      
+    desc: The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an [[ability check]]. It ignores movement restrictions caused by webbing.      
 actions:
   - name: "Bite."
-    desc: "_Constitution Saving Throw:_ DC 12, one target within 5 ft. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."
+    desc: "_Constitution [[Saving Throw]]:_ DC 12, one target within 5 ft. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."
   - name: "Contaminated Venom."
-    desc: "_Constitution Saving Throw:_ DC 12, one target within 40 feet. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."   
+    desc: "_Constitution [[Saving Throw]]:_ DC 12, one target within 40 feet. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."   
 bonus_actions:
   - name: "Void Walker."
     desc: "The eldritch crawler climbs through a tear in reality, traveling from the Material Plane to the Space Between Worlds or vice versa."

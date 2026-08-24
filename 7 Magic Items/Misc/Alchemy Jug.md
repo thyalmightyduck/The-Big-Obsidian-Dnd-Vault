@@ -12,12 +12,12 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 
 |Liquid|Max. Amount|
 |---|---|
-|Acid|8 ounces|
-|Basic Poison|4 ounces|
+|[[Acid]]|8 ounces|
+|[[Basic Poison]]|4 ounces|
 |Beer|4 gallons|
 |Honey|1 gallon|
 |Mayonnaise|2 gallons|
-|Oil|1 quart|
+|[[Oil]]|1 quart|
 |Vinegar|2 gallons|
 |Water, fresh|8 gallons|
 |Water, salt|12 gallons|

@@ -1,6 +1,6 @@
 *Weapon ([[Assault Rifle]]), Uncommon*
 **Weapon:** 2d6 Piercing Martial Weapon, Ranged Weapon, Firearm
-**Properties:** Ammunition (Range 80/320ft.; Bullet), Firearm, Modern Era, Two-Handed
+**Properties:** Ammunition (Range 80/320ft.; [[Bullet]]), Firearm, Modern Era, Two-Handed
 300 GP 7lbs
 **Mastery:** Automatic
 
@@ -8,7 +8,7 @@ _The base item can be found in The Gunslinger Class: Valda’s Spire of Secret
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
-Combining a high rate of fire with rifle-grade ballistics, the Assault Rifle is a staple weapon for all modern militaries. Dozens of variants exist on this general design, but all share the traits of a flexible and formidable weapon.
+Combining a high rate of fire with rifle-grade ballistics, the [[Assault Rifle]] is a staple weapon for all modern militaries. Dozens of variants exist on this general design, but all share the traits of a flexible and formidable weapon.
 
 **Range:** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the [[Attack Rolls]]. You can't attack a target beyond the long range.
 

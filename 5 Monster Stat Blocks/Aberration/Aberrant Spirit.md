@@ -12,13 +12,13 @@ hp: 40 + 10 for each spell level above 4th
 speed: 30 ft., Fly 30 ft. (beholderkin only; hover)
 stats: [16, 10, 15, 16, 10, 6]
 damage_immunities: Psychic
-senses: [[Darkvision]] 60Ft, Passive Perception 10, Passive Insight 10, Passive Stealth 10
+senses: [[Darkvision]] 60Ft, [[Passive Perception]] 10, Passive Insight 10, Passive Stealth 10
 languages: Deep Speech, understands the languages you speak
 traits:
   - name: Regeneration (Slaad Only).
-    desc: The aberration regains 5 hit points at the start of its turn if it has at least 1 hit point.  
+    desc: The aberration regains 5 hit points at the start of its turn if it has at least 1 [[hit point]].  
   - name: Whispering Aura (Star Spawn Only).
-    desc: At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against your spell save DC or take 2d6 psychic damage, provided that the aberration isn't [[incapacitated]].  
+    desc: At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom [[saving throw]] against your spell save DC or take 2d6 psychic damage, provided that the aberration isn't [[incapacitated]].  
 actions:
   - name: "Multiattack"
     desc: "The aberration makes a number of attacks equal to half this spell's level (rounded down)."

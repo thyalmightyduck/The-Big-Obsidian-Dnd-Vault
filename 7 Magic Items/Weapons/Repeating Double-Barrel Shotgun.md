@@ -1,4 +1,4 @@
-_Uncommon (Requires Attunement)_
+_Uncommon (Requires [[Attunement]])_
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 20/60ft.; Shell),Firearm, Industrial Era, Recoil, Reload, Two-Handed
 175 GP 8lbs
@@ -22,4 +22,4 @@ A classic design with two loaded barrels, the Double-Barrel Shotgun trades ammo 
 
 **Two-Handed.** A Two-Handed weapon requires two hands when you attack with it.
 
-**Mastery: Scatter.** Being within 5 feet of an enemy doesn't impose [[Disadvantage]] on your ranged attack rolls with this weapon.
+**Mastery: Scatter.** Being within 5 feet of an enemy doesn't impose [[Disadvantage]] on your ranged [[attack rolls]] with this weapon.

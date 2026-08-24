@@ -1,4 +1,4 @@
-*Wand, Uncommon (Requires Attunement By a Spellcaster)*
+*Wand, Uncommon (Requires [[Attunement]] By a Spellcaster)*
 1 lb.
 - - - 
 

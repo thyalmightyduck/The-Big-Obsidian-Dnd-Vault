@@ -4,7 +4,7 @@
 500 GP, 3 lb.
 **Mastery:** Disarming
 
-_The [base item](https://5e.tools/items.html#%2b1%20acid%20fighting%20chain_grimhollowmg24) can be found in Grim Hollow: Monster Grimoire (2024), page 77._
+_The base item can be found in Grim Hollow: Monster Grimoire (2024), page 77._
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -20,6 +20,6 @@ Instead, the chains can be used to make a magic chain weapon [...]. Such a weap
 
 **Two-Handed.** A Two-Handed weapon requires two hands when you attack with it.
 
-**Mastery: Disarming.** A Disarming weapon can catch a foe's weapon, allowing you to remove it from their grasp. When you take the [[Attack]] action on your turn and hit with a Disarming weapon, you can use your [[Bonus Action]] later on the same turn to disarm the target. Both you and the attacker must make opposed attack rolls, ignoring any sources of [[Advantage]] and [[Disadvantage]]. If your result is higher and the weapon is something the target can drop, the weapon falls from the target's grasp, landing in its space.
+**Mastery: Disarming.** A Disarming weapon can catch a foe's weapon, allowing you to remove it from their grasp. When you take the [[Attack]] action on your turn and hit with a Disarming weapon, you can use your [[Bonus Action]] later on the same turn to disarm the target. Both you and the attacker must make opposed [[attack rolls]], ignoring any sources of [[Advantage]] and [[Disadvantage]]. If your result is higher and the weapon is something the target can drop, the weapon falls from the target's grasp, landing in its space.
 
 If your winning result on the opposed attack roll was a [[Critical Hit]], you can choose for the weapon either to land in a space of your choice up to 15 feet from the target, or to land in your hand if you have a free hand.
