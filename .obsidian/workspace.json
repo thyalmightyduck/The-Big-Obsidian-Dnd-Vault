@@ -85,14 +85,38 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf"
+                "file": "PDFs/RNG Sheets/Strig Warlock.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Wechlelkind Gunslinger 1"
+              "title": "Strig Warlock"
+            }
+          },
+          {
+            "id": "efce19457196d718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RNG Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RNG Notes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,8 +174,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,6 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RNG Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -365,11 +389,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f2a5ec8501d93817",
+  "active": "efce19457196d718",
   "lastOpenFiles": [
-    "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf",
-    "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
+    "RNG Notes.md",
+    "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
+    "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf",
     "7 Magic Items/Weapons/Repeating Gatling Gun.md",
     "7 Magic Items/Weapons/Repeating Flare Gun.md",
     "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
@@ -394,7 +419,6 @@
     "7 Magic Items/Weapons/+1 Weapons/+1 Catchpole.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Cannon.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Brass Knuckles.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Blunderbuss, Hand.md",
     "Pictures/Feats/Altered BGR PNG.png",
     "Pictures/Feats/Altered BGR PNG.png.opdownload",
     "Pictures/Mages of High Sorcery BGR PNG.png",
@@ -410,7 +434,6 @@
     "Pictures/Species/Worg BGR PNG.png",
     "Pictures/Species/Worg BGR PNG.png.opdownload",
     "Pictures/Items/Lantern BGR PNG.png",
-    "Pictures/Items/Lantern BGR PNG.png.opdownload",
     "Pictures/Items/Spell Scroll BGR PNG.png",
     "Pictures/Weapons/Rapier BGR PNG.png"
   ]
