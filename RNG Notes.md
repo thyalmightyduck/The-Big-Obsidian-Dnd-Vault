@@ -36,4 +36,5 @@
 1. +1 Acid Fighting Chain: Grim Hallow: Monster Grimoire (2024)
 2. Boots of Haste: Tal’Dorei Campaign Setting Reborn
 3. Mistwalker Armor: The Griffon’s Saddlebag, Book 2
-4. 
+4. Amethyst Lodestone: Fizban’s Treasury of Dragons
+5. 
