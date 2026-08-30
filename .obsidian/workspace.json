@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "Repeating Gatling Gun"
             }
+          },
+          {
+            "id": "5c3187c3a232ae95",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Wechlelkind Gunslinger 1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: war pick",
+                "query": "file: Erina (Spiritfarer)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,12 +142,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -330,7 +345,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 708.5
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,8 +365,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "63414200e872e5a4",
+  "active": "f2a5ec8501d93817",
   "lastOpenFiles": [
+    "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf",
+    "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
+    "PDFs/RNG Sheets/Strig Warlock.pdf",
+    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
     "7 Magic Items/Weapons/Repeating Flare Gun.md",
     "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
     "7 Magic Items/Weapons/Repeating Cannon.md",
@@ -376,8 +395,6 @@
     "7 Magic Items/Weapons/+1 Weapons/+1 Cannon.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Brass Knuckles.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Blunderbuss, Hand.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Blunderbuss.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Blowgun.md",
     "Pictures/Feats/Altered BGR PNG.png",
     "Pictures/Feats/Altered BGR PNG.png.opdownload",
     "Pictures/Mages of High Sorcery BGR PNG.png",
@@ -394,9 +411,7 @@
     "Pictures/Species/Worg BGR PNG.png.opdownload",
     "Pictures/Items/Lantern BGR PNG.png",
     "Pictures/Items/Lantern BGR PNG.png.opdownload",
-    "Rules/Items/Scrolls",
     "Pictures/Items/Spell Scroll BGR PNG.png",
-    "Pictures/Items/Spell Scroll BGR PNG.png.opdownload",
     "Pictures/Weapons/Rapier BGR PNG.png"
   ]
 }
