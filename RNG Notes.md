@@ -1,6 +1,6 @@
 # Player’s
 1. [ ] Jin
-	1. [ ] **Gnoll:** Exploring Eberron (2024)
+	1. **Gnoll:** Exploring Eberron (2024)
 		1. [ ] **Cleric:** Player’s Handbook (2024)
 			1. [ ] **Chef:** Player’s Handbook (2024)
 			2. [ ] **Jack of All Tools:** Heliana’s Guide to Monster Hunting
