@@ -33,3 +33,7 @@
 6. Experiment: The Crooked Moon (2024)
 7. Heretic: Grim Hallow: Player’s Guide (2024)
 # Magic Items
+1. +1 Acid Fighting Chain: Grim Hallow: Monster Grimoire (2024)
+2. Boots of Haste: Tal’Dorei Campaign Setting Reborn
+3. Mistwalker Armor: The Griffon’s Saddlebag, Book 2
+4. 
