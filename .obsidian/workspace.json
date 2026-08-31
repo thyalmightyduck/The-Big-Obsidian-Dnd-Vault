@@ -54,69 +54,9 @@
               "icon": "lucide-file",
               "title": "+1 Weapon"
             }
-          },
-          {
-            "id": "63414200e872e5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Repeating Gatling Gun"
-            }
-          },
-          {
-            "id": "5c3187c3a232ae95",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/RNG Sheets/Strig Warlock.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Strig Warlock"
-            }
-          },
-          {
-            "id": "efce19457196d718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RNG Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RNG Notes"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RNG Notes.md",
+                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -389,13 +329,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "efce19457196d718",
+  "active": "c217321c64179887",
   "lastOpenFiles": [
-    "PDFs/RNG Sheets/Strig Warlock.pdf",
+    "Rules/Weapons/Dagger.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Dagger.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+    "Rules/Weapons/Composite Shortbow.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Composite Shortbow.md",
+    "Rules/Weapons/Composite Longbow.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Composite Longbow.md",
+    "Rules/Weapons/Club.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Club.md",
+    "Rules/Weapons/Claymore.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Claymore.md",
+    "Rules/Weapons/Chakram.md",
+    "7 Magic Items/Weapons/+1 Weapons/+1 Chakram.md",
+    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
+    "0 Roadmap/Roadmap.md",
     "RNG Notes.md",
+    "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf",
-    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
     "7 Magic Items/Weapons/Repeating Flare Gun.md",
     "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
     "7 Magic Items/Weapons/Repeating Cannon.md",
@@ -406,19 +360,6 @@
     "7 Magic Items/Weapons/Hook Chain.md",
     "7 Magic Items/Weapons/Handheld Ballista.md",
     "7 Magic Items/Weapons/Flame Tongue.md",
-    "7 Magic Items/Weapons/Dazzling Weapon.md",
-    "7 Magic Items/Weapons/Dagger of Venom.md",
-    "7 Magic Items/Weapons/Chromatic Quiver.md",
-    "7 Magic Items/Weapons/Bloodrage Greataxe.md",
-    "7 Magic Items/Weapons/Armblade (Trident).md",
-    "7 Magic Items/Weapons/+1 Weapons/+2 Weapon.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Pick.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Hammer.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Flail.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Catchpole.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cannon.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Brass Knuckles.md",
     "Pictures/Feats/Altered BGR PNG.png",
     "Pictures/Feats/Altered BGR PNG.png.opdownload",
     "Pictures/Mages of High Sorcery BGR PNG.png",
