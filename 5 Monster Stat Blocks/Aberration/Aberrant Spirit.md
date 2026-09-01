@@ -1,5 +1,5 @@
 ---
-ArmorClass: "11"
+ArmorClass: 11
 ---
 # Aberrant Spirit
 ## Tasha’s Cauldron of Everything:
