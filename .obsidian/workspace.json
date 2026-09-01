@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "+1 Weapon"
             }
+          },
+          {
+            "id": "f4bb5648e90d2a1c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -329,10 +338,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c217321c64179887",
+  "active": "f4bb5648e90d2a1c",
   "lastOpenFiles": [
-    "0 Roadmap/Roadmap.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
+    "0 Roadmap/Roadmap.md",
     "Rules/Weapons/Dagger.md",
     "7 Magic Items/Weapons/+1 Weapons/+1 Dagger.md",
     "Rules/Weapons/Composite Shortbow.md",
