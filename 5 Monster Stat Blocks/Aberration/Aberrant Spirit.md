@@ -1,3 +1,6 @@
+---
+ArmorClass: "11"
+---
 # Aberrant Spirit
 ## Tasha’s Cauldron of Everything:
 ```statblock

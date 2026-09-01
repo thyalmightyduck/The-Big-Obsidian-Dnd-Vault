@@ -59,10 +59,24 @@
             "id": "f4bb5648e90d2a1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aberrant Spirit"
             }
           }
         ],
@@ -100,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Erina (Spiritfarer)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -163,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -205,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
+                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -312,13 +327,25 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "37966f4f19f95679",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,7 +365,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f4bb5648e90d2a1c",
+  "active": "37966f4f19f95679",
   "lastOpenFiles": [
     "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
     "0 Roadmap/Roadmap.md",

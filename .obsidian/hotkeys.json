@@ -44,5 +44,14 @@
       "key": "C"
     }
   ],
-  "file-explorer:new-file": []
+  "file-explorer:new-file": [],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
 }
