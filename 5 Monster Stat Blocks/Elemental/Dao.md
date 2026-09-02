@@ -1,5 +1,24 @@
+---
+tags:
+  - Monster
+  - Elemental
+  - MM25
+ArmorClass: 18
+HitPoints: "200"
+Speed:
+  - Walking 30ft
+  - Burrow 30ft
+  - Fly 30ft (Hover)
+Saves:
+  - DEX
+  - WIS
+ConditionImmunities:
+  - Petrified
+Languages:
+  - Primordial (Terran)
+---
 # Dao
-## Monster Manual (2025):
+## Monster Manual 2025 (MM25):
 ```statblock
 layout: Basic 5e Layout
 image: [[Dao BGR PNG.png]]
@@ -41,3 +60,15 @@ actions:
   - name: "Earth Burst."
     desc: "_Ranged Attack Roll:_ +10, range 120 ft. _Hit:_ 15 (2d8 + 6) Bludgeoning damage. _Hit or Miss:_ Earth explodes from the target's space, creating the following effect. _Dexterity Saving Throw:_ DC 16, each creature in a 10-foot [[Emanation]] originating from and including the target. _Failure:_ 10 (3d6) Thunder damage."    
 ```
+Genie of the Earth
+
+**Habitat:** Planar (Elemental Plane of Earth), Underdark  
+**Treasure:** Implements  
+
+Genies of minerals and gemstones, dao embody the resolve of rock. Using innate magic, they move through the earth unimpeded, exploring depths inaccessible to most. Dao delight in the treasures of the earth, whether raw gemstones, jewelry crafted from pure metals, or wondrous fossils. In exchange for such treasures, dao might reveal underground mysteries, such as paths through the Underdark, buried ruins, or whole subterranean realms.
+
+Many dao call the Elemental Plane of Earth home. There, they create cities that glitter with treasure. Among these realms is the labyrinthine expanse called the Great Dismal Delve or the Sevenfold Mazework, which protects the City of Jewels, the Iron Crucible, and the Strait of Magnets.
+
+“_On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting._”
+
+— *Gundren Rockseeker, Dwarf Treasure Hunter*

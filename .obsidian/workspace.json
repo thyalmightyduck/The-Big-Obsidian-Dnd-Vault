@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Elemental/Auril (Second Form).md",
+                "file": "5 Monster Stat Blocks/Elemental/Efreeti.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Auril (Second Form)"
+              "title": "Efreeti"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Roadmap/Roadmap.md"
+                "file": "5 Monster Stat Blocks/Elemental/Efreeti.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -364,9 +365,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "f4bb5648e90d2a1c",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Elemental/Djinni.md",
+    "5 Monster Stat Blocks/Elemental/Delerium Elemental.md",
+    "5 Monster Stat Blocks/Elemental/Dao.md",
+    "5 Monster Stat Blocks/Elemental/Auril (Third Form).md",
     "5 Monster Stat Blocks/Elemental/Auril (Second Form).md",
+    "0 Roadmap/Roadmap.md",
     "5 Monster Stat Blocks/Dragon/Young Brass Dragon.md",
     "5 Monster Stat Blocks/Dragon/Drake Companion.md",
     "5 Monster Stat Blocks/Dragon/Draconic Spirit.md",
@@ -375,7 +381,6 @@
     "Rules/Core Rules/Vulnerability.md",
     "Rules/Conditions/Distracted.md",
     "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
-    "0 Roadmap/Roadmap.md",
     "5 Monster Stat Blocks/Dragon/Amethyst Dragon Wyrmling.md",
     "5 Monster Stat Blocks/Construct/Ushabti Royal Guard.md",
     "5 Monster Stat Blocks/Construct/Steel Defender.md",
@@ -388,10 +393,6 @@
     "5 Monster Stat Blocks/Beast/Vampster Swarm.md",
     "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
     "5 Monster Stat Blocks/Beast/Swarm of Ravens.md",
-    "5 Monster Stat Blocks/Beast/Riding Horse.md",
-    "5 Monster Stat Blocks/Beast/Rat.md",
-    "5 Monster Stat Blocks/Beast/Primal Striker.md",
-    "5 Monster Stat Blocks/Beast/Primal Guardian.md",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",

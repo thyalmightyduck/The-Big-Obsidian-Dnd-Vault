@@ -1,5 +1,12 @@
+---
+tags:
+  - Monster
+  - Elemental
+  - MM25
+ArmorClass:
+---
 # Efreeti
-## Monster Manual (2025):
+## Monster Manual 2025 (MM25):
 ```statblock
 layout: Basic 5e Layout
 image: [[Efreeti GBR PNG.png]]

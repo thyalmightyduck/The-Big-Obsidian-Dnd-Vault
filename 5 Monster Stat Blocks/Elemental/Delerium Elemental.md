@@ -1,4 +1,29 @@
-# Statblock
+---
+tags:
+  - Monster
+  - Elemental
+  - SCGTD
+  - Summon
+ArmorClass: 12
+HitPoints: "60"
+Speed:
+  - Walking 40ft
+  - Burrow 40ft (Walking Geode Only)
+  - Fly 60ft (Living Haze Only)
+  - Swim 40ft (Animated Sludge Only)
+DMGResistances:
+  - Necrotic
+  - Poison
+ConditionImmunities:
+  - Contamination
+  - Exhaustion
+  - Paralyzed
+  - Petrified
+  - Poisoned
+  - Unconscious
+---
+# Delerium Elemental
+## Sebastian Crowe’s Guide to Drakkenheim (SCGTD):
 
 ```statblock
 layout: Basic 5e Layout

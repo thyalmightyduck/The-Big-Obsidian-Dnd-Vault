@@ -1,5 +1,24 @@
+---
+tags:
+  - Monster
+  - Elemental
+  - MM25
+ArmorClass: 17
+HitPoints: "218"
+Speed:
+  - Walking 30ft
+  - Fly 90ft (Hover)
+Saves:
+  - DEX
+  - WIS
+DMGImmunities:
+  - Lightning
+  - Thunder
+Languages:
+  - Primordial (Auran)
+---
 # Djinni
-## Monster Manual (2025):
+## Monster Manual 2025 (MM25):
 ```statblock
 layout: Basic 5e Layout
 image: [[Djinni BGR PNG.png]]
