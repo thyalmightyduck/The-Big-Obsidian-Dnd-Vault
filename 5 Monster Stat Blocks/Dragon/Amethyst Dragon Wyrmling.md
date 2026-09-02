@@ -1,68 +1,67 @@
+---
+tags:
+  - Monster
+  - Dragon
+  - FTD
+ArmorClass: 17
+HitPoints: "75"
+Speed:
+  - Walking 30ft
+  - Fly 60ft (Hover)
+  - Swim 30ft
+Saves:
+  - DEX
+  - CON
+  - WIS
+  - CHA
+DMGResistances:
+  - Force
+  - Psychic
+ConditionImmunities:
+  - Frightened
+  - Prone
+Languages:
+  - Draconic
+  - Telepathy 120ft
+---
 # Amethyst Dragon Wyrmling
+## Fizban's Treasury of Dragons (FTD):
 
-> [!infobox]
-> # Amethyst Dragon Wyrmling
-> ![[Amethyst Dragon Wyrmling.png|cover hsmall]]
-> ###### Main Info
-> | Medium [[Dragon]] (Gem) | Typically Neutral |
-> | ---- | ---- |
-> | AC | 17 (Natural Amor) |
-> | HP | 75 (10d8+30) |
-> | Speed |  30 Ft., Fly 60 Ft. (Hover), Swim 30 Ft. |
-> | [[Initiative]] | +0 (10) |
-> | [[Challenge Rating]] | 4 (1,100 XP) | 
-> | [[Proficiency Bonus]] | +2 |
-> ###### Core Stats
-> | Stat | Score | Mod | Save |
-> | ---- | ---- | ---- | ---- |
-> | Strength | 19 | +4 | +4 |
-> | Dexterity | 10 | +0 | +2 |
-> | Constitution | 17 | +3 | +5 |
-> | Intelligence | 16 | +3 | +3 |
-> | Wisdom | 13 | +1 | +3 |
-> | Charisma | 17 | +3 | +5 |
-> ##### Senses
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Darkvision]] | 120 Ft. |
-> | [[Blindsight]] | 10 Ft. |
-> | [[Passive Perception]] | 15 |
-> | Passive Insight | 11 |
-> | Passive Stealth | 12 |
-> ###### Proficiencies
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Arcana]] | +7 |
-> | [[Perception]] | +5 |
-> | [[Persuasion]] | +5 |
-> | [[Stealth]] | +2 | 
-> | DEX Save | +2 |
-> | CON Save | +5 |
-> | WIS Save | +3 |
-> | CHA Save | +5 | 
-> | Languages | Draconic |
-> | Languages | Telepathy 120 Ft. |
-> ###### Defenses And Conditions
-> | Type | Stat |
-> | ---- | ---- |
-> | Force | [[Resistance (Damage)]] |
-> | Psychic | [[Resistance (Damage)]] |
-> | [[Prone]] | Immune |
-> | [[Frightened]] | Immune |
-> ###### Description
-> Amethyst dragons, the mightiest of the gem dragons, study and psionically manipulate the fundamental principles of the multiverse, from the force of gravity to the emanations of the Outer Planes. 
-# **<u>Traits</u>**  
-**Amphibious** The dragon can breathe both air and water.
-
-# <u>Actions</u> 
-
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 4 (1d8) force damage.
-
-**Singularity Breath (Recharge 5–6)** The dragon creates a shining bead of gravitational force in its mouth, then releases the energy in a 15-foot cone. Each creature in that area must make a DC 13 Strength saving throw. On a failed save, the creature takes 22 (5d8) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, the creature takes half as much damage, and its speed isn't reduced.
-
-**Spellcasting (Psionics).** The dragon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):
-- 1/day each: [[Protection From Evil And Good]], [[Tensers Floating Disk]], [[Unseen Servant]]
-
+```statblock
+layout: Basic 5e Layout
+image: [[Amethyst Dragon Wyrmling.png]]
+name: Amethyst Dragon Wyrmling
+size: Medium
+type: [[Dragon]]
+subtype: 
+alignment: Typically Neutral
+ac: 17 (Natrual Armor)
+hp: 75
+hit_dice: 10d8+30
+speed: 30 ft., Fly 60 ft. (hover), Swim 30 ft.
+stats: [19, 10, 17, 16, 13, 17]
+saves: 
+  - Dexterity: +3
+  - Constitution: +5
+  - Wisdom: +3
+  - Charisma: +5   
+damage_resistances: Force, Psychic
+condition_immunities: [[Frightened]], [[Prone]]
+senses: [[Darkvision]] 120Ft., [[Blindsight]] 10Ft., [[Passive Perception]] 15
+languages: [[Draconic]], [[Telepathy (Languages)]] 120 Ft.
+cr: 4
+spells:
+  - The dragon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):
+  - 1/Day Each: [[Protection From Evil And Good]], [[Tenser's Floating Disk]], [[Unseen Servant]]
+traits:
+  - name: Amphibious
+    desc: The dragon can breathe both air and water.  
+actions:
+  - name: "Bite"
+    desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 4 (1d8) force damage."
+  - name: "Singularity Breath (Recharge 5–6)"
+    desc: "The dragon creates a shining bead of gravitational force in its mouth, then releases the energy in a 15-foot cone. Each creature in that area must make a DC 13 Strength saving throw. On a failed save, the creature takes 22 (5d8) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, the creature takes half as much damage, and its speed isn't reduced."  
+```
 # **Lore**
 Amethyst dragons, the mightiest of the gem dragons, study and psionically manipulate the fundamental principles of the multiverse, from the force of gravity to the emanations of the Outer Planes. Their innate psionics give them a measure of control over how physical laws affect them. They defy gravity with flight that doesn't rely solely upon their great wings, and gravitational force empowers both their devastating breath weapon and the exploding amethyst crystals they spit at their foes.
 
@@ -137,42 +136,3 @@ Amethyst dragons are generally aloof creatures, dwelling in isolation for long p
 | 5   | A cloister of flumphs protects an amethyst dragon wyrmling while feeding on the wyrmling's excess psionic energy.    |
 | 6   | A circle of druids looks after an amethyst dragon wyrmling lairing in the circle's mountain tarn.                    |
 
-
-**Source:** Fizban's Treasury of Dragons
-# 5e Statblock
-
-```statblock
-layout: Basic 5e Layout
-image: [[Amethyst Dragon Wyrmling.png]]
-name: Amethyst Dragon Wyrmling
-size: Medium
-type: [[Dragon]]
-subtype: 
-alignment: Typically Neutral
-ac: 17 (Natrual Armor)
-hp: 75
-hit_dice: 10d8+30
-speed: 30 ft., Fly 60 ft. (hover), Swim 30 ft.
-stats: [19, 10, 17, 16, 13, 17]
-saves: 
-  - Dexterity: +3
-  - Constitution: +5
-  - Wisdom: +3
-  - Charisma: +5   
-damage_resistances: Force, Psychic
-condition_immunities: [[Frightened]], [[Prone]]
-senses: [[Darkvision]] 120Ft., [[Blindsight]] 10Ft., [[Passive Perception]] 15
-languages: [[Draconic]], [[Telepathy (Languages)]] 120 Ft.
-cr: 4
-spells:
-  - The dragon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):
-  - 1/Day Each: [[Protection From Evil And Good]], [[Tenser's Floating Disk]], [[Unseen Servant]]
-traits:
-  - name: Amphibious
-    desc: The dragon can breathe both air and water.  
-actions:
-  - name: "Bite"
-    desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 4 (1d8) force damage."
-  - name: "Singularity Breath (Recharge 5–6)"
-    desc: "The dragon creates a shining bead of gravitational force in its mouth, then releases the energy in a 15-foot cone. Each creature in that area must make a DC 13 Strength saving throw. On a failed save, the creature takes 22 (5d8) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, the creature takes half as much damage, and its speed isn't reduced."  
-```

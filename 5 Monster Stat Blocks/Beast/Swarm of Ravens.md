@@ -1,4 +1,29 @@
-# Swarm Of Ravens
+---
+tags:
+  - Monster
+  - Beast
+  - MM25
+ArmorClass: 12
+HitPoints: "11"
+Speed:
+  - Walking 10ft
+  - Fly 50ft
+DMGResistances:
+  - Bludgeoning
+  - Piercing
+  - Slashing
+ConditionImmunities:
+  - Charmed
+  - Frightened
+  - Grappled
+  - Paralyzed
+  - Petrified
+  - Prone
+  - Restrainded
+  - Stunned
+---
+# Swarm Of Ravens:
+## Monster Manuel 2025 (MM25):
 ```statblock
 layout: Basic 5e Layout
 image: [[Swarm of Ravens BGR PNG.png]]
@@ -9,7 +34,7 @@ subtype:
 alignment: Unaligned
 ac: 12
 hp: 11
-hit_dice: 2d8=2
+hit_dice: 2d8+2
 speed: 10 Ft., Fly 50 Ft. 
 stats: [6, 14, 12, 5, 12, 6]
 damage_resistances: Bludgeoning, Piercing, Slashing
@@ -25,3 +50,6 @@ actions:
   - name: "Cacophony (Recharge 6)."
     desc: "_Wisdom Saving Throw:_ DC 10, one creature in the swarm's space. _Failure:_ The target has the [[Deafened]] condition until the start of the swarm's next turn. While [[Deafened]], the target also has [[Disadvantage]] on ability checks and attack rolls."
 ```
+# Info:
+### Animals
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther]] stat block can also represent a mountain lion, while the [[Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.

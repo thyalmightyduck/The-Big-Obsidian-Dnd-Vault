@@ -1,5 +1,18 @@
+---
+tags:
+  - Monster
+  - Beast
+  - Summon
+  - GHPG24
+ArmorClass: 12
+HitPoints: "6"
+Speed:
+  - Walking 30ft
+  - Fly 40ft (Sky Only)
+  - Swim 40ft (Sea Only)
+---
 # Primal Guardian
-## Grim Hallow” Player’s Guide (2024):
+## Grim Hallow” Player’s Guide 2024 (GHPG24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Primal Guardian BGR PNG.png]]

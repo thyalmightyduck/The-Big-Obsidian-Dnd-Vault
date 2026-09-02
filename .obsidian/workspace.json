@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+                "file": "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aberrant Spirit"
+              "title": "Ancient White Dragon"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: resistance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
+                "file": "0 Roadmap/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+                "file": "0 Roadmap/Roadmap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -201,6 +200,18 @@
             }
           },
           {
+            "id": "37966f4f19f95679",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0 Roadmap/Roadmap.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
             "id": "9b034b91f9ee4629",
             "type": "leaf",
             "state": {
@@ -220,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+                "file": "0 Roadmap/Roadmap.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -327,25 +338,13 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "37966f4f19f95679",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties"
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -365,37 +364,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "37966f4f19f95679",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
-    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
-    "0 Roadmap/Roadmap.md",
-    "Rules/Weapons/Dagger.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Dagger.md",
-    "Rules/Weapons/Composite Shortbow.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Composite Shortbow.md",
-    "Rules/Weapons/Composite Longbow.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Composite Longbow.md",
-    "Rules/Weapons/Club.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Club.md",
-    "Rules/Weapons/Claymore.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Claymore.md",
-    "Rules/Weapons/Chakram.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Chakram.md",
-    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
-    "RNG Notes.md",
+    "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
+    "5 Monster Stat Blocks/Dragon/Amethyst Dragon Wyrmling.md",
+    "5 Monster Stat Blocks/Construct/Ushabti Royal Guard.md",
+    "5 Monster Stat Blocks/Construct/Steel Defender.md",
+    "5 Monster Stat Blocks/Construct/Dancing Item.md",
+    "5 Monster Stat Blocks/Construct/Corpsewrought Creature.md",
+    "5 Monster Stat Blocks/Construct/Construct Spirit.md",
+    "5 Monster Stat Blocks/Construct/Animated Object.md",
+    "5 Monster Stat Blocks/Celestial/Celestial Spirit.md",
+    "5 Monster Stat Blocks/Beast/Warhorse.md",
+    "5 Monster Stat Blocks/Beast/Vampster Swarm.md",
+    "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
+    "5 Monster Stat Blocks/Beast/Swarm of Ravens.md",
+    "5 Monster Stat Blocks/Beast/Riding Horse.md",
+    "5 Monster Stat Blocks/Beast/Rat.md",
+    "5 Monster Stat Blocks/Beast/Primal Striker.md",
+    "5 Monster Stat Blocks/Beast/Primal Guardian.md",
+    "5 Monster Stat Blocks/Beast/Hound.md",
+    "5 Monster Stat Blocks/Beast/Giant Rat.md",
+    "5 Monster Stat Blocks/Beast/Giant Insect Monster.md",
+    "5 Monster Stat Blocks/Beast/Blooderfly.md",
+    "5 Monster Stat Blocks/Beast/Bestial Spirit.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Sky.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Sea.md",
+    "5 Monster Stat Blocks/Beast/Beast of the Land.md",
+    "5 Monster Stat Blocks/Aberration/Star Warden.md",
+    "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf",
-    "7 Magic Items/Weapons/Repeating Flare Gun.md",
-    "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
-    "7 Magic Items/Weapons/Repeating Cannon.md",
-    "7 Magic Items/Weapons/Repeating Blunderbuss.md",
-    "7 Magic Items/Weapons/Repeating Blowgun.md",
-    "7 Magic Items/Weapons/Repeating Assault Rifle.md",
-    "7 Magic Items/Weapons/Lapsing Arrow.md",
-    "7 Magic Items/Weapons/Hook Chain.md",
-    "7 Magic Items/Weapons/Handheld Ballista.md",
-    "7 Magic Items/Weapons/Flame Tongue.md",
     "Pictures/Feats/Altered BGR PNG.png",
     "Pictures/Feats/Altered BGR PNG.png.opdownload",
     "Pictures/Mages of High Sorcery BGR PNG.png",
@@ -411,7 +411,6 @@
     "Pictures/Species/Worg BGR PNG.png",
     "Pictures/Species/Worg BGR PNG.png.opdownload",
     "Pictures/Items/Lantern BGR PNG.png",
-    "Pictures/Items/Spell Scroll BGR PNG.png",
-    "Pictures/Weapons/Rapier BGR PNG.png"
+    "Pictures/Items/Spell Scroll BGR PNG.png"
   ]
 }

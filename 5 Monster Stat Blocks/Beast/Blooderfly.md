@@ -1,3 +1,14 @@
+---
+tags:
+  - Monster
+  - Beast
+  - Homebrew
+ArmorClass: 14
+HitPoints: "126"
+Speed:
+  - Walking 30ft
+  - Fly 60ft
+---
 # Blooderfly
 
 ```statblock

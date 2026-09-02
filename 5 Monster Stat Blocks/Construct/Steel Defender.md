@@ -1,5 +1,25 @@
-
-# 5e Statblock
+---
+tags:
+  - Monster
+  - Construct
+  - TCE
+  - Summon
+ArmorClass: 15
+HitPoints: "2"
+Speed:
+  - Walking 40ft
+Saves:
+  - DEX
+Skills:
+  - Athletics
+  - Perception
+ConditionImmunities:
+  - Charmed
+  - Exhaustion
+  - Poisoned
+---
+# Steel Defender:
+## Tasha’s Cauldron of Everything (TCE):
 
 ```statblock
 layout: Basic 5e Layout
@@ -10,8 +30,7 @@ type: [[Construct]]
 subtype: 
 alignment: 
 ac: 15 (Natural Armor)
-hp: 
-hit_dice:
+hp: 2
 speed: 40ft
 stats: [14, 12, 14, 4, 10, 6]
 fage_stats: 

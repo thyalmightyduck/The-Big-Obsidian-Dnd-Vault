@@ -1,5 +1,23 @@
-# Hound
-## The Pugilist Class (2024)
+---
+tags:
+  - Monster
+  - Beast
+  - Summon
+  - TPC24
+ArmorClass: 12
+HitPoints: "5"
+Speed:
+  - Walking 40ft
+Saves:
+  - STR
+  - DEX
+  - CON
+  - INT
+  - WIS
+  - CHA
+---
+# Hound:
+## The Pugilist Class 2024 (TPC24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Hound BGR PNG.png]]

@@ -1,4 +1,24 @@
-# Dancing Item
+---
+tags:
+  - Monster
+  - Construct
+  - TCE
+ArmorClass: 16
+HitPoints: "10"
+Speed:
+  - Walking 30ft
+  - Fly 30ft (Hover)
+DMGImmunities:
+  - Poison
+  - Psychic
+ConditionImmunities:
+  - Charmed
+  - Exhaustion
+  - Frightened
+  - Poisoned
+---
+# Dancing Item:
+## Tasha’s Cauldron of Everything (TCE):
 
 ```statblock
 layout: Basic 5e Layout

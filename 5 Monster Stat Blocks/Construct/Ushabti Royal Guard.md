@@ -1,70 +1,32 @@
-# Ushabti Royal Guard
-
-> [!infobox]
-> # Ushabti Royal Guard
-> ![[|cover hsmall]]
-> ###### Main Info
-> | Large [[Construct]] | Unaligned |
-> | ---- | ---- |
-> | AC | 19 (Natural Armor) |
-> | HP | 168 (16d10+80) |
-> | Speed |  30ft. |
-> | [[Initiative]] | +3 |
-> | [[Challenge Rating]] | 14 (11,500 XP) | 
-> | [[Proficiency Bonus]] | +5 |
-> ###### Core Stats
-> | Stat | Score | Mod | Save |
-> | ---- | ---- | ---- | ---- |
-> | Strength | 22 | +6 | +6 |
-> | Dexterity | 16 | +3 | +3 |
-> | Constitution | 20 | +5 | +5 |
-> | Intelligence | 11 | +00 | +00 |
-> | Wisdom | 19 | +4 | +9 |
-> | Charisma | 9 | -1 | +4 |
-> ##### Senses
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Darkvision]] | 60 Ft. |
-> | [[Passive Perception]] | 19 |
-> | Passive Insight | 14 |
-> | Passive Stealth | 13 |
-> ###### Proficiencies
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Arcana]] | +5 |
-> | [[History]] | +5 |
-> | [[Perception]] | +9 |
-> | Wisdom Save | +9 |
-> | Charisma Save | +4 | 
-> ###### Defenses And Conditions
-> | Type | Stat |
-> | ---- | ---- |
-> | Necrotic | Immune |
-> | Poison | Immune |
-> | [[Exhaustion]] | Immune |
-> | [[Frightened]] | Immune |
-> | [[Poisoned]] | Immune |
-> ###### Description
-> The description goes here
-# **<u>Traits</u>**  
-**Multiply Heads.** This Sock Hydra Begins Within 3 Heads. When It Takes 5 Or More Damage From A Single Attack, One Sock Head May Be Destroyed. At The start Of Its Next Turn, Two New Mismatched Sock Heads Sprout Unless Fire Damage Was Dealt. It Can Have Up To 7 Heads At Once.
-
-**Static Cling.** Any Creature That Touches Or Grapples The Hydra Takes 1 Lightning Damage As Socks Crackle With Static Electricity.
-
-**Missing Laundry.** Once Per Day, The Sock Hydra Can Teleport Up To 10 Feet To Any Container Of Clothing Can See.
-# <u>Actions</u> 
-
-**Sock Bite.** *Melee Weapon Attack:* +3 To Hit Reach 5ft, One Target *Hit* 3 (1d4+1) Bludgeoning Damage. The Hydra Makes One Attack Per Active Head.
-
-**Static Snap (Recharge 6 Rounds** The Sock Hydra Unleashes A Burst Of Static Electricity. Each Creature Within 10ft Must Succeed On A DC11 CON Save or Take 5 (2d4) Lightning Damage And Drop Any Metal Objects They Are Holding.
-
-# **<u>Lore</u>** 
-The Sock Hydra Is A Ridiculous Yet Strangely Terrifying Creature Said To Lurk In The Folds Of Reality Between Ward-Robes And Washing Machines. Each Of Its Heads Is A Miss-Matched Sock, Writhing And Snapping With Static Electricity Adventurers Who Face It Quickly Learn Its Cursed Truth; Every Time A Sock-Head Is Destroyed, Two More Sprout In Its Place-Always In Mismatched Pairs. Scholars Argue Endlessly Whether The Sock Hydra Is A Magical Accident, A Fey Prank Or Simply Where All The World's Missing Sock Eventually Gather.
-
-**Habitat:** Urban
-**Treasure:** 
-**Source:** feywild_frames TikTok
-# 5e Statblock
+---
+tags:
+  - Monster
+  - Construct
+  - TOB123
+ArmorClass: 19
+HitPoints: "168"
+Speed:
+  - Walking 30ft
+Saves:
+  - WIS
+  - CHA
+DMGResistances:
+  - Bludgeoning
+  - Piercing
+  - Slashing
+DMGImmunities:
+  - Poison
+  - Psychic
+ConditionImmunities:
+  - Charmed
+  - Exhaustion
+  - Frightened
+  - Paralyzed
+  - Petrified
+  - Poisoned
+---
+# Ushabti Royal Guard:
+## Tome of Beasts 1 2023 Edition (TOB123):
 
 ```statblock
 layout: Basic 5e Layout
@@ -128,3 +90,16 @@ legendary_actions:
   
 ```
 
+# Info
+_The eye sockets of the funerary figure's ornate death mask suddenly ignite with a golden radiance. With the creak of long-unused limbs, this towering figure in ancient armor raises its weapons once more._Ushabtis are placed in tombs as servants in the afterlife for those buried there—as both a laborer in the kingdom of the dead and a guardian in the kingdom of the living. These sentinels tend to the physical work and maintenance required after death that is beyond the abilities of those of flesh and blood. Dressed in ceremonial regalia, they are sometimes mistaken for living beings by those who would intrude upon their domain, but careful examination reveals faintly glowing hieroglyphs graven into their garments and bodies.
+
+**Tomb Guardians.** Ushabtis are most commonly encountered as guardians—a function they fulfill effectively, fiercely attacking anything that threatens their sworn charge. An ushabti is sometimes obvious from the blood of its victims staining its form. Some ceaselessly babble ancient scriptures or invocations to the gods of death. Tombs are often littered with bones of tomb robbers an ushabti has dispatched.
+
+**Serene Repose.** Most ushabtis have human faces and proportions, with features resembling a death mask. When at rest, they stand or lie with arms folded across their chests, clutching their ceremonial weapons. Many variations have been found, however, including some that are animal-headed, completely monstrous, or have abstract or fanciful designs, such as a sun-sphere head or a body made of papyrus scrolls.
+
+**Sacrificial Corruptions.** Some dark practitioners use sacrifices—willing or not—as undying servants of their godkings and god-queens. Generals, trusted advisors, and close allies have willingly accompanied their dying lords into the afterlife through this horrifying transformation. The sacrifices are tightly bound in linens and sealed within a sarcophagus among a swarm of flesh-eating scarabs that, over a period of days to weeks, fully consume their bodies. The servant's devotion to their task and the anguish of their passing transforms the scarab colony and animates the funerary wrappings to carry on with the sacred duty. Most view this as a corruption of the process for creating ushabtis, reducing the time and cost of construction with blood and resulting in a weaker, uncontrollable guardian. Though a corrupted ushabti fulfills its duties to protect its dead charges, it views living creatures as meals for the scarab colony within its wrappings, regardless of that creature's identity.
+
+#### Ushabti in Midgard
+In Midgard, ushabtis are common in the Southlands as funerary figures. Originally gifted to his faithful by the wise god Eshu—whether this was truly as a gift or as trickery depends on the scholar telling the tale—these constructs gained near universal usage among the priests of other faiths. In Nuria Natal, they take on many more utilitarian roles for the living, not being confined to merely serving the dead, such as by protecting travelers and offerings at roadside shrines and as bodyguards and servants for the living god‑kings and other important figures.
+
+Of note, a corrupted ushabti is viewed with some esteem in Nuria Natal, assuming the sacrifice was willing. These ushabti are sometimes called imy-ut ushabtis.
