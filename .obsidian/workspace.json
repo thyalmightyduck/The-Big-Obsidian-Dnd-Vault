@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
+                "file": "5 Monster Stat Blocks/Elemental/Auril (Second Form).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ancient White Dragon"
+              "title": "Auril (Second Form)"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: resistance",
+                "query": "file: vul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -366,7 +366,16 @@
   },
   "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Elemental/Auril (Second Form).md",
+    "5 Monster Stat Blocks/Dragon/Young Brass Dragon.md",
+    "5 Monster Stat Blocks/Dragon/Drake Companion.md",
+    "5 Monster Stat Blocks/Dragon/Draconic Spirit.md",
+    "5 Monster Stat Blocks/Dragon/Delerium Dragon Wyrmling.md",
+    "Random Generators/Arcane Anomaly.md",
+    "Rules/Core Rules/Vulnerability.md",
+    "Rules/Conditions/Distracted.md",
     "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
+    "0 Roadmap/Roadmap.md",
     "5 Monster Stat Blocks/Dragon/Amethyst Dragon Wyrmling.md",
     "5 Monster Stat Blocks/Construct/Ushabti Royal Guard.md",
     "5 Monster Stat Blocks/Construct/Steel Defender.md",
@@ -383,15 +392,6 @@
     "5 Monster Stat Blocks/Beast/Rat.md",
     "5 Monster Stat Blocks/Beast/Primal Striker.md",
     "5 Monster Stat Blocks/Beast/Primal Guardian.md",
-    "5 Monster Stat Blocks/Beast/Hound.md",
-    "5 Monster Stat Blocks/Beast/Giant Rat.md",
-    "5 Monster Stat Blocks/Beast/Giant Insect Monster.md",
-    "5 Monster Stat Blocks/Beast/Blooderfly.md",
-    "5 Monster Stat Blocks/Beast/Bestial Spirit.md",
-    "5 Monster Stat Blocks/Beast/Beast of the Sky.md",
-    "5 Monster Stat Blocks/Beast/Beast of the Sea.md",
-    "5 Monster Stat Blocks/Beast/Beast of the Land.md",
-    "5 Monster Stat Blocks/Aberration/Star Warden.md",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",

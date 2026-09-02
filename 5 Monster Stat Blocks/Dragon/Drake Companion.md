@@ -1,5 +1,21 @@
+---
+tags:
+  - Monster
+  - Dragon
+  - Summon
+  - FTD
+ArmorClass: 14
+HitPoints: "5"
+Speed:
+  - Walking 40ft
+Saves:
+  - DEX
+  - WIS
+Languages:
+  - Draconic
+---
 # Drake Companion
-## Fizban’s Treasury of Dragons
+## Fizban’s Treasury of Dragons (FTD):
 ```statblock
 layout: Basic 5e Layout
 image: [[Drake Companion BGR PNG.png]]

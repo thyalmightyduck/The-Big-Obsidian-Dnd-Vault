@@ -1,3 +1,27 @@
+---
+tags:
+  - Monster
+  - Dragon
+  - MM25
+ArmorClass: 20
+HitPoints: "333"
+Speed:
+  - Walking 40ft
+  - Burrow 40ft
+  - Fly 80ft
+  - Swim 40ft
+Saves:
+  - DEX
+  - WIS
+Skills:
+  - Perception
+  - Stealth
+DMGImmunities:
+  - Cold
+Languages:
+  - Common
+  - Draconic
+---
 # Ancient White Dragon
 ## Monster Manual (2025):
 ```statblock

@@ -1,5 +1,29 @@
+---
+tags:
+  - Monster
+  - Dragon
+  - PHB24
+ArmorClass: 14
+HitPoints: "50"
+Speed:
+  - Walking 30ft
+  - Fly 60ft
+  - Swim 30ft
+DMGResistances:
+  - Acid
+  - Cold
+  - Fire
+  - Lightning
+  - Poison
+ConditionImmunities:
+  - Charmed
+  - Frightened
+  - Poisoned
+Languages:
+  - Draconic
+---
 # Draconic Spirit
-## Player’s Handbook (2024)
+## Player’s Handbook 2024 (PHB24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Draconic Spirit BGRP NG.png]]
