@@ -1,73 +1,20 @@
+---
+tags:
+  - Monster
+  - Humanoid
+  - POTA
+ArmorClass: 12
+HitPoints: "105"
+Speed:
+  - Walking 30ft
+DMGImmunities:
+  - Fire
+Languages:
+  - Common
+  - Ignan
+---
 # Flamewrath
-Medium [[Humanoid]] ([[Human]]), Chaotic Evil
-**AC:** 12 (15 With Mage Armor) 
-**HP:** 105 (14d8+42)
-**Speed:** 30ft
-**[[Initiative]]:** +2 (12)
-
-> [!infobox]
-> # Flamewrath
-> ![[Flamewrath BGR PNG.png|cover hsmall]]
-> ###### Stats
-> | Medium [[Humanoid]] ([[Human]]) | Chaotic Evil |
-> | ---- | ---- |
-> | AC | 12 (15 With Mage Armor) |
-> | HP | 105 (14d8+42) |
-> | Speed | 30 Ft. |
-> | [[Initiative]] | +2 (12) |
-> ##### Senses
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Passive Perception]] | 10 |
-> ###### Proficiencies
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Arcana]] | +3 |
-> | [[Religion]] | +3 |
-> 
-> ###### Defenses And Conditions
-> | Type | Stat |
-> | ---- | ---- |
-> | Fire | Immune |
-
-
-|         |     | **MOD** | **SAVE** |
-| ------- | --- | ------- | -------- |
-| **STR** | 10  | +0      | +0       |
-| **DEX** | 14  | +2      | +2       |
-| **CON** | 16  | +3      | +3       |
-| **INT** | 11  | +0      | +0       |
-| **WIS** | 10  | +0      | +0       |
-| **CHA** | 16  | +3      | +3       |
-**Saving Throws:** 
-**Skills:** [[Arcana]] +3, [[Religion]] +3
-**Damage Vulnerabilities:** 
-**Damage Resistances:** 
-**Damage Immunities:** Fire
-**Condition Immunities:** 
-**Senses:**  [[Passive Perception]] 10 
-**Languages:** [[Common]], [[Ignan]]
-**[[Challenge Rating]]:** 6 (2,300xp)
-**[[Proficiency Bonus]]:** 
-
-# **<u>Features</u>**  
-**Spellcasting.** The Flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:
-- Cantrips (at will): [[Control Flames]], [[Fire Bolt]], [[Friends]], [[Light]], [[Minor Illusion]]
-- 1st Level (4 Slots): [[Burning Hands]], [[Color Spray]], [[Mage Armor]]
-- 2nd Level (3 Slots): [[Scorching Ray]], [[Suggestion]]
-- 3rd Level (3 Slots): [[Fireball]], [[Hypnotic Pattern]]
-- 4th Level (1 Slot): [[Fire Shield]] (See Wreathed In Flames)
-
-**Wreathed in Flame.** For the Flamewrath, the warm version of the [[Fire Shield]] spell has a duration of "until dispelled." The [[Fire Shield]] burns for 10 minutes after the Flamewrath dies, consuming its body.
-
-# <u>Actions</u> 
-
-**[[Dagger]].** _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
-
-
-**Source:** Princess Of The Apocalypse 
-
-# 5e Statblock
+## Princess Of The Apocalypse (POTA):
 ```statblock
 layout: Basic 5e Layout
 image: [[Flamewrath BGR PNG.png]]

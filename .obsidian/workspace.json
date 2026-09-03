@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Fiend/Devil Jurist.md",
+                "file": "5 Monster Stat Blocks/Humanoid/Heralds of Dust Exorcist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Devil Jurist"
+              "title": "Heralds of Dust Exorcist"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5 Monster Stat Blocks/Fiend/Devil Jurist.md"
+                "file": "5 Monster Stat Blocks/Humanoid/Heralds of Dust Exorcist.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -367,6 +367,13 @@
   },
   "active": "f4bb5648e90d2a1c",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Humanoid/Hawkren Bloodstone.md",
+    "5 Monster Stat Blocks/Humanoid/Flamewrath.md",
+    "5 Monster Stat Blocks/Humanoid/Black Earth Guard.md",
+    "5 Monster Stat Blocks/Humanoid/Abjurer Wizard Monster.md",
+    "5 Monster Stat Blocks/Fiend/Horned Devil.md",
+    "Pictures/Monsters/Horned Devil BGR PNG.png",
+    "5 Monster Stat Blocks/Fiend/Devil Jurist.md",
     "5 Monster Stat Blocks/Fey/Incarnation of Vibrance.md",
     "5 Monster Stat Blocks/Fey/Incarnation of Transience.md",
     "5 Monster Stat Blocks/Fey/Fey Spirit.md",
@@ -387,12 +394,6 @@
     "Random Generators/Arcane Anomaly.md",
     "Rules/Core Rules/Vulnerability.md",
     "Rules/Conditions/Distracted.md",
-    "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
-    "5 Monster Stat Blocks/Dragon/Amethyst Dragon Wyrmling.md",
-    "5 Monster Stat Blocks/Construct/Ushabti Royal Guard.md",
-    "5 Monster Stat Blocks/Construct/Steel Defender.md",
-    "5 Monster Stat Blocks/Construct/Dancing Item.md",
-    "5 Monster Stat Blocks/Construct/Corpsewrought Creature.md",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
@@ -411,7 +412,6 @@
     "Pictures/Weapons/War Pick BGR PNG.png.opdownload",
     "Pictures/Species/Worg BGR PNG.png",
     "Pictures/Species/Worg BGR PNG.png.opdownload",
-    "Pictures/Items/Lantern BGR PNG.png",
-    "Pictures/Items/Spell Scroll BGR PNG.png"
+    "Pictures/Items/Lantern BGR PNG.png"
   ]
 }

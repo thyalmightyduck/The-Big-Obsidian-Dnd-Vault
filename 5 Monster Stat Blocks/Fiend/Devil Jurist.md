@@ -1,4 +1,36 @@
-# Devil Jurist Statblock
+---
+tags:
+  - Monster
+  - Fiend
+  - FM
+ArmorClass: 16
+HitPoints: "156"
+Speed:
+  - Walking 30ft
+  - Fly 40ft
+Saves:
+  - INT
+  - WIS
+  - CHA
+Skills:
+  - Arcana
+  - Deception
+  - Perception
+  - Persuasion
+DMGResistances:
+  - Bludgeoning
+  - Piercing
+  - Slashing
+DMGImmunities:
+  - Fire
+ConditionImmunities:
+  - Charmed
+Languages:
+  - Common
+  - Infernal
+---
+# Devil Jurist 
+## Flee, Mortals! (FM!)
 ```statblock
 layout: Basic 5e Layout
 image: [[Devil Jurist BGR PNG.png]]
