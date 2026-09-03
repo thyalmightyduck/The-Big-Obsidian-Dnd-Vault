@@ -1,3 +1,21 @@
+---
+tags:
+  - Monster
+  - Monstrosity
+  - MM25
+ArmorClass: 12
+HitPoints: "51"
+Speed:
+  - Walking 40ft
+  - Climb 40ft
+Skills:
+  - Perception
+  - Stealth
+DMGImmunities:
+  - Cold
+Languages:
+  - Yeti
+---
 # Yeti
 ## Monster Manual (2025):
 ```statblock
@@ -32,3 +50,22 @@ actions:
   - name: "Chilling Gaze."
     desc: "_Constitution Saving Throw:_ DC 13, one creature the yeti can see within 30 feet. _Failure:_ 5 (2d4) Cold damage, and the target has the [[Paralyzed]] condition until the start of the yeti's next turn unless the target has [[Immunity]] to Cold damage. _Success:_ The target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour."  
 ```
+# Yeti Lore:
+Yetis hunt alone or in small family groups. They avoid the settlements of other creatures but lurk near paths frequented by traders and herders to pick off unsuspecting prey. Yetis make their homes in icy caves near frozen peaks and at extremes where few dare travel.
+
+---
+
+# Yetis
+
+_Chilling Stalkers of the Frozen Wilds_
+
+**Habitat:** Arctic 
+**Treasure:** Any  
+
+Across alpine extremes and frozen frontiers, yetis hunt those that trespass in their territories. Reclusive and merciless, they resemble giant apes with pale fur and ram-like horns. Yetis easily blend in with snow and icy cliffs, revealing themselves with blood-chilling howls just before striking with their icy claws. In addition to their physical might, yetis can chill creatures with a look, freezing their foes in place, and they can conjure ice and hurl it at foes.
+
+Due to yetis' elusiveness, folktales about yetis are more common than sightings. Whether a distant scream is the howl of an enraged yeti or just the wind, few can be certain. Nevertheless, many mountainous settlements burn bonfires to ward off yetis, taking advantage of these brutes' aversion to fire.
+
+“_In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen._”
+
+— Kelesta Hawke of the Emerald Enclave

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
+                "file": "5 Monster Stat Blocks/Undead/Shadow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Otherworldly Steed"
+              "title": "Shadow"
+            }
+          },
+          {
+            "id": "ac3593f8ad86155d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Conditions/Restrained.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Restrained"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Roadmap/Roadmap.md"
+                "file": "5 Monster Stat Blocks/Undead/Shadow.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -364,35 +389,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "144ee6b2f1b77f43",
+  "active": "f4bb5648e90d2a1c",
   "lastOpenFiles": [
+    "Rules/Conditions/Restrained.md",
+    "5 Monster Stat Blocks/Undead/Shadow.md",
+    "5 Monster Stat Blocks/Undead/Sand Silhouette.md",
+    "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
+    "5 Monster Stat Blocks/Undead/Haze Wight.md",
+    "5 Monster Stat Blocks/Undead/Haze Husk.md",
+    "5 Monster Stat Blocks/Undead/Grim.md",
+    "5 Monster Stat Blocks/Undead/Ghost.md",
+    "5 Monster Stat Blocks/Undead/Ghast.md",
+    "5 Monster Stat Blocks/Undead/Death Knight.md",
+    "5 Monster Stat Blocks/Undead/Bone Executioner.md",
+    "5 Monster Stat Blocks/Undead/Accursed Defiler.md",
+    "5 Monster Stat Blocks/Plant/Awakened Shrub.md",
+    "5 Monster Stat Blocks/Ooze/Parasitic Ooze.md",
     "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
+    "5 Monster Stat Blocks/Monstrosity/Yeti.md",
+    "5 Monster Stat Blocks/Monstrosity/Doppelganger.md",
+    "5 Monster Stat Blocks/Monstrosity/Displacer Beast.md",
+    "5 Monster Stat Blocks/Monstrosity/Crag Cat.md",
+    "5 Monster Stat Blocks/Monstrosity/Basilisk.md",
     "5 Monster Stat Blocks/Monstrosity/Auril (First Form).md",
     "5 Monster Stat Blocks/Humanoid/Masked One of Arkan.md",
+    "0 Roadmap/Roadmap.md",
     "5 Monster Stat Blocks/Humanoid/Keeper of the Feather.md",
     "5 Monster Stat Blocks/Humanoid/Heralds of Dust Remnant.md",
     "5 Monster Stat Blocks/Humanoid/Heralds of Dust Exorcist.md",
-    "5 Monster Stat Blocks/Humanoid/Hawkren Bloodstone.md",
-    "5 Monster Stat Blocks/Humanoid/Flamewrath.md",
-    "5 Monster Stat Blocks/Humanoid/Black Earth Guard.md",
-    "5 Monster Stat Blocks/Humanoid/Abjurer Wizard Monster.md",
-    "5 Monster Stat Blocks/Fiend/Horned Devil.md",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
-    "5 Monster Stat Blocks/Fiend/Devil Jurist.md",
-    "5 Monster Stat Blocks/Fey/Incarnation of Vibrance.md",
-    "5 Monster Stat Blocks/Fey/Incarnation of Transience.md",
-    "5 Monster Stat Blocks/Fey/Fey Spirit.md",
-    "5 Monster Stat Blocks/Elemental/Wildfire Spirit.md",
-    "5 Monster Stat Blocks/Elemental/Marid.md",
-    "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
-    "5 Monster Stat Blocks/Elemental/Efreeti.md",
-    "5 Monster Stat Blocks/Elemental/Djinni.md",
-    "5 Monster Stat Blocks/Elemental/Delerium Elemental.md",
-    "5 Monster Stat Blocks/Elemental/Dao.md",
-    "5 Monster Stat Blocks/Elemental/Auril (Third Form).md",
-    "5 Monster Stat Blocks/Elemental/Auril (Second Form).md",
-    "0 Roadmap/Roadmap.md",
-    "5 Monster Stat Blocks/Dragon/Young Brass Dragon.md",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",

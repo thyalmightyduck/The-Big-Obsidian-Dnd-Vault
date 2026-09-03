@@ -1,5 +1,40 @@
+---
+tags:
+  - Monster
+  - Undead
+  - MM25
+ArmorClass: 11
+HitPoints: "45"
+Speed:
+  - Walking 5ft
+  - Fly 40ft (Hover)
+DMGResistances:
+  - Acid
+  - Bludgeoning
+  - Cold
+  - Fire
+  - Lightning
+  - Piercing
+  - Slashing
+  - Thunder
+DMGImmunities:
+  - Necrotic
+  - Poison
+ConditionImmunities:
+  - Charmed
+  - Exhaustion
+  - Frightened
+  - Grappled
+  - Paralyzed
+  - Petrified
+  - Poisoned
+  - Prone
+  - Restrainded
+Languages:
+  - Common
+---
 # Ghost
-# Monster Manual (2025):
+## Monster Manual (2025):
 ```statblock
 layout: Basic 5e Layout
 image: [[Ghost BGR PNG.png]]
@@ -35,3 +70,12 @@ actions:
   - name: "Possession (Recharge 6)."
     desc: "_Charisma Saving Throw:_ DC 13, one Humanoid the ghost can see within 5 feet. _Failure:_ The target is possessed by the ghost; the ghost disappears, and the target has the [[Incapacitated]] condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's [[Speed]], as well as the target's Strength, Dexterity, and Constitution modifiers. The possession lasts until the body drops to 0 [[Hit Points]] or the ghost leaves as a [[Bonus Action]]. When the possession ends, the ghost appears in an unoccupied space within 5 feet of the target, and the target is immune to this ghost's [[Possession]] for 24 hours. _Success:_ The target is immune to this ghost's [[Possession]] for 24 hours."  
 ```
+# Ghost Lore:
+_Lost Soul and Unquiet Spirit_
+
+**Habitat:** Underdark, Urban
+**Treasure:** Any
+
+Ghosts arise when living creatures die in a state of extreme emotion or having left an important task undone. These incorporeal spirits haunt locations that are meaningful to them, lingering until their business is complete or they're put to rest.
+
+Ghosts typically appear as semitransparent versions of the creatures they were in life, though some bear evidence of the wounds that killed them or have nightmarish distortions to their forms. Many have extreme reactions to actions, objects, or individuals that remind them of emotionally charged aspects of their lives. Particularly desperate or vengeful ghosts might possess the living to fulfill their ends.

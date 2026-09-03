@@ -1,12 +1,31 @@
+---
+tags:
+  - Monster
+  - Undead
+  - MM25
+ArmorClass: 12
+HitPoints: "45"
+Speed:
+  - Walking 40ft
+DMGImmunities:
+  - Poison
+ConditionImmunities:
+  - Exhaustion
+  - Poisoned
+DMGVulnerabilities:
+  - Bludgeoning
+Languages:
+  - Abyssal
+---
 # Minotaur Skeleton
-## Monster Manual 2025:
+## Monster Manual 2025 (MM25):
 ```statblock
 layout: Basic 5e Layout
 image: [[Minotaur Skeleton BGR PNG.png]]
 name: Minotaur Skeleton
 size: Large
 type: [[Undead]]
-alignment: _Lawful Evil_
+alignment: Lawful Evil
 ac: 12
 hp: 45
 hit_dice: 6d10+12
@@ -24,3 +43,26 @@ actions:
   - name: "Slam."
     desc: "_Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 15 (2d10 + 4) Bludgeoning damage."  
 ```
+# Minotaur Skeleton Lore:
+Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of multiple creatures merged into a minotaur-like shape. These hulking skeletons have greater speed and might than smaller skeletons. They menace the living with their horns and mighty greataxes.
+
+---
+
+# Skeletons
+
+_Ossified Evil_
+**Habitat:** Planar (Shadowfell), Underdark, Urban
+**Treasure:** None
+
+Skeletons rise at the summons of necromancers and foul spirits. Whether they're the remains of the ancient dead or fresh bones bound to morbid ambitions, they commit deathless work for whatever forces reanimated them, often serving as guardians, soldiers, or laborers. In rare cases, skeletons are reanimated but given no particular direction. Roll on or choose a result from the Skeleton Pantomimes table to inspire how undirected skeletons behave.
+
+**Skeleton Pantomimes:**
+
+|1d6|Left to Its Own Devices, the Skeleton...|
+|---|---|
+|1|Delivers meal salvers or ages-old correspondence to the crypt of its dead master.|
+|2|Endlessly trains in battle with other skeletons, despite being hacked to animate splinters.|
+|3|Mimics ways it entertained itself in life, such as acting, dancing, or reading.|
+|4|Performs a familiar task, such as cleaning, cooking, mining, or praying.|
+|5|Repeats its final moments of life.|
+|6|Stands guard at the post it protected in life.|

@@ -1,5 +1,31 @@
+---
+tags:
+  - Monster
+  - Ooze
+  - HGTMH
+  - Summon
+ArmorClass: 8
+HitPoints: "5"
+Speed:
+  - Walking 15ft
+  - Climb 15ft
+Saves:
+  - DEX
+  - CON
+Skills:
+  - Stealth
+DMGResistances:
+  - Necrotic
+ConditionImmunities:
+  - Blinded
+  - Charmed
+  - Deafened
+  - Exhaustion
+  - Frightened
+  - Prone
+---
 # Parasitic Ooze 
-Heliana’s Guide to Monster Hunting
+## Heliana’s Guide to Monster Hunting (HGTMH):
 
 ```statblock
 layout: Basic 5e Layout
