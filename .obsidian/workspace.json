@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Elemental/Efreeti.md",
+                "file": "5 Monster Stat Blocks/Elemental/Wildfire Spirit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Efreeti"
+              "title": "Wildfire Spirit"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5 Monster Stat Blocks/Elemental/Efreeti.md"
+                "file": "5 Monster Stat Blocks/Elemental/Wildfire Spirit.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -365,8 +365,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f4bb5648e90d2a1c",
+  "active": "37966f4f19f95679",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Elemental/Marid.md",
+    "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
+    "5 Monster Stat Blocks/Elemental/Efreeti.md",
     "5 Monster Stat Blocks/Elemental/Djinni.md",
     "5 Monster Stat Blocks/Elemental/Delerium Elemental.md",
     "5 Monster Stat Blocks/Elemental/Dao.md",
@@ -390,9 +393,6 @@
     "5 Monster Stat Blocks/Construct/Animated Object.md",
     "5 Monster Stat Blocks/Celestial/Celestial Spirit.md",
     "5 Monster Stat Blocks/Beast/Warhorse.md",
-    "5 Monster Stat Blocks/Beast/Vampster Swarm.md",
-    "5 Monster Stat Blocks/Beast/Swarm of Vermin.md",
-    "5 Monster Stat Blocks/Beast/Swarm of Ravens.md",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
