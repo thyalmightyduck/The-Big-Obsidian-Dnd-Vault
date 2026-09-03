@@ -1,4 +1,25 @@
-# Wildfire Spirit Statblock
+---
+tags:
+  - Monster
+  - Elemental
+  - TCE
+  - Summon
+ArmorClass: 13
+HitPoints: "5"
+Speed:
+  - Walking 30ft
+  - Fly 30ft (Hover)
+DMGImmunities:
+  - Fire
+ConditionImmunities:
+  - Charmed
+  - Frightened
+  - Grappled
+  - Prone
+  - Restrainded
+---
+# Wildfire Spirit 
+## Tasha’s Cauldron of Everything (TCE):
 ```statblock
 layout: Basic 5e Layout
 image: [[Wildfire Spirit BGR PNG.png]]
