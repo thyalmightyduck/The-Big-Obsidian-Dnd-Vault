@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Monster Stat Blocks/Humanoid/Heralds of Dust Exorcist.md",
+                "file": "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heralds of Dust Exorcist"
+              "title": "Otherworldly Steed"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5 Monster Stat Blocks/Humanoid/Heralds of Dust Exorcist.md"
+                "file": "0 Roadmap/Roadmap.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -365,8 +364,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f4bb5648e90d2a1c",
+  "active": "144ee6b2f1b77f43",
   "lastOpenFiles": [
+    "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
+    "5 Monster Stat Blocks/Monstrosity/Auril (First Form).md",
+    "5 Monster Stat Blocks/Humanoid/Masked One of Arkan.md",
+    "5 Monster Stat Blocks/Humanoid/Keeper of the Feather.md",
+    "5 Monster Stat Blocks/Humanoid/Heralds of Dust Remnant.md",
+    "5 Monster Stat Blocks/Humanoid/Heralds of Dust Exorcist.md",
     "5 Monster Stat Blocks/Humanoid/Hawkren Bloodstone.md",
     "5 Monster Stat Blocks/Humanoid/Flamewrath.md",
     "5 Monster Stat Blocks/Humanoid/Black Earth Guard.md",
@@ -388,12 +393,6 @@
     "5 Monster Stat Blocks/Elemental/Auril (Second Form).md",
     "0 Roadmap/Roadmap.md",
     "5 Monster Stat Blocks/Dragon/Young Brass Dragon.md",
-    "5 Monster Stat Blocks/Dragon/Drake Companion.md",
-    "5 Monster Stat Blocks/Dragon/Draconic Spirit.md",
-    "5 Monster Stat Blocks/Dragon/Delerium Dragon Wyrmling.md",
-    "Random Generators/Arcane Anomaly.md",
-    "Rules/Core Rules/Vulnerability.md",
-    "Rules/Conditions/Distracted.md",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",

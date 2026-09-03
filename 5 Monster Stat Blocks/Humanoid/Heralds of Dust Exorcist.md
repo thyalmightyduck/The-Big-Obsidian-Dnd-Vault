@@ -16,6 +16,8 @@ DMGResistances:
 ConditionImmunities:
   - Charmed
   - Frightened
+Languages:
+  - Common
 ---
 # Heralds of Dust Exorcist
 ## Adventure Atlas: The Mortuary (AATM):
