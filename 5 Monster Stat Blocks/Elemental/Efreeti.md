@@ -3,7 +3,7 @@ tags:
   - Monster
   - Elemental
   - MM25
-ArmorClass:
+ArmorClass: 17
 ---
 # Efreeti
 ## Monster Manual 2025 (MM25):
