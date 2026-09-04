@@ -102,9 +102,105 @@
               "icon": "lucide-file",
               "title": "Restrained"
             }
+          },
+          {
+            "id": "8ffd0f8577578edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 The Kingdom Of Oskana/Oskana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Oskana"
+            }
+          },
+          {
+            "id": "adcfef96a401b0a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 The Kingdom Of Oskana/2 Towns Of Oskana/Klont Town/Klont.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Klont"
+            }
+          },
+          {
+            "id": "d39513e7cf027ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 The Kingdom Of Oskana/3 Villages Of Oskana/Arkdon Village/Arkdon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arkdon"
+            }
+          },
+          {
+            "id": "3c67ae58e0e7afeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familiar Formula.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Familiar Formula"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -230,7 +326,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5 Monster Stat Blocks/Undead/Shadow.md"
+                "file": "Familiar Formula.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -389,10 +485,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f4bb5648e90d2a1c",
+  "active": "3c67ae58e0e7afeb",
   "lastOpenFiles": [
-    "Rules/Conditions/Restrained.md",
+    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Arkdon Village/Arkdon.md",
+    "Familiar Formula.md",
+    "3 The Kingdom Of Oskana/2 Towns Of Oskana/Klont Town/Klont.md",
+    "3 The Kingdom Of Oskana/2 Towns Of Oskana/Klont Town/Klont Location/Apothecary/Soothing Goods Apothecary.md",
+    "3 The Kingdom Of Oskana/2 Towns Of Oskana/Klont Town/Klont Location/Apothecary/Dryads Dance Apothecary.md",
+    "3 The Kingdom Of Oskana/Oskana.md",
+    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Sanbu Village/Sanbu.md",
     "5 Monster Stat Blocks/Undead/Shadow.md",
+    "Rules/Conditions/Restrained.md",
     "5 Monster Stat Blocks/Undead/Sand Silhouette.md",
     "5 Monster Stat Blocks/Undead/Minotaur Skeleton.md",
     "5 Monster Stat Blocks/Undead/Haze Wight.md",
@@ -410,13 +513,6 @@
     "5 Monster Stat Blocks/Monstrosity/Doppelganger.md",
     "5 Monster Stat Blocks/Monstrosity/Displacer Beast.md",
     "5 Monster Stat Blocks/Monstrosity/Crag Cat.md",
-    "5 Monster Stat Blocks/Monstrosity/Basilisk.md",
-    "5 Monster Stat Blocks/Monstrosity/Auril (First Form).md",
-    "5 Monster Stat Blocks/Humanoid/Masked One of Arkan.md",
-    "0 Roadmap/Roadmap.md",
-    "5 Monster Stat Blocks/Humanoid/Keeper of the Feather.md",
-    "5 Monster Stat Blocks/Humanoid/Heralds of Dust Remnant.md",
-    "5 Monster Stat Blocks/Humanoid/Heralds of Dust Exorcist.md",
     "Pictures/Monsters/Horned Devil BGR PNG.png",
     "5 Monster Stat Blocks/Beast/Pasted image 20260725223239.png",
     "PDFs/RNG Sheets/Strig Warlock.pdf",
