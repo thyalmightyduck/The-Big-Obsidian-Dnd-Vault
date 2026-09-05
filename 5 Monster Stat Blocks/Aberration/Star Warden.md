@@ -58,6 +58,7 @@
 
 **Lords of Time and Space.** When the star warden is reduced to 0 [[Hit Point]], roll a d20. On a 1 or 20, the star warden regains all of its [[Hit Point]] and another creature of its choice within 30 feet is reduced to 0 [[Hit Point]] instead.
 # <u>Actions</u> 
+
 **Multiattack.** The star warden makes two attacks.
 
 **Staff of Stars.** _Melee or Ranged Attack Roll:_ +8, reach 5 ft. or range 60/120 ft. _Hit:_ 22 (5d6 + 4) `dice:5d6+4` Radiant damage plus 10 (3d6) `dice:3d6` Force damage.

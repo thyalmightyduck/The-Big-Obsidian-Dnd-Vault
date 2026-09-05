@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Magic Items/Weapons/Repeating Gatling Gun.md",
+                "file": "RNG Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Repeating Gatling Gun"
+              "title": "RNG Notes"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RNG Notes.md",
+                "file": "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,11 +112,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RNG Notes"
+              "title": "Eldritch Crawler"
+            }
+          },
+          {
+            "id": "541a435be36c3f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Monster Stat Blocks/Aberration/Star Warden.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Star Warden"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Erina (Spiritfarer)",
+                "query": "file: star",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,7 +198,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,6 +213,16 @@
         "id": "9faeac0eb91dfd60",
         "type": "tabs",
         "children": [
+          {
+            "id": "2229f9a472ce7dc5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
           {
             "id": "f2c34fa431896e64",
             "type": "leaf",
@@ -213,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RNG Notes.md",
+                "file": "5 Monster Stat Blocks/Aberration/Star Warden.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -315,16 +350,6 @@
             }
           },
           {
-            "id": "2229f9a472ce7dc5",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "ea4b040392292634",
             "type": "leaf",
             "state": {
@@ -364,12 +389,30 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8732a5204e9e8194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6146558b93e508aa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_8939ab1828fa",
+                "creatureName": "Star Warden"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 372.9000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -389,13 +432,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "efce19457196d718",
+  "active": "541a435be36c3f72",
   "lastOpenFiles": [
-    "PDFs/RNG Sheets/Strig Warlock.pdf",
+    "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
+    "5 Monster Stat Blocks/Aberration/Star Warden.md",
     "RNG Notes.md",
+    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
+    "5 Monster Stat Blocks/Aberration/Delerium Dreg.md",
+    "5 Monster Stat Blocks/Aberration/Sock Hydra.md",
+    "5 Monster Stat Blocks/Aberration/Pyknic Maunder.md",
+    "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
+    "5 Monster Stat Blocks/Aberration/Githzerai Uniter.md",
+    "5 Monster Stat Blocks/Aberration/Gibbering Mouther.md",
+    "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+    "PDFs/RNG Sheets/Strig Warlock.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger.pdf",
     "PDFs/RNG Sheets/Wechlelkind Gunslinger 1.pdf",
-    "7 Magic Items/Weapons/Repeating Gatling Gun.md",
     "7 Magic Items/Weapons/Repeating Flare Gun.md",
     "7 Magic Items/Weapons/Repeating Double-Barrel Shotgun.md",
     "7 Magic Items/Weapons/Repeating Cannon.md",
@@ -411,14 +463,6 @@
     "7 Magic Items/Weapons/Chromatic Quiver.md",
     "7 Magic Items/Weapons/Bloodrage Greataxe.md",
     "7 Magic Items/Weapons/Armblade (Trident).md",
-    "7 Magic Items/Weapons/+1 Weapons/+2 Weapon.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Weapon.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Pick.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Hammer.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cavalry Flail.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Catchpole.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Cannon.md",
-    "7 Magic Items/Weapons/+1 Weapons/+1 Brass Knuckles.md",
     "Pictures/Feats/Altered BGR PNG.png",
     "Pictures/Feats/Altered BGR PNG.png.opdownload",
     "Pictures/Mages of High Sorcery BGR PNG.png",
