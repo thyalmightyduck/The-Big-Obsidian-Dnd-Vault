@@ -198,8 +198,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -432,7 +431,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "541a435be36c3f72",
+  "active": "83a3b3f37a74c981",
   "lastOpenFiles": [
     "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
     "5 Monster Stat Blocks/Aberration/Star Warden.md",
