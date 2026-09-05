@@ -198,8 +198,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -388,8 +387,21 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "666bba0857c8829a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "5 Monster Stat Blocks/Aberration/Star Warden.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 13
       },
       {
         "id": "8732a5204e9e8194",
@@ -432,7 +444,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "541a435be36c3f72",
+  "active": "83a3b3f37a74c981",
   "lastOpenFiles": [
     "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
     "5 Monster Stat Blocks/Aberration/Star Warden.md",
