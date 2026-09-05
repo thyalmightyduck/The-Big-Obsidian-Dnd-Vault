@@ -1,3 +1,12 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - DMG24
+  - Variant
+  - VeryRare
+---
+# Dungeon Master’s Guide 2024
 Generic Variant, Very Rare
 - - - 
 

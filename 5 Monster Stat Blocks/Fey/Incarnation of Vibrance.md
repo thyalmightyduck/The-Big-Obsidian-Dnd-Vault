@@ -1,87 +1,28 @@
-# Incarnation Of Vibrance
-Huge Fey, Neutral
-**AC:** 14
-**HP:** 230 (20d12+100)
-**Speed:** 40ft
-**[[Initiative]]:**
-
-> [!infobox]
-> # Incarnation Of Vibrance
-> ![[Incarnation Of Vibrance BGR PNG.png|cover hsmall]]
-> ###### Stats
-> | Huge Fey | Neutral |
-> | ---- | ---- |
-> | AC | 14 |
-> | HP | 230 (20d12_100) |
-> | Speed | 40 Ft. |
-> | [[Initiative]] | +7 (170 |)
-> ##### Senses
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Darkvision]] | 60 FT. |
-> | [[Passive Perception]] | 13 |
-> | Passive Insight | 13 |
-> | Passive Stealth | 13 |
-> 
-> ###### Proficiencies
-> | Type | Stat |
-> | ---- | ---- |
-> | CON Save | +9 |
-> | CHA Save | +9 |
-> 
-> ###### Defenses And Conditions
-> | Type | Stat |
-> | ---- | ---- |
-> | Radiant | [[Resistance (Damage)]] |
-> | [[Blinded]] | Immune |
-> | [[Charmed]] | Immune |
-> | [[Deafened]] | Immune |
-> | [[Frightened]] | Immune |
-
-|         |     | **MOD** | **SAVE** |
-| ------- | --- | ------- | -------- |
-| **STR** | 20  | +5      | +5       |
-| **DEX** | 17  | +3      | +3       |
-| **CON** | 20  | +5      | +9       |
-| **INT** | 10  | +0      | +0       |
-| **WIS** | 16  | +3      | +3       |
-| **CHA** | 21  | +5      | +9       |
-**Saving Throws:** CON +9, CHA +9
-**Skills:** 
-**Damage Vulnerabilities:** 
-**Damage Resistances:** Radiant
-**Damage Immunities:** 
-**Condition Immunities:** [[Blinded]], [[Charmed]], [[Deafened]], [[Frightened]]
-**Senses:** [[Darkvision]] 60ft, [[Passive Perception]] 13
-**Languages:** Sylvan (Language); Telepathy (Languages) 120 ft.
-**Challenge Rating:** 10 (XP 5,900)
-**[[Proficiency Bonus]]:** +4
-
-# **<u>Features</u>**  
-**Magic Resistance.** The incarnation has [[Advantage]] on saving throws against spells and other magical effects.
-
-# <u>Actions</u> 
-
-**Multiattack:** The incarnation makes two Vine attacks and uses Radiant Blast. It can replace one vine attack with a use of Spellcasting to cast [[Blindness Deafness]] if available.
-
-**Spellcasting:** The incarnation casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability:
-- At will: [[Daylight]], [[Druidcraft]], [[Plant Growth]]
-- 1/day: [[Blindness Deafness]]
-
-**Vine:** _Melee [[Attack Rolls]]:_ +9, reach 20 ft. _Hit:_ 18 (3d8 + 5) Bludgeoning damage. If the target is the incarnation's size or smaller, it has the [[Grappled]] condition (escape DC 15) from one of two vines.
-
-**Radiant Blast:** _Constitution Saving Throw:_ DC 17, each creature of the incarnation's choice in a 20-foot [[Emanation]] originating from the incarnation. _Failure:_ The creature takes 14 (2d8 + 5) Radiant damage. _Success:_ Half damage.
-
-# Bonus Actions
-**Shape-Shift:** The incarnation changes its size to Medium, Large, or Huge.
-
-**Teleport:** The incarnation teleports up to 60 feet to an unoccupied space it can see. The incarnation can't teleport while it has a creature [[Grappled]].
-
-**Habitat:** Urban
-**Treasure:** 
-**Source:** feywild_frames TikTok
-
-# 5e Statblock
+---
+tags:
+  - Monster
+  - Fey
+  - LFL
+ArmorClass: 14
+HitPoints: "230"
+Speed:
+  - Walking 40ft
+Saves:
+  - CON
+  - CHA
+DMGResistances:
+  - Radiant
+ConditionImmunities:
+  - Blinded
+  - Charmed
+  - Deafened
+  - Frightened
+Languages:
+  - Sylvan
+  - Telepathy 120ft
+---
+# Incarnation of Vibrance
+## Lorwyn: First Light (LFL): 
 ```statblock
 layout: Basic 5e Layout
 image: [[Incarnation Of Vibrance BGR PNG.png]]

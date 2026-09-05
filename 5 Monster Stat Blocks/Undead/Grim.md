@@ -1,5 +1,25 @@
+---
+tags:
+  - Monster
+  - Undead
+  - TCM24
+  - Summon
+ArmorClass: 13
+HitPoints: "5"
+Speed:
+  - Walking 40ft
+DMGImmunities:
+  - Necrotic
+ConditionImmunities:
+  - Frightened
+  - Grappled
+  - Petrified
+  - Poisoned
+  - Prone
+  - Restrainded
+---
 # Grim
-## The Crooked Moon (2024):
+## The Crooked Moon 2024 (TCM24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Grim BGR PNG.png]]

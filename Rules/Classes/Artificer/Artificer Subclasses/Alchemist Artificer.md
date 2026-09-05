@@ -169,7 +169,7 @@ Magic Item Plans (Artificer Level 6+)
 
 | Magic Item Plan               | [[Attunement]] |
 | ----------------------------- | ---------- |
-| [[Armor +1]]                  | No         |
+| [[+1 Armor]]                  | No         |
 | [[Boots Of Elvenkind]]        | No         |
 | [[Boots of the Winding Path]] | Yes        |
 | [[Cloak of Elvenkind]]        | Yes        |

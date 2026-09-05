@@ -1,4 +1,26 @@
+---
+tags:
+  - Monster
+  - Aberration
+  - MPP
+ArmorClass: 16
+HitPoints: "123"
+Speed:
+  - Walking 40ft
+Saves:
+  - STR
+  - DEX
+  - INT
+  - WIS
+Skills:
+  - Insight
+  - Perception
+Languages:
+  - Common
+  - Gith
+---
 # Githzerai Uniter
+## Morte’s Planar Parade (MPP):
 ```statblock
 layout: Basic 5e Layout
 image: [[Githzerai Uniter BGR PNG.png]]
@@ -13,7 +35,7 @@ hit_dice: 19d8+38
 speed: 40ft
 stats: [13, 17, 15, 15, 17, 16]
 saves: 
-  - Strength: +5
+  - Strength: +5 
   - Dexterity: +6
   - Intelligence: +5
   - Wisdom: +6
@@ -34,9 +56,9 @@ actions:
   - name: "Multiattack"
     desc: "The githzerai makes three [[Unarmed Strike]] or Psychic Bolt attacks. It can replace any of these attacks with one use of its Pacifying Touch."
   - name: "[[Unarmed Strike]]."
-    desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage plus 10 (3d6) psychic damage."
+    desc: "_Melee Weapon Attack:_ 16 (1d20 + 6) to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage plus 10 (3d6) psychic damage."
   - name: "Psychic Bolt"
-    desc: "_Ranged Spell Attack:_ +6 to hit, range 60 ft., one creature. _Hit:_ 17 (5d6) psychic damage."
+    desc: "_Ranged Spell Attack:_ 16 (1d20 + 6) to hit, range 60 ft., one creature. _Hit:_ 17 (5d6) psychic damage."
   - name: "Pacifying Touch"
     desc: "The githzerai touches one creature it can see within 5 feet of itself. The target must succeed on a DC 14 Intelligence [[saving throw]], or the githzerai chooses an [[action]] for that target: Attack, Cast a Spell, or [[Dash Action]]. The affected target can't take that [[action]] for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a successful save. A target that succeeds on the [[saving throw]] becomes immune to this githzerai's Pacifying Touch for 24 hours."        
 ```

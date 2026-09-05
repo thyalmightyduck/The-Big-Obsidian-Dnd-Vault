@@ -1,5 +1,26 @@
+---
+tags:
+  - Monster
+  - Elemental
+  - MM25
+ArmorClass: 17
+HitPoints: "229"
+Speed:
+  - Walking 30ft
+  - Fly 60ft
+  - Swim 90ft
+Saves:
+  - DEX
+  - CHA
+DMGResistances:
+  - Acid
+  - Cold
+  - Lightning
+Languages:
+  - Primordial (Aquan)
+---
 # Marid
-## Monster Manual (2025):
+## Monster Manual 2025 (MM25):
 ```statblock
 layout: Basic 5e Layout
 image: [[Marid BGR PNG.png]]

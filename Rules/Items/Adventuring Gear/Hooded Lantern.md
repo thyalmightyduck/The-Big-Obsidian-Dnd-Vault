@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lantern Hooded
+---
 _Adventuring Gear_
 _5 GP, 2 lb._
 - - - 

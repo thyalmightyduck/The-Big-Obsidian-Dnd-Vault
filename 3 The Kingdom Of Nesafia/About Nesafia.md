@@ -64,6 +64,3 @@ recenter: false
 darkmode: false ### marker
 ```
 # Other
-
-##### Tags
-#Countries 

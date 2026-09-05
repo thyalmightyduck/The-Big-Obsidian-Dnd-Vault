@@ -1,5 +1,23 @@
-# Construct Spirt 
-## Player’s Handbook (2024):
+---
+tags:
+  - Monster
+  - Construct
+  - PHB24
+ArmorClass: 13
+HitPoints: "40"
+Speed:
+  - Walking 30ft
+DMGResistances:
+  - Poison
+ConditionImmunities:
+  - Charmed
+  - Exhaustion
+  - Frightened
+  - Paralyzed
+  - Poisoned
+---
+# Construct Spirt :
+## Player’s Handbook 2024 (PHB24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Construct Spirit BGR PNG.png]]

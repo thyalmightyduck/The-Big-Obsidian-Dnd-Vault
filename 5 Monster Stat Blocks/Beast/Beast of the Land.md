@@ -1,5 +1,17 @@
+---
+tags:
+  - Monster
+  - Beast
+  - Summon
+  - TCE
+ArmorClass: 13
+HitPoints: "5"
+Speed:
+  - Walking 40ft
+  - Climb 40ft
+---
 # Beast of the Land
-## Tasha’s Cauldron of Everything
+## Tasha’s Cauldron of Everything (TCE):
 ```statblock
 layout: Basic 5e Layout
 image: [[Beast of the Land BGR PNG.png]]

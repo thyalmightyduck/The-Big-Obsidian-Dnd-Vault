@@ -1,87 +1,28 @@
-# Incarnation Of Transience 
-Huge Fey, Neutral
-**AC:** 16
-**HP:** 142 (15d12+45)
-**Speed:** 40 ft., Swim 40 ft
-**[[Initiative]]:** +8 (18)
-
-> [!infobox]
-> # Incarnation Of Transience
-> ![[Incarnation Of Transience BGR PNG.png|cover hsmall]]
-> ###### Stats
-> | Huge Fey | Neutral |
-> | ---- | ---- |
-> | AC | 16 |
-> | HP | 142 (15d12+45) |
-> | Speed | 40 ft., Swim 40 ft. |
-> | [[Initiative]] | +8 (18) |
-> ##### Senses
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Darkvision]] | 120 FT. |
-> | [[Passive Perception]] | 12 |
-> | Passive Insight | 12 |
-> | Passive Stealth | 15 |
-> 
-> ###### Proficiencies
-> | Type | Stat |
-> | ---- | ---- |
-> | DEX Save | +8 |
-> | CON Save | +6 |
-> 
-> ###### Defenses And Conditions
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Grappled]] | Immune |
-> | [[Paralyzed]] | Immune |
-> | [[Petrified]] | Immune |
-> | [[Prone]] | Immune |
-> | [[Restrained]] | Immune | 
-
-
-|         |     | **MOD** | **SAVE** |
-| ------- | --- | ------- | -------- |
-| **STR** | 21  | +5      | +5       |
-| **DEX** | 20  | +5      | +8       |
-| **CON** | 17  | +3      | +6       |
-| **INT** | 10  | +0      | +0       |
-| **WIS** | 14  | +2      | +2       |
-| **CHA** | 16  | +3      | +3       |
-**Saving Throws:** DEX +8, CON +6
-**Skills:** 
-**Damage Vulnerabilities:** 
-**Damage Resistances:** 
-**Damage Immunities:**
-**Condition Immunities:** [[Grappled]], [[Paralyzed]], [[Petrified]], [[Prone]], [[Restrained]]
-**Senses:** [[Darkvision]] 60ft, [[Passive Perception]] 102
-**Languages:** Sylvan (Language); Telepathy (Languages) 120 ft.
-**Challenge Rating:** 7 (XP 2,900)
-**[[Proficiency Bonus]]:** +3
-
-# **<u>Features</u>**  
-**Ephemeral Movement.** The incarnation can move through other creatures and objects as if they were [[Difficult Terrain]], and its movement doesn't provoke [[Opportunity Attack]]s. It takes 5 (1d10) Force damage if it ends its turn inside an object.
-
-**Magic Resistance.** The incarnation has [[Advantage]] on saving throws against spells and other magical effects.
-
-# <u>Actions</u> 
-
-**Multiattack:** The incarnation makes three attacks, using Bite or Miasmic Globule in any combination.
-
-**Bite:** The Sock Hydra Unleashes A Burst Of Static Electricity. Each Creature Within 10ft Must Succeed On A DC11 CON Save or Take 5 (2d4) Lightning Damage And Drop Any Metal Objects They Are Holding.
-
-**Miasmic Globule:** _Ranged [[Attack Rolls]]:_ +8, range 60/120 ft. _Hit:_ 15 (6d4) Acid damage, and the target's Speed is reduced by 10 feet until the end of the incarnation's next turn.
-
-**Spectral Stampede:** The incarnation moves up to 80 feet in a straight line. Each creature whose space the incarnation enters is targeted once by the following effect. _Dexterity Saving Throw:_ DC 16. _Failure:_ 18 (4d8) Force damage. If the target is the incarnation's size or smaller, it has the [[Prone]] condition. _Success:_ Half damage only.
-
-# Bonus Actions
-
-**Shape-Shift:** The incarnation changes its size to Medium, Large, or Huge.
-
-**Habitat:** Planar (Feywild)
-**Treasure:** 
-**Source:** # Lorwyn: First Light
-
-# 5e Statblock
+---
+tags:
+  - Monster
+  - Fey
+  - LFL
+ArmorClass: 16
+HitPoints: "142"
+Speed:
+  - Walking 40ft
+  - Swim 40ft
+Saves:
+  - DEX
+  - CON
+ConditionImmunities:
+  - Grappled
+  - Paralyzed
+  - Petrified
+  - Prone
+  - Restrainded
+Languages:
+  - Sylvan
+  - Telepathy 120ft
+---
+# Incarnation of Transience
+## Lorwyn: First Light (LFL):
 ```statblock
 layout: Basic 5e Layout
 image: [[Incarnation Of Transience BGR PNG.png]]

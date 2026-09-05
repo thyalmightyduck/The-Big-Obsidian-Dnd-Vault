@@ -4,5 +4,3 @@ You have mastered the art of smoking pipe-weed, and you always carry your [[pip
 - Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 - Your proficiency bonus is doubled for any [[ability check]] you make with [[Pipes]].
 - You can use your [[pipe]] to gain inspiration a number of times equal to your [[Proficiency Bonus]], instead of once, before you need to finish a long rest.
-##### Tags
-#TLotRR #Feat 

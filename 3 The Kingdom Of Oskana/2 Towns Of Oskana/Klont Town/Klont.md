@@ -2,7 +2,7 @@
 ## Apothecary
 - [[Soothing Goods Apothecary]] - [[Artjom Kvaratskhelia]]. Old, Non-Binary, [[Ravenfolk]]
 - [[Greensward Creations Apothecary]] - [[Hamza Werner]], Old, Male, [[Dwarf (Iron Hill)]] 
-- [[Dryad's Dance Apothecary]] - [[Maxime Ranasinghe]], Young, Male, [[Graveborn]] 
+- [[Dryads Dance Apothecary]] - [[Maxime Ranasinghe]], Young, Male, [[Graveborn]] 
 ## Blacksmith
 - [[Evening Slag Blacksmith]] - [[Abdel-Rahman Rodriguez]]
 - [[Rusted Rivet Blacksmith]] - [[Francisca Awad]] Middle-Aged Female [[Thri-Kreen (Insect Folk)]]
@@ -12,7 +12,7 @@
 - [[Simple Stock General Store]] - [[Ava Harris]], Middle-Aged, Non-Binary, [[Mapach (Racoon Folk)]] 
 - [[Dependable Depot General Store]] - [[Ethan Hamadou]], Middle-Aged, Male, [[Dara]] (Blue)
 ## Inns & Taverns
-- [[Pool's Reflection Inn]] - [[Aoife Hoffmann]], Young, Male, [[Elf (Shadar-Kai)]]  owned by ninda
+- [[Pools Reflection Inn]] - [[Aoife Hoffmann]], Young, Male, [[Elf (Shadar-Kai)]]  owned by ninda
 - [[Sleeping Troll Tavern]] - [[Minik Lopez]], Young, Female, [[Githzerai]] owned by ninda
 - [[Green Mist Tavern]] - [[Ninda Shwarz]], Young, Female, [[Kithkin]]
 ## Magic Shop

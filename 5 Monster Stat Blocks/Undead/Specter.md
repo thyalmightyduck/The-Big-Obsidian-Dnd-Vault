@@ -1,3 +1,38 @@
+---
+tags:
+  - Monster
+  - Undead
+  - MM25
+ArmorClass: 12
+HitPoints: "22"
+Speed:
+  - Walking 30ft
+  - Fly 50ft (Hover)
+DMGResistances:
+  - Acid
+  - Bludgeoning
+  - Cold
+  - Fire
+  - Lightning
+  - Piercing
+  - Slashing
+  - Thunder
+DMGImmunities:
+  - Necrotic
+  - Poison
+ConditionImmunities:
+  - Charmed
+  - Exhaustion
+  - Grappled
+  - Paralyzed
+  - Petrified
+  - Poisoned
+  - Prone
+  - Restrainded
+  - Unconscious
+Languages:
+  - Common
+---
 # Specter
 ## Monster Manual (2025):
 ```statblock
@@ -6,7 +41,7 @@ image: [[Spectre BGR PNG.png]]
 name: Speter
 size: Medium
 type: [[Undead]]
-alignment: _Chaotic Evil_
+alignment: Chaotic Evil
 ac: 12
 hp: 22
 hit_dice: 5d8

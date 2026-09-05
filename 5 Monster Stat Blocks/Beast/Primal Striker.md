@@ -1,5 +1,18 @@
+---
+tags:
+  - Monster
+  - Beast
+  - Summon
+  - GHPG24
+ArmorClass: 12
+HitPoints: "5"
+Speed:
+  - Walking 40ft
+  - Fly 60ft (Sky Only)
+  - Swim 60ft (Sea Only)
+---
 # Primal Striker
-## Grim Hallow: Player’s Guide (2024):
+## Grim Hallow: Player’s Guide 2024 (GHPG24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Primal Guardian BGR PNG.png]]

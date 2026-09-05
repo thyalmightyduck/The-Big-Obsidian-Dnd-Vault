@@ -1973,6 +1973,98 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Aberrant Spirit",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Aberrant Spirit BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Aberrant Spirit",
+        "size": "Medium",
+        "type": "<STATBLOCK-WIKI-LINK>Aberration<STATBLOCK-WIKI-LINK>",
+        "alignment": "Unaligned",
+        "ac": "11 + the level of the spell (natural armor)",
+        "hp": "40 + 10 for each spell level above 4th",
+        "<STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK>": "30 ft., <STATBLOCK-WIKI-LINK>Fly<STATBLOCK-WIKI-LINK> 30 ft. (beholderkin only; hover)",
+        "stats": [
+          16,
+          10,
+          15,
+          16,
+          10,
+          6
+        ],
+        "damage_immunities": "Psychic",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 10",
+        "languages": "Deep Speech, understands the languages you speak",
+        "traits": [
+          {
+            "name": "Regeneration (Slaad Only).",
+            "desc": "The aberration regains 5 hit points at the start of its turn if it has at least 1 <STATBLOCK-WIKI-LINK>hit point<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Whispering Aura (Star Spawn Only).",
+            "desc": "At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> against your spell save DC or take 2d6 psychic damage, provided that the aberration isn't <STATBLOCK-WIKI-LINK>incapacitated<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The aberration makes a number of attacks equal to half this spell's level (rounded down)."
+          },
+          {
+            "name": "Eye Ray (Beholderkin Only).",
+            "desc": "_anged Spell Attack:_ your spell attack modifier to hit, range 150 ft., one creature. _Hit:_ 1d8 + 3 + the spell's level psychic damage."
+          },
+          {
+            "name": "Claws (Slaad Only).",
+            "desc": "_Melee Weapon Attack:_ your spell attack modifier to hit, reach 5 ft., one target. _Hit:_ 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn."
+          },
+          {
+            "name": "Psychic Slam (Star Spawn Only).",
+            "desc": "_Melee Spell Attack:_ your spell attack modifier to hit, reach 5 ft., one creature. _Hit:_ 1d8 + 3 + the spell's level psychic damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Deleruim Dreg",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Delerium Dreg BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Deleruim Dreg",
+        "size": "Medium",
+        "type": "Aberration",
+        "ac": 12,
+        "hp": 9,
+        "hit_dice": "2d8",
+        "speed": "30ft",
+        "stats": [
+          13,
+          15,
+          10,
+          7,
+          10,
+          5
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, Passive Perception 10, Passive Insight 10, Passive Stealth 12",
+        "languages": "<STATBLOCK-WIKI-LINK>Common<STATBLOCK-WIKI-LINK>",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Misty Camouflage.",
+            "desc": "A dreg has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on Dexterity (<STATBLOCK-WIKI-LINK>Stealth<STATBLOCK-WIKI-LINK>) checks when taking the [[Hide] action]] in any area obscured by mist or fog, including the Haze."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claws.",
+            "desc": "_Melee Attack Roll:_ 14 (1d20 + 4), reach 5 ft. _Hit:_ 4 (1d4 + 2) Slashing damage plus 10 (3d6) Necrotic damage. Critical _Hit:_ _Constitution Saving Throw:_ DC 10. _Failure:_ The target gains one level of <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
@@ -2407,7 +2499,7 @@
   "layouts": [],
   "default": "basic-5e-layout",
   "useDice": true,
-  "renderDice": false,
+  "renderDice": true,
   "export": true,
   "showAdvanced": false,
   "version": {

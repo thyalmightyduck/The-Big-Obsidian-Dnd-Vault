@@ -1,66 +1,54 @@
+---
+tags:
+  - Monster
+  - Undead
+  - Summon
+  - PHB24
+ArmorClass: 11
+HitPoints: 20-30
+Speed:
+  - Walking 30ft
+  - Fly 40ft (Hover Ghosts Only)
+DMGImmunities:
+  - Necrotic
+  - Poison
+ConditionImmunities:
+  - Exhaustion
+  - Frightened
+  - Paralyzed
+  - Poisoned
+Languages:
+  - Common
+---
 # Undead Spirit
-
-
-# 5e Statblock
+## Player’s Handbook 2024 (PHB24): 
 ```statblock
 layout: Basic 5e Layout
 image: [[Undead Spirit BGR PNG.png]]
 name: Undead Spirit
 size: Meduim
 type: Undead
-subtype: 
 alignment: Neutral
 ac: 11+ Spells Level
-hp: 30
+hp: 30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each spell level above 3
 speed: 30Ft., Fly 40Ft., (hover; Ghostly Only)
-stats: [20, 11, 20, 12, 16, 18]
-fage_stats: 
-saves: 
-  - Dexterity: 6
-  - Wisdom: +9  
-damage_vulnerabilities: 
-damage_resistances: 
+stats: [12, 16, 25, 14, 10, 9] 
 damage_immunities: Necrotic, Poison
-condition_immunities: [[Exhaustion]], [[Frightened]], [[Poisoned]]
-senses: [[Darkvision]] 60Ft, [[Passive Perception]] 113
-languages: Abyssal, [[Common]]
-cr: 17
-spells:
-  - The death knight casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
-  - At Will: Command, Phantom Steed
-  - 2/day Each: Destructive Wave (Necrotic), Despel Magic,
+condition_immunities: [[Exhaustion]], [[Frightened]], [[Paralyzed]], [[Poisoned]]
+senses: [[Darkvision]] 60Ft, [[Passive Perception]] 10, Passive Insight 10, Passive Stealth 13
+languages: Common
 traits:
-  - name: "Legendary Resistance (3/Day)"
-    desc: "If the death knight fails a saving throw, it can choose to succeed instead"
-  - name: "Magic [[Resistance]]" 
-    desc: "The death knight has [[Advantage]] on saving throws against spells and other magical effects."
-  - name: "Marshal Undead"
-    desc: "Undead creatures of the death knight's choice (excluding itself) in a 60-foot [[Emanation]] originating from it have [[Advantage]] on [[attack rolls]] and saving throws. It can't use this trait if it has the [[Incapacitated]] condition."
-  - name: "Undead Restoration"
-    desc: "If the death knight is destroyed before it atones for its evil, it gains a new body in 1d10 days, reviving with all its [[Hit Points]]. The new body appears in a location significant to the death knight."  
+  - name: "Festering Aura (Putrid Only)."
+    desc: "_Constitution Saving Throw:_ DC equals your spell save DC, any creature (other than you) that starts its turn within a 5-foot [[Emanation]] originating from the spirit. _Failure:_ The creature has the [[Poisoned]] condition until the start of its next turn."  
+  - name: Incorporeal Passage (Ghostly Only).
+    desc: The spirit can move through other creatures and objects as if they were [[Difficult Terrain]]. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 Force damage for every 5 feet traveled.  
 actions:
   - name: "Multiattack"
-    desc: "The death knight makes three Dread Blade attacks."
-  - name: "Dread Blade"
-    desc: "_Melee [[Attack Roll]]:_ +11, reach 5 ft. _Hit:_ 12 (2d6 + 5) Slashing damage plus 13 (3d8) Necrotic damage."
-  - name: "Hellfire Orb (Recharge 5-6)"
-  - desc: "_Dexterity Saving Throw:_ DC 18, each creature in a 20-foot-radius Sphere centered on a point the death knight can see within 120 feet. _Failure:_ 35 (10d6) Fire damage plus 35 (10d6) Necrotic damage. _Success:_ Half damage."   
-legendary_actions:
-  - name: "Dread Authority"
-    desc: "The death knight uses Spellcasting to cast Command. The death knight can't take this action again until the start of its next turn."
-  - name: "Fell Word"
-    desc: "_Constitution Saving Throw:_ DC 18, one creature the death knight can see within 120 feet. _Failure:_ 17 (5d6) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken. _Failure or Success:_ The death knight can't take this action again until the start of its next turn."
-  - name: "Lunge"  
-  - desc: "The death knight moves up to half its Speed, and it makes one Dread Blade attack." 
-reactions:
-  - name: "Parry"
-    desc: "_Trigger:_ The death knight is hit by a melee [[attack roll]] while holding a weapon. _Response:_ The death knight adds 6 to its AC against that attack, possibly causing it to miss"
-  - name: 
-    desc: 
+    desc: "The spirit makes a number of attacks equal to half this spell's level (round down)."
+  - name: "Deathly Touch (Ghostly Only)."
+    desc: "_Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 3 + the spell's level Necrotic damage, and the target has the [[Frightened]] condition until the end of its next turn."  
+  - name: Grave Bolt (Skeletal Only).
+    desc: _Ranged Attack Roll:_ Bonus equals your spell attack modifier, range 150 ft. _Hit:_ 2d4 + 3 + the spell's level Necrotic damage.
+  - name: Rotting Claw (Putrid Only).
+    desc: _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 3 + the spell's level Slashing damage. If the target has the [[Poisoned]] condition, it has the [[Paralyzed]] condition until the end of its next turn.    
 ```
-
-# **<u>Lore</u>** 
-
-
-##### Credit
-Feywild Frames TikTok: https://www.tiktok.com/@feywild_frames/photo/7556849717871758622?lang=en 

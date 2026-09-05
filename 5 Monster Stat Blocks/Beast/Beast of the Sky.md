@@ -1,5 +1,17 @@
+---
+tags:
+  - Monster
+  - Beast
+  - Summon
+  - TCE
+ArmorClass: 13
+HitPoints: "4"
+Speed:
+  - Walking 10ft
+  - Fly 60ft
+---
 # Beast of the Sky
-## Tasha’s Cauldron of Everything
+## Tasha’s Cauldron of Everything (TCE):
 ```statblock
 layout: Basic 5e Layout
 image: [[Beast of the Sky BGR PNG.png]]

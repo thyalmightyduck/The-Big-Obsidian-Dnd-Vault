@@ -1,79 +1,37 @@
-Medium Swarm Of Tiny Beasts, Unaligned
-**AC:** 12
-**HP:** 38 (7d8+7)
-**Speed:** 10ft, Burrow 40ft, Fly 10ft
-**[[Initiative]]:**
-
-> [!infobox]
-> # Vampster Swarm
-> ![[Vampster Swarm BGR PNG.png|cover hsmall]]
-> ###### Stats
-> | Meduim Swarm | Unaligned |
-> | ---- | ---- |
-> | AC | 12 |
-> | HP | 38 (7d8+7) |
-> | Speed | 10ft |
-> | [[Darkvision]] | 60ft|
-> | Tremorsense | 60ft |
->
-> ##### Proficiencies
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Perception]] | +5 |
-> | [[Stealth]] | +4 |
-> | Passive [[Perception]] | 15 |
-> | Passive Insight | 13 |
-> | Passive Stealth | 14 |
-> 
-> ##### Defenses And Conditions
-> | Type | Stat |
-> | ---- | ---- |
-> | Bludgeoning | Resistant |
-> | Piercing | Resistant |
-> | Slashing | Resistant |
-> | Charm | Immune |
-> | [[Frightened]] | Immune |
-> | [[Paralyzed]] | Immune |
-> | [[Petrified]] | Immune |
-> | [[Prone]] | Immune |
-> | [[Restrained]] | Immune |
-> | [[Stunned]] | Immune | 
-
-|         |     | **MOD** | **SAVE** |
-| ------- | --- | ------- | -------- |
-| **STR** | 5   | -3      |          |
-| **DEX** | 15  | +2      |          |
-| **CON** | 12  | +1      |          |
-| **INT** | 2   | -4      |          |
-| **WIS** | 17  | +3      |          |
-| **CHA** | 2   | -4      |          |
-**Saving Throws:**
-**Skills:** [[Perception]] +5, [[Stealth]] +4
-**Damage Vulnerabilities:** 
-**Damage Resistances:** Bludgeoning, Piercing, Slashing
-**Damage Immunities:** [[Charmed]], [[Frightened]], [[Paralyzed]], [[Petrified]], [[Prone]], [[Restrained]], [[Stunned]]
-**Condition Immunities:** 
-**Senses:** [[Darkvision]] 60ft, Tremorsense 6ft, [[Passive Perception]] 15
-**Languages:** -
-**[[Challenge Rating]]:** ½ (100XP)
-**[[Proficiency Bonus]]:** 
-
-#### **<u>Features</u>**  
-**Keen Hearing And Sight:** The Swarm Has [[Advantage]] On Wisdom ([[Perception]]) Checks That Rely On Hearing Or Sight. 
-
-**Swarm:** The Swarm Can Occupy Another Creature’s Space And Vise Versa, And The Swarm Can Move Through Any Opening Large Enough For A Tiny Vampster. The Swarm Can’t Regain [[Hit Point]] Or Regain [[Temporary Hit Point]].
-
-**Yet So Fluffy:** If The Swarm Hits A [[Humanoid]] Or [[Beast]] With A Melee Attack, That Creature Feels A Fluffy Sensation And Must Succeed On A DC 13 WIS Saving Throw Or Be [[Charmed]] By The Swarm Until The Start Of The Swarms Next Turn.
-#### <u>Actions</u> 
-
-**Multiattack:** The Swarm Makes Two Attacks
-
-**Bites:** *Melee Weapon Attack:* +4 To Hit, Reach 0ft., One Creature In Swarm’s Space. *Hit:* 4 (1d4+2) Piercing Damage Plus 2 (2d4) Necrotic, Or 2 (1d4) Piecing Damage Plus 1 Necrotic Damage If The Swarm Has Half Of It’s [[Hit Point]] Or Fewer. The Target’s Hit Point Maximum Is Reduced By An Amount Equal To The Necrotic Damage Taken. The Reduction Lasts Until The Target Finishes A [[Rules/Core Rules/Long Rest]]. 
-
-**Habitat:** 
-**Treasure:** 
-**Source:** The Fluffy Folio Insta
-
+---
+tags:
+  - Monster
+  - Beast
+  - Homebrew
+ArmorClass: 12
+HitPoints: "38"
+Speed:
+  - Walking 10ft
+  - Fly 40ft
+Skills:
+  - Perception
+  - Stealth
+DMGResistances:
+  - Bludgeoning
+  - Piercing
+  - Slashing
+DMGImmunities:
+  - Fire
+  - Poison
+ConditionImmunities:
+  - Charmed
+  - Frightened
+  - Grappled
+  - Paralyzed
+  - Petrified
+  - Poisoned
+  - Prone
+  - Restrainded
+Languages:
+  - Common
+  - Draconic
+---
+# Vampster Swarm:
 ```statblock
 layout: Basic 5e Layout
 image: "[[Vampster Swarm BGR PNG.png]]"
@@ -141,11 +99,8 @@ spells:
   - "* The archmage casts these spells on itself before combat."
 ```
 
-#Template 
-
-#### **<u>Lore</u>** 
+# **<u>Lore</u>** 
 *“You Heard Right, Vampster It Is!”* - These Were The Last Documented Words Of This Remarkable  Creature’s Discoverer Before Being Turned Into An Empty Husk By A Swarm Of Said Vampsters. As Cuddly As It May Seem At First Sight, This Creature Is No Critter For Frivolously Mess Around With: Not Undead, Yet An Inexplicable Vampiric Hunger Is Running Through Its Veins. Usually Acting In Large Packs, This Sinister Creature Lives And Travels Underground By Digging Long Tunnels  Through Soil And Even Rock At An Incredibly High Speed. It Only Emerges And Shows Off Its Flight Skills To attack Or Feed On Prey To Large For Their Underworldly Dwellings. The best Strategy To Escape From A Frenzied Swarm Of Vampsters Is To Drop A Bait And Hope For The Best. 
-
 
 ##### Credit
 [The Fluffy Folio Insta](https://www.instagram.com/the_fluffy_folio?igsh=YzJuMDd5MGk4bjl0)

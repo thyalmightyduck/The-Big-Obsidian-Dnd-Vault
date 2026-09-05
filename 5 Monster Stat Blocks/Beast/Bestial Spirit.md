@@ -1,5 +1,19 @@
+---
+tags:
+  - Monster
+  - Beast
+  - Summon
+  - PHB24
+ArmorClass: 11
+HitPoints: 20 (Air Only) 30 (Land And Water Only)
+Speed:
+  - Walking 30ft
+  - Climb 30ft (Land Only)
+  - Fly 60ft (Air Only)
+  - Swim 30ft (Water Only)
+---
 # Bestial Spirit
-## Player’s Handbook 2024:
+## Player’s Handbook 2024 (PHB24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Bestial Spirit BGR PNG.png]]

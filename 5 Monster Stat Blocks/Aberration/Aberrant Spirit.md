@@ -1,5 +1,21 @@
+---
+ArmorClass: 11
+tags:
+  - Monster
+  - Aberration
+  - TCE
+DMGImmunities:
+  - Psychic
+Languages:
+  - Deep Speech
+HitPoints: "40"
+Speed:
+  - Walking 30ft
+  - Fly 30ft (Beholder Only; Hover)
+Size: Medium
+---
 # Aberrant Spirit
-## Tasha’s Cauldron of Everything:
+## Tasha’s Cauldron of Everything (TCE):
 ```statblock
 layout: Basic 5e Layout
 image: [[Aberrant Spirit BGR PNG.png]]
@@ -9,7 +25,7 @@ type: [[Aberration]]
 alignment: Unaligned
 ac: 11 + the level of the spell (natural armor)
 hp: 40 + 10 for each spell level above 4th
-speed: 30 ft., Fly 30 ft. (beholderkin only; hover)
+[[speed]]: 30 ft., [[Fly]] 30 ft. (beholderkin only; hover)
 stats: [16, 10, 15, 16, 10, 6]
 damage_immunities: Psychic
 senses: [[Darkvision]] 60Ft, [[Passive Perception]] 10, Passive Insight 10, Passive Stealth 10

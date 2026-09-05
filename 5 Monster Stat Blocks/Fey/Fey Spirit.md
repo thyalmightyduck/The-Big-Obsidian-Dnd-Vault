@@ -1,5 +1,21 @@
+---
+tags:
+  - Monster
+  - Fey
+  - PHB24
+  - Summon
+ArmorClass: 12
+HitPoints: "30"
+Speed:
+  - Walking 30ft
+  - Fly 30ft
+ConditionImmunities:
+  - Charmed
+Languages:
+  - Sylvan
+---
 # Fey Spirit
-## Player’s Handbook (2024)
+## Player’s Handbook 2024 (PHB24):
 ```statblock
 layout: Basic 5e Layout
 image: [[Fey Spirt BGR PNG.png]]
