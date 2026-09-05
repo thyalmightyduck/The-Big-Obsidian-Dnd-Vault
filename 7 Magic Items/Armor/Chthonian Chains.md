@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Legendary
+  - Attunement
+  - Homebrew
+---
 *Armor (Half Plate Or Plate), Legendary, (Requires [[Attunement]])*
 > [!infobox]
 > # Chthonian Chains

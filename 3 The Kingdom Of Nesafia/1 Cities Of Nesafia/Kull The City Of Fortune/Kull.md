@@ -36,5 +36,3 @@ darkmode: false ### marker
 ```
 
 # Other
-##### Tags
-#Countries/Nesafia/Cities 

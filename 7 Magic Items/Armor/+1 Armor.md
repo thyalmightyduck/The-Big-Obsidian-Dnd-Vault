@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Variant
+  - Rare
+  - DMG24
+---
 # WOP
 *Generic Variant, Rare*
 - - - 

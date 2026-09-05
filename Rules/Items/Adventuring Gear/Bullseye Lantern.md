@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lantern Bullseye
+---
 *Adventuring Gear*
 *10 GP, 2 lb.*
 - - - 

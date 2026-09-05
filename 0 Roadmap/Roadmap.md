@@ -9,7 +9,7 @@ Artificer
 	Armor of Resistance Links
 	+2 Weapons
 	Flame Tongue Links
-	Monstrosity Properties
+	Magic Items Armor Properties
 # Second Quest
 2 person dnd one shots 
 # Recent Added 
