@@ -1,7 +1,7 @@
-# Kindred
+# Brujah Kindred
 ## Vampire: The Masquerade - Bound by Blood (VTMBB)
 
-| Level | Proficiency Bonus | Features                                                                                    | Blood Points | Feed Dice |
+| Level | [[Proficiency Bonus]] | Features                                                                                    | Blood Points | Feed Dice |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------- | ------------ | --------- |
 | 1st   | +2                | Feed, The Beast, Blood Potency, Kindred Biology                                             | 1            | 2d6       |
 | 2nd   | +2                | Kindred Feat                                                                                | 2            | 2d6       |
@@ -26,12 +26,12 @@
 ##### Core Traits
 **Primary Ability:** Charisma
 
-**Hit Point Die:** D10 per Kindred level
-**Hit Points at Level 1:** 10 + Con. modifier
-**Hit Points per additional Kindred Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
+**[[Hit Point Dice|Hit Point Die]]:** D10 per Kindred level
+**[[Hit Point|Hit Points]] at Level 1:** 10 + Con. modifier
+**[[Hit Point|Hit Points]] per additional Kindred Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
-**Saving Throw Proficiencies:** Constitution, Charisma
-**Skill Proficiencies:** _Choose 2:_ Athletics, Deception, History, Intimidation, Perception, Persuasion, Survival, or Stealth.
+**[[Saving Throw]] Proficiencies:** Constitution, Charisma
+**Skill Proficiencies:** _Choose 2:_ [[Athletics]], [[Deception]], [[History]], [[Intimidation]], [[Perception]], [[Persuasion]], [[Survival]], or [[Stealth]].
 **Weapon Proficiencies:** [[Simple weapons]] and [[Martial Weapons]] that have the Light property
 **Armor Training:** [[Light armor]] and [[Breastplate]]
 
@@ -42,16 +42,16 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-**Skill Proficiencies:** _Choose 1:_ Athletics, Deception, History, Intimidation, Perception, Persuasion, Survival, or Stealth.
+**[[Skill]] Proficiencies:** _Choose 1:_ [[Athletics]], [[Deception]], [[History]], [[Intimidation]], [[Perception]], [[Persuasion]], [[Survival]], or [[Stealth]].
 **Weapon Proficiencies:** [[Simple weapons]]
 **Armor Training:** [[Light armor]] and [[Breastplate]]
 
 ## Level 1: Feed
-You feed on the blood of other creatures. This is most often accomplished through your sharp fangs. As an action, you can feed on another creature within 5 feet of yourself if the target is willing, [[Charmed]] by you, or has the [[Incapacitated]], [[Grappled]], [[Paralyzed]], [[Restrained]], [[Stunned]], or [[Unconscious]] condition. You can feed only once per turn.
+You feed on the blood of other creatures. This is most often accomplished through your sharp fangs. As an [[action]], you can feed on another creature within 5 feet of yourself if the target is willing, [[Charmed]] by you, or has the [[Incapacitated]], [[Grappled]], [[Paralyzed]], [[Restrained]], [[Stunned]], or [[Unconscious]] [[condition]]. You can feed only once per turn.
 
 When you feed, roll up to your maximum Feed Dice plus your Constitution modifier (minimum of 1). The creature takes Necrotic damage equal to the roll's total. This damage only reduces the creature's [[Hit Point]] maximum by an amount equal to the roll's total. The number of Feed Dice increases as you gain Kindred levels, as shown in the Feed Dice column of the Kindred Features table. If you roll a 6 on a d6 on a Feed Die, you can regain 1 expended Blood Point. If a creature's [[Hit Point]] maximum is reduced to 0, you can regain 1 expended Blood Point.
 
-**Feeding from the Willing.** If you feed on a willing creature or a creature [[Charmed]] by you, it can spend 1 [[Hit Point Dice|Hit Point Die]]. It rolls the [[Hit Point Dice|Hit Point Die]] and reduces its [[Hit Point]] maximum by the amount rolled, and you can regain 1 expended Blood Point. Feeding in this way doesn't end the [[Charmed]] condition.
+**Feeding from the Willing.** If you feed on a willing creature or a creature [[Charmed]] by you, it can spend 1 [[Hit Point Dice|Hit Point Die]]. It rolls the [[Hit Point Dice|Hit Point Die]] and reduces its [[Hit Point]] maximum by the amount rolled, and you can regain 1 expended Blood Point. Feeding in this way doesn't end the [[Charmed]] [[condition]].
 
 **Hit Die Deficit.** If a creature has no remaining [[Hit Point Dice]], the creature takes Necrotic damage equal to a roll of your Feed Dice plus your Constitution modifier, and the creature's [[Hit Point]] maximum is reduced by an amount equal to the roll's total.
 
@@ -67,7 +67,7 @@ A mysterious power in the blood of Kindred causes creatures to become Blood Boun
 
 While Blood Bound to a Kindred, a creature is considered [[Charmed]] by that Kindred and has [[Advantage]] on saving throws to avoid being [[Charmed]] or [[Frightened]] by other creatures. This is in addition to the effects from the Kindred Vitae consumable.
 
-A Blood Bond can be suppressed for 1 minute if the creature succeeds on a DC 25 Charisma saving throw. The bond is only permanently removed if the creature doesn't drink from that Kindred again for a year, or if the Kindred in question is killed.
+A Blood Bond can be suppressed for 1 minute if the creature succeeds on a DC 25 Charisma [[saving throw]]. The bond is only permanently removed if the creature doesn't drink from that Kindred again for a year, or if the Kindred in question is killed.
 
 ## Level 1: The Beast
 You have a terrible Beast within that can only be sated with blood. As a [[Bonus Action]], you can use this Beast's predatory instincts to sharpen your senses and abilities. Until the start of your next turn, you have [[Advantage]] on [[D20 Test|D20 Tests]] you make.
@@ -76,7 +76,7 @@ You can use this feature a number of times equal to your [[Proficiency Bonus]],
 
 **Hunger.** If a [[D20 Test]] benefiting from your Beast feature fails, you go into a bloodlusted, hunger-driven state. This bloodlusted state ends after 1 minute or after you have successfully used your Feed feature, whichever comes first.
 
-While bloodlusted, you regard the creature nearest to you that you can see or hear and that you can feed on as your prey. If there are multiple possible creatures, choose one at random. On each of your turns, you must move as close to the creature as possible and take the [[Attack action]] to make an [[Unarmed Strike]] to grapple the target. If you're unable to get close enough to the creature to grapple it, your turn ends after you've used up all your available movement. If the creature dies or can no longer be seen or heard by you, the next nearest creature that you can see or hear and that you can feed on becomes your new target. If the target is in range and has the [[Grappled]] condition at the start of your turn, you use your action to feed on it.
+While bloodlusted, you regard the creature nearest to you that you can see or hear and that you can feed on as your prey. If there are multiple possible creatures, choose one at random. On each of your turns, you must move as close to the creature as possible and take the [[Attack action]] to make an [[Unarmed Strike]] to [[grapple]] the target. If you're unable to get close enough to the creature to [[grapple]] it, your turn ends after you've used up all your available movement. If the creature dies or can no longer be seen or heard by you, the next nearest creature that you can see or hear and that you can feed on becomes your new target. If the target is in range and has the [[Grappled]] [[condition]] at the start of your turn, you use your [[action]] to feed on it.
 
 ## Level 1: Blood Potency
 You are fueled by blood, represented by Blood Points. Your Kindred level determines the number of points you have, as shown in the Blood Points column of the Kindred Features table. You can expend Blood Points in the following ways:
@@ -92,11 +92,11 @@ You are a specific kind of vampire known as a Kindred, which brings physical ben
 
 **Awaken.** You don't regain expended Blood Points when you finish a [[Short Rest]] or [[Long Rest]]. To gain the benefits of a [[Long Rest]], you must have at least 1 Blood Point in your pool or you only gain the benefits of a [[Short Rest]].
 
-**Darkvision.** You have Darkvision with a range of 60 feet.
+**Darkvision.** You have [[Darkvision]] with a range of 60 feet.
 
-**Sanguivore.** You can't eat food or drink. If you consume more than a nibble or sip, you have the [[Poisoned]] condition that ends once you expel what you consumed. While [[Poisoned]] in this way, you must succeed on a Constitution saving throw every 10 minutes to avoid having the [[Incapacitated]] condition, which lasts for 1 minute as you vomit up what you've consumed. The initial DC of this saving throw is 10, and it increases by 5 with each successive save.
+**Sanguivore.** You can't eat food or drink. If you consume more than a nibble or sip, you have the [[Poisoned]] [[condition]] that ends once you expel what you consumed. While [[Poisoned]] in this way, you must succeed on a Constitution [[saving throw]] every 10 minutes to avoid having the [[Incapacitated]] [[condition]], which lasts for 1 minute as you vomit up what you've consumed. The initial DC of this [[saving throw]] is 10, and it increases by 5 with each successive save.
 
-Instead, you must consume a number of Blood Points per day equal to the number of pounds of food a creature your size normally requires per day (usually, 1 per day for Small and Medium creatures). You can expend 1 Blood Point to automatically succeed on the DC 10 Constitution saving throw to avoid gaining 1 level of [[Exhaustion]] from [[Malnutrition]].
+Instead, you must consume a number of Blood Points per day equal to the number of pounds of food a creature your size normally requires per day (usually, 1 per day for Small and Medium creatures). You can expend 1 Blood Point to automatically succeed on the DC 10 Constitution [[saving throw]] to avoid gaining 1 level of [[Exhaustion]] from [[Malnutrition]].
 
 Expending Blood Points to activate your Kindred features or Kindred Feats does not count towards the Blood Points you need to expend for sustenance.
 
@@ -104,7 +104,7 @@ Expending Blood Points to activate your Kindred features or Kindred Feats does n
 
 **Supernatural Spellcasting.** Charisma is your spellcasting ability for spells from your Kindred subclass and Kindred feats, your spells require no Verbal or Somatic components, and they require no Material components unless they are consumed by the spell or have a cost specified in it; taking damage can't break your [[Concentration]].
 
-**Torpor.** If your [[Exhaustion]] level is 6, you aren't killed. Instead, you drop to 1 [[Hit Point]], become [[Unconscious]], and can't remove the condition until you have expended a number of Blood Points equal to your [[Proficiency Bonus]] over any length of time. Another creature can feed you while you are [[Unconscious]] to recover Blood Points, but the details of how that occurs is left for you and your GM to determine.
+**Torpor.** If your [[Exhaustion]] level is 6, you aren't killed. Instead, you drop to 1 [[Hit Point]], become [[Unconscious]], and can't remove the [[condition]] until you have expended a number of Blood Points equal to your [[Proficiency Bonus]] over any length of time. Another creature can feed you while you are [[Unconscious]] to recover Blood Points, but the details of how that occurs is left for you and your GM to determine.
 
 **Undead.** You have the Undead (Kindred) creature type in addition to your normal creature type. You don't age.
 
@@ -112,13 +112,30 @@ Expending Blood Points to activate your Kindred features or Kindred Feats does n
 
 **Vampiric Vulnerabilities.** You have [[Vulnerability]] to Fire and Radiant damage.
 
-**Wooden Stake Through the Heart.** When you are attacked with a wooden weapon that deals Piercing damage and you are reduced to 0 [[Hit Point|Hit Points]] or the attack roll is a [[Critical Hit]], you are staked through the heart and have the [[Paralyzed]] condition until the weapon is removed.
+**Wooden Stake Through the Heart.** When you are attacked with a wooden weapon that deals Piercing damage and you are reduced to 0 [[Hit Point|Hit Points]] or the attack roll is a [[Critical Hit]], you are staked through the heart and have the [[Paralyzed]] [[condition]] until the weapon is removed.
 
 ## Level 2: Kindred Feat
 You gain a [[Kindred feat]] of your choice for which you qualify. You gain this feature again at Kindred levels 7, 10, 13, and 17.
 
 ## Level 3: Kindred Subclass
 You gain a Kindred subclass of your choice. A subclass is a specialization that grants you features at certain Kindred levels. For the rest of your career, you gain each of your subclass's features that are of your Kindred level or lower.
+
+### Brujah
+_Stand Up, Stand Firm, and Fight for Something_
+
+The Brujah are a clan of freethinkers and revolutionaries who thrive on their own liberty and fight against oppression and stagnation. They find a power in themselves that is reflected as strength, speed, and a force of personality that makes them formidable in the varied conflicts they often find themselves in.
+
+### Level 3: Brujah Bane
+Your blood simmers with the rage of your vampiric ancestors. If you fail a [[D20 Test]] that is affected by your [[Beast]] feature and choose to expend Blood Points to ignore the effects of Hunger, you must expend a number of Blood Points equal to your [[Proficiency Bonus]] to ignore the effects, instead of 1.
+
+### Level 3: Fighting Fury
+You can channel the rage simmering below the surface, funneling it into your physical strength and speed. You can expend 1 Blood Point to gain the following benefits for 1 minute.
+
+**Brawn.** You have [[Advantage]] on the first attack roll you make with a Melee weapon or [[Unarmed Strike]] on your turn.
+
+**Swiftness.** You can take the [[Dash Action]] or [[Dodge action]] as a [[Bonus Action]].
+
+**Weapon Training.** You gain [[proficiency]] with [[Martial weapons]], and your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Kindred levels 8, 12, and 16.
@@ -129,13 +146,85 @@ Once per turn when you hit a target with a Melee weapon or [[Unarmed Strike]], 
 Bestial Flurry. While affected by your [[Beast]] feature, you can attack twice instead of once whenever you take the [[Attack action]] on your turn.
 
 ## Level 5: Improved Feed
-You can use the Feed feature as a [[Bonus Action]]. In addition, a creature [[Grappled]] by you has [[Disadvantage]] on its checks to escape the grapple.
+You can use the Feed feature as a [[Bonus Action]]. In addition, a creature [[Grappled]] by you has [[Disadvantage]] on its checks to escape the [[grapple]].
 
 ## Level 6: Subclass Feature
 You gain a feature from your Kindred Subclass.
+
+### Level 6: Fearsome
+Your vampiric presence exudes menace from the rise of your inner Beast.
+
+**Dread Gaze.** You bare your fangs, your eyes flash with predatory hunger, and you let out a hiss that strikes terror in the hearts of others. You can expend 1 Blood Point to cast the [[Fear]] spell.
+
+**Predatory Aura.** You have [[Advantage]] on Charisma ([[Intimidation]]) checks.
 
 ## Level 7: Kindred Feat
 You gain a [[Kindred feat]] of your choice for which you qualify.
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
+
+## Level 9: Subclass Feature
+You gain a feature from your Kindred Subclass.
+
+### Level 9: Fleetness
+Your celerity grants you bursts of incredible speed.
+
+**Dizzying Speed.** You can expend 3 Blood Points to cast the [[Haste]] spell on yourself. When you cast the spell in this way, when the spell ends, you aren't [[Incapacitated]] and your [[Speed]] isn't reduced to 0.
+
+## Level 10: Kindred Feat
+You gain a [[Kindred feat]] of your choice for which you qualify.
+
+## Level 10: Vampiric Will
+You have [[Advantage]] on saving throws to avoid or end the [[Charmed]] [[condition]], and against effects that turn undead.
+
+## Level 11: Subclass Feature
+You gain a feature from your Kindred Subclass.
+
+### Level 11: Burning Wrath
+You pour all of your intensity and fury into yourself, causing your blood to seemingly boil on your skin. As a [[Bonus Action]], you can expend 2 Blood Points to empower your [[Unarmed Strike|Unarmed Strikes]]. For 1 minute or until you fail to make an attack roll against an enemy on your turn, whichever comes first, you can deal an extra 2d8 Necrotic damage to a target you hit with an [[Unarmed Strike]].
+
+## Level 12: Ability Score Improvement
+You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
+
+## Level 13: Kindred Feat
+You gain a [[Kindred feat]] of your choice for which you qualify.
+
+## Level 14: Efficient Feeding
+Whenever you roll a die for your Feed feature, you can reroll the die, and you must use the new roll.
+
+## Level 15: Subclass Feature
+You gain a feature from your Kindred Subclass.
+
+### Level 15: Rouse Emotions
+You can extend your own passionate feelings into others, infecting them with your fervor. You can expend 3 Blood Points to cast one of the following spells.
+
+**Enthrall.** You cast the [[Charm Person]] spell as if with a level 6 spell slot, and the creatures have [[Disadvantage]] on the [[saving throw]].
+
+**Incite.** You cast the [[Confusion]] spell. A creature that fails its [[saving throw]] automatically rolls 7-8 to determine its behavior for each turn.
+
+**Terrorize.** You cast the [[Fear]] spell. When you cast the spell in this way, you can modify it so that it doesn't require [[Concentration]] and creatures have [[Disadvantage]] on the [[saving throw]].
+
+## Level 16: Ability Score Improvement
+You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
+
+## Level 17: Kindred Feat
+You gain a [[Kindred feat]] of your choice for which you qualify.
+
+## Level 18: Subclass Feature
+You gain a feature from your Kindred Subclass.
+
+### Level 18: Puissant Might
+Your raw, supernatural strength is legendary.
+
+**Ability Score Increase.** Your Strength score increases by 4, to a maximum of 30.
+
+**Pulverize.** When you hit a target with an attack roll using a Melee weapon or an [[Unarmed Strike]], your Melee weapon or [[Unarmed Strike]] deals two extra dice of its damage.
+
+## Level 19: Epic Boon
+You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify.
+
+## Level 20: Ancient Awakening
+The essence of the original vampiric Antediluvians has awoken in you. Pick four Ability Scores. Increase each chosen Ability Score by 2, to a maximum of 25.
+
+If a Kindred subclass feature allows for an Ability Score to be increased beyond 25, Ancient Awakening can increase that Ability Score up to the maximum noted in that other feature.
