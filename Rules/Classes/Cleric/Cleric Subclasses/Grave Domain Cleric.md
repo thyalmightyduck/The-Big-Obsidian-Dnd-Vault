@@ -27,7 +27,7 @@
 ##### Core Traits
 **Primary Ability:** Wisdom
 
-**Hit Point Die:** D8 per Cleric level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
@@ -172,7 +172,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Cleric Subclass.
 
 ### Keeper of Souls
-Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
+Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of [[Hit Point Dice|Hit Dice]]. You can use this feature only if you aren't [[incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
 
 ## Level 19: Epic Bo
 You gain an [[Epic Boon feat]] or another [[feat]] of your choice for which you qualify. [[Boon of Fate]] is recommended.

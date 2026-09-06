@@ -24,7 +24,7 @@
 | 19th  | +6                | Ability Score Improvement,<br><br>Pocket Family V                                                               | 4              | 11          | 4   | 3   | 3   | 3   | 2   |
 | 20th  | +6                | Summon the Horde       | 4              | 11          | 4   | 3   | 3   | 3   | 2   |
 ##### Core Traits
-**Hit Point Die:** D8 per Tamer level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Tamer level
 **Hit Points at Level 1:** 8 + Con. modifier
 **Hit Points per additional Tamer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
@@ -54,7 +54,7 @@ When you gain a level in a class other than your first, you gain only some of th
 **Armor Training:** [[Light armor]] and [[Shields]]
 
 ## Level 1: Pocket Familiar
-You become bonded to a companion that accompanies you on your adventures and is trained to fight alongside you. Choose a Small or smaller creature with a challenge rating of 1/2 or lower that isn't a humanoid, giant, or swarm. When a creature becomes your companion, it has a maximum number of hit points equal to the average of its Hit Dice, as indicated in its statistics, and it can't cast spells. Work with your GM to find a companion that suits your campaign world. This companion obeys your commands and is friendly to you and your allies.
+You become bonded to a companion that accompanies you on your adventures and is trained to fight alongside you. Choose a Small or smaller creature with a challenge rating of 1/2 or lower that isn't a humanoid, giant, or swarm. When a creature becomes your companion, it has a maximum number of hit points equal to the average of its [[Hit Point Dice|Hit Dice]], as indicated in its statistics, and it can't cast spells. Work with your GM to find a companion that suits your campaign world. This companion obeys your commands and is friendly to you and your allies.
 **Vessel.** When not summoned, your companion exists inside a magical vessel of your own design, such as a painted animal skull, bejewelled egg, or crystal sphere. While in this vessel, the companion has full cover from all attacks and other effects, is unaffected by area of effects that originate from outside the vessel, and exists in stasis; it doesn't need to eat, drink, sleep, or breath, and it is **immune** to poison and disease, although a poison or disease already in its system is suspended, not neutralised. A companion at 0 hit points is instantly stabilised when it enters its vessel.
 
 If a vessel is broken, or a companion is released from its vessel for any other reason, the creature within it ceases to be a tamer's companion. It acts according to its own wishes and retains any improvements it gained while a companion.
@@ -67,7 +67,7 @@ Some magical effects, like the [[banishment]] spell, have the ability to perma
 #### Dominated Companions
 A companion that is controlled by another creature, such as by the [[dominate monster]] spell, can try to resist being recalled into its vessel. When you try to recall such a creature into its vessel, it can make make a Charisma saving throw against your tamer spell save DC. On a failed saving throw, it is recalled, while on a success, it is not.
 **Combat.** In combat, your companion shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action or action on your turn to command it to take a different action. That action can be one in its statistics or some other action. If you are [[incapacitated]], the companion can take any action of its choice, not just Dodge. Your companion can't take the Multiattack action until you reach 5th level in this class, even if it would otherwise be able to.
-**Rest.** A companion gains the benefits of a long rest when its tamer finish a long rest; if it has at least 1 hit point, it regains all its hit points when you finish a long rest. Unlike other creatures, a companion can't spend its own Hit Dice to recover hit points at the end of a short rest. See the Soul Bond feature for details on recovering hit points.
+**Rest.** A companion gains the benefits of a long rest when its tamer finish a long rest; if it has at least 1 hit point, it regains all its hit points when you finish a long rest. Unlike other creatures, a companion can't spend its own [[Hit Point Dice|Hit Dice]] to recover hit points at the end of a short rest. See the Soul Bond feature for details on recovering hit points.
 **Items.** Armour, barding, and weapons can be equipped to enhance your companion. A companion can wear or carry any equipment that their size and body shape permits. However, your companion must be proficient with the armour or weapon to make full use of it. If your companion wears armour that it lacks proficiency with, it has disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity. A companion that is not proficient with a weapon type does not add its proficiency bonus to attack rolls made with that weapon type.
 **Item Bonding.** Over the course of an hour, you can bond a companion to one object that it can wear or carry that is not any sort of container or storage. When a companion is recalled, all items it is wearing or carrying that it is not bonded to are dropped in the space from which it was recalled. A companion can be bonded to up to 3 items at any one time. Companions can't attune to magic items, unless they have a specific ability that allows them to do so.
 **Companion Barding.** You can purchase armour for your companion. Any type of armour can be purchased as barding. The cost and weight is doubled for each size category above Medium, and halved for each size category below Small. In addition, the cost is further doubled if the companion is not humanoid in shape.
@@ -85,18 +85,18 @@ A companion that is controlled by another creature, such as by the [[dominate m
 As you gain levels in this class, your companions become more powerful Your companions use your proficiency bonus instead of their own, potentially increasing their attack, saving throw, and skill modifiers, and their saving throw DCs.
 
 ### Training
-Whenever you gain an Ability Score Improvement from gaining a level in the tamer class, you pass on your hardened resolve to all your companions, causing them to gain one additional Hit Dice Increase your companion's hit point maximum by rolling this Hit Dice and adding your companion's Constitution modifier (minimum of 0).
+Whenever you gain an Ability Score Improvement from gaining a level in the tamer class, you pass on your hardened resolve to all your companions, causing them to gain one additional [[Hit Point Dice|Hit Dice]] Increase your companion's hit point maximum by rolling this [[Hit Point Dice|Hit Dice]] and adding your companion's Constitution modifier (minimum of 0).
 
 Whenever you gain a level beyond 1st in this class, each companion to which you are bonded gains one of the following improvements. The familiars in Chapter 8 have unique improvements that can be taken instead of these.
 
-Any newly gained companions receive these additional hit dice and improvements as if you had them since your 1st level in tamer.
+Any newly gained companions receive these additional [[Hit Point Dice|hit dice]] and improvements as if you had them since your 1st level in tamer.
 
 **Companion Improvement Training Table:**
 
 |Improvement|Effect|
 |---|---|
 |Speed Training|Increase one existing speed by 15 feet up to a maximum of 150% of the creature's base speed, rounded up to the nearest 5-foot increment*.|
-|Toughen Up|Your companion gains an additional Hit Die, increasing its hit point maximum. Increase your companion's hit point maximum by rolling this Hit Dice and adding your companion's Constitution modifier (minimum of 0).|
+|Toughen Up|Your companion gains an additional Hit Die, increasing its hit point maximum. Increase your companion's hit point maximum by rolling this [[Hit Point Dice|[[Hit Point Dice|Hit Dice]]]] and adding your companion's Constitution modifier (minimum of 0).|
 |Ability Boost|Increase one of your companion's ability scores by 1, to a maximum of 20.|
 |Go For the Throat|Your companion gains a +1 bonus to its attack and damage rolls made with its natural weapons or unarmed strikes**.|
 |Survival Instincts|Your companion gains proficiency in one saving throw.|

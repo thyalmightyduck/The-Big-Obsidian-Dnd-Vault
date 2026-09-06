@@ -20,7 +20,7 @@ size: Medium
 type: [[Beast]]
 alignment: Neutral
 ac: 13 + PB (Natural Armor)
-hp: 4 + four times your ranger level (the beast has a number of Hit Dice [d6s] equal to your ranger level)
+hp: 4 + four times your ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] [d6s] equal to your ranger level)
 speed: 10 ft., Fly 60 ft.
 stats: [6, 16, 13, 8, 14, 11]
 senses: [[Darkvision]] 60Ft, Passive Perception 12, Passive Insight 12, Passive Stealth 13

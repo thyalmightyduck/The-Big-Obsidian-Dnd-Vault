@@ -26,7 +26,7 @@
 ##### Core Traits
 **Primary Ability:** Strength
 
-**Hit Point Die:** D12 per Barbarian level
+**[[Hit Point Dice|Hit Point Die]]:** D12 per Barbarian level
 **[[Hit Point]] at Level 1:** 12 + Con. modifier
 **[[Hit Point]] per additional Barbarian Level:** D12 + your Con. modifier, or, 7 + your Con. modifier
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Short Rests
+---
 A Short Rest is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a Short Rest, you must have at least 1 [[Hit Point]].
 
 Benefits of the Rest. When you finish the rest, you gain the following benefits:

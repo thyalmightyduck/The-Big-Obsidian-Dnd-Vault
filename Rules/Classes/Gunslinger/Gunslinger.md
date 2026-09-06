@@ -26,7 +26,7 @@
 ##### Core Traits
 **Primary Ability:** Dexterity
 
-**Hit Point Die:** D8 per Gunslinger level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Gunslinger level
 **Hit Points at Level 1:** 8 + Con. modifier
 **Hit Points per additional Gunslinger Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 

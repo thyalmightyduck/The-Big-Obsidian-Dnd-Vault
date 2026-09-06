@@ -14,7 +14,7 @@
 | 10th  | +4                | Aura of Courage,<br><br>Craft or Virtue |
 
 ##### Core Traits
-**Hit Point Die:** D10 per Captain level
+**[[Hit Point Dice|Hit Point Die]]:** D10 per Captain level
 **[[Hit Point]] at Level 1:** 10 + Con. modifier
 **[[Hit Point]] per additional Captain Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 

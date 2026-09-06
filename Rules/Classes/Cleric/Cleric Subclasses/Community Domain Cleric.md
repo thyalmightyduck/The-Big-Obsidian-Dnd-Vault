@@ -27,7 +27,7 @@
 ##### Core Traits
 **Primary Ability:** Wisdom
 
-**Hit Point Die:** D8 per Cleric level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
@@ -110,7 +110,7 @@ Clerics of such gods value unity, and praise the strength that can be gained whe
 | 9th          | [[Mass Cure Wounds]], [[Rarys Telepathic Bond]] |
 
 ### Blessing of the Hearth
-From 1st level, you gain the ability to conjure a small flagstone hearth with a simple iron cooking pot whenever you rest. This hearth helps warm you and your companions, and can be used to prepare hearty and nutritious meals on the road. If you or any friendly creatures you make camp with would regain hit points at the end of a short rest by spending one or more hit dice, each of those creatures may choose to re-roll one of their resting dice, taking the higher roll between the two.
+From 1st level, you gain the ability to conjure a small flagstone hearth with a simple iron cooking pot whenever you rest. This hearth helps warm you and your companions, and can be used to prepare hearty and nutritious meals on the road. If you or any friendly creatures you make camp with would regain hit points at the end of a short rest by spending one or more [[Hit Point Dice|hit dice]], each of those creatures may choose to re-roll one of their resting dice, taking the higher roll between the two.
 
 Additionally, you gain proficiency with [[Cooks Utensils]].
 

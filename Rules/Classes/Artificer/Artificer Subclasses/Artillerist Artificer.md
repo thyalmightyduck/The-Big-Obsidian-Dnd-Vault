@@ -23,7 +23,7 @@
 | 20th  | +6                | Soul of Artifice                                                                  | 12              | 6             | 4              | 4   | 3   | 3   | 3   | 2   |
 
 ##### Core Traits
-**Hit Point Die:** D8 per Artificer level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Artificer level
 **[[Hit Point]] at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Artificer Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 

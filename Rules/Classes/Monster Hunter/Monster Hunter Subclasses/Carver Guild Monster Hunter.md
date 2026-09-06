@@ -27,7 +27,7 @@
 ##### Core Traits
 **Primary Ability:** Strength and Intelligence or Dexterity and Intelligence
 
-**Hit Point Die:** D10 per Monster Hunter level
+**[[Hit Point Dice|Hit Point Die]]:** D10 per Monster Hunter level
 **Hit Points at Level 1:** 10 + Con. modifier
 **Hit Points per additional Monster Hunter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 

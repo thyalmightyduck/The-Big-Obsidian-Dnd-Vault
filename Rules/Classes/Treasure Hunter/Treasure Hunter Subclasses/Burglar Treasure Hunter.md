@@ -15,7 +15,7 @@
 | 10th  | +4                | Reliable Talent                    | 5d6          |
 
 ##### Core Traits
-**Hit Point Die:** D8 per Treasure Hunter level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Treasure Hunter level
 **[[Hit Point]] at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Treasure Hunter Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 

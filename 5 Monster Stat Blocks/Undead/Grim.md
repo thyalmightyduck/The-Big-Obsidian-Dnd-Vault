@@ -28,7 +28,7 @@ size: Medium
 type: [[Undead]]
 alignment: Neutral
 ac: 13 plus your Wisdom modifier
-hp: 5 plus five times your Ranger level (the grim has a number of Hit Dice [d8s] equal to your Ranger level)
+hp: 5 plus five times your Ranger level (the grim has a number of [[Hit Point Dice|Hit Dice]] [d8s] equal to your Ranger level)
 speed: 40 ft.
 stats: [16, 16, 14, 14, 10, 10]
 damage_immunities: Necrotic

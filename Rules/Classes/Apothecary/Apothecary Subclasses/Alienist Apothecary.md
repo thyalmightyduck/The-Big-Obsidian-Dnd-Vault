@@ -23,7 +23,7 @@
 | 20th  | +6                | Additional Greater Formula (7th),<br><br>Miraculous Recovery       | 5              | 6           | 5th        | 11             |
 
 ##### Core Traits
-**Hit Point Die:** D8 per Apothecary level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Apothecary level
 **Hit Points at Level 1:** 8 + Con. modifier
 **Hit Points per additional Apothecary Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
@@ -184,4 +184,4 @@ At 20th level, you discover a magical secret called a Greater Formula. Choose on
 
 ## Level 20: Miraculous Recovery
 
-At 20th level, you can spend 5 minutes channeling power into a number of creatures (which can include yourself) equal to your Intelligence modifier to facilitate an abnormally fast recovery. You must tend to the creatures during this period, using a [[Healers Kit]] with at least one use remaining. The targets regain hit points, spell slots, hit dice, and other abilities as if they completed a long rest. A creature can only benefit from one Miraculous Recovery in a 24-hour period. Once you use this feature, you can't do so again until you finish a long rest.
+At 20th level, you can spend 5 minutes channeling power into a number of creatures (which can include yourself) equal to your Intelligence modifier to facilitate an abnormally fast recovery. You must tend to the creatures during this period, using a [[Healers Kit]] with at least one use remaining. The targets regain hit points, spell slots, [[Hit Point Dice|hit dice]], and other abilities as if they completed a long rest. A creature can only benefit from one Miraculous Recovery in a 24-hour period. Once you use this feature, you can't do so again until you finish a long rest.

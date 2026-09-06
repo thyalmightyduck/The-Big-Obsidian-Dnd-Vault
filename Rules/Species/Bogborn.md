@@ -11,7 +11,7 @@
 **Guiding Bond:** As a [[Bonus Action]], you can magically place a mark on a creature you can see within 60 feet of yourself. The mark lasts for 1 minute, and takes the form of ephemeral plants, moss, fungus, or swamp animals that only you can see. For the duration, you can add 1d4 to [[Ability Check]] and [[attack rolls]] you make against the marked creature.
 You can use this [[Bonus Action]] a number of times equal to your [[Proficiency Bonus]], and you regain all expended uses when you finish a [[Long Rest]].
 **Keen Senses:** You have proficiency in the [[Perception]] or [[Survival]] skill.
-**Regeneration:** As a [[Bonus Action]], you can expend one of your Hit Dice, roll the die, and regain a number of hit points equal to the number rolled plus your Constitution modifier (minimum of 1 hit point).
+**Regeneration:** As a [[Bonus Action]], you can expend one of your [[Hit Point Dice|Hit Dice]], roll the die, and regain a number of hit points equal to the number rolled plus your Constitution modifier (minimum of 1 hit point).
    If you take acid or fire damage, this trait doesn't function until the end of your next turn.
 **Languages:** You can speak, read, and write [[Common]] and one other language that you and your DM agree is appropriate for your character.
 ## The Crooked Moon (2024)

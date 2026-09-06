@@ -25,7 +25,7 @@
 ##### Core Traits
 **Primary Ability:** Strength or Dexterity
 
-**Hit Point Die:** D10 per Fighter level
+**[[Hit Point Dice|Hit Point Die]]:** D10 per Fighter level
 **[[Hit Point]] at Level 1:** 10 + Con. modifier
 **[[Hit Point]] per additional Fighter Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 

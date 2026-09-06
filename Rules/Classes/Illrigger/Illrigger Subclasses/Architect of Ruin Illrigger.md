@@ -26,7 +26,7 @@
 
 
 ##### Core Traits
-**Hit Point Die:** D10 per Illrigger level
+**[[Hit Point Dice|Hit Point Die]]:** D10 per Illrigger level
 **Hit Points at Level 1:** 10 + Con. modifier
 **Hit Points per additional Illrigger Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 
@@ -254,7 +254,7 @@ In addition, you can speak two other languages of your choice, but you can't rea
 Starting at 9th level, this feature grants you another language, for a total of three (in addition to Infernal). Furthermore, you gain advantage on Wisdom (Insight) checks made to ascertain the intentions or sincerity of creatures.
 
 ## Level 10: Blood Price
-You can strengthen your defenses at the cost of your vitality. Whenever you fail a saving throw, you can spend one of your Hit Dice, rolling it and adding the number rolled to the result of the save.
+You can strengthen your defenses at the cost of your vitality. Whenever you fail a saving throw, you can spend one of your [[Hit Point Dice|Hit Dice]], rolling it and adding the number rolled to the result of the save.
 
 ## Level 11: Diabolic Contract feature
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.

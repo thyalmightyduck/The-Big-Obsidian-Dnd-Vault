@@ -13,7 +13,7 @@
 | 9th   | +4                | Indomitable                            |
 | 10th  | +4                | Extra Attack (2)                       |
 ##### Core Traits
-**Hit Point Die:** D10 per Champion level
+**[[Hit Point Dice|Hit Point Die]]:** D10 per Champion level
 **[[Hit Point]] at Level 1:** 10 + Con. modifier
 **[[Hit Point]] per additional Champion Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 

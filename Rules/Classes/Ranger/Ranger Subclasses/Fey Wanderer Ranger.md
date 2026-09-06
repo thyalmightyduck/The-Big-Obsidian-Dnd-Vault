@@ -27,7 +27,7 @@
 ##### Core Traits
 **Primary Ability:** Dexterity and Wisdom
 
-**Hit Point Die:** D10 per Ranger level
+**[[Hit Point Dice|Hit Point Die]]:** D10 per Ranger level
 **[[Hit Point]] at Level 1:** 10 + Con. modifier
 **[[Hit Point]] per additional Ranger Level:** D10 + your Con. modifier, or, 6 + your Con. modifier
 

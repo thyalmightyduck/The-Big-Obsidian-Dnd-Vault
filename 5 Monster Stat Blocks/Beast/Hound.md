@@ -26,7 +26,7 @@ size: Medium
 type: [[Beast]]
 alignment: Neutral
 ac: 12 Plus your Constitution modifier
-hp: 5 plus five times your Pugilist level (the hound has a number of Hit Dice (d8s) equal to your Pugilist level)
+hp: 5 plus five times your Pugilist level (the hound has a number of [[Hit Point Dice|Hit Dice]] (d8s) equal to your Pugilist level)
 speed: 40 ft.
 stats: [14, 14, 15, 3, 12, 13]
 saves: 

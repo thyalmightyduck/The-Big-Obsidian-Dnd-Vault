@@ -15,7 +15,7 @@
 | 10th  | +4                | Tireless and Swift improvement,<br><br>Craft or Virtue          | 3d6          |
 
 ##### Core Traits
-**Hit Point Die:** D8 per Messenger level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Messenger level
 **Hit Points at Level 1:** 8 + Con. modifier
 **Hit Points per additional Messenger Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 

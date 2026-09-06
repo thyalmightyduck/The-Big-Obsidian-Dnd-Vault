@@ -23,7 +23,7 @@ name: Drake Companion
 size: Small
 type: [[Dragon]] 
 ac: 14 + PB (Natural Armor)
-hp: 5 + five times your ranger level (the drake has a number of Hit Dice [d10s] equal to your ranger level)
+hp: 5 + five times your ranger level (the drake has a number of [[Hit Point Dice|Hit Dice]] [d10s] equal to your ranger level)
 speed: 40 ft.
 stats: [16, 12, 15, 8, 14, 8]
 saves: 

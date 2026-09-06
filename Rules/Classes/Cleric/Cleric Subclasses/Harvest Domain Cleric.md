@@ -27,7 +27,7 @@
 ##### Core Traits
 **Primary Ability:** Wisdom
 
-**Hit Point Die:** D8 per Cleric level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Cleric level
 **Hit Points at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Cleric Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 

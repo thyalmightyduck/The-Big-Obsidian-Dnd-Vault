@@ -14,7 +14,7 @@
 | 9th   | +4                | Hands of a Healer (d8)                                        | 5           |
 
 ##### Core Traits
-**Hit Point Die:** D8 per Scholar level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Scholar level
 **[[Hit Point]] at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Scholar Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
@@ -62,7 +62,7 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 Starting at 2nd level, you can take a bonus action on each of your turns in combat. This action can be used only to make an Intelligence or Wisdom check, or to take the [[Help action]].
 
 ## Level 2: Hands of a Healer
-Beginning at 2nd level, you can use healing techniques to treat the wounds of your allies during a short rest. Choose a number of friendly creatures (including yourself) who spent one or more Hit Dice at the end of the short rest, up to twice your proficiency bonus. Each of those creatures regains an extra 1d6 hit points for each Hit Die spent.
+Beginning at 2nd level, you can use healing techniques to treat the wounds of your allies during a short rest. Choose a number of friendly creatures (including yourself) who spent one or more [[Hit Point Dice|Hit Dice]] at the end of the short rest, up to twice your proficiency bonus. Each of those creatures regains an extra 1d6 hit points for each Hit Die spent.
 
 The extra hit points increase to 1d8 when you reach 9th level in this calling.
 

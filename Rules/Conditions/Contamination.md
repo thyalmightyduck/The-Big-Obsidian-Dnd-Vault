@@ -29,7 +29,7 @@ When your Contamination level reaches 0, the condition ends, as well as the effe
 
 Skin, hair, fingernails, and toenails lost to mutations regrow normally once Contamination is removed. However, a [[Regenerate]] spell or similar magic is needed to restore any other body parts (such as teeth, limbs, or eyes) lost due to Contamination. Appendages or limbs that develop as a result of mutations wither and fall off when Contamination is removed, and other warped body parts are restored to their original form.
 
-**Dying with Contamination Levels.** If you die while you have one or more Contamination levels, your corpse reanimates as a [[Haze Husk]] 24 hours later. A creature with six or more class levels or hit dice rises as a [[Haze Wight]] instead.
+**Dying with Contamination Levels.** If you die while you have one or more Contamination levels, your corpse reanimates as a [[Haze Husk]] 24 hours later. A creature with six or more class levels or [[Hit Point Dice|hit dice]] rises as a [[Haze Wight]] instead.
 
 **Monstrous Transformation!** If you end your turn with six or more Contamination Levels, you permanently transform into a horrific monster controlled by the Game Master.
 
