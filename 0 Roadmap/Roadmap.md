@@ -289,15 +289,15 @@ Artificer
 - [x] Removed AI Homebrew 
 - [x] Add links to [[Silence]] spell
 - [x] add links to [[Influenza]] spell
-- [ ] Finish [[Delerium Dragon Wyrmling]]
-- [ ] Finish [[Eldritch Crawler]]
-- [ ] Finish [[Awakened Shrub]]
-- [ ] finish [[Shadow]]
-- [ ] finish [[Haze Husk]]
-- [ ] finish [[Haze Wight]]
-- [ ] finish [[Gibbering Mouther]]
-- [ ] finish [[Delerium Dreg]]
-- [ ] finish [[pyknic maunder]]
+- [x] Finish [[Delerium Dragon Wyrmling]]
+- [x] Finish [[Eldritch Crawler]]
+- [x] Finish [[Awakened Shrub]]
+- [x] finish [[Shadow]]
+- [x] finish [[Haze Husk]]
+- [x] finish [[Haze Wight]]
+- [x] finish [[Gibbering Mouther]]
+- [x] finish [[Delerium Dreg]]
+- [x] finish [[pyknic maunder]]
 - [ ] Fix Weapon Formatting
 # Additions
 Make Shop Roll Tables
@@ -320,6 +320,7 @@ Add Schools of Magic
 - Style Settings-mgmeyers
 - Supercharged Links-mdelobelle & Emile
 - Templater-SilentVoid
+- Git-Vinzent
 # Problem Plugins (Install at own risk)
 - Highlightr-chetachi
 - Janitor-Gabriele Cannata (Don’t have enabled unless you are actively using causes performance issues)

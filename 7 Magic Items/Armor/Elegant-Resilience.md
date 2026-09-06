@@ -4,6 +4,7 @@ tags:
   - Armor
   - Legendary
   - Attunement
+  - Homebrew
 ---
 # Elegant-Resilience
 > [!infobox]

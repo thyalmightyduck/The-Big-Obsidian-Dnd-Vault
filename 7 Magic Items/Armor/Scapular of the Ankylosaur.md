@@ -3,6 +3,7 @@ tags:
   - MagicItem
   - Armor
   - Rare
+  - Homebrew
 ---
 # Scapular of the Ankylosaur 
 ___  

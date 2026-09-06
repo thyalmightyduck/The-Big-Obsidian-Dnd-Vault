@@ -4,6 +4,7 @@ tags:
   - Armor
   - Legendary
   - Attunement
+  - Homebrew
 ---
 # Smog Barons Greatcoat
 > [!infobox]
