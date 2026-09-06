@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Rare
+---
 # Scapular of the Ankylosaur 
 ___  
   

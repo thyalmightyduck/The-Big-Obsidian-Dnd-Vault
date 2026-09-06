@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Rare
+---
 [[Heavy Armor]] ([[Chain Mail]]), Rare
 55 lb.
 AC 16

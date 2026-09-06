@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Rare
+---
 [[Medium Armor]] ([[Chain Shirt]]), Rare
 20 lb.
 AC 13 + Dex (max 2)

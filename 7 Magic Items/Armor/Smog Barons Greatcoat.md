@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Legendary
+  - Attunement
+---
 # Smog Barons Greatcoat
 > [!infobox]
 > # Smog Barons Greatcoat

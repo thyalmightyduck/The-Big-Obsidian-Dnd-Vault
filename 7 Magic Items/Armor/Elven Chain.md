@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Rare
+  - Variant
+---
 Generic Variant, Rare
 - - - 
 

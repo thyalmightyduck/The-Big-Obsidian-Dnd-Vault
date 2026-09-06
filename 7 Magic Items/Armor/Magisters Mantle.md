@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Legendary
+  - Attunement
+---
 
 > [!infobox]
 > # Magister’s Mantle
