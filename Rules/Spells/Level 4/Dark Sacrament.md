@@ -2,7 +2,7 @@ _Level 4 Evocation (sangromancy)_
 
 **Casting Time:** Action
 **Range:** Self
-**Components:** V, S, M (a dagger encrusted in jewels worth 100+ GP)
+**Components:** V, S, M (a [[dagger]] encrusted in jewels worth 100+ GP)
 **Duration:** Instantaneous
 
 As part of casting this spell, you must expend four [[Hit Point Dice]] or the spell automatically fails. Make a melee spell attack against a creature within 5 feet using the Material component of this spell. On a hit, roll the [[Hit Point Dice]] expended to cast the spell plus 4d8. You deal Necrotic damage equal to the roll's total. If this damage causes the creature to be reduced to 0 [[Hit Point]], it immediately dies and you gain one of the following dark blessings of your choice. When you take Radiant damage while you have a dark blessing, you take an extra 1d4 Radiant damage.
