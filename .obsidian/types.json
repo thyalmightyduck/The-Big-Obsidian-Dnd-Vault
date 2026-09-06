@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "ArmorClass": "number",
+    "MonsterType": "multitext",
+    "DMGImmunities": "multitext",
+    "Languages": "multitext",
+    "Speed": "multitext",
+    "ConditionImmunities": "multitext",
+    "Saves": "multitext",
+    "Skills": "multitext",
+    "DMGResistances": "multitext",
+    "DMGVulnerabilities": "multitext"
+  }
+}
