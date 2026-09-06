@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Armor
+  - Legendary
+  - Attunement
+---
 # Elegant-Resilience
 > [!infobox]
 > # Elegant-Resilience
