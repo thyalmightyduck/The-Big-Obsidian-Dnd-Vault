@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Blunderbuss, Hand]]), Uncommon*
 **Weapon:** 2d4 Piercing Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 15/60 ft.; Paper Cartridge Bullet), Blackpowder, Loading

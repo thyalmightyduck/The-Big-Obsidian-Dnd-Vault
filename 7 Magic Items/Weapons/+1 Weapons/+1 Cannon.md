@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Cannon]]), Uncommon*
 **Weapon:** 2d8 Fire Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 100/400ft.; Cannonball), Firearm, Heavy, Industrial Era, Loading, Two-Handed

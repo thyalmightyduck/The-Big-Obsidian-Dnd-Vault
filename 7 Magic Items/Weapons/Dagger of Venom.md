@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Rare
+---
 *Weapon ([[Dagger]]), Rare*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon
 **Properties:** Finesse, Light, Thrown (20/60 ft.)

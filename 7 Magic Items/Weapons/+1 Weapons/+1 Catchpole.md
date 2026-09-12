@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Catchpole]]), Uncommon*
 **Weapon:** 1d6 Piercing Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Reach, Two‑Handed

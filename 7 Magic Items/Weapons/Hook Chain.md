@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Rare
+  - Attunement
+  - Homebrew
+---
 > [!infobox]
 > # Hook Chain
 > ![[Hook Chain BGR PNG.png|cover hsmall]]

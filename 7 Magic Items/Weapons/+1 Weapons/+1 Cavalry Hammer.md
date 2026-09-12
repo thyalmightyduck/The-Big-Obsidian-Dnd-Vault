@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Cavalry Hammer]]), Uncommon*
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Armor-Piercing, Momentum (1d12)

@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Blackpowder Rifle]]), Uncommon*
 **Weapon:** 2d6 Piercing Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 80/300 ft.; Paper Cartridge Bullet), Blackpowder, Loading, Two‑Handed

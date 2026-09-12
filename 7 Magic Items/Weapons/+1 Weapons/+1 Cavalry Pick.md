@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Cavalry Pick]]), Uncommon*
 **Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Armor-Piercing, Momentum (1d12)

@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - VeryRare
+  - Attunement
+  - Homebrew
+---
 
 > [!infobox]
 > # Scimitar of Forgotten Steps

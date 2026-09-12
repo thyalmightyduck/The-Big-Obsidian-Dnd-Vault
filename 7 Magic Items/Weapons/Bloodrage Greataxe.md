@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Greataxe]]) Uncommon*
 > [!infobox]
 > # Bloodrage Greataxe

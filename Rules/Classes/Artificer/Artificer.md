@@ -161,7 +161,7 @@ Magic Item Plans (Artificer Level 2+)
 | [[Wand of Secrets]]                                         | No             |
 | [[+1 Wand of the War Mage]]                                 | Yes            |
 | [[+1 Weapon]]                                               | No             |
-| [[Wraps of Unarmed Power +1]]                               | No             |
+| [[+1 Wraps of Unarmed Power]]                               | No             |
 *You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.*
 
 Magic Item Plans (Artificer Level 6+)

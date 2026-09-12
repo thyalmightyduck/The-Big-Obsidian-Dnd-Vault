@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Common
+  - Attunement
+---
 *Weapon ([[Trident]]), Common (Requires [[Attunement]] By A [[Warforged]])*
 
 **Weapon:** 1d8 Piercing Martial Weapon, Melee Weapon, Thrown (20/60 ft.), Versatile (1d10) 

@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Cavalry Flail]]), Uncommon*
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Momentum (1d12)

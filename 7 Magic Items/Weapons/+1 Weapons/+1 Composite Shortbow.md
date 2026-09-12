@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 Weapon ([[Composite Shortbow]]), Uncommon
 **Weapon:** 1d6 Piercing Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 100/400 ft.; Arrow), Two‑Handed

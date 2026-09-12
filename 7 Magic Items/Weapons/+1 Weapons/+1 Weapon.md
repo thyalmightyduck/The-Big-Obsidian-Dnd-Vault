@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Variant
+  - Uncommon
+---
 # WOP
 *Generic Variant, Uncommon*
 - - - 

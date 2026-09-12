@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Dagger]]), Uncommon*
 **Weapon:** 1d4 Piercing, Finesse, Light, Thrown (20/60 ft.)
 2 GP 1lbs

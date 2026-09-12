@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Blowgun]]), Uncommon*
 **Weapon:** 1 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 25/100ft.; [[Needle]]), Loading
