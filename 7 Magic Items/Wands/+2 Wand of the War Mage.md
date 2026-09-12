@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Wand
+  - Rare
+  - Attunement
+---
 Wand, Rare (Requires [[Attunement]] By a Spellcaster)
 1 lb.
 - - - 

@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Shield
+  - Rare
+---
 Shield ([[Shield]]), Rare
 6 lb.
 AC +2

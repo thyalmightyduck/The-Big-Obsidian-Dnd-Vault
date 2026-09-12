@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Legendary
+  - Attunement
+  - Homebrew
+---
 *Wonderous Item, Legendary (Requires [[Attunement]])*
 > [!infobox]
 > # Hedron Maledictum

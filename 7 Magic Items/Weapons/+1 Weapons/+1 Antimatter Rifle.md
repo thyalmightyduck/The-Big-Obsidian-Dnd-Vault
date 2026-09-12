@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Antimatter Rifle]]), Uncommon*
 **Weapon:** 6d8 Necrotic Futuristic, Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (120/360 ft.; Energy Cell), Reload (2 shots), Two‑Handed

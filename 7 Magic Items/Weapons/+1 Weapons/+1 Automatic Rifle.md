@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Automatic Rifle]]), Uncommon*
 **Weapon:** 2d8 Piercing Modern, Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (80/240 ft.; [[Firearm Bullet]]), Burst Fire, Reload (30 shots), Two‑Handed

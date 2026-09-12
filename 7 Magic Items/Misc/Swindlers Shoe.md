@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Rare
+  - Attunement
+  - Homebrew
+---
 # Swindler’s Shoe
 > [!infobox]
 > # Swindler’s Shoe

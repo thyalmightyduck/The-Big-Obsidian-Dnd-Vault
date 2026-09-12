@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - Boots
+  - WondrousItem
+  - Uncommon
+  - Attunement
+---
 *Wondrous Item, Uncommon (Requires [[Attunement]])*
 - - - 
 

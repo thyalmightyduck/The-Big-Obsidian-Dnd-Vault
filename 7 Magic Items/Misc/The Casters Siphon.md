@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Rare
+  - Attunement
+---
 # The Casters Siphon
 > [!infobox]
 > # The Casters Siphon

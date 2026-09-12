@@ -1,3 +1,12 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Ring
+  - VeryRare
+  - Attunement
+  - Homebrew
+---
 # Headmaster’s Ring
 > [!infobox]
 > # Headmaster’s Ring

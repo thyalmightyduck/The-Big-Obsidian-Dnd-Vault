@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 
 *Weapon ([[Arbalest]]), Uncommon*
 **Weapon:** 2d6 Piercing Advanced Weapon, Ranged Weapon

@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Shield
+  - Rare
+  - Attunement
+---
 Shield ([[Shield]]), Rare (Requires [[Attunement]])
 6 lb.
 AC +2

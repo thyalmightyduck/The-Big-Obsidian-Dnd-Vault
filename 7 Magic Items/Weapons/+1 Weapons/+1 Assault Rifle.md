@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Assault Rifle]]), Uncommon*
 **Weapon:** 2d6 Piercing Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 80/320ft.; [[Bullet]]), Firearm, Modern Era, Two-Handed

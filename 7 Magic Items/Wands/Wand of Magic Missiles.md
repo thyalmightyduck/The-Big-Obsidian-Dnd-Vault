@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Wand
+  - Uncommon
+---
 Wand, Uncommon
 1 lb.
 - - - 

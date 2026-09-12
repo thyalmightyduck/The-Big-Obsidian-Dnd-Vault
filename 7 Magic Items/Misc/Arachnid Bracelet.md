@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - VeryRare
+  - Attunement
+  - Homebrew
+---
 # Arachnid Bracelet
 
 > [!infobox]

@@ -1,3 +1,12 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Ring
+  - Uncommon
+  - Attunement
+  - Homebrew
+---
 # Buckler Band
 > [!infobox]
 > # Buckler Band

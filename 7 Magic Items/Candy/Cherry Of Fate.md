@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - Candy
+  - WondrousItem
+  - Rare
+  - Homebrew
+---
 > [!infobox]
 > # Cherry Of Fate
 > ![[Cherry Of Fate BGR PNG.png|cover hsmall]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Potion
+  - Common
+---
 > [!infobox]
 > # Potion Of Healing
 >

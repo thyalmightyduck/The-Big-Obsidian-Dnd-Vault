@@ -1,12 +1,11 @@
-> [!infobox]
-> # Oil Of Slipperiness
-> ###### Stats
-> |  |  |
-> | ---- | ---- |
-> | Magic Ring | Uncommon |
-> | Weight | ½ lbs. |
-> ###### Description
-The affected creature then gains the effect of the [[Freedom of Movement]] spell for 8 hours
+---
+tags:
+  - MagicItem
+  - Potion
+  - Uncommon
+  - DMG24
+---
+*Potion, Uncommon*
 
 One vial of this oil can cover one Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the [[Freedom of Movement]] spell for 8 hours.
 

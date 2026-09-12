@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Gauntlet
+  - Rare
+  - Homebrew
+---
 # Lucent Ward
 > [!infobox]
 > # Lucent Ward

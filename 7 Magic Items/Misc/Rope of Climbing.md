@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Uncommon
+---
 > [!infobox]
 > # Rope Of Climbing
 > ![[Rope Of Climbing BGR PNG.png|cover hsmall]]

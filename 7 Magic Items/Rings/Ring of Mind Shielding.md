@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - Ring
+  - Uncommon
+  - Attunement
+---
 Ring, Uncommon (Requires [[Attunement]])
 - - - 
 

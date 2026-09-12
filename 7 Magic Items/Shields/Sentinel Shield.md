@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Shield
+  - Uncommon
+---
 *Shield, Uncommon*
 *6 Lbs*
 

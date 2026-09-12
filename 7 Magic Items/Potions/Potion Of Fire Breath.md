@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Potion
+  - Uncommon
+---
 
 > [!infobox]
 > # Potion Of Fire Breath

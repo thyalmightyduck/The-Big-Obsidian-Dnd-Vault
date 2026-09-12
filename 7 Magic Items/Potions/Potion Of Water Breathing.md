@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Potion
+  - Uncommon
+---
 *Potion, Uncommon
 1/2 Lbs.*
 

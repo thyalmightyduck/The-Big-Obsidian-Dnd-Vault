@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Uncommon
+  - Attunement
+  - Homebrew
+---
 *Wondrous Item, Uncommon, requires [[Attunement]]*
 > [!infobox]
 > # Rattler's Grip

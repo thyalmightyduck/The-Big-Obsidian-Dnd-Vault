@@ -12,7 +12,7 @@
 | 6          | [[Charming Attire]]              |
 | 7          | [[Hedron Maledictum]]            |
 | 8          | [[Helm Of Comprehend Languages]] |
-| 9          | [[Horse Shoes Of A Sephyr]]      |
+| 9          | [[Horseshoes Of A Zephyr]]      |
 | 10         | [[Lichbound Mask]]               |
 | 11         | [[Magister's Mantle]]            |
 | 12         | [[Pendant Of The Bloodfang]]     |

@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Uncommon
+  - Attunement
+---
 
 > [!infobox]
 > # Pipes Of The Sewers

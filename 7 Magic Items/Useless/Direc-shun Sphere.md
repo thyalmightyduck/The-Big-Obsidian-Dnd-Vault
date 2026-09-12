@@ -1,2 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Useless
+  - Homebrew
+---
 Despite the name, it does absolutely nothing to help guide you toward your goal.
 Instead, every 1D12 Minutes, you hear a faint *"Are we thare yet?"* in your mind. If you answer, it immediately folloes with, *"How about now?"*

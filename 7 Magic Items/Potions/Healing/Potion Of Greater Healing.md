@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Potion
+  - Common
+---
 > [!infobox]
 > # Potion Of Greater Healing
 > ![[Potion Of Healing BGR PNG.png|cover hsmall]]

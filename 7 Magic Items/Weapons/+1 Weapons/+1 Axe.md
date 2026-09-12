@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
 *Weapon ([[Axe]]), Uncommon*
 **Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon
 **Properties:** Versatile (1d8)

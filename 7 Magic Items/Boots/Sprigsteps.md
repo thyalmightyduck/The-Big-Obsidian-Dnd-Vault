@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - Boots
+  - WondrousItem
+  - Rare
+  - Homebrew
+---
 # Sprigsteps
 > [!infobox]
 > # Sprigsteps

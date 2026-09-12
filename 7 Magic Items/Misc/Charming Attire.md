@@ -1,3 +1,10 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Rare
+  - Attunement
+---
 
 > [!infobox]
 > # Charming Attire

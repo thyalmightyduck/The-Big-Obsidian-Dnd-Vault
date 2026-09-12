@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Rare
+  - Attunement
+  - Homebrew
+---
 
 > [!infobox]
 > # Lichbound Mask

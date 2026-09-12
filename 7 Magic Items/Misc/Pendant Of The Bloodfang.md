@@ -1,3 +1,11 @@
+---
+tags:
+  - MagicItem
+  - WondrousItem
+  - Rare
+  - Attunement
+  - Homebrew
+---
 *Wonderous Item, Rare, Requires [[Attunement]]* 
 > [!infobox]
 > # Ring Of Silent Steps

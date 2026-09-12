@@ -1,3 +1,9 @@
+---
+tags:
+  - MagicItem
+  - Potion
+  - Rare
+---
 Potion, Rare
 *1/2 Lbs* 
 
