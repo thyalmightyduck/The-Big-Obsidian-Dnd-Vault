@@ -1,3 +1,13 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Simple
+  - Melee
+  - Light
+  - Thrown
+  - MasteryNick
+---
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon
 **Properties:** Light, Thrown (20/60 ft.)
 2 GP, 2 lb.

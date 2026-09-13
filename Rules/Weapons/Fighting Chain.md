@@ -1,3 +1,15 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Melee
+  - Double
+  - Finesse
+  - Reach
+  - TwoHanded
+  - MasteryDisarming
+---
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Double, Finesse, Reach, Two‑Handed
 500 GP, 3 lb.

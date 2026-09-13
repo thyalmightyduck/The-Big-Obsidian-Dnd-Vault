@@ -1,3 +1,11 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Light
+---
 **Weapon:** 1d4 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Light
 2 lb.

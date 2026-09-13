@@ -1,3 +1,14 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Melee
+  - Momentum
+  - Reach
+  - TwoHanded
+  - MasterySet
+---
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Momentum (2d10), Reach, Two‑Handed
 500 GP, 6 lb.

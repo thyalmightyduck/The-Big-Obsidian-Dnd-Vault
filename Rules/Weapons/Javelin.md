@@ -1,3 +1,12 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Simple
+  - Melee
+  - Thrown
+  - MasterySlow
+---
 **Weapon:** 1d6 Piercing [[Simple Weapons]], [[Melee Weapons]]
 **Properties:** Thrown (30/120 ft.)
 5 SP 2lbs

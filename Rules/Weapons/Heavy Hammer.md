@@ -1,3 +1,12 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Heavy
+  - Versatile
+---
 **Weapon:** 1d8 Bludgeoning, Martial Weapon, Melee Weapon
 **Properties:** Heavy, versatile (1d10)
 1 G, 4 lb.

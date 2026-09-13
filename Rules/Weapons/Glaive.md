@@ -1,3 +1,14 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Heavy
+  - Reach
+  - TwoHanded
+  - MasteryGraze
+---
 **Weapon:** 1d10 Slashing Martial Weapon, Melee Weapon
 **Properties:** Heavy, Reach, Two-Handed
 20 GP 6lbs

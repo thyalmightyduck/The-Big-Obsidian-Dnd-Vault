@@ -1,3 +1,16 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Ranged
+  - Range
+  - Ammunition
+  - Heavy
+  - Loading
+  - TwoHanded
+  - MasteryPush
+---
 **Weapon:** 1d10 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 100/400ft.; Bolt), Heavy, Loading, Two-Handed
 50 GP 18lbs

@@ -1,3 +1,14 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Heavy
+  - Reach
+  - TwoHanded
+  - MasteryTopple
+---
 **Weapon:** 1d10 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Heavy, Reach, Two‑Handed (unless mounted)
 10 GP, 6 lb.

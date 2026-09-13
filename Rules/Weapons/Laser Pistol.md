@@ -1,3 +1,17 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Futuristic
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - Heavy
+  - TwoHanded
+  - MasterySlow
+---
 **Weapon:** 3d6 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (40/120 ft.; Energy Cell), Reload (50 shots)
 2 lb.

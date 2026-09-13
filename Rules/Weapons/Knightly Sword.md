@@ -1,3 +1,12 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Melee
+  - Versatile
+  - MasteryDefending
+---
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Versatile (1d10)
 750 GP, 3 lb.

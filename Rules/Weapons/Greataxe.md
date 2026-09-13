@@ -1,3 +1,13 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Heavy
+  - TwoHanded
+  - MasteryCleave
+---
 **Weapon:** 1d12 Slashing, Martial Weapon, Melee Weapon
 **Properties:** Heavy, Two-Handed
 30 GP 7lbs

@@ -1,4 +1,14 @@
-**Weapon:** 1d6 Slashing Simple Weapon, Weapon Weapon
+---
+tags:
+  - Item
+  - Weapon
+  - Simple
+  - Melee
+  - Light
+  - Thrown
+  - MasteryVex
+---
+**Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon
 **Properties:** Light, Thrown (20/60 ft.)
 5 GP 2lbs
 **Mastery:** Vex
@@ -9,5 +19,3 @@
 
 **Mastery: Vex:** If you hit a creature with this weapon and deal damage to the creature, you have [[Advantage]] on your next [[Attack Rolls]] against that creature before the end of your next turn.
 
-##### Tags:
-#PHB24 
