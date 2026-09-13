@@ -1,3 +1,14 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Melee
+  - Hafted
+  - Reach
+  - TwoHanded
+  - MasteryEntangling
+---
 **Weapon:** 1d6 Piercing Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Reach, Two‑Handed
 500 GP, 5 lb.

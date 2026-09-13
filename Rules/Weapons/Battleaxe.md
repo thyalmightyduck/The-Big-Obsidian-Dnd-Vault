@@ -1,3 +1,12 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Versatile
+  - MasteryTopple
+---
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon
 **Properties:** Versatile (1d10)
 10 GP, 4 lb.

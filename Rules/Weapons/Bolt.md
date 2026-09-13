@@ -1,3 +1,9 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Ammunition
+---
 *Ammunition*
 *5 CP, 12 oz*
 

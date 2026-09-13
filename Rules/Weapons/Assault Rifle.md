@@ -1,3 +1,16 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - TwoHanded
+  - Reload
+  - MasteryAutomatic
+---
 **Weapon:** 2d6 Piercing Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 80/320ft.; Bullet), Firearm, Modern Era, Two-Handed
 300 GP 7lbs

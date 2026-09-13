@@ -1,3 +1,13 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Melee
+  - ArmorPiercing
+  - Momentum
+  - MasterySap
+---
 **Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Armor-Piercing, Momentum (1d12)
 500 GP, 3 lb.

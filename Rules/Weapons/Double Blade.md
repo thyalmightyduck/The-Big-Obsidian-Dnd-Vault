@@ -1,3 +1,12 @@
+---
+tags:
+  - Advanced
+  - Melee
+  - Double
+  - Momentum
+  - TwoHanded
+  - MasterySet
+---
 **Weapon:** 1d6 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Double, Momentum (1d10), Two‑Handed
 500 GP, 5 lb.

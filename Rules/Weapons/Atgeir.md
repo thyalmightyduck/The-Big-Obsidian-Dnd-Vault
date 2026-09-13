@@ -1,3 +1,14 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Heavy
+  - Reach
+  - TwoHanded
+  - MasteryPull
+---
 **Weapon:** 1d10 Piercing Martial Weapon, Melee Weapon
 **Properties:** Heavy, Reach, Two‑Handed
 25 GP 7lbs

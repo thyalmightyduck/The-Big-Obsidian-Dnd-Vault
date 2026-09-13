@@ -1,3 +1,12 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Melee
+  - Momentum
+  - MasterySwift
+---
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Momentum (1d12)
 500 GP, 3 lb.

@@ -1,3 +1,15 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Ranged
+  - Range
+  - Ammunition
+  - Blackpowder
+  - Loading
+  - MasteryScatter
+---
 **Weapon:** 2d6 Piercing, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 30 ft.; Dragon Shot), Blackpowder, Loading
 750 GP, 4 lb.

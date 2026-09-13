@@ -1,3 +1,15 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Ranged
+  - Range
+  - Ammunition
+  - Blackpowder
+  - Loading
+  - MasteryScatter
+---
 **Weapon:** 2d4 Piercing Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 15/60 ft.; Paper Cartridge Bullet), Blackpowder, Loading
 500 GP, 4 lb.

@@ -1,3 +1,14 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Ranged
+  - Range
+  - Ammunition
+  - Loading
+  - MasteryVex
+---
 **Weapon:** 1 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 25/100ft.; Needle), Loading
 10 GP 1 lbs

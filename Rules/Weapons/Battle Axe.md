@@ -1,3 +1,11 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Martial
+  - Melee
+  - Versatile
+---
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon
 **Properties:** Versatile (1d10)
 1 G, 4 lb.

@@ -1,3 +1,17 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Simple
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - Recoil
+  - Reload
+  - TwoHanded
+  - MasteryScatter
+---
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 20/60ft.; Shell),Firearm, Industrial Era, Recoil, Reload, Two-Handed
 175 GP 8lbs

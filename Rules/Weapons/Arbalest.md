@@ -1,3 +1,16 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Advanced
+  - Ranged
+  - Range
+  - Ammunition
+  - Heavy
+  - Loading
+  - TwoHanded
+  - MasteryStrongDraw
+---
 **Weapon:** 2d6 Piercing Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 80/300 ft.; Bolt), Heavy, Loading, Two‑Handed
 750 GP, 20 lb.

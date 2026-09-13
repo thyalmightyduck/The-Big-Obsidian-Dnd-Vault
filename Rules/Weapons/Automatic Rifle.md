@@ -1,3 +1,18 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Modern
+  - Martial
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - BurstFire
+  - Reload
+  - TwoHanded
+  - MasterySlow
+---
 **Weapon:** 2d8 Piercing Modern, Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (80/240 ft.; Firearm Bullet), Burst Fire, Reload (30 shots), Two‑Handed
 8 lb.

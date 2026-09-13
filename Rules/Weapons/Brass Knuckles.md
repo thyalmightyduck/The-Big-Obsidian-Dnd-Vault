@@ -1,3 +1,12 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Simple
+  - Melee
+  - Light
+  - MasteryPush
+---
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon
 **Properties:** Light
 1 GP, 1 lb.

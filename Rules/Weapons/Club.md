@@ -1,3 +1,12 @@
+---
+tags:
+  - Item
+  - Weapon
+  - Simple
+  - Melee
+  - Light
+  - MasterySlow
+---
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon
 **Properties:** Light
 1 SP 2lbs
