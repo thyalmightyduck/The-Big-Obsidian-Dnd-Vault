@@ -1,5 +1,14 @@
 ---
 tags:
+  - Item
+  - Weapon
+  - Martial
+  - Ranged
+  - Range
+  - Ammunition
+  - Heavy
+  - TwoHanded
+  - MasterySlow
 ---
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 150/600ft.; Arrow), Heavy, Two-Handed
