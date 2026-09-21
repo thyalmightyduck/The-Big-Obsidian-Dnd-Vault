@@ -1,6 +1,6 @@
 ---
 dnd_character: true
-class: Barbarian
+class: "[[Barbarian]]"
 level: 5
 abilities:
   str: 5
@@ -16,4 +16,11 @@ attacks:
     damage: ""
     damage_type: ""
     properties: []
+hit_dice:
+  total: 5
+  used: 0
+  die: d10
+hp:
+  current: 50
+  max: 50
 ---
