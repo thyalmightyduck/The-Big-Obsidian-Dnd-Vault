@@ -1,3 +1,15 @@
+---
+tags:
+  - Weapon
+  - Simple
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - Light
+  - Reload
+  - MasteryVex
+---
 **Weapon:** 2d4 Piercing Simple Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 30/120ft.; Bullet), Firearm, Industrial Era, Light, Reload
 75 GP 1lbs

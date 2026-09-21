@@ -1,3 +1,14 @@
+---
+tags:
+  - Weapon
+  - Martial
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - Loading
+  - MasterySlow
+---
 **Weapon:** 1d10 Piercing, [[Martial Weapons]], [[Ranged Weapons]], [[Firearms]]
 **Properties:** Ammunition (Range 30/90 Ft.; [[Firearm Bullets]]), Loading
 250 GP, 3 Lb.

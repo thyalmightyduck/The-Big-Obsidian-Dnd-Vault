@@ -1,3 +1,10 @@
+---
+tags:
+  - Weapon
+  - Simple
+  - Melee
+  - MasterySap
+---
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon
 2 GP, 3 lb.
 **Mastery:** Sap

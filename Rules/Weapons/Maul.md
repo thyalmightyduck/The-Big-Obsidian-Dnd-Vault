@@ -1,3 +1,12 @@
+---
+tags:
+  - Weapon
+  - Martial
+  - Melee
+  - Heavy
+  - TwoHanded
+  - MasteryTopple
+---
 **Weapon:** 2d6 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Heavy, Two‑Handed
 10 GP, 10 lb.

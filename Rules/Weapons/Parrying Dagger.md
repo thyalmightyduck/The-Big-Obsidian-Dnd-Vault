@@ -1,3 +1,13 @@
+---
+tags:
+  - Advanced
+  - Melee
+  - Weapon
+  - Finesse
+  - Light
+  - Thrown
+  - MasteryDisarming
+---
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Finesse, Light, Thrown (20/60 ft.)
 350 GP, 1 lb.

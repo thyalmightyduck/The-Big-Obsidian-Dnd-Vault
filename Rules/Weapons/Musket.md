@@ -1,3 +1,15 @@
+---
+tags:
+  - Weapon
+  - Martial
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - Loading
+  - TwoHanded
+  - MasterySlow
+---
 **Weapon:** 1d12 Piercing, [[Martial Weapons]], [[Ranged Weapons]], [[Firearms]]
 **Properties:** Ammunition (Range 40/120 ft.; [[Firearm Bullets]]), Loading, Two-Handed
 500 GP, 10 Lb.
