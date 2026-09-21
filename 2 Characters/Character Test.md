@@ -9,13 +9,7 @@ abilities:
   int: 10
   wis: 10
   cha: 10
-attacks:
-  - name: Fireball
-    ability: ""
-    proficient: false
-    damage: ""
-    damage_type: ""
-    properties: []
+attacks: []
 hit_dice:
   total: 5
   used: 0
@@ -23,4 +17,6 @@ hit_dice:
 hp:
   current: 50
   max: 50
+spells:
+  cantrips: []
 ---
