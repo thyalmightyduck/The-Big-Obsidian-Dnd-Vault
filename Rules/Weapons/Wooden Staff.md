@@ -1,3 +1,11 @@
+---
+tags:
+  - Weapon
+  - Simple
+  - SpellcastingFocus
+  - Versatile
+  - MasteryTopple
+---
 **Weapon:** 1d6 Bludgeoning, Simple Weapon, Spellcasting Focus
 **Properties:** Versatile (2d8)
 5 GP 4lbs

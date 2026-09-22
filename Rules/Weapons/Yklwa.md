@@ -1,3 +1,10 @@
+---
+tags:
+  - Weapon
+  - Simple
+  - Melee
+  - Thrown
+---
 **Weapon:** 1d8 Piercing, Simple Weapon, Melee Weapon
 **Properties:** Thrown (10/30 ft.)
 1 GP, 3 lb.

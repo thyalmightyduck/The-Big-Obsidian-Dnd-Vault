@@ -1,5 +1,17 @@
+---
+tags:
+  - Weapon
+  - Advanced
+  - Ranged
+  - Range
+  - Ammunition
+  - Magazine
+  - Repeater
+  - TwoHanded
+  - MasterySlow
+---
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Ranged Weapon
-**Properties:** Ammunition (Range 80/300 ft.; [Sling Bullet](https://5e.tools/items.html#sling%20bullet_xphb)), Magazine (9), Repeater, Two‑Handed
+**Properties:** Ammunition (Range 80/300 ft.; [[Sling Bullet]]), Magazine (9), Repeater, Two‑Handed
 750 GP, 9 lb.
 **Mastery:** Slow
 

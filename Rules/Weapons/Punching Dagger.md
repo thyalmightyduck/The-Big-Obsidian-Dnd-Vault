@@ -1,3 +1,13 @@
+---
+tags:
+  - Weapon
+  - Advanced
+  - Melee
+  - ArmorPiercing
+  - Finesse
+  - Light
+  - MasteryDefending
+---
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Armor-Piercing, Finesse, Light
 300 GP, 1 lb.

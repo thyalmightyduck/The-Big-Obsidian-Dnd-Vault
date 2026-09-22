@@ -1,3 +1,12 @@
+---
+tags:
+  - Weapon
+  - Advanced
+  - Melee
+  - Light
+  - Thrown
+  - MasteryReturning
+---
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Light, Thrown (20/60 ft.)
 300 GP, 2 lb.

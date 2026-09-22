@@ -1,3 +1,11 @@
+---
+tags:
+  - Weapon
+  - Advanced
+  - Melee
+  - Finesse
+  - MasterySwift
+---
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Finesse
 500 GP, 2 lb.

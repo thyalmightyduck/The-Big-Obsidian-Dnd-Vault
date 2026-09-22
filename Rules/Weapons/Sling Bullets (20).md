@@ -1,3 +1,8 @@
+---
+tags:
+  - Item
+  - Ammunition
+---
 _Ammunition_
 _4 CP, 1½ lb._
 - - - 

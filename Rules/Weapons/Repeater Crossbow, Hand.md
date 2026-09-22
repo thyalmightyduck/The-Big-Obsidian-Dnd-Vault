@@ -1,3 +1,15 @@
+---
+tags:
+  - Weapon
+  - Advanced
+  - Ranged
+  - Range
+  - Ammunition
+  - Light
+  - Magazine
+  - Repeater
+  - MasteryVex
+---
 **Weapon:** 1d6 Piercing, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 30/120 ft.; Bolt), Light, Magazine (3), Repeater
 500 GP, 3 lb.

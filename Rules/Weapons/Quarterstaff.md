@@ -1,3 +1,11 @@
+---
+tags:
+  - Weapon
+  - Simple
+  - Melee
+  - Versatile
+  - MasteryTopple
+---
 **Weapon:** 1d6 Bludgeoning Simple Weapon, Melee Weapon
 **Properties:** Versatile (1d8)
 50 GP 2lbs

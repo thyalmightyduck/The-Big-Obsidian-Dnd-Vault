@@ -1,3 +1,12 @@
+---
+tags:
+  - Weapon
+  - Simple
+  - Ranged
+  - Thrown
+  - Versatile
+  - MasterySap
+---
 **Weapon:** 1d6 Piercing Simple Weapon, Ranged Weapon
 **Properties:** Thrown (20/60 Ft.), Versatile (1d8)
 10 GP 3lbs

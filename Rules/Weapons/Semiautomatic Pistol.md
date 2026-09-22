@@ -1,3 +1,15 @@
+---
+tags:
+  - Weapon
+  - Modern
+  - Martial
+  - Ranged
+  - Firearm
+  - Range
+  - Ammunition
+  - Reload
+  - MasteryVex
+---
 **Weapon:** 2d6 Piercing, Modern, Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (50/150 ft.; [[Firearm Bullet]]), Reload (15 shots)
 3 lb.

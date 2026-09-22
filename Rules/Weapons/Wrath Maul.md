@@ -1,3 +1,14 @@
+---
+tags:
+  - Weapon
+  - Advanced
+  - Melee
+  - Hafted
+  - Heavy
+  - Momentum
+  - TwoHanded
+  - MasteryBrutal
+---
 **Weapon:** 2d6 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Momentum (2d8), Two‑Handed
 750 GP, 15 lb.

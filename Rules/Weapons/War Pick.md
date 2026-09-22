@@ -1,3 +1,11 @@
+---
+tags:
+  - Weapon
+  - Martial
+  - Melee
+  - Versatile
+  - MasterySap
+---
 **Weapon:** 1d8 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Versatile (1d10)
 5 GP, 2 lb.

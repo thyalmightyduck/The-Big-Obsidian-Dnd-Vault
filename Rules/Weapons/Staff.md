@@ -1,3 +1,10 @@
+---
+tags:
+  - Weapon
+  - Simple
+  - Melee
+  - Versatile
+---
 **Weapon:** 1d4 Bludgeoning, Simple Weapon, Melee Weapon
 **Properties:** Versatile (1d6)
 2 C, 2 lb.

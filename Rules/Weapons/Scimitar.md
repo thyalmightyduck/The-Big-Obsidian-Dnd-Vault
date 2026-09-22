@@ -1,3 +1,12 @@
+---
+tags:
+  - Weapon
+  - Martial
+  - Melee
+  - Finesse
+  - Light
+  - MasteryNick
+---
 **Weapon:** 1d6 Slashing Martial Weapon, Melee Weapon
 **Properties:** Finesse, Light
 525 GP 3lbs

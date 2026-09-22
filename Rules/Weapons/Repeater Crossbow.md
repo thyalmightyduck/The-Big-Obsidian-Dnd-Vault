@@ -1,3 +1,15 @@
+---
+tags:
+  - Weapon
+  - Advanced
+  - Ranged
+  - Range
+  - Ammunition
+  - Magazine
+  - Repeater
+  - TwoHanded
+  - MasterySlow
+---
 **Weapon:** 1d8 Piercing, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 80/300 ft.; Bolt), Magazine (6), Repeater, Two‑Handed
 750 GP, 7 lb.
