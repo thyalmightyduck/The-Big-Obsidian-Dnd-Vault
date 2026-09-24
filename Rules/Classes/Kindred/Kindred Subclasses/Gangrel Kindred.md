@@ -32,7 +32,7 @@
 
 **[[Saving Throw]] Proficiencies:** Constitution, Charisma
 **Skill Proficiencies:** _Choose 2:_ [[Athletics]], [[Deception]], [[History]], [[Intimidation]], [[Perception]], [[Persuasion]], [[Survival]], or [[Stealth]].
-**Weapon Proficiencies:** [[Simple weapons]] and [[Martial Weapons]] that have the Light property
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]] that have the Light property
 **Armor Training:** [[Light armor]] and [[Breastplate]]
 
 **Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger|Daggers]], [[Shortsword]], [[Artisans Tools]] of your choice, [[Explorers Pack]], and 15 GP; or (B) 75 GP
@@ -43,7 +43,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
 **Skill Proficiencies:** _Choose 1:_ [[Athletics]], [[Deception]], [[History]], [[Intimidation]], [[Perception]], [[Persuasion]], [[Survival]], or [[Stealth]].
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 **Armor Training:** [[Light armor]] and [[Breastplate]]
 
 ## Level 1: Feed

@@ -32,7 +32,7 @@
 
 **Skill Proficiencies:** _Choose 2:_ Animal Handling, Insight, Medicine, Nature, Perception, or Persuasion.
 
-**Weapon Proficiencies:** [[Simple weapons]] and [[Net]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Net]]
 
 **Tool Proficiencies:** One type of artisan's tools or one musical instrument of your choice
 
@@ -41,7 +41,7 @@
 You start with the following items, plus anything provided by your background.
 
 - (a) [[Scale Mail]] or (b) [[leather armor]]
-- A [[simple weapons]], a [[Net]] and a [[shield]]
+- A [[Simple Weapons]], a [[Net]] and a [[shield]]
 - A [[Light Crossbow]] and [[Bolts (20)]]
 - (a) a [[Dungeoneers Pack]] or (b) an [[Explorers Pack]]
 
@@ -50,7 +50,7 @@ Alternatively, you may start with 5d4*10 gp to buy your own equipment.
 ##### Multiclassing
 **Ability Score Minimum:** Intelligence 13 or Wisdom 13 or Charisma 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
-**Weapon Proficiencies:** [[Simple weapons]] and [[Net]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Net]]
 **Armor Training:** [[Light armor]] and [[Shields]]
 
 ## Level 1: Pocket Familiar

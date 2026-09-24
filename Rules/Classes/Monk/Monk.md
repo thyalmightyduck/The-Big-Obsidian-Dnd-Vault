@@ -34,7 +34,7 @@
 
 **Skill Proficiencies:** _Choose 2:_ Acrobatics, Athletics, History, Insight, Religion, or Stealth.
 
-**Weapon Proficiencies:** [[Simple weapons]] and [[Martial Weapons]] that have the Light property
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]] that have the Light property
 
 **Tool Proficiencies:** Choose one type of [[Artisans Tools]] or [[Musical Instrument]]
 

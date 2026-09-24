@@ -1,0 +1,4 @@
+---
+aliases:
+  - Melee Weapon
+---

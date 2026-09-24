@@ -34,7 +34,7 @@
 
 **Skill Proficiencies:** _Choose 2:_ Acrobatics, Athletics, Deception, Intimidation, Perception, Sleight of Hand, or Stealth.
 
-**Weapon Proficiencies:** [[Simple weapons]] and improvised
+**Weapon Proficiencies:** [[Simple Weapons]] and improvised
 
 **Tool Proficiencies:** Choose one type of [[Gaming Set]]
 

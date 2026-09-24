@@ -90,7 +90,6 @@ Base items. This item variant can be applied to the following base items:
 - [[Military Fork]] ([[+1 Military Fork]])
 - [[Morningstar]] ([[+1 Morningstar]])
 - [[Musket]] ([[+1 Musket]])
-- [[Musket]] ([[+1 Musket]])
 - [[Parlor Gun]] ([[+1 Parlor Gun]])
 - [[Parrying Dagger]] ([[+1 Parrying Dagger]])
 - [[Pike]] ([[+1 Pike]])

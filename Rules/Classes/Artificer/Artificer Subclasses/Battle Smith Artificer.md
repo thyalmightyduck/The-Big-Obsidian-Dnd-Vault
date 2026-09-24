@@ -31,7 +31,7 @@
 
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], or [[Sleight of Hand]].
 
-**Weapon Proficiencies:** [[Simple weapons]] and firearms
+**Weapon Proficiencies:** [[Simple Weapons]] and firearms
 
 **Tool Proficiencies:** [[Thieves Tools]], [[Tinkers Tools]], and one type of [[Artisans Tools]] of your choice
 
@@ -39,7 +39,7 @@
 
 You start with the following items, plus anything provided by your background.
 
-- any two [[simple weapons]] of your choice
+- any two [[Simple Weapons]] of your choice
 - a [[Light Crossbow]] and [[Bolts (20)]]
 - (a) [[studded leather armor]] or (b) [[scale mail]]
 - [[thieves' tools]] and a [[Dungeoneers Pack]]
@@ -247,7 +247,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 ### Battle Ready
 When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:
 
-- You gain [[proficiency]] with [[martial weapons]].
+- You gain [[proficiency]] with [[Martial Weapons]].
 - When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
 
 ### [[Steel Defender]]

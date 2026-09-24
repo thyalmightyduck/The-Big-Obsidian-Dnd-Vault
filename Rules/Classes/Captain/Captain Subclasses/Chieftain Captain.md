@@ -22,7 +22,7 @@
 
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Animal Handling]], [[Athletics]], [[Insight]], [[Intimidation]], [[Persuasion]], or Travel.
 
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 
 **Armor Training:** [[Light armor]], [[Medium armor]], and [[Heavy armor]] and [[Shields]]
 
@@ -30,12 +30,12 @@
 
 - (a) [[ring-mail]] or (b) [[hide armor]]
 - (a) a martial melee weapon and a [[shield]] or (b) a martial melee weapon and a simple melee weapon
-- (a) a [[shortbow]] and a [[Quiver]] of  [[Arrows (20)]] or (b) two simple [[simple weapons]]
+- (a) a [[shortbow]] and a [[Quiver]] of  [[Arrows (20)]] or (b) two simple [[Simple Weapons]]
 
 ##### Multiclassing
 **Ability Score Minimum:** Strength 13, Charisma 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 **Armor Training:** [[Light Armor]], [[Medium Armor]], and [[Heavy armor]] and [[Shield]]s
 
 ## Level 1: Leadership

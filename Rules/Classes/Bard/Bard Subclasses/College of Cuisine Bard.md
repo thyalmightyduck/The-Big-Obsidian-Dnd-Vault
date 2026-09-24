@@ -35,7 +35,7 @@
 
 **Skill Proficiencies:** _Choose any 3 skills_.
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Tool Proficiencies:** Choose three [[Musical Instrument]]s
 
@@ -141,7 +141,7 @@ You gain a feature from your Bard Subclass.
 ### Culinary Specialization
 You pursue a particular style of cuisine, choosing from the list below and gaining its feature.
 
-- **Slow Cooking:** You gain proficiency with [[Medium Armor]], [[Heavy Armor]], [[shields]], and [[martial weapons]]. At the start of each of your turns, you gain temporary hit points equal to your proficiency bonus.
+- **Slow Cooking:** You gain proficiency with [[Medium Armor]], [[Heavy Armor]], [[shields]], and [[Martial Weapons]]. At the start of each of your turns, you gain temporary hit points equal to your proficiency bonus.
 
 - **Fast Food:** You gain proficiency with [[medium armor]] and you can attack twice, instead of once, whenever you take the Attack action on your turn.
 

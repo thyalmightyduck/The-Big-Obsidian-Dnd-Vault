@@ -34,7 +34,7 @@
 
 **Skill Proficiencies:** _Choose 3:_ Athletics, History, Investigation, Medicine, Nature, Perception, Religion, or Survival.
 
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
@@ -45,7 +45,7 @@
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
-**Weapon Proficiencies:** [[Martial weapons]]
+**Weapon Proficiencies:** [[Martial Weapons]]
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
 ## Level 1: Monster Grimoire

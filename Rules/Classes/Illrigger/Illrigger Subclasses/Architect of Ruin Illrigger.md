@@ -39,7 +39,7 @@
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
 You start with the following items, plus anything provided by your background.
-- (a) two [[martial weapons]] or (b) one [[Martial Weapons]] and a [[shield]]
+- (a) two [[Martial Weapons]] or (b) one [[Martial Weapons]] and a [[shield]]
 - (a) [[chain shirt]] or (b) [[leather armor]], a [[longbow]], and [[Arrows (20)]]
 - (a) a [[Priests Pack]] or (b) a [[Dungeoneers Pack]]
 - five [[Javelin]]s
@@ -47,7 +47,7 @@ You start with the following items, plus anything provided by your background.
 ##### Multiclassing
 **Ability Score Minimum:** Strength 13 or Dexterity 13; Charisma 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
 ## Level 1: Baleful Interdict

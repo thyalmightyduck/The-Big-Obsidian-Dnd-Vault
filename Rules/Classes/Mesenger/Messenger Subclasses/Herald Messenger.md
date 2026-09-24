@@ -23,7 +23,7 @@
 
 **Skill Proficiencies:** _Choose 4:_ Animal Handling, Explore, Hunting, Insight, Intimidation, Old Lore, Perception, Performance, Persuasion, Riddle, Stealth, or Travel.
 
-**Weapon Proficiencies:** [[Simple weapons]], [[Shortsword]], and [[sword]]s
+**Weapon Proficiencies:** [[Simple Weapons]], [[Shortsword]], and [[sword]]s
 
 **Tool Proficiencies:** A tool of your choice
 
@@ -39,7 +39,7 @@
 **Ability Score Minimum:** Dexterity 13, Charisma 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 **Skill Proficiencies:** _Choose 1:_ Animal Handling, Explore, Hunting, Insight, Intimidation, Old Lore, Perception, Performance, Persuasion, Riddle, Stealth, or Travel.
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 **Tool Proficiencies:** A tool of your choice
 **Armor Training:** [[Light armor]]
 

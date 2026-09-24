@@ -34,7 +34,7 @@
 
 **Skill Proficiencies:** _Choose 2:_ Arcana, History, Insight, Investigation, Medicine, Nature, or Religion.
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
 (A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholars Pack]], and 5 GP; or 

@@ -21,7 +21,7 @@
 
 **Skill Proficiencies:** _Choose 3:_ [[Animal Handling]], [[Insight]], [[Investigation]], [[Medicine]], [[Nature]], Old Lore, [[Performance]], Riddle, or Travel.
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[Herbalism Kit]], a [[musical instrument]], [[navigator's tools]], or [[Pipes]].
 
@@ -36,7 +36,7 @@
 **Ability Score Minimum:** Intelligence 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 **Skill Proficiencies:** _Choose 1:_ [[Animal Handling]], [[Insight]], [[Investigation]], [[Medicine]], [[Nature]], Old Lore, [[Performance]], Riddle, or Travel.
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 **Tool Proficiencies:** One of the tools from the class' tools list
 **Armor Training:** [[Light armor]]
 

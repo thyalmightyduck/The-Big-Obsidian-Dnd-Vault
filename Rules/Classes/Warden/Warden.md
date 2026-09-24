@@ -22,7 +22,7 @@
 
 **Skill Proficiencies:** _Choose 3:_ [[Animal Handling]], [[Athletics]], Explore, Hunting, [[Insight]], [[Investigation]], [[Nature]], [[Perception]], or Travel.
 
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
@@ -35,7 +35,7 @@
 ##### Multiclassing
 **Ability Score Minimum:** Wisdom 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
 ## Level 1: Shadow-Lore

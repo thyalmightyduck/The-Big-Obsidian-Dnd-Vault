@@ -35,7 +35,7 @@
 
 **Skill Proficiencies:** _Choose 2:_ Acrobatics, Animal Handling, Athletics, Deception, Insight, Intimidation, Perception, Persuasion, Sleight of Hand, or Stealth.
 
-**Weapon Proficiencies:** [[Simple weapons]] and Martial Ranged weapons
+**Weapon Proficiencies:** [[Simple Weapons]] and Martial Ranged weapons
 
 **Armor Training:** [[Light armor]]
 

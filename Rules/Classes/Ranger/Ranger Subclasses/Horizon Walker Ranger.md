@@ -35,7 +35,7 @@
 
 **Skill Proficiencies:** _Choose 3:_ [[Animal Handling]], [[Athletics]], [[Insight]], [[Investigation]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]].
 
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 
 **Armor Training:** [[Light armor]] and [[Medium armor]] and [[Shields]]
 
@@ -44,7 +44,7 @@
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 **Skill Proficiencies:** _Choose 1:_ [[Animal Handling]], [[Athletics]], [[Insight]], [[Investigation]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]].
-**Weapon Proficiencies:** [[Martial weapons]]
+**Weapon Proficiencies:** [[Martial Weapons]]
 **Armor Training:** [[Light armor]] and [[Medium armor]] and [[Shields]]
 
 ## Level 1: Spellcasting

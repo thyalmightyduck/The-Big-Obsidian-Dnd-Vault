@@ -35,7 +35,7 @@
 
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Arcana]], [[Animal Handling]], [[Insight]], [[Medicine]], [[Nature]], [[Perception]], [[Religion]], or [[Survival]].
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Tool Proficiencies:** [[Herbalism Kit]]
 
@@ -57,7 +57,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 Magician. You know one extra cantrip from the [[Druid spell list]]. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([[Arcana]] or [[Nature]]) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 
-Warden. Trained for battle, you gain [[proficiency]] with [[Martial weapons]] and training with [[Medium armor]].
+Warden. Trained for battle, you gain [[proficiency]] with [[Martial Weapons]] and training with [[Medium armor]].
 
 ## Level 1: Spellcasting
 You have learned to cast spells through studying the mystical forces of nature. The information below details how you use those rules with Druid spells, which appear on the [[Druid spell list]] later in the class's description.

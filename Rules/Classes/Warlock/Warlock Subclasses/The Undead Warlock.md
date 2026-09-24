@@ -34,7 +34,7 @@
 
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Arcana]], [[Deception]], [[History]], [[Intimidation]], [[Investigation]], [[Nature]], or [[Religion]].
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Armor Training:** [[Light armor]]
 

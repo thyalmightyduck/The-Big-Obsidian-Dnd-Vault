@@ -22,7 +22,7 @@ Wing Flap. As a bonus action, you can use your powerful feathered arms to prope
 
 Communal. Whenever you make an Intelligence (History) check related to the history of your race, culture, or community, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
-Militia Training. You have proficiency in [[simple weapons]].
+Militia Training. You have proficiency in [[Simple Weapons]].
 
 Of the People. You gain proficiency with the [[Artisans Tools]] of your choice: [[Brewers Supplies]], [[carpenter's tools]], or [[Smiths Tools]].
 

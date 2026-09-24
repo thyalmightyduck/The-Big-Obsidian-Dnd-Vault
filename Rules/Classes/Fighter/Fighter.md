@@ -32,7 +32,7 @@
 **[[Saving Throw]] Proficiencies:** Strength, Constitution
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Perception]], or [[Survival]].
 
-**Weapon Proficiencies:** [[Simple weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 **Armor Training:** [[Light armor]], [[Medium armor]], and [[Heavy armor]] and [[Shields]]
 
 **Starting Equipment:** _Choose A, B, or C:_ 
@@ -43,7 +43,7 @@
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-**Weapon Proficiencies:** [[Martial weapons]]
+**Weapon Proficiencies:** [[Martial Weapons]]
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
 ## Level 1: Fighting Style
@@ -59,7 +59,7 @@ You can use this feature twice. You regain one expended use when you finish a [
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
 ## Level 1: Weapon Mastery
-Your training with weapons allows you to use the mastery properties of three kinds of [[Simple weapons]] or [[Martial weapons]] of your choice. Whenever you finish a [[Long Rest]], you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the mastery properties of three kinds of [[Simple Weapons]] or [[Martial Weapons]] of your choice. Whenever you finish a [[Long Rest]], you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 

@@ -286,23 +286,12 @@ Artificer
 - [ ] Format Species Notes
 - [ ] Add picture to all species
 - [ ] Add all sources for species
-- [x] Removed AI Homebrew 
-- [x] Add links to [[Silence]] spell
-- [x] add links to [[Influenza]] spell
-- [x] Finish [[Delerium Dragon Wyrmling]]
-- [x] Finish [[Eldritch Crawler]]
-- [x] Finish [[Awakened Shrub]]
-- [x] finish [[Shadow]]
-- [x] finish [[Haze Husk]]
-- [x] finish [[Haze Wight]]
-- [x] finish [[Gibbering Mouther]]
-- [x] finish [[Delerium Dreg]]
-- [x] finish [[pyknic maunder]]
 - [ ] Fix Weapon Formatting
 # Additions
 Make Shop Roll Tables
 Add Schools of Magic
 [[Repeating Shot]] links
+Add Weapon Lists
 # Installed Plugins
 - Advanced Tables-Tony Grosinger
 - Buttons-shabegom

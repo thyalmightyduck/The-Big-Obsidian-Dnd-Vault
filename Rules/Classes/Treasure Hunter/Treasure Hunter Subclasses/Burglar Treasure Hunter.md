@@ -23,7 +23,7 @@
 
 **Skill Proficiencies:** _Choose 4:_ [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Investigation]], Old Lore, [[Perception]], [[Persuasion]], Riddle, [[Sleight of Hand]], [[Stealth]], or Travel.
 
-**Weapon Proficiencies:** [[Simple weapons]], [[shortsword]], and [[sword]]s
+**Weapon Proficiencies:** [[Simple Weapons]], [[shortsword]], and [[sword]]s
 
 **Tool Proficiencies:** A tool of your choice among [[cartographer's tools]], a gaming set, or [[thieves' tools]]
 
@@ -39,7 +39,7 @@
 **Ability Score Minimum:** Dexterity 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 **Skill Proficiencies:** _Choose 1:_ [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Investigation]], Old Lore, [[Perception]], [[Persuasion]], Riddle, [[Sleight of Hand]], [[Stealth]], or Travel.
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 **Tool Proficiencies:** One of the tools from the class' tools list
 **Armor Training:** [[Light armor]]
 

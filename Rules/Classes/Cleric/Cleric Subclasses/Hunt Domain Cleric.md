@@ -35,7 +35,7 @@
 
 **[[Skill]] Proficiencies:** _Choose 2:_ [[History]], [[Insight]], [[Medicine]], [[Persuasion]], or [[Religion]].
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Armor Training:** [[Light Armor]] and [[Medium armor]] and [[Shields]]
 
@@ -72,7 +72,7 @@ Spellcasting Ability. Wisdom is your spellcasting ability for your Cleric spell
 ## Level 1: Divine Order
 You have dedicated yourself to one of the following sacred roles of your choice.
 
-Protector. Trained for battle, you gain [[proficiency]] with [[Martial weapons]] and training with [[Heavy armor]].
+Protector. Trained for battle, you gain [[proficiency]] with [[Martial Weapons]] and training with [[Heavy armor]].
 
 Thaumaturge. You know one extra cantrip from the [[Cleric spell list]]. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([[Arcana]] or [[Religion]]) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
@@ -108,7 +108,7 @@ You gain domain spells at the cleric levels listed in the Hunt Domain Spells tab
 | 7th          | [[freedom of movement]], [[locate creature]]         |
 | 9th          | [[commune with nature]], [[hold monster]]            |
 ### Level 1: Bonus Proficiencies
-You gain proficiency with two [[martial weapons]] of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
+You gain proficiency with two [[Martial Weapons]] of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
 
 ### Level 1: Mark Prey
 As a bonus action, you choose a creature you can see within 90 feet and mystically mark it as your quarry for the next hour. For the duration, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom ([[Perception]]) or Wisdom ([[Survival]]) check you make to find it. If you use this feature to mark a new creature, any previous marks disappear.

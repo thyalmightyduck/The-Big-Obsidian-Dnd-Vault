@@ -34,7 +34,7 @@
 
 **Skill Proficiencies:** _Choose any 3 skills_.
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Tool Proficiencies:** Choose three [[Musical Instrument]]s
 
@@ -114,7 +114,7 @@ Defense. When the creature is hit by an attack roll, that creature can use its�
 Offense. Immediately after the creature hits a target with an attack roll, the creature can roll the Bardic Inspiration die and add the number rolled to the attack's damage against the target.
 
 ### Level 3: Martial Training
-You gain proficiency with [[Martial weapons]] and training with [[Medium armor]] and [[Shields]].
+You gain proficiency with [[Martial Weapons]] and training with [[Medium armor]] and [[Shields]].
 
 In addition, you can use a Simple or Martial weapon as a [[Spellcasting Focus]] to cast spells from your [[Bard spell list]].
 

@@ -34,7 +34,7 @@
 
 **Skill Proficiencies:** _Choose 4:_ [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Persuasion]], [[Sleight of Hand]], or [[Stealth]].
 
-**Weapon Proficiencies:** [[Simple weapons]] and [[Martial weapons]] that have the Finesse or Light property
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]] that have the Finesse or Light property
 
 **Tool Proficiencies:** [[Thieves' Tools]]
 

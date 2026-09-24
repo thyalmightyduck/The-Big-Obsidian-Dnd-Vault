@@ -31,7 +31,7 @@
 
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], or [[Sleight of Hand]].
 
-**Weapon Proficiencies:** [[Simple weapons]] and firearms
+**Weapon Proficiencies:** [[Simple Weapons]] and firearms
 
 **Tool Proficiencies:** [[Thieves Tools]], [[Tinkers Tools]], and one type of [[Artisans Tools]] of your choice
 
@@ -39,7 +39,7 @@
 
 You start with the following items, plus anything provided by your background.
 
-- any two [[simple weapons]] of your choice
+- any two [[Simple Weapons]] of your choice
 - a [[Light Crossbow]] and [[Bolts (20)]]
 - (a) [[studded leather armor]] or (b) [[scale mail]]
 - [[Thieves Tools]] and a [[Dungeoneers Pack]]

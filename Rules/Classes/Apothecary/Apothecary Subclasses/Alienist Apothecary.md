@@ -31,17 +31,17 @@
 
 **Skill Proficiencies:** _Choose 2:_ Arcana, History, Investigation, Medicine, Nature, or Religion.
 
-**Weapon Proficiencies:** [[Simple weapons]], [[shortsword]]s, and [[hand crossbow]]s
+**Weapon Proficiencies:** [[Simple Weapons]], [[shortsword]]s, and [[hand crossbow]]s
 
 **Tool Proficiencies:** any tool proficiency, plus another of your choice from the following: [[Poisoners Kit]], [[Herbalism Kit]], or [[Alchemists Supplies]].
 
 **Armor Training:** [[Light armor]] and [[Medium armor]]
 
 You start with the following items, plus anything provided by your background:
-- (a) a [[Light Crossbow]] and 20 bolts, (b) a [[shortsword]] or (c) any [[simple weapons]]
+- (a) a [[Light Crossbow]] and 20 bolts, (b) a [[shortsword]] or (c) any [[Simple Weapons]]
 - (a) a [[Component Pouch]] or (b) an [[arcane focus]]
 - (a) a [[Scholars Pack]] or (b) a [[Dungeoneers Pack]]
-- [[hide armor]], any [[simple weapons]], and two [[dagger]]s
+- [[hide armor]], any [[Simple Weapons]], and two [[dagger]]s
 - a [[Healers Kit]]
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 

@@ -32,7 +32,7 @@
 
 **Skill Proficiencies:** _Choose 2:_ Arcana, History, Insight, Medicine, Nature, Perception, or Religion.
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Armor Training:** [[Light armor]]
 
@@ -40,7 +40,7 @@ You start with the following items, plus anything provided by your background.
 
 - (a) a [[spear]] or (b) a [[mace]]
 - (a) [[leather armor]] or (b) [[studded leather armor]]
-- (a) a [[Light Crossbow]] and [[Bolts (20)]] or (b) any one [[simple weapons]]
+- (a) a [[Light Crossbow]] and [[Bolts (20)]] or (b) any one [[Simple Weapons]]
 - (a) a [[Scholar’s Pack]] or (b) an [[Explorers Pack]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.

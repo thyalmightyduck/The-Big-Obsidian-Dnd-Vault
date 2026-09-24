@@ -44,7 +44,7 @@
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-**Weapon Proficiencies:** [[Martial weapons]]
+**Weapon Proficiencies:** [[Martial Weapons]]
 **Armor Training:** [[Shield]]s
 
 ## Level 1: Rage
@@ -65,7 +65,7 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 While you aren't wearing any armor, your base [[Armor Class]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[Shield]] and still gain this benefit.
 
 ## Level 1: Weapon Mastery
-Your training with weapons allows you to use the [[Weapon Mastery Property]] of two kinds of Melee [[Simple Weapons]] or [[Martial weapons]] of your choice, such as [[Greataxe]]s and [[Handaxes]]. Whenever you finish a [[Long Rest]], you can practice weapon drills and change one of those weapon choices. When you reach certain Barbarian levels, you gain the ability to use the [[Weapon Mastery Property]] of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
+Your training with weapons allows you to use the [[Weapon Mastery Property]] of two kinds of Melee [[Simple Weapons]] or [[Martial Weapons]] of your choice, such as [[Greataxe]]s and [[Handaxes]]. Whenever you finish a [[Long Rest]], you can practice weapon drills and change one of those weapon choices. When you reach certain Barbarian levels, you gain the ability to use the [[Weapon Mastery Property]] of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 
 ## Level 2: Danger Sense
 You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have [[Advantage]] on Dexterity saving throws unless you have the [[Incapacitated]] condition.

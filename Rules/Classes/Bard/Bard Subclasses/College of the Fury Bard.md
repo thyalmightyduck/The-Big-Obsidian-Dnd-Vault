@@ -35,7 +35,7 @@
 
 **Skill Proficiencies:** _Choose any 3 skills_.
 
-**Weapon Proficiencies:** [[Simple weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]]
 
 **Tool Proficiencies:** Choose three [[Musical Instrument]]s
 

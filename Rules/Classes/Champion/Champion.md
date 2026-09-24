@@ -21,7 +21,7 @@
 
 **[[Skill]] Proficiencies:** _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], Hunting, [[Intimidation]], or [[Perception]].
 
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 
 **Armor Training:** [[Light Armor]], [[Medium Armor]], and [[Heavy armor]] and [[Shield]]s
 
@@ -33,7 +33,7 @@
 ##### Multiclassing
 **Ability Score Minimum:** Strength 13 or Dexterity 13
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
-**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial weapons]]
+**Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]]
 **Armor Training:** [[Light Armor]], [[Medium Armor]], and [[Heavy armor]] and [[Shield]]s
 
 ## Level 1: Fighting Style
