@@ -1,7 +1,16 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+---
+*Weapon [[Wrath Maul]], Uncommon*
 **Weapon:** 2d6 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Momentum (2d8), Two‑Handed
 750 GP, 15 lb.
 **Mastery:** Brutal
+
+You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 **Hafted.** A Hafted weapon's haft can function well as an off-hand attack. After you use the [[Attack action]] to attack with a Hafted weapon, you can use a [[Bonus Action]] to make a melee attack with the haft. The haft deals 1d6 Bludgeoning damage, and you add your ability modifier to damage.
 

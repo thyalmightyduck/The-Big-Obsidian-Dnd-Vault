@@ -4,7 +4,6 @@ tags:
   - Variant
   - Uncommon
 ---
-# WOP
 *Generic Variant, Uncommon*
 - - - 
 
