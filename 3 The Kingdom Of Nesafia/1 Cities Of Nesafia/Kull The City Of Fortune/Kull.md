@@ -36,3 +36,7 @@ darkmode: false ### marker
 ```
 
 # Other
+
+
+# Music
+![[Adventure Begins.mp3]]
