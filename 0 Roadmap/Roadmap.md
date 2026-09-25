@@ -2,7 +2,6 @@
 Feats
 	Bandit Cunning
 Artificer 
-	+1 Armor Links
 	Dazzling Weapon Links
 	Weapon of Warning Links
 	Armor of Resistance Links
