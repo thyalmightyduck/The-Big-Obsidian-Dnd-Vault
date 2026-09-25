@@ -2,11 +2,8 @@
 Feats
 	Bandit Cunning
 Artificer 
-	Dazzling Weapon Links
-	Weapon of Warning Links
 	Armor of Resistance Links
 	+2 Weapons
-	Flame Tongue Links
 	Magic Items Armor Properties
 # Second Quest
 2 person dnd one shots 
