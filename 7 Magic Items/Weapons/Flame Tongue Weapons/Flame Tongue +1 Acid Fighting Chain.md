@@ -1,19 +1,17 @@
 ---
 tags:
-  - Item
+  - MagicItem
   - Weapon
-  - Advanced
-  - Melee
-  - Double
-  - Finesse
-  - Reach
-  - TwoHanded
-  - MasteryDisarming
+  - Rare
+  - Attunement
 ---
+*Weapon [[+1 Acid Fighting Chain]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning Advanced Weapon, Melee Weapon
 **Properties:** Alt. 1d6, Double, Finesse, Reach, Two‑Handed
 500 GP, 3 lb.
 **Mastery:** Disarming
+
+While holding this magic weapon, you can take a [[Bonus Action]] and use a command word to cause flames to engulf the damage-dealing part of the weapon. These flames shed [[Bright Light]] in a 40-foot radius and [[Dim Light]] for an additional 40 feet. While the weapon is ablaze, it deals an extra 2d6 Fire damage on a hit. The flames last until you take a [[Bonus Action]] to issue the command again or until you drop, stow, or sheathe the weapon.
 
 _This item has been created from Salvage text in the book; it may not be exactly as the author envisioned, some information is assumed._
 
