@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Ooze
-  - HGTMH
+  - HGtMH
   - Summon
 ArmorClass: 8
 HitPoints: "5"

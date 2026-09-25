@@ -1,6 +1,6 @@
 # Last Left Off
 Feats
-	Bandit Cunning
+- [ ] Players Handbook 2024
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
@@ -305,6 +305,7 @@ Add Weapon Lists
 - Supercharged Links-mdelobelle & Emile
 - Templater-SilentVoid
 - Git-Vinzent
+- Tag Wrangler PJ Eby
 # Problem Plugins (Install at own risk)
 - Highlightr-chetachi
 - Janitor-Gabriele Cannata (Don’t have enabled unless you are actively using causes performance issues)
