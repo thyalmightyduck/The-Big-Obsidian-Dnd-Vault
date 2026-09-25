@@ -1,7 +1,20 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Uncommon
+  - Attunement
+---
+*Weapon [[Light Tommybow (5)]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Piercing Simple Weapon, Ranged Weapon
 **Properties:** Ammunition (80/162 ft.), Reload (2), two‑handed
 50 GP 5lbs
 
+As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.
+
+**Alarm:** The weapon magically awakens each subject who is sleeping naturally when combat begins. This benefit doesn't wake a subject from magically induced sleep.
+
+**Supernatural Readiness:** Each subject has [[Advantage]] on its [[Initiative]] rolls.
 
 Tommybows are repeating crossbows that mirror the three types of normal crossbows: hand, heavy, and light. They are composed of vertically-stacked bows upon a crossbow's chassis, an unwieldy arrangement that reduces their effective range in comparison to their crossbow counterparts.
 
