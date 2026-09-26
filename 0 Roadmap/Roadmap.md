@@ -29,6 +29,7 @@ Feats
 - [x] northlands worldbook
 - [x] steinhardts guide to the eldritch hunt player pack
 - [x] taldorei campaign setting reborn
+- [x] the crooked moon (2024)
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
