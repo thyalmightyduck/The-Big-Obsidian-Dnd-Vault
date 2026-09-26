@@ -6,8 +6,7 @@ Feats
 - [x] Xanathars guide to everything
 - [x] Eberron: Forge of the Artificer
 - [x] Eberron: Rising of the Last War
-- [ ] Arcana Unleashed
-	- [ ] Arcane Infiltrator
+- [x] Arcana Unleashed
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
