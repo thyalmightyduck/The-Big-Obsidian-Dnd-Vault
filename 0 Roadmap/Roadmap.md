@@ -30,6 +30,7 @@ Feats
 - [x] steinhardts guide to the eldritch hunt player pack
 - [x] taldorei campaign setting reborn
 - [x] the crooked moon (2024)
+- [x] the gunslinger class valdas spire of secrets
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
