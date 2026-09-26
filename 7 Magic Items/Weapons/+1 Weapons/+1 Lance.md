@@ -6,13 +6,13 @@ tags:
 ---
 *Weapon [[Lance]], Uncommon*
 **Weapon:** 1d10 Piercing, Martial Weapon, Melee Weapon
-**Properties:** Heavy, Reach, Two‑Handed (unless mounted)
+**Properties:** Heavy, Reach, Two‑Handed (unless [[Mounted Combat|mounted]])
 10 GP, 6 lb.
 **Mastery:** Topple
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
-A Lance requires two hands to wield when you aren't mounted.
+A Lance requires two hands to wield when you aren't [[Mounted Combat|mounted]].
 
 **Heavy.** You have [[Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 

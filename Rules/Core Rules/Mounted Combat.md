@@ -1,3 +1,7 @@
+---
+aliases:
+  - Mounted
+---
 A willing creature that is at least one size larger than a rider and that has an appropriate anatomy can serve as a mount, using the following rules.
 
 ## Mounting and Dismounting

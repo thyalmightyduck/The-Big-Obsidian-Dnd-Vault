@@ -55,7 +55,7 @@ Combat Traits:
 
 - [[Brave]]
 - [[Creature Cover]]
-- [[Lucky]]
+- [[Rules/Grim Hallow Heritage Traits/Lucky]]
 
 Exploration Traits:
 

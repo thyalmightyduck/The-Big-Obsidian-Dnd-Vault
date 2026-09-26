@@ -1,0 +1,10 @@
+---
+tags:
+  - Feat
+  - PHB24
+---
+_Origin Feat_
+
+You gain proficiency in any combination of three skills or tools of your choice.
+
+**Repeatable.** You can take this feat more than once.

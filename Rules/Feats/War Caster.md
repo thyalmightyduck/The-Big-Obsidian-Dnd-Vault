@@ -1,3 +1,8 @@
+---
+tags:
+  - Feat
+  - PHB24
+---
 _General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)_ou gain the following benefits.
 
 Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
