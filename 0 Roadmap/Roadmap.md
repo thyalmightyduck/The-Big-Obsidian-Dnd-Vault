@@ -23,6 +23,7 @@ Feats
 - [x] Exploring eberron (2024)
 - [x] frontiers of eberron: quickstone
 - [x] grim hallow players guide (2024)
+- [x] Helianas guide to monster hunting
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
