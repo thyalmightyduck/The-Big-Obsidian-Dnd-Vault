@@ -1,8 +1,9 @@
 # Last Left Off
 Feats
 - [x] Players Handbook 2024
-- [ ] Players Handbook 2014
-	- [ ] Healer
+- [x] Players Handbook 2014
+- [x] Tashas Cauldron of Everything
+- [ ] Xanathars guide to everything
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons

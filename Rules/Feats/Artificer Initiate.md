@@ -1,4 +1,8 @@
-# Artificer Initiate
+---
+tags:
+  - Feat
+  - TCE
+---
 ## Tasha’s Cauldron of Everything:
 You've learned some of an artificer's inventiveness:
 
