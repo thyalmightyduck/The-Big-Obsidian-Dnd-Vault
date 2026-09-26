@@ -9,6 +9,8 @@ Feats
 - [x] Arcana Unleashed
 - [x] Astarions book of hungers
 - [x] Bigby Presents Glory of the Giants
+- [x] Dragonlance shadow of the dragon queen
+- [x] fizbans treasury of dragons
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
