@@ -26,6 +26,7 @@ Feats
 - [x] Helianas guide to monster hunting
 - [x] Humblewood campaign setting
 - [x] humblewood tales
+- [x] northlands worldbook
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
