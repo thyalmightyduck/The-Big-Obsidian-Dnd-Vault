@@ -34,6 +34,7 @@ Feats
 - [x] the lord of the rings roleplaying
 - [x] valdas spire of secrets player pack 1
 - [x] valdas spire of secrets player pack 2
+- [x] vampire the masquerade bound by blood
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
