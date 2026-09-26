@@ -7,6 +7,8 @@ Feats
 - [x] Eberron: Forge of the Artificer
 - [x] Eberron: Rising of the Last War
 - [x] Arcana Unleashed
+- [x] Astarions book of hungers
+- [x] Bigby Presents Glory of the Giants
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
