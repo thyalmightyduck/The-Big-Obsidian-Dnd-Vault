@@ -1,0 +1,24 @@
+---
+tags:
+  - Spell
+  - Level8
+  - PHB24
+  - Conjuration
+---
+## Player’s Handbook 2024 (PHB24):
+_Level 8 Conjuration_
+
+**Casting Time:** Action
+**Range:** 60 feet
+**Components:** V, S
+**Duration:** [[Concentration]], up to 10 minutes
+
+You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
+
+The target can take a [[Study action]] to try to escape. When it does so, it makes a DC 20 Intelligence (Investigation) check. If it succeeds, it escapes, and the spell ends.
+
+When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
+
+**Classes:** [[Wizard]]
+**Subclasses:** [[Arcana Domain Cleric]], [[Conjurer Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
+**Feats:** [[Boon of Siberys]]

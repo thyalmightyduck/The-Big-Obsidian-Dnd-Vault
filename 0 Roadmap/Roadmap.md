@@ -4,7 +4,10 @@ Feats
 - [x] Players Handbook 2014
 - [x] Tashas Cauldron of Everything
 - [x] Xanathars guide to everything
-- [ ] Eberron: Forge of the Artificer
+- [x] Eberron: Forge of the Artificer
+- [x] Eberron: Rising of the Last War
+- [ ] Arcana Unleashed
+	- [ ] Arcane Infiltrator
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
