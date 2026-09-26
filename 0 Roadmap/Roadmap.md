@@ -27,6 +27,7 @@ Feats
 - [x] Humblewood campaign setting
 - [x] humblewood tales
 - [x] northlands worldbook
+- [x] steinhardts guide to the eldritch hunt player pack
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
