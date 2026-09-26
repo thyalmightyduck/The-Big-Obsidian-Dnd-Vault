@@ -11,6 +11,16 @@ Feats
 - [x] Bigby Presents Glory of the Giants
 - [x] Dragonlance shadow of the dragon queen
 - [x] fizbans treasury of dragons
+- [x] forgotten realms heroes of faerun
+- [x] lorwyn first light
+- [x] Mordenkainen's tome of foes
+- [x] ravenloft the horrors within
+- [x] sigil and the outlands
+- [x] strixhaven a curriculum of chaos
+- [x] the book of many things
+- [x] cthulhu by torchlight
+- [x] d&d beyond drops
+- [x] Exploring eberron (2024)
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
