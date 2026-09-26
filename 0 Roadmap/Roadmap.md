@@ -25,6 +25,7 @@ Feats
 - [x] grim hallow players guide (2024)
 - [x] Helianas guide to monster hunting
 - [x] Humblewood campaign setting
+- [x] humblewood tales
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
