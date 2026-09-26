@@ -65,7 +65,7 @@ Exploration Traits:
 
 - [[Artifice Expertise]]
 - [[Darkvision GH]]
-- [[Fade Away]]
+- [[Rules/Grim Hallow Heritage Traits/Fade Away]]
 
 Roleplaying Traits:
 

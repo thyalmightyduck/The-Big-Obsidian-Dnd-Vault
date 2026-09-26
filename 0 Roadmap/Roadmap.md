@@ -3,7 +3,8 @@ Feats
 - [x] Players Handbook 2024
 - [x] Players Handbook 2014
 - [x] Tashas Cauldron of Everything
-- [ ] Xanathars guide to everything
+- [x] Xanathars guide to everything
+- [ ] Eberron: Forge of the Artificer
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
