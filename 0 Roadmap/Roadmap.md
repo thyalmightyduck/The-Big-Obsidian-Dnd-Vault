@@ -28,6 +28,7 @@ Feats
 - [x] humblewood tales
 - [x] northlands worldbook
 - [x] steinhardts guide to the eldritch hunt player pack
+- [x] taldorei campaign setting reborn
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
