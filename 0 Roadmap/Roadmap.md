@@ -35,6 +35,11 @@ Feats
 - [x] valdas spire of secrets player pack 1
 - [x] valdas spire of secrets player pack 2
 - [x] vampire the masquerade bound by blood
+- [x] ps: ixalan
+- [x] ps: kaladesh
+- [x] ua: 2020 psionic options revisited
+- [x] chronicles of eberron
+- [x] grim hallow: monster grimoire (2024)
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
