@@ -59,6 +59,7 @@ Format and Properties
 - [x] ghosts of saltmarsh
 - [x] guildmasters guide to ravnice
 - [x] Lorwyn first light
+- [x] mythic odysseys of theros
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
