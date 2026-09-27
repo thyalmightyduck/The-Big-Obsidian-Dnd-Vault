@@ -63,6 +63,7 @@ Format and Properties
 - [x] ravenloft the horrors within
 - [x] sigil and the outlands
 - [x] strixhaven a curriculum of chaos
+- [x] sword coast adventurers guide
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
