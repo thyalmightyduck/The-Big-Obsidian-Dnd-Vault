@@ -72,6 +72,7 @@ Format and Properties
 - [x] dungeons of drakkenheim
 - [x] exploring eberon 2024
 - [x] frontiers of eberron quickstone
+- [ ] grim hallow players guide 2024
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
