@@ -1,5 +1,9 @@
-# Against the Unseen
-## The Lord of the Rings Roleplaying:
+---
+tags:
+  - Feat
+  - TLotRR
+---
+## Against the Unseen (TLotRR):
 _Virtues of the Elves Feat (Prerequisite: Elven Culture)_
 
 Elves can perceive creatures that dwell in the wraith-world, be they spirits or ghosts, even when they are normally [[invisible]] to the eyes of the living and appear only as a chilling whisper of voices. You have learnt to strengthen your heart against such terrors.

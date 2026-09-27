@@ -23,3 +23,4 @@ You gain the following benefits.
 |         3        | *[[Protection from Energy]]* |
 |         4        | *[[Banishment]]*             |
 |         5        | *[[Mass Cure Wounds]]*       |
+![[Abjuration Adept PNG.png]]

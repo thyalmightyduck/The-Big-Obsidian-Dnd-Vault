@@ -1,5 +1,9 @@
-# Aerial Expert
-## Humblewood Campaign Setting
+---
+tags:
+  - Feat
+  - HWCS
+---
+## Aerial Expert (HWCS):
 _Prerequisite: Glide trait_
 
 Years of practice or an innate talent have made you adept at gliding. You gain the following benefits:

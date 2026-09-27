@@ -1,5 +1,9 @@
-# Altered
-## The Crooked Moon (2024):
+---
+tags:
+  - Feat
+  - TCM24
+---
+## Altered (TCM24):
 _Origin Feat_
 
 You have been changed through magic, science, or a volatile blend of the two. You have a blatant physical augmentation of your choice from the options below. The augmentation is obvious—such as with stitches, grafts of other creature's body parts, or implants—unless disguised.

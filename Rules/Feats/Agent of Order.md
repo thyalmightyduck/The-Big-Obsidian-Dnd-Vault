@@ -1,5 +1,9 @@
-# Agent of Order
-## Sigil of the Outlands:
+---
+tags:
+  - Feat
+  - SatO
+---
+## Agent of Order (SatO)
 _Prerequisites: Level 4+, [[Scion of the Outer Planes]] (lawful outer plane)_
 
 You can channel cosmic forces of order to gain these benefits:

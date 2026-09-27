@@ -1,5 +1,9 @@
-# Aquatic Adaptation
-## Exploring Eberron (2024):
+---
+tags:
+  - Feat
+  - ExE24
+---
+## Aquatic Adaptation (ExE24):
 _Origin Feat_
 
 You are able to live underwater. This may be a natural feature of your character if you're playing a Malenti or an Elf from Valraea, or it could be the result of arcane transmutation or a divine blessing. Whatever the origin of this gift, you gain the following benefits.

@@ -1,5 +1,9 @@
-# Adept of the White Robes
-## Dragonlance: Shadow of the Dragon Queen:
+---
+tags:
+  - Feat
+  - DSotDQ
+---
+# Adept of the White Robes (DSotDQ):
 _Prerequisites: Level 4+, [[initiate of high sorcery]] (solinari)_
 
 You chose the moon Solinari to influence your magic, and your oath to use magic to make the world a better place has been recognized by the Order of the White Robes, granting you these benefits:

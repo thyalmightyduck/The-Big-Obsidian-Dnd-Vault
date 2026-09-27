@@ -1,5 +1,9 @@
-# Adept of the Black Robes:
-## Dragonlance: Shadow of the Dragon Queen:
+---
+tags:
+  - Feat
+  - DSotDQ
+---
+## Adept of the Black Robes (DSotDQ):
 _Prerequisites: Level 4+, [[Initiate of High Sorcery]] (Nuitari)_
 
 You chose the moon Nuitari to influence your magic, and your ambition and loyalty to the Order of the Black Robes have been recognized, granting you these benefits:

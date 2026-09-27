@@ -1,5 +1,9 @@
-# Alacrity
-## Vampire: The Masquerade -  Bound by Blood:
+---
+tags:
+  - Feat
+  - VtMBB
+---
+## Alacrity (VtMBB):
 _Kindred Feat (Prerequisite: Level 2+ Kindred)_
 
 You move at supernatural speeds. You gain the following benefits.

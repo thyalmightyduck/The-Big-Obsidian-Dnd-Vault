@@ -1,5 +1,9 @@
-# Adept of the Red Robes:
-## Dragonlance: Shadow of the Dragon Queen:
+---
+tags:
+  - Feat
+  - DSotDQ
+---
+## Adept of the Red Robes(DSotDQ):
 _Prerequisites: Level 4+, [[initiate of high sorcery]] (lunitari)_
 
 You chose the moon Lunitari to influence your magic, and your dedication to maintaining the balance between all things has been recognized by the Order of the Red Robes, granting you these benefits:
