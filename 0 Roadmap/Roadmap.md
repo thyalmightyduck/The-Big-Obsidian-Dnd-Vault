@@ -79,6 +79,7 @@ Format and Properties
 - [x] taldorei campaign setting reborn
 - [x] the crooked moon 2024
 - [x] lord of the rings roleplaying
+- [x] vampire the masquerade bound by blood
 
 Artificer 
 	Armor of Resistance Links
