@@ -72,3 +72,13 @@
 - [[Magic Weapon]]
 - [[Mockery's Snare]]
 - [[Protection from Poison]]
+- [[Pyrotechnics]]
+- [[Rope Trick]]
+- [[See Invisibility]]
+- [[Skywrite]]
+- [[Spider Climb]]
+- [[Tortoise Shell]]
+- [[Uncertain Footing]]
+- [[Vortex Warp]]
+- [[Web]]
+## Level
