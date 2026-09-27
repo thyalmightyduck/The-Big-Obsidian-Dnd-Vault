@@ -62,6 +62,7 @@ Format and Properties
 - [x] mythic odysseys of theros
 - [x] ravenloft the horrors within
 - [x] sigil and the outlands
+- [x] strixhaven a curriculum of chaos
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
