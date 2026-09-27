@@ -102,7 +102,7 @@ Artificer
 
 ## Spellcaster Lists
 #todo/spellcasterlists
-- [ ] Artificer
+- [x] Artificer
 - [ ] Bard
 - [ ] Cleric
 - [ ] Druid

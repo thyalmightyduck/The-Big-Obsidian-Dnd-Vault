@@ -121,3 +121,6 @@
 - [[Creation]]
 - [[Greater Restoration]]
 - [[Skill Empowerment]]
+- [[Spirit Lantern]]
+- [[Transmute Rock]]
+- [[Wall of Stone]]
