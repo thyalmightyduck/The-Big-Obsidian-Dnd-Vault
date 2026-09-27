@@ -41,7 +41,7 @@ Feats
 - [x] chronicles of eberron
 - [x] grim hallow: monster grimoire (2024)
 Format and Properties 
-- 
+- [[Boon of Desperate Resilience]]
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
