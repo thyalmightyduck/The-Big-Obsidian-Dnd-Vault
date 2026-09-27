@@ -48,6 +48,7 @@ Format and Properties
 - [x] players handbook 2014
 - [x] acquisitions incorporated
 - [x] Arcana unleashed
+- [x] astarions book of hungers
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
