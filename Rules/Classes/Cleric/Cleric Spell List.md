@@ -165,4 +165,6 @@
 - [[Water Walk]]
 - [[Weave Detonation]]
 ## Level 4
+- [[Angrboda's Fury]]
+- [[Aura of Desecration]]
 - 
