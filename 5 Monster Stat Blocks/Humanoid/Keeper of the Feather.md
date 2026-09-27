@@ -3,13 +3,6 @@ tags:
   - Monster
   - Humanoid
   - todo/spellcasterlists
-ArmorClass: 12
-HitPoints: "31"
-Speed:
-  - Walking 30ft
-  - Fly 50ft (In Raven And Hybrid Form)
-Languages:
-  - Common
 ---
 # Keeper of the Feather
 ## Plane Shift: Innistrad (PSI):

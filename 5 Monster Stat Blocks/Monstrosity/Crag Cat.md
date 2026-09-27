@@ -3,14 +3,6 @@ tags:
   - Monster
   - Monstrosity
   - SKT
-ArmorClass: 13
-HitPoints: "34"
-Speed:
-  - Walking 40ft
-  - Climb 30ft
-Skills:
-  - Perception
-  - Stealth
 ---
 # Crag Cat
 ## Storm King’s Thunder

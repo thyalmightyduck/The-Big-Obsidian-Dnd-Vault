@@ -3,12 +3,6 @@ tags:
   - Monster
   - Beast
   - MM25
-ArmorClass: 11
-HitPoints: "19"
-Speed:
-  - Fly 60ft
-Saves:
-  - WIS
 ---
 # Warhorse Statblock
 ## Monster Manuel 2025 (MM25):

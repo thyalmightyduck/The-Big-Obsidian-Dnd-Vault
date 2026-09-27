@@ -3,18 +3,6 @@ tags:
   - Monster
   - Monstrosity
   - MM25
-ArmorClass: 12
-HitPoints: "51"
-Speed:
-  - Walking 40ft
-  - Climb 40ft
-Skills:
-  - Perception
-  - Stealth
-DMGImmunities:
-  - Cold
-Languages:
-  - Yeti
 ---
 # Yeti
 ## Monster Manual (2025):

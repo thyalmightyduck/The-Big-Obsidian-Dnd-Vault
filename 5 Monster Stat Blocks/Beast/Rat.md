@@ -3,11 +3,6 @@ tags:
   - Monster
   - Beast
   - MM25
-ArmorClass: 10
-HitPoints: "1"
-Speed:
-  - Walking 20ft
-  - Climb 20ft
 ---
 # Rat:
 ## Monster Manuel 2025 (MM25):

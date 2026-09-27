@@ -3,27 +3,6 @@ tags:
   - Monster
   - Construct
   - TOB123
-ArmorClass: 19
-HitPoints: "168"
-Speed:
-  - Walking 30ft
-Saves:
-  - WIS
-  - CHA
-DMGResistances:
-  - Bludgeoning
-  - Piercing
-  - Slashing
-DMGImmunities:
-  - Poison
-  - Psychic
-ConditionImmunities:
-  - Charmed
-  - Exhaustion
-  - Frightened
-  - Paralyzed
-  - Petrified
-  - Poisoned
 ---
 # Ushabti Royal Guard:
 ## Tome of Beasts 1 2023 Edition (TOB123):

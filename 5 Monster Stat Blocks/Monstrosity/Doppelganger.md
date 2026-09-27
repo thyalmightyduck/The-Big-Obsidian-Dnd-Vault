@@ -3,14 +3,6 @@ tags:
   - Monster
   - Monstrosity
   - MM25
-ArmorClass: 14
-HitPoints: "52"
-Speed:
-  - Walking 30ft
-ConditionImmunities:
-  - Charmed
-Languages:
-  - Common
 ---
 # Doppelganger
 ## Monster Manuel 2025 (MM25):

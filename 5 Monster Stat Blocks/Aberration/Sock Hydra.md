@@ -3,13 +3,6 @@ tags:
   - Monster
   - Aberration
   - Homebrew
-ArmorClass: 13
-HitPoints: "22"
-Speed:
-  - Walking 30ft
-  - Climb 20ft
-DMGResistances:
-  - Lightning
 ---
 # Sock Hydra
 # 5e Statblock

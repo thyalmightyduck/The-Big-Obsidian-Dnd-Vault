@@ -4,12 +4,6 @@ tags:
   - Beast
   - Summon
   - GHPG24
-ArmorClass: 12
-HitPoints: "6"
-Speed:
-  - Walking 30ft
-  - Fly 40ft (Sky Only)
-  - Swim 40ft (Sea Only)
 ---
 # Primal Guardian
 ## Grim Hallow” Player’s Guide 2024 (GHPG24):

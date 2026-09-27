@@ -4,29 +4,6 @@ tags:
   - Elemental
   - PHB24
   - Summon
-ArmorClass: 11
-HitPoints: "50"
-Speed:
-  - Walking 40ft
-  - Burrow 40ft (Earth Only)
-  - Fly 40ft (Hover Air Only)
-  - Swim 40ft (Water Only)
-DMGResistances:
-  - Lightning
-  - Thunder
-  - Piercing
-  - Slashing
-  - Acid
-DMGImmunities:
-  - Poison
-  - Fire
-ConditionImmunities:
-  - Exhaustion
-  - Paralyzed
-  - Petrified
-  - Poisoned
-Languages:
-  - Primordial
 ---
 # Elemental Spirit
 ## Players Handbook 2024 (PHB24):

@@ -4,16 +4,6 @@ tags:
   - Construct
   - Summon
   - SCGTD
-ArmorClass: 14
-HitPoints: "5"
-Saves:
-  - CON
-  - WIS
-DMGImmunities:
-  - Poison
-  - Lightning
-ConditionImmunities:
-  - Poisoned
 ---
 # Corpsewrought Creature:
 ## Sebastian Crowe’s Guide to Drakkenheim (SCGTD):

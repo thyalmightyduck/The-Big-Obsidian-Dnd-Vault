@@ -3,21 +3,6 @@ tags:
   - Monster
   - Humanoid
   - AATM
-ArmorClass: 13
-HitPoints: "112"
-Speed:
-  - Walking 30ft
-Saves:
-  - INT
-  - WIS
-  - CHA
-DMGResistances:
-  - Necrotic
-ConditionImmunities:
-  - Charmed
-  - Frightened
-Languages:
-  - Common
 ---
 # Heralds of Dust Exorcist
 ## Adventure Atlas: The Mortuary (AATM):

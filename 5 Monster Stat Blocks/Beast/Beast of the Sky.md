@@ -4,11 +4,6 @@ tags:
   - Beast
   - Summon
   - TCE
-ArmorClass: 13
-HitPoints: "4"
-Speed:
-  - Walking 10ft
-  - Fly 60ft
 ---
 # Beast of the Sky
 ## Tasha’s Cauldron of Everything (TCE):

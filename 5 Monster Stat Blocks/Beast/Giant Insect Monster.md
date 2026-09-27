@@ -4,12 +4,6 @@ tags:
   - Beast
   - Summon
   - PHB24
-ArmorClass: 11
-HitPoints: "30"
-Speed:
-  - Walking 40ft
-  - Climb 40ft
-  - Fly 40ft (Wasp Only)
 ---
 # Giant Insect:
 ## Player’s Handbook 2024 (PHB24):

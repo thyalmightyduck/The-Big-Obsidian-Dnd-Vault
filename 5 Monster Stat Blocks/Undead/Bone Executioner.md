@@ -3,24 +3,6 @@ tags:
   - Monster
   - Undead
   - Homebrew
-ArmorClass: 16
-HitPoints: "68"
-Speed:
-  - Walking 30ft
-Saves:
-  - STR
-  - CON
-DMGResistances:
-  - Piercing
-  - Slashing
-DMGImmunities:
-  - Poison
-ConditionImmunities:
-  - Exhaustion
-  - Poisoned
-  - Frightened
-DMGVulnerabilities:
-  - Radiant
 ---
 # Bone Executioner
 ## Homebrew

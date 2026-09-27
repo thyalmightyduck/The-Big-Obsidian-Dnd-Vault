@@ -3,16 +3,6 @@ tags:
   - Monster
   - Plant
   - MM25
-ArmorClass: 9
-HitPoints: "10"
-Speed:
-  - Walking 20ft
-DMGResistances:
-  - Piercing
-DMGVulnerabilities:
-  - Fire
-Languages:
-  - Common
 ---
 # Awakened Shrub
 ## Monster Manuel 2025 (MM25):

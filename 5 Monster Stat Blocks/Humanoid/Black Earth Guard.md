@@ -3,12 +3,6 @@ tags:
   - Monster
   - Humanoid
   - POTA
-ArmorClass: 18
-HitPoints: "39"
-Speed:
-  - Walking 30ft
-Languages:
-  - Common
 ---
 # Black Earth Guard
 ## Princes of the Apocalypse (POTA): 

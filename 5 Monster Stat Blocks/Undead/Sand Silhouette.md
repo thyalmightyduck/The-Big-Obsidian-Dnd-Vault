@@ -3,19 +3,6 @@ tags:
   - Monster
   - Undead
   - TOB123
-ArmorClass: 15
-HitPoints: "105"
-Speed:
-  - Walking 30ft
-  - Burrow 30ft
-DMGResistances:
-  - Bludgeoning
-  - Piercing
-  - Slashing
-ConditionImmunities:
-  - Exhaustion
-  - Frightened
-  - Poisoned
 ---
 # Sand Silhouette
 ## Tome of Beasts 1 2023 Edition (TOB123):

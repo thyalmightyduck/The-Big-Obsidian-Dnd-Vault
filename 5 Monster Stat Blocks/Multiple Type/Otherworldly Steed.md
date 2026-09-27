@@ -3,13 +3,6 @@ tags:
   - Monster
   - Summon
   - PHB24
-ArmorClass: 10
-HitPoints: "5"
-Speed:
-  - walking 60ft
-  - Fly 60ft
-Languages:
-  - Telepathy 1 Mile
 ---
 # Otherworldly Steed
 ## Player’s Handbook (2024)

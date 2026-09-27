@@ -3,12 +3,6 @@ tags:
   - Monster
   - Humanoid
   - TGS2
-ArmorClass: 11
-HitPoints: "105"
-Speed:
-  - Walking 25ft
-DMGResistances:
-  - Necrotic
 ---
 # Hawkren Bloodstone
 ## The Griffon’s Saddlebag, Book 2 (TGS2):

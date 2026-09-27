@@ -3,16 +3,6 @@ tags:
   - Monster
   - Undead
   - MODK
-ArmorClass: 10
-HitPoints: "7"
-Speed:
-  - Walking 30ft
-Saves:
-  - WIS
-DMGImmunities:
-  - Poison
-ConditionImmunities:
-  - Poisoned
 ---
 # Haze Husk
 ## Monsters of Drakkenheim (MODK):

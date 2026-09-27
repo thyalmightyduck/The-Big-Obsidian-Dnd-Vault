@@ -3,16 +3,6 @@ tags:
   - Monster
   - Celestial
   - PHB24
-ArmorClass: 11
-HitPoints: "40"
-Speed:
-  - Walking 30ft
-  - Fly 40ft
-DMGResistances:
-  - Radiant
-ConditionImmunities:
-  - Charmed
-  - Frightened
 ---
 # Celestial Spirit:
 ## Player’s Handbook 2024 (PHB24):

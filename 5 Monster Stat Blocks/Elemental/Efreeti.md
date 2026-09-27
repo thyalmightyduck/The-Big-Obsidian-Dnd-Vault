@@ -3,18 +3,6 @@ tags:
   - Monster
   - Elemental
   - MM25
-ArmorClass: 17
-HitPoints: "212"
-Speed:
-  - Walking 40ft
-  - Fly 60ft (Hover)
-Saves:
-  - WIS
-  - CHA
-DMGImmunities:
-  - Fire
-Languages:
-  - Primordial (Ignan)
 ---
 # Efreeti
 ## Monster Manual 2025 (MM25):

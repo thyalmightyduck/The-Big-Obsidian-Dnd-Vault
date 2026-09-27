@@ -3,13 +3,6 @@ tags:
   - Monster
   - Beast
   - MM25
-ArmorClass: 13
-HitPoints: "7"
-Speed:
-  - Walking 30ft
-  - Climb 30ft
-Saves:
-  - DEX
 ---
 # Giant Rat:
 ## Monster Manuel 2025 (MM25):

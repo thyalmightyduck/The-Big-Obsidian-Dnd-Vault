@@ -4,11 +4,6 @@ tags:
   - Beast
   - Summon
   - TCE
-ArmorClass: 13
-HitPoints: "5"
-Speed:
-  - Walking 5ft
-  - Swim 60ft
 ---
 # Beast of the Sea
 ## Tasha’s Cauldron of Everything (TCE):

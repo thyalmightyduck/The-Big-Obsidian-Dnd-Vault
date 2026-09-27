@@ -3,23 +3,6 @@ tags:
   - Monster
   - Undead
   - MM25
-ArmorClass: 20
-HitPoints: "199"
-Speed:
-  - Walking 30ft
-Saves:
-  - DEX
-  - WIS
-DMGImmunities:
-  - Necrotic
-  - Poison
-ConditionImmunities:
-  - Exhaustion
-  - Frightened
-  - Poisoned
-Languages:
-  - Abyssal
-  - Common
 ---
 # Death Knight
 ## Monster Manuel 2025 (MM25): 

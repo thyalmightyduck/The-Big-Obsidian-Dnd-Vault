@@ -3,12 +3,6 @@ tags:
   - Monster
   - Aberration
   - MODK
-ArmorClass: 12
-HitPoints: "9"
-Speed:
-  - Walking 30ft
-Languages:
-  - Common
 ---
 # Delerium Dreg
 ## Monsters of Drakkenheim (MODK):

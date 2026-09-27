@@ -3,29 +3,6 @@ tags:
   - Monster
   - Fiend
   - MM14
-ArmorClass: 18
-HitPoints: "178"
-Speed:
-  - Walking 20ft
-  - Fly 60ft
-Saves:
-  - STR
-  - DEX
-  - WIS
-  - CHA
-DMGResistances:
-  - Cold
-  - Bludgeoning
-  - Piercing
-  - Slashing
-DMGImmunities:
-  - Fire
-  - Poison
-ConditionImmunities:
-  - Poisoned
-Languages:
-  - Infernal
-  - Telepathy 120ft
 ---
 # Horned Devil 
 ## Monster Manuel 2014 (MM14):

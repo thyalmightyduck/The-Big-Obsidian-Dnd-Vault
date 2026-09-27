@@ -3,19 +3,6 @@ tags:
   - Monster
   - Elemental
   - MM25
-ArmorClass: 18
-HitPoints: "200"
-Speed:
-  - Walking 30ft
-  - Burrow 30ft
-  - Fly 30ft (Hover)
-Saves:
-  - DEX
-  - WIS
-ConditionImmunities:
-  - Petrified
-Languages:
-  - Primordial (Terran)
 ---
 # Dao
 ## Monster Manual 2025 (MM25):

@@ -3,13 +3,6 @@ tags:
   - Monster
   - Aberration
   - MODK
-ArmorClass: 9
-HitPoints: "67"
-Speed:
-  - Walking 10ft
-  - Swim 10ft
-ConditionImmunities:
-  - Prone
 ---
 # Pyknic Maunder
 ## Monsters of Drakkenheim (MODK):

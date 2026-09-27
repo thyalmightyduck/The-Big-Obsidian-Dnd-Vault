@@ -3,21 +3,6 @@ tags:
   - Monster
   - Aberration
   - MPP
-ArmorClass: 16
-HitPoints: "123"
-Speed:
-  - Walking 40ft
-Saves:
-  - STR
-  - DEX
-  - INT
-  - WIS
-Skills:
-  - Insight
-  - Perception
-Languages:
-  - Common
-  - Gith
 ---
 # Githzerai Uniter
 ## Morte’s Planar Parade (MPP):

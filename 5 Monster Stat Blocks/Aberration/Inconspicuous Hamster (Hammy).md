@@ -3,18 +3,6 @@ tags:
   - Monster
   - Aberration
   - Homebrew
-ArmorClass: 12
-HitPoints: "31"
-Speed:
-  - Walking 20ft
-DMGResistances:
-  - Bludgeoning
-  - Piercing
-  - Slashing
-ConditionImmunities:
-  - Charmed
-  - Blinded
-  - Frightened
 ---
 # Inconspicuous Hamster (Hammy)
 

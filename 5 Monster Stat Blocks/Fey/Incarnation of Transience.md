@@ -3,23 +3,6 @@ tags:
   - Monster
   - Fey
   - LFL
-ArmorClass: 16
-HitPoints: "142"
-Speed:
-  - Walking 40ft
-  - Swim 40ft
-Saves:
-  - DEX
-  - CON
-ConditionImmunities:
-  - Grappled
-  - Paralyzed
-  - Petrified
-  - Prone
-  - Restrainded
-Languages:
-  - Sylvan
-  - Telepathy 120ft
 ---
 # Incarnation of Transience
 ## Lorwyn: First Light (LFL):

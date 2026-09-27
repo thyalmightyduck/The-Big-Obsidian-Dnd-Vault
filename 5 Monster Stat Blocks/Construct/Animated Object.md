@@ -3,10 +3,6 @@ tags:
   - Monster
   - Construct
   - PHB24
-ArmorClass: 15
-HitPoints: 10-40
-Speed:
-  - Walking 30ft
 ---
 # Animated Object:
 ## Player’s Handbook 2024 (PHB24):

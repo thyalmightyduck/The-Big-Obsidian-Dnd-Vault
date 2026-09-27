@@ -3,24 +3,6 @@ tags:
   - Monster
   - Beast
   - MM25
-ArmorClass: 12
-HitPoints: "11"
-Speed:
-  - Walking 10ft
-  - Fly 50ft
-DMGResistances:
-  - Bludgeoning
-  - Piercing
-  - Slashing
-ConditionImmunities:
-  - Charmed
-  - Frightened
-  - Grappled
-  - Paralyzed
-  - Petrified
-  - Prone
-  - Restrainded
-  - Stunned
 ---
 # Swarm Of Ravens:
 ## Monster Manuel 2025 (MM25):

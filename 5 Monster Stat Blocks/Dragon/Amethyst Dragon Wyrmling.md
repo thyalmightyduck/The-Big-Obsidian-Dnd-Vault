@@ -3,26 +3,6 @@ tags:
   - Monster
   - Dragon
   - FTD
-ArmorClass: 17
-HitPoints: "75"
-Speed:
-  - Walking 30ft
-  - Fly 60ft (Hover)
-  - Swim 30ft
-Saves:
-  - DEX
-  - CON
-  - WIS
-  - CHA
-DMGResistances:
-  - Force
-  - Psychic
-ConditionImmunities:
-  - Frightened
-  - Prone
-Languages:
-  - Draconic
-  - Telepathy 120ft
 ---
 # Amethyst Dragon Wyrmling
 ## Fizban's Treasury of Dragons (FTD):

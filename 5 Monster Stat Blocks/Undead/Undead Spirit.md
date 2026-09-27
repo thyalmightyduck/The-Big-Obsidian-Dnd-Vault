@@ -4,21 +4,6 @@ tags:
   - Undead
   - Summon
   - PHB24
-ArmorClass: 11
-HitPoints: 20-30
-Speed:
-  - Walking 30ft
-  - Fly 40ft (Hover Ghosts Only)
-DMGImmunities:
-  - Necrotic
-  - Poison
-ConditionImmunities:
-  - Exhaustion
-  - Frightened
-  - Paralyzed
-  - Poisoned
-Languages:
-  - Common
 ---
 # Undead Spirit
 ## Player’s Handbook 2024 (PHB24): 

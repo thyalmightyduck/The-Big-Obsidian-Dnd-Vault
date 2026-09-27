@@ -3,13 +3,6 @@ tags:
   - Monster
   - Humanoid
   - MPMM
-ArmorClass: 12
-HitPoints: "104"
-Speed:
-  - Walking 30ft
-Saves:
-  - INT
-  - WIS
 ---
 # Abjurer Wizard 
 ## Mordenkainen Presents: Monsters of the Multiverse (MPMM): 

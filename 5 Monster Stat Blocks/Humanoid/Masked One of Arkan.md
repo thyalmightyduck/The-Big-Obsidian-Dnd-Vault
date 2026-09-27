@@ -3,25 +3,6 @@ tags:
   - Monster
   - Humanoid
   - Homebrew
-ArmorClass: 17
-HitPoints: "120"
-Speed:
-  - Walking 30ft
-  - Fly 50ft (Hover)
-Saves:
-  - CON
-  - CHA
-Skills:
-  - Stealth
-  - Perception
-  - Intimidation
-DMGResistances:
-  - Psychic
-  - Cold
-Languages:
-  - Common
-  - Abyssal
-  - Deep Speech
 ---
 # Statblock
 ```statblock

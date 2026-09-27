@@ -3,15 +3,6 @@ tags:
   - Monster
   - Humanoid
   - POTA
-ArmorClass: 12
-HitPoints: "105"
-Speed:
-  - Walking 30ft
-DMGImmunities:
-  - Fire
-Languages:
-  - Common
-  - Ignan
 ---
 # Flamewrath
 ## Princess Of The Apocalypse (POTA):

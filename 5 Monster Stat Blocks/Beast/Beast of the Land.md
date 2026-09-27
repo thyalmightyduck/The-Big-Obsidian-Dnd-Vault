@@ -4,11 +4,6 @@ tags:
   - Beast
   - Summon
   - TCE
-ArmorClass: 13
-HitPoints: "5"
-Speed:
-  - Walking 40ft
-  - Climb 40ft
 ---
 # Beast of the Land
 ## Tasha’s Cauldron of Everything (TCE):

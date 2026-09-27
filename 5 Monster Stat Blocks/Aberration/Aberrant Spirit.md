@@ -1,18 +1,8 @@
 ---
-ArmorClass: 11
 tags:
   - Monster
   - Aberration
   - TCE
-DMGImmunities:
-  - Psychic
-Languages:
-  - Deep Speech
-HitPoints: "40"
-Speed:
-  - Walking 30ft
-  - Fly 30ft (Beholder Only; Hover)
-Size: Medium
 ---
 # Aberrant Spirit
 ## Tasha’s Cauldron of Everything (TCE):

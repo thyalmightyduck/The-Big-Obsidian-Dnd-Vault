@@ -3,19 +3,6 @@ tags:
   - Monster
   - Undead
   - MM25
-ArmorClass: 8
-HitPoints: "15"
-Speed:
-  - Walking 20ft
-Saves:
-  - WIS
-DMGImmunities:
-  - Poison
-ConditionImmunities:
-  - Exhaustion
-  - Poisoned
-Languages:
-  - Common
 ---
 # Zombie
 ## Monster Manuel 2025 (MM25):

@@ -3,10 +3,6 @@ tags:
   - Monster
   - Monstrosity
   - MM25
-ArmorClass: 15
-HitPoints: "52"
-Speed:
-  - Burrow 20ft
 ---
 # Basilisk
 ## Monster Manuel 2025 (MM25):

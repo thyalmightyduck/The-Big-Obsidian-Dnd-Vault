@@ -3,15 +3,6 @@ tags:
   - Monster
   - Undead
   - MODK
-ArmorClass: 15
-HitPoints: "65"
-Speed:
-  - Walking 30ft
-DMGImmunities:
-  - Poison
-ConditionImmunities:
-  - Exhaustion
-  - Poisoned
 ---
 # Haze Wight
 ## Monsters of Drakkenheim (MODK):

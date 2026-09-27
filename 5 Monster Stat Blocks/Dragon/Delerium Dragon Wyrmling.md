@@ -3,28 +3,6 @@ tags:
   - Monster
   - Dragon
   - MODK
-ArmorClass: 18
-HitPoints: "90"
-Speed:
-  - Walking 30ft
-  - Climb 30ft
-  - Fly 60ft (Hover)
-Saves:
-  - DEX
-  - CON
-  - WIS
-  - CHA
-Skills:
-  - Arcana
-  - Perception
-  - Stealth
-DMGResistances:
-  - Necrotic
-  - Psychic
-Languages:
-  - Common
-  - Draconic
-  - Telepathy 30ft
 ---
 # Delerium Dragon Wyrmling:
 ## Monsters of Drakkenheim (MODK):

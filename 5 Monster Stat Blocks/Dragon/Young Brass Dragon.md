@@ -3,23 +3,6 @@ tags:
   - Monster
   - Dragon
   - MM25
-ArmorClass: 17
-HitPoints: "110"
-Speed:
-  - Walking 40ft
-  - Fly 80ft
-  - Burrow 20ft
-Saves:
-  - WIS
-Skills:
-  - Perception
-  - Stealth
-  - Persuasion
-DMGImmunities:
-  - Fire
-Languages:
-  - Common
-  - Draconic
 ---
 # Young Brass Dragon
 ## Monster Manuel 2025 (MM25):

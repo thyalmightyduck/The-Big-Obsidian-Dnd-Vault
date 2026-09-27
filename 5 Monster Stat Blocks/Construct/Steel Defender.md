@@ -4,19 +4,6 @@ tags:
   - Construct
   - TCE
   - Summon
-ArmorClass: 15
-HitPoints: "2"
-Speed:
-  - Walking 40ft
-Saves:
-  - DEX
-Skills:
-  - Athletics
-  - Perception
-ConditionImmunities:
-  - Charmed
-  - Exhaustion
-  - Poisoned
 ---
 # Steel Defender:
 ## Tasha’s Cauldron of Everything (TCE):

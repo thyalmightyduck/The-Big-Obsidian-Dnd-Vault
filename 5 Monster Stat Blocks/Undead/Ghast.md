@@ -3,20 +3,6 @@ tags:
   - Monster
   - Undead
   - MM25
-ArmorClass: 13
-HitPoints: "36"
-Speed:
-  - Walking 30ft
-DMGResistances:
-  - Necrotic
-DMGImmunities:
-  - Poison
-ConditionImmunities:
-  - Charmed
-  - Exhaustion
-  - Poisoned
-Languages:
-  - Common
 ---
 # Ghast
 ## Monster Manual 2025:

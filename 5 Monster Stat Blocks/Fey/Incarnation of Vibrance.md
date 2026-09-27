@@ -3,23 +3,6 @@ tags:
   - Monster
   - Fey
   - LFL
-ArmorClass: 14
-HitPoints: "230"
-Speed:
-  - Walking 40ft
-Saves:
-  - CON
-  - CHA
-DMGResistances:
-  - Radiant
-ConditionImmunities:
-  - Blinded
-  - Charmed
-  - Deafened
-  - Frightened
-Languages:
-  - Sylvan
-  - Telepathy 120ft
 ---
 # Incarnation of Vibrance
 ## Lorwyn: First Light (LFL): 

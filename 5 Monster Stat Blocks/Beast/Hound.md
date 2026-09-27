@@ -4,17 +4,6 @@ tags:
   - Beast
   - Summon
   - TPC24
-ArmorClass: 12
-HitPoints: "5"
-Speed:
-  - Walking 40ft
-Saves:
-  - STR
-  - DEX
-  - CON
-  - INT
-  - WIS
-  - CHA
 ---
 # Hound:
 ## The Pugilist Class 2024 (TPC24):

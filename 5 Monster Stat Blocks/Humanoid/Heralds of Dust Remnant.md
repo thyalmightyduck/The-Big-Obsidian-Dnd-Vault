@@ -3,14 +3,6 @@ tags:
   - Monster
   - Humanoid
   - MPP
-ArmorClass: 12
-HitPoints: "45"
-Speed:
-  - Walking 30ft
-DMGResistances:
-  - Necrotic
-Languages:
-  - Common
 ---
 # Heralds of Dust Remnant
 ## Morte’s Planar Parade (MPP): 

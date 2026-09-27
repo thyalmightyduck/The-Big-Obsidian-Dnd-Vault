@@ -3,10 +3,6 @@ tags:
   - Monster
   - Beast
   - MM25
-ArmorClass: 11
-HitPoints: "13"
-Speed:
-  - walking 60ft
 ---
 # Riding Horse:
 ## Monster Manuel 2025 (MM25):

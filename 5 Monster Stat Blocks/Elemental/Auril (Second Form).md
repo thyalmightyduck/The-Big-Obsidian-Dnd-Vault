@@ -3,29 +3,6 @@ tags:
   - Monster
   - Elemental
   - IDROTF
-ArmorClass: 16
-HitPoints: "136"
-Speed:
-  - Climb 30ft
-Saves:
-  - CON
-  - WIS
-DMGImmunities:
-  - Cold
-  - Poison
-ConditionImmunities:
-  - Charmed
-  - Exhaustion
-  - Frightened
-  - Paralyzed
-  - Petrified
-  - Poisoned
-  - Stunned
-DMGVulnerabilities:
-  - Fire
-Languages:
-  - All
-  - Telepathy 1000ft
 ---
 # Auril Second Form
 ## Icewind Dale: Rime of the Frostmaiden (IDROTF):

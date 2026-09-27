@@ -3,22 +3,6 @@ tags:
   - Monster
   - Undead
   - TOB123
-ArmorClass: 12
-HitPoints: "75"
-Speed:
-  - Walking 30ft
-DMGResistances:
-  - Necrotic
-  - Bludgeoning
-  - Piercing
-  - Slashing
-ConditionImmunities:
-  - Charmed
-  - Exhaustion
-  - Frightened
-  - Poisoned
-Languages:
-  - Common
 ---
 # Accursed Defiler
 ## Tome of Beasts 1 2023 Edition (TOB123) 

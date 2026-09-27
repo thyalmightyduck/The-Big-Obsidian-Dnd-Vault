@@ -4,24 +4,6 @@ tags:
   - Beast
   - Summon
   - GHPG24
-ArmorClass: 11
-HitPoints: "5"
-Speed:
-  - Walking 30ft
-  - Climb 30ft
-DMGResistances:
-  - Bludgeoning
-  - Piercing
-  - Slashing
-ConditionImmunities:
-  - Charmed
-  - Frightened
-  - Grappled
-  - Paralyzed
-  - Petrified
-  - Prone
-  - Restrainded
-  - Stunned
 ---
 # Swarm of Vermin
 ## Grim Hallow: Player’s Guide 2024 (GHPG24):

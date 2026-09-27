@@ -3,19 +3,6 @@ tags:
   - Monster
   - Undead
   - MM25
-ArmorClass: 12
-HitPoints: "45"
-Speed:
-  - Walking 40ft
-DMGImmunities:
-  - Poison
-ConditionImmunities:
-  - Exhaustion
-  - Poisoned
-DMGVulnerabilities:
-  - Bludgeoning
-Languages:
-  - Abyssal
 ---
 # Minotaur Skeleton
 ## Monster Manual 2025 (MM25):

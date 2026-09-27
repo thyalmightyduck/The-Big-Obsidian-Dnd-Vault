@@ -3,13 +3,6 @@ tags:
   - Monster
   - Aberration
   - MM25
-ArmorClass: 9
-HitPoints: "52"
-Speed:
-  - Walking 20ft
-  - Swim 20ft
-ConditionImmunities:
-  - Prone
 ---
 # Gibbering Mouther
 ## Monster Manual 2025 (MM25):

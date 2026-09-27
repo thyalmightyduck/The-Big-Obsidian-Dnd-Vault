@@ -3,12 +3,6 @@ tags:
   - Monster
   - Monstrosity
   - MM25
-ArmorClass: 13
-HitPoints: "76"
-Speed:
-  - Walking 40ft
-Languages:
-  - Sylvan
 ---
 # Displacer Beast
 ## Monster Manuel 2025 (MM25):
