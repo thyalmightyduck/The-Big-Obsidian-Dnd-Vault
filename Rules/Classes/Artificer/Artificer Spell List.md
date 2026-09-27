@@ -1,2 +1,4 @@
 # WOP 
-this will be a list of all the artificer spells
+## Cantrips
+- [[Acid Splash]]
+- [[Aundairs Silent Sanctum]]
