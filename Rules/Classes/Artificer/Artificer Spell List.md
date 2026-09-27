@@ -94,3 +94,12 @@
 - [[Haste]]
 - [[Intellect Fortress]]
 - [[Linked Glyphs]]
+- [[Protection from Energy]]
+- [[Revivify]]
+- [[Tiny Servant]]
+- [[Traveler's Enigma]]
+- [[Water Breathing]]
+- [[Water Walk]]
+## Level 4
+- [[Arcane Eye]]
+- Distorted Distance
