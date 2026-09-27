@@ -57,6 +57,7 @@ Format and Properties
 - [x] explorers guide to wildmount
 - [x] forgotten realms heroes of faerun
 - [x] ghosts of saltmarsh
+- [x] guildmasters guide to ravnice
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
