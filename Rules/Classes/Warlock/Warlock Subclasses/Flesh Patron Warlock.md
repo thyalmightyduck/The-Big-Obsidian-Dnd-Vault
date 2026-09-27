@@ -269,7 +269,7 @@ The Flesh lets you choose from an expanded list of spells when you learn a warlo
 | 1st         | [[jump]], [[shield]]                      |
 | 2nd         | [[enhance ability]], [[enlarge reduce]]   |
 | 3rd         | [[haste]], [[slow]]                       |
-| 4th         | [[Evards Black Tentacles]], [[polymorph]] |
+| 4th         | [[Evard's Black Tentacles]], [[polymorph]] |
 | 5th         | [[greater restoration]], [[reincarnate]]  |
 ### Level 1: Unarmored Defense
 While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Constitution modifier.

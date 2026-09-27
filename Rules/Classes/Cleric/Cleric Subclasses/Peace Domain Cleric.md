@@ -124,7 +124,7 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 | 3rd          | [[aid]], [[warding bond]]                                                                                                                                            |
 | 5th          | [[beacon of hope]], [[sending]]                                                                                                                                      |
 | 7th          | [[aura of purity]], [[Otilukes Resilient Sphere]]                                                                                                                   |
-| 9th          | [[greater restoration]], [[Rarys Telepathic Bond]] |
+| 9th          | [[greater restoration]], [[Rary's Telepathic Bond]] |
 ### Implement of Peace
 _1st-level Peace Domain feature_
 

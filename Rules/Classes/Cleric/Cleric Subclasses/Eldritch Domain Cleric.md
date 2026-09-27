@@ -104,7 +104,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells                                                                                                                    |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 3            | [[Detect Thoughts]], [[Tashas Hideous Laughter]], [[See Invisibility]], [[Sleep]]                                                  |
+| 3            | [[Detect Thoughts]], [[Tasha's Hideous Laughter]], [[See Invisibility]], [[Sleep]]                                                  |
 | 5            | [[Fear]], [[Tongues]]                                                                                                              |
 | 7            | [[Confusion]], [[Phantasmal Killer]]                                                                                               |
 | 9            | [[Contact Other Plane]], [[Dream]] |

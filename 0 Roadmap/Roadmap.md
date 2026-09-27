@@ -112,6 +112,7 @@ Artificer
 - [ ] Sorcerer
 - [x] Warlock
 - [ ] Wizard
+- [x] Apothecary
 # Fixes
 #todo/fixes
 - [ ] Format Species Notes

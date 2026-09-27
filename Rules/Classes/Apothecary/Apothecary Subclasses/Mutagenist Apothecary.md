@@ -53,7 +53,7 @@ When you gain a level in a class other than your first, you gain only some of th
 **Armor Training:** [[Light armor]]
 
 ## Level 1: Apothecary 
-Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the apothecary spell list.
+Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the [[apothecary spell list]].
 ### Formula Book
 You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[arcane focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
 - A large leatherbound tome with yellowing pages bound shut with an iron lock
@@ -64,11 +64,11 @@ You have a book or collection of notes that you study to prepare your apothecary
 - A beat-up satchel slung over one shoulder with vials and bottles poking out of every pocket
 If the book is destroyed or lost, you can recreate it using inks and [[Paper]] during a long rest.
 ### Cantrip
-You know three cantrips of your choice from the apothecary spell list. You learn additional apothecary cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Apothecary table.
-Elementary Reformulation. Whenever you finish a long rest and consult your formula book, you can replace one apothecary cantrip you know with another cantrip from the apothecary spell list.
+You know three cantrips of your choice from the [[apothecary spell list]]. You learn additional apothecary cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Apothecary table.
+Elementary Reformulation. Whenever you finish a long rest and consult your formula book, you can replace one apothecary cantrip you know with another cantrip from the [[apothecary spell list]].
 ### Preparing and Casting Spells
 The Apothecary table shows how many spell slots you have to cast your apothecary spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your apothecary spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
-You prepare the list of apothecary spells that are available for you to cast, choosing from the apothecary spell list. When you do so, choose a number of apothecary spells equal to your Intelligence modifier + your apothecary level (minimum of one spell). A spell you prepare must be of a level no higher than what's shown in the Apothecary table's Slot Level column for your level.
+You prepare the list of apothecary spells that are available for you to cast, choosing from the [[apothecary spell list]]. When you do so, choose a number of apothecary spells equal to your Intelligence modifier + your apothecary level (minimum of one spell). A spell you prepare must be of a level no higher than what's shown in the Apothecary table's Slot Level column for your level.
 For example, if you are a 5th-level apothecary, you have three 3rd-level spell slots. With an Intelligence of 16, your list of prepared spells can include eight spells of 1st, 2nd, or 3rd level, in any combination. To cast the 1st-level spell cure wounds, you must spend one of those slots, and you cast it as a 3rd-level spell. Casting a spell doesn't remove it from your list of prepared spells.
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of apothecary spells requires at least 1 minute per spell level for each spell on your list.
 ### Spellcasting Ability
@@ -157,7 +157,7 @@ You are able to use your changed biology to protect yourself from the clutches o
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
 At 11th level, you discover a magical secret called a Greater Formula. Choose one 6th-level spell from the [[apothecary spell]] list as this formula.
 You can cast your Greater Formula once without expending a spell slot. You must finish a long rest before you can do so again.
-Master Reformulation. Whenever you finish a long rest and consult your formula book, you can replace one spell you gained from this feature with another spell of the same level from the Apothecary spell list.
+Master Reformulation. Whenever you finish a long rest and consult your formula book, you can replace one spell you gained from this feature with another spell of the same level from the [[Apothecary spell list]].
 
 ## Level 12: Ability Score Improvement
 When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -200,14 +200,14 @@ You have perfected your Transmogrifying Elixir, breaking the confines of evoluti
 - Your Strength score becomes equal to your Intelligence score when transmogrified. Additionally, you can cast spells while in your transmogrified form.
 
 ## Level 19: Additional Greater Formula (6th)
-At 19th level, you discover a magical secret called a Greater Formula. Choose one additional 6th-level spell from the apothecary spell list as this formula.
+At 19th level, you discover a magical secret called a Greater Formula. Choose one additional 6th-level spell from the [[apothecary spell list]] as this formula.
 
 ## Level 19: Ability Score Improvement
 When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 If your DM allows the use of feats, you may instead take a [[feat]].
 
 ## Level 20: Additional Greater Formula (7th)
-At 20th level, you discover a magical secret called a Greater Formula. Choose one additional 7th-level spell from the apothecary spell list as this formula.
+At 20th level, you discover a magical secret called a Greater Formula. Choose one additional 7th-level spell from the [[apothecary spell list]] as this formula.
 
 ## Level 20: Miraculous Recovery
 

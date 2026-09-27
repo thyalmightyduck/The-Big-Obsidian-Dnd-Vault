@@ -102,7 +102,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | Paladin Level | Spells                                        |
 | ------------- | --------------------------------------------- |
 | 3             | [[Bane]], [[Inflict Wounds]]                  |
-| 5             | [[Melfs Acid Arrow]], [[Ray of Enfeeblement]] |
+| 5             | [[Melf's Acid Arrow]], [[Ray of Enfeeblement]] |
 | 9             | [[Flash Fever]], [[Stinking Cloud]]           |
 | 13            | [[Blight]], [[Confusion]]                     |
 | 17            | [[Contagion]], [[Insect Plague]]              |

@@ -1,3 +1,12 @@
+---
+tags:
+  - Spell
+  - Level1
+  - Enchantment
+  - Concentration
+aliases:
+  - Tashas Hideous Laughter
+---
 _Enchantment Level 1_
 
 **Casting Time:** Action

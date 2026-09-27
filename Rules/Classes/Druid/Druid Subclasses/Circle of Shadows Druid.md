@@ -144,7 +144,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 2nd         | [[bane]], [[false life]]                             |
 | 3rd         | [[darkness]], [[darkvision]]                         |
 | 5th         | [[blink]], [[fear]]                                  |
-| 7th         | [[Evards Black Tentacles]], [[greater invisibility]] |
+| 7th         | [[Evard's Black Tentacles]], [[greater invisibility]] |
 | 9th         | [[cone of cold]], [[dream]]                          |
 
 ## Level 4: Ability Score Improvement

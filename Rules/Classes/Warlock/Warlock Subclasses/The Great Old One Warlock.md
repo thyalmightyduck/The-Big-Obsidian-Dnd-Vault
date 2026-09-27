@@ -260,10 +260,10 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 
 | Spell Level | Spells                                              |
 | ----------- | --------------------------------------------------- |
-| 1st         | [[dissonant whispers]], [[Tashas hideous laughter]] |
+| 1st         | [[dissonant whispers]], [[Tasha's Hideous Laughter]] |
 | 2nd         | [[detect thoughts]], [[phantasmal force]]           |
 | 3rd         | [[clairvoyance]], [[sending]]                       |
-| 4th         | [[dominate beast]], [[Evards black tentacles]]      |
+| 4th         | [[dominate beast]], [[Evard's Black Tentacles]]      |
 | 5th         | [[dominate person]], [[telekinesis]]                |
 ### Level 1: Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.

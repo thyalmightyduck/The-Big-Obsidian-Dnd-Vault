@@ -19,7 +19,7 @@ Swimming. You have a swimming speed of 30 feet.
 
 Languages. You can speak, read, and write Common, Merfolk, and one extra language of your choice.
 
-Cantrip. You know one cantrip of your choice from the [bard spell list](https://5e.tools/spells.html#blankhash,flstclass:bard=1,flstlevel:0=1). Charisma is your spellcasting ability for it.
+Cantrip. You know one cantrip of your choice from the [[bard spell list]]. Charisma is your spellcasting ability for it.
 
 Creed of the Trickster. You have proficiency in the Sleight of Hand and Stealth skills.
 
@@ -35,4 +35,3 @@ Merfolk are an amphibious race, born and at home in the water but comfortable on
 
 Merfolk wear little clothing unless they are armored for battle. Even then, they drape themselves with nets and a minimum of cloth, wearing armor crafted of large, bleached seashells and augmented with leather.
 
-https://5e.tools/races.html#merfolk%20(zendikar%3b%20cosi%20creed)_psz

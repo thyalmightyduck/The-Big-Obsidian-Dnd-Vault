@@ -158,8 +158,8 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 | -------------- | -------------------------------------------------------------------------------------------------- |
 | 3rd            | [[Arms of Hadar]], [[Calm Emotions]], [[Detect Thoughts]], [[Dissonant Whispers]], [[Mind Sliver]] |
 | 5th            | [[Hunger of Hadar]], [[Sending]]                                                                   |
-| 7th            | [[Evards Black Tentacles]], [[Summon Aberration]]                                                  |
-| 9th            | [[Rarys Telepathic Bond]], [[Telekinesis]]                                                         |
+| 7th            | [[Evard's Black Tentacles]], [[Summon Aberration]]                                                  |
+| 9th            | [[Rary's Telepathic Bond]], [[Telekinesis]]                                                         |
 ### Level 3: Telepathic Speech
 You can form a telepathic connection between your mind and the mind of another. As a [[Bonus Action]], choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
 The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature.

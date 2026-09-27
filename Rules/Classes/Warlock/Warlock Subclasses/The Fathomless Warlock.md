@@ -325,7 +325,7 @@ You gain a feature from your Warlock subclass.
 ### Grasping Tentacles
 _10th-level Fathomless feature_
 
-You learn the spell [[Evards black tentacles]]. It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the spell [[Evard's Black Tentacles]]. It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
 Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [[concentration]] on this spell.
 

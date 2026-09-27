@@ -171,8 +171,8 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 | 1st            | [[arms of Hadar]], [[dissonant whispers]], [[mind sliver]] |
 | 3rd            | [[calm emotions]], [[detect thoughts]]                     |
 | 5th            | [[hunger of Hadar]], [[sending]]                           |
-| 7th            | [[Evards black tentacles]], [[summon aberration]]          |
-| 9th            | [[Rarys telepathic bond]], [[telekinesis]]                 |
+| 7th            | [[Evard's Black Tentacles]], [[summon aberration]]          |
+| 9th            | [[Rary's Telepathic Bond]], [[telekinesis]]                 |
 ### Telepathic Speech
 _1st-level Aberrant Mind feature_
 You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.

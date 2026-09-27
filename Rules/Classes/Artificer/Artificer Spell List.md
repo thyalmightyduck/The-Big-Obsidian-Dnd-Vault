@@ -1,4 +1,7 @@
-# WOP 
+---
+tags:
+  - SpellList
+---
 ## Cantrips
 - [[Acid Splash]]
 - [[Aundair's Silent Sanctum]]

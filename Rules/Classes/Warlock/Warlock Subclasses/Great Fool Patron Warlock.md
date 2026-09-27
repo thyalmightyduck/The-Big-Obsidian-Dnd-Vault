@@ -280,7 +280,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                                                    |
 | ------------- | --------------------------------------------------------------------------------------------------------- |
-| 3             | [[Disguise Self]], [[Tashas Hideous Laughter]], [[Rope Trick]], [[Spiritual Weapon]], [[Vicious Mockery]] |
+| 3             | [[Disguise Self]], [[Tasha's Hideous Laughter]], [[Rope Trick]], [[Spiritual Weapon]], [[Vicious Mockery]] |
 | 5             | [[Blink]], [[Stinking Cloud]]                                                                             |
 | 7             | [[Phantasmal Killer]], [[Puppet Master]]                                                                  |
 | 9             | [[Bigbys Hand]], [[Mislead]]                                                                              |

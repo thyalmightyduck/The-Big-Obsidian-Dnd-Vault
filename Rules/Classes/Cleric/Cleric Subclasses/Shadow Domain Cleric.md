@@ -107,7 +107,7 @@ You gain domain spells at the cleric levels listed in the Shadow Domain Spells t
 | 1st          | [[false life]], [[sleep]]                             |
 | 3rd          | [[darkness]], [[pass without trace]]                  |
 | 5th          | [[hypnotic pattern]], [[nondetection]]                |
-| 7th          | [[Evards Black Tentacles]], [[greater invisibility]] |
+| 7th          | [[Evard's Black Tentacles]], [[greater invisibility]] |
 | 9th          | [[cone of cold]], [[dream]]                           |
 ### Level 1: Bonus Cantrips
 You learn the [[chill touch]] and [[minor illusion]] cantrips. These cantrips count as cleric spells for you, and don't count against the number of cleric cantrips you know.

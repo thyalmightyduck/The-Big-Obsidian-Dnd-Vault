@@ -271,7 +271,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 3             | [[Accelerate Decelerate]], [[Delay]], [[Enhance Ability]], [[Moment to Think]], [[Recall]] |
 | 5             | [[Protection from Energy]], [[Slow]]                                                       |
 | 7             | [[Death Ward]], [[Dire Warning]]                                                           |
-| 9             | [[Legend Lore]], [[Rarys Telepathic Bond]]                                                 |
+| 9             | [[Legend Lore]], [[Rary's Telepathic Bond]]                                                 |
 In addition, strange effects linger after communicating with your future self. You gain one of the traits from the Future You Quirks table.
 
 **Future You Quirks:**

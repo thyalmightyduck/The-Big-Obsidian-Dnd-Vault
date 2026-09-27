@@ -269,7 +269,7 @@ The Parasite lets you choose from an expanded list of spells when you learn a wa
 | 1st         | [[heroism]], [[sanctuary]]                          |
 | 2nd         | [[enhance ability]], [[enlarge reduce]]             |
 | 3rd         | [[haste]], [[spirit guardians]]                     |
-| 4th         | [[Evards black tentacles]], [[freedom of movement]] |
+| 4th         | [[Evard's Black Tentacles]], [[freedom of movement]] |
 | 5th         | [[endure]], [[dominate person]]                     |
 #### Flavouring Spells
 Some of the spells in the Parasite Expanded Spells table have a divine flavour to them. Feel free to corrupt these to fit your parasitic patron! For example, [[sanctuary]] might be represented as part of your parasitic symbiont warding the target of your spell from damaging blows. [[Spirit guardians]] probably deals necrotic damage, even if you're not evil, and could manifest as viscous threads of corrupting ichor that whirl around you with a mind of their own. If you're especially into horror, you could even express [[dominate person]] as a part of your patron physically invading your target's cranium through a nostril!

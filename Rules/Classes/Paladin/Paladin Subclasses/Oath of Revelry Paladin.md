@@ -95,11 +95,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                          |
 | ------------- | ----------------------------------------------- |
-| 3rd           | [[Charm Person]], [[Tashas Hideous Laughter]]   |
+| 3rd           | [[Charm Person]], [[Tasha's Hideous Laughter]]   |
 | 5th           | [[Enhance Ability]], [[Hangover]]               |
 | 9th           | [[Create Food And Water]], [[Hypnotic Pattern]] |
 | 13th          | [[Charm Monster]], [[Freedom of Movement]]      |
-| 17th          | [[Geas]], [[Rarys Telepathic Bond]]            |
+| 17th          | [[Geas]], [[Rary's Telepathic Bond]]            |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.

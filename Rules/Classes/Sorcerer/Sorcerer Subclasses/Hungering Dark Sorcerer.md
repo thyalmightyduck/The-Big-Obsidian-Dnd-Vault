@@ -163,7 +163,7 @@ When you reach a Sorcerer level specified in the Innate Darkness Spells table, y
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 3              | [[Confounding Shadows]], [[Darkness]], [[Tide of Darkness]], [[Umbral Tendril]]                                                       |
 | 5              | [[Fear]], [[Shadowy Eruption]]                                                                                                        |
-| 7              | [[Evards Black Tentacles]], [[Greater Invisibility]]                                                                                  |
+| 7              | [[Evard's Black Tentacles]], [[Greater Invisibility]]                                                                                  |
 | 9              | [[Mislead]], [[Summon Shadow]] |
 ### Level 3: Shadowed Soul
 The darkness within allows you to push away the light. You gain Darkvision with a range of 60 feet. If you already have [[Darkvision]], its range increases by 60 feet. In addition, you can see through any magical [[Darkness]] you create with your Innate Darkness feature, unless you have the [[Blinded]] or [[Incapacitated]] condition.

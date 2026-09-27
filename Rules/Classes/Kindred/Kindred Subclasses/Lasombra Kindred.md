@@ -152,7 +152,7 @@ You gain a feature from your Kindred Subclass.
 ### Level 6: Shadow Mastery
 You can call forth different aspects of the abyssal darkness.
 
-**Arms of Ahriman.** You can expend 2 Blood Points to cast the [[Evards Black Tentacles]] spell. When you cast the spell in this way, the [[Evards Black Tentacles]] deal 1d6 Bludgeoning damage and 2d6 Cold damage (instead of 3d6 Bludgeoning damage)
+**Arms of Ahriman.** You can expend 2 Blood Points to cast the [[Evard's Black Tentacles]] spell. When you cast the spell in this way, the [[Evard's Black Tentacles]] deal 1d6 Bludgeoning damage and 2d6 Cold damage (instead of 3d6 Bludgeoning damage)
 
 **Shrouding.** You can expend 1 Blood Point to cast the [[Darkness]] spell.
 

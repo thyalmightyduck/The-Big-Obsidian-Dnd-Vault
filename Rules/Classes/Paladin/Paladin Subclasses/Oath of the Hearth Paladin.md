@@ -99,7 +99,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 5             | [[Aid]], [[Continual Flame]]                |
 | 9             | [[Beacon of Hope]], [[Daylight]]            |
 | 13            | [[Fire Shield]], [[Guardian of Faith]]      |
-| 17            | [[Flame Strike]], [[Rarys Telepathic Bond]] |
+| 17            | [[Flame Strike]], [[Rary's Telepathic Bond]] |
 ### Level 3: Burning weapon
 When you take the [[Attack action]], you can expend one use of your Channel Divinity to ignite one Melee weapon that you're holding with fiery energy. For 10 minutes or until you use this feature again, you deal extra Fire damage equal to your Charisma modifier (minimum of 1) whenever you hit a target with that weapon, and each time you hit with it, you can cause it to deal its normal damage type or Fire damage.
 The weapon also emits [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet.

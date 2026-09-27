@@ -164,7 +164,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 3rd            | [[lesser restoration]]    | [[blindness deafness]] | [[alter self]]            |
 | 5th            | [[dispel magic]]          | [[vampiric touch]]     | [[phantom steed]]         |
 | 7th            | [[death ward]]            | [[confusion]]          | [[hallucinatory terrain]] |
-| 9th            | [[Rarys telepathic bond]] | [[hold monster]]       | [[mislead]]               |
+| 9th            | [[Rary's Telepathic Bond]] | [[hold monster]]       | [[mislead]]               |
 Whenever you finish a long rest, you can choose what lunar phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon. While in the chosen phase, you can cast one 1st-level spell of the associated phase in the Lunar Spells table once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
 
 ### Moon Fire

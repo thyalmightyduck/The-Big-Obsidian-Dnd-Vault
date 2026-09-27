@@ -268,7 +268,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                                         |
 | ------------- | ---------------------------------------------------------------------------------------------- |
-| 3             | [[Detect Thoughts]], [[Dissonant Whispers]], [[Phantasmal Force]], [[Tashas Hideous Laughter]] |
+| 3             | [[Detect Thoughts]], [[Dissonant Whispers]], [[Phantasmal Force]], [[Tasha's Hideous Laughter]] |
 | 5             | [[Clairvoyance]], [[Hunger of Hadar]]                                                          |
 | 7             | [[Confusion]], [[Summon Aberration]]                                                           |
 | 9             | [[Modify Memory]], [[Telekinesis]]                                                             |

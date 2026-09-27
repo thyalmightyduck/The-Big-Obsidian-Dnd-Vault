@@ -96,7 +96,7 @@ You gain oath spells at the paladin levels listed in the Oath of Hexes Spells ta
 
 | Paladin Level | Spells                                                              |
 | ------------- | ------------------------------------------------------------------- |
-| 3rd           | [[hellish rebuke]], [[Tashas Hideous Laughter]], [[eldritch blast]] |
+| 3rd           | [[hellish rebuke]], [[Tasha's Hideous Laughter]], [[eldritch blast]] |
 | 5th           | [[invisibility]], [[suggestion]]                                    |
 | 9th           | [[bestow curse]], [[fear]]                                          |
 | 13th          | [[dimension door]], [[polymorph]]                                   |

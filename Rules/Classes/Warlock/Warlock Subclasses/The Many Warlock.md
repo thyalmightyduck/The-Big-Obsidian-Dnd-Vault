@@ -269,8 +269,8 @@ The Many lets you choose from an expanded list of spells when you learn a warloc
 | 1st         | [[entangle]], [[magic missile]]            |
 | 2nd         | [[scorching ray]], [[see invisibility]]    |
 | 3rd         | [[blink]], [[nondetection]]                |
-| 4th         | [[arcane eye]], [[Evards Black Tentacles]] |
-| 5th         | [[mislead]], [[Rarys Telepathic Bond]]     |
+| 4th         | [[arcane eye]], [[Evard's Black Tentacles]] |
+| 5th         | [[mislead]], [[Rary's Telepathic Bond]]     |
 ### Level 1: Eldritch Heads
 At 1st level, you gain a number of eldritch heads equal to your proficiency bonus. Only you and creatures with truesight can see these heads, which sprout from your shoulders as representations of your patron. You can choose to ignore the heads and cause them to vanish from your vision.
 

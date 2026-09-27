@@ -1,3 +1,12 @@
+---
+tags:
+  - Spell
+  - Level4
+  - Conjuration
+  - Concentration
+aliases:
+  - Evards Black Tentacles
+---
 _Level 4 Conjuration_
 
 **Casting Time:** Action
@@ -9,9 +18,6 @@ Squirming, ebony tentacles fill a 20-foot square on ground that you can see with
 
 Each creature in that area makes a Strength saving throw. On a failed save, it takes 3d6 Bludgeoning damage, and it has the [[Restrained]] condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.
 
-A [[Restrained]] creature can take an action to make a Strength (Athletics) check against your spell save DC, ending the condition on itself on a success.
-
-**Classes:** [[Apothecary]], [[Wizard]]
-**Subclasses:** [[Aberrant Mind Sorcerer]], [[Arcane Trickster Rogue]], [[Eldritch Knight Fighter]], [[Flesh Patron Warlock]], [[Hungering Dark Sorcerer]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Shadow Domain Cleric]], [[Spellslinger Gunslinger]], [[The Fathomless Warlock]], [[The Great Old One Warlock]], [[The Many Warlock]], [[The Parasite Warlock]], [[Way of the Arcane Hand Monk]]
+A [[Restrained]] creature can take an action to make a Strength ([[Athletics]]) check against your spell save DC, ending the condition on itself on a success.
 
 ![[Evards Black Tentacles.png]]
