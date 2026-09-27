@@ -49,6 +49,7 @@ Format and Properties
 - [x] acquisitions incorporated
 - [x] Arcana unleashed
 - [x] astarions book of hungers
+- [x] astral adventures guide
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
