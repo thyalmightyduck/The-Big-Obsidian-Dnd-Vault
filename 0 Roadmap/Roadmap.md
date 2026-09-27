@@ -118,6 +118,9 @@ Artificer
 - [ ] Add picture to all species
 - [ ] Add all sources for species
 - [ ] Fix Weapon Formatting
+- [ ] fix spell formatting
+- [ ] fix background formatting
+- [ ] fix feats formatting
 # Additions
 Make Shop Roll Tables
 Add Schools of Magic
