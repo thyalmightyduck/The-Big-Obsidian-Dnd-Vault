@@ -69,6 +69,7 @@ Format and Properties
 - [x] tomb of annihilation
 - [x] cthulhu by torchlight
 - [x] D&D beyond drop
+- [x] dungeons of drakkenheim
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
