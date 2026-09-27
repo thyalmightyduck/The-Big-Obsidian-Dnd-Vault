@@ -60,6 +60,7 @@ Format and Properties
 - [x] guildmasters guide to ravnice
 - [x] Lorwyn first light
 - [x] mythic odysseys of theros
+- [x] ravenloft the horrors within
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
