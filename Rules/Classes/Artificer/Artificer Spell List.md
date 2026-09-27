@@ -19,3 +19,12 @@
 - [[Message]]
 - [[Poison Spray]]
 - [[Prestidigitation]]
+- [[Ray of Frost]]
+- [[Resistance]]
+- [[Shocking Grasp]]
+- [[Spare the Dying]]
+- [[Sword Burst]]
+- [[Thorn Whip]]
+- [[Thunderclap]]
+- [[True Strike]]
+## Level 1
