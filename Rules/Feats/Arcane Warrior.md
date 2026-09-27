@@ -1,7 +1,11 @@
-## Arcane Warrior
+---
+tags:
+  - Feat
+  - AU
+---
+## Arcane Warrior (AU):
+[[Fighting Style Feat]] (Prerequisite: Fighting Style Feature)
 
-Fighting Style Feat (Prerequisite: Fighting Style Feature)
+You learn two [[Wizard]] cantrips of your choice. *[[Mage Hand]]* and *[[Ray of Frost]]* are recommended. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this [[feat]]).
 
-You learn two Wizard cantrips of your choice. *Mage Hand* and *Ray of Frost* are recommended. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).
-
-Whenever you gain a level, you can replace one of these cantrips with another Wizard cantrip.
+Whenever you gain a level, you can replace one of these cantrips with another [[Wizard]] cantrip.

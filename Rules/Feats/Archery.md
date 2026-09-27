@@ -3,8 +3,7 @@ tags:
   - Feat
   - PHB24
 ---
-# Archery
-## Player’s Handbook 2024 (PHB24):
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
+## Archery (PHB24):
+_[[Fighting Style Feat]] (Prerequisite: Fighting Style Feature)_
 
-You gain a +2 bonus to attack rolls you make with Ranged weapons.
+You gain a +2 bonus to [[attack rolls]] you make with Ranged weapons.
