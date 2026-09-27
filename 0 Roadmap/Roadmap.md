@@ -55,6 +55,7 @@ Format and Properties
 - [x] dragonlance shadow of the dragon queen
 - [x] eberron forge of the artificer
 - [x] explorers guide to wildmount
+- [x] forgotten realms heroes of faerun
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
