@@ -75,6 +75,7 @@ Format and Properties
 - [x] grim hallow players guide 2024
 - [x] humblewood campaign setting
 - [x] northlands worldbook
+- [x] steinhardts guide to the eldritch hunt player pack
 
 Artificer 
 	Armor of Resistance Links
