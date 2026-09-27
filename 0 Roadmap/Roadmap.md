@@ -66,6 +66,7 @@ Format and Properties
 - [x] sword coast adventurers guide
 - [x] the book of many things
 - [x] the wild beyond the witchlight
+- [x] tomb of annihilation
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
