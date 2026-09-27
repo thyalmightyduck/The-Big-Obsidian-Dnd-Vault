@@ -81,4 +81,8 @@
 - [[Uncertain Footing]]
 - [[Vortex Warp]]
 - [[Web]]
-## Level
+## Level 3
+- [[Ashardalon's Stride]]
+- [[Blink]]
+- [[Catnap]]
+- [[Create Food and Water]]
