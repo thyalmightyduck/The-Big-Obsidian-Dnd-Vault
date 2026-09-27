@@ -47,6 +47,7 @@ Format and Properties
 - [x] Players handbook 2024
 - [x] players handbook 2014
 - [x] acquisitions incorporated
+- [x] Arcana unleashed
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
