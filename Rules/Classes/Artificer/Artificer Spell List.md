@@ -6,4 +6,12 @@
 - [[Create Bonfire]]
 - [[Dancing Lights]]
 - [[Elementalism]]
+- [[Fire Bolt]]
+- [[Force Blast]]
+- [[Frostbite]]
+- [[Green-Flame Blade]]
+- [[Guidance]]
+- [[Light]]
+- [[Lightning Lure]]
+- [[Mage Hand]]
 - 
