@@ -76,6 +76,7 @@ Format and Properties
 - [x] humblewood campaign setting
 - [x] northlands worldbook
 - [x] steinhardts guide to the eldritch hunt player pack
+- [x] taldorei campaign setting reborn
 
 Artificer 
 	Armor of Resistance Links
