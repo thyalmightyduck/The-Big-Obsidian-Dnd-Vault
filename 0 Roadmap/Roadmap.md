@@ -40,6 +40,8 @@ Feats
 - [x] ua: 2020 psionic options revisited
 - [x] chronicles of eberron
 - [x] grim hallow: monster grimoire (2024)
+Format and Properties 
+- 
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons

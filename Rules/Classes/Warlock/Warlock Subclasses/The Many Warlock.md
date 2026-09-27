@@ -278,7 +278,7 @@ These eldritch heads provide you with motes of power from your patron that can b
 
 - Once per turn, you can expend one head when you hit a creature with an attack to cause that creature to take extra psychic damage equal to 1 + your proficiency bonus.
 - When you make a Charisma (Intimidation) check, you can expend one head to gain advantage on the roll. When you do, your eldritch heads become briefly visible to everyone.
-- When you fail a death saving throw, you can expend one head to succeed instead.
+- When you fail a [[Death Saving Throws|death saving throw]], you can expend one head to succeed instead.
 
 When a head is expended, its appearance becomes wispy and gaseous, but its glowing eyes remain. You regain all expended heads when you finish a long rest.
 

@@ -20,6 +20,6 @@ A Lance requires two hands to wield when you aren't [[Mounted Combat|mounted]].
 
 **Two-Handed.** A Two-Handed weapon requires two hands when you attack with it.
 
-**Mastery: Topple.** If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [[Proficiency Bonus]]). On a failed save, the creature has the [[Prone]] condition.
+**Mastery: Topple.** If you hit a creature with this weapon, you can force the creature to make a Constitution [[saving throw]] (DC 8 plus the ability modifier used to make the attack roll and your [[Proficiency Bonus]]). On a failed save, the creature has the [[Prone]] condition.
 
 ![[Lance BGR PNG.png]]

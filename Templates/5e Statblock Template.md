@@ -34,7 +34,7 @@ actions:
   - name: "Slam"
     desc: "_Melee [[Attack Roll]]:_ +6 (with [[Advantage]] during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
   - name: "Unsettling Visage (Recharge 6)"
-  - desc: "_Wisdom Saving Throw:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
+  - desc: "_Wisdom [[Saving Throw]]:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
 bonus_actions:
   - name: "Shape-Shift"
     desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."

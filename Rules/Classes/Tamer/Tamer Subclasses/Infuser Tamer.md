@@ -106,7 +106,7 @@ Any newly gained companions receive these additional [[Hit Point Dice|hit dice]]
 *** Your companion can't gain proficiency in medium and heavy armour until it has gained proficiency in the prerequisite lighter armour types. For example, to gain proficiency in heavy armour, you must take this improvement 3 times: light, then medium, then heavy.
 
 ## Level 1: Soul Bond
-Companions make death saving throws, die, and can be revived like any player character. A companion that has been stabilised remains [[unconscious]] until it regains hit points, or until you finish a long rest. Companions that are stable and have 0 hit points when you finish a long rest regain half their maximum hit points.
+Companions make [[death saving throws]], die, and can be revived like any player character. A companion that has been stabilised remains [[unconscious]] until it regains hit points, or until you finish a long rest. Companions that are stable and have 0 hit points when you finish a long rest regain half their maximum hit points.
 
 Instead, you have a pool of healing power equal to five times your tamer level that replenishes when you finish a long rest. Whenever you finish a short rest, you can choose to draw power from that pool, restoring a total number of hit points amongst your companions up to the maximum amount remaining in your pool.
 

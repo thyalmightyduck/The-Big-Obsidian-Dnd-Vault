@@ -171,7 +171,7 @@ You gain a feature from your Rogue Subclass.
 
 ### Level 17: Keeper's End
 When you reduce a creature to 0 hit points, you can steal that creature's soul and keep it joined with your own. While a creature's soul is joined to yours, that creature can be restored to life only by a [[wish]] spell.
-Additionally, when you have to make a death saving throw, you can instead choose to release a soul you have stolen. When you do so, you regain 1 hit point, and that soul is no longer joined to yours.
+Additionally, when you have to make a [[Death Saving Throws|death saving throw]], you can instead choose to release a soul you have stolen. When you do so, you regain 1 hit point, and that soul is no longer joined to yours.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

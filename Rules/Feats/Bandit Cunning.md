@@ -1,5 +1,9 @@
-# Bandit Cunning
-## Humblewood Campaign Setting:
+---
+tags:
+  - Feat
+  - HWCS
+---
+## Bandit Cunning (HWCS):
 Your time as a bandit has granted you a sense for danger, and made you skilled at sizing up opponents. You gain the following benefits:
 
 - When you are asked to make a [[saving throw]], you may spend your [[reaction]] to add your Intelligence modifier as an additional bonus to the [[saving throw]]. You cannot use this ability again until you have completed a [[long rest]].

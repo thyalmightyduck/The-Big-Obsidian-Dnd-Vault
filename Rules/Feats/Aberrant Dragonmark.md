@@ -10,7 +10,7 @@ _Dragonmark Feat (Prerequisites: Eberron Campaign, Can't Have Another Dragonmark
 
 You gain the following benefits.
 
-**Aberrant Fortitude.** When you fail a Constitution saving throw, you can take a [[Reaction]] to roll 1d4 and add the number rolled to the save, potentially turning the failure into a success. Once you've used this benefit, you can't use it again until you finish a [[Long Rest]].
+**Aberrant Fortitude.** When you fail a Constitution [[saving throw]], you can take a [[Reaction]] to roll 1d4 and add the number rolled to the save, potentially turning the failure into a success. Once you've used this benefit, you can't use it again until you finish a [[Long Rest]].
 
 **Aberrant Magic.** You know one cantrip of your choice from the [[Sorcerer spell list]]. Also, choose a level 1 spell from that spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Short or Long Rest. You can also cast this spell using any spell slots you have. Constitution is your spellcasting ability for this spell.
 

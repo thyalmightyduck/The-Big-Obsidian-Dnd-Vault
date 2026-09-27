@@ -3,8 +3,7 @@ tags:
   - Feat
   - NWB
 ---
-# Blessing of Boreas:
-## Northlands Worldbook (NWB):
+## Blessing of Boreas (NWB):
 _Origin Feat_
 
 You gain the following benefits.

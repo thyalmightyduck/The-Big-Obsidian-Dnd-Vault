@@ -140,7 +140,7 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom 
 ## Level 6: Subclass Feature
 
 ### Level 6: All Will Be Dust
-You can use your Channel Divinity to twist a creature's fate. As a [[Bonus Action]], you can expend one use of your Channel Divinity to choose a creature you can see within 120 feet of yourself. That creature has [[Disadvantage]] on the next saving throw it makes against your spells before the end of your next turn.
+You can use your Channel Divinity to twist a creature's fate. As a [[Bonus Action]], you can expend one use of your Channel Divinity to choose a creature you can see within 120 feet of yourself. That creature has [[Disadvantage]] on the next [[saving throw]] it makes against your spells before the end of your next turn.
 
 ## Level 7: Blessed Strikes
 Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).

@@ -3,8 +3,7 @@ tags:
   - Feat
   - NWB
 ---
-# Blessing of Baldur:
-## Northlands Worldbook (NWB):
+## Blessing of Baldur (NWB):
 _Origin Feat_
 
 You gain the following benefit.

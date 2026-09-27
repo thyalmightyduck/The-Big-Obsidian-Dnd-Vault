@@ -27,7 +27,7 @@
 **Hit Points at Level 1:** 8 + Con. modifier
 **Hit Points per additional Apothecary Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
-**Saving Throw Proficiencies:** Intelligence, Wisdom
+**[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
 **Skill Proficiencies:** _Choose 2:_ Arcana, History, Investigation, Medicine, Nature, or Religion.
 
@@ -72,7 +72,7 @@ You prepare the list of apothecary spells that are available for you to cast, ch
 For example, if you are a 5th-level apothecary, you have three 3rd-level spell slots. With an Intelligence of 16, your list of prepared spells can include eight spells of 1st, 2nd, or 3rd level, in any combination. To cast the 1st-level spell cure wounds, you must spend one of those slots, and you cast it as a 3rd-level spell. Casting a spell doesn't remove it from your list of prepared spells.
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of apothecary spells requires at least 1 minute per spell level for each spell on your list.
 ### Spellcasting Ability
-Intelligence is your spellcasting ability for your apothecary spells, since you learn your spells through dedicated study and occult knowledge. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an apothecary spell you cast and when making an [[Attack Rolls]] with one.
+Intelligence is your spellcasting ability for your apothecary spells, since you learn your spells through dedicated study and occult knowledge. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the [[saving throw]] DC for an apothecary spell you cast and when making an [[Attack Rolls]] with one.
 - **Spell save DC** = 8 + Intelligence modifier + Proficiency Bonus
 - **Spell attack modifier** = Intelligence modifier + Proficiency Bonus
 ### Ritual Casting

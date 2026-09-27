@@ -1,5 +1,9 @@
-# Baleful Scion
-## Sigil and the Outlands:
+---
+tags:
+  - Feat
+  - SatO
+---
+## Baleful Scion (SatO):
 _Prerequisites: Level 4+, [[scion of the outer planes]] (evil outer plane)_
 
 You can channel cosmic forces of evil to gain these benefits:

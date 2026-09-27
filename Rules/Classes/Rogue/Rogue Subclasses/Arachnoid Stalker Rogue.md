@@ -31,7 +31,7 @@
 **Hit Points at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Rogue Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
-**Saving Throw Proficiencies:** Dexterity, Intelligence
+**[[Saving Throw]] Proficiencies:** Dexterity, Intelligence
 
 **Skill Proficiencies:** _Choose 4:_ [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Persuasion]], [[Sleight of Hand]], or [[Stealth]].
 
@@ -147,7 +147,7 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 You gain a feature from your Rogue Subclass.
 
 ### Level 13: Spider Sense
-When you make a saving throw and take damage, you can take a [[Reaction]] to use your Uncanny Dodge, halving the damage you take (round down).
+When you make a [[saving throw]] and take damage, you can take a [[Reaction]] to use your Uncanny Dodge, halving the damage you take (round down).
 
 ## Level 14: Devious Strikes
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
@@ -159,7 +159,7 @@ Knock Out (Cost: 6d6). The target must succeed on a Constitution [[saving throw
 Obscure (Cost: 3d6). The target must succeed on a Dexterity [[saving throw]], or it has the [[Blinded]] condition until the end of its next turn.
 
 ## Level 15: Slippery Mind
-Your cunning mind is exceptionally difficult to control. You gain [[proficiency]] in Wisdom and Charisma saving throws.
+Your cunning mind is exceptionally difficult to control. You gain [[proficiency]] in Wisdom and Charisma [[Saving Throw|saving throws]].
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.
@@ -169,7 +169,7 @@ You gain a feature from your Rogue Subclass.
 
 ### Level 17: Paralytic Venom
 You gain the following Cunning Strike option.
-Paralyze (Cost: 4d6). When you deal Poison damage with your Venomous Strike, the target must succeed on a Constitution saving throw or have the [[Paralyzed]] condition until the end of your next turn.
+Paralyze (Cost: 4d6). When you deal Poison damage with your Venomous Strike, the target must succeed on a Constitution [[saving throw]] or have the [[Paralyzed]] condition until the end of your next turn.
 
 ## Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [[Incapacitated]] condition.

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Hunter's Mark
+---
 _Divination Level 1_
 
 **Casting Time:** [[Bonus action]]

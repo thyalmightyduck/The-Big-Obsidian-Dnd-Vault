@@ -4,9 +4,9 @@ _Level 5 Necromancy_
 **Components:** V, S, M (a gem-encrusted cockroach worth 250 gp, which the spell consumes)
 **Duration:** 1 minute
 
-Choose a willing creature you can see within range; it ceases to heed the pained calls of its body, needing neither food nor water to exist. An affected creature ignores the effects of [[exhaustion]], the [[poisoned]] condition, and cannot be [[incapacitated]], [[stunned]], [[Paralyzed]], or fall [[unconscious]]. Each time an affected creature takes damage that would reduce its hit points to 0, it makes a death saving throw instead If the creature fails 3 death saving throws, it dies
+Choose a willing creature you can see within range; it ceases to heed the pained calls of its body, needing neither food nor water to exist. An affected creature ignores the effects of [[exhaustion]], the [[poisoned]] condition, and cannot be [[incapacitated]], [[stunned]], [[Paralyzed]], or fall [[unconscious]]. Each time an affected creature takes damage that would reduce its hit points to 0, it makes a [[Death Saving Throws|death saving throw]] instead If the creature fails 3 [[death saving throws]], it dies
 
-When the spell ends, the creature gains a level of [[exhaustion]] for each death saving throw it failed If the creature is resurrected after dying from these failed death saving throws, it does not regain consciousness for a duration equal to the time for which this spell affected it When it wakes, it gains 3 levels of [[exhaustion]]
+When the spell ends, the creature gains a level of [[exhaustion]] for each [[Death Saving Throws|death saving throw]] it failed If the creature is resurrected after dying from these failed [[death saving throws]], it does not regain consciousness for a duration equal to the time for which this spell affected it When it wakes, it gains 3 levels of [[exhaustion]]
 
 If the creature is still alive when the spell ends, it falls [[unconscious]] for a duration equal to the time for which this spell affected it. Whilst [[unconscious]] in this way, the creature can not be awakened by any means short of a [[wish]] spell
 

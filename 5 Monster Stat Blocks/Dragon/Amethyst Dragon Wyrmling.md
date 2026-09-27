@@ -60,7 +60,7 @@ actions:
   - name: "Bite"
     desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 4 (1d8) force damage."
   - name: "Singularity Breath (Recharge 5–6)"
-    desc: "The dragon creates a shining bead of gravitational force in its mouth, then releases the energy in a 15-foot cone. Each creature in that area must make a DC 13 Strength saving throw. On a failed save, the creature takes 22 (5d8) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, the creature takes half as much damage, and its speed isn't reduced."  
+    desc: "The dragon creates a shining bead of gravitational force in its mouth, then releases the energy in a 15-foot cone. Each creature in that area must make a DC 13 Strength [[saving throw]]. On a failed save, the creature takes 22 (5d8) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, the creature takes half as much damage, and its speed isn't reduced."  
 ```
 # **Lore**
 Amethyst dragons, the mightiest of the gem dragons, study and psionically manipulate the fundamental principles of the multiverse, from the force of gravity to the emanations of the Outer Planes. Their innate psionics give them a measure of control over how physical laws affect them. They defy gravity with flight that doesn't rely solely upon their great wings, and gravitational force empowers both their devastating breath weapon and the exploding amethyst crystals they spit at their foes.

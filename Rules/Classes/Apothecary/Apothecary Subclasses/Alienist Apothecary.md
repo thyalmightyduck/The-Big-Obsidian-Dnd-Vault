@@ -27,7 +27,7 @@
 **Hit Points at Level 1:** 8 + Con. modifier
 **Hit Points per additional Apothecary Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
-**Saving Throw Proficiencies:** Intelligence, Wisdom
+**[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
 **Skill Proficiencies:** _Choose 2:_ Arcana, History, Investigation, Medicine, Nature, or Religion.
 
@@ -72,7 +72,7 @@ You prepare the list of apothecary spells that are available for you to cast, ch
 For example, if you are a 5th-level apothecary, you have three 3rd-level spell slots. With an Intelligence of 16, your list of prepared spells can include eight spells of 1st, 2nd, or 3rd level, in any combination. To cast the 1st-level spell cure wounds, you must spend one of those slots, and you cast it as a 3rd-level spell. Casting a spell doesn't remove it from your list of prepared spells.
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of apothecary spells requires at least 1 minute per spell level for each spell on your list.
 ### Spellcasting Ability
-Intelligence is your spellcasting ability for your apothecary spells, since you learn your spells through dedicated study and occult knowledge. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an apothecary spell you cast and when making an [[Attack Rolls]] with one.
+Intelligence is your spellcasting ability for your apothecary spells, since you learn your spells through dedicated study and occult knowledge. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the [[saving throw]] DC for an apothecary spell you cast and when making an [[Attack Rolls]] with one.
 - **Spell save DC** = 8 + Intelligence modifier + Proficiency Bonus
 - **Spell attack modifier** = Intelligence modifier + Proficiency Bonus
 ### Ritual Casting
@@ -131,8 +131,8 @@ If your DM allows the use of feats, you may instead take a [[feat]].
 At 10th level, you gain a feature granted by your chosen discipline.
 #### Level 10: Mental Magic
 You gain new ways to use your latent psychic powers to manipulate the essence of your spells and spellcasting. You gain three new ways to use your Psychic Points:
-- _**Prescribed Effects.**_ Once per turn when a target you can see within 30 feet of you succeeds on an Intelligence, Wisdom, or Charisma saving throw against a spell you cast, you can expend a Psychic Point to fill its mind with scrambled psionic energy, forcing it to reroll the d20 and use the lower roll for its saving throw, possibly turning a success into a failure.
-- _**Mentally Prepared.**_ Once per turn, when a target you can see within 30 feet of you, including yourself, fails an Intelligence, Wisdom, or Charisma saving throw, you can use a Psychic Point and add your Intelligence modifier to the creature's saving throw, potentially turning the failure into a success.
+- _**Prescribed Effects.**_ Once per turn when a target you can see within 30 feet of you succeeds on an Intelligence, Wisdom, or Charisma [[saving throw]] against a spell you cast, you can expend a Psychic Point to fill its mind with scrambled psionic energy, forcing it to reroll the d20 and use the lower roll for its [[saving throw]], possibly turning a success into a failure.
+- _**Mentally Prepared.**_ Once per turn, when a target you can see within 30 feet of you, including yourself, fails an Intelligence, Wisdom, or Charisma [[saving throw]], you can use a Psychic Point and add your Intelligence modifier to the creature's [[saving throw]], potentially turning the failure into a success.
 - _**Fight or Flight Response.**_ As a bonus action, you can expend a Psychic Point and teleport up to 30 feet to an unoccupied space you can see. You immediately gain [[Temporary Hit Point]] equal to twice your intelligence modifier.
 ## Level 11: Greater Formula (6th)
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
@@ -170,7 +170,7 @@ You can cast this Greater Formula once without expending a spell slot. You must 
 ## Level 18: Occult Practice Feature
 At 18th level, you gain a feature granted by your chosen discipline.
 #### Level 18: Impenetrable Mind
-You are resistant to psychic damage and immune to being [[charmed]] or [[frightened]]. Magic cannot put you to sleep and you have advantage on saving throws against spells that attempt to read your thoughts or control your mind or actions, such as [[dominate person]]. Additionally, when you use the Self-Diagnosis feature to regain Psychic Points using a spell slot, you now regain Psychic Points equal to the spell's level.
+You are resistant to psychic damage and immune to being [[charmed]] or [[frightened]]. Magic cannot put you to sleep and you have advantage on [[Saving Throw|saving throws]] against spells that attempt to read your thoughts or control your mind or actions, such as [[dominate person]]. Additionally, when you use the Self-Diagnosis feature to regain Psychic Points using a spell slot, you now regain Psychic Points equal to the spell's level.
 
 ## Level 19: Additional Greater Formula (6th)
 At 19th level, you discover a magical secret called a Greater Formula. Choose one additional 6th-level spell from the apothecary spell list as this formula.

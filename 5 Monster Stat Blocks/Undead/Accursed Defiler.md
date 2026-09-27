@@ -56,7 +56,7 @@ actions:
   - name: "Slam"
     desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 11 (2d6 + 4) bludgeoning damage. If the accursed defiler scores a critical hit, the target suffers one level of [[exhaustion]]."
   - name: "Sandslash (Recharge 5-6)"
-    desc: "The accursed defiler intensifies the vortex of sand that surrounds it. Each creature within 10 feet of the accursed defiler must make a DC 14 Dexterity saving throw, taking 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one."  
+    desc: "The accursed defiler intensifies the vortex of sand that surrounds it. Each creature within 10 feet of the accursed defiler must make a DC 14 Dexterity [[saving throw]], taking 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one."  
  
 ```
 

@@ -11,7 +11,7 @@
 	If you don't keep any of those elements or you choose this lineage at character creation, you gain [[Proficiency]] in two skills of your choice.
 **Deathless Nature:** You have escaped death, a fact represented by the following benefits:
 - You have [[Advantage]] on saving throws against disease and being [[poisoned]], and you have [[Resistance (Damage)]] to poison damage.
-- You have [[Advantage]] on death saving throws.
+- You have [[Advantage]] on [[death saving throws]].
 - You don't need to eat, drink, or breathe.
 - You don't need to sleep, and magic can't put you to sleep. You can finish a [[Long Rest]] in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
 **Knowledge from a Past Life:** You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an [[ability check]] that uses a skill, you can roll a d6 immediately after seeing the number on the d20 and add the number on the d6 to the check. You can use this feature a number of times equal to your [[Proficiency]] bonus, and you regain all expended uses when you finish a [[Long Rest]].

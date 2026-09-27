@@ -31,7 +31,7 @@
 **Hit Points at Level 1:** 6 + Con. modifier
 **Hit Points per additional Wizard Level:** D6 + your Con. modifier, or, 4 + your Con. modifier
 
-**Saving Throw Proficiencies:** Intelligence, Wisdom
+**[[Saving Throw]] Proficiencies:** Intelligence, Wisdom
 
 **Skill Proficiencies:** _Choose 2:_ Arcana, History, Insight, Investigation, Medicine, Nature, or Religion.
 
@@ -141,7 +141,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Wizard Subclass.
 
 ### Level 14: Spell Resistance
-You have [[Advantage]] on saving throws against spells, and you have [[Resistance]] to the damage of spells.
+You have [[Advantage]] on [[Saving Throw|saving throws]] against spells, and you have [[Resistance]] to the damage of spells.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

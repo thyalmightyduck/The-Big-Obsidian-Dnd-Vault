@@ -41,7 +41,7 @@ actions:
   - name: "Multiattack"
     desc: "The Abjuerer Makes Three Burst Magic Attacks."
   - name: "Force Blast"
-    desc: "Each creature in a 20-foot cube originating from the abjurer must make a DC 16 Constitution saving throw. On a failed save, a creature takes 36 (8d8) force damage and is pushed up to 10 feet away from the abjurer. On a successful save, a creature takes half as much damage and isn't pushed."   
+    desc: "Each creature in a 20-foot cube originating from the abjurer must make a DC 16 Constitution [[saving throw]]. On a failed save, a creature takes 36 (8d8) force damage and is pushed up to 10 feet away from the abjurer. On a successful save, a creature takes half as much damage and isn't pushed."   
 legendary_actions: 
 reactions:
   - name: "Arcane Ward (Recharge 4 Rounds)"

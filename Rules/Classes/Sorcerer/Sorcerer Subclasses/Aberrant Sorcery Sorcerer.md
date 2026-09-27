@@ -177,7 +177,7 @@ You gain a feature from your Sorcerer subclass.
 When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
 
 ### Level 6: Psychic Defenses
-You have [[Resistance]] to Psychic damage, and you have [[Advantage]] on saving throws to avoid or end the [[Charmed]] or [[Frightened]] condition.
+You have [[Resistance]] to Psychic damage, and you have [[Advantage]] on [[Saving Throw|saving throws]] to avoid or end the [[Charmed]] or [[Frightened]] condition.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
@@ -222,7 +222,7 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 You gain a feature from your Sorcerer subclass.
 
 ### Level 18: Warping Implosion
-You can unleash a space-warping anomaly. As a [[Magic action]], you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
+You can unleash a space-warping anomaly. As a [[Magic action]], you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength [[saving throw]] against your spell save DC. On a failed save, a creature takes 3d10 Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
