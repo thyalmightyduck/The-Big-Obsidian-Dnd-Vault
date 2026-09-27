@@ -81,6 +81,8 @@ Format and Properties
 - [x] lord of the rings roleplaying
 - [x] vampire the masquerade bound by blood
 - [x] ps amonkhet
+- [x] ps innistrad
+- [x] chronicles of eberron
 
 Artificer 
 	Armor of Resistance Links
