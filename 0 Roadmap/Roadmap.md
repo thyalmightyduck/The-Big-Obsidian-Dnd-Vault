@@ -56,6 +56,7 @@ Format and Properties
 - [x] eberron forge of the artificer
 - [x] explorers guide to wildmount
 - [x] forgotten realms heroes of faerun
+- [x] ghosts of saltmarsh
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
