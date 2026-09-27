@@ -14,4 +14,8 @@
 - [[Light]]
 - [[Lightning Lure]]
 - [[Mage Hand]]
-- 
+- [[Magecraft]]
+- [[Magic Stone]]
+- [[Message]]
+- [[Poison Spray]]
+- [[Prestidigitation]]
