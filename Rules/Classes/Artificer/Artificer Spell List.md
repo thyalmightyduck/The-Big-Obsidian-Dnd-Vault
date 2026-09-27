@@ -28,3 +28,13 @@
 - [[Thunderclap]]
 - [[True Strike]]
 ## Level 1
+- [[Absorb Elements]]
+- [[Alarm]]
+- [[Catapult]]
+- [[Cure Wounds]]
+- [[Detect Magic]]
+- [[Disguise Self]]
+- [[Expeditious Retreat]]
+- [[Faerie Fire]]
+- [[False Life]]
+- 
