@@ -1,4 +1,4 @@
 # WOP 
 ## Cantrips
 - [[Acid Splash]]
-- [[Aundairs Silent Sanctum]]
+- [[Aundair’s Silent Sanctum]]
