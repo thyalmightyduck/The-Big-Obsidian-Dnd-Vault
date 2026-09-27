@@ -54,6 +54,7 @@ Format and Properties
 - [x] bigby presents glory of the giants
 - [x] dragonlance shadow of the dragon queen
 - [x] eberron forge of the artificer
+- [x] explorers guide to wildmount
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
