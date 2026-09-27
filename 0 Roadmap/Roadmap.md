@@ -67,6 +67,7 @@ Format and Properties
 - [x] the book of many things
 - [x] the wild beyond the witchlight
 - [x] tomb of annihilation
+- [x] cthulhu by torchlight
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
