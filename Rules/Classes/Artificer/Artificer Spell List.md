@@ -47,3 +47,13 @@
 - [[Quick Clothier]]
 - [[Snare]]
 - [[Tasha's Caustic Brew]]
+## Level 2
+- [[Aid]]
+- [[Air Bubble]]
+- [[Alter Self]]
+- [[Arcane Lock]]
+- [[Arcane Vigor]]
+- [[Blur]]
+- [[Conjure Tools]]
+- [[Continual Flame]]
+- Darkvision
