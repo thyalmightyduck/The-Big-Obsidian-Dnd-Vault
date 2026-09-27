@@ -68,6 +68,7 @@ Format and Properties
 - [x] the wild beyond the witchlight
 - [x] tomb of annihilation
 - [x] cthulhu by torchlight
+- [x] D&D beyond drop
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
