@@ -53,6 +53,7 @@ Format and Properties
 - [x] Baulders gate decent into avemus
 - [x] bigby presents glory of the giants
 - [x] dragonlance shadow of the dragon queen
+- [x] eberron forge of the artificer
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
