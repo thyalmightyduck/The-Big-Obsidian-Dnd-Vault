@@ -51,7 +51,8 @@ Format and Properties
 - [x] astarions book of hungers
 - [x] astral adventures guide
 - [x] Baulders gate decent into avemus
-- [ ] bigby presents glory of the giants
+- [x] bigby presents glory of the giants
+- [x] dragonlance shadow of the dragon queen
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
