@@ -58,4 +58,10 @@
 - [[Continual Flame]]
 - [[Darkvision (Spell)]]
 - [[Dragons Breath]]
-- 
+- [[Dueling Ground]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
+- [[Heat Metal]]
+- [[Homunculus Servant]]
+- [[Invisibility]]
+- [[Keeper’s Vault]]
