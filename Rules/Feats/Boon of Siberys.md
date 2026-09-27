@@ -19,7 +19,7 @@ Aberrant Magic. Choose a level 8 or lower spell from the [[Sorcerer spell list
 | [[Animal Shapes]]   | Handling             |
 | [[Control Weather]] | Storm                |
 | [[Demiplane]]       | Making               |
-| [[Heroes Feast]]    | Hospitality          |
+| [[Heroes' Feast]]    | Hospitality          |
 | [[Maze]]            | Warding              |
 | [[Mind Blank]]      | Sentinel             |
 | [[Plane Shift]]     | Passage              |

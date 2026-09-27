@@ -14,7 +14,7 @@ A typical delerium fragment is about the size of a finger. Crystals may be fist-
 | Fragment        | 100 gold     | 1/2 lbs     | 17  | 10  | 1 minute        |
 | Shard           | 500 gold     | 1 lbs       | 19  | 15  | 5 minutes       |
 | Crystal         | 1,000 gold   | 2 lbs       | 21  | 20  | 30 minutes      |
-| Geode           | 5,000 gold   | 20 lbs +    | 23  | 25  | 1 hour          |
+| [[Geode]]       | 5,000 gold   | 20 lbs +    | 23  | 25  | 1 hour          |
 | Massive Cluster | Priceless    | 8,000 lbs + | 25  | 50  | 7 days          |
 # Delerium Properties
 All delerium samples have the following traits regardless of size:

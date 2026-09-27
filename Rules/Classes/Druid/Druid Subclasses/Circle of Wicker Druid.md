@@ -157,7 +157,7 @@ When you reach a Druid level specified in the Circle of Wicker Spells table, you
 | Druid Level | Prepared Spells                                          |
 | ----------- | -------------------------------------------------------- |
 | 3           | [[Bane]], [[Bless]], [[Summer Winds]], [[Zone of Truth]] |
-| 5           | [[Bestow Curse]], [[Leomunds Tiny Hut]]                  |
+| 5           | [[Bestow Curse]], [[Leomund's Tiny Hut]]                  |
 | 7           | [[Death Ward]], [[Sanctum of the Shepherd]]              |
 | 9           | [[Hold Monster]], [[Lucky Charm]]                        |
 ### Level 3: Wicker Token

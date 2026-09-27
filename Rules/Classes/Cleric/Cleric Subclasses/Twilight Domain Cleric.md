@@ -122,7 +122,7 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | 1st          | [[faerie fire]], [[sleep]]                                                                                                   |
 | 3rd          | [[moonbeam]], [[see invisibility]]                                                                                           |
-| 5th          | [[aura of vitality]], [[Leomunds tiny hut]]                                                                                  |
+| 5th          | [[aura of vitality]], [[Leomund's Tiny Hut]]                                                                                  |
 | 7th          | [[aura of life]], [[greater invisibility]]                                                                                   |
 | 9th          | [[circle of power]], [[mislead]] |
 ### Bonus Proficiencies
