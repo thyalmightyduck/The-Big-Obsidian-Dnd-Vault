@@ -65,6 +65,7 @@ Format and Properties
 - [x] strixhaven a curriculum of chaos
 - [x] sword coast adventurers guide
 - [x] the book of many things
+- [x] the wild beyond the witchlight
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
