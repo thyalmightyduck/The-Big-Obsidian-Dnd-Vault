@@ -74,6 +74,8 @@ Format and Properties
 - [x] frontiers of eberron quickstone
 - [x] grim hallow players guide 2024
 - [x] humblewood campaign setting
+- [x] northlands worldbook
+
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
