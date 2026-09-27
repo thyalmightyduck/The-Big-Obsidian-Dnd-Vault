@@ -102,4 +102,10 @@
 - [[Water Walk]]
 ## Level 4
 - [[Arcane Eye]]
-- Distorted Distance
+- [[Distorted Distance]]
+- [[Elemental Bane]]
+- [[Fabricate]]
+- [[Freedom of Movement]]
+- [[Leomund's Secret Chest]]
+- [[Mordenkainens Faithful Hound]]
+- [[Mordenkainens Private Sanctum]]
