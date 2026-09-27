@@ -58,6 +58,7 @@ Format and Properties
 - [x] forgotten realms heroes of faerun
 - [x] ghosts of saltmarsh
 - [x] guildmasters guide to ravnice
+- [x] Lorwyn first light
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
