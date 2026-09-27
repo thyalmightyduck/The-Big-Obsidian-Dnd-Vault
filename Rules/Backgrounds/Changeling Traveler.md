@@ -1,0 +1,7 @@
+## Changeling Traveler
+
+- **Ability Scores:** Dexterity, Wisdom, Charisma
+- **Feat:** Focused Personas
+- **Skill Proficiencies:** Deception and Sleight of Hand
+- **Tool Proficiency:** *Thieves' Tools*
+- **Equipment:** Choose A or B: (A) 2 *Daggers*, *Thieves' Tools*, *Bedroll*, 2 *Pouches*, *Shiftweave clothing*, 10 GP; or (B) 50 GP

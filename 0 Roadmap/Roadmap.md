@@ -70,6 +70,7 @@ Format and Properties
 - [x] cthulhu by torchlight
 - [x] D&D beyond drop
 - [x] dungeons of drakkenheim
+- [x] exploring eberon 2024
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
