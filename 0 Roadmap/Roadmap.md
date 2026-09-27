@@ -64,6 +64,7 @@ Format and Properties
 - [x] sigil and the outlands
 - [x] strixhaven a curriculum of chaos
 - [x] sword coast adventurers guide
+- [x] the book of many things
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
