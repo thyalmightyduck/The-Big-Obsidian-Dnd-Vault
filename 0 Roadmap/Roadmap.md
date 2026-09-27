@@ -46,6 +46,7 @@ Format and Properties
 - Backgrounds
 - [x] Players handbook 2024
 - [x] players handbook 2014
+- [x] acquisitions incorporated
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
