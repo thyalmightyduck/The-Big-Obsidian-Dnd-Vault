@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level3
   - Necromancy
   - VSSPP2
 aliases:

@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level7
   - Abjuration
   - PHB24
 ---

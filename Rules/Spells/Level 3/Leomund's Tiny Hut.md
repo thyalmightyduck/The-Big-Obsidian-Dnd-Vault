@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level3
   - Evocation
   - Ritual
 aliases:

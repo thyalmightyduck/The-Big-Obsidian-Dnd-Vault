@@ -1,9 +1,10 @@
 ---
 tags:
-  - Feat
   - RHW
+  - RavenloftCampaign
+  - DarkGiftFeat
+  - Feat/RavenloftCampaign
 ---
-## Aberrant Anatomy (RHW)
 _Dark Gift Feat (Prerequisite: Ravenloft Campaign)_
 
 Exposure to alien horrors like those of the Far Realm has warped your physical form in supernatural ways. You gain the following features.

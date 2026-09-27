@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level1
   - Enchantment
   - Concentration
 aliases:

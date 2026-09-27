@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level8
   - PHB24
   - Conjuration
 ---

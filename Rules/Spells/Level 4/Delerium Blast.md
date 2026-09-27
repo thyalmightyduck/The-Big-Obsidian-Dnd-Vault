@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level4
   - Evocation
   - DoDk
 ---

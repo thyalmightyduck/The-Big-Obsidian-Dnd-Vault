@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level8
   - Transmutation
 ---
 _Level 8 Transmutation_

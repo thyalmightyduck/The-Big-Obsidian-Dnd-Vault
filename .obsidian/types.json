@@ -12,6 +12,7 @@
     "Saves": "multitext",
     "Skills": "multitext",
     "DMGResistances": "multitext",
-    "DMGVulnerabilities": "multitext"
+    "DMGVulnerabilities": "multitext",
+    "Prerequisites": "multitext"
   }
 }

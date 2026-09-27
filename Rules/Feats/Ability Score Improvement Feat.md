@@ -1,7 +1,8 @@
 ---
 tags:
-  - Feat
   - PHB24
+  - GeneralFeat
+  - Feat/Level4
 ---
 ## Ability Score Improvement: (PHB24):
 _General Feat (Prerequisite: Level 4+)_

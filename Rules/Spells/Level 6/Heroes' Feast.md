@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level6
   - Conjuration
   - PHB24
 aliases:

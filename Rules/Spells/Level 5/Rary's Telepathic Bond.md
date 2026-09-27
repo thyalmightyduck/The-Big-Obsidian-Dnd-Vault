@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level5
   - Divination
   - Ritual
   - PHB24

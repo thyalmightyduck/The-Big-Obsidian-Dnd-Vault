@@ -1,11 +1,11 @@
 ---
 tags:
-  - Feat
   - EFA
   - ERLW
+  - DragonmarkFeat
+  - Feat/EberronCampaign
 ---
-# Aberrant Dragonmark:
-## Eberron: Forge of the Artificer:
+### Eberron: Forge of the Artificer:
 _Dragonmark Feat (Prerequisites: Eberron Campaign, Can't Have Another Dragonmark Feat)_
 
 You gain the following benefits.
@@ -16,7 +16,7 @@ You gain the following benefits.
 
 **Aberrant Surge.** When you cast the level 1 spell from this feat, you can expend one of your [[Hit Point Dice]] and roll it. If you roll an even number, you gain a number of [[Temporary Hit Point]]s equal to the number rolled. If you roll an odd number, one creature within 30 feet of you (not including you) takes Force damage equal to the number rolled. If no other creatures are in range, you take the damage.
 
-## Eberron: Rising of the Last War:
+### Eberron: Rising of the Last War:
 Prerequisite: No other dragonmark
 
 You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:

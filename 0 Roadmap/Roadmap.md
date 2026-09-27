@@ -1,5 +1,5 @@
 # Last Left Off
-- Feats
+### Feats
 - [x] Players Handbook 2024
 - [x] Players Handbook 2014
 - [x] Tashas Cauldron of Everything
@@ -41,9 +41,9 @@
 - [x] chronicles of eberron
 - [x] grim hallow: monster grimoire (2024)
 Format and Properties 
-- [[Boon of Shadowsteel Mastery]]
+- 
 
-- Backgrounds
+### Backgrounds
 - [x] Players handbook 2024
 - [x] players handbook 2014
 - [x] acquisitions incorporated
@@ -105,7 +105,7 @@ Artificer
 - [x] Artificer
 - [x] Bard
 - [x] Cleric
-- [ ] Druid
+- [x] Druid
 - [ ] Monk
 - [ ] Paladin
 - [ ] Ranger

@@ -3,7 +3,6 @@ tags:
   - Feat
   - EFA
 ---
-## Eberron: Forge of the Artificer (EFA):
 _Epic Boon Feat (Prerequisites: Level 19+, Eberron Campaign)_
 
 You gain the following benefits.

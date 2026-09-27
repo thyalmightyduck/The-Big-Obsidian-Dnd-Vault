@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level6
   - Enchantment
   - Concentration
   - PHB24

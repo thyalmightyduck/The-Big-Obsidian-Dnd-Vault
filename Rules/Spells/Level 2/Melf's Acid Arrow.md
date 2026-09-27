@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Level2
   - PHB24
   - Evocation
 aliases:
