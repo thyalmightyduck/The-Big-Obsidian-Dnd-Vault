@@ -61,6 +61,7 @@ Format and Properties
 - [x] Lorwyn first light
 - [x] mythic odysseys of theros
 - [x] ravenloft the horrors within
+- [x] sigil and the outlands
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
