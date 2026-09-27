@@ -78,6 +78,7 @@ Format and Properties
 - [x] steinhardts guide to the eldritch hunt player pack
 - [x] taldorei campaign setting reborn
 - [x] the crooked moon 2024
+- [x] lord of the rings roleplaying
 
 Artificer 
 	Armor of Resistance Links
