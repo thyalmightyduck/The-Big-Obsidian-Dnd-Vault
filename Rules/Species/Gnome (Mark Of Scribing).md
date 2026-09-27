@@ -20,7 +20,7 @@ Languages. You can speak, read, and write Common and Gnomish. The Gnomish langu
 
 Gifted Scribe. When you make an Intelligence (History) check or an [[ability check]] using [[calligrapher's supplies]], you can roll a d4 and add the number rolled to the [[ability check]].
 
-Scribe's Insight. You know the [[message]] cantrip. You can also cast [[comprehend languages]] once with this trait, and you regain the ability to cast it when you finish a short or long rest. Starting at 3rd level, you can cast the [[magic mouth]] spell with this trait, and you regain the ability to cast it when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+Scribe's Insight. You know the [[message]] cantrip. You can also cast [[comprehend languages]] once with this trait, and you regain the ability to cast it when you finish a short or long rest. Starting at 3rd level, you can cast the [[Magic Mouth]] spell with this trait, and you regain the ability to cast it when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 Spells of the Mark. If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Scribing Spells table are added to the spell list of your spellcasting class.
 
