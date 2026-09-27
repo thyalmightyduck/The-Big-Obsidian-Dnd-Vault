@@ -1,6 +1,10 @@
-## Boon of Generations
-
-Epic Boon Feat (Prerequisite: Level 19+  Kindred)
+---
+tags:
+  - Feat
+  - VtMBB
+---
+## Boon of Generations (VtMBB):
+Epic Boon Feat (Prerequisite: Level 19+  [[Kindred]])
 
 You have become the embodiment of the ancient vampires of your bloodline. You gain the following benefits.
 

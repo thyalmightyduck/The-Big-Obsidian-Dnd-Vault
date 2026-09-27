@@ -1,5 +1,5 @@
 # Last Left Off
-Feats
+- Feats
 - [x] Players Handbook 2024
 - [x] Players Handbook 2014
 - [x] Tashas Cauldron of Everything
@@ -41,7 +41,10 @@ Feats
 - [x] chronicles of eberron
 - [x] grim hallow: monster grimoire (2024)
 Format and Properties 
-- [[Boon of Desperate Resilience]]
+- [[Boon of Shadowsteel Mastery]]
+
+- Backgrounds
+- [x] Players handbook 2024
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons

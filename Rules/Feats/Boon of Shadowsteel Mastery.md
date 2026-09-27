@@ -1,4 +1,9 @@
-## Boon of Shadowsteel Mastery
+---
+tags:
+  - Feat
+  - GHPG24
+---
+## Boon of Shadowsteel Mastery (GHPG24):
 
 Epic Boon Feat (Prerequisite: Level 19+, Shadowsteel Ghoul Transformation)
 

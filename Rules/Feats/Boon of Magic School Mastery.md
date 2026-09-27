@@ -1,5 +1,9 @@
-## Boon of Magic School Mastery
-
+---
+tags:
+  - Feat
+  - AU
+---
+## Boon of Magic School Mastery (AU):
 Epic Boon Feat (Prerequisite: Level 19+; Spellcasting or Pact Magic Feature)
 
 **Repeatable:** Yes
@@ -11,7 +15,7 @@ You gain the following benefits.
 ***Mastered School.*** Choose one of the eight schools of magic: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. Your choice grants you the following features:
 
 - **Rote Casting.** Choose a level 1 spell from the chosen school that appears on your class's spell list. You always have that spell prepared and can cast it without a spell slot or spell components.
-- **Signature Arcanum.** Choose a level 7 or lower spell from the chosen school. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
+- **Signature Arcanum.** Choose a level 7 or lower spell from the chosen school. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
 
 You can also cast these prepared spells using any spell slots you have of the appropriate level.
 

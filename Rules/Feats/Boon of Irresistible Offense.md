@@ -1,3 +1,9 @@
+---
+tags:
+  - Feat
+  - PHB24
+---
+## Boon of Irresistible Offense (PHB24):
 _Epic Boon Feat (Prerequisite: Level 19+)_
 
 You gain the following benefits.

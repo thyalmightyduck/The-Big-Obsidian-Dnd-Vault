@@ -3,8 +3,7 @@ tags:
   - Feat
   - PHB24
 ---
-# Boon of Fortitude
-## Player’s Handbook 2024 (PHB24):
+## Boon of Fortitude (PHB24):
 _Epic Boon Feat (Prerequisite: Level 19+)_
 
 You gain the following benefits.

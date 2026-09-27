@@ -1,4 +1,9 @@
-## Boon of Fluid Forms
+---
+tags:
+  - Feat
+  - FRHoF
+---
+## Boon of Fluid Forms (FRHoF):
 
 Epic Boon Feat (Prerequisite: Level 19+)
 
@@ -6,10 +11,10 @@ You gain the following benefits.
 
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 30.
 
-***Shapechanger.*** You can take a Magic action to shape-shift into a Beast, Humanoid, or Monstrosity with a Challenge Rating no higher than 10. When you shape-shift, you gain a number of Temporary Hit Points equal to the Hit Points of the form. The shape-shifting effect lasts for 1 hour, and it ends early if you have no Temporary Hit Points left or if you take a Magic action to return to your true form.
+***Shapechanger.*** You can take a [[Magic action]] to shape-shift into a [[Beast]], [[Humanoid]], or [[Monstrosity]] with a [[Challenge Rating]] no higher than 10. When you shape-shift, you gain a number of [[Temporary Hit Point|Temporary Hit Points]] equal to the [[Hit Point|Hit Points]] of the form. The shape-shifting effect lasts for 1 hour, and it ends early if you have no [[Temporary Hit Point|Temporary Hit Points]] left or if you take a [[Magic action]] to return to your true form.
 
-Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting or Pact Magic feature, you retain it too. Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
+Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; [[Hit Point|Hit Points]]; [[Hit Point Dice]]; proficiencies; and ability to communicate. If you have the Spellcasting or Pact Magic feature, you retain it too. Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
 
-Once you use this benefit, you can't do so again until you finish a Long Rest.
+Once you use this benefit, you can't do so again until you finish a [[Long Rest]].
 
-***Hardy Transformation.*** When you gain Temporary Hit Points when you shape-shift, increase that number of Temporary Hit Points by 20.
+***Hardy Transformation.*** When you gain [[Temporary Hit Point|Temporary Hit Points]] when you shape-shift, increase that number of [[Temporary Hit Point|Temporary Hit Points]] by 20.
