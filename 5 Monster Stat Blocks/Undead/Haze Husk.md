@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Undead
-  - MODK
+  - MoDk
 ---
 # Haze Husk
 ## Monsters of Drakkenheim (MODK):

@@ -1,3 +1,9 @@
+---
+tags:
+  - Monster
+  - Aberration
+  - MoDk
+---
 # Star Warden
 
 > [!infobox]

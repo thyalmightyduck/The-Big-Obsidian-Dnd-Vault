@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Aberration
-  - MODK
+  - MoDk
 ---
 # Delerium Dreg
 ## Monsters of Drakkenheim (MODK):

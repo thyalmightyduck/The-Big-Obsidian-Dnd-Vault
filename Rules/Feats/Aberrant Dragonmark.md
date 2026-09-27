@@ -3,7 +3,7 @@ tags:
   - EFA
   - ERLW
   - DragonmarkFeat
-  - Feat/EberronCampaign
+  - Feat
 ---
 ### Eberron: Forge of the Artificer:
 _Dragonmark Feat (Prerequisites: Eberron Campaign, Can't Have Another Dragonmark Feat)_

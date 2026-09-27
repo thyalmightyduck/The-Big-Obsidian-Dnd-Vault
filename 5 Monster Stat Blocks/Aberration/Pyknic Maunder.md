@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Aberration
-  - MODK
+  - MoDk
 ---
 # Pyknic Maunder
 ## Monsters of Drakkenheim (MODK):

@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Dragon
-  - MODK
+  - MoDk
 ---
 # Delerium Dragon Wyrmling:
 ## Monsters of Drakkenheim (MODK):
