@@ -118,4 +118,6 @@
 - [[Bigby's Hand]]
 - [[Circle of Power]]
 - [[Create Spelljamming Helm]]
-- Creation
+- [[Creation]]
+- [[Greater Restoration]]
+- [[Skill Empowerment]]
