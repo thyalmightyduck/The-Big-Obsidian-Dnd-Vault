@@ -109,3 +109,13 @@
 - [[Leomund's Secret Chest]]
 - [[Mordenkainens Faithful Hound]]
 - [[Mordenkainens Private Sanctum]]
+- [[Otilukes Resilient Sphere]]
+- [[Stone Shape]]
+- [[Stoneskin]]
+- [[Summon Construct]]
+## Level 5
+- [[Animate Objects]]
+- [[Bigby's Hand]]
+- [[Circle of Power]]
+- [[Create Spelljamming Helm]]
+- Creation
