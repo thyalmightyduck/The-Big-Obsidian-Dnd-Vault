@@ -50,6 +50,7 @@ Format and Properties
 - [x] Arcana unleashed
 - [x] astarions book of hungers
 - [x] astral adventures guide
+- [x] Baulders gate decent into avemus
 Artificer 
 	Armor of Resistance Links
 	+2 Weapons
