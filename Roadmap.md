@@ -90,9 +90,6 @@ Artificer
 	Magic Items Armor Properties
 # Second Quest
 2 person dnd one shots 
-# Recent Added 
- Plugins
-- Git
 # Main Tasks
 ## Feats
 - [ ] Feats
@@ -145,7 +142,10 @@ Add Weapon Lists
 - Supercharged Links-mdelobelle & Emile
 - Templater-SilentVoid
 - Git-Vinzent
-- Tag Wrangler PJ Eby
+- Tag Wrangler-PJ Eby
+- DnD Character Sheet Tool-Simon Zweers
+- Multi Properties-technohiker
+- Text Formater-Benature
 # Problem Plugins (Install at own risk)
 - Highlightr-chetachi
 - Janitor-Gabriele Cannata (Don’t have enabled unless you are actively using causes performance issues)
