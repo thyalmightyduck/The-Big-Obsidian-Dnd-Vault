@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Squared Circle Pugilist
 ## The Pugilist Class (2024)
 

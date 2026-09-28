@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Celestial Warlock
 ## Xanathar’s Guide to Everything
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## One Shot Wonders: Holiday Adventure Pack:
 **Creature Type:** Humanoid

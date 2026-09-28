@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Stalker's Eye
 *Enchantment Cantrip*
 ___

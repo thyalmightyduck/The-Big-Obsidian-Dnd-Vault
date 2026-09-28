@@ -1,10 +1,5 @@
 ---
-tags:
-  - Item
-  - Martial
-  - Ranged
-  - Range
-  - Psiactive
+{}
 ---
 **Weapon:** 1d6 Psychic Martial Weapon, Ranged Weapon
 **Properties:** Psiactive, range 30/120 ft.

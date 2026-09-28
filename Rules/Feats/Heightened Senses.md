@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Heightened Senses
 
 Kindred Feat (Prerequisite: Level 2+  Kindred)

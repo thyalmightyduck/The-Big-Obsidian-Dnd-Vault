@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Strike of the Giants
 
 Prerequisite: Martial Weapon Proficiency or Giant Foundling

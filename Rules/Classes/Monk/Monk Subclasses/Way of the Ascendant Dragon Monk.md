@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Ascendant Dragon Monk
 ## Fizban’s Treasury of Dragons
 

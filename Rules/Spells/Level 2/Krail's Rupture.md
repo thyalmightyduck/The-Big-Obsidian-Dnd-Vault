@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Krail's Rupture
 *Level 2 Necromancy*
 ___

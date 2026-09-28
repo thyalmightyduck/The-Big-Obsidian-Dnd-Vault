@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Storm Door
 *Level 4 Conjuration*
 ___

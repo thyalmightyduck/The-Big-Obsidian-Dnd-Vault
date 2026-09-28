@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Flex Caster
 
 General Feat (Prerequisite: Level 4+, Spellcasting Feature)

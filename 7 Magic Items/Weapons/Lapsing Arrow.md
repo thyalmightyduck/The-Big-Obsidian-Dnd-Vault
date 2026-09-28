@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
+  - magicitem
 ---
 # Lapsing Arrow
 > [!infobox]

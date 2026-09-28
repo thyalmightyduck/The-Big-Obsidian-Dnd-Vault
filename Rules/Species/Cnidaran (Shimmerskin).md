@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Cnidaran (Shimmerskin)
 
 - **Ability Scores:** Charisma +2; Constitution +1

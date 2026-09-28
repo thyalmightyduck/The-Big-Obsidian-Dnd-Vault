@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Hoopak]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Piercing, Martial Weapon, Melee Weapon

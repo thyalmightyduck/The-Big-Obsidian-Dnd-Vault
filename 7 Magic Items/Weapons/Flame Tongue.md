@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Variant
-  - Rare
-  - Attunement
+  - magicitem
 ---
 Generic Variant, Rare (Requires [[Attunement]])
 - - - 

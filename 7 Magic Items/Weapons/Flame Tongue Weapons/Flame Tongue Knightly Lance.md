@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Knightly Lance]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon

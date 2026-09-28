@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # College of Cuisine Bard:
 ## Heliana’s Guide to Monster Hunting:
 

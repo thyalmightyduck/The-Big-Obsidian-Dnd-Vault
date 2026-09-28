@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Supreme Discipline Acquisition (Celerity)
 
 Kindred Feat (Prerequisite: Level 16+  Kindred, Superior Discipline Acquisition (Celerity))

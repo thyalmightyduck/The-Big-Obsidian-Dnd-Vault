@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Emerald Enclave Fledgling
 
 Origin Feat

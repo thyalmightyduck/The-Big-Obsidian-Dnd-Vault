@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Radiant Beacon
 *Level 5 Evocation*
 ___

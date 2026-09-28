@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Nimbleness
 
 Common Virtues Feat

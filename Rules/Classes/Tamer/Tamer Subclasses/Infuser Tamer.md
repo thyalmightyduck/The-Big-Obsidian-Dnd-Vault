@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Infuser Tamer
 ## Heliana’s Guide to Monster Hunting
 

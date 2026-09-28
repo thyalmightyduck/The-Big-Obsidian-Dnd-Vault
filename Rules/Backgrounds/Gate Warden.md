@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Gate Warden
 
 - **Skill Proficiencies:** Persuasion, Survival

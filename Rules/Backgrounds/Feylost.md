@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Feylost
 
 - **Skill Proficiencies:** Deception, Survival

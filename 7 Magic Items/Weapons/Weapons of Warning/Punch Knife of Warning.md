@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Punch Knife]], Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon

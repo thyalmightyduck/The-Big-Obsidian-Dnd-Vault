@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 2 Biomancy_
 
 **Casting Time:** Bonus action

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You place a mote of pure fury within a creature’s mind, causing its bloodlust to overcome its senses and for it to act as you wish it to.
 
 **Psychic Focus.** While you are focused on this discipline, any enemy within 5 feet of you that makes a melee attack roll against creatures other than you does so with disadvantage.

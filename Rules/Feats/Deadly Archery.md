@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Deadly Archery
 
 Virtues of the Elves Feat (Prerequisite: Elven Culture)

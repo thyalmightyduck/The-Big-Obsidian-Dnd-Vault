@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Corrupting Ichor
 *Level 1 Necromancy*
 ___

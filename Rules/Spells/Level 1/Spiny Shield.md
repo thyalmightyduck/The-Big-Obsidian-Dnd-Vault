@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Spiny Shield
 *Level 1 Abjuration*
 ___

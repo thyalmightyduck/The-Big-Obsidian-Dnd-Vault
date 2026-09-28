@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Variant
-  - Uncommon
+  - magicitem
 ---
 *Generic Variant, Uncommon*
 - - - 

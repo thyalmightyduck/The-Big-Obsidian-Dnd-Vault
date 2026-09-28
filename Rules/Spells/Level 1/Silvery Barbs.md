@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Silvery Barbs
 *Level 1 Enchantment*
 ___

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Attunement
-  - Rare
+  - magicitem
 ---
 *Weapon [[Automatic Rifle]], Rare (Requires Attunement)*
 **Weapon:** 2d8 Piercing Modern, Martial Weapon, Ranged Weapon, Firearm

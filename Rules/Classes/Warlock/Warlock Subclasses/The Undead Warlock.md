@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Van Richten’s Guide to Ravenloft
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |

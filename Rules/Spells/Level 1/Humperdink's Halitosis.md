@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Humperdink's Halitosis
 *Level 1 Transmutation*
 ___

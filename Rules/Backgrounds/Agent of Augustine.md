@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Agent of Augustine
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

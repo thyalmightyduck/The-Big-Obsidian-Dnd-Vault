@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Cover
 *Level 1 Conjuration*
 ___

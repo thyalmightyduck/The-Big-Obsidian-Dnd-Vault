@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sticks to Snakes
 *Level 4 Transmutation*
 ___

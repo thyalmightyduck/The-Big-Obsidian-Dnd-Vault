@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Cleric Player’s Handbook (2024)
 
 | Level | [[Proficiency Bonus]] | Features                          | Channel Divinity | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You wield psionic energy to cure wounds and restore health to yourself and others.
 
 **Psychic Focus.** While focused on this discipline, you can use a bonus action to touch a creature that has 0 hit points and stabilize it.

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Buried Alive
 *Level 4 Transmutation*
 ___

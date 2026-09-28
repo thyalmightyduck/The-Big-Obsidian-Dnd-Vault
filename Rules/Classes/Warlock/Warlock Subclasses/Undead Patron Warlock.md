@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Undead Patron Warlock
 ## Ravenloft: The Horrors Within
 

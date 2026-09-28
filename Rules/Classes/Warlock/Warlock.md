@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warlock: Player’s Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |

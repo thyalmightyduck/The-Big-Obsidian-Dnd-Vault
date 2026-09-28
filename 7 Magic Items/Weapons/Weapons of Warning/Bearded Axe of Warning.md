@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Bearded Axe]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Piercing Martial Weapon, Melee Weapon

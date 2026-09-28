@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Revolver]], Uncommon*
 **Weapon:** 2d6 Piercing, Simple, Ranged, Firearm

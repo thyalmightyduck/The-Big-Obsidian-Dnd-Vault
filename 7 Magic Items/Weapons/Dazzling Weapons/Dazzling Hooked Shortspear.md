@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Hooked Shortspear]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing, Martial Weapon, Melee Weapon

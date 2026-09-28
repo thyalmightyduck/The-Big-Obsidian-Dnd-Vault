@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Great Fool Patron Warlock
 ## The Crooked Moon (2024)
 

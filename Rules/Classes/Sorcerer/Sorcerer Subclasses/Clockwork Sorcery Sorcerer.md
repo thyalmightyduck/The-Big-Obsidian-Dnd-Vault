@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Clockwork Sorcery Sorcerer
 ## Player’s Handbook (2024)
 

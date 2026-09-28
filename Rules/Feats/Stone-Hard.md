@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Stone-Hard
 
 Virtues of the Dwarves Feat (Prerequisite: Dwarven Culture)

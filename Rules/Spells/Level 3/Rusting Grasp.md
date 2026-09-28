@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Rusting Grasp
 *Level 3 Transmutation*
 ___

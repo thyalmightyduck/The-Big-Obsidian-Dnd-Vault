@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of the Celestial Monk
 ## The Griffon’s Saddlebag, Book 1 (2024)
 

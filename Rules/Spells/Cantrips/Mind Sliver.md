@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Enchantment Cantrip_
 
 **Casting Time:** Action

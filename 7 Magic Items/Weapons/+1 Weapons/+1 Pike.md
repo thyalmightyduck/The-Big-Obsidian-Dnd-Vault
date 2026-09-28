@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Pike]], Uncommon*
 **Weapon:** 1d10 Piercing Martial Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: Tal’Dorei Campaign Setting Reborn:
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

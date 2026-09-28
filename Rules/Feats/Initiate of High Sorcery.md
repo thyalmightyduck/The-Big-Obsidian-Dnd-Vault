@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 # Initiate of High Sorcery
 ## Dragonlance: Shadow of the Dragon Queen:
 _Prerequisites: Dragonlance Campaign; Sorcerer, Wizard, or [[Mage of High Sorcery]]_

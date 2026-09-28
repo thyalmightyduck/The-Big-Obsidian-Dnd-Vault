@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Laser Rifle]], Uncommon (Requires Attunement)*
 **Weapon:** 3d8 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm

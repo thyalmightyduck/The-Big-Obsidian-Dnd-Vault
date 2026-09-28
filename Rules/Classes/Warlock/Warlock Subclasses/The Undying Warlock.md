@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Undying Warlock
 ## Sword Coast Adventurer’s Guide
 

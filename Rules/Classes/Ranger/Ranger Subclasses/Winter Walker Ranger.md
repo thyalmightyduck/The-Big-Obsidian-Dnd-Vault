@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Winter Walker Ranger
 ## Forgotten Realms: Heroes of Faurûn 
 

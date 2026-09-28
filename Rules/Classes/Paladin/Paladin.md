@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Paladin: Player’s Handbook (2024)
 
 | Level | Proficiency Bonus | Features                                                 | Channel Divinity | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |

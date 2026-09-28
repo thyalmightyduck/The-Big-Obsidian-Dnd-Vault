@@ -1,10 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Variant
-  - Rare
-  - Attunement
+  - magicitem
   - DMG24
 ---
 *Generic Variant, Rare (Requires [[Attunement]])*

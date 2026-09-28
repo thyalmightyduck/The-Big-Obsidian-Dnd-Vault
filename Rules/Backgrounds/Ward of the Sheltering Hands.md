@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Ward of the Sheltering Hands
 
 - **Ability Scores:** Constitution, Wisdom, Charisma

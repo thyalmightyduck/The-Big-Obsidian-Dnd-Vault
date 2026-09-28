@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Ferryman
 *Level 2 Conjuration*
 ___

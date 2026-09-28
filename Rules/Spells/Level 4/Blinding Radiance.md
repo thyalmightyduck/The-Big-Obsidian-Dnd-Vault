@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Blinding Radiance
 *Level 4 Evocation*
 ___

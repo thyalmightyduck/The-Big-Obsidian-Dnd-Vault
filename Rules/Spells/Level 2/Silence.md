@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 Illusion Level 2
 
 **Casting Time:** Action or [[Ritual]]

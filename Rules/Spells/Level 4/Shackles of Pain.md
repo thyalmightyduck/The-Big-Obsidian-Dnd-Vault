@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shackles of Pain
 *Level 4 Abjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Khenra
 
 - **Ability Scores:** Dexterity +2; Strength +1

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Quarterstaff]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning Simple Weapon, Melee Weapon

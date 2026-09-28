@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shadow Portal
 *Level 3 Conjuration*
 ___

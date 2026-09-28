@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of the Pestilent Haze Monk
 ## The Crooked Moon (2024)
 

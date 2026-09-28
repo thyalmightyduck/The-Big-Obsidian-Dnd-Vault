@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Ways of the Wild
 
 Virtues of the Rangers of the North Feat (Prerequisite: Ranger of the North Culture)

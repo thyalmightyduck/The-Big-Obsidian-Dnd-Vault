@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Dragon Stories
 
 - **Skill Proficiencies.** Explore, Old Lore

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Medusa
 
 - **Creature Type:** Monstrosity

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Iron Mind
 
 Epic Boon Feat (Prerequisite: Level 19+)

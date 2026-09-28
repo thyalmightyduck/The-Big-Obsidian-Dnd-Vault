@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Reverse Gravity
 *Level 7 Transmutation*
 ___

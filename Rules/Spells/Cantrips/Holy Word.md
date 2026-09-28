@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Holy Word
 *Evocation Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Heretic
 
 - **Ability Scores:** Strength, Dexterity, Wisdom

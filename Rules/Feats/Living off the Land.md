@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Living off the Land
 
 General Feat (Prerequisite: Level 4+)

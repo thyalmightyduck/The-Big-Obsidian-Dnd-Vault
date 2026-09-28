@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Investiture of Flame
 *Level 6 Transmutation*
 ___

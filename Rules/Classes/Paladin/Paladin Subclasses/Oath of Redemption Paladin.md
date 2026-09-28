@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Redemption Paladin
 ## Xanathar’s Guide to Everthing
 

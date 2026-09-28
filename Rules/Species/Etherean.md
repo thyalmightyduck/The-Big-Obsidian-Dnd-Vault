@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits TGS2
 - Ability Scores: Charisma +2; Choose any other +1
     

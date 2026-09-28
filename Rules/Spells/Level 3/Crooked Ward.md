@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Crooked Ward
 *Level 3 Abjuration*
 ___

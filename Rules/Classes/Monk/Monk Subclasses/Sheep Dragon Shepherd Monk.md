@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Sheep Dragon Shepherd Monk
 ## Obojima: Tales from the Tall Grass
 

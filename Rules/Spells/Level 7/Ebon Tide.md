@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ebon Tide
 *Level 7 Evocation*
 ___

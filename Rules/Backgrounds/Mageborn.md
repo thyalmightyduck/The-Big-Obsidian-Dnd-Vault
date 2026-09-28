@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Mageborn
 
 - **Skill Proficiencies:** Two of the following: Arcana, Deception, Investigation, Perception

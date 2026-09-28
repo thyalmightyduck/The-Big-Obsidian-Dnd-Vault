@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dream of the Blue Veil
 *Level 7 Conjuration*
 ___

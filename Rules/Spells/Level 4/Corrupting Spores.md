@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Corrupting Spores
 *Level 4 Necromancy*
 ___

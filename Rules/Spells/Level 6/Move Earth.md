@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Move Earth
 *Level 6 Transmutation*
 ___

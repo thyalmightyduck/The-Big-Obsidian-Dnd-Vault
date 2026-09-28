@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Scourge Master
 
 General Feat (Prerequisite: Proficiency with whip or tetherhooks)

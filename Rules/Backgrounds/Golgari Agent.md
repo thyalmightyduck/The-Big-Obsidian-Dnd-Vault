@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Golgari Agent
 
 - **Skill Proficiencies:** Nature, Survival

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Awaken Ship Guardian
 *Level 8 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 | Level | Proficiency Bonus | Features                                                                                 | Seals | Seal Damage | Interdict Boons | Infernal Conduit Dice |
 | ----- | ----------------- | ---------------------------------------------------------------------------------------- | ----- | ----------- | --------------- | --------------------- |
 | 1st   | +2                | Baleful Interdict,<br><br>Forked Tongue                                                  | 3     | 1d6         | —               | —                     |

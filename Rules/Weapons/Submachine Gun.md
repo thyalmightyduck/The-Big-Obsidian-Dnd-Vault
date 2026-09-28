@@ -1,14 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Ranged
-  - Firearm
-  - Range
-  - Ammunition
-  - Light
-  - Reload
-  - MasteryAutomatic
+{}
 ---
 **Weapon:** 2d4 Piercing Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 20/60ft.; Bullet), Firearm, Light, Modern Era, Reload

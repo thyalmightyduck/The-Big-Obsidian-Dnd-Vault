@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tentacle Lash
 *Level 4 Biomancy*
 ___

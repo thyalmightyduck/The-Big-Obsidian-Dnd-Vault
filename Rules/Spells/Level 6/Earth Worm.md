@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Earth Worm
 *Level 6 Transmutation*
 ___

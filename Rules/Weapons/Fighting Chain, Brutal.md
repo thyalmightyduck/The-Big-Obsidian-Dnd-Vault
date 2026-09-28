@@ -1,14 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Melee
-  - Double
-  - Finesse
-  - Reach
-  - TwoHanded
-  - MasteryBrutal
+{}
 ---
 **Weapon:** 1d6 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Double, Finesse, Reach, Two‑Handed

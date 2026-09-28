@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mordenkainen's Sword
 *Level 7 Evocation*
 ___

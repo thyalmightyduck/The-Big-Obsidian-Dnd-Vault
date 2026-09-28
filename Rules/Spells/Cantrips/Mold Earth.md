@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mold Earth
 *Transmutation Cantrip*
 ___

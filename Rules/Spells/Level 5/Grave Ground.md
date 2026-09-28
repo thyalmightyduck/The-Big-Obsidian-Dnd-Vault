@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Grave Ground
 *Level 5 Necromancy*
 ___

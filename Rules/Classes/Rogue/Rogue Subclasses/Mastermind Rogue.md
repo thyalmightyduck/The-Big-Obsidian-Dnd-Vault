@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Mastermind Rogue
 ## Xanathar’s Guide to Everything
 

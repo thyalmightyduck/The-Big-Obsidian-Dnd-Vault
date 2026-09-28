@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Cannotrip
 *Level 1 Abjuration*
 ___

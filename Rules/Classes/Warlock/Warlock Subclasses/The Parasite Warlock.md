@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Parasite Warlock
 ## Heliana’s Guide to Monster Hunting
 

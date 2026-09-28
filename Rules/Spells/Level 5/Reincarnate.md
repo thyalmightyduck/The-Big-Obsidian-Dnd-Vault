@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Necromancy Level 5_
 
 **Casting Time:** 1 Hour

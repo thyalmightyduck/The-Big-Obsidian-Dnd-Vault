@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Manikin
 
 - **Creature Type:** Construct

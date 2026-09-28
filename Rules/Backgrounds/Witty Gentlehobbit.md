@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Witty Gentlehobbit
 
 - **Skill Proficiencies.** Insight, Persuasion

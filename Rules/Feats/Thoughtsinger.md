@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Thoughtsinger
 
 Origin Feat (Prerequisite: Kalashtar)

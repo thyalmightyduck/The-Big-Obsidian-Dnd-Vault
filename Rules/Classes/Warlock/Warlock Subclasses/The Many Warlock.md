@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Many Warlock
 ## The Griffon’s Saddlebag, Book 2
 

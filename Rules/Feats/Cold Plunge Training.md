@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cold Plunge Training
 
 Origin Feat

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fixit
 *Level 1 Transmutation*
 ___

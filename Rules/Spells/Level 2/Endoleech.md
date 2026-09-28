@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Endoleech
 *Level 2 Biomancy*
 ___

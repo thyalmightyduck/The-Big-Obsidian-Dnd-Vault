@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Attunement
-  - Rare
+  - magicitem
 ---
 *Weapon [[Sheathed Staff]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning, Advanced Weapon, Melee Weapon

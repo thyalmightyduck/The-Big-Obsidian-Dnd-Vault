@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Conjuration
   - PHB24
 aliases:
   - Heroes Feast

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Inbar's Giant-Friend
 *Level 1 Illusion*
 ___

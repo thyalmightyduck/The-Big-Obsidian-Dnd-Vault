@@ -1,5 +1,4 @@
 # WOP
-#Template 
 > [!infobox]
 > # Name
 > ###### Geography

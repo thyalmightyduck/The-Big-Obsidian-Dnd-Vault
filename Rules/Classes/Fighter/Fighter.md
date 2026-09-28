@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Fighter: Player’s Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Second Wind | Weapon Mastery |

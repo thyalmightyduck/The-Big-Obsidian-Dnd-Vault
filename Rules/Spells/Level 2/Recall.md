@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 2 Conjuration (chronomancy)_
 
 **Casting Time:** [[Bonus action]]

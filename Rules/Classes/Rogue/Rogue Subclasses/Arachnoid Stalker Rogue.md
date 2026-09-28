@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Arachnoid Stalker Rogue
 ## Valda’s Spire of Secrets: Player Pack
 

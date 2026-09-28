@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Wand Lore Wizard
 ## The Griffon’s Saddlebag, Book 2:
 

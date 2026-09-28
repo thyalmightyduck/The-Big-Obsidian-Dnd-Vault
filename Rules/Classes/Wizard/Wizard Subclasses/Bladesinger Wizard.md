@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Bladesinger Wizard
 ## Forgotten Realms: Heroes of Faurûn
 

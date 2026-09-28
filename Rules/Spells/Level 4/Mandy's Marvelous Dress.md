@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mandy's Marvelous Dress
 *Level 4 Conjuration*
 ___

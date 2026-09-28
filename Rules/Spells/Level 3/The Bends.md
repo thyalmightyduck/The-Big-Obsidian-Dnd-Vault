@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### The Bends
 *Level 3 Biomancy*
 ___

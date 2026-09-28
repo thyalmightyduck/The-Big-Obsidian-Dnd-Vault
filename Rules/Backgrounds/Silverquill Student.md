@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Silverquill Student
 
 - **Skill Proficiencies:** Intimidation, Persuasion

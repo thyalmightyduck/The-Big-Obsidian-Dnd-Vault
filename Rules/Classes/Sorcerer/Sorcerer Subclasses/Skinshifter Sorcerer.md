@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Skinshifter Sorcerer
 ## Heliana’s Guide to Monster Hunting
 

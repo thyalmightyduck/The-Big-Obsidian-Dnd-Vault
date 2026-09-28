@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You cause a creature to be flooded with emotions of disgust
 
 **Psychic Focus.** While focused on this discipline, the area in a 5-foot radius around you is difficult terrain for any enemy that isn’t immune to being frightened.

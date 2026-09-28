@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Burglar Treasure Hunter
 ## The Lord of the Rings Roleplaying: 
 

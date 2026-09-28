@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - Special
-  - TwoHanded
+{}
 ---
 **Weapon:** 1d6 Piercing Simple Weapon, Melee Weapon
 **Properties:** Two‑handed, special

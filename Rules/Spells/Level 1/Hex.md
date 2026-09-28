@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Enchantment Level 1_
 
 **Casting Time:** [[Bonus Action]]

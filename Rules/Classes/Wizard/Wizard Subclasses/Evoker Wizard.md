@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Evoker Wizard
 ## Player’s Handbook (2024):
 

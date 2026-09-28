@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Umbral Binder Rogue
 ## Book of Ebon Tides
 

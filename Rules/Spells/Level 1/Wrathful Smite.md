@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 1 Necromancy_
 
 **Casting Time:** Bonus action, which you take immediately after hitting a creature with a Melee weapon or an [[Unarmed Strike]]

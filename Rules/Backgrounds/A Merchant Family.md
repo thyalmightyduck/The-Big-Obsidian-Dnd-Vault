@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## A Merchant Family
 
 - **Skill Proficiencies.** Persuasion, Travel

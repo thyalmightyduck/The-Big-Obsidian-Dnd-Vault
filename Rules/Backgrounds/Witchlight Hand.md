@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Witchlight Hand
 
 - **Skill Proficiencies:** Performance, Sleight of Hand

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Lethal Body
 
 Kindred Feat (Prerequisite: Level 4+  Kindred)

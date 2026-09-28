@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fearsome Flourisher
 
 General Feat (Prerequisite: Proficiency with nunchaku)

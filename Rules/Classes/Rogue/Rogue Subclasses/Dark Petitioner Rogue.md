@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Dark Petitioner Rogue 
 ## Chronicles of Eberron
 

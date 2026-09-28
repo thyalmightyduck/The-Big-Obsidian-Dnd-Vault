@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Reveling Fool
 
 Origin Feat

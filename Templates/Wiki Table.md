@@ -1,4 +1,4 @@
-#Template 
+
 > [!infobox]
 > # Name
 > ![[Sock Hydara.png|cover hsmall]]

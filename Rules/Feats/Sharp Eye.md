@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Sharp Eye
 
 Origin Feat

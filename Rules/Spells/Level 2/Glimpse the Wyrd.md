@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Glimpse the Wyrd
 *Level 2 Divination*
 ___

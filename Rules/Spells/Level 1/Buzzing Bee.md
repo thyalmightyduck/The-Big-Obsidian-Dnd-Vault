@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Buzzing Bee
 *Level 1 Conjuration*
 ___

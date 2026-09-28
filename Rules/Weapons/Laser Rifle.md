@@ -1,16 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Futuristic
-  - Martial
-  - Ranged
-  - Firearm
-  - Range
-  - Ammunition
-  - Reload
-  - TwoHanded
-  - MasterySlow
+{}
 ---
 **Weapon:** 3d8 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (100/300 ft.; Energy Cell), Reload (30 shots), Two‑Handed

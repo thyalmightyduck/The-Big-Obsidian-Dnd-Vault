@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Knight of the Gauntlet
 
 - **Ability Scores:** Strength, Intelligence, Wisdom

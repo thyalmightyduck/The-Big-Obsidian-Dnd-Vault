@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Boil Blood
 *Level 1 Transmutation (sangromancy)*
 ___

@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[+1 Acid Fighting Chain]]), Uncommon*
 **Weapon:** 1d4 Bludgeoning Advanced Weapon, Melee Weapon

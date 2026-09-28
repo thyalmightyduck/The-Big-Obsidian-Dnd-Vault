@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Scholar: The Lord of the Rings Roleplaying:
 
 | Level | Proficiency Bonus | Features                                                      | Craft Slots |

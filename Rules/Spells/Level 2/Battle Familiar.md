@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Battle Familiar
 *Level 2 Conjuration*
 ___

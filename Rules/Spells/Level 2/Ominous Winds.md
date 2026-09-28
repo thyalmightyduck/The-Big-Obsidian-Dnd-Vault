@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ominous Winds
 *Level 2 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Human (Innistrad; Nephalia)
 
 - **Ability Scores:** Intelligence +1; Charisma +1

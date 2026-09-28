@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cloying Mists
 
 General Feat (Prerequisite: Level 4+)

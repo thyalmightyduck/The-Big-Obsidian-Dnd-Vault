@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## The Call of the Sea
 
 - **Skill Proficiencies.** Nature, Old Lore, or Performance

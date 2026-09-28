@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Battleaxe]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon

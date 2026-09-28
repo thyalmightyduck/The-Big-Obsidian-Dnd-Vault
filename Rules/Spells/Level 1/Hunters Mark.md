@@ -1,6 +1,8 @@
 ---
 aliases:
   - Hunter's Mark
+tags:
+  - spells
 ---
 _Divination Level 1_
 

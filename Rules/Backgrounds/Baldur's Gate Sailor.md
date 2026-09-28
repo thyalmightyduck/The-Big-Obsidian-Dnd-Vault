@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Sailor
 
 - **Skill Proficiencies:** Athletics, Perception

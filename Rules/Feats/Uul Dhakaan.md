@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Uul Dhakaan
 
 Origin Feat (Prerequisite: Dhakaani Ghaal'dar (Hobgoblin), Dhakaani Golin'dar (Goblin), or Dhakaani Guul'dar (Bugbear))

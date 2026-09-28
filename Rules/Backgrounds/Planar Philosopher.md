@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Planar Philosopher
 
 - **Skill Proficiencies:** Arcana, the skill associated with your faction (see the Sigil Faction Affinities table) or one skill of your choice

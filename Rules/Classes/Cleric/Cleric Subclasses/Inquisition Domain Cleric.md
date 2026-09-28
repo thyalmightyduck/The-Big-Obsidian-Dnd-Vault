@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Inquisition Domain Cleric
 ## Grim Hallow: Player’s Guide (2024):
 

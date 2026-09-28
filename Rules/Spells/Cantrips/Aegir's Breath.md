@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Aegir's Breath
 *Evocation Cantrip*
 ___

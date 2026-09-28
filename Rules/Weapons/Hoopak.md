@@ -1,13 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Melee
-  - Special
-  - Ammunition
-  - Finesse
-  - TwoHanded
+{}
 ---
 **Weapon:** 1d6 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Ammunition (40/160 ft.), finesse, two‑handed, special

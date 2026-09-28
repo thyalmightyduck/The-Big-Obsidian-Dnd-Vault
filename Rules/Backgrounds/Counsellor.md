@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Counsellor
 
 - **Skill Proficiencies.** Insight, Riddle

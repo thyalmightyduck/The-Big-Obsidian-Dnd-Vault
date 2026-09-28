@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wyrd Sight
 *Level 9 Divination*
 ___

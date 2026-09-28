@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Sage
 
 - **Skill Proficiencies:** Arcana, History

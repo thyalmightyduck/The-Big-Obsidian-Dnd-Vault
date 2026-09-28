@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Bandit Defector
 
 - **Skill Proficiencies.** Deception, Survival

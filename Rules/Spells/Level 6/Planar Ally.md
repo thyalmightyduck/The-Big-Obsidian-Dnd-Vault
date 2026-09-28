@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Planar Ally
 *Level 6 Conjuration*
 ___

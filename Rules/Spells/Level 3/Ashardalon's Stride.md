@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ashardalon's Stride
 *Level 3 Transmutation*
 ___

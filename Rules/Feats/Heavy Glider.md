@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Heavy Glider
 
 Prerequisite: Glide trait

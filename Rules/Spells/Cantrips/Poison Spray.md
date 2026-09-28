@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Poison Spray
 *Necromancy Cantrip*
 ___

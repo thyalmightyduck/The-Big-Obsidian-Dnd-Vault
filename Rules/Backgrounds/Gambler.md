@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Gambler
 
 - **Skill Proficiencies:** Deception, Insight

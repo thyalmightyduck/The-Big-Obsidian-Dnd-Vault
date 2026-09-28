@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Hunter of Orcs
 
 - **Skill Proficiencies.** Hunting, Stealth

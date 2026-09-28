@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Chronurgy Magic Wizard
 ## Explorer’s Guide to Wildemount
 

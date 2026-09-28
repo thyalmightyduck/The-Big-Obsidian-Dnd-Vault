@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Noble
 
 - **Skill Proficiencies:** History, Persuasion

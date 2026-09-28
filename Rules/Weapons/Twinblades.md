@@ -1,7 +1,5 @@
 ---
-tags:
-  - Weapon
-  - HGtMH
+{}
 ---
 **Weapon:** 2d4 Slashing Martial Weapon, Melee Weapon
 **Properties:** Finesse, two‑handed, Whirl

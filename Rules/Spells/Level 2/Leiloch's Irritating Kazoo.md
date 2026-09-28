@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Leiloch's Irritating Kazoo
 *Level 2 Enchantment*
 ___

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Elite Rapier]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon

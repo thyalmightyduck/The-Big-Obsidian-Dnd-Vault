@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Plane Shift: Kaladesh
 **Ability Scores:** Charisma +2; Choose any other two unique +1

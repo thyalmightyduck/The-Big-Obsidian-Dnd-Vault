@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Brutalizer
 
 General Feat (Prerequisite: Level 4+, Strength 16+)

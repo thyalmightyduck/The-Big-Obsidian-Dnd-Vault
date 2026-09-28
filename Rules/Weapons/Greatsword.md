@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Melee
-  - Heavy
-  - TwoHanded
-  - MasteryGraze
+{}
 ---
 **Weapon:** 2d6 Slashing, [[Martial Weapons]], [[Melee Weapons]] 
 **Properties:** Heavy, Two-Handed

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Augen Trust (Spy)
 
 - **Skill Proficiencies:** Deception, Stealth

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Counsellor Messenger
 ## The Lord of the Rings Roleplaying
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fractured Awareness
 *Level 7 Divination*
 ___

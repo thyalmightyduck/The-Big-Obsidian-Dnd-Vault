@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warden: The Lord of the Rings Roleplaying:
 
 | Level | [[Proficiency Bonus]] | Features                                                                         |

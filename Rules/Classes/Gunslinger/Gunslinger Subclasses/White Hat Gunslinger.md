@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # White Hat Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 

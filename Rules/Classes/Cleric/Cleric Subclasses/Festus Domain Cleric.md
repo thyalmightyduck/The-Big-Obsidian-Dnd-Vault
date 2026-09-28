@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Festus Domain Cleric
 ## The Griffon’s Saddlebag, Book 2:
 

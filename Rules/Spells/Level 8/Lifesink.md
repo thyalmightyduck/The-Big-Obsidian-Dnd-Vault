@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Lifesink
 *Level 8 Necromancy*
 ___

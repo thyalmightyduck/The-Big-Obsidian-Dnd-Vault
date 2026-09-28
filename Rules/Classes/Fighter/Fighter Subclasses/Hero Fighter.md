@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hero Fighter
 ## Cthulhu by Torchlight
 

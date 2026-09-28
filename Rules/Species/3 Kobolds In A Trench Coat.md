@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits
 **Three Minds, One Coat:** You are three [[Kobold]]s working together to function as a single entity. You can interact and communicate with one another telepathically (but only among the three [[Kobold]]s). Your teamwork grants you the following benefits:
 - You have [[Advantage]] on Intelligence ([[Investigation]]) and Wisdom ([[Perception]]) checks, as one [[Kobold]] is always on the lookout for details or threats.

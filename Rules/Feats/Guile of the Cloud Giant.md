@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Guile of the Cloud Giant
 
 Prerequisite: Level 4+, strike of the giants (cloud strike)

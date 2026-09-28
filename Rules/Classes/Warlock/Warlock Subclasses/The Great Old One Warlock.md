@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Great Old One Warlock
 # Player’s Handbook (2014):
 

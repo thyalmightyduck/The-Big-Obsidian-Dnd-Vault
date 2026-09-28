@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Outlander
 
 - **Skill Proficiencies:** Athletics, Survival

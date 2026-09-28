@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Northlands Hardiness
 
 General Feat (Prerequisite: Level 4+)

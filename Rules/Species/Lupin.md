@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Lupin
 
 - **Creature Type:** Humanoid

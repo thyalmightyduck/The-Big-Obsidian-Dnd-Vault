@@ -1,15 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Ranged
-  - Range
-  - Ammunition
-  - Blackpowder
-  - Light
-  - Loading
-  - MasteryVex
+{}
 ---
 **Weapon:** 2d4 Piercing Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 20/80 ft.; Paper Cartridge Bullet), Blackpowder, Light, Loading

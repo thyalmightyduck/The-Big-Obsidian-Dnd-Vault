@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Call the Rabid Beast
 *Level 3 Transmutation*
 ___

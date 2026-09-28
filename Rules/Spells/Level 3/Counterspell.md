@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Abjuration Level 3_
 
 **Casting Time:** [[Reaction]], which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components

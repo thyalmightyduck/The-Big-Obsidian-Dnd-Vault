@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Punching Dagger]], Uncommon*
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon

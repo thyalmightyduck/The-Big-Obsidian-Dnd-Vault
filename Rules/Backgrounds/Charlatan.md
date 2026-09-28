@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Charlatan
 
 - **Ability Scores:** Dexterity, Constitution, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Rebuke
 
 General Feat (Prerequisite: Level 4+)

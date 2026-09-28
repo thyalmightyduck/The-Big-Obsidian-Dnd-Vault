@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Gobboc
 
 - **Ability Scores:** Dexterity +2; Choose Charisma or Wisdom +1

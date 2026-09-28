@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Guildmasters' Guide to Ravnica
 **Ability Scores:** Choose one of the following:
 - Increase Constitution +2

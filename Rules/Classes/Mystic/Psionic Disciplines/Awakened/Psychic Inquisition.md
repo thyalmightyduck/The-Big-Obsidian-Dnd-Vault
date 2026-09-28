@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You reach into a creature’s mind to uncover information or plant ideas within it.
 
 **Psychic Focus.** While focused on this discipline, you know when a creature communicating with you via telepathy is lying.

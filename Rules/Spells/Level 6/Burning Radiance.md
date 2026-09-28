@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Burning Radiance
 *Level 6 Evocation*
 ___

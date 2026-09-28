@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Symbiote Druid
 ## Cthulhu by Torchlight:
 

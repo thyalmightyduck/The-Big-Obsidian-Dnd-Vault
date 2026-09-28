@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Zeal Paladin
 ## Grim Hallow: Player’s Guide (2024)
 

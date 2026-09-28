@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Entrancing Mirrors
 *Level 8 Illusion*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wall of Death
 *Level 4 Necromancy*
 ___

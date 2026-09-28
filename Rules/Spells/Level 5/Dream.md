@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Illusion Level 5_
 
 **Casting Time:** 1 Minute

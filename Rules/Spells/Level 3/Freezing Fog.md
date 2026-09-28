@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Freezing Fog
 *Level 3 Transmutation*
 ___

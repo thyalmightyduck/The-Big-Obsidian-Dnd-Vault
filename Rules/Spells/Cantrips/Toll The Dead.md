@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Necromancy Cantrip_
 
 **Casting Time:** Action

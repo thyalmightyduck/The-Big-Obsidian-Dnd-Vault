@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 Your control over your body allows you to deliver acid or poison attacks.
 
 **Psychic Focus.** While focused on this discipline, you have resistance to acid and poison damage.

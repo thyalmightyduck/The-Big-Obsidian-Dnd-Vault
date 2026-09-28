@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Dragon-Slayer
 
 Virtues of the Bardings Feat (Prerequisite: Barding Culture)

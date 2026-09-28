@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Sailor (Pirate)
 
 - **Skill Proficiencies:** Athletics, Perception

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Traveler's Enigma
 *Level 3 Illusion*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You tap into a well of primal fear and turn yourself into a beacon of terror to your enemies.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Charisma (Intimidation) checks.

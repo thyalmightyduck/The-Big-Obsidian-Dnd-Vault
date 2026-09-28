@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Corrosive Blast
 *Level 3 Evocation*
 ___

@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Ranged
-  - Range
-  - Psiactive
-  - TwoHanded
+{}
 ---
 **Weapon:** 1d6 Psychic, Simple Weapon, Ranged Weapon
 **Properties:** Psiactive, two‑handed, range 30/120 ft.

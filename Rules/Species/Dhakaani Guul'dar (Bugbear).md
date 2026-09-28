@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Dhakaani Guul'dar (Bugbear)
 
 - **Creature Type:** Humanoid

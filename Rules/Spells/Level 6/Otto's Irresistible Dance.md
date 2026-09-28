@@ -1,8 +1,6 @@
 ---
 tags:
   - Spell
-  - Enchantment
-  - Concentration
   - PHB24
 aliases:
   - Ottos Irresistible Dance

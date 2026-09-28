@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - Light
-  - Thrown
-  - MasteryVex
+{}
 ---
 **Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon
 **Properties:** Light, Thrown (20/60 ft.)

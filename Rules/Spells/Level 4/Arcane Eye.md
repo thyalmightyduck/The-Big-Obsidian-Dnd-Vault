@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Divination Level 4_
 
 **Casting Time:** Action

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Call to Action
 *Level 2 Enchantment*
 ___

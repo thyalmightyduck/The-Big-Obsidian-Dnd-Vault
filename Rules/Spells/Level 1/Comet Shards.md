@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Sebastian Crowe’s Guide to Drakkenheim
 _Level 1 Enchantment (contaminated)_
 

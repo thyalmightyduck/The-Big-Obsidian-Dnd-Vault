@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Shadows Druid
 ## Book of Ebon Tides:
 

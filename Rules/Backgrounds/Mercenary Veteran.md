@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Mercenary Veteran
 
 - **Skill Proficiencies:** Athletics, Persuasion

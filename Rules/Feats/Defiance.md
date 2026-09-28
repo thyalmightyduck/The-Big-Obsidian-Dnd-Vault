@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Defiance
 
 Virtues of the Men of Bree Feat (Prerequisite: Men of Bree Culture)

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Vampire Survivor
 
 - **Ability Scores:** Dexterity, Constitution, Wisdom

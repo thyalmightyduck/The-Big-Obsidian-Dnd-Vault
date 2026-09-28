@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Disruptive Tune
 *Level 2 Abjuration*
 ___

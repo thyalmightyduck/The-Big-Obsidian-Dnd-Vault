@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Otherworldly Familiar
 
 General Feat (Prerequisite: Level 4+, Familiar Friend)

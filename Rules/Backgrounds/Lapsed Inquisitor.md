@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Lapsed Inquisitor
 
 - **Ability Scores:** Strength, Wisdom, Charisma

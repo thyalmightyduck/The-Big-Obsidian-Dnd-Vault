@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greater Discipline Acquisition (Obfuscate)
 
 Kindred Feat (Prerequisite: Level 8+  Kindred, Discipline Acquisition (Obfuscate))

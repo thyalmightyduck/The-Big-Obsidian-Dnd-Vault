@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Incendiary Cloud
 *Level 8 Conjuration*
 ___

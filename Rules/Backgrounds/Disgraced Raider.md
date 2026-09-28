@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Disgraced Raider
 
 - **Ability Scores:** Strength, Constitution, Wisdom

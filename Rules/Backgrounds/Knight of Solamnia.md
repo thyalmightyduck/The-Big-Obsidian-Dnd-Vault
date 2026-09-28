@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Knight of Solamnia
 
 - **Skill Proficiencies:** Athletics, Survival

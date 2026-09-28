@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Tasha’s Cauldron Of Everything
 _Level 4 Conjuration_
 

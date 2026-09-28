@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Treasure Seeker (Soldier of Fortune)
 
 - **Skill Proficiencies:** Investigation and one choice from the following: Stealth, Insight, or Perception

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Four Elements Monk
 ## Player’s Handbook (2014)
 

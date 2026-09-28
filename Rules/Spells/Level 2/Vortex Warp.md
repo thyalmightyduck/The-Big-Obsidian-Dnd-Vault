@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Vortex Warp
 *Level 2 Conjuration*
 ___

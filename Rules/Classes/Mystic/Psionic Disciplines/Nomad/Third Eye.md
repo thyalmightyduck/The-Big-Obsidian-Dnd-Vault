@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You create a third, psychic eye in your mind, which you cast out into the world. It channels thoughts and knowledge back to you, greatly enhancing your senses.
 
 **Psychic Focus.** While focused on this discipline, you have darkvision with a range of 60 feet. If you already have darkvision with that range or greater, increase its range by 10 feet.

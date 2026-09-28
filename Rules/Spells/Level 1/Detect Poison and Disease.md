@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 1 Divination_
 
 **Casting Time:** Action or Ritual

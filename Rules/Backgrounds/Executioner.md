@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Executioner
 
 - **Ability Scores:** Strength, Constitution, Intelligence

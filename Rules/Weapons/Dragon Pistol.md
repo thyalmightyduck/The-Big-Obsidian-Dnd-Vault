@@ -1,14 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Ranged
-  - Range
-  - Ammunition
-  - Blackpowder
-  - Loading
-  - MasteryScatter
+{}
 ---
 **Weapon:** 2d4 Piercing, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 20 ft.; Dragon Shot), Blackpowder, Loading

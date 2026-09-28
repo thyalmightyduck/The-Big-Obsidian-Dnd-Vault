@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Repeater Crossbow, Hand]], Uncommon*
 **Weapon:** 1d6 Piercing, Advanced Weapon, Ranged Weapon

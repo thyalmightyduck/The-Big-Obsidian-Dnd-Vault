@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Dog and Hound Pugilist
 ## The Pugilist Class (2024)
 

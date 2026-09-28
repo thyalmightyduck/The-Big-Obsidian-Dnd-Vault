@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Entropy Druid
 ## Grim Hallow: Player’s Guide (2024):
 

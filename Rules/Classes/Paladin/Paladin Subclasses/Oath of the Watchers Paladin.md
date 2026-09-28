@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Watchers Paladin
 ## Tasha’s Cauldron of Everything
 

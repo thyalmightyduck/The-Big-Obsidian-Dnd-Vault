@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Melee
-  - Finesse
-  - MasterySwift
+{}
 ---
 **Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Finesse

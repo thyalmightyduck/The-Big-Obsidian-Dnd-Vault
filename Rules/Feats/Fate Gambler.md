@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fate Gambler
 
 Origin Feat

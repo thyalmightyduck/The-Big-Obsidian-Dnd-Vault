@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Yklwa]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Simple Weapon, Melee Weapon

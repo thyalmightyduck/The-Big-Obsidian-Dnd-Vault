@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bergelmir's Provocation
 *Level 3 Enchantment*
 ___

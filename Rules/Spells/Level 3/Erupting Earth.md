@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Erupting Earth
 *Level 3 Transmutation*
 ___

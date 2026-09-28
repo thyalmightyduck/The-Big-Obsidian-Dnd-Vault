@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Blood Tide
 *Level 6 Conjuration (sangromancy)*
 ___

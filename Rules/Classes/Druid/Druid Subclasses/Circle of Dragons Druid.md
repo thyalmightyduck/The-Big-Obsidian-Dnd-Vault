@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Dragons Druid
 ## The Griffon’s Saddlebag, Book 2:
 

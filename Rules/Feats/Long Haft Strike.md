@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Long Haft Strike
 
 General Feat (Prerequisite: Level 4+)

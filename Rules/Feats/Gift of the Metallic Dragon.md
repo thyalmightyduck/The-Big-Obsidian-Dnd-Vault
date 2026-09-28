@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Gift of the Metallic Dragon
 
 You've manifested some of the power of metallic dragons, granting you the following benefits:

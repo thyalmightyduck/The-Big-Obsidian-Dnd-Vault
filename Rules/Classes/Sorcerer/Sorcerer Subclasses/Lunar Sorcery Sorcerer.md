@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Lunar Sorcery Sorcerer
 ## Dragonlance: Shadow of the Dragon Queen
 

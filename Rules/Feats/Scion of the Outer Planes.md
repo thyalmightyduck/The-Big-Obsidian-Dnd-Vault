@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 # Scion of the Outer Planes
 ## Sigil of the Outlands:
 _Prerequisite: Planescape Campaign_

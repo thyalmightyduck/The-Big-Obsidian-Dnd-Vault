@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Wild Talent
 
 You awaken to your psionic potential, which enhances your mind or body. Increase one ability score of your choice by 1, to a maximum of 20, to represent this enhancement.

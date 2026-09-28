@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Force Blast
 *Evocation Cantrip*
 ___

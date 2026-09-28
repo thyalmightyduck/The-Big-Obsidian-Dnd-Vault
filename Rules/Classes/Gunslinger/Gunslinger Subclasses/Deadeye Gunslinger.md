@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Deadeye Gunslinger
 ## The Gunslinger Class: Valda’s Spier of Secrets
 

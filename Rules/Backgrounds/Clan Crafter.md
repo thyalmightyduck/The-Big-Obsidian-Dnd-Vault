@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Clan Crafter
 
 - **Skill Proficiencies:** History, Insight

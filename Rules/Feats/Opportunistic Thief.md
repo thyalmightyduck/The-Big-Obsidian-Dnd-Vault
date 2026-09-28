@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Opportunistic Thief
 
 You have learned the tricks of the trade of thievery, allowing you to exploit opportunities for pick-pocketing both in and out of combat. You gain the following benefits:

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Carouser
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

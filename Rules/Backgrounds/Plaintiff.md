@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Plaintiff
 
 - **Skill Proficiencies:** Medicine, Persuasion

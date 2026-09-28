@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Craft
 
 Beyond 10th Level Feat

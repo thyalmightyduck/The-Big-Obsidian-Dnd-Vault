@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Sanguine Thief Rogue
 ## Grim Hallow: Player’s Guide (2024)
 

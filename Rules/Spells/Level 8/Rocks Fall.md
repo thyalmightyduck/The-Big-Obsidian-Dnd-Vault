@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Rocks Fall
 *Level 8 Conjuration*
 ___

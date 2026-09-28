@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Bryntroll]], Rare (Requires Attunement)*
 **Weapon:** 1d10 Slashing Martial Weapon, Melee Weapon

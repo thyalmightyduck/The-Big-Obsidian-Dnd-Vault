@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Heroic Sorcery Sorcerer 
 ## Valda’s Spire of Secrets: Player Pack 2
 

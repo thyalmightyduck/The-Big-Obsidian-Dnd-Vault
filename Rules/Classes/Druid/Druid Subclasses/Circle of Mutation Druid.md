@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Mutation Druid
 ## Grim Hallow: Player’s Guide (2024):
 

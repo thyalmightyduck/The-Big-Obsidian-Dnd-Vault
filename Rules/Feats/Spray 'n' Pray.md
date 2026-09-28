@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Spray 'n' Pray
 
 General Feat (Prerequisite: Proficiency with a magitech firearm or tommybow)

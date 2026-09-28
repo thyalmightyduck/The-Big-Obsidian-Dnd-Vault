@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Familiar Keeper
 
 General Feat (Prerequisite: Level 4+)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Open Sea Paladin
 ## Tal’Dorei Campaign Setting Reborn
 

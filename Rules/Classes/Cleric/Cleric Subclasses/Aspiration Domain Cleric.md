@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Aspiration Domain Cleric Cleric
 ## Chronicles of Eberron
 

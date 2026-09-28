@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Bloodhound Druid
 ## Frontiers of Eberron: Quickstone
 

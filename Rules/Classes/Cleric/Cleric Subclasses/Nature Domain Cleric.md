@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Nature Domain Cleric
 ## Player’s Handbook (2014)
 

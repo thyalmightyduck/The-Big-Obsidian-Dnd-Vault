@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Greater Animate Dead
 *Level 5 Necromancy*
 ___

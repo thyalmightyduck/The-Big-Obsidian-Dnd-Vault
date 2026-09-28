@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Repeater Slinger]], Uncommon*
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Ranged Weapon

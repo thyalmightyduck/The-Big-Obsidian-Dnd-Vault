@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Scout Rogue
 ## Xanathar’s Guide to Everything
 

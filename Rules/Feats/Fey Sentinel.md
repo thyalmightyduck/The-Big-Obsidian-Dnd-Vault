@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fey Sentinel
 
 General Feat (Prerequisite: Level 4+, Fey Pact)

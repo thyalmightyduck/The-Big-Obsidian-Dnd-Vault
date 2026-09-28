@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Abjuration Level 4_
 
 **Casting Time:** Action

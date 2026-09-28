@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Arboreal Curse
 *Level 7 Transmutation*
 ___

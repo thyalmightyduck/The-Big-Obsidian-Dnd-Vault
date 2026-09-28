@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Valkyrie's Vision
 *Level 2 Divination*
 ___

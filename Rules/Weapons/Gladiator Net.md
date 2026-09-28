@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Melee
-  - Thrown
-  - MasteryEntangling
+{}
 ---
 **Weapon:** 1d6 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Thrown (10/30 ft.)

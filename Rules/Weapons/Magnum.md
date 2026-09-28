@@ -1,14 +1,5 @@
 ---
-tags:
-  - Martial
-  - Ranged
-  - Firearm
-  - Range
-  - Ammunition
-  - Recoil
-  - Heavy
-  - Reload
-  - MasterySlow
+{}
 ---
 **Weapon:** 2d8 Piercing Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 30/120ft.; Bullet), Firearm, Heavy, Modern Era, Recoil, Reload

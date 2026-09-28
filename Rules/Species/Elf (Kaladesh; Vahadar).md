@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Elf (Kaladesh; Vahadar)
 
 - **Ability Scores:** Dexterity +2; Wisdom +1

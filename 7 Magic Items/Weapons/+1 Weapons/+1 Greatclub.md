@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Greatclub]], Uncommon*
 **Weapon:** 1d8 Bludgeoning, [[Simple Weapons]], [[Melee Weapons]]

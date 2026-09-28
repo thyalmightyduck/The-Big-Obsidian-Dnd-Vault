@@ -1,7 +1,6 @@
 ---
 tags:
   - AU
-  - WizardSubclass
 ---
 # Arcana Unleashed (AU):
 

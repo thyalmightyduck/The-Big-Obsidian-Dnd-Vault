@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Myriad Operative (Criminal)
 
 - **Skill Proficiencies:** Deception, Stealth

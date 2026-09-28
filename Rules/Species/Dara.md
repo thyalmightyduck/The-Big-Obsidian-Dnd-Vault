@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 **Size:** Small (Red) or Medium (Blue) (2-7 Feet)
 **Speed:** 2f Feet (Red), 30 Feet (Blue)
 ### Traits

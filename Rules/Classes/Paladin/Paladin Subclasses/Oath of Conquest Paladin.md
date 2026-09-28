@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Conquest Paladin
 ## Xanathar’s Guide to Everything
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Mageborn (Malfeasant Mage)
 
 - **Skill Proficiencies:** Two of the following: Arcana, Deception, Investigation, Perception

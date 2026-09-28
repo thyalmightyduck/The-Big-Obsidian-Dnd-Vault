@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Coven Warlock
 ## Grim Hallow: Player’s Guide (2024)
 

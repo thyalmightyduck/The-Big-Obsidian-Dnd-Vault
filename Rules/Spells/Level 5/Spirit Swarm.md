@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Spirit Swarm
 *Level 5 Necromancy*
 ___

@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Potion
-  - Common
+  - magicitem
 ---
 > [!infobox]
 > # Potion Of Supreme Healing

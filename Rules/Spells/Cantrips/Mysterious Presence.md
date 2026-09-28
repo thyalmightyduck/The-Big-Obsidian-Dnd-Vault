@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mysterious Presence
 *Illusion Cantrip*
 ___

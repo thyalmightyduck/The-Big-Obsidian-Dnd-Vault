@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Transport via Plants
 *Level 6 Conjuration*
 ___

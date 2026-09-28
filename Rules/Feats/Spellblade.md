@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Spellblade
 
 General Feat (Prerequisite: Level 4+; Intelligence, Wisdom, or Charisma 13+)

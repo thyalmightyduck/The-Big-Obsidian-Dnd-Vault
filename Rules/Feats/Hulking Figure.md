@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Hulking Figure
 
 General Feat (Prerequisite: Level 4+, Strength 13+)

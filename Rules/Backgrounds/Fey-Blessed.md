@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Fey-Blessed
 
 - **Ability Scores:** Dexterity, Constitution, Charisma

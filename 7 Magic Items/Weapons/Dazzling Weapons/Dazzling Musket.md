@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Musket]], Rare (Requires Attunement)*
 **Weapon:** 1d12 Piercing, [[Martial Weapons]], [[Ranged Weapons]], [[Firearms]]

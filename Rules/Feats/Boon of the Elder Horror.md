@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Elder Horror
 
 Epic Boon Feat (Prerequisite: Level 19+, Aberrant Horror Transformation)

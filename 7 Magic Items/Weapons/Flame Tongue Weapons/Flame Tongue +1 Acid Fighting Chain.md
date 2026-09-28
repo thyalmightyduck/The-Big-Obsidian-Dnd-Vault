@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[+1 Acid Fighting Chain]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning Advanced Weapon, Melee Weapon

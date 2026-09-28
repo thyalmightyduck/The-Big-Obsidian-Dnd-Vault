@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Yolande's Regal Presence
 *Level 5 Enchantment*
 ___

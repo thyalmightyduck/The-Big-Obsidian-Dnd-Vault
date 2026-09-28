@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Infestation
 *Conjuration Cantrip*
 ___

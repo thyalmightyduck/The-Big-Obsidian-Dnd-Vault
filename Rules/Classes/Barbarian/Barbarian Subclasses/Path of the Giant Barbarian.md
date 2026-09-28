@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: Bigby Presents: Glory of the Giants
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

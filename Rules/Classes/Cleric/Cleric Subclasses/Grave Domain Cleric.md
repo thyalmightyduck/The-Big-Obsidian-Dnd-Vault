@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Grave Domain Cleric
 ## Xanathar’s Guide to Everything:
 

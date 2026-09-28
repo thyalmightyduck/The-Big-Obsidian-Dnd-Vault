@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Sure at the Mark
 
 Virtues of the Hobbits Feat (Prerequisite: Hobbit Culture)

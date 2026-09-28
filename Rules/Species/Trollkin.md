@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Trollkin
 
 - **Creature Type:** Humanoid

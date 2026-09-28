@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Lightning Caster
 
 General Feat (Prerequisite: Level 4+; Spellcasting or Pact Magic Feature)

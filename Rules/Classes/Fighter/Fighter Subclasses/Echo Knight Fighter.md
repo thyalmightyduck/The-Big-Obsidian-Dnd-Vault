@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Echo Knight Fighter
 ## Explorer’s Guide to Wildemount
 

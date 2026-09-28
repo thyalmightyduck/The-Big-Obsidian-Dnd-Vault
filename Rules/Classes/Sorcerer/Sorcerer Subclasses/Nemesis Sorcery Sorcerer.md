@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Nemesis  Sorcery Sorcerer
 ## Frontiers of Eberron: Quickstone
 

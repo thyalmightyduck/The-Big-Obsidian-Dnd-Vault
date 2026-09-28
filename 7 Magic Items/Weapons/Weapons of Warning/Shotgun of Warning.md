@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 **Weapon:** 2d8 Piercing, Modern, Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (30/90 ft.; [[Firearm Bullet]]), Reload (2 shots), Two‑Handed

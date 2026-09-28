@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Creeping Touch
 *Level 1 Transmutation*
 ___

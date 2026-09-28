@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Old Gods Barbarian
 ## Sebastian Crowe’s Guide to Drakkenheim
 

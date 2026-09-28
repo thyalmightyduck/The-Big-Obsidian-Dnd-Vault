@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Gargoyle
 
 - **Creature Type:** Elemental

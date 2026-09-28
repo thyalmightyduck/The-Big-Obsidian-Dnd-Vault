@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Rakdos Cultist
 
 - **Skill Proficiencies:** Acrobatics, Performance

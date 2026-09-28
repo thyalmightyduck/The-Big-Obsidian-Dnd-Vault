@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Survivor (Veteran of the Civil War)
 
 - **Skill Proficiencies:** Two of the following: Perception, Survival, Stealth, Athletics

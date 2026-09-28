@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Dread Speech
 
 Origin Feat

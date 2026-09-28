@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Wings of Stone
 
 General Feat (Prerequisite: Level 4+, Gargoyle)

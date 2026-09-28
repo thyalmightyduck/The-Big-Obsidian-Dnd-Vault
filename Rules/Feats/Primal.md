@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Primal
 
 General Feat (Prerequisite: Level 4+)

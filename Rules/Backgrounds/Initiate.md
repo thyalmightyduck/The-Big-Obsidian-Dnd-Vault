@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Initiate
 
 - **Skill Proficiencies:** Athletics, Intimidation

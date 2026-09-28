@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Thunderclap
 *Evocation Cantrip*
 ___

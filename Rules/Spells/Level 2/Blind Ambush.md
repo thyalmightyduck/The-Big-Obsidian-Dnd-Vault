@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Blind Ambush
 *Level 2 Conjuration*
 ___

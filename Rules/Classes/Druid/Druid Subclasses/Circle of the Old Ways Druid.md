@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Old Ways Druid
 ## The Crooked Moon (2024):
 

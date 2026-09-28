@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Aberrant Heir
 
 - **Ability Scores:** Strength, Constitution, Charisma

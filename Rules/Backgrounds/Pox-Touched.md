@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Pox-Touched
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

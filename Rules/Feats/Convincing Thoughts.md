@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Convincing Thoughts
 
 Kindred Feat (Prerequisite: Level 7+  Kindred)

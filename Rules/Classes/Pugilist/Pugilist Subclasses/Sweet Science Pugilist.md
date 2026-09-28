@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Sweet Science Pugilist
 ## The Pugilist Class (2024)
 

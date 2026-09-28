@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You attune your mind to seize control of wood and earth.
 
 **Psychic Focus.** While focused on this discipline, you have a +1 bonus to AC.

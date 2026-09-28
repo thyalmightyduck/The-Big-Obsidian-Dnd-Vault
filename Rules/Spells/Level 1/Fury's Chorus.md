@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fury's Chorus
 *Level 1 Enchantment*
 ___

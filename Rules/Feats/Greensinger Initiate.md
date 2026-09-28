@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greensinger Initiate
 
 General Feat (Prerequisite: Level 4+)

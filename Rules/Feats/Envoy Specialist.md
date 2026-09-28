@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Envoy Specialist
 
 Origin Feat (Prerequisite: Warforged)

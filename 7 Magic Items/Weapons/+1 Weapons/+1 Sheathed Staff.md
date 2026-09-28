@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Sheathed Staff]], Uncommon*
 **Weapon:** 1d6 Bludgeoning, Advanced Weapon, Melee Weapon

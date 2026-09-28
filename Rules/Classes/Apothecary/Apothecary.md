@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Sebastian Crowe’s Guide to Drakkenheim 
 | Level | Proficiency Bonus | Features                                                           | Cantrips Known | Spell Slots | Slot Level | Theories Known |
 | ----- | ----------------- | ------------------------------------------------------------------ | -------------- | ----------- | ---------- | -------------- |

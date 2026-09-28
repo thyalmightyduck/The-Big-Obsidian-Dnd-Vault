@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Weave Entanglement
 *Level 6 Abjuration*
 ___

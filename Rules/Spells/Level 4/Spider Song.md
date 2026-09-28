@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Spider Song
 *Level 4 Conjuration*
 ___

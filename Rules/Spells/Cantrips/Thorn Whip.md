@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Thorn Whip
 *Transmutation Cantrip*
 ___

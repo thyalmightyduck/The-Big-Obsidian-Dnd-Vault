@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Uncommon
+  - magicitem
 ---
 Wondrous Item, Uncommon
 

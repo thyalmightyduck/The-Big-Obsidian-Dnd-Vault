@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Spore Cloud
 *Biomancy Cantrip*
 ___

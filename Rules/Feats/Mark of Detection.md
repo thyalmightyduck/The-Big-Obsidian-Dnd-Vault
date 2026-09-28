@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mark of Detection
 
 Dragonmark Feat (Prerequisite: Eberron Campaign, Can't Have Another Dragonmark Feat)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Crimson Ritualist
 
 Origin Feat

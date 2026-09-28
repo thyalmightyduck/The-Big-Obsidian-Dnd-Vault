@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Divination Cantrip_
 
 **Casting Time:** Action

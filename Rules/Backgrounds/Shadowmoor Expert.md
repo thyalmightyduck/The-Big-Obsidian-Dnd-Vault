@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Shadowmoor Expert
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

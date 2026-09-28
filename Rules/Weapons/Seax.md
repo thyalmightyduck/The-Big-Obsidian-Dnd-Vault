@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - Finesse
-  - Light
-  - Graze
+{}
 ---
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon
 **Properties:** Finesse, Light

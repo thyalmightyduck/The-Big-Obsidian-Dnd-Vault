@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Elf (Kaladesh; Bishatar and Tirahar)
 
 - **Ability Scores:** Dexterity +2; Wisdom +1

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Player’s Handbook (2024):
 _Evocation Level 5_
 

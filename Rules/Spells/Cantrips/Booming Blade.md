@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 *Evocation Cantrip*
 ___
 - **Casting Time:** Action

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Dhakaani Golin'dar (Goblin)
 
 - **Creature Type:** Humanoid

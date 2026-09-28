@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Oozekin
 
 - **Ability Scores:** Constitution +2; Strength +1

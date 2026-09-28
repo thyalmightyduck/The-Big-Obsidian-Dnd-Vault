@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Pyromaniac
 
 General Feat (Prerequisite: Level 4+)

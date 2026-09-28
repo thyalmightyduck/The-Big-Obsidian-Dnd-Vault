@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Death Defier
 
 General Feat (Prerequisite: Level 4+)

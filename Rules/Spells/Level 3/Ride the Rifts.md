@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ride the Rifts
 *Level 3 Conjuration (contaminated)*
 ___

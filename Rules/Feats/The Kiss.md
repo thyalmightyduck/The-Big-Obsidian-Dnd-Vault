@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## The Kiss
 
 Kindred Feat (Prerequisite:  Kindred)

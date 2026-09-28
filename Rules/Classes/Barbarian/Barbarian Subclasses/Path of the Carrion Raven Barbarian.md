@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Carrion Raven Barbarian
 ## Grim Hallow: Player’s Pack
 

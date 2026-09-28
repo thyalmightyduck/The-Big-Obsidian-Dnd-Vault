@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Leomund's Lamentable Belaborment
 *Level 6 Enchantment*
 ___

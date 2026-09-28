@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Assassin Rogue
 ## Player’s Handbook (2024)
 

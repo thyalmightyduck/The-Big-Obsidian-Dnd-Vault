@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Reaver's Rune
 *Level 2 Evocation*
 ___

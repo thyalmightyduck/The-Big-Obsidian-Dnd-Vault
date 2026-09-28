@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bright Sparks
 *Evocation Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits
 **Ability Scores:** Charisma +2; Strength +1
 **Creature Type:** [[Humanoid]]

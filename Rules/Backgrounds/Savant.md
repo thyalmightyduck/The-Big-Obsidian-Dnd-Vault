@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Savant
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

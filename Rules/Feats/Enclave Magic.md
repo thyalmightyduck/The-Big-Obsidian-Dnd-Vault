@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Enclave Magic
 
 General Feat (Prerequisite: Level 4+, Emerald Enclave Fledgling)

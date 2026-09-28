@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Goblin (Zendikar; Grotag Tribe)
 
 - **Ability Scores:** Constitution +2

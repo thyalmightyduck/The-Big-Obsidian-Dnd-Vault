@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Noble Genies Paladin
 ## Forgotten Realms: Heroes of Faurûn
 

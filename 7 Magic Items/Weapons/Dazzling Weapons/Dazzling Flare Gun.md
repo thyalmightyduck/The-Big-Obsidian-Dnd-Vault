@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 **Weapon:** 2d6 Fire Simple Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 30/120ft.; Flare), Firearm, Loading, Modern Era

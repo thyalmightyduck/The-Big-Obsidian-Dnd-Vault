@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Faerie Toast
 *Level 3 Transmutation*
 ___

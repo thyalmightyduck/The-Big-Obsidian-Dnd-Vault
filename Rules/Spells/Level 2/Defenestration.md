@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Defenestration
 *Level 2 Evocation*
 ___

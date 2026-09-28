@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Guide
 
 - **Ability Scores:** Dexterity, Constitution, Wisdom

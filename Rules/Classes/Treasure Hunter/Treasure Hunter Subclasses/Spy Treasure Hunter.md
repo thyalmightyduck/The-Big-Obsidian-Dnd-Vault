@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Spy Treasure Hunter
 ## The Lord of the Rings Roleplaying: 
 

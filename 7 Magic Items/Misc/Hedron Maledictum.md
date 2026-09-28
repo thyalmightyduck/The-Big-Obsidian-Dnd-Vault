@@ -1,10 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Legendary
-  - Attunement
-  - Homebrew
+  - magicitem
 ---
 *Wonderous Item, Legendary (Requires [[Attunement]])*
 > [!infobox]

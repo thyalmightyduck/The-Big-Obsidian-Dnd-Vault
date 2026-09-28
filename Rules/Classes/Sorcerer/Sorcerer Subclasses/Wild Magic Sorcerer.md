@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Wild Magic Sorcerer 
 ## Player’s Handbook (2024)
 

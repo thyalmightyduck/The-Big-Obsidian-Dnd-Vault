@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Gifted Senses
 
 - **Skill Proficiencies.** Investigation, Perception

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Enchantment Level 4_
 
 **Casting Time:** Action

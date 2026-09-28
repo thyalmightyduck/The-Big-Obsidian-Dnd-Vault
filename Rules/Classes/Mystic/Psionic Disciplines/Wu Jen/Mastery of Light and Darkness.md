@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You claim dominion over light and darkness with your mind.
 
 **Psychic Focus.** While focused on this discipline, natural and magical darkness within 30 feet of you has no effect on your vision.

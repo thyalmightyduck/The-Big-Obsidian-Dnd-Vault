@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Sage
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

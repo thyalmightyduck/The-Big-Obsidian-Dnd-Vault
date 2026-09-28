@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 4 Divination (chronomancy)_
 
 **Casting Time:** Action

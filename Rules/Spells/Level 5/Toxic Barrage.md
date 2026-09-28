@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 
 _Level 5 Conjuration_
 

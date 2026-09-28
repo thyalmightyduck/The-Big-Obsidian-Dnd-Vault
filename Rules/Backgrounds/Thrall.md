@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Thrall
 
 - **Ability Scores:** Constitution, Wisdom, Charisma

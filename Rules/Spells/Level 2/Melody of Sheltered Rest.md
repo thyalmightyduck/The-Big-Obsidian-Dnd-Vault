@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Melody of Sheltered Rest
 *Level 2 Abjuration*
 ___

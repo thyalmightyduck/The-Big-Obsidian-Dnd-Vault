@@ -1,4 +1,4 @@
-#Template 
+
 > [!infobox]
 > # Ring Of Silent Steps
 > ![[Ring Of Silent Steps BGR PNG.png|cover hsmall]]

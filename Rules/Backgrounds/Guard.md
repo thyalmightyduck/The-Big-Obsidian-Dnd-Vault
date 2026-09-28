@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Guard
 
 - **Ability Scores:** Strength, Intelligence, Wisdom

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Pugilist
 ## The Pugilist Class (2024)
 

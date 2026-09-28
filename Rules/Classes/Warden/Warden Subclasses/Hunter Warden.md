@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hunter Warden
 ## The Lord of the Rings Roleplaying:
 

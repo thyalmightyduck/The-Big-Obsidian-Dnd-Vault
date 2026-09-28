@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: EFA
 - Creature Type: Humanoid
     

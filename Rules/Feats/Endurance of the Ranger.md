@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Endurance of the Ranger
 
 Virtues of the Rangers of the North Feat (Prerequisite: Ranger of the North Culture)

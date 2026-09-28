@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Talons of the Eagle
 *Level 1 Transmutation*
 ___

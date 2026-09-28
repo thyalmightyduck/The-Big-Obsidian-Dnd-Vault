@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Child of the Sun
 
 Origin Feat

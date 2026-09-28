@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Calling Card
 *Illusion Cantrip*
 ___

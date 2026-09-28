@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Origami Mage Wizard
 ## Obojima: Tales from the Tall Grass
 

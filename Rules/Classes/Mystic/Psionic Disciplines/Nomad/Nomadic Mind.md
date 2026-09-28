@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You dispatch part of your psyche into the noosphere, the collective vista of minds and knowledge possessed by living things.
 
 **Psychic Focus.** Whenever you focus on this discipline, you choose one skill or tool and have proficiency with it until your focus ends. Alternatively, you gain the ability to read and write one language of your choice until your focus ends.

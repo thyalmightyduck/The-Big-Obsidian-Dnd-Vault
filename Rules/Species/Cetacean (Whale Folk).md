@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits:
 ## The Mithral Canvas
 **Creature Type:** Humanoid

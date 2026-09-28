@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Inquisitor
 
 - **Skill Proficiencies:** Investigation, Religion

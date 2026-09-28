@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Backlash
 *Level 4 Abjuration*
 ___

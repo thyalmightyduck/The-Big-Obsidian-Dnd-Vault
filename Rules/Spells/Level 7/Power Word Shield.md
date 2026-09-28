@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Power Word Shield
 *Level 7 Abjuration*
 ___

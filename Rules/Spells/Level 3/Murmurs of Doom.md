@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Murmurs of Doom
 *Level 3 Necromancy*
 ___

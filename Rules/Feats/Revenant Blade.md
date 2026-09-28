@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Revenant Blade
 
 Prerequisite: Elf

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Feathren
 
 - **Creature Type:** Humanoid

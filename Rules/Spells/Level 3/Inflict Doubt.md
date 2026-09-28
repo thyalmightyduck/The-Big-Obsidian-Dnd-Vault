@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Inflict Doubt
 *Level 3 Enchantment*
 ___

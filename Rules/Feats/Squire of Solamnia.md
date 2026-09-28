@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Squire of Solamnia
 
 Prerequisite: Dragonlance Campaign;  Fighter,  Paladin, or Knight of Solamnia

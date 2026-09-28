@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # College of the Fury Bard 
 ## Chronicles of Eberron
 

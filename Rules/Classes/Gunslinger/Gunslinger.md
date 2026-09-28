@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Gunslinger: The Gunslinger Class: Valda’s Spire Of Secrets:
 
 | Level | Proficiency Bonus | Features                                                 | Risk Dice | Weapon Mastery |

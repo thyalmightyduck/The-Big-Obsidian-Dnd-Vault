@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Confidence
 
 Common Virtues Feat

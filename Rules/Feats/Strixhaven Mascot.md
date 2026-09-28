@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Strixhaven Mascot
 
 Prerequisite: Level 4+, Strixhaven Initiate

@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Javelin]], Uncommon*
 **Weapon:** 1d6 Piercing [[Simple Weapons]], [[Melee Weapons]]

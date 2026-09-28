@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 
 # Path of the Wild Heart Barbarian: Player’s Handbook (2024):
 

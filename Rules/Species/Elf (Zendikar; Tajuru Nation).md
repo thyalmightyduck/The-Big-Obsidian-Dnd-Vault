@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Elf (Zendikar; Tajuru Nation)
 
 - **Ability Scores:** Wisdom +2; Charisma +1

@@ -1,8 +1,7 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Rare
+  - magicitem
+  - DMG24
 ---
 [[Medium Armor]] ([[Chain Shirt]]), Rare
 20 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Shadow Sorcery Sorcerer
 ## Ravenloft: The Horrors Within
 

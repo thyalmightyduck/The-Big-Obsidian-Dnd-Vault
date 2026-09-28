@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Serpent Monk
 ## Sebastian Crowe’s Guide to Drakkenheim
 

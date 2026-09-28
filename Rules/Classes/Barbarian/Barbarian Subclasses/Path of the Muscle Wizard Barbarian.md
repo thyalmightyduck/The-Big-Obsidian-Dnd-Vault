@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Muscle Wizard Barbarian
 ## Valda’s Spire of Secrets
 

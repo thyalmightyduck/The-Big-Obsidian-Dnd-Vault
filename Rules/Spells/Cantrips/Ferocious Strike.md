@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ferocious Strike
 *Biomancy Cantrip*
 ___

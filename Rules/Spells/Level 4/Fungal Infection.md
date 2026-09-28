@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fungal Infection
 *Level 4 Biomancy*
 ___

@@ -1,13 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Ranged
-  - Range
-  - Ammunition
-  - Loading
-  - MasterySlow
+{}
 ---
 **Weapon:** 1d8 Piercing, Simple Weapons, Ranged Weapons
 **Properties:** Ammunition (Range 80/320 ft.; [[Bolt]]), Loading, Two-Handed

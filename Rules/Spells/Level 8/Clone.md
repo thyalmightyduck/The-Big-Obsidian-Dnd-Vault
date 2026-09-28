@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Clone
 *Level 8 Necromancy*
 ___

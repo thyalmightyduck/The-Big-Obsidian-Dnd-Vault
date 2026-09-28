@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Light Hammer]], Uncommon*
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon

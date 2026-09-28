@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Daywalker
 
 Kindred Feat (Prerequisite:  Kindred)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Open Hand Monk
 ## Player’s Handbook (2014):
 

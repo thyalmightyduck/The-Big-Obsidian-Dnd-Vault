@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Giantkin
 
 - **Creature Type:** Humanoid

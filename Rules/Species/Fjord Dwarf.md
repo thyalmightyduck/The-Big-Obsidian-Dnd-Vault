@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Fjord Dwarf
 
 - **Creature Type:** Humanoid

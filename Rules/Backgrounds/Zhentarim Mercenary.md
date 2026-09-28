@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Zhentarim Mercenary
 
 - **Ability Scores:** Strength, Dexterity, Charisma

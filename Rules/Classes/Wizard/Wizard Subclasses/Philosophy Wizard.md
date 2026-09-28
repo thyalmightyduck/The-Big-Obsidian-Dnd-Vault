@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Philosophy Wizard
 ## The Crooked Moon (2014)
 

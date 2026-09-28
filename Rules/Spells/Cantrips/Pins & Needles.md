@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Pins & Needles
 *Biomancy Cantrip*
 ___

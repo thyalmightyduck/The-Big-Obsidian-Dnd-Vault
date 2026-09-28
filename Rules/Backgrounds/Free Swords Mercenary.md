@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Free Swords Mercenary
 
 - **Ability Scores:** Strength, Dexterity, Constitution

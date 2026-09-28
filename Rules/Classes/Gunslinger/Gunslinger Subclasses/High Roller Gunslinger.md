@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # High Roller Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 

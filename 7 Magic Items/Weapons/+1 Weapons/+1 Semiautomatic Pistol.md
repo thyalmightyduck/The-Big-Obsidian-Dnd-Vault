@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Semiautomatic Pistol]], Uncommon*
 **Weapon:** 2d6 Piercing, Modern, Martial Weapon, Ranged Weapon, Firearm

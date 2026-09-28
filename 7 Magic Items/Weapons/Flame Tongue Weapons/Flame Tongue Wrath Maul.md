@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Wrath Maul]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Bludgeoning, Advanced Weapon, Melee Weapon

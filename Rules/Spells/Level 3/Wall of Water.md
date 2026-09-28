@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wall of Water
 *Level 3 Evocation*
 ___

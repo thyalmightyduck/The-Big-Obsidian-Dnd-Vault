@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Misfortune Bringer Rogue
 ## Grim Hallow: Player’s Guide (2024)
 

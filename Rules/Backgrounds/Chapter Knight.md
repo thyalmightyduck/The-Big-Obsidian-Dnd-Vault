@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Chapter Knight
 
 - **Ability Scores:** Strength, Wisdom, Charisma

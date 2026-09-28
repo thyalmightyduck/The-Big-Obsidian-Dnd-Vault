@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Noble (Knight)
 
 - **Skill Proficiencies:** History, Persuasion

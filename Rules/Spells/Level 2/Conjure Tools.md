@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Tools
 *Level 2 Conjuration*
 ___

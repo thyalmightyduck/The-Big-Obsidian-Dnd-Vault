@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 As a student of psionic power, you perceive the potential energy that flows through all things. You reach out with your mind, transforming the potential into the actual. Objects and creatures move at your command.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Strength checks.

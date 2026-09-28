@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Clasp Member (Myriad Operative)
 
 - **Skill Proficiencies:** Deception, plus your choice of Sleight of Hand or Stealth

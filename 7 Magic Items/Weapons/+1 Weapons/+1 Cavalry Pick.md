@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Cavalry Pick]]), Uncommon*
 **Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon

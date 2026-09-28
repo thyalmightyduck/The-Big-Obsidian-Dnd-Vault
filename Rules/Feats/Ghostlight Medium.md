@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Ghostlight Medium
 
 Origin Feat

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Peace Domain Cleric
 ## Tasha’s Cauldron of Everything:
 

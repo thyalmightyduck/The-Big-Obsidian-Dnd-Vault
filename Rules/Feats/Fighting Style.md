@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fighting Style
 
 Beyond 10th Level Feat

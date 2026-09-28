@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Goblin (Ixalan)
 
 - **Ability Scores:** Dexterity +2

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Assisted Aim
 *Level 1 Enchantment*
 ___

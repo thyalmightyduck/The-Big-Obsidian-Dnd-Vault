@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## The Grief of Azanulbizar
 
 - **Skill Proficiencies.** Hunting, Intimidation

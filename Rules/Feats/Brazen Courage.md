@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Brazen Courage
 
 General Feat (Prerequisite: Level 4+)

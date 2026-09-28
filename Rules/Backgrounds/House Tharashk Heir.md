@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## House Tharashk Heir
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

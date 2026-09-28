@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Gloom Stalker Ranger
 ## Player’s Handbook (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Disrupt the Wyrd
 *Level 2 Abjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Athlete
 
 - **Skill Proficiencies:** Acrobatics, Athletics

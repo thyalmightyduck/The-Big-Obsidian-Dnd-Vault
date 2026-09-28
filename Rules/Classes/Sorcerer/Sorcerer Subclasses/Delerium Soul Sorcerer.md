@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Delerium Soul Sorcerer
 ## Sebastian Crowe’s Guide to Drakkenheim
 

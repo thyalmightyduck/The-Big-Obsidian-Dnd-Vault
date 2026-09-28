@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Beast Bond
 *Level 1 Divination*
 ___

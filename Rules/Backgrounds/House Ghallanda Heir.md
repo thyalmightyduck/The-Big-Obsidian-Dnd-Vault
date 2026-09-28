@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## House Ghallanda Heir
 
 - **Ability Scores:** Dexterity, Wisdom, Charisma

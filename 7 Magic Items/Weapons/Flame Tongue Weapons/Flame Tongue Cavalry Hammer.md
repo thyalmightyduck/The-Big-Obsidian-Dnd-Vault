@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Cavalry Hammer]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Melee Weapon

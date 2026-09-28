@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Vermin Lord Ranger 
 ## Grim Hallow: Player’s Guide (2024)
 

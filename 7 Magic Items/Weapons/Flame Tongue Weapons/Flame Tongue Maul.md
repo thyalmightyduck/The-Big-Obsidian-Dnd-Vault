@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Maul]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Martial Weapon, Melee Weapon

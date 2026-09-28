@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Aura of Desecration
 *Level 4 Abjuration*
 ___

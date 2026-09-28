@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Ancients Paladin
 ## Player’s Handbook (2024)
 

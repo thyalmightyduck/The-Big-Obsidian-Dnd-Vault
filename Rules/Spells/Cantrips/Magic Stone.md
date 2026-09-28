@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Magic Stone
 *Transmutation Cantrip*
 ___

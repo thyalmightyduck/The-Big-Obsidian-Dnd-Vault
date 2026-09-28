@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 Your mind becomes one with elemental water, attuning your thoughts to its ebb and flow.
 
 **Psychic Focus.** While focused on this discipline, you have a swimming speed equal to your walking speed, and you can breathe underwater.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fortune of the Thaumaturge
 
 Origin Feat

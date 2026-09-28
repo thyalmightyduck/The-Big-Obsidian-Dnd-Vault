@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Weapon-Craft
 
 Crafting Feat

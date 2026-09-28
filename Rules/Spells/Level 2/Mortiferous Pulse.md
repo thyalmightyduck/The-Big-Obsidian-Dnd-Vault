@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mortiferous Pulse
 *Level 2 Biomancy*
 ___

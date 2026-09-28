@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Grave Keeper
 
 Origin Feat

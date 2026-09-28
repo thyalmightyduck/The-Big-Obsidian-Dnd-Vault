@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Purple Dragon Rook
 
 Origin Feat

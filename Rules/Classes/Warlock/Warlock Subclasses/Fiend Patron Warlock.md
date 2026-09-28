@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Fiend Patron Warlock
 ## Player’s Handbook (2024)
 

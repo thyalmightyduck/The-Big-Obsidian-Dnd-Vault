@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Symbiotic Being
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Totem Warrior Barbarian: Player’s Handbook (2014):
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

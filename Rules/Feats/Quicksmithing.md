@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Quicksmithing
 
 Prerequisite: Intelligence 13+

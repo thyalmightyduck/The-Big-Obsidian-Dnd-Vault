@@ -1,11 +1,5 @@
 ---
-tags:
-  - Simple
-  - Ranged
-  - Range
-  - Weapon
-  - Ammunition
-  - MasterySlow
+{}
 ---
 **Weapon:** 1d4 Bludgeoning, Simple Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 30/120ft.; Sling Bullet), 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # College of the Dirge Singer Bard 
 ## Exploring Eberron (2024)
 

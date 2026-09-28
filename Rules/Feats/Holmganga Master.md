@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Holmganga Master
 
 General Feat (Prerequisite: Level 4+, Dueling Feat)

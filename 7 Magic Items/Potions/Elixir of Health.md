@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Potion
-  - Rare
-  - DMG24
+  - magicitem
 ---
 *Potion, Rare*
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Blade Breaker Fighter
 ## Grim Hallow: Player Pack 
 

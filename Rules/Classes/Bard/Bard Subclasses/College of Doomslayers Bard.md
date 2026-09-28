@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # College of Doomslayers Bard
 ## Sebastian Crowe’s Guide to Drakkenheim
 

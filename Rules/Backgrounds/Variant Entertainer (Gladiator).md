@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Entertainer (Gladiator)
 
 - **Skill Proficiencies:** Acrobatics, Performance

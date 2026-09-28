@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 
 # Path of Wild Magic Barbarian: Tasha’s Cauldron of Everything:
 

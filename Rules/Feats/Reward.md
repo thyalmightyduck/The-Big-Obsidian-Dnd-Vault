@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Reward
 
 Beyond 10th Level Feat

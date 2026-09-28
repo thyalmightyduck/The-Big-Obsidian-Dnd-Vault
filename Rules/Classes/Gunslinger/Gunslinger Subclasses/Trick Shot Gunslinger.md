@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Trick Shot Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 

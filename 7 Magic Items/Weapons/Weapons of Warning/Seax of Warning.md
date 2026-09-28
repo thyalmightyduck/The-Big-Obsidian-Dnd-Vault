@@ -1,3 +1,7 @@
+---
+tags:
+  - magicitem
+---
 *Weapon [[Seax]], Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon
 **Properties:** Finesse, Light

@@ -1,11 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Advanced
-  - Melee
-  - Finesse
-  - Light
-  - MasterySwift
+{}
 ---
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Finesse, Light

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Secret Agent Gunslinger
 ## The Gunslinger Class: Valda’s Spire of Secrets
 

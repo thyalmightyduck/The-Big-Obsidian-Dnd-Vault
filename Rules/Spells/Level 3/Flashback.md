@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Flashback
 *Level 3 Divination (chronomancy)*
 ___

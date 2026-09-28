@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Pioneer
 
 - **Ability Scores:** Strength, Constitution, Wisdom

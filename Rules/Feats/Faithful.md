@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Faithful
 
 Origin Feat

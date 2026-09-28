@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Depth Charge
 *Level 3 Evocation*
 ___

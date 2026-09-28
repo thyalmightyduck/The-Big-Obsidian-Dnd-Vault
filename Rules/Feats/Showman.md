@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Showman
 
 General Feat (Prerequisite: Level 4+, Charisma 13+)

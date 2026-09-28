@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Dual Shot
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

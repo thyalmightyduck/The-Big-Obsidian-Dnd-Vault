@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the High Seraph
 
 Epic Boon Feat (Prerequisite: Level 19+, Seraph Transformation)

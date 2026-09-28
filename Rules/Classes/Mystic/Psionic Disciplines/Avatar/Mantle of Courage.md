@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You focus your mind on courage, radiating confidence and bravado to your allies.
 
 **Psychic Focus.** While focused on this discipline, you and allies within 10 feet of you who can see you have advantage on saving throws against being frightened.

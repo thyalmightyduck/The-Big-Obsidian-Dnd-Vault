@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Ring
-  - Uncommon
+  - magicitem
 ---
 *Ring, Uncommon*
 - - - 

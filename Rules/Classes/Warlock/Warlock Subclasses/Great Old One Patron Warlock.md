@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Great Old One Patron Warlock
 ## Player’s Handbook (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Community Domain Cleric
 ## Humblewood Campaign Setting:
 

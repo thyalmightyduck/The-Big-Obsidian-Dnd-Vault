@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Skywrite
 *Level 2 Transmutation*
 ___

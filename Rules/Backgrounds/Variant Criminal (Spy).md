@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Criminal (Spy)
 
 - **Skill Proficiencies:** Deception, Stealth

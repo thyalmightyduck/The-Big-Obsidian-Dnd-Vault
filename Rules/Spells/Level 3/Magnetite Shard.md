@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Magnetite Shard
 *Level 3 Evocation*
 ___

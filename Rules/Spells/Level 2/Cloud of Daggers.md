@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Cloud of Daggers
 *Level 2 Conjuration*
 ___

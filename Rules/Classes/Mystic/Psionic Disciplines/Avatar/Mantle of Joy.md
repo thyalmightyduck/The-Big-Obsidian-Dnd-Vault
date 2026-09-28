@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You tap into the joy within you, radiating it outward in soothing, psychic energy that brings hope and comfort to creatures around you.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Charisma (Persuasion) checks.

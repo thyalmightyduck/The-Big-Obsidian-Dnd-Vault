@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Regenerative Hull
 *Level 5 Abjuration*
 ___

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Revolver]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Simple, Ranged, Firearm

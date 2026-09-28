@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # School of Evocation Wizard
 ## Player’s Handbook (2014)
 

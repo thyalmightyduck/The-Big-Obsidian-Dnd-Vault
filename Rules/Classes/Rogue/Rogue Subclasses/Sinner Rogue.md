@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Sinner Rogue
 ## The Crooked Moon (2024)
 

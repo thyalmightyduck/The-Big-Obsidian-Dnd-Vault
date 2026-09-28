@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Icewalker
 *Level 1 Transmutation*
 ___

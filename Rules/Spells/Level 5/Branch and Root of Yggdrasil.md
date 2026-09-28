@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Branch and Root of Yggdrasil
 *Level 5 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Jam Weapon
 *Level 2 Transmutation*
 ___

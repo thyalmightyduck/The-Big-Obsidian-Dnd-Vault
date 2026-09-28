@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Storm Herald Barbarian: Player’s Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

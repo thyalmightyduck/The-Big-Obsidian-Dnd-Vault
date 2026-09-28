@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You have learned how to channel psionic energy into your attacks, lending them devastating power.
 
 **Psychic Focus.** Whenever you focus on this discipline, choose one weapon you’re holding or your unarmed strike. When you attack with it while focused on this discipline, its damage is psychic and magical, rather than its normal damage type. Until you reach 6th level as a mystic, you don’t add your Strength or Dexterity modifier to the psychic attack’s damage rolls.

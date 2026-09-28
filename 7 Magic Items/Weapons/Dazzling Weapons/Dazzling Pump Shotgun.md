@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Pump Shotgun]], Rare (Requires Attunement)*
 **Weapon:** 2d8 Piercing Martial Weapon, Ranged Weapon, Firearm 

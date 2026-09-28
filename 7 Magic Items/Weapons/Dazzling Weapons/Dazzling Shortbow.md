@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Shortbow]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Piercing Simple Weapon, Ranged Weapon

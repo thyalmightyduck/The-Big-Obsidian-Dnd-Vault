@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Revelry Pirate (Sailor)
 
 - **Skill Proficiencies:** Athletics, Perception

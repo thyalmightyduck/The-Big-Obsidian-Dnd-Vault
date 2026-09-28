@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Keeper's Vault
 *Level 2 Necromancy*
 ___

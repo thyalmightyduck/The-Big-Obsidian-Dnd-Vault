@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Guards and Wards
 *Level 6 Abjuration*
 ___

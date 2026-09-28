@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Field Medic
 
 You have been specially trained in magical triage and are able to identify the signs of shock and fatigue in those suffering from injuries. You are always ready to provide aid to those in need. You gain the following benefits:

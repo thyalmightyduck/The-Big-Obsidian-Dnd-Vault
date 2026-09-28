@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Wicker Druid
 ## The Crooked Moon (2024):
 

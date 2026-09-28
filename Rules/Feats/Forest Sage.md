@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Forest Sage
 
 Prerequisite:  Druid or  Wizard

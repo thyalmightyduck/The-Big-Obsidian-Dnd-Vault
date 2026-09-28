@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - TwoHanded
-  - MasteryPush
+{}
 ---
 **Weapon:** 1d8 Bludgeoning, [[Simple Weapons]], [[Melee Weapons]]
 **Properties:** Two-Handed

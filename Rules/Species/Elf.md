@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits (PHB’24)
 **Creature Type:** [[Humanoid]]
 **Size:** Medium (about 5-6 feet tall)

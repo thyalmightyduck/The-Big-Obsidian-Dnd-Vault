@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Call Deity
 *Level 8 Conjuration*
 ___

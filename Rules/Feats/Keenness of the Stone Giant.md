@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Keenness of the Stone Giant
 
 Prerequisite: Level 4+, strike of the giants (stone strike)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Captivate Undead
 *Level 1 Necromancy*
 ___

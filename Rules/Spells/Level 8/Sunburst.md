@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sunburst
 *Level 8 Evocation*
 ___

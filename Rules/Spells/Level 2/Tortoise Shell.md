@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tortoise Shell
 *Level 2 Abjuration*
 ___

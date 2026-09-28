@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Witherbloom Student
 
 - **Skill Proficiencies:** Nature, Survival

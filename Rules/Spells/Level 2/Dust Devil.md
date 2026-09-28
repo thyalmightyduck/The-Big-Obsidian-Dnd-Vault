@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dust Devil
 *Level 2 Conjuration*
 ___

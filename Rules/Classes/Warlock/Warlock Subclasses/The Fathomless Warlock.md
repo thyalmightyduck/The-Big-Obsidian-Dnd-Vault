@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Fathomless Warlock
 ## Tasha’s Cauldron of Everything
 

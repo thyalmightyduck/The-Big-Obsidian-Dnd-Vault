@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # School of Conjuration Wizard
 ## Player’s Handbook (2014):
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant City Watch (Investigator)
 
 - **Skill Proficiencies:** Insight, Investigation

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Whip]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Slashing Martial Weapon, Melee Weapon

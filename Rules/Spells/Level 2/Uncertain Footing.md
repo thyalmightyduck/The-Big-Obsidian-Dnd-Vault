@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Uncertain Footing
 *Level 2 Illusion*
 ___

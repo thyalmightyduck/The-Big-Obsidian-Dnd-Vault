@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Strength Domain Cleric
 ## Plane Shift: Amonkhet
 

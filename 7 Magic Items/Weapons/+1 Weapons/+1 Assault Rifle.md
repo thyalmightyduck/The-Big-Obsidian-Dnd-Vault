@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Assault Rifle]]), Uncommon*
 **Weapon:** 2d6 Piercing Martial Weapon, Ranged Weapon, Firearm

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Piss and Vinegar Pugilist
 ## The Pugilist Class (2024)
 

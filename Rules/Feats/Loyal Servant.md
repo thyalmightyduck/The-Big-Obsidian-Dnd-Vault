@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Loyal Servant
 
 Kindred Feat (Prerequisite: Level 7+  Kindred)

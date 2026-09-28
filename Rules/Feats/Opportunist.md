@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Opportunist
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

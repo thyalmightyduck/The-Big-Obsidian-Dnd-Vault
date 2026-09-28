@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Order Domain Cleric
 ## Tasha’s Cauldron of Everything:
 

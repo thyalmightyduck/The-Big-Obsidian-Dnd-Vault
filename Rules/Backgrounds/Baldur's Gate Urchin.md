@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Urchin
 
 - **Skill Proficiencies:** Sleight of Hand, Stealth

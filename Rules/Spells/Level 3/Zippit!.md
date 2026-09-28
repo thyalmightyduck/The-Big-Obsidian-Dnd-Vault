@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Zippit!
 *Level 3 Biomancy*
 ___

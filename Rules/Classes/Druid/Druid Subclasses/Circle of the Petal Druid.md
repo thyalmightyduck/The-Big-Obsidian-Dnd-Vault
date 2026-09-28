@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Circle of the Petal Druid
 ## Obojima: Tales from the Tall Grass:
 

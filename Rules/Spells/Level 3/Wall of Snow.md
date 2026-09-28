@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wall of Snow
 *Level 3 Evocation*
 ___

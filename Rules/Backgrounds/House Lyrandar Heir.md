@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## House Lyrandar Heir
 
 - **Ability Scores:** Strength, Dexterity, Charisma

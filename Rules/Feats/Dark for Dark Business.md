@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Dark for Dark Business
 
 Virtues of the Dwarves Feat (Prerequisite: Dwarven Culture)

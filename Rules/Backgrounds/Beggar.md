@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Beggar
 
 - **Ability Scores:** Strength, Dexterity, Wisdom

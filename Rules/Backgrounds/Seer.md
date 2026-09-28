@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Seer
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

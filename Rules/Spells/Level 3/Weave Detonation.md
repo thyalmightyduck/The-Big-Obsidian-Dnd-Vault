@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Weave Detonation
 *Level 3 Divination*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Mordenkainen's Tome of Foes 
 **Ability Scores:** Charisma +2; Dexterity +1
 **Creature Type:** [[Humanoid]]

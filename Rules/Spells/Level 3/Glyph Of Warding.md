@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Abjuration Level 3_
 
 **Casting Time:** 1 hour

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Naga
 
 - **Ability Scores:** Constitution +2; Intelligence +1

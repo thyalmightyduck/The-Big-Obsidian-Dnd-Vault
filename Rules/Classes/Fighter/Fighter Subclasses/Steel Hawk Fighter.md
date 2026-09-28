@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Steel Hawk Fighter
 ## The Griffon’s Saddlebag, Book 2
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Architect of Ruin Illrigger
 ## The Illrigger Revised
 

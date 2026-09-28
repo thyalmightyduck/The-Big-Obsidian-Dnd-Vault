@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Sneak Attack
 
 Beyond 10th Level Feat

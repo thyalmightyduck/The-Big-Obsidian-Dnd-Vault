@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Divination Level 1_
 
 **Casting Time:** 1 minute or Ritual

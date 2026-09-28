@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Twilight Domain Cleric
 ## Tasha’s Cauldron of Everything:
 

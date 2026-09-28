@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Whitestone Rifle Corps (Grey Hunter)
 
 - **Skill Proficiencies:** Your choice of two of the following: Athletics, Perception, or Survival

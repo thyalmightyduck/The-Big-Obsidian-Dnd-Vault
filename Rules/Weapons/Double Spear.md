@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Double
-  - Momentum
-  - TwoHanded
-  - MasterySet
+{}
 ---
 **Weapon:** 1d6 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Double, Momentum (1d10), Two‑Handed

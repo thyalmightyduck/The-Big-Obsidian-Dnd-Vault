@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Astral Domain Cleric
 ## The Griffon’s Saddlebag, Book 1 (2024)
 

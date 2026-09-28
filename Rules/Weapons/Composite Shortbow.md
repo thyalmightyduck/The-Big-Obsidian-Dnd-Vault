@@ -1,13 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Ranged
-  - Range
-  - Ammunition
-  - TwoHanded
-  - MasteryStrongDraw
+{}
 ---
 **Weapon:** 1d6 Piercing Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 100/400 ft.; Arrow), Two‑Handed

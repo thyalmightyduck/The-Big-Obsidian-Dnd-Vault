@@ -1,10 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Rare
-  - Attunement
-  - Homebrew
+  - magicitem
 ---
 
 > [!infobox]

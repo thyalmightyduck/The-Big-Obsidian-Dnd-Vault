@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Thin-Blooded
 
 Origin Feat (Prerequisite: Can Be Chosen in Place of Any Origin Feat)

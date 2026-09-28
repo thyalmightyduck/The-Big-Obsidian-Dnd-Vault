@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Drizzle
 *Conjuration Cantrip*
 ___

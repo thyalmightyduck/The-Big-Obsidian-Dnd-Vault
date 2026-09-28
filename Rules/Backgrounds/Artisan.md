@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Artisan
 
 - **Ability Scores:** Strength, Dexterity, Intelligence

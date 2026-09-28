@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Outlands Envoy
 
 Prerequisite: Level 4+, scion of the outer planes (the outlands)

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Haunted One
 
 - **Ability Scores:** Constitution, Wisdom, Charisma

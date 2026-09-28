@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Grung
 
 - **Ability Scores:** Dexterity +2; Constitution +1

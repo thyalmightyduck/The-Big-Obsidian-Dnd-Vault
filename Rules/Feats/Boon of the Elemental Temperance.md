@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Elemental Temperance
 
 Epic Boon Feat (Prerequisite: Level 19+, Primordial Transformation)

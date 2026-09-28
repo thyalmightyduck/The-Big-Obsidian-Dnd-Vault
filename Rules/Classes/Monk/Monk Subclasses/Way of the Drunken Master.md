@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Drunken Master
 ## Xanathar’s Guide to Everything
 

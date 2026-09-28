@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## A Penetrating Gaze
 
 - **Skill Proficiencies.** Insight, Investigation

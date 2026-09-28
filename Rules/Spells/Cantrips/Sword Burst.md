@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sword Burst
 *Conjuration Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 _Virtues of the Men of Bree Feat (Prerequisite: Men of Bree or Bree-Hobbit Culture)_
 
 You have mastered the art of smoking pipe-weed, and you always carry your [[pipe]] with you, as well as a bag of tobacco, for using it grants you patience and clarity of mind.

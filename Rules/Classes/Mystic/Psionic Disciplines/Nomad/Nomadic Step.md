@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You exert your mind on the area around you, twisting the intraplanar pathways you perceive to allow instantaneous travel.
 
 **Psychic Focus.** After you teleport on your turn while focused on this discipline, your walking speed increases by 10 feet until the end of the turn, as you are propelled by the magic of your teleportation. You can receive this increase only once per turn.

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Celestial Patron Warlock
 ## Player’s Handbook (2024)
 

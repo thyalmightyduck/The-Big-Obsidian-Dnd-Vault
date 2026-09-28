@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Hive Druid
 ## Heliana’s Guide to Monster Hunting
 

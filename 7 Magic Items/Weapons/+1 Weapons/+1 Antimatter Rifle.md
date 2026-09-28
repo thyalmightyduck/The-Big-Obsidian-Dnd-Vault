@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Antimatter Rifle]]), Uncommon*
 **Weapon:** 6d8 Necrotic Futuristic, Martial Weapon, Ranged Weapon, Firearm

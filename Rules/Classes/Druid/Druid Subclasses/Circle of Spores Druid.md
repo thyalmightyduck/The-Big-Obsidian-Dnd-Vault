@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Spores Druid
 ## Tasha’s Cauldron of Everything:
 

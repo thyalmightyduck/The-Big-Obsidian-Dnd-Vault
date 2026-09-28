@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Snare
 *Level 1 Abjuration*
 ___

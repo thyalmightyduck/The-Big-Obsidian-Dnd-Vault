@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Bard: Tal’Dorei Campaign Setting Reborn:
 
 | Level | [[Proficiency Bonus]] | Features                                | Bardic Die | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |

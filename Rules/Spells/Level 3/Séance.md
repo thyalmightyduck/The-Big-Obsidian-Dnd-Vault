@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Necromancy
   - VSSPP2
 aliases:
   - Seance

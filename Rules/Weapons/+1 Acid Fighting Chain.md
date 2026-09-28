@@ -1,14 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Melee
-  - Double
-  - Finesse
-  - Reach
-  - TwoHanded
-  - MasteryDisarming
+{}
 ---
 **Weapon:** 1d4 Bludgeoning Advanced Weapon, Melee Weapon
 **Properties:** Alt. 1d6, Double, Finesse, Reach, Two‑Handed

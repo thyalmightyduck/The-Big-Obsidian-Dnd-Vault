@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wall of Thorns
 *Level 6 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Crimson Sorcery Sorcerer
 ## The Crooked Moon (2024)
 

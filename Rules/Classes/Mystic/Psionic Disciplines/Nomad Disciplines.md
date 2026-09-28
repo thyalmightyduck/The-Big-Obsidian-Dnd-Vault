@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 - [[Nomadic Arrow]]
 - [[Nomadic Chameleon]]
 - [[Nomadic Mind]]

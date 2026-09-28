@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Primordial Archer Ranger
 ## Grim Hallow: Player’s Guide (2024)
 

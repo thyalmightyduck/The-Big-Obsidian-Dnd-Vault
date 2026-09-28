@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mordenkainen's Magnificent Mansion
 *Level 7 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Courtier
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

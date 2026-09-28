@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ceremony
 *Level 1 Abjuration*
 ___

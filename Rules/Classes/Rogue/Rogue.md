@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Ranger: Player’s Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Sneak Attack |

@@ -1,8 +1,6 @@
 ---
 tags:
   - RHW
-  - RavenloftCampaign
-  - DarkGiftFeat
   - Feat
 ---
 _Dark Gift Feat (Prerequisite: Ravenloft Campaign)_

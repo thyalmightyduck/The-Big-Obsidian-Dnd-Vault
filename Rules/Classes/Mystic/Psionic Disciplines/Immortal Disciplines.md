@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 - [[Adaptive Body]]
 - [[Bestial Form]]
 - [[Brute Force]]

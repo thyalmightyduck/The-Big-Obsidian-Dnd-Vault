@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sword of Judgment
 *Level 5 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hunter Ranger
 ## Player’s Handbook (2024)
 

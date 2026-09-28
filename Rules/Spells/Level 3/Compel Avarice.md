@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Compel Avarice
 *Level 3 Enchantment*
 ___

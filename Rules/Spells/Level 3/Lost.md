@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Lost
 *Level 3 Enchantment*
 ___

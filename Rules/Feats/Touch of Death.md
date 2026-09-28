@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Touch of Death
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

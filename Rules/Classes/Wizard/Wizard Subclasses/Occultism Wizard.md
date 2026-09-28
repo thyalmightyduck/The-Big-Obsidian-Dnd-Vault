@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Occultism Wizard
 ## The Crooked Moon (2014):
 

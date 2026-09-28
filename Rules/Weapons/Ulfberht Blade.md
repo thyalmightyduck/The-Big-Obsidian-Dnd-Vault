@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Melee
-  - Versatile
-  - MasterGraze
-  - MasterySap
+{}
 ---
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon
 **Properties:** Versatile (1d10

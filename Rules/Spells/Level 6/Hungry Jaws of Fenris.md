@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Hungry Jaws of Fenris
 *Level 6 Transmutation*
 ___

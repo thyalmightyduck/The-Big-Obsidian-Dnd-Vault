@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Psionic Nomad
 
 You learn to fold and manipulate space with your mind, granting you the following benefits:

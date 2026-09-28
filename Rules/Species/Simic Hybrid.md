@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Guildmasters' Guide to Ravnica
 **Ability Scores:** Constitution +2; Choose any other +1
 **Creature Type:** [[Humanoid]]

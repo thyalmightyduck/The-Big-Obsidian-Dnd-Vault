@@ -1,7 +1,5 @@
 ---
-tags:
-  - Item
-  - Ammunition
+{}
 ---
 _Ammunition_
 _3 GP, 2 lb._

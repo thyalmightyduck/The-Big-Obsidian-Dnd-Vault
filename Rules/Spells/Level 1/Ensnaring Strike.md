@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Level 1_
 
 **Casting Time:** Bonus action, which you take immediately after hitting a creature with a weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Envenom
 *Level 1 Conjuration*
 ___

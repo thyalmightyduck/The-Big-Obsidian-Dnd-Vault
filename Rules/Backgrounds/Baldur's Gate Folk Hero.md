@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Folk Hero
 
 - **Skill Proficiencies:** Animal Handling, Survival

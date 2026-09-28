@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Virtue
 
 Beyond 10th Level Feat

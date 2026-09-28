@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Discipline Acquisition (Dominate)
 
 Kindred Feat (Prerequisite: Level 4+  Kindred)

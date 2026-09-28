@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Water Whip
 *Transmutation Cantrip*
 ___

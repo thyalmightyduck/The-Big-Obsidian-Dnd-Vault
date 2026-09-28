@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Sangromantic Initiate
 
 General Feat (Prerequisite: Level 4+; Spellcasting or Pact Magic Feature)

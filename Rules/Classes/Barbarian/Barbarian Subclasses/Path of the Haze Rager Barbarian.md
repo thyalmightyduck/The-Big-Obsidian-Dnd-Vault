@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Haze Rager Barbarian
 ## Sebastian Crowe’s Guide to Drakkenheim
 

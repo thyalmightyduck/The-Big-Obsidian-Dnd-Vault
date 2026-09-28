@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Van Richten's Guide to Ravenloft
 **Ability Scores:** Choose one of the following:
 - Increase one ability by +2 and one ability by +1

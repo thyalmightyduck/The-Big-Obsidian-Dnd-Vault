@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Dwarf (Kaladesh)
 
 - **Ability Scores:** Constitution +2; Wisdom +1

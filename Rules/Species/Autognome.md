@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Astral Adventurer’s Guide
 **Ability Scores:** Choose one of the following:

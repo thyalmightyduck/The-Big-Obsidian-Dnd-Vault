@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 5 Transmutation_
 
 **Casting Time:** 8 hours

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Trail Warden Ranger
 ## Cthulhu by Torchlight
 

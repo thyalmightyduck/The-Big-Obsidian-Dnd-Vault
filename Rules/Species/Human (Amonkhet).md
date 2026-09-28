@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Human (Amonkhet)
 
 - **Ability Scores:** Choose any two unique +1

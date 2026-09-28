@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Too Many Paths to Tread
 
 - **Skill Proficiencies.** Athletics, Explore

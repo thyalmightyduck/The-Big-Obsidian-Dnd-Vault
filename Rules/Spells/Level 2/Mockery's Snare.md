@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mockery's Snare
 *Level 2 Abjuration*
 ___

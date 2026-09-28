@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Mist Wanderer
 
 - **Ability Scores:** Dexterity, Constitution, Wisdom

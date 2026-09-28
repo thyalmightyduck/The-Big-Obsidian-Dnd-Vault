@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 _Virtues of the Men of Bree Feat (Prerequisite: Men of Bree or Bree-Hobbit Culture)_
 
 Bree-ponies are very similar to their owners, the Bree-folk—they don't seem to have anything special compared to their peers in other parts of Middle-earth, and yet some of them display uncommon courage and exceptional memory. You have acquired an unusually brave and intelligent beast that follows you everywhere.

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # The Crooked Moon (2024):
 _Level 2 Necromancy_
 

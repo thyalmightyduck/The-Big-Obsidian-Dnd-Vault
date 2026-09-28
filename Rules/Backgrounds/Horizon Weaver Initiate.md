@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Horizon Weaver Initiate
 
 - **Ability Scores:** Dexterity, Constitution, Wisdom

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greater Mark of Scribing
 
 General Feat (Prerequisite: Level 4+, Mark of Scribing)

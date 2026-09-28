@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oathbreaker Paladin
 ## Dungeon Master’s Guide (2024)
 

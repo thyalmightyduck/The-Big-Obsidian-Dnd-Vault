@@ -1,10 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - MasterySap
+{}
 ---
 **Weapon:** 1d6 Bludgeoning Simple Weapon, Melee Weapon
 **Properties:** 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Songal's Elemental Suffusion
 *Level 5 Transmutation*
 ___

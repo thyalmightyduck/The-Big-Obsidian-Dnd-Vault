@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Monster Slayer Ranger
 ## Xanathar’s Guide to Everything
 

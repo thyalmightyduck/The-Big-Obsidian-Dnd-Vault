@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Conjuration
   - FRHoF
 aliases:
   - Sylunes Viper

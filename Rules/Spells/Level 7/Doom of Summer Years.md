@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Doom of Summer Years
 *Level 7 Transmutation*
 ___

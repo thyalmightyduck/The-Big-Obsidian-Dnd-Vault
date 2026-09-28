@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Nimble Physique
 
 General Feat (Prerequisite: Level 4+, Dexterity 13+)

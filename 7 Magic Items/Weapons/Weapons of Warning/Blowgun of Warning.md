@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Blowgun]], Uncommon (Requires Attunement)*
 **Weapon:** 1 Piercing Martial Weapon, Ranged Weapon

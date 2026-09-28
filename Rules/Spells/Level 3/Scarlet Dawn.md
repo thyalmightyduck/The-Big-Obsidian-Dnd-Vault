@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Scarlet Dawn
 *Level 3 Evocation*
 ___

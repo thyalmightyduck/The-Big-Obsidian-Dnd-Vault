@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Dragon Rifle]], Uncommon*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Ranged Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Bladesinging Wizard
 ## Tasha’s Cauldron of Everything
 

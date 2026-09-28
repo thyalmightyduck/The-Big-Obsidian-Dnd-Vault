@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Entertainer
 
 - **Skill Proficiencies:** Acrobatics, Performance

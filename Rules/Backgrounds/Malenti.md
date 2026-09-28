@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Malenti
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

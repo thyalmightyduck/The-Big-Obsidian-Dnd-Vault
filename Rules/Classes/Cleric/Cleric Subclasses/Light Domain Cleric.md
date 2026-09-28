@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Light Domain Cleric
 ## Player’s Handbook (2024)
 

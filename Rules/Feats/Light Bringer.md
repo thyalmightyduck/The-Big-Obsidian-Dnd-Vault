@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Light Bringer
 
 General Feat (Prerequisite: Level 4+)

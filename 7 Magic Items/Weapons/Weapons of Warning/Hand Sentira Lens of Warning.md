@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Hand Sentira Lens]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Psychic Martial Weapon, Ranged Weapon

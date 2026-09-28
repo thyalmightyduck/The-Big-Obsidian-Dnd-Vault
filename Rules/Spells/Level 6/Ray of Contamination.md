@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ray of Contamination
 *Level 6 Necromancy (contaminated)*
 ___

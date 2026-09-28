@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Supreme Discipline Acquisition (Dominate)
 
 Kindred Feat (Prerequisite: Level 16+  Kindred, Superior Discipline Acquisition (Dominate))

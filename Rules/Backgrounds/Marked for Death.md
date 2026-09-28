@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Marked for Death
 
 - **Ability Scores:** Strength, Dexterity, Constitution

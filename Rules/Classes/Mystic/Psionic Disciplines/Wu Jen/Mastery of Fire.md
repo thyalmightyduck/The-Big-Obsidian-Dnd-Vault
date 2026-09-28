@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You align your mind with the energy of elemental fire.
 
 **Psychic Focus.** While focused on this discipline, you gain resistance to fire damage, and you gain a +2 bonus to rolls for damage.

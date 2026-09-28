@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Strixhaven Initiate
 
 You have studied some magical theory and have learned a few spells associated with Strixhaven University.

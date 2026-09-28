@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Divination Level 9_
 
 **Casting Time:** 1 Minute

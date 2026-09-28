@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 - Ability Scores: Wisdom +1; Charisma +1
     
 - Creature Type: Humanoid

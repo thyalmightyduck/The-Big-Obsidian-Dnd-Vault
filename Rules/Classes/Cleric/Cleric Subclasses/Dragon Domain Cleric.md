@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Dragon Domain Cleric 
 ## Valda’s Spire of Secrets: Player Pack 2
 

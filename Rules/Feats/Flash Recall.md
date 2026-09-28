@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Flash Recall
 
 Prerequisite: Spellcasting feature from a class that prepares spells

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You manipulate the matter that composes your body, drastically reducing your size without surrendering any of your might.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Dexterity(Stealth) checks.

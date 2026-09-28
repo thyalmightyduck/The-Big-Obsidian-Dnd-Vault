@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Wayfarer
 
 - **Ability Scores:** Dexterity, Wisdom, Charisma

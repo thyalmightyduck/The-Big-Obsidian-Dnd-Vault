@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - Finesse
-  - ThrowingString
-  - MasterySlow
+{}
 ---
 **Weapon:** 1d6 Piercing Simple Weapon, Melee Weapon
 **Properties:** Finesse, Thrown (1d8, 30/90 ft.)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Dreams Druid
 ## Druid: Xanathar’s Guide to Everything:
 

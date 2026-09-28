@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Wandslinger
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

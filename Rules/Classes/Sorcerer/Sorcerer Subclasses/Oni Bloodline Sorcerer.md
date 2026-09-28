@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Oni Bloodline Sorcerer
 ## Obojima: Tales from the Tall Grass
 

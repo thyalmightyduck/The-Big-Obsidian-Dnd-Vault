@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Ombrask
 
 - **Ability Scores:** Dexterity +2; Choose any other +1

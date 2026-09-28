@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of Cosmic Balance Monk
 ## Cthulhu by Torchlight
 

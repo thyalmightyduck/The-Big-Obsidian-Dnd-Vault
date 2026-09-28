@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Healing Hands
 
 - **Skill Proficiencies.** Medicine, Travel

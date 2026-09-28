@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You have learned to harvest seeds of despair in a creature’s psyche, wracking it with self-doubt and inaction.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Charisma (Intimidation) checks.

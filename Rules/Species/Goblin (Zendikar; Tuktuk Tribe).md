@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Goblin (Zendikar; Tuktuk Tribe)
 
 - **Ability Scores:** Constitution +2

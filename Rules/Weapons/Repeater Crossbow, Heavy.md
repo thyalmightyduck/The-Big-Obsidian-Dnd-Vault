@@ -1,15 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Advanced
-  - Ranged
-  - Range
-  - Ammunition
-  - Heavy
-  - Magazine
-  - Repeater
-  - TwoHanded
-  - MasteryPush
+{}
 ---
 **Weapon:** 1d10 Piercing, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 100/400 ft.; [[Bolt]]), Heavy, Magazine (9), Repeater, Two‑Handed

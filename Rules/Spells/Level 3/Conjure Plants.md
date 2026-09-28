@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Plants
 *Level 3 Conjuration*
 ___

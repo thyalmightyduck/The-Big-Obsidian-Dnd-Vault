@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Vibrating Humors
 *Level 1 Evocation (sangromancy)*
 ___

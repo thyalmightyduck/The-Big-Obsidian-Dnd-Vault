@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Sword]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing, Martial Weapon, Melee Weapon

@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[War Pick]], Uncommon*
 **Weapon:** 1d8 Piercing, Martial Weapon, Melee Weapon

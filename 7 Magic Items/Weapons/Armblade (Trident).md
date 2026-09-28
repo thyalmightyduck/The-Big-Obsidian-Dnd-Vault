@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Common
-  - Attunement
+  - magicitem
 ---
 *Weapon ([[Trident]]), Common (Requires [[Attunement]] By A [[Warforged]])*
 

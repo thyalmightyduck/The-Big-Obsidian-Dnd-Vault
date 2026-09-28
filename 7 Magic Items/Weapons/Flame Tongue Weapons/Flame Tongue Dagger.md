@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Dagger]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing, Finesse, Light, Thrown (20/60 ft.)

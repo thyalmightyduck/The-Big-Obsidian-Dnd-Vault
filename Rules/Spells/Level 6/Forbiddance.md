@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Forbiddance
 *Level 6 Abjuration*
 ___

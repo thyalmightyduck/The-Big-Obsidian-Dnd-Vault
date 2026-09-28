@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Create Undead
 *Level 6 Necromancy*
 ___

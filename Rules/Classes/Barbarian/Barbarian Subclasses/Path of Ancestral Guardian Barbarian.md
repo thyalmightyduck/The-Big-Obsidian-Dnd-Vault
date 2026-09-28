@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: Xanathar’s Guide to Everything
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

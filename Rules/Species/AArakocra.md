@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits 
 ## Dungeon Master’s Guide 2014:
 **Ability Scores:** Dexterity +2; Wisdom +2

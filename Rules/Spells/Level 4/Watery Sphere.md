@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Watery Sphere
 *Level 4 Conjuration*
 ___

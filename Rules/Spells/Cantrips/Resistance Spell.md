@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Player’s Handbook (2014)
 _Abjuration Cantrip_
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Doom of Poor Fortune
 *Level 1 Necromancy*
 ___

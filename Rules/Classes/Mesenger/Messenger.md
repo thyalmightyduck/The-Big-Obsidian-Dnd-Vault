@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Messenger: The Lord Of The Rings Roleplaying:
 
 

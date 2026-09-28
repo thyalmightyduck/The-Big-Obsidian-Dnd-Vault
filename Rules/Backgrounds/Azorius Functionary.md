@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Azorius Functionary
 
 - **Skill Proficiencies:** Insight, Intimidation

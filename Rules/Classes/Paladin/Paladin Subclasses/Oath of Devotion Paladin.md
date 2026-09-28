@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Devotion Paladin
 ## Player’s Handbook (2024)
 

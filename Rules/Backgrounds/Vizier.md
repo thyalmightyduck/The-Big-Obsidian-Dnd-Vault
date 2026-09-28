@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Vizier
 
 - **Skill Proficiencies:** History, Religion

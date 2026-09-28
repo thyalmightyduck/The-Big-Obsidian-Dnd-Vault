@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mounted Leap
 
 General Feat (Prerequisite: Level 4+; Strength or Dexterity 13+; Proficiency in the Animal Handling skill)

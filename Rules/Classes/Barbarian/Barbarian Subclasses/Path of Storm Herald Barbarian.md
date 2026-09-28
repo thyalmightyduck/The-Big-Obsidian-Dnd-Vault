@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP
 # Barbarian: Xanathar’s Guide to Everything:
 

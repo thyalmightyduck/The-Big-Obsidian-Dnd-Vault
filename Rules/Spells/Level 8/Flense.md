@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Flense
 *Level 8 Necromancy*
 ___

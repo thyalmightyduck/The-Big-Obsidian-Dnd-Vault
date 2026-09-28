@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Tower Guard
 
 - **Skill Proficiencies.** Investigation, Stealth

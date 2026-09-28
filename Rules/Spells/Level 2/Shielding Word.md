@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shielding Word
 *Level 2 Abjuration*
 ___

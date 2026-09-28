@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Player’s Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

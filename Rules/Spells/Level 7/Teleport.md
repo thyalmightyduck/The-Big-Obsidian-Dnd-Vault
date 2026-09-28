@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Conjuration
   - PHB24
 ---
 ## Player’s Handbook 2024 (PHB24):

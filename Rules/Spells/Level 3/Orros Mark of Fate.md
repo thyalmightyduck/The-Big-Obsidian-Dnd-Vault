@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Orros Mark of Fate
 *Level 3 Necromancy*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## House Deneith Heir
 
 - **Ability Scores:** Strength, Constitution, Wisdom

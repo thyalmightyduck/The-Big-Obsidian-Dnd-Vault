@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Players Handbook (2014):
 **Ability Scores:** Constitution +2

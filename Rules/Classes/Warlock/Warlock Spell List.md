@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Cantrips
 - Blade Ward
 - Booming Blade

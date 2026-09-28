@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Magewright
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Gathered Whispers
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

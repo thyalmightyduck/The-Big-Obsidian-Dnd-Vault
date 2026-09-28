@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Flurry
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

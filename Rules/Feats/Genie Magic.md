@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Genie Magic
 
 General Feat (Prerequisite: Level 4+)

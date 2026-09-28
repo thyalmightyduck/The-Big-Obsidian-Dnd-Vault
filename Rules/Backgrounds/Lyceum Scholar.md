@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Lyceum Scholar
 
 - **Skill Proficiencies:** Your choice of two of the following: Arcana, History, or Persuasion

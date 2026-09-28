@@ -1,8 +1,6 @@
 ---
 tags:
   - Spell
-  - Divination
-  - Ritual
   - PHB24
 aliases:
   - Rarys Telepathic Bond

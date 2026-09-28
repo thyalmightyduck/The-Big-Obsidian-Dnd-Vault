@@ -1,8 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Ammunition
+{}
 ---
 *Ammunition*
 *3 SP, 2.4 oz.*

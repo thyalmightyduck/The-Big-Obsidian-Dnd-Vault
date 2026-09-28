@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Wildfire Druid
 ## Tasha’s Cauldron of Everything:
 

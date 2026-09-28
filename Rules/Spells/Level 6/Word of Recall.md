@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Word of Recall
 *Level 6 Conjuration*
 ___

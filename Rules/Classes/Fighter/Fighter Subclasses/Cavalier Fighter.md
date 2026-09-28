@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Cavalier Fighter
 ## Xanathar’s Guide to Everything 
 

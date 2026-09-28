@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Pit Fighter
 
 - **Ability Scores:** Strength, Dexterity, Charisma

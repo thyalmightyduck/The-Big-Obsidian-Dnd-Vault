@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Submachine Gun]], Rare (Requires Attunement)*
 **Weapon:** 2d4 Piercing Martial Weapon, Ranged Weapon, Firearm

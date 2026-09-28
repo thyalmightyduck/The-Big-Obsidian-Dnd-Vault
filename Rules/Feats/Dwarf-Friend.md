@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Dwarf-Friend
 
 Virtues of the Bardings Feat (Prerequisite: Barding Culture)

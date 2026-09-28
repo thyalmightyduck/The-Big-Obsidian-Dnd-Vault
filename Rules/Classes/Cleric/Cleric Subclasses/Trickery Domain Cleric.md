@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Trickery Domain Cleric
 ## Player’s Handbook (2024):
 

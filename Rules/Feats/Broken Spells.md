@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Broken Spells
 
 Virtues of the Dwarves Feat (Prerequisite: Dwarven Culture)

@@ -1,14 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Simple
-  - Ranged
-  - Firearm
-  - Range
-  - Ammunition
-  - Recoil
-  - Reload
-  - MasterySlow
+{}
 ---
 **Weapon:** 2d6 Piercing, Simple, Ranged, Firearm
 **Properties:** Ammunition (Range 30/120 ft.; [[Bullet]]), Firearm, Industrial Era, Recoil, Reload (6 Shots)

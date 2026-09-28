@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Inheritor
 
 - **Skill Proficiencies:** Survival, plus one from among Arcana, History, and Religion

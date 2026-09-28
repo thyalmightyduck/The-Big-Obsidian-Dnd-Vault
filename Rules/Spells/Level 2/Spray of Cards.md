@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Spray of Cards
 *Level 2 Conjuration*
 ___

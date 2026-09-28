@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 4 Conjuration_
 
 **Casting Time:** Bonus action

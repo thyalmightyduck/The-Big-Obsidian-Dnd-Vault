@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - Finesse
-  - Light
-  - MasteryVex
+{}
 ---
 **Weapon:** 1d4 Slashing, Simple Weapon, Melee Weapon
 **Properties:** Finesse, Light

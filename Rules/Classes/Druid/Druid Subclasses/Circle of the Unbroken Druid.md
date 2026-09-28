@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Unbroken Druid
 ## The Griffon’s Saddlebag, Book 1 (2024)
 

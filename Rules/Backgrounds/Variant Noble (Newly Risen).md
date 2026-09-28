@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Noble (Newly Risen)
 
 - **Skill Proficiencies:** History, Persuasion

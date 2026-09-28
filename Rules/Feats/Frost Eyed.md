@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Frost Eyed
 
 General Feat (Prerequisite: Level 4+)

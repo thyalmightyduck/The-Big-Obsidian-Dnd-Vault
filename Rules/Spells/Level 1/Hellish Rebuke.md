@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Evocation Level 1_
 
 **Casting Time:** [[Reaction]], which you take in response to taking damage from a creature that you can see within 60 feet of yourself

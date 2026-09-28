@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Investiture of Wind
 *Level 6 Transmutation*
 ___

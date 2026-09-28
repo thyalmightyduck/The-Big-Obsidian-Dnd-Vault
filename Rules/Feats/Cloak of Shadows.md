@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cloak of Shadows
 
 Kindred Feat (Prerequisite: Level 2+  Kindred)

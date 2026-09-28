@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Dancing Bear Guide
 
 - **Ability Scores:** Strength, Dexterity, Wisdom

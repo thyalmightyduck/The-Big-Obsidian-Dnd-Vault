@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Wilds
 
 Epic Boon Feat (Prerequisite: Level 19+, Lycanthrope Transformation)

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Beast Hunter
 
 - **Ability Scores:** Strength, Dexterity, Intelligence

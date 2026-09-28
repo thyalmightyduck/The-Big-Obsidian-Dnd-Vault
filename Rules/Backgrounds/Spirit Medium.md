@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Spirit Medium
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

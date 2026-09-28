@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Warlike Familiar
 
 General Feat (Prerequisite: Level 4+, Familiar Friend)

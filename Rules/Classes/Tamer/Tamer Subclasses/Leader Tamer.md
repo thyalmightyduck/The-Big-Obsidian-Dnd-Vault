@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Leader Tamer
 ## Heliana’s Guide to Monster Hunting
 

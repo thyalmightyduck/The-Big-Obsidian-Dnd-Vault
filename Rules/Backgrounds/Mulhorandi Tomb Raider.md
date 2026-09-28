@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Mulhorandi Tomb Raider
 
 - **Ability Scores:** Dexterity, Constitution, Intelligence

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Clue
 *Level 1 Divination*
 ___

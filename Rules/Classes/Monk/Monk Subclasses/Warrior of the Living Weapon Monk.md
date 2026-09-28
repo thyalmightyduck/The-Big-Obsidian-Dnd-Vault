@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of the Living Weapon Monk
 ## Exploring Eberron (2024)
 

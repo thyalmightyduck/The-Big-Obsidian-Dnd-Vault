@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Locathah
 
 - **Ability Scores:** Strength +2; Dexterity +1

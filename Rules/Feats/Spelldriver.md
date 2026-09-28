@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Spelldriver
 
 Prerequisite: Level 11+; Spellcasting or Pact Magic Feature

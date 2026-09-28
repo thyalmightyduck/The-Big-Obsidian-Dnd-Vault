@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Fizban’s Treasury of Dragons:
 **Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1

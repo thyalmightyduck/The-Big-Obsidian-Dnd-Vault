@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Spell Scorner Barbarian: Cthulhu by Torchlight:
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

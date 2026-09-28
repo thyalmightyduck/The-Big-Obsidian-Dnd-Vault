@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ode to Wrath
 *Level 4 Enchantment*
 ___

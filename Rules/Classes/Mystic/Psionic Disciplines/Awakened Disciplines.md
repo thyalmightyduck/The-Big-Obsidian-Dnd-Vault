@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 - [[Aura Sight]]
 - [[Intellect Fortress]]
 - [[Mantle of Awe]]

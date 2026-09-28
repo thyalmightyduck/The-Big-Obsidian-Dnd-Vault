@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Clasp Member
 
 - **Skill Proficiencies:** Deception, plus your choice of Sleight of Hand or Stealth

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Initiate (Dissenter)
 
 - **Skill Proficiencies:** Athletics, Intimidation

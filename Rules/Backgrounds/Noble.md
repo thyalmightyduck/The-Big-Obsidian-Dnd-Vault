@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Noble
 
 - **Ability Scores:** Strength, Intelligence, Charisma

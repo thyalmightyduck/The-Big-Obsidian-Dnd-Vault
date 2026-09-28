@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Concussion
 *Evocation Cantrip*
 ___

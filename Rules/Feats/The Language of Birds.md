@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## The Language of Birds
 
 Virtues of the Bardings Feat (Prerequisite: Barding Culture)

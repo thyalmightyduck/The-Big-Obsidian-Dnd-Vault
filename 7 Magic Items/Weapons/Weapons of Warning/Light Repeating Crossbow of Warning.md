@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Light Repeating Crossbow]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Simple Weapon, Ranged Weapon

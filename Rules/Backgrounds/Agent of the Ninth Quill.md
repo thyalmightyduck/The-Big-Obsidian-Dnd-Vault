@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Agent of the Ninth Quill
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

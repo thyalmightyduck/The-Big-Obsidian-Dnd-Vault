@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dreamwalk
 *Level 2 Enchantment*
 ___

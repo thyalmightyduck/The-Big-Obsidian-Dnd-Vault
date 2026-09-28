@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hellspeaker Illrigger
 ## The Illrigger Revised
 

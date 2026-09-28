@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Light Hammer]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon

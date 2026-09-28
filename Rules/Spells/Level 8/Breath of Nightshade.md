@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Breath of Nightshade
 *Level 8 Conjuration*
 ___

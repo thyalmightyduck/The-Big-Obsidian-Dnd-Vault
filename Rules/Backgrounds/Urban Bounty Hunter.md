@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Urban Bounty Hunter
 
 - **Skill Proficiencies:** Choose two from among Deception, Insight, Persuasion, and Stealth

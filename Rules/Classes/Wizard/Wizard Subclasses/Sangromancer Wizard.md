@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Sangromancer Wizard
 ## Grim Hallow: Player’s Guide (2024)
 

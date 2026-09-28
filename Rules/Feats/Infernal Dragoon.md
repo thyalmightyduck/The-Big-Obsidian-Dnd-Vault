@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Infernal Dragoon
 
 General Feat (Prerequisite: Level 4+, Infernal Pact)

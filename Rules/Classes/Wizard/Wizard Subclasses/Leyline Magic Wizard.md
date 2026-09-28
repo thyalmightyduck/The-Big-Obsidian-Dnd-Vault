@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Leyline Magic Wizard
 ## Humblewood Tales:
 

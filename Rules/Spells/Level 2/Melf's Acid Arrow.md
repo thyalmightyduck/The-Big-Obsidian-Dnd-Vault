@@ -2,7 +2,6 @@
 tags:
   - Spell
   - PHB24
-  - Evocation
 aliases:
   - Melfs Acid Arrow
 ---

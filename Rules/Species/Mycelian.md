@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Mycelian
 
 - **Ability Scores:** Constitution +2; Choose any other +1

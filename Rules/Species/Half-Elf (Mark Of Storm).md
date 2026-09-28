@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits ERLW
 - Ability Scores: Charisma +2; Dexterity +1
     

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Inquisitive
 
 - **Ability Scores:** Constitution, Intelligence, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Protection Rune
 *Level 3 Evocation*
 ___

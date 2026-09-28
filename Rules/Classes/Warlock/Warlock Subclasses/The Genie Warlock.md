@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Genie Warlock
 ## Tasha’s Cauldron of Everything
 

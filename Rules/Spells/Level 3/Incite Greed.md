@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Incite Greed
 *Level 3 Enchantment*
 ___

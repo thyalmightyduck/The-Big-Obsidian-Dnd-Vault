@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Investiture of Venom
 *Level 5 Transmutation*
 ___

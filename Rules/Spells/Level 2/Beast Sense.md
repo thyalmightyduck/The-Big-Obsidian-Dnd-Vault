@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Beast Sense
 *Level 2 Divination*
 ___

@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Ranged
-  - Range
-  - Ammunition
-  - TwoHanded
+{}
 ---
 **Weapon:** 1d8 Piercing, Simple Weapon, Ranged Weapon
 **Properties:** Ammunition (40/160 ft.), two‑handed

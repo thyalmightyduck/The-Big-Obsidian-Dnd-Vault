@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Jethro's Instant Reload
 *Level 2 Conjuration*
 ___

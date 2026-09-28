@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Courtier
 
 - **Skill Proficiencies:** Insight, Persuasion

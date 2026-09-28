@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Flare Gun]], Uncommon*
 **Weapon:** 2d6 Fire Simple Weapon, Ranged Weapon, Firearm

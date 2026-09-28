@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Neutralize Aura
 *Level 1 Abjuration*
 ___

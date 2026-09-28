@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barrow Guard Fighter
 ## The Crooked Moon (2024) 
 

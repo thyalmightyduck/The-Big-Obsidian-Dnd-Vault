@@ -1,15 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Ranged
-  - Firearm
-  - Range
-  - Ammunition
-  - TwoHanded
-  - Loading
-  - Heavy
-  - MasterySighted
+{}
 ---
 **Weapon:** 2d8 Piercing Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 100/400ft.; Bullet), Firearm, Heavy, Loading, Modern Era, Two-Handed

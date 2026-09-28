@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Draconic Sorcery Sorcerer
 ## Player’s Handbook (2024)
 

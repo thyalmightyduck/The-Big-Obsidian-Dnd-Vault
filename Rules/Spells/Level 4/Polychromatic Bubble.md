@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Polychromatic Bubble
 *Level 4 Conjuration*
 ___

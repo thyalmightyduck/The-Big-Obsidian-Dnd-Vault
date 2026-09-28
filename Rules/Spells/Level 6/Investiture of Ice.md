@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Investiture of Ice
 *Level 6 Transmutation*
 ___

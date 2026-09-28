@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Underfoot
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

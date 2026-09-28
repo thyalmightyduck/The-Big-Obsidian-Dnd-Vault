@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # College of Fleshweaving Bard
 ## Heliana’s Guide to Monster Hunting
 

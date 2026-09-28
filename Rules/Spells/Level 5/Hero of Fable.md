@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Hero of Fable
 *Level 5 Enchantment*
 ___

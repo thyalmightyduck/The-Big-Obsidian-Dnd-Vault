@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Faster Crafting
 
 General Feat (Prerequisite: Level 4+, Crafter)

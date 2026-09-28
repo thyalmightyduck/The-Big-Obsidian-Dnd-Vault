@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Syndicate Spy
 
 General Feat (Prerequisite: Level 4+, Syndicate Smuggler)

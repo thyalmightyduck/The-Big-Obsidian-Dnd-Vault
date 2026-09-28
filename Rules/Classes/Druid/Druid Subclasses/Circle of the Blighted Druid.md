@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Blighted Druid
 ## Tal’Dorei Campaign Setting Reborn:
 

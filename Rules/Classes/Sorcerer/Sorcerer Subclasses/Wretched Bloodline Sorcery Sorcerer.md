@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Wretched Bloodline Sorcery Sorcerer
 ## Grim Hallow: Player’s Guide (2024)
 

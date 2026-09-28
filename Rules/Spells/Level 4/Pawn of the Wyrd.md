@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Pawn of the Wyrd
 *Level 4 Divination*
 ___

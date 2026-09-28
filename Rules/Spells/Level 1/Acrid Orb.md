@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Acrid Orb
 *Level 1 Evocation*
 ___

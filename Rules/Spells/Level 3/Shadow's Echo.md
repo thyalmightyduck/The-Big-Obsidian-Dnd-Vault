@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 3 Illusion_
 
 **Casting Time:** [[Reaction]], which you take after you see a creature within 60 feet of you finish casting a spell with a casting time of 1 action and a duration of Instantaneous

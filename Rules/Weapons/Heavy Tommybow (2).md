@@ -1,14 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Ranged
-  - Range
-  - Ammunition
-  - TwoHanded
-  - Heavy
-  - Reload
+{}
 ---
 **Weapon:** 1d10 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (100/200 ft.), heavy, Reload (2), two‑handed

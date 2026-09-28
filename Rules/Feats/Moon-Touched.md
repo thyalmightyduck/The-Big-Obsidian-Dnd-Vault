@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Moon-Touched
 
 General Feat (Prerequisite: Level 4+)

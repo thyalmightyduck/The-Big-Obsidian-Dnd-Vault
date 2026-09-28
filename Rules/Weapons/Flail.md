@@ -1,10 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Melee
-  - MasterySap
+{}
 ---
 **Weapon:** 1d8 Bludgeoning, [[Martial Weapons]], [[Melee Weapons]] 
 **Properties:** 

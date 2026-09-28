@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Grim Hallow: Player’s Guide (2024):
 _Level 5 Necromancy_
 

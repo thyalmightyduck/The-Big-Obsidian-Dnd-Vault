@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Prowess
 
 Common Virtues Feat

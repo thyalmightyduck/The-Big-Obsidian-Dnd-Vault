@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Phantom Rogue
 ## Tasha’s Cauldron of Everything
 

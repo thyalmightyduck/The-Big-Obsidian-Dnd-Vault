@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greater Blessing of Freyr and Freyja
 
 General Feat (Prerequisite: Level 4+, Blessing of Freyr and Freyja)

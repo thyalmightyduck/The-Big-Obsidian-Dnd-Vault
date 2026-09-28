@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Righteous Heritor
 
 Prerequisite: Level 4+, scion of the outer planes (good outer plane)

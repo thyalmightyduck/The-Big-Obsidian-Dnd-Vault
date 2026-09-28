@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Fiend Warlock
 ## Player’s Handbook 2014
 

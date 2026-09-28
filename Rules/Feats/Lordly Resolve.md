@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Lordly Resolve
 
 General Feat (Prerequisite: Level 4+, Lords' Alliance Agent)

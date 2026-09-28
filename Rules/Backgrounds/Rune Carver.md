@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Rune Carver
 
 - **Skill Proficiencies:** History, Perception

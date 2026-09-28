@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Winter Trapper Ranger
 ## The Griffon’s Saddlebag, Book 1 (2024)
 

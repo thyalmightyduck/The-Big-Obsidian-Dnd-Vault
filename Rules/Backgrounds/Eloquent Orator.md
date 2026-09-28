@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Eloquent Orator
 
 - **Skill Proficiencies.** Persuasion, Riddle

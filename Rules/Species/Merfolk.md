@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Merfolk
 
 - **Ability Scores:** Charisma +1

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Purple Dragon Knight (Banneret) Fighter
 ## Sword Coast Adventurer’s Guide
 

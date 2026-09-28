@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 
 > [!infobox]

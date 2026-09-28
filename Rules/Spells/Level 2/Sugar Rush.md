@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sugar Rush
 *Level 2 Biomancy*
 ___

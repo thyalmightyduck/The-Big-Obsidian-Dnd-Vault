@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Order of the Awakened Mystic
 ## Unearthed Arcana: The Mystic Class
 

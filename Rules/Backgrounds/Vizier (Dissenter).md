@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Vizier (Dissenter)
 
 - **Skill Proficiencies:** History, Religion

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Shield Wall
 
 Fighting Style Feat (Prerequisite: Shield Training, Fighting Style Feature)

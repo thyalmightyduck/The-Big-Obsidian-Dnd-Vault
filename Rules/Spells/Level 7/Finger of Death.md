@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Finger of Death
 *Level 7 Necromancy*
 ___

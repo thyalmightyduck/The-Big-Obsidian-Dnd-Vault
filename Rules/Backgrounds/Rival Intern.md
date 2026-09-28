@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Rival Intern
 
 - **Skill Proficiencies:** History, Investigation

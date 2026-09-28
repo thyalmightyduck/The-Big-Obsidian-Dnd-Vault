@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Raulothim's Psychic Lance
 *Level 4 Enchantment*
 ___

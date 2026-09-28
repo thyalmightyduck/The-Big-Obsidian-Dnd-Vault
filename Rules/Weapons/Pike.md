@@ -1,12 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Melee
-  - Heavy
-  - Reach
-  - TwoHanded
-  - MasteryPush
+{}
 ---
 **Weapon:** 1d10 Piercing Martial Weapon, Melee Weapon
 **Properties:** Heavy, Reach, Two-Handed

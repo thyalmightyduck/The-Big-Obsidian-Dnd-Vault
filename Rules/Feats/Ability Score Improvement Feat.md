@@ -1,7 +1,6 @@
 ---
 tags:
   - PHB24
-  - GeneralFeat
   - Feat
 ---
 ## Ability Score Improvement: (PHB24):

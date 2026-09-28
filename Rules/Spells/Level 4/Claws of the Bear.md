@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Claws of the Bear
 *Level 4 Transmutation*
 ___

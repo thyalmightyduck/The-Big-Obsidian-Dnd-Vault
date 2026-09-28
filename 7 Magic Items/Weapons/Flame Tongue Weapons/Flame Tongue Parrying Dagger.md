@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Parrying Dagger]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon

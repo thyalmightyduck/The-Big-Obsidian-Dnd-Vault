@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mastery
 
 Common Virtues Feat

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Durin's Way
 
 Virtues of the Dwarves Feat (Prerequisite: Dwarven Culture)

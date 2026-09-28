@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Tempest Domain Cleric
 ## Cleric: Player’s Handbook (2014):
 

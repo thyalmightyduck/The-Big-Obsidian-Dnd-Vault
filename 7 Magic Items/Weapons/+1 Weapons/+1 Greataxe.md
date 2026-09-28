@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Greataxe]], Uncommon*
 **Weapon:** 1d12 Slashing, Martial Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Vigor of the Hill Giant
 
 Prerequisite: Level 4+, strike of the giants (hill strike)

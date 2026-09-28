@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Evocation Cantrip_
 **Casting Time:** Action
 **Range:** 60 feet

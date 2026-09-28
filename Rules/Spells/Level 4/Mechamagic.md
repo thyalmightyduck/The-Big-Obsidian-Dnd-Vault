@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mechamagic
 *Level 4 Transmutation*
 ___

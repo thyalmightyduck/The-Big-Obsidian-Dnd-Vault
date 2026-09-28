@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Coldheart
 *Level 1 Necromancy*
 ___

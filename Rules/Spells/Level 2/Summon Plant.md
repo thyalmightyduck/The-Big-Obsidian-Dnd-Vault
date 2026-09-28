@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Summon Plant
 *Level 2 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Divination Level 5_
 
 **Casting Time:** 10 Minutes

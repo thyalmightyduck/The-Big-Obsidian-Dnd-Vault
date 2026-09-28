@@ -1,13 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Advanced
-  - Melee
-  - Hafted
-  - Heavy
-  - Reach
-  - TwoHanded
-  - MasteryDisarming
+{}
 ---
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Reach, Two‑Handed

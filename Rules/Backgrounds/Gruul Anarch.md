@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Gruul Anarch
 
 - **Skill Proficiencies:** Animal Handling, Athletics

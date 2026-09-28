@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 2 Enchantment_
 
 **Casting Time:** Action

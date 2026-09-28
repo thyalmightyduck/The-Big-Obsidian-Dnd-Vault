@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Evocation Level 3_
 
 **Casting Time:** Action

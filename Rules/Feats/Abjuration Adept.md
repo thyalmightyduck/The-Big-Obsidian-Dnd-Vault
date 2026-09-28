@@ -1,7 +1,6 @@
 ---
 tags:
   - AU
-  - GeneralFeat
   - Feat
 ---
 General Feat (Prerequisite: Level 4+; Spellcasting or Pact Magic Feature)

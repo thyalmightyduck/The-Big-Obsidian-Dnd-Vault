@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Elf (Zendikar)
 
 - **Ability Scores:** Wisdom +2

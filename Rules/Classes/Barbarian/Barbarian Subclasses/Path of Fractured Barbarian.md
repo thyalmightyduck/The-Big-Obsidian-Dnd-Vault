@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: Grim Hallow: Player’s Guide (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

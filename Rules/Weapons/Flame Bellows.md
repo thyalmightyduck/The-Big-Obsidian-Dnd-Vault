@@ -1,16 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Ranged
-  - Range
-  - Ammunition
-  - Cumbersome
-  - Loading
-  - Magazine
-  - TwoHanded
-  - MasteryScatter
+{}
 ---
 **Weapon:** 2d6 Fire Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 15 ft.; Bellows Cannister), Cumbersome, Loading, Magazine (20), Two‑Handed

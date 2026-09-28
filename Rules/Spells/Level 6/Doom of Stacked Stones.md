@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Doom of Stacked Stones
 *Level 6 Transmutation*
 ___

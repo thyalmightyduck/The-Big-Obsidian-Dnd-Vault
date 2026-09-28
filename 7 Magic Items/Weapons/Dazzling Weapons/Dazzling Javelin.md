@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Javelin]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Piercing [[Simple Weapons]], [[Melee Weapons]]

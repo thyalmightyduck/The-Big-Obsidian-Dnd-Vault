@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Ruinbound
 
 - **Creature Type:** Humanoid

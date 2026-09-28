@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## A Patient Hunter
 
 - **Skill Proficiencies.** Hunting, Nature

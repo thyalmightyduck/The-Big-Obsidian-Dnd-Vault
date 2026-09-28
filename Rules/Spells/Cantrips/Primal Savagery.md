@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Primal Savagery
 *Transmutation Cantrip*
 ___

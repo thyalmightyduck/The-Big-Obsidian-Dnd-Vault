@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of the Elements Monk
 ## Player’s Handbook (2024)
 

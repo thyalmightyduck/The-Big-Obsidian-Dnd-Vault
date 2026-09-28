@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## By Hammer and Anvil
 
 - **Skill Proficiencies.** Insight, Intimidation

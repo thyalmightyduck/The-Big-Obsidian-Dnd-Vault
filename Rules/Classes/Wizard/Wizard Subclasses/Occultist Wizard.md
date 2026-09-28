@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Occultist Wizard
 ## The Crooked Moon (2024):
 

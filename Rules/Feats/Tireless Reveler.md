@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Tireless Reveler
 
 Origin Feat

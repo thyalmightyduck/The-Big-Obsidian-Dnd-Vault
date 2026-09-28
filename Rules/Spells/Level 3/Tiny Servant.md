@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tiny Servant
 *Level 3 Transmutation*
 ___

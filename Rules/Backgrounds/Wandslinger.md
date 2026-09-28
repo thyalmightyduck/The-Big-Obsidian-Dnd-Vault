@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Wandslinger
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Polearm]], Rare (Requires Attunement)*
 **Weapon:** 1d12 Piercing, Advanced Weapon, Melee Weapon

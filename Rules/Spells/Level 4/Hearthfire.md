@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Hearthfire
 *Level 4 Abjuration*
 ___

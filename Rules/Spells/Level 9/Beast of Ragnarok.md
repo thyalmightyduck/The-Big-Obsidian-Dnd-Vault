@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Beast of Ragnarok
 *Level 9 Conjuration*
 ___

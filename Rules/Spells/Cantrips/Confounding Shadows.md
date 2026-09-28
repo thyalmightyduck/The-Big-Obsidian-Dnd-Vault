@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Confounding Shadows
 *Conjuration Cantrip*
 ___

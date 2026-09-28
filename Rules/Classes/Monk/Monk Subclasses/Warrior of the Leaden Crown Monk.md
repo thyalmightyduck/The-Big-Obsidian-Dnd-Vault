@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of the Leaden Crown
 ## Grim Hallow: Player’s Guide (2024)
 

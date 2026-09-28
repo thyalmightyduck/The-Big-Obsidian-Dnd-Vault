@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Uncommon*
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon

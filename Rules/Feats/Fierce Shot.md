@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fierce Shot
 
 Virtues of the Bardings Feat (Prerequisite: Barding Culture)

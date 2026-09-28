@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fast Friends
 *Level 3 Enchantment*
 ___

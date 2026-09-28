@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Knife of Fate
 *Level 4 Necromancy*
 ___

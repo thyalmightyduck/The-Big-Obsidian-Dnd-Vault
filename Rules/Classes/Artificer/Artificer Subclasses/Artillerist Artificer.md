@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Eberron: Forge of the Artificer:
 | Level | [[Proficiency]] Bonus | Features                                                                          | Infusions Known | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th |
 | ----- | ----------------- | --------------------------------------------------------------------------------- | --------------- | ------------- | -------------- | --- | --- | --- | --- | --- |

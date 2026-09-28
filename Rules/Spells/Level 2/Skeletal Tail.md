@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Skeletal Tail
 *Level 2 Conjuration (osteomancy)*
 ___

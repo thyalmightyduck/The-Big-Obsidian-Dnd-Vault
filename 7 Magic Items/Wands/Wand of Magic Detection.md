@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Wand
-  - Uncommon
+  - magicitem
 ---
 *Wand, Uncommon*
 1 lb.

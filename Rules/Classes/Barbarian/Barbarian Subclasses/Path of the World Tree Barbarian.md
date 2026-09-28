@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 
 # Path of the World Tree Barbarian: Player’s Handbook (2024):
 

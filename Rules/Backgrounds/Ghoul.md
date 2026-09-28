@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Ghoul
 
 - **Ability Scores:** Strength, Dexterity, Charisma

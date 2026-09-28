@@ -1,10 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Simple
-  - Melee
-  - Light
-  - MasteryNick
+{}
 ---
 **Weapon:** 1d4 Slashing, Simple Weapon, Melee Weapon
 **Properties:** Light 

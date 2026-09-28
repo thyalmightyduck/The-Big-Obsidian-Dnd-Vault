@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Book of Ebon Tides:
 **Ability Scores:** Constitution +1

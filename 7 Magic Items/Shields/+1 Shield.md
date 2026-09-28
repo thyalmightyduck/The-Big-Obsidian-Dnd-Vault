@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Shield
-  - Uncommon
+  - magicitem
 ---
 *Shield ([[Shield]]), Uncommon*
 6 lb.

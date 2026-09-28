@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You forge an indomitable wall of psionic energy around your mind — one that allows you to launch counterattacks against your opponents.
 
 **Psychic Focus.** While focused on this discipline, you gain resistance to psychic damage.

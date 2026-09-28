@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Forgemaster
 
 Crafting Feat (Prerequisite: Expert Forger)

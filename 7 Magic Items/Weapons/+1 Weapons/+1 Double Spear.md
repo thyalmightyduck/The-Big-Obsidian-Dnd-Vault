@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Double Spear]], Uncommon*
 **Weapon:** 1d6 Piercing, Advanced Weapon, Melee Weapon

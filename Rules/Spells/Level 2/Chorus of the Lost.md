@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Chorus of the Lost
 *Level 2 Necromancy*
 ___

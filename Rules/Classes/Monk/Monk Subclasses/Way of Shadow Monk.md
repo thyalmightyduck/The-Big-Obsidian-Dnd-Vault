@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of Shadow Monk
 ## Player’s Handbook (2014):
 

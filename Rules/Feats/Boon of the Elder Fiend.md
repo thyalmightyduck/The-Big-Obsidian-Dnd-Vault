@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Elder Fiend
 
 Epic Boon Feat (Prerequisite: Level 19+, Fiend Transformation)

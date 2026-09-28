@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Obfuscate Object
 *Illusion Cantrip*
 ___

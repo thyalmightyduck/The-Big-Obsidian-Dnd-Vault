@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Hermit
 
 - **Skill Proficiencies:** Medicine, Religion

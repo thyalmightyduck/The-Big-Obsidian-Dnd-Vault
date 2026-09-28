@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Astarion's Book of Hungers:
 **Creature Type:** [[Humanoid]]

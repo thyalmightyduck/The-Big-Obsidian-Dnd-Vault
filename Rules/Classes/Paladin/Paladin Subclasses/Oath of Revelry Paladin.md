@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Revelry Paladin
 ## Valda’s Spire of Secrets: Player’s Pack
 

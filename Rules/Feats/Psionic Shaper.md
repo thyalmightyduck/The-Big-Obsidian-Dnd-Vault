@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Psionic Shaper
 
 You've learned to wield your psionic power to shape intangible ideas into physical objects, granting you the following benefits:

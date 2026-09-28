@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Runetagger Rogue
 ## The Griffon’s Saddlebag, Book 1 (2024)
 

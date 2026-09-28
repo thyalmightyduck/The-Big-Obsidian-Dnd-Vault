@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Order of the Nomad Mystic
 ## Unearthed Arcana: The Mystic Class
 

@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Knightly Lance]], Uncommon*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon

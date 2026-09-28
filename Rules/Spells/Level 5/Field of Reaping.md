@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 5 Necromancy_
 
 **Casting Time:** Action

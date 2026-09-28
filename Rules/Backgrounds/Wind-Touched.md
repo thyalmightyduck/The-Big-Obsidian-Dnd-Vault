@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Wind-Touched
 
 - **Skill Proficiencies.** Acrobatics, Performance

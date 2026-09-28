@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Eyes of the Raven
 *Level 2 Transmutation*
 ___

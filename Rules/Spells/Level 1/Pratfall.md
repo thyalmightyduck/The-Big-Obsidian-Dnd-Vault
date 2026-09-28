@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Pratfall
 *Level 1 Conjuration*
 ___

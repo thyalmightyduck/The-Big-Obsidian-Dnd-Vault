@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wither and Bloom
 *Level 2 Necromancy*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Occultist Guild Monster Hunter
 ## Grim Hallow: Player’s Guide (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Summon the Thing with the Writhing Tail
 *Level 4 Conjuration*
 ___

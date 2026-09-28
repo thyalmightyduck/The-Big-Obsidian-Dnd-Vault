@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits BoET
 - Ability Scores: Intelligence +2; Dexterity −1
     

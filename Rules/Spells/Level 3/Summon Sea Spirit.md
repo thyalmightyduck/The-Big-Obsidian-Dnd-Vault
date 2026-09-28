@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Summon Sea Spirit
 *Level 3 Conjuration*
 ___

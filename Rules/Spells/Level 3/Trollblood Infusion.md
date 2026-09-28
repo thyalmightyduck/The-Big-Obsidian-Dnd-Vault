@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Trollblood Infusion
 *Level 3 Transmutation*
 ___

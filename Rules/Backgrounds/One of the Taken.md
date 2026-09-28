@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## One of the Taken
 
 - **Ability Scores:** Dexterity, Wisdom, Charisma

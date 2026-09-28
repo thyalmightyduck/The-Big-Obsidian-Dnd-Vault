@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Svirfneblin Magic
 
 Prerequisite: Gnome (deep)

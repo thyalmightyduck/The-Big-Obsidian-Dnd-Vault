@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Greatsword]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Slashing, [[Martial Weapons]], [[Melee Weapons]] 

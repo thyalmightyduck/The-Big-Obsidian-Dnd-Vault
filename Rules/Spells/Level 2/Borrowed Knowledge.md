@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Borrowed Knowledge
 *Level 2 Divination*
 ___

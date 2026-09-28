@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # War Domain Cleric
 ## Player’s Handbook (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Primal Spirit Barbarian: Grim Hallow: Player’s Guide:
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

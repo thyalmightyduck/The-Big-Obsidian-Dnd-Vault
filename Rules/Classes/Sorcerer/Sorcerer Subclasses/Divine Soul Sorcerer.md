@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Divine Soul Sorcerer
 ## Xanathar’s Guide to Everything
 

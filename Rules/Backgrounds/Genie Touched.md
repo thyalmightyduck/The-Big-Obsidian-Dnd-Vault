@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Genie Touched
 
 - **Ability Scores:** Dexterity, Wisdom, Charisma

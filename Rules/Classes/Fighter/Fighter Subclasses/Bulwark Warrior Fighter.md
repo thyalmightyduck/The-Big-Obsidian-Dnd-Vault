@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Bulwark Warrior Fighter
 ## Grim Hallow: Player’s Guide (2024) 
 

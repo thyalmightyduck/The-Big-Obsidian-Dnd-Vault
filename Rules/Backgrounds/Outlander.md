@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Outlander
 
 - **Skill Proficiencies:** Athletics, Survival

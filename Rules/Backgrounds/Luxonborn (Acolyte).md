@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Luxonborn (Acolyte)
 
 - **Skill Proficiencies:** Insight, Religion

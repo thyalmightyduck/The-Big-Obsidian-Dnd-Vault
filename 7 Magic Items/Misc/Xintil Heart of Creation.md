@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Legendary
-  - Attunement
+  - magicitem
 ---
 # Xintil Heart of Creation
 > [!infobox]

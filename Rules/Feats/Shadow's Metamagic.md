@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Shadow's Metamagic
 
 Prerequisite: Spellcasting or Pact Magic Feature

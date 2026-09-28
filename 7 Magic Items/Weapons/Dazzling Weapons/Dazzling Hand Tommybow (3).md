@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Hand Tommybow (3)]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Piercing Martial Weapon, Ranged Weapon

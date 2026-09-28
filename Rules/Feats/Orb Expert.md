@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Orb Expert
 
 General Feat (Prerequisite: Level 4+)

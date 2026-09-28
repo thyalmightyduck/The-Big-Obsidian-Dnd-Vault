@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Cyclopian
 
 - **Ability Scores:** Intelligence +2; Choose Dexterity or Wisdom +1

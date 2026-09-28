@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mist Walker
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

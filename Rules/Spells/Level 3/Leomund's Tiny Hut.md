@@ -1,8 +1,6 @@
 ---
 tags:
   - Spell
-  - Evocation
-  - Ritual
 aliases:
   - Leomunds Tiny Hut
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 ## Cantrip
 - [[Bright Sparks]]
 - [[Can't Trip]]

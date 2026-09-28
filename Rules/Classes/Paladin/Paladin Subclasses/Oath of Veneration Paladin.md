@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Veneration Paladin
 ## Chronicles Of Eberron
 

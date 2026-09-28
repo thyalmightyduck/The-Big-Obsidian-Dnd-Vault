@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Stars Druid
 ## Tasha’s Cauldron of Everything
 

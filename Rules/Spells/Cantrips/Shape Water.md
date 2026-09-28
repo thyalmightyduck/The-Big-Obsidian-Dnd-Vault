@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shape Water
 *Transmutation Cantrip*
 ___

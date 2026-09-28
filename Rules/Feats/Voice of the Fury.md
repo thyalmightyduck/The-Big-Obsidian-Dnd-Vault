@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Voice of the Fury
 
 General Feat (Prerequisite: Level 4+, Harpy)

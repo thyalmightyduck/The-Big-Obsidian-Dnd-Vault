@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Alustriel's Mooncloak
 *Level 5 Abjuration*
 ___

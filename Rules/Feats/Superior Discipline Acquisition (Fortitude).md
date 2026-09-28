@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Superior Discipline Acquisition (Fortitude)
 
 Kindred Feat (Prerequisite: Level 12+  Kindred, Greater Discipline Acquisition (Fortitude))

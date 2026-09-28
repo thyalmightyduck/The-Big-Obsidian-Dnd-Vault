@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 7 Transmutation_
 
 **Casting Time:** 1 minute

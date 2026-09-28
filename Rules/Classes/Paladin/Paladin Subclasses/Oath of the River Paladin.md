@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Oath of the River Paladin
 ## Obojima: Tales from the Tall Grass
 

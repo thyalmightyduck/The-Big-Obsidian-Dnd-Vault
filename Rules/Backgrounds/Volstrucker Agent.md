@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Volstrucker Agent
 
 - **Skill Proficiencies:** Deception, Stealth

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Deep Roots of the Moon
 *Level 3 Evocation*
 ___

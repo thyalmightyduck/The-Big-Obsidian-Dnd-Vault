@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Antiballistics Field
 *Level 6 Abjuration*
 ___

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Heavy Crossbow]], Rare (Requires Attunement)*
 **Weapon:** 1d10 Piercing Martial Weapon, Ranged Weapon

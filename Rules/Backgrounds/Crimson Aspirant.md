@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Crimson Aspirant
 
 - **Ability Scores:** Increase one of your starting ability scores by 2 and another by 1, or increase three scores by 1 each.

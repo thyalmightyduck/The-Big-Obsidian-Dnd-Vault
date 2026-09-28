@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Dragonmarked Scion
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Long Death Monk
 ## Sword Coast Adventurer’s Guide
 

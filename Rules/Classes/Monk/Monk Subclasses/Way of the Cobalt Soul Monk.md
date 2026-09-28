@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Cobalt Soul Monk
 ## Tal’Dorei Campaign Setting Reborn
 

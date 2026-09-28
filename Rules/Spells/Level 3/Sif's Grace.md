@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sif's Grace
 *Level 3 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Preserve
 *Transmutation Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Whiteout
 *Level 5 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Field Cook
 
 Crafting Feat

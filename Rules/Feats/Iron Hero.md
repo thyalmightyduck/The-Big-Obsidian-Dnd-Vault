@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Iron Hero
 
 General Feat (Prerequisite: Level 4+)

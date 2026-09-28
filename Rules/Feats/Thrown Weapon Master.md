@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Thrown Weapon Master
 
 General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)

@@ -1,10 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Melee
-  - Finesse
-  - Versatile
+{}
 ---
 **Weapon:** 1d6 Slashing, Martial Weapon, Melee Weapon
 **Properties:** Finesse, Versatile (1d8)

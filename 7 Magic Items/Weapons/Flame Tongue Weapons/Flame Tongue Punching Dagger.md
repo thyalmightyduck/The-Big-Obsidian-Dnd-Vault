@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Attunement
-  - Rare
+  - magicitem
 ---
 *Weapon [[Punching Dagger]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon

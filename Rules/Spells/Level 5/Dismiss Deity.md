@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dismiss Deity
 *Level 5 Abjuration*
 ___

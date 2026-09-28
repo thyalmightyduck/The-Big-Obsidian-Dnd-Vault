@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Former Captive
 
 - **Ability Scores:** Charisma, Dexterity, Wisdom

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greater Mark of Shadow
 
 General Feat (Prerequisite: Level 4+, Mark of Shadow)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Cosmic Patron Warlock
 ## Sebastian Crowe’s Guide to Drakkenheim
 

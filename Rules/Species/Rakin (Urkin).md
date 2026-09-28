@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Rakin (Urkin)
 
 - **Ability Scores:** Dexterity +2; Choose Intelligence or Wisdom +1

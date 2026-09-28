@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Caustic Grip
 *Level 2 Evocation*
 ___

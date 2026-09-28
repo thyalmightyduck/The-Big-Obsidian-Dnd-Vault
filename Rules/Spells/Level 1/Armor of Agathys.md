@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Abjuration Level 1_
 
 **Casting Time:** [[Bonus Action]]

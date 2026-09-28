@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Krail's Rot
 *Level 5 Necromancy*
 ___

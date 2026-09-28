@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Feral Whispers
 
 Kindred Feat (Prerequisite: Level 2+  Kindred)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tremor
 *Level 1 Evocation*
 ___

@@ -1,8 +1,6 @@
 ---
 tags:
   - Spell
-  - Enchantment
-  - Concentration
 aliases:
   - Tashas Hideous Laughter
 ---

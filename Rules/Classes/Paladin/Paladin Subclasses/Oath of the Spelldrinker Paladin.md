@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Spelldrinker Paladin
 ## The Griffon’s Saddlebag, Book 2
 

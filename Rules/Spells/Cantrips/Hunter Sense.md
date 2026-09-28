@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Hunter Sense
 *Divination Cantrip*
 ___

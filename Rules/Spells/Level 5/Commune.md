@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 5 Divination_
 
 **Casting Time:** 1 minute or Ritual

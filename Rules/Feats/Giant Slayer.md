@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Giant Slayer
 
 General Feat (Prerequisite: Level 4+, Weapon Mastery Feature)

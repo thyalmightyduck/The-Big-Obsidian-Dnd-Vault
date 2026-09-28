@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Reinforce Hull
 *Level 2 Abjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Holy Star of Mystra
 *Level 8 Evocation*
 ___

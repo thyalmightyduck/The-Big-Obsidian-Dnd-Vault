@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Sea Wolf
 
 Origin Feat

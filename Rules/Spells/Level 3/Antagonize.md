@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Antagonize
 *Level 3 Enchantment*
 ___

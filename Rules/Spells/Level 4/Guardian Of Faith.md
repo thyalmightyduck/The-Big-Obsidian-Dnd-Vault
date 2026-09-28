@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Level 4_
 
 **Casting Time:** Action

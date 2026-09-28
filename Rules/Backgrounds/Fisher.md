@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Fisher
 
 - **Skill Proficiencies:** History, Survival

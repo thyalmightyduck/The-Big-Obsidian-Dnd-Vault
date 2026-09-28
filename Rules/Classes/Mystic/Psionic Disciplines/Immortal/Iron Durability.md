@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You transform your body to become a living metal, allowing you to shrug off attacks that would cripple weaker creatures.
 
 **Psychic Focus.** While focused on this discipline, you gain a +1 bonus to AC.

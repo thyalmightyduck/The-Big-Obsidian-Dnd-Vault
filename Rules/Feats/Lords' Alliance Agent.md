@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Lords' Alliance Agent
 
 Origin Feat

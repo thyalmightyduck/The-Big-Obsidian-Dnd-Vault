@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Delicious Pain
 
 General Feat (Prerequisite: Level 4+)

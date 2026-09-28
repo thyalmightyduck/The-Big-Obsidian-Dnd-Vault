@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Create Spelljamming Helm
 *Level 5 Transmutation*
 ___

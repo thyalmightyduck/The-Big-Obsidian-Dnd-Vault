@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Banneret Fighter
 ## Forgotten Realms: Heroes of Faerun 
 

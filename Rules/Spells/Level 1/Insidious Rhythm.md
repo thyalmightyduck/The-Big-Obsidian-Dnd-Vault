@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Insidious Rhythm
 *Level 1 Enchantment*
 ___

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Sickle]], Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Slashing, Simple Weapon, Melee Weapon

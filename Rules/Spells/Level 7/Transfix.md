@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Transfix
 *Level 7 Enchantment*
 ___

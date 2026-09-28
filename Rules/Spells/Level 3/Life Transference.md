@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Life Transference
 *Level 3 Necromancy*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Message
 *Transmutation Cantrip*
 ___

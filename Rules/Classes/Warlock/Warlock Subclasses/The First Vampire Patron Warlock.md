@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The First Vampire Patron Warlock
 ## Grim Hallow: Player’s Guide (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Spellfire Initiate
 
 - **Ability Scores:** Constitution, Intelligence, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Sahuagin
 
 - **Creature Type:** Humanoid

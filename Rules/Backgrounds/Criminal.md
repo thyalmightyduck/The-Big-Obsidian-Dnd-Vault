@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Criminal
 
 - **Ability Scores:** Dexterity, Constitution, Intelligence

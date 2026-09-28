@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 6 Transmutation_
 
 **Casting Time:** Action

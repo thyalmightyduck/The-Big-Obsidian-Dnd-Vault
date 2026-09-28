@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Noble Sacrifice
 *Level 4 Abjuration*
 ___

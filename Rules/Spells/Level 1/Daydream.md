@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Daydream
 *Level 1 Enchantment*
 ___

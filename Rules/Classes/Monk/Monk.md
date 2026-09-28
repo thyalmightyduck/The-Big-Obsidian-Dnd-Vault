@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Monk: Player’s Handbook 2024:
 
 | Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |

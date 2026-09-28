@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Juggernaut Plating
 
 General Feat (Prerequisite: Level 4+, Warforged)

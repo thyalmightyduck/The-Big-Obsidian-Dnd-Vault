@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Apocalypse Sorcery Sorcerer
 ## Grim Hallow: Player’s Guide (2024)
 

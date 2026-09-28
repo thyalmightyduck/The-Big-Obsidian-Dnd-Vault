@@ -2,7 +2,6 @@
 tags:
   - Spell
   - PHB24
-  - Conjuration
 ---
 ## Player’s Handbook 2024 (PHB24):
 _Level 8 Conjuration_

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Horizon Walker Ranger
 ## Xanathar’s Guide to Everything
 

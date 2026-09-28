@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Spell Subterfuge
 
 General Feat (Prerequisite: Level 4+; Spellcasting or Pact Magic Feature)

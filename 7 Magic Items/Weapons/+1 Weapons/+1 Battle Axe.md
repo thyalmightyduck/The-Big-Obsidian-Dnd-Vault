@@ -1,8 +1,6 @@
 ---
 tags:
-  - Weapon
-  - MagicItem
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Battle Axe]]), Uncommon*
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon

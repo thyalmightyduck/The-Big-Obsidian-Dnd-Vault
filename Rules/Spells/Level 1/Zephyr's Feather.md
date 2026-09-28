@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Zephyr's Feather
 *Level 1 Conjuration*
 ___

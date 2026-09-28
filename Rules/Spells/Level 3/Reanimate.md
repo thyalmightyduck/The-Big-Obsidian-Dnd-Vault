@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Reanimate
 *Level 3 Evocation (sangromancy)*
 ___

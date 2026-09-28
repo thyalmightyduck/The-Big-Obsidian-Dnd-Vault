@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Mythic Odysseys of Theros
 **Ability Scores:** Choose one of the following:
 - Increase Constitution +2

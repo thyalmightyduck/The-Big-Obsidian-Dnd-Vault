@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Lore Scholar
 ## The Lord of the Rings Roleplaying
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Stars Druid
 ## Players Handbook (2024):
 

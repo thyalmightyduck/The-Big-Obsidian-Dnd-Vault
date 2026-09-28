@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Spellfire Spark
 
 Origin Feat

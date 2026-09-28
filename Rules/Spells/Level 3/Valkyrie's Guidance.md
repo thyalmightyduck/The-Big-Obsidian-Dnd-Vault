@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Valkyrie's Guidance
 *Level 3 Divination*
 ___

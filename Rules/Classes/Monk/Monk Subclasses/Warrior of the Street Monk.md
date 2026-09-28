@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of the Street Monk
 ## Valda’s Spire of Secrets: Player Pack
 

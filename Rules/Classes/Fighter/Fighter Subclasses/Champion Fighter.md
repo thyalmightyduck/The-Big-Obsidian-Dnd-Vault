@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Champion Fighter
 ## Player’s Handbook (2024):
 

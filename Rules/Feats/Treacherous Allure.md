@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Treacherous Allure
 
 General Feat (Prerequisite: Level 4+)

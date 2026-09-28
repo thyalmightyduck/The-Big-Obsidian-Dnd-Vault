@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Moonlight Sending
 *Level 4 Conjuration*
 ___

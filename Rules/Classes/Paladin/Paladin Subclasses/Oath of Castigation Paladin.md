@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Castigation Paladin
 ## The Crooked Moon (2024)
 

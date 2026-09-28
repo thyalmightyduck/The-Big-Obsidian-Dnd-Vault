@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tidal Wave
 *Level 3 Conjuration*
 ___

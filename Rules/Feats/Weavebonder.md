@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Weavebonder
 
 Crafting Feat (Prerequisite: Expert Enchanter)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Sun Soul Monk
 ## Xanathar’s Guide to Everything
 

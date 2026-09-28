@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Transmutation Level 1_
 
 **Casting Time:** Action

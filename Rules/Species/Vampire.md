@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: PSZ
 - Ability Scores: Charisma +2
     

@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Melee
-  - Momentum
-  - MasterySlow
-  - ArmorPiercing
+{}
 ---
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Armor-Piercing, Momentum (1d12)

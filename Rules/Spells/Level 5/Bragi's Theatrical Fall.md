@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bragi's Theatrical Fall
 *Level 5 Illusion*
 ___

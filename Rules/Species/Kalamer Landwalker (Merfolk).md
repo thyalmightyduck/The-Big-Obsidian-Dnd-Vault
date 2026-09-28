@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Kalamer Landwalker (Merfolk)
 
 - **Creature Type:** Elemental

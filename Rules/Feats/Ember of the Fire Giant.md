@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Ember of the Fire Giant
 
 Prerequisite: Level 4+, strike of the giants (fire strike)

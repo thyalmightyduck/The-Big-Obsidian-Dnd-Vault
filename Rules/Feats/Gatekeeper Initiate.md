@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Gatekeeper Initiate
 
 General Feat (Prerequisite: Level 4+)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Vitriol Ichor
 *Level 4 Transmutation*
 ___

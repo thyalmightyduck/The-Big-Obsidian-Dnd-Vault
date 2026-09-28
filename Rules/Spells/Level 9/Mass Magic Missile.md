@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Evocation Level 9_
 
 **Casting Time:** Action

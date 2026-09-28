@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: PSX
 - Ability Scores: Charisma +2
     

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Cat's Spring
 *Conjuration Cantrip*
 ___

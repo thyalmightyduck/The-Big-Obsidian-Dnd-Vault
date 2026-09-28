@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Volo’s Guide to Monsters:
 **Ability Scores:** Charisma +2; Constitution +1

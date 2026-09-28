@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 5 Necromancy_
 **Casting Time:** Action
 **Range:** 60 feet

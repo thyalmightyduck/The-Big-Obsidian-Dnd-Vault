@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Lotol
 
 - **Ability Scores:** Wisdom +2; Constitution +1

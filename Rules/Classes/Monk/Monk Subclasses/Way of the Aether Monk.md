@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Aether Monk
 ## The Griffon’s Saddlebag, Book 2
 

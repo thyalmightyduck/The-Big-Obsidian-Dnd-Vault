@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Skill Empowerment
 *Level 5 Transmutation*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Sky-Watcher
 
 - **Skill Proficiencies.** Explore, Nature

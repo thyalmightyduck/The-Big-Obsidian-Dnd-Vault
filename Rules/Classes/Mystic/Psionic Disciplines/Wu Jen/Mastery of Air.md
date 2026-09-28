@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You become one with the power of elemental air.
 
 **Psychic Focus.** While focused on this discipline, you take no falling damage, and you ignore difficult terrain when walking.

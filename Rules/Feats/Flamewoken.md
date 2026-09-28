@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Flamewoken
 
 Living in the Scorched Grove or other areas touched by elemental fire can sometimes cause strange abilities to manifest among their inhabitants. Known as "flamewoken" by the Tenders, these gifted few have the ability to communicate with fire-aspected creatures and have power over flames. Tenders guide the flamewoken in honing their talents in service of nature and many flamewoken choose to join the order. However, those outside the order usually keep their abilities hidden, as such powers are often seen as a curse. You gain the following benefits:

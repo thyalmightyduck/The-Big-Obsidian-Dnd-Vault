@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Exalted Assembly of the Feline Court Warlock
 ## Cthulhu by Torchlight
 

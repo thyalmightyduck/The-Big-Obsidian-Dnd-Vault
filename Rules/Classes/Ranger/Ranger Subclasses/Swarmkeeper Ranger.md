@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Swarmkeeper Ranger
 ## Tasha’s Cauldron of Everything
 

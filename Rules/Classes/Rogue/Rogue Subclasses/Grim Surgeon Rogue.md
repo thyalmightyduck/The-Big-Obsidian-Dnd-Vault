@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Grim Surgeon Rogue
 ## The Griffon’s Saddlebag, Book 2
 

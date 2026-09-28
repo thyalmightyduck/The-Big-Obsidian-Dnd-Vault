@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 - [[Mastery of Air]]
 - [[Mastery of Fire]]
 - [[Mastery of Force]]

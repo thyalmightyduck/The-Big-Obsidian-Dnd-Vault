@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Order's Resilience
 
 General Feat (Prerequisite: Level 4+, Tyro of the Gauntlet)

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Marine
 
 - **Skill Proficiencies:** Athletics, Survival

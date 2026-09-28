@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fire Storm
 *Level 7 Evocation*
 ___

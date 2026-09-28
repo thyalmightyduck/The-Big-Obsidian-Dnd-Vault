@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 3 Biomancy_
 
 **Casting Time:** Reaction, which you take when a creature within range vocalises

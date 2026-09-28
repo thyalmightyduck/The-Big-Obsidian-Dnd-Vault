@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Healing Scholar
 ## The Lord of the Rings Scholar
 

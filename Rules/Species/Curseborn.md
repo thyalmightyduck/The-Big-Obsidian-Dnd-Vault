@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Info
 ## The Crooked Moon (2014):
 **Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1

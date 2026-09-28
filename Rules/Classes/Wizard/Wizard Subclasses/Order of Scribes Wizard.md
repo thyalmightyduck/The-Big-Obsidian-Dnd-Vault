@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Order of Scribes Wizard
 ## Tasha’s Cauldron of Everything
 

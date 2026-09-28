@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Gift of the Chromatic Dragon
 
 You've manifested some of the power of chromatic dragons, granting you the following benefits:

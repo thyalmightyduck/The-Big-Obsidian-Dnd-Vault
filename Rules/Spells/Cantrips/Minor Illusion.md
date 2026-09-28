@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Illusion Cantrip_
 
 **Casting Time:** Action

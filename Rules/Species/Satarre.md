@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: BoET
 - Ability Scores: Constitution +2; Intelligence +1
     

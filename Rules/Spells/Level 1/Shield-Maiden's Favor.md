@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shield-Maiden's Favor
 *Level 1 Abjuration*
 ___

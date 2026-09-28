@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Dhakaani Ghaal'dar (Hobgoblin)
 
 - **Creature Type:** Humanoid

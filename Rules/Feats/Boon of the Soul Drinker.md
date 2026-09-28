@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Soul Drinker
 
 Epic Boon Feat (Prerequisite: Level 19+)

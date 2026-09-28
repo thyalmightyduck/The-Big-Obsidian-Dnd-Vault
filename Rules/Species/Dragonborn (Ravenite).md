@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Explorer’s Guide to Wildemount:
 **Ability Scores:** Strength +2; Constitution +1

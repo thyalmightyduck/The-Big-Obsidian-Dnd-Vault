@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Night Domain Cleric
 ## Humblewood Campaign Setting:
 

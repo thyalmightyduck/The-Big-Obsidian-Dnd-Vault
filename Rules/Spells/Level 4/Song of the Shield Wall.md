@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Song of the Shield Wall
 *Level 4 Abjuration*
 ___

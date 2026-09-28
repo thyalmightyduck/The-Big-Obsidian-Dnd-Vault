@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Envoy
 
 - **Ability Scores:** Strength, Constitution, Charisma

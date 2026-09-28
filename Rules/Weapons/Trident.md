@@ -1,11 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Ranged
-  - Thrown
-  - Versatile
-  - MasteryTopple
+{}
 ---
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Thrown (20/60 ft.), Versatile (1d10)

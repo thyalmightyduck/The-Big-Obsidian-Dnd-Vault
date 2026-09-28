@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Hunter of Hunters
 
 Origin Feat

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Crown Paladin
 ## Sword Coast Adventurer’s Guild
 

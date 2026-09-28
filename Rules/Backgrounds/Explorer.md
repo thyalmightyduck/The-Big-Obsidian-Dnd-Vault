@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Explorer
 
 - **Ability Scores:** Strength, Constitution, Wisdom

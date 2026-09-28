@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Chant of Thoth
 *Divination Cantrip*
 ___

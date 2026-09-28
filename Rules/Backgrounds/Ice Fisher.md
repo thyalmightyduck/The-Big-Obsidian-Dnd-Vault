@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Ice Fisher
 
 - **Ability Scores:** Strength, Dexterity, Constitution

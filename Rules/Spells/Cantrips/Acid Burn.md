@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Acid Burn
 *Evocation Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Green Reaper Ranger
 ## Grim Hallow: Player’s Guide (2024)
 

@@ -1,13 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Ranged
-  - Range
-  - Finesse
-  - Thrown
-  - MasteryVex
+{}
 ---
 **Weapon:** 1d4 Piercing Simple Weapon, Ranged Weapon
 **Properties:** Finesse, Thrown (20/60 ft.)

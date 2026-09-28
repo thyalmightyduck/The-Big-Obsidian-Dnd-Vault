@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Drayfn's Bane of Excellence
 *Necromancy Cantrip*
 ___

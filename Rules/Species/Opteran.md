@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Opteran
 
 - **Ability Scores:** Charisma +2

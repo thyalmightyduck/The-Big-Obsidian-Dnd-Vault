@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Rakin
 
 - **Ability Scores:** Dexterity +2

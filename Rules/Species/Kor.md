@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Kor
 
 - **Ability Scores:** Dexterity +2; Wisdom +1

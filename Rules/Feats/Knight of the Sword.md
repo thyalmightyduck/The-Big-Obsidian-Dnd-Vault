@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Knight of the Sword
 
 Prerequisite: Level 4+, Squire of Solamnia

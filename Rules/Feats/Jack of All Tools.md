@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Jack of All Tools
 
 Crafting Feat

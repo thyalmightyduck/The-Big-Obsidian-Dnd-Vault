@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Swashbuckler Rogue
 ## Xanathar’s Guide to Everything
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Contamination Immunity
 *Level 7 Abjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Archlich
 
 Epic Boon Feat (Prerequisite: Level 19+, Lich Transformation)

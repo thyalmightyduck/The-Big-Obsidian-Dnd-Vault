@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Future You Patron Warlock
 ## Valda’s Spire of Secrets: Player Pack
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cruel
 
 The challenges and struggles you've faced throughout your life have led you to delight in inflicting pain and anguish upon others. You gain a number of cruelty dice equal to your proficiency bonus. Your cruelty dice are d6s. You can roll only one cruelty die per turn, and a cruelty die is spent when you roll it.

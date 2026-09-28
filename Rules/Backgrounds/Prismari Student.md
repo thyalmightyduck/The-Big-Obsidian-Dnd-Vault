@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Prismari Student
 
 - **Skill Proficiencies:** Acrobatics, Performance

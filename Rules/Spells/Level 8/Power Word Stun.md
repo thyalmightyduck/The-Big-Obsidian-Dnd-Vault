@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Power Word Stun
 *Level 8 Enchantment*
 ___

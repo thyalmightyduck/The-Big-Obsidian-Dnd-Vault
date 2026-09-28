@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Warhammer]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Bludgeoning, Martial Weapon, Melee Weapon

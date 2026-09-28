@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # College of Choreography Bard 
 ## Exploring Eberron (2024)
 

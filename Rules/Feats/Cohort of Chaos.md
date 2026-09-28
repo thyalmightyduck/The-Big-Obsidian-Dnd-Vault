@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cohort of Chaos
 
 Prerequisite: Level 4+, scion of the outer planes (chaotic outer plane)

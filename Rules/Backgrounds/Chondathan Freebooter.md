@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Chondathan Freebooter
 
 - **Ability Scores:** Strength, Dexterity, Wisdom

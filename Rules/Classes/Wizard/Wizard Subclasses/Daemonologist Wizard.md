@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Daemonologist Wizard
 ## Grim Hallow: Player’s Guide (2024)
 

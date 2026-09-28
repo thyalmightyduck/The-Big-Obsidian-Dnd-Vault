@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Graviturgy Magic Wizard
 ## Explorer’s Guide to Wildemount
 

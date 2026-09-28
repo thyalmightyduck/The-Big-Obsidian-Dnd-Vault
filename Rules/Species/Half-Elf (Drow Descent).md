@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits
 **Ability Scores:** 
 - Charisma +2

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Echoing Soul
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

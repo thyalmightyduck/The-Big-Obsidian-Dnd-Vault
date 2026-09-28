@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Mind Domain Cleric
 ## Exploring Eberron (2024) 
 

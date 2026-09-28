@@ -1,3 +1,7 @@
+---
+tags:
+  - magicitem
+---
 
 > [!infobox]
 > # Stalker’s Vambrace

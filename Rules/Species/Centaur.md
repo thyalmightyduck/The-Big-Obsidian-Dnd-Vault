@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Guildmasters’ Guide to Ravnica:
 **Ability Scores:** Strength +2; Wisdom +1

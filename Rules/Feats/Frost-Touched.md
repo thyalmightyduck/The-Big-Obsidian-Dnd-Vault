@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Frost-Touched
 
 General Feat (Prerequisite: Level 4+)

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Archaeologist
 
 - **Ability Scores:** Dexterity, Intelligence, Wisdom

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Info
 ## The Lord of the Ring Roleplaying
 **Ability Scores:** Strength +1; Charisma +1

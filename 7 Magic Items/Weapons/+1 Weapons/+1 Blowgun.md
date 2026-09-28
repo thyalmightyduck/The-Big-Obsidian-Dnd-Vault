@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Blowgun]]), Uncommon*
 **Weapon:** 1 Piercing Martial Weapon, Ranged Weapon

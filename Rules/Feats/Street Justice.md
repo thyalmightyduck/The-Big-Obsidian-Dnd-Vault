@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Street Justice
 
 General Feat (Prerequisite: Level 4+)

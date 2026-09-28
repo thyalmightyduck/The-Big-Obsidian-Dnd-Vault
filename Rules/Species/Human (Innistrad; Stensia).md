@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Human (Innistrad; Stensia)
 
 - **Ability Scores:** Strength +1; Constitution +1

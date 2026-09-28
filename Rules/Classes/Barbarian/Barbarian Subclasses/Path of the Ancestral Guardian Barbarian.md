@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Ancestral Guardian Barbarian
 ## Xanathar’s Guardian to Everything:
 

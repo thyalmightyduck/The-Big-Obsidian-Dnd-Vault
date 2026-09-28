@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Dour-Handed
 
 Common Virtues Feat

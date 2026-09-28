@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Necromancy Level 2_
 
 **Casting Time:** Action or [[Ritual]]

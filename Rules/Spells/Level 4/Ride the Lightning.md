@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ride the Lightning
 *Level 4 Conjuration*
 ___

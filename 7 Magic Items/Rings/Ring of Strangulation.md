@@ -1,10 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Ring
-  - Rare
-  - Homebrew
+  - magicitem
 ---
 # Ring of Strangulation
 > [!infobox]

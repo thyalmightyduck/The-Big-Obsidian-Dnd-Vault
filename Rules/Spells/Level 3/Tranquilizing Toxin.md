@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tranquilizing Toxin
 *Level 3 Evocation*
 ___

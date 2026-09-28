@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Antipathy/Sympathy
 *Level 8 Enchantment*
 ___

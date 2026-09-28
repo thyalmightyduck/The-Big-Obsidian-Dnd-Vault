@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Blunderbuss, Hand]]), Uncommon*
 **Weapon:** 2d4 Piercing Advanced Weapon, Ranged Weapon

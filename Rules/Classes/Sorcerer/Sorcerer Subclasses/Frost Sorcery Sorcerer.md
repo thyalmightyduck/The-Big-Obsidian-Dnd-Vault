@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Frost Sorcery Sorcerer
 ## The Griffon’s Saddlebag, Book 1
 

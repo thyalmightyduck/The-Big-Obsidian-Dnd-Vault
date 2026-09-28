@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 3 Transmutation (sangromancy)_
 
 **Casting Time:** 1 minute

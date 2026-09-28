@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Pike]], Uncommon (Requires Attunement)*
 **Weapon:** 1d10 Piercing Martial Weapon, Melee Weapon

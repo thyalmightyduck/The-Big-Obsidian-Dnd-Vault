@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Tamer
 ## Heliana’s Guide to Monster Hunting
 

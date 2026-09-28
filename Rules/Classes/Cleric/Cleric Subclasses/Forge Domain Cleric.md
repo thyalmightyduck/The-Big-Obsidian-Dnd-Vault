@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Forge Domain Cleric
 ## Xanathar’s Guide to Everything:
 

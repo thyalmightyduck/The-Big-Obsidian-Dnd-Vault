@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Remarkable Recovery
 
 Your body has the ability to recover quickly from terrible injuries, and is unusually receptive to healing magic. You gain the following benefits:

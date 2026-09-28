@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Trickster's Toolbox
 
 General Feat (Prerequisite: Level 4+)

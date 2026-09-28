@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Lorehold Student
 
 - **Skill Proficiencies:** History, Religion

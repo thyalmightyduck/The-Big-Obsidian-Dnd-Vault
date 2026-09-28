@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Acolyte
 
 - **Skill Proficiencies:** Insight, Religion

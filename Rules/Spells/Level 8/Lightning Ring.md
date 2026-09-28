@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Lightning Ring
 *Level 8 Evocation*
 ___

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Halberd]], Rare (Requires Attunement)*
 **Weapon:** 1d10 Slashing, [[Martial Weapons]], [[Melee Weapons]]

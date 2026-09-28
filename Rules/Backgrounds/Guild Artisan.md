@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Guild Artisan
 
 - **Skill Proficiencies:** Insight, Persuasion

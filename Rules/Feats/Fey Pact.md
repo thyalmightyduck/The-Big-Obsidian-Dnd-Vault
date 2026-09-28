@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fey Pact
 
 Planar Pact Feat (Prerequisite: Can't Have Another Planar Pact Feat)

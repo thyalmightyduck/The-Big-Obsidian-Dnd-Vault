@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Plague Doctor Wizard
 ## Grim Hollow: Player’s Guide (2024)
 

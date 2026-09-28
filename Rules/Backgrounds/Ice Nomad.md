@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Ice Nomad
 
 - **Ability Scores:** Dexterity, Intelligence, Wisdom

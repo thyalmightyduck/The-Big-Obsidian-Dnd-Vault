@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cartomancer
 
 Prerequisite: Level 4+, Spellcasting Feature

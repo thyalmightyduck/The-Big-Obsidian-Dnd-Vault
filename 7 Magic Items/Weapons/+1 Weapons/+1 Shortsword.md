@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Shortsword]], Uncommon*
 **Weapon:** 1d6 Piercing Martial Weapon, Melee Weapon

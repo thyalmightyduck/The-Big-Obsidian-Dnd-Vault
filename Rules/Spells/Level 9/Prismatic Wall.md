@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Prismatic Wall
 *Level 9 Abjuration*
 ___

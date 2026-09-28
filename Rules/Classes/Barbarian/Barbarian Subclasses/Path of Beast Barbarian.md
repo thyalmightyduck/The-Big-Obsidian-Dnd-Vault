@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: Tasha’s Cauldron of Everything:
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

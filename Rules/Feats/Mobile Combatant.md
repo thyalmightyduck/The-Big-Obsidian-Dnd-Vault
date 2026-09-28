@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mobile Combatant
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

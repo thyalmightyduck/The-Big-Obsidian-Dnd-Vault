@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Drayfn's Blunted Blade
 *Level 2 Transmutation*
 ___

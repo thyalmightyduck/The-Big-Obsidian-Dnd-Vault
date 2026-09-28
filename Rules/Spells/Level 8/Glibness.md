@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Glibness
 *Level 8 Enchantment*
 ___

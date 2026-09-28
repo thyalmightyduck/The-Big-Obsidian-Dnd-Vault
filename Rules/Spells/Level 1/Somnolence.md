@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Somnolence
 *Level 1 Enchantment (sangromancy)*
 ___

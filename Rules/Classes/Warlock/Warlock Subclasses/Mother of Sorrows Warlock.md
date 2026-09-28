@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Mother of Sorrows Warlock
 ## Book of Ebon Tides
 

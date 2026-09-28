@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Rewarded
 
 - **Skill Proficiencies:** Insight, Persuasion

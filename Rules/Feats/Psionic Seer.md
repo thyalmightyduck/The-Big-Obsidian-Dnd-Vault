@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Psionic Seer
 
 You awaken your mind to see beyond space and time, granting you the following benefits:

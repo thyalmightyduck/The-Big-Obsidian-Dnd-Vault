@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Miasma
 *Level 7 Evocation*
 ___

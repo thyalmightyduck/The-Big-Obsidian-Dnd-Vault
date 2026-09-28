@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Sling]], Uncommon*
 **Weapon:** 1d4 Bludgeoning, Simple Weapon, Ranged Weapon

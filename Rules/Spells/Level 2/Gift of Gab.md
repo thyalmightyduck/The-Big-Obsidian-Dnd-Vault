@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Gift of Gab
 *Level 2 Enchantment*
 ___

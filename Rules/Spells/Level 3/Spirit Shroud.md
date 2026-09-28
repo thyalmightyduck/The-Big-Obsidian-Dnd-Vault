@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Spirit Shroud
 *Level 3 Necromancy*
 ___

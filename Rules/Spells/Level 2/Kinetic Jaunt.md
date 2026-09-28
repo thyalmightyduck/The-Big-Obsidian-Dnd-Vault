@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Kinetic Jaunt
 *Level 2 Transmutation*
 ___

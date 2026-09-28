@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Sabre]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon

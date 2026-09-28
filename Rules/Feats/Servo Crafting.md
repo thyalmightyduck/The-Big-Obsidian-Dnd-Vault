@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Servo Crafting
 
 Prerequisite: Intelligence 13+

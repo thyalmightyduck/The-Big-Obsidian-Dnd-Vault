@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 
 *Illusion Cantrip*
 ___

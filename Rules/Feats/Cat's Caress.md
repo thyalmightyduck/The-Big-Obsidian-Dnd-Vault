@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cat's Caress
 
 General Feat (Prerequisite: Proficiency with claw)

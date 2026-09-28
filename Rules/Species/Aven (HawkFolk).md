@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Plane Shift: Amonkhet
 **Ability Scores:** Dexterity +2

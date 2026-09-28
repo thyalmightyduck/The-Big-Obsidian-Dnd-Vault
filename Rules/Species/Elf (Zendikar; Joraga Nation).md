@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Elf (Zendikar; Joraga Nation)
 
 - **Ability Scores:** Wisdom +2; Dexterity +1

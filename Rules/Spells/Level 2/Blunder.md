@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Blunder
 *Level 2 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Duskling
 
 - **Creature Type:** Fey

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: The Griffon’s Saddlebag, Book 2
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

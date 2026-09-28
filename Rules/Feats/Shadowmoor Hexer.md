@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Shadowmoor Hexer
 
 Origin Feat

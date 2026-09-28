@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Tyro of the Gauntlet
 
 Origin Feat

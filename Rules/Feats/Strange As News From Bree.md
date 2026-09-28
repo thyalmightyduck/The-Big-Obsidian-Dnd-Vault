@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 _Virtues of the Men of Bree Feat (Prerequisite: Men of Bree or Bree-Hobbit Culture)_
 
 It is indeed true that the affairs of the four villages are the chief concern of the Bree-folk, but the most inquisitive among the inhabitants are always ready to gather what tidings come from distant lands. You have learnt that listening to the strange tales that travellers often talk about can prove to be very precious.

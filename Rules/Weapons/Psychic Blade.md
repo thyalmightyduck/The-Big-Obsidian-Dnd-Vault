@@ -1,11 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Simple
-  - Melee
-  - Finesse
-  - Thrown
-  - MasteryVex
+{}
 ---
 # Psychic Blade
 **Weapon:** 1d6 Psychic Simple Weapon, Melee Weapon

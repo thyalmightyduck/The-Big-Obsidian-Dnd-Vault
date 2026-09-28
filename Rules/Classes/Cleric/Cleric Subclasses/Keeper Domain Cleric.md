@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Keeper Domain Cleric
 ## Book of Ebon Tides:
 

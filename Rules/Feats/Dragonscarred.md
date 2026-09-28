@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Dragonscarred
 
 General Feat (Prerequisite: Level 4+, Cult of the Dragon Initiate)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Woodwise
 
 You have lived your entire life in the gnarled, wooded areas of the world. You are adept at finding your way through even the most treacherous terrain. You gain the following benefits:

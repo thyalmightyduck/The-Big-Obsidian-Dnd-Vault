@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Death Domain Cleric
 ## Dungeon Master’s Guide (2014)
 

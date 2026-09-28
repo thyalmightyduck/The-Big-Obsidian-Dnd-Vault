@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Undead Enthrallment
 *Level 8 Necromancy*
 ___

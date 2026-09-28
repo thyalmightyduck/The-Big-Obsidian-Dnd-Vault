@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # College of Wands Bard 
 ## Frontiers of Eberron: Quickstone
 

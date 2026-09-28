@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Pyrotechnics
 *Level 2 Transmutation*
 ___

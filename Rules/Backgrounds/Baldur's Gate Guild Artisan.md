@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Guild Artisan
 
 - **Skill Proficiencies:** Insight, Persuasion

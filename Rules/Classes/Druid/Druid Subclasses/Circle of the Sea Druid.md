@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Sea Druid
 ## Players Handbook (2024):
 

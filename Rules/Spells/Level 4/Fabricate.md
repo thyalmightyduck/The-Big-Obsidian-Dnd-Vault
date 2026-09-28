@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 4 Transmutation_
 
 **Casting Time:** 10 minutes

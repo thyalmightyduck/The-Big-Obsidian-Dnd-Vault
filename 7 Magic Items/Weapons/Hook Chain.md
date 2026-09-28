@@ -1,10 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
-  - Homebrew
+  - magicitem
 ---
 > [!infobox]
 > # Hook Chain

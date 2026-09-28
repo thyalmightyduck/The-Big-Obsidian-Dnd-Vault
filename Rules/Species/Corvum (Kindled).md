@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Info
 ## Humblewood Campaign Setting:
 **Ability Scores:** Intelligence +1; Charisma +1

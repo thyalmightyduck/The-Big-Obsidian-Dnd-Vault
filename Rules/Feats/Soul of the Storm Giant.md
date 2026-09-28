@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Soul of the Storm Giant
 
 Prerequisite: Level 4+, strike of the giants (storm strike)

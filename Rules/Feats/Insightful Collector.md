@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Insightful Collector
 
 Origin Feat

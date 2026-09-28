@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Earthquake
 *Level 8 Transmutation*
 ___

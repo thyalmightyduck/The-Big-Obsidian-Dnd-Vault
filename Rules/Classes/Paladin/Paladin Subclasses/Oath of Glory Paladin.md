@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Glory Paladin
 ## Player’s Handbook (2024)
 

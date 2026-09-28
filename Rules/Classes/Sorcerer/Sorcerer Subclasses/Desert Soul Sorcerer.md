@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Desert Soul Sorcerer
 ## The Griffon’s Saddlebag, Book 2
 

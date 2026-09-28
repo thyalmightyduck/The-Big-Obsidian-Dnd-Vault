@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Guardian Paladin
 ## Cthulhu by Torchlight
 

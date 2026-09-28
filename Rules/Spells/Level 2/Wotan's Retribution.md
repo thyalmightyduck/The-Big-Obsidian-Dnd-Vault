@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wotan's Retribution
 *Level 2 Conjuration*
 ___

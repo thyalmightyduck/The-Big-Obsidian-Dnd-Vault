@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Thought Rune
 *Level 2 Evocation*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Necromancy Level 4_
 
 **Casting Time:** Reaction, which you take when a creature you can see dies within 120 feet of you.

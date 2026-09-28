@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Freyja's Grace
 *Level 1 Abjuration*
 ___

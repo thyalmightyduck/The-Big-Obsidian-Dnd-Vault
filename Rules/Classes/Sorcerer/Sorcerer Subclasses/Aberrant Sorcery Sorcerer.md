@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Aberrant Sorcery Sorcerer
 ## Player’s Handbook (2024)
 

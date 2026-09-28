@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Truth's Blade
 *Level 3 Divination*
 ___

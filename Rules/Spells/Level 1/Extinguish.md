@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Extinguish
 *Level 1 Transmutation*
 ___

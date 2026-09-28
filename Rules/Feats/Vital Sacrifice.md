@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Vital Sacrifice
 
 You've learned secrets of hemocraft that grant you esoteric power at the price of your own life force. As a bonus action, you can choose to take 1d6 necrotic damage to gain a blood boon. Your blood boon lasts for 1 hour or until expended.

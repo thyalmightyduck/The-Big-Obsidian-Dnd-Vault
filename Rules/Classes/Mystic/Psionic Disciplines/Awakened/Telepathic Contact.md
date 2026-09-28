@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 By channeling psionic power, you gain the ability to control other creatures by substituting your will for their own.
 
 **Psychic Focus.** While focused on this discipline, you gain the ability to use your Telepathy class feature with up to six creatures at once. If you don’t have that feature from the mystic class, you instead gain it while focused on this discipline.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cold Caster
 
 General Feat (Prerequisite: Level 4+)

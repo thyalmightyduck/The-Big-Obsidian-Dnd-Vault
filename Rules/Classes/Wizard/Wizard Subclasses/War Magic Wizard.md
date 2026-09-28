@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # War Magic Wizard
 ## Xanathar’s Guide to Everything:
 

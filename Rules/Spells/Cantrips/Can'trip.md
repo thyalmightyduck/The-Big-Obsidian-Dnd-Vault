@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Can'trip
 *Abjuration Cantrip*
 ___

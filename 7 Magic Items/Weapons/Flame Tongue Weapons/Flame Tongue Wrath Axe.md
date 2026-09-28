@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Wrath Axe]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Slashing, Advanced Weapon, Melee Weapon

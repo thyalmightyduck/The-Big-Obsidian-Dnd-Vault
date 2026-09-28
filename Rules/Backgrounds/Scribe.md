@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Scribe
 
 - **Ability Scores:** Dexterity, Intelligence, Wisdom

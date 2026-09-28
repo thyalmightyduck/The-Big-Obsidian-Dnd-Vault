@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Astral Flood
 *Level 3 Evocation*
 ___

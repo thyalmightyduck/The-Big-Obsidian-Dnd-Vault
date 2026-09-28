@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Transmutation Level 5_
 
 **Casting Time:** Action

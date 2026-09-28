@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 General Feat: Prerequisites Level 10
 Your Words Are Honeyed, Your Charm Is Irresistible, And Your Voice? Why, It’s Practically A Work Of Art. Whether You’re Weaving A Tale, Talking Your Way Out Of Trouble, Or Impersonating A Noble To Sneak Into The Royal Gala, Your Verbal Prowess Is Unmatched. You Gain The Following Benefits:
 

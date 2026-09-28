@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Focused Critical
 
 General Feat (Prerequisite: Level 4+)

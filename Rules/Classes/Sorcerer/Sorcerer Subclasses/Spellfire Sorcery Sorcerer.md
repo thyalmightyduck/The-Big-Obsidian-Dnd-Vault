@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Spellfire Sorcery Sorcerer
 ## Forgotten Realms: Heroes of Faurûn
 

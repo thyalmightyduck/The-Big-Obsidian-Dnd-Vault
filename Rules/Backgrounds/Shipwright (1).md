@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Shipwright
 
 - **Ability Scores:** Dexterity, Strength, Wisdom

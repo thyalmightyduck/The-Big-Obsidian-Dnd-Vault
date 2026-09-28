@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Melee
-  - TwoHanded
-  - Special
+{}
 ---
 **Weapon:** 1d8 Piercing Martial Weapon, Melee Weapon
 **Properties:** Two‑handed, special

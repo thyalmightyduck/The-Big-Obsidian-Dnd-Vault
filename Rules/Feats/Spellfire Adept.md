@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Spellfire Adept
 
 General Feat (Prerequisite: Level 4+, Spellfire Spark or Spellcasting or Pact Magic Features)

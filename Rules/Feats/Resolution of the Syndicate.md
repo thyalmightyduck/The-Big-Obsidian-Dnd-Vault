@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Resolution of the Syndicate
 
 Origin Feat

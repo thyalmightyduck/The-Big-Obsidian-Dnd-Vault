@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Noble (Retainers)
 
 - **Skill Proficiencies:** History, Persuasion

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Samurai Fighter
 ## Xanathar’s Guide to Everything
 

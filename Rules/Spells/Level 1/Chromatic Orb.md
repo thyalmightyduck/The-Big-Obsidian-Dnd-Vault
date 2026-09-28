@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 *Evocation Level 1*
 **Casting Time:** Action
 **Range:** 90 Feet

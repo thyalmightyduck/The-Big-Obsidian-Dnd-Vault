@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Touch of Darkness
 
 Kindred Feat (Prerequisite: Level 2+  Kindred)

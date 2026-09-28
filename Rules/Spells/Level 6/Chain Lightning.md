@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Chain Lightning
 *Level 6 Evocation*
 ___

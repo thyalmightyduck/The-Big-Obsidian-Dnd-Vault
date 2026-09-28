@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Shepherd Druid
 ## Xanathar’s Guide to Everything:
 

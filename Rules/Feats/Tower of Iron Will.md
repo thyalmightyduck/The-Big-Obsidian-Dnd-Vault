@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Tower of Iron Will
 
 Prerequisite: Psionic Talent feature or Wild Talent feat

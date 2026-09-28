@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Doomtide
 *Level 4 Conjuration*
 ___

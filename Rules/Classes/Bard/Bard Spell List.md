@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 ## Cantrip
 - [[Aundair's Silent Sanctum]]
 - [[Blade Ward]]

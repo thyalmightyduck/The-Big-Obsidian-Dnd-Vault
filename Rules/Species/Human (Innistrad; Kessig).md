@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Human (Innistrad; Kessig)
 
 - **Ability Scores:** Dexterity +1; Wisdom +1

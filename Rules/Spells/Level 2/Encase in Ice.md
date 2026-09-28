@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Encase in Ice
 *Level 2 Conjuration*
 ___

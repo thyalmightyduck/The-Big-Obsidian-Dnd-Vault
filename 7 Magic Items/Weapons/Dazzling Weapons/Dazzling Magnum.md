@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Magnum]], Rare (Requires Attunement)*
 **Weapon:** 2d8 Piercing Martial Weapon, Ranged Weapon, Firearm

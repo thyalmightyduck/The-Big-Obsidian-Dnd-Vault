@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Monster Hunter: Grim Hallow: Player’s Guide:
 
 | Level | Proficiency Bonus | Features                                | Weapon Mastery |

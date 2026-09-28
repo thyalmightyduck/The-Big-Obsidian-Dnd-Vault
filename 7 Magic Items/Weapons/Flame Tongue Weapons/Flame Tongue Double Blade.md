@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Double Blade]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing, Advanced Weapon, Melee Weapon

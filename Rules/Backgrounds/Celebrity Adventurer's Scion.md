@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Celebrity Adventurer's Scion
 
 - **Skill Proficiencies:** Perception, Performance

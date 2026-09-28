@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits ERLW
 - Ability Scores: Wisdom +2; Choose any other +1
     

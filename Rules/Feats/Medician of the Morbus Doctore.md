@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Medician of the Morbus Doctore
 
 General Feat (Prerequisite: Level 4+, Triage Expert)

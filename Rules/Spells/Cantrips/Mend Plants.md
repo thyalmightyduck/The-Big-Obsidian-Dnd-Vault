@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mend Plants
 *Transmutation Cantrip*
 ___

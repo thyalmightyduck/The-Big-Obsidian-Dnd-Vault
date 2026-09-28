@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Enemies Abound
 *Level 3 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Luckfingers
 *Level 3 Enchantment*
 ___

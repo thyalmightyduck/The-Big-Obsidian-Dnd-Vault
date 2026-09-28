@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Seafarer (Fisher)
 
 - **Ability Scores:** Charisma, Dexterity, Strength

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 4 Evocation (sangromancy)_
 
 **Casting Time:** Action

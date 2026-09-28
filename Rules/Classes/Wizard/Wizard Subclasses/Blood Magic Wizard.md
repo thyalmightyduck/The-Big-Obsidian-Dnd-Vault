@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Blood Magic Wizard
 ## Tal’Dorei Campaign Setting Reborn
 

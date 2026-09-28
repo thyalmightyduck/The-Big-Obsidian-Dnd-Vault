@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Speech of the Ancient Beasts
 
 You have a special connection with the natural world. Great beasts regard you as their kin, and you possess the ability to speak the languages of the most powerful and mystic of their kind. You gain the following benefits:

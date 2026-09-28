@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Boros Legionnaire
 
 - **Skill Proficiencies:** Athletics, Intimidation

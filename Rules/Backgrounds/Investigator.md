@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Investigator
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

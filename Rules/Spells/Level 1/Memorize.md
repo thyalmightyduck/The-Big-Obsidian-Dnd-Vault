@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Memorize
 *Level 1 Enchantment*
 ___

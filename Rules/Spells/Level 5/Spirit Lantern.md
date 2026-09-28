@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Spirit Lantern
 *Level 5 Necromancy*
 ___

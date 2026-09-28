@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fury of the Frost Giant
 
 Prerequisite: Level 4+, strike of the giants (frost strike)

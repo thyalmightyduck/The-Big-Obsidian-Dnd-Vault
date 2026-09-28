@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: OSW:HAP
 - Creature Type: Construct
     

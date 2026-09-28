@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Brave at a Pinch
 
 Virtues of the Hobbits Feat (Prerequisite: Hobbit Culture)

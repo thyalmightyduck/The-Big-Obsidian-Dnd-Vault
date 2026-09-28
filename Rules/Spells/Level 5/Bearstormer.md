@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bearstormer
 *Level 5 Illusion*
 ___

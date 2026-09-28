@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cannoneer
 
 General Feat (Prerequisite: Level 8+, Strength 18+)

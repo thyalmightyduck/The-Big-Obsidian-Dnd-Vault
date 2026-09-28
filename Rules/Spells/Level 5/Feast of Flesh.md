@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Feast of Flesh
 *Level 5 Transmutation*
 ___

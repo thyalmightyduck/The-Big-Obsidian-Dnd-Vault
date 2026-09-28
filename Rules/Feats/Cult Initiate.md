@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cult Initiate
 
 Origin Feat

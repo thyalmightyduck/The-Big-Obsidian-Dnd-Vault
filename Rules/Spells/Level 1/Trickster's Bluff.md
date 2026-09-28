@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Trickster's Bluff
 *Level 1 Conjuration*
 ___

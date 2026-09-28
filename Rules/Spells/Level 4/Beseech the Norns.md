@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Beseech the Norns
 *Level 4 Divination*
 ___

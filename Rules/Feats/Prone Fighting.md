@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Prone Fighting
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

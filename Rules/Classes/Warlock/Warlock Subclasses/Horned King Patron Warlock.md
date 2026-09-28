@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Horned King Patron Warlock
 ## The Crooked Moon (2024)
 

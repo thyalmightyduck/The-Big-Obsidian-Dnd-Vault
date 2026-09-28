@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Wand
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 Wand, Uncommon (Requires [[Attunement]] By a Spellcaster)
 1 lb.

@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Legendary
-  - Attunement
+  - magicitem
   - Homebrew
 ---
 *Armor (Half Plate Or Plate), Legendary, (Requires [[Attunement]])*

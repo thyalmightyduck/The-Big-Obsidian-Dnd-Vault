@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Continental Nobility
 
 - **Skill Proficiencies:** Two of the following: Persuasion, Athletics, History, or Intimidation

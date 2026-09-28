@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## House Thuranni Heir
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

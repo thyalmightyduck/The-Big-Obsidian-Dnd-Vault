@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapoon [[Knightly Sword]], Uncommon*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 _Epic Boon Feat (Prerequisites: Level 19+; Spellcasting or Pact Magic Feature)_
 You gain the following benefits:
 **Ability Score Increase:** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 30.

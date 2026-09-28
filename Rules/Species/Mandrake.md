@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 - Creature Type: Plant
     
 - Size: Medium (about 5-7 feet tall)

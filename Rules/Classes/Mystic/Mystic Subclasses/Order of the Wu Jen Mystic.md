@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Order of the Wu Jen Mystic
 ## Unearthed Arcana: The Mystic Class
 

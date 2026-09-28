@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Demonshard Barbarian
 ## Frontiers of Eberron: Quickstone
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Scholar of the Hunt
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

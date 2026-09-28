@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mark of Sentinel
 
 Dragonmark Feat (Prerequisite: Eberron Campaign, Can't Have Another Dragonmark Feat)

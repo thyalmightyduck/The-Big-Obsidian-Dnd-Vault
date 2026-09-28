@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Necromancy Level 3_
 
 **Casting Time:** [[Bonus action]]

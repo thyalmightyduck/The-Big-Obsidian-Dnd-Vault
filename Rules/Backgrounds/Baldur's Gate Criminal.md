@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Criminal
 
 - **Skill Proficiencies:** Deception, Stealth

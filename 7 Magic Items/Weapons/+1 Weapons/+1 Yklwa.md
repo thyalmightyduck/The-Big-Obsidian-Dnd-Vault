@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Yklwa]], Uncommon*
 **Weapon:** 1d8 Piercing, Simple Weapon, Melee Weapon

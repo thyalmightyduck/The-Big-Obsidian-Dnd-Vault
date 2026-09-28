@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Expert Forger
 
 Crafting Feat

@@ -1,16 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Ranged
-  - Firearm
-  - Range
-  - Ammunition
-  - Heavy
-  - Loading
-  - TwoHanded
-  - MasteryScatter
+{}
 ---
 **Weapon:** 1d12 Piercing Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 20/60ft.; Shot), Heavy, Loading, Renaissance Era, Two-Handed

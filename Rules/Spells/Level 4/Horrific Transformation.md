@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 4 Transmutation (contaminated)_
 
 **Casting Time:** Action

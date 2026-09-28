@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Perfection
 *Level 9 Abjuration*
 ___

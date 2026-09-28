@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Holy Weapon
 *Level 5 Evocation*
 ___

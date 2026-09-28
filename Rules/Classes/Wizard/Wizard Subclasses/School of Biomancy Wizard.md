@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # School of Biomancy Wizard
 ## Heliana’s Guide to Monster Hunter
 

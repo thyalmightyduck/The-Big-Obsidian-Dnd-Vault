@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 _Epic Boon Feat (Prerequisite: 19+)_
 
 You gain the following benefits.

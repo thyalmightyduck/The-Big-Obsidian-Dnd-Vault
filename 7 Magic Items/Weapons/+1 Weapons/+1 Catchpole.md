@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Catchpole]]), Uncommon*
 **Weapon:** 1d6 Piercing Advanced Weapon, Melee Weapon

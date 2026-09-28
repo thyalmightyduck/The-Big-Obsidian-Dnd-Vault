@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Deathbound
 
 Origin Feat

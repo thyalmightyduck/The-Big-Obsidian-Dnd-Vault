@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Grim Harvest
 *Level 6 Necromancy*
 ___

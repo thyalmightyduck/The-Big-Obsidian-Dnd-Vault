@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Transmutation Cantrip (chronomancy)_
 
 **Casting Time:** [[Bonus action]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Zhentarim Tactics
 
 General Feat (Prerequisite: Level 4+, Zhentarim Ruffian)

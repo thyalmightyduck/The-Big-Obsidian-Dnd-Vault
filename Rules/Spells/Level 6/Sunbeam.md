@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sunbeam
 *Level 6 Evocation*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Druid Grove
 *Level 6 Abjuration*
 ___

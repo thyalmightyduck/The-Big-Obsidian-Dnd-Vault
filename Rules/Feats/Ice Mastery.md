@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Ice Mastery
 
 General Feat (Prerequisite: Level 4+, Elemental Adept with Cold Spells)

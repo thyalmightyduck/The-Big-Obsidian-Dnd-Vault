@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Elbereth Gilthoniel!
 
 Virtues of the Elves Feat (Prerequisite: Elven Culture)

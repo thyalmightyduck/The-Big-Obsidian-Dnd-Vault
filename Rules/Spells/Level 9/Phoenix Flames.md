@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Phoenix Flames
 *Level 9 Evocation*
 ___

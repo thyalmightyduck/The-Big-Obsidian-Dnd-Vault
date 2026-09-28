@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Noble (Disgraced)
 
 - **Skill Proficiencies:** History, Persuasion

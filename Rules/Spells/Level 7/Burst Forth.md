@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Burst Forth
 *Level 7 Conjuration (sangromancy)*
 ___

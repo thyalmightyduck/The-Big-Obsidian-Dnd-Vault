@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Rashemi Wanderer
 
 - **Ability Scores:** Strength, Constitution, Charisma

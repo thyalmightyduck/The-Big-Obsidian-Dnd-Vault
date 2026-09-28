@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: TLotRR
 - Ability Scores: Choose one of: (a) From Strength, Constitution, and Wisdom choose one ability to increase by 2, one other ability to increase by 1, and one other ability to increase by 1 (b) Strength +1; Constitution +1; Wisdom +1; Choose any other +1
     

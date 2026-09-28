@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Grim Hallow: Player’s Guide (2024):
 **Creature Type:** Humanoid

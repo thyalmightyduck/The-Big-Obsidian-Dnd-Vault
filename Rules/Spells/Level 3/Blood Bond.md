@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 3 Enchantment (sangromancy)_
 
 **Casting Time:** Action

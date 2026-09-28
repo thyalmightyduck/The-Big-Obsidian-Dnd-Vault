@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sacrament of the Falling Fire
 *Level 9 Abjuration*
 ___

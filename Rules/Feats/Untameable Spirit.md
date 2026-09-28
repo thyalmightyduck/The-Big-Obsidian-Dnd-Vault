@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Untameable Spirit
 
 Virtues of the Dwarves Feat (Prerequisite: Dwarven Culture)

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Whitestone Rifle Corps
 
 - **Skill Proficiencies:** Your choice of two of the following: Athletics, Perception, or Survival

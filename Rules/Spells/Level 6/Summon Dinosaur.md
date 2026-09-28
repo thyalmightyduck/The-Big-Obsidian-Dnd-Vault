@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Summon Dinosaur
 *Level 6 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Mordenkainen Presents: Monsters of the Multiverse
 **Ability Scores:** Choose one of the following:
 - Choose any +2 to a ability and +1 to a ability

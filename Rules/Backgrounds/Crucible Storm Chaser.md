@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Crucible Storm Chaser
 
 - **Ability Scores:** Strength, Constitution, Intelligence

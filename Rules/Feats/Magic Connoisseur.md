@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Magic Connoisseur
 
 General Feat (Prerequisite: Level 4+, Magic Initiate)

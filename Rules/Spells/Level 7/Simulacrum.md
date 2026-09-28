@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Illusion Level 7_
 
 **Casting Time:** 12 hours

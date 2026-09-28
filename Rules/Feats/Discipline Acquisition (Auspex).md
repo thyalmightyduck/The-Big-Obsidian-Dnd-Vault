@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Discipline Acquisition (Auspex)
 
 Kindred Feat (Prerequisite: Level 4+  Kindred)

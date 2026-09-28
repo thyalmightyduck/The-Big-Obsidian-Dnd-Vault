@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Attunement
-  - Homebrew
+  - magicitem
 ---
 # Handheld Ballista
 > [!infobox]

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Flesh to Bone
 *Level 3 Transmutation (biomancy)*
 ___

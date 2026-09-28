@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Highway Rider Rogue
 ## Grim Hallow: Player’s Guide (2024)
 

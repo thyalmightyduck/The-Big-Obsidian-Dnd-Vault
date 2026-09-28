@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## High Destiny
 
 Virtues of the Bardings Feat (Prerequisite: Barding Culture)

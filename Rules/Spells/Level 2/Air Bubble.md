@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Air Bubble
 *Level 2 Conjuration*
 ___

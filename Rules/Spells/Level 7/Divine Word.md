@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Divine Word
 *Level 7 Evocation*
 ___

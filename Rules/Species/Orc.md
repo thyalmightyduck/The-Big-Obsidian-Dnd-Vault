@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: EGW
 - Ability Scores: Strength +2; Constitution +1
     

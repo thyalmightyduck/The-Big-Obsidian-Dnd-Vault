@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Gnoll
 
 - **Creature Type:** Humanoid

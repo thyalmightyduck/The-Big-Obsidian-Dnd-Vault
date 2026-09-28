@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Book of Ebon Tides
 **Abillity Scores:** Strength +2

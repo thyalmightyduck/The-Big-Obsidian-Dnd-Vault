@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits EFA
 **Creature Type:** Aberration
 **Size:** Medium (about 6–7 feet tall)

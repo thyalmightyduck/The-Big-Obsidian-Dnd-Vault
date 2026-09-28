@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of Contamination Druid
 ## Sebastian Crowe’s Guide to Drakkenheim
 

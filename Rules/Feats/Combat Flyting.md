@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Combat Flyting
 
 General Feat (Prerequisite: Charisma 13+, Proficiency in the Deception skill)

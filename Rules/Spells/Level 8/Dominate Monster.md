@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 8 Enchantment_
 
 **Casting Time:** Action

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Rune Shaper
 
 Prerequisite: Spellcasting Feature or Rune Carver

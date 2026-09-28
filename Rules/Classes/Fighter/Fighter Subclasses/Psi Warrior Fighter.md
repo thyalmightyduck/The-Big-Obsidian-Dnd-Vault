@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Psi Warrior Fighter
 ## Player’s Handbook (2024)
 

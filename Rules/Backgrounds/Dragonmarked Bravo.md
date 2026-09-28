@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Dragonmarked Bravo
 
 - **Ability Scores:** Strength, Dexterity, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Goblin (Zendikar; Lavastep Tribe)
 
 - **Ability Scores:** Constitution +2

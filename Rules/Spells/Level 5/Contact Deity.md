@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Contact Deity
 *Level 5 Divination*
 ___

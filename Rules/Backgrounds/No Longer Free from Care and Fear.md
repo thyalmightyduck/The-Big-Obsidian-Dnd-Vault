@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## No Longer Free from Care and Fear
 
 - **Skill Proficiencies.** Deception, Investigation

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Three is Company
 
 Virtues of the Hobbits Feat (Prerequisite: Hobbit Culture)

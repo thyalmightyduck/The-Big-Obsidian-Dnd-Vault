@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Player’s Handbook (2014):
 _Transmutation Level 1_
 

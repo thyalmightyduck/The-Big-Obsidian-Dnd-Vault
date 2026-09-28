@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Harvest Domain Cleric
 ## The Crooked Moon (2024):
 

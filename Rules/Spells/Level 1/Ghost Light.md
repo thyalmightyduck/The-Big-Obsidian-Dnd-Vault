@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ghost Light
 *Level 1 Evocation*
 ___

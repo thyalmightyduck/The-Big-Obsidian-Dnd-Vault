@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Ascended Vampire
 
 Epic Boon Feat (Prerequisite: Level 19+, Vampire Transformation)

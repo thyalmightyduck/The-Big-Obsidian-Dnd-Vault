@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 9 Necromancy_
 
 **Casting Time:** 1 hour

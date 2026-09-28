@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Frightful Start
 *Illusion Cantrip*
 ___

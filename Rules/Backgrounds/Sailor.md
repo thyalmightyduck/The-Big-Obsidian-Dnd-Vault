@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Sailor
 
 - **Ability Scores:** Strength, Dexterity, Wisdom

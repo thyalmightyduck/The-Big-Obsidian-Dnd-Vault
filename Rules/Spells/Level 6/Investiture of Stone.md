@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Investiture of Stone
 *Level 6 Transmutation*
 ___

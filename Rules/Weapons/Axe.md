@@ -1,10 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Simple
-  - Melee
-  - Versatile
+{}
 ---
 **Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon
 **Properties:** Versatile (1d8)

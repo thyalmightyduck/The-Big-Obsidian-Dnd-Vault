@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Living Crucible Fighter
 ## Grim Hallow: Player’s Guide (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ice Shape
 *Level 1 Conjuration*
 ___

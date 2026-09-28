@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Gust Barrier
 *Evocation Cantrip*
 ___

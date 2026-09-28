@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Acolyte
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

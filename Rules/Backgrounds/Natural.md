@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Natural
 
 - **Ability Scores:** Dexterity, Wisdom, Charisma

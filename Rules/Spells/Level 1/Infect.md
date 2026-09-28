@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Necromancy Level 1_
 
 **Casting Time:** Action

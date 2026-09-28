@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Chains of Beleth
 *Level 6 Conjuration*
 ___

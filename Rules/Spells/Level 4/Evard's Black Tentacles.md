@@ -1,8 +1,6 @@
 ---
 tags:
   - Spell
-  - Conjuration
-  - Concentration
 aliases:
   - Evards Black Tentacles
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Info
 ## Book of Ebon Tides:
 **Ability Scores:** Constitution +1; Strength +2

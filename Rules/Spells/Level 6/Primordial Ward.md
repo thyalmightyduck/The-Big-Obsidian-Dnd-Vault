@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Primordial Ward
 *Level 6 Abjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Ravens' Friend
 
 General Feat (Prerequisite: Level 4+)

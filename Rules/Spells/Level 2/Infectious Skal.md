@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Infectious Skal
 *Level 2 Enchantment*
 ___

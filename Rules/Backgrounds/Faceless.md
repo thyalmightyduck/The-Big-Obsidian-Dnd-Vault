@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Faceless
 
 - **Skill Proficiencies:** Deception, Intimidation

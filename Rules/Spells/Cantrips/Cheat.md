@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Cheat
 *Divination Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Festering Blast
 *Level 4 Necromancy*
 ___

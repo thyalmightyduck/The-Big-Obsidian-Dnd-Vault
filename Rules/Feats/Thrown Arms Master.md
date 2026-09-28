@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Thrown Arms Master
 
 You've honed your ability to lob weaponry into the fray, including weapons not meant for ranged combat. You gain the following benefits:

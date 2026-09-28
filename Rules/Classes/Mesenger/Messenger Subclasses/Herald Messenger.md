@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Herald Messenger
 ## The Lord of the Rings Roleplaying
 

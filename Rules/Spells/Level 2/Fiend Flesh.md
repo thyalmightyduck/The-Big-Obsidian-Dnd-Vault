@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fiend Flesh
 *Level 2 Transmutation*
 ___

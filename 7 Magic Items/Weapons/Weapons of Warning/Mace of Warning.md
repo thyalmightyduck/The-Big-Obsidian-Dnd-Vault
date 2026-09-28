@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Mace]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning Simple Weapon, Melee Weapon

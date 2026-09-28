@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Far-Reaching Herald
 
 - **Skill Proficiencies.** Athletics, Travel

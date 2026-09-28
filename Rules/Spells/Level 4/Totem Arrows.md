@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Totem Arrows
 *Level 4 Transmutation*
 ___

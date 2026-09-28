@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 5 Evocation_
 
 **Casting Time:** Action

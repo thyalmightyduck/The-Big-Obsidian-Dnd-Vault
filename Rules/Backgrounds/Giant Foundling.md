@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Giant Foundling
 
 - **Skill Proficiencies:** Intimidation, Survival

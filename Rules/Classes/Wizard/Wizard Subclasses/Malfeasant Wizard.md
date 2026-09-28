@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Malfeasant Wizard
 ## Sebastian Crowe’s Guide to Drakkenheim:
 

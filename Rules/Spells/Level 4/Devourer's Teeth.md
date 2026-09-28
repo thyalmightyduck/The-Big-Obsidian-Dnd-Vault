@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Devourer's Teeth
 *Level 4 Conjuration*
 ___

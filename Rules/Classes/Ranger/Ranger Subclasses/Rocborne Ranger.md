@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Rocborne Ranger
 ## The Griffon’s Saddlebag, Book 2
 

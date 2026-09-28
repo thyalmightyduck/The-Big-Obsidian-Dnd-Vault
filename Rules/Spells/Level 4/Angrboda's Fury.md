@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Angrboda's Fury
 *Level 4 Transmutation*
 ___

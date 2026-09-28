@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Level 9_
 
 **Casting Time:** Action

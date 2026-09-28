@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Motivational Speech
 *Level 3 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Leiloch's Interminable Yarn
 *Level 5 Enchantment*
 ___

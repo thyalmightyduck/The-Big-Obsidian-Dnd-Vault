@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Big Game Hunter Druid
 ## Dr Dhrolin’s Dictionary of Dinosaurs (2024)
 

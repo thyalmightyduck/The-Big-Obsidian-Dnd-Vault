@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Prismatic Spray
 *Level 7 Evocation*
 ___

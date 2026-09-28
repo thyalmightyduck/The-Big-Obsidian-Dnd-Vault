@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Eberron: Rising from the Last War:
 **Ability Scores:** Strength +2; Dexterity +1

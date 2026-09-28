@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You augment your natural strength with psionic energy, granting you the ability to achieve incredible feats of might.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Strength(Athletics) checks.

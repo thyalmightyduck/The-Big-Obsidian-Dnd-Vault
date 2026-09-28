@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Rumor
 *Level 1 Enchantment*
 ___

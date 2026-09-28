@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Brujah Kindred
 ## Vampire: The Masquerade - Bound by Blood (VTMBB)
 

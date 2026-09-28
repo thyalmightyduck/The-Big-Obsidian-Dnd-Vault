@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bloodbane Rune
 *Level 1 Transmutation (sangromancy)*
 ___

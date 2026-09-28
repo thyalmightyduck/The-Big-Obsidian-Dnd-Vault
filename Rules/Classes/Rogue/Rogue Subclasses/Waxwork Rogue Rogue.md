@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Waxwork Rogue Rogue
 ## Obojima: Tales from the Tall Grass
 

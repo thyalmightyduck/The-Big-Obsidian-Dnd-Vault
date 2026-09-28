@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Arcanomagnetic Storm
 *Level 7 Evocation*
 ___

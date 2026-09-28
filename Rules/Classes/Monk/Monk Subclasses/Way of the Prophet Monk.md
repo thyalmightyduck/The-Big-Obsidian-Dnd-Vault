@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Prophet Monk
 ## Book of Ebon Tides
 

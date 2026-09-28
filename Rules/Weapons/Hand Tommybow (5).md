@@ -1,13 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Ranged
-  - Range
-  - Ammunition
-  - Light
-  - Reload
+{}
 ---
 **Weapon:** 1d6 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (30/60 ft.), light, Reload (5)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Arcanomagnetic Repulsion
 *Level 2 Abjuration*
 ___

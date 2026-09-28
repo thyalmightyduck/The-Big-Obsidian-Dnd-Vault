@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 2 Divination (sangromancy)_
 
 **Casting Time:** Bonus action

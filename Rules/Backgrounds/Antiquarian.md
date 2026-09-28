@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Antiquarian
 
 - **Ability Scores:** Dexterity, Constitution, Intelligence

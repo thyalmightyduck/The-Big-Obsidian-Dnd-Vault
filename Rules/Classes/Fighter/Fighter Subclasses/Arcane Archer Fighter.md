@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Arcane Archer Fighter
 ## Xanathar’s Guide to Everything
 

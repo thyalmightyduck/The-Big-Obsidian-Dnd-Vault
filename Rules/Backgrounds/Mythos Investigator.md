@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Mythos Investigator
 
 - **Ability Scores:** Increase an ability score by 2 and another one of your choice by 1, or increase three different ability scores by 1. None of these increases can raise a score above 20.

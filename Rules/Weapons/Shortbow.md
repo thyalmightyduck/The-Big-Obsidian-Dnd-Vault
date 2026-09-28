@@ -1,12 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Simple
-  - Ranged
-  - Range
-  - Ammunition
-  - TwoHanded
-  - MasteryVex
+{}
 ---
 **Weapon:** 1d6 Piercing Simple Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 80/320ft.; Arrow), Two-Handed

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Distorted Distance
 *Level 4 Illusion*
 ___

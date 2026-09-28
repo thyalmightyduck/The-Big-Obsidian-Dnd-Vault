@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Stone Sovereign Patron Warlock
 ## Frontiers of Eberron: Quickstone
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Theft of Vitae
 *Level 2 Transmutation (sangromancy)*
 ___

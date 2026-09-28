@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mass Heal
 *Level 9 Abjuration*
 ___

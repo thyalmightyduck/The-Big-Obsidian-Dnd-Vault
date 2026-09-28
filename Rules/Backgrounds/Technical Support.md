@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Technical Support
 
 - **Ability Scores:** Dexterity, Constitution, Intelligence

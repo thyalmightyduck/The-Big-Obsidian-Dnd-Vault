@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Charnel Banquet
 *Level 7 Necromancy*
 ___

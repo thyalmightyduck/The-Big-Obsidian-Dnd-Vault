@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Smuggler
 
 - **Skill Proficiencies:** Athletics, Deception

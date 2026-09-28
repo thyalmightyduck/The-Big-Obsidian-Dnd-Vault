@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Vampire's Plaything
 
 Origin Feat

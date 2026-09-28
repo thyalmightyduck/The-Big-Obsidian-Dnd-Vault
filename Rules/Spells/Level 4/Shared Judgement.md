@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shared Judgement
 *Level 4 Evocation*
 ___

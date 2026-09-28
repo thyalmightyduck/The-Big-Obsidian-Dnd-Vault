@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Pyromancer Sorcerer
 ## Plane Shift: Kaladesh:
 

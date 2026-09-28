@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Invoke the Amaranthine
 *Level 3 Divination*
 ___

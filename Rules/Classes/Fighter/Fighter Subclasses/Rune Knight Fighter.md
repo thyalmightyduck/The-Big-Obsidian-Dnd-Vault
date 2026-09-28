@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Run Knight Fighter
 ## Tasha’s Cauldron of Everything
 

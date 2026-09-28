@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Iron Gut
 
 General Feat (Prerequisite: Level 4+, Constitution 13+)

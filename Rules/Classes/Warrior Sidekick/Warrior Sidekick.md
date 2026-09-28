@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior Sidekick
 ## Tasha’s Cauldron of Everything
 

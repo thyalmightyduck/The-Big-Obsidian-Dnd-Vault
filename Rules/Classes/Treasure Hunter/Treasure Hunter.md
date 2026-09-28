@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Treasure Hunter: The Lord of the Rings Roleplaying: 
 
 | Level | [[Proficiency Bonus]] | Features                           | Sneak Attack |

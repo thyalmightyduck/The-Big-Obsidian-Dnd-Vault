@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Thief Rogue
 ## Player’s Handbook (2024)
 

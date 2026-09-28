@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cult of the Dragon Initiate
 
 Origin Feat

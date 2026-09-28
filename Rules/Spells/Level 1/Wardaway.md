@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wardaway
 *Level 1 Abjuration*
 ___

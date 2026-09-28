@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Hardened Skin
 
 Kindred Feat (Prerequisite: Level 7+  Kindred)

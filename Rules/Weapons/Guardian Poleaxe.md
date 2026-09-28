@@ -1,15 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Melee
-  - Damage
-  - Hafted
-  - Heavy
-  - Reach
-  - TwoHanded
-  - MasterySet
+{}
 ---
 **Weapon:** 1d10 Slashing Advanced Weapon, Melee Weapon
 **Properties:** Damage (Piercing), Hafted, Heavy, Reach, Two‑Handed

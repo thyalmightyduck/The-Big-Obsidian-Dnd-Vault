@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Reformed Cultist
 
 - **Skill Proficiencies:** Deception and Religion

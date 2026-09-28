@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Abjuration Level 1_
 
 **Casting Time:** [[Reaction]], which you take when you take acid, cold, fire, lightning, or thunder damage

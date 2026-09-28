@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Surtr's Touch
 
 General Feat (Prerequisite: Level 4+)

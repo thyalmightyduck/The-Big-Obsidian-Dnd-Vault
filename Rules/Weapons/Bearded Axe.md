@@ -1,12 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Melee
-  - Heavy
-  - Versatile
-  - MasteryCleave
+{}
 ---
 **Weapon:** 1d8 Piercing Martial Weapon, Melee Weapon
 **Properties:** Heavy, Versatile (1d12)

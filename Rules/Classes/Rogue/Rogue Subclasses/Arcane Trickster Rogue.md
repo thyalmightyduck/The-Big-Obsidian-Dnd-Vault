@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Arcane Trickster Rogue
 ## Player’s Handbook (2024)
 

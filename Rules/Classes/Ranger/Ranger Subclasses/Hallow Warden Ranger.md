@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hallow Warden Ranger
 ## Ravenloft: The Horrors Within
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Hit Die
 
 Beyond 10th Level Feat

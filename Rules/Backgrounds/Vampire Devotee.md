@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Vampire Devotee
 
 - **Ability Scores:** Strength, Constitution, Charisma

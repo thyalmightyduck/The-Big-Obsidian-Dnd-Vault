@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Octarine Spray
 *Level 7 Evocation (contaminated)*
 ___

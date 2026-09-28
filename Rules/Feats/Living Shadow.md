@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Living Shadow
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Fey
 *Level 6 Conjuration*
 ___

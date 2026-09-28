@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Solidarity Domain Cleric
 ## Plane Shift: Amonkhet
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Players Handbook (2014):
 **Ability Scores:** Strength +2; Charisma +1

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Supreme Discipline Acquisition (Potence)
 
 Kindred Feat (Prerequisite: Level 16+  Kindred, Superior Discipline Acquisition (Potence))

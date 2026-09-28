@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of Shadow Monk
 ## Player’s Handbook (2024)
 

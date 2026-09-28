@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Guardian of Nature
 *Level 4 Transmutation*
 ___

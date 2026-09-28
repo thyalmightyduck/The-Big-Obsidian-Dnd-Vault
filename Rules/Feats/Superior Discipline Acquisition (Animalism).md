@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Superior Discipline Acquisition (Animalism)
 
 Kindred Feat (Prerequisite: Level 12+  Kindred, Greater Discipline Acquisition (Animalism))

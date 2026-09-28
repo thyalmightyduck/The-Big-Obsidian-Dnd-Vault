@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure the Deep Haze
 *Level 5 Conjuration (contaminated)*
 ___

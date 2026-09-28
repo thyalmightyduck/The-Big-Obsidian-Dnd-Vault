@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Path of the Primal Spirit Barbarian 
 ## Grim Hallow: Player’s Guide (2024):
 

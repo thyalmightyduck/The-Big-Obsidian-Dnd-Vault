@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fairy Trickster
 
 General Feat (Prerequisite: Level 4+)

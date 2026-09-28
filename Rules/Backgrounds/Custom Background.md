@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Custom Background
 
 - **Skill Proficiencies:** Two of your choice

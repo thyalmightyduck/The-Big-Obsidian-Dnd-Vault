@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Wand Expert
 
 General Feat (Prerequisite: Level 4+)

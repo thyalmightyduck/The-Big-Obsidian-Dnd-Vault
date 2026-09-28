@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Superior Shifting
 
 General Feat (Prerequisite: Level 4+, Shifter)

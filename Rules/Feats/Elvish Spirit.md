@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Elvish Spirit
 
 Virtues of the Elves Feat (Prerequisite: Elven Culture)

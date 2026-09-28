@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Quandrix Student
 
 - **Skill Proficiencies:** Arcana, Nature

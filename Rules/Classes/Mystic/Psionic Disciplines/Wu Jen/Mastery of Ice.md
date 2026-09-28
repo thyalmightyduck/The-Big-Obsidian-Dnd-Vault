@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You Master the power of ice, shaping it to meet you demands.
 
 **Psychic Focus.** While focused on this discipline, you have resistance to cold damage.

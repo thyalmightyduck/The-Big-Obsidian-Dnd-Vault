@@ -1,13 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Advanced
-  - Melee
-  - Finesse
-  - Light
-  - Thrown
-  - MasteryReturning
+{}
 ---
 **Weapon:** 1d8 Piercing Advanced Weapon, Melee Weapon
 **Properties:** Finesse, Light, Thrown (30/120 ft.)

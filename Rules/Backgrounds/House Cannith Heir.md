@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## House Cannith Heir
 
 - **Ability Scores:** Strength, Dexterity, Intelligence

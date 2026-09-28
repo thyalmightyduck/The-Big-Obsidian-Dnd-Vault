@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Life Tether
 *Level 2 Necromancy*
 ___

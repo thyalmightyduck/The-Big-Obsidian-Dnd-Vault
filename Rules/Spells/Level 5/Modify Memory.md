@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Enchantment Level 5_
 
 **Casting Time:** Action

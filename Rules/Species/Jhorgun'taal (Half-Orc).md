@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Jhorgun'taal (Half-Orc)
 
 - **Creature Type:** Humanoid

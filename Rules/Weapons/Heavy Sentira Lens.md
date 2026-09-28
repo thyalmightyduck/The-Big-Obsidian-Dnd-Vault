@@ -1,13 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Ranged
-  - Range
-  - Psiactive
-  - TwoHanded
-  - Heavy
+{}
 ---
 **Weapon:** 1d6 Psychic Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 150/600ft.; Arrow), Heavy, Two-Handed

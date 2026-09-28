@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Flesh Patron Warlock
 ## Sebastian Crowe’s Guide to Drakkenheim
 

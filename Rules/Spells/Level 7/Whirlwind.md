@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Whirlwind
 *Level 7 Evocation*
 ___

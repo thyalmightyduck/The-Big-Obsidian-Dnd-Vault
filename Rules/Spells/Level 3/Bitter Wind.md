@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bitter Wind
 *Level 3 Evocation*
 ___

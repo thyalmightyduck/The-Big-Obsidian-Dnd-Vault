@@ -1,9 +1,7 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Rare
-  - Variant
+  - magicitem
+  - DMG24
 ---
 Generic Variant, Rare
 - - - 

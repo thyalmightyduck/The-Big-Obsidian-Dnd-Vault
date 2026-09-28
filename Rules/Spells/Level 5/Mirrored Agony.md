@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mirrored Agony
 *Level 5 Abjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Wordweaver
 
 - **Skill Proficiencies.** Deception, Riddle

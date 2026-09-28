@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Hibernation
 *Level 2 Necromancy*
 ___

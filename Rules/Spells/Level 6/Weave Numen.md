@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Weave Numen
 *Level 6 Divination*
 ___

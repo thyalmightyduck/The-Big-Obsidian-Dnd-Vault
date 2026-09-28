@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Crown of Radiance
 *Level 6 Evocation*
 ___

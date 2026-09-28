@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Marrow Transplant
 *Level 4 Necromancy (osteomancy)*
 ___

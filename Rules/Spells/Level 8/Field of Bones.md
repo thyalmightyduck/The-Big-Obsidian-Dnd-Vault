@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Field of Bones
 *Level 8 Necromancy*
 ___

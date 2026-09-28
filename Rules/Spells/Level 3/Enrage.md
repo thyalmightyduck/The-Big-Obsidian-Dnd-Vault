@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Enrage
 *Level 3 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Biohazard
 *Level 2 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Careful Crafter
 
 Prerequisite: Proficiency in a skill or tool

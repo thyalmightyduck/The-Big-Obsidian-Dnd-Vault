@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Corrupted Ranger Ranger
 ## Obojima: Tales from the Tall Grass
 

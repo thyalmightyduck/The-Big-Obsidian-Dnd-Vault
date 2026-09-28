@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 *Enchantment Level 1*
  
 **Casting Time:** Action

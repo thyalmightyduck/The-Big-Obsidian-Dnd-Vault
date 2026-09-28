@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You refocus your sight to see the energy that surrounds all creatures. You perceive auras, energy signatures that can reveal key elements of a creature’s nature.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Wisdom (Insight) checks.

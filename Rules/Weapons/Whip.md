@@ -1,11 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Melee
-  - Finesse
-  - Reach
-  - MasterySlow
+{}
 ---
 **Weapon:** 1d4 Slashing Martial Weapon, Melee Weapon
 **Properties:** Finesse, Reach

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Silence
 *Level 2 Illusion*
 ___

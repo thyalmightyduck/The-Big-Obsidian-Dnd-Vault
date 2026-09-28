@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Intaglio
 *Level 1 Transmutation*
 ___

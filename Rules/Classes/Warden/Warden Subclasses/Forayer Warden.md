@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Forayer Warden
 ## The Lord of the Rings Roleplaying:
 

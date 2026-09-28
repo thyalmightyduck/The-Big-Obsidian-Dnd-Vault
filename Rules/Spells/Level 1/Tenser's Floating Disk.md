@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tenser's Floating Disk
 *Level 1 Conjuration*
 ___

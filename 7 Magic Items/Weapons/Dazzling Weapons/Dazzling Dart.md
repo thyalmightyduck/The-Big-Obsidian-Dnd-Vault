@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Dart]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing Simple Weapon, Ranged Weapon

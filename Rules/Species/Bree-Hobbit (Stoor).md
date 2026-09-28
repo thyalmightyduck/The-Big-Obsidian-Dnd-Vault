@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits:
 ## The Lord of the Rings Roleplaying
 **Ability Scores:** Dexterity +2; Constitution +1

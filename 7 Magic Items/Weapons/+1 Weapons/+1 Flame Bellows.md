@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Flame Bellows]], Uncommon*
 **Weapon:** 2d6 Fire Advanced Weapon, Ranged Weapon

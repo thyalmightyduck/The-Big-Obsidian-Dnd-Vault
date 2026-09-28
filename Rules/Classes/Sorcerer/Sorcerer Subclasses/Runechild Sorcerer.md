@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Runechild Sorcerer
 ## Tal’Dorei Campaign Setting Reborn
 

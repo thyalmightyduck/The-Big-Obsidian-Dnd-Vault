@@ -1,10 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Melee
-  - Heavy
-  - TwoHanded
+{}
 ---
 **Weapon:** 1d12 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Heavy, two‑handed

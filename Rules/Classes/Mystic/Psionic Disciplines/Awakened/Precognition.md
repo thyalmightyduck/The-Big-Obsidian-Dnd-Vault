@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 By analyzing information around you, from subtle hints to seemingly disconnected facts, you learn to weave a string of probabilities in an instant that gives you extraordinary insights.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on initiative rolls.

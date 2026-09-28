@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Abjurer Wizard
 ## Player’s Handbook (2024)
 

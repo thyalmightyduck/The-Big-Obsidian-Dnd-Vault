@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Smokescreen
 *Conjuration Cantrip*
 ___

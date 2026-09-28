@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Soulknife Rogue
 ## Player’s Handbook (2024)
 

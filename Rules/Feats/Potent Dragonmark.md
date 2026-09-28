@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Potent Dragonmark
 
 General Feat (Prerequisite: Level 4+, Any Dragonmark Feat)

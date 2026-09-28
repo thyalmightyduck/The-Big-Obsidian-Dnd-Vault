@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Order of the Soul Knife Mystic
 ## The Unearthed Arcana: The Mystic Class
 

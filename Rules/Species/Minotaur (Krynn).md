@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Minotaur (Krynn)
 
 - **Ability Scores:** Strength +1; Choose Strength, Intelligence, or Wisdom +1

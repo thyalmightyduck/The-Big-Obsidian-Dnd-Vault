@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 1 Conjuration (sangromancy)_
 
 **Casting Time:** Bonus action

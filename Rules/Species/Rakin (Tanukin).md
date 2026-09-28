@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Rakin (Tanukin)
 
 - **Ability Scores:** Dexterity +2; Choose Wisdom or Charisma +1

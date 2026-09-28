@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Uncommon
+  - magicitem
 ---
 > [!infobox]
 > # Rope Of Climbing

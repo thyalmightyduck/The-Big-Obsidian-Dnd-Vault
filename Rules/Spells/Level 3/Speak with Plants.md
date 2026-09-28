@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 3 Transmutation_
 
 **Casting Time:** Action

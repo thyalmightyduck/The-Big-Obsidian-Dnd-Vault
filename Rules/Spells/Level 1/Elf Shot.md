@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Elf Shot
 *Level 1 Enchantment*
 ___

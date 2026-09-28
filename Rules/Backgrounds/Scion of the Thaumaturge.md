@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Scion of the Thaumaturge
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fire Dance
 *Level 4 Illusion*
 ___

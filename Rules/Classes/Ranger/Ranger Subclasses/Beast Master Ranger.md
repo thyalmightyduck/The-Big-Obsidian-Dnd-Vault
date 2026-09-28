@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Beats Master Ranger
 ## Player’s Handbook (2024)
 

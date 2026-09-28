@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Failed Merchant
 
 - **Skill Proficiencies:** Investigation, Persuasion

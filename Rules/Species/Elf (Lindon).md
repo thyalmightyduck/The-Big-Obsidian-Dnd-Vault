@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits TLotRR
 - Ability Scores: Wisdom +2; Dexterity +1; Intelligence +1
     

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Arcane Vigor
 *Level 2 Abjuration*
 ___

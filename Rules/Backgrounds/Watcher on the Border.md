@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Watcher on the Border
 
 - **Skill Proficiencies.** Explore, Perception

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Temple of the Gods
 *Level 7 Conjuration*
 ___

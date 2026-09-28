@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shroud Blood
 *Level 1 Illusion (sangromancy)*
 ___

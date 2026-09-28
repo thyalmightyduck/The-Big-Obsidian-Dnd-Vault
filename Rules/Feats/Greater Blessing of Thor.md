@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greater Blessing of Thor
 
 General Feat (Prerequisite: Level 4+, Blessing of Thor)

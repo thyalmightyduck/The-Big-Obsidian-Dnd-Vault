@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Evocation
   - DoDk
 ---
 #### Delerium Blast

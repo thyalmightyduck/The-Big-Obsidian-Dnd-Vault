@@ -1,11 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Melee
-  - Finesse
-  - Light
-  - MasteryVex
+{}
 ---
 **Weapon:** 1d6 Piercing Martial Weapon, Melee Weapon
 **Properties:** Finesse, Light

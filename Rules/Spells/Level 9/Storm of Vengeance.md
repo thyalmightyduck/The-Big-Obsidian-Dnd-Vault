@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Storm of Vengeance
 *Level 9 Conjuration*
 ___

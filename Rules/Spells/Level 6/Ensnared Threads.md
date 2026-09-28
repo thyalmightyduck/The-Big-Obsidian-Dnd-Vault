@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ensnared Threads
 *Level 6 Divination*
 ___

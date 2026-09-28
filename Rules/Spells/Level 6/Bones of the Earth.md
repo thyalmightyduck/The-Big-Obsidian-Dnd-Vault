@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bones of the Earth
 *Level 6 Transmutation*
 ___

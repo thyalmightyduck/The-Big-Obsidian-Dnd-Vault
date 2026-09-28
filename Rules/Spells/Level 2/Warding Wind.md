@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Warding Wind
 *Level 2 Evocation*
 ___

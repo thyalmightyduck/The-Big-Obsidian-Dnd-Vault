@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Grievous Wounds
 *Level 7 Necromancy*
 ___

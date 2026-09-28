@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Seafarer (Northern Raider)
 
 - **Ability Scores:** Charisma, Dexterity, Strength

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Level 5_
 
 **Casting Time:** Action

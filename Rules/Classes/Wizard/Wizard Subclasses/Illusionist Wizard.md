@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Illusionist Wizard
 ## Player’s Handbook (2024):
 

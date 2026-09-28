@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Arcane Hand Monk
 ## Sebastian Crowe’s Guide to Drakkenheim
 

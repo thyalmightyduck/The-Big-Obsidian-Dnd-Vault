@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 1 Illusion_
 
 **Casting Time:** Action

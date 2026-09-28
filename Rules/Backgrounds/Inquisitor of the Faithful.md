@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Inquisitor of the Faithful
 
 - **Ability Scores:** Strength, Wisdom, Charisma

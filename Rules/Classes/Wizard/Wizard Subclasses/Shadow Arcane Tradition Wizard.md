@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Shadow Arcane Tradition Wizard
 ## Book of Ebon Tides:
 

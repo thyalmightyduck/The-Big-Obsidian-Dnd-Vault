@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Level 7_
 
 **Casting Time:** Action

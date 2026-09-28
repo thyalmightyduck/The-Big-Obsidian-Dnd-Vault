@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Sickle]], Uncommon*
 **Weapon:** 1d4 Slashing, Simple Weapon, Melee Weapon

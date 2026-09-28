@@ -1,10 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Boots
-  - WondrousItem
-  - Rare
-  - Attunement
+  - magicitem
 ---
 _Wondrous Item, Rare (Requires [[Attunement]])_
 - - - 

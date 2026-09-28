@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Couatl Herald Fighter
 ## The Griffon’s Saddlebag, Book 1 (2024) 
 

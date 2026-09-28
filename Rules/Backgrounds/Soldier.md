@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Soldier
 
 - **Ability Scores:** Strength, Dexterity, Constitution

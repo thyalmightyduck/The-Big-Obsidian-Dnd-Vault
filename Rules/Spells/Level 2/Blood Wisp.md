@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Blood Wisp
 *Level 2 Evocation (sangromancy)*
 ___

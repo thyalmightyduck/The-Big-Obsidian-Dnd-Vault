@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Mystic: Unearthed Arcana: The Mystic Class
 
 | Level | Proficiency Bonus | Features                                                                                         | Talents Known | Disciplines Known | Psi Points | Psi Limit |

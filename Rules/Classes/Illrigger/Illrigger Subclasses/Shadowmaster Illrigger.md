@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Shadowmaster Illrigger
 ## The Illrigger Revised
 

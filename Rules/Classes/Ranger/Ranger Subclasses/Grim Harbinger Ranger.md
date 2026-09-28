@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Grim Harbinger Ranger
 ## The Crooked Moon (2024)
 

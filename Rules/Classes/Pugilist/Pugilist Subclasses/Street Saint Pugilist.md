@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Street Saint Pugilist
 ## The Pugilist Class (2024)
 

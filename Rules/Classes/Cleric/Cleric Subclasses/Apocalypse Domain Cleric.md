@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Apocalypse Domain Cleric
 ## Cthulhu by Torchlight:
 

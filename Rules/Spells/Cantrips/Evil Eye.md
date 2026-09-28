@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Evil Eye
 *Enchantment Cantrip*
 ___

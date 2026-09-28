@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Info
 ## Book of Ebon Times:
 **Ability Scores:** Constitution +1; Dexterity +2

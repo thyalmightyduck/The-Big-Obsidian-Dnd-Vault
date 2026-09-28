@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Gravity Spike
 *Transmutation Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Astral Self Monk
 ## Tasha’s Cauldron of Everything
 

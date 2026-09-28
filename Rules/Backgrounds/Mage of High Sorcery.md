@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Mage of High Sorcery
 
 - **Skill Proficiencies:** Arcana, History

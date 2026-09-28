@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Dimir Operative
 
 - **Skill Proficiencies:** Deception, Stealth

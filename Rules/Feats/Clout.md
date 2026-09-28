@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Clout
 
 General Feat (Prerequisite: Level 4+, Strength 13+, Inspiring Leader)

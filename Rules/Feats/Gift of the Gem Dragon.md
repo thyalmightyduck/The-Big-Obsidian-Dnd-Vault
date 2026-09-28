@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Gift of the Gem Dragon
 
 You've manifested some of the power of gem dragons, granting you the following benefits:

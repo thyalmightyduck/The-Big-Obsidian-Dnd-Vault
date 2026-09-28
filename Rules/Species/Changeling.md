@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits
 ## Eberron: Forge of the Artificer
 **Creature Type:** Fey

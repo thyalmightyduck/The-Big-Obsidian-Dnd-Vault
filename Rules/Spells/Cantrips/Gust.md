@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Gust
 *Transmutation Cantrip*
 ___

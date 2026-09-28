@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 _General Feat (Prerequisites: Level 4+, Dexterity or Constitution 13+)_
 
 You gain the following benefits.

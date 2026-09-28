@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - WondrousItem
-  - Rare
-  - Homebrew
+  - magicitem
 ---
 # Chromatic Quiver
 > [!infobox]

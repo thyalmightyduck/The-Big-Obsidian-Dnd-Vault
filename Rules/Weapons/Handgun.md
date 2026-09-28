@@ -1,13 +1,5 @@
 ---
-tags:
-  - Martial
-  - Ranged
-  - Firearm
-  - Range
-  - Ammunition
-  - Light
-  - Reload
-  - MasteryVex
+{}
 ---
 **Weapon:** 2d4 Piercing Martial Weapon, Ranged Weapon, Firearm
 **Properties:** Ammunition (Range 30/120ft.; Bullet), Firearm, Light, Modern Era, Reload

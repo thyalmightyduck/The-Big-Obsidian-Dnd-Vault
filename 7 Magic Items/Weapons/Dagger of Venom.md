@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
+  - magicitem
 ---
 *Weapon ([[Dagger]]), Rare*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon

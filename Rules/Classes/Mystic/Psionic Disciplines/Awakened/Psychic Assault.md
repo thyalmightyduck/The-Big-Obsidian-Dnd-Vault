@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You wield your mind like a weapon, unleashing salvos of psionic energy.
 
 **Psychic Focus.** While focused on this discipline, you gain a +2 bonus to damage rolls with psionic talents that deal psychic damage.

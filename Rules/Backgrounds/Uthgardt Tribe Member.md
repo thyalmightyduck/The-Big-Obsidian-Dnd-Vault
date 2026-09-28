@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Uthgardt Tribe Member
 
 - **Skill Proficiencies:** Athletics, Survival

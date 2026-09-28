@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Guardian Poleaxe]], Uncommon*
 **Weapon:** 1d10 Slashing Advanced Weapon, Melee Weapon

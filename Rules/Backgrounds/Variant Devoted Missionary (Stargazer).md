@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Devoted Missionary (Stargazer)
 
 - **Skill Proficiencies:** Two of the following: History, Religion, Arcana, Nature

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Exterminator
 
 - **Ability Scores:** Dexterity, Constitution, Intelligence

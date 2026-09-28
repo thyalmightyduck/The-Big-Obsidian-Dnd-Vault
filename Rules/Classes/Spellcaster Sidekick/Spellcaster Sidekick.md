@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Spellcaster Sidekick
 ## Tasha’s Cauldron of Everything
 

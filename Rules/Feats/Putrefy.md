@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Putrefy
 
 General Feat (Prerequisite: Level 4+)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Transmutation Level_
 
 **Casting Time:** [[Reaction]], which you take when you or a creature you can see within 60 feet of you falls

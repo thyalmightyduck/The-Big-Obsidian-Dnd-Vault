@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Krail's Maggot
 *Level 2 Necromancy*
 ___

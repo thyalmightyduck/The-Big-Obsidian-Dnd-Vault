@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Philosopher Wizard
 ## The Crooked Moon (2024)
 

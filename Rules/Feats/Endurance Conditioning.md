@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Endurance Conditioning
 
 General Feat (Prerequisite: Constitution 13+, Proficiency in the Athletics skill)

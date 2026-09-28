@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Necromancer Tamer
 ## Heliana’s Guide to Monster Hunting
 

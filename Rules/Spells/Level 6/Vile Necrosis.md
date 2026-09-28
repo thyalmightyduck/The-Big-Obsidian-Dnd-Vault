@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Vile Necrosis
 *Level 6 Necromancy*
 ___

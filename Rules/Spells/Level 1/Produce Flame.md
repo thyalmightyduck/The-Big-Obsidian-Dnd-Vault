@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Level 1_
 
 **Casting Time:** [[Bonus action]]

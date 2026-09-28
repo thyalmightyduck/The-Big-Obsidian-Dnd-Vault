@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You allow the primal fury lurking deep within your mind to burst forth, catching you and your allies in an implacable bloodthirst.
 
 **Psychic Focus.** While focused on this discipline in combat, you and any ally who starts their turn within 10 feet of you gains a 5-foot increase to their walking speed during that turn.

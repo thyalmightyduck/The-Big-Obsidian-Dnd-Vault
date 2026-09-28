@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Elemental Bane
 *Level 4 Transmutation*
 ___

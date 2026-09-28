@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Scion of the Three Rogue
 ## Forgotten Realms: Heroes of Faurûn
 

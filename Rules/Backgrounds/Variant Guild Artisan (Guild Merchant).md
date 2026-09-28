@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Guild Artisan (Guild Merchant)
 
 - **Skill Proficiencies:** Insight, Persuasion

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Shadow Stalker Rogue
 ## Cthulhu by Torchlight
 

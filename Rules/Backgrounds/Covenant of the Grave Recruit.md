@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Covenant of the Grave Recruit
 
 - **Ability Scores:** Strength, Intelligence, Wisdom

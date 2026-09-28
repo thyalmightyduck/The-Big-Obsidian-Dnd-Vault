@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Far Trader
 
 - **Skill Proficiencies.** Deception, Travel

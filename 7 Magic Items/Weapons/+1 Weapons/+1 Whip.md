@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Whip]], Uncommon*
 **Weapon:** 1d4 Slashing Martial Weapon, Melee Weapon

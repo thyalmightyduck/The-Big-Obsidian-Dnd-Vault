@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Devoted Missionary
 
 - **Skill Proficiencies:** Two of the following: History, Religion, Arcana, Nature

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Transmutation Cantrip_
 **Casting Time:** Action
 **Range:** 30 feet

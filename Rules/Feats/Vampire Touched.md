@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Vampire Touched
 
 General Feat (Prerequisite: Level 4+)

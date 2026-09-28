@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You create a screen of psychic power that distorts your appearance, allowing you to blend into the background or even turn invisible.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Dexterity (Stealth) checks.

@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Warhammer]], Uncommon*
 **Weapon:** 1d8 Bludgeoning, Martial Weapon, Melee Weapon

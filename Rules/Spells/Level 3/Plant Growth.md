@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Transmutation Level 3_
 
 **Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)

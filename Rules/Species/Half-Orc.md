@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits
 **Ability Scores:** Choose one of the following:
 - Increase Strength +2

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Power Word Fortify
 *Level 7 Enchantment*
 ___

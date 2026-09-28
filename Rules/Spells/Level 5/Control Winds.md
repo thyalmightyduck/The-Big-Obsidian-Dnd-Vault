@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Control Winds
 *Level 5 Transmutation*
 ___

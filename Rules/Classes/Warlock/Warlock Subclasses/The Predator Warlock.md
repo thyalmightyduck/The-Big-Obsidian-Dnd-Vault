@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Predator Warlock
 ## Humblewood Tales
 

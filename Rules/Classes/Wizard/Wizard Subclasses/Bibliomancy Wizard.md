@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Bibliomancy Wizard
 ## Cthulhu by Torchlight
 

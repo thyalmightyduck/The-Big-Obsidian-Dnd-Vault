@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Game of Fate
 *Level 6 Enchantment*
 ___

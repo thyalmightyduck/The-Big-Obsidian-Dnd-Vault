@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 2 Divination_
 
 **Casting Time:** Action

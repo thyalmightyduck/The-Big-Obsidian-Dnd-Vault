@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Melting Curse
 *Level 6 Transmutation*
 ___

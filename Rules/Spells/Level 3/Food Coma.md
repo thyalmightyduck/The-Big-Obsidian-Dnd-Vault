@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Food Coma
 *Level 3 Enchantment*
 ___

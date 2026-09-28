@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Drummer's Cadence
 *Level 1 Enchantment*
 ___

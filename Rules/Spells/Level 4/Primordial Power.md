@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Primordial Power
 *Level 4 Transmutation*
 ___

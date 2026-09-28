@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Gate
 *Level 9 Conjuration*
 ___

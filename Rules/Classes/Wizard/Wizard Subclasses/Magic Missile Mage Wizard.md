@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Magic Missile Mage Wizard
 ## Valda’s Spire of Secrets: Player Pack 2:
 

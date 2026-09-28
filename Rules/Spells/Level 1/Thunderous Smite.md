@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 1 Evocation_
 
 **Casting Time:** Bonus action, which you take immediately after hitting a target with a Melee weapon or an [[Unarmed Strike]]

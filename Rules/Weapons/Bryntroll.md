@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Heavy
-  - Reach
-  - TwoHanded
-  - MasterySlow
+{}
 ---
 **Weapon:** 1d10 Slashing Martial Weapon, Melee Weapon
 **Properties:** Heavy, Reach, Two‑Handed

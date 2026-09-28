@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Bucklander
 
 - **Skill Proficiencies.** Hunting, Perception

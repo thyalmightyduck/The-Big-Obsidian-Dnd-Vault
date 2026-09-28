@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Elminster's Effulgent Spheres
 *Level 6 Evocation*
 ___

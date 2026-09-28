@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Legendary
-  - Attunement
+  - magicitem
   - Homebrew
 ---
 

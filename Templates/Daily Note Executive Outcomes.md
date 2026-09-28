@@ -1,4 +1,4 @@
-#Template 
+
 # Characters
 - [[Goobus Scion Of Brainrot]]
 - [[Ibrahim Canoo]]

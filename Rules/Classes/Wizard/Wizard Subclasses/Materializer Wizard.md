@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Materializer Wizard
 ## The Griffon’s Saddlebag, Book 1 (2024):
 

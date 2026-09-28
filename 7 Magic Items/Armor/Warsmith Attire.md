@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Rare
+  - magicitem
   - Homebrew
 ---
 # Warsmith Attire:

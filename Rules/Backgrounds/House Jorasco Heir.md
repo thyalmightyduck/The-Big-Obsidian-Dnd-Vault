@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## House Jorasco Heir
 
 - **Ability Scores:** Dexterity, Constitution, Wisdom

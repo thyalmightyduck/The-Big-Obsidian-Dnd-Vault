@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Long sword]], Uncommon*
 **Weapon:** 1d8 Slashing, Martial Weapon, Melee Weapon

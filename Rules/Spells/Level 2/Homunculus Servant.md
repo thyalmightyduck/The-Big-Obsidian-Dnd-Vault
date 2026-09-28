@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Homunculus Servant
 *Level 2 Conjuration*
 ___

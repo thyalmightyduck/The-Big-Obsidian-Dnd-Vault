@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Magic Mouth
 *Level 2 Illusion*
 ___

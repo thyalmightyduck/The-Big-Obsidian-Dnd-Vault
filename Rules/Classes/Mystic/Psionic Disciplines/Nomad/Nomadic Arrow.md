@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You imbue a ranged weapon with a strange semblance of sentience, allowing it to unerringly find its mark.
 
 **Psychic Focus.** While you are focused on this discipline, any attack roll you make for a ranged weapon attack ignores disadvantage. If disadvantage would normally apply to the roll, that roll also can’t benefit from advantage.

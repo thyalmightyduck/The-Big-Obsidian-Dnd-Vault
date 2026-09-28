@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Time Stop
 *Level 9 Transmutation*
 ___

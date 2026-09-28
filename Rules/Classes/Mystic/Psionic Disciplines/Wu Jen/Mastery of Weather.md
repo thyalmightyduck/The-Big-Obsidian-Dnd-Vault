@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 Your mind reaches into the sky, reshaping the stuff of storms to serve your needs.
 
 **Psychic Focus.** While focused on this discipline, you have resistance to lightning and thunder damage.

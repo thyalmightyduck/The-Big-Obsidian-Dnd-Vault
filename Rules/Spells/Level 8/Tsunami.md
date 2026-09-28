@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tsunami
 *Level 8 Conjuration*
 ___

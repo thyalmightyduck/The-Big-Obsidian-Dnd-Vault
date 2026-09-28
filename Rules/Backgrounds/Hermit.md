@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Hermit
 
 - **Ability Scores:** Constitution, Wisdom, Charisma

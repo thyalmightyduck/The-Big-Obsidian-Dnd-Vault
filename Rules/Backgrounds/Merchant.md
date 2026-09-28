@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Merchant
 
 - **Ability Scores:** Constitution, Intelligence, Charisma

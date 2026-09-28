@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Shadow Domain Cleric
 ## Sebastian Crowe’s Guide to Drakkenheim:
 

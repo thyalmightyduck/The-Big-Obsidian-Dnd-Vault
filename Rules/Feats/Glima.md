@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Glima
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

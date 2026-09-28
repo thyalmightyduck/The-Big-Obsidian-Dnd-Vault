@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Sling]], Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning, Simple Weapon, Ranged Weapon

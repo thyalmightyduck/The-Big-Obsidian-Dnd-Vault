@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Released Thrall
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Halberd]], Uncommon*
 **Weapon:** 1d10 Slashing, [[Martial Weapons]], [[Melee Weapons]]

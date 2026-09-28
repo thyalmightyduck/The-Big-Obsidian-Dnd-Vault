@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Eldritch Knight Fighter
 ## Player’s Handbook (2024):
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Creeping Rot
 *Level 3 Necromancy*
 ___

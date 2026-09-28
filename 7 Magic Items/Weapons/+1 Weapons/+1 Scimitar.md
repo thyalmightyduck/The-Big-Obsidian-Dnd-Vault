@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Scimitar]], Uncommon*
 **Weapon:** 1d6 Slashing Martial Weapon, Melee Weapon

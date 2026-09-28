@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Quick Clothier
 *Level 1 Transmutation*
 ___

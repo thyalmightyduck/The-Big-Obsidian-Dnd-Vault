@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Uncommon (Requires [[Attunement]])*
 **Weapon:** 2d6 Fire Simple Weapon, Ranged Weapon, Firearm

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Forest-Dweller
 
 - **Skill Proficiencies.** Nature, Stealth

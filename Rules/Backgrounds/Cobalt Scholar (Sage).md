@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Cobalt Scholar (Sage)
 
 - **Skill Proficiencies:** Arcana, History

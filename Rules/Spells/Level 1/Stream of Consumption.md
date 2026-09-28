@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Stream of Consumption
 *Level 1 Necromancy*
 ___

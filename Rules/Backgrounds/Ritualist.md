@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Ritualist
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

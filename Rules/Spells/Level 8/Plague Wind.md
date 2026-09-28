@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Plague Wind
 *Level 8 Conjuration*
 ___

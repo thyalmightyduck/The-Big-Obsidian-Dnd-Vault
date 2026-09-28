@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Dead Magic Dweller
 
 - **Ability Scores:** Strength, Constitution, Wisdom

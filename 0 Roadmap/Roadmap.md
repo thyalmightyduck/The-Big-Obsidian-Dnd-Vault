@@ -106,8 +106,8 @@ Artificer
 - [x] Bard
 - [x] Cleric
 - [x] Druid
-- [ ] Monk
-- [ ] Paladin
+- [x] Monk
+- [x] Paladin
 - [ ] Ranger
 - [ ] Sorcerer
 - [x] Warlock

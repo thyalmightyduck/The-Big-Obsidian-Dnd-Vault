@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Lightning Mastery
 
 General Feat (Prerequisite: Level 4+, Elemental Adept with Lightning Spells)

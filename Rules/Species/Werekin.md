@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Werekin
 
 - **Creature Type:** Humanoid

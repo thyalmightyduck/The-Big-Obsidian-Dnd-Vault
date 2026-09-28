@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Magecraft
 *Divination Cantrip*
 ___

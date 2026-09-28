@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Metabolic Control
 
 Prerequisite: Psionic Talent feature or Wild Talent feat

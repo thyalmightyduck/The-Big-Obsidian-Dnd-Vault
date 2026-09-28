@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You channel psionic power into your body, honing your reflexes and agility to an incredible degree. The world seems to slow down while you continue to move as normal.
 
 **Psychic Focus.** While focused on this discipline, your walking speed increases by 10 feet.

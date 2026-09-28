@@ -1,7 +1,6 @@
 ---
 tags:
   - Spell
-  - Transmutation
   - PHB24
 ---
 _Level 8 Transmutation_

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP Painkiller Illrigger
 ## The Illrigger Revised
 

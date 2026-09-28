@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Far Traveler
 
 - **Skill Proficiencies:** Insight, Perception

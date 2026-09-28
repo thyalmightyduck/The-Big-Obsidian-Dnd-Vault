@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Bitter Exile
 
 - **Skill Proficiencies.** Explore, Old Lore

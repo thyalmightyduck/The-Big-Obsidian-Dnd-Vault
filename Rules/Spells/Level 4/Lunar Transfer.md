@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Lunar Transfer
 *Level 4 Conjuration*
 ___

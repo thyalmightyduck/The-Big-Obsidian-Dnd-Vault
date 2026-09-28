@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Hearth Paladin
 ## The Griffon’s Saddlebag, Book 1 (2024)
 

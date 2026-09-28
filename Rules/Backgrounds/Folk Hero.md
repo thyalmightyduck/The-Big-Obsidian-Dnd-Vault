@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Folk Hero
 
 - **Skill Proficiencies:** Animal Handling, Survival

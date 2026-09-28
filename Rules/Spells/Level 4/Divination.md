@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 4 Divination_
 
 **Casting Time:** Action or Ritual

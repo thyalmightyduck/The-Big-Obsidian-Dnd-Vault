@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Smuggler Rogue
 ## Sebastian Crowe’s Guide to Drakkenheim
 

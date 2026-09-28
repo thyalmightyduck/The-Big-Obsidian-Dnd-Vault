@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Maelstrom
 *Level 5 Evocation*
 ___

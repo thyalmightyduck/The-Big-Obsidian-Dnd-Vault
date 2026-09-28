@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - VeryRare
-  - Attunement
-  - Homebrew
+  - magicitem
 ---
 # Arachnid Bracelet
 

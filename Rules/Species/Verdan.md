@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Acquisitions Incorporated
 **Ability Scores:** Charisma +2; Constitution +1
 **Creature Type:** [[Humanoid]]

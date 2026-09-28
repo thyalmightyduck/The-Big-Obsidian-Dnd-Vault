@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Forcecage
 *Level 7 Evocation*
 ___

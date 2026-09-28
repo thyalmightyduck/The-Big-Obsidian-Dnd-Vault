@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wall of Gloom
 *Level 8 Conjuration*
 ___

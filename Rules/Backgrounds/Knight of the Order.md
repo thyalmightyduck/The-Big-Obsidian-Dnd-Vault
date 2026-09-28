@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Knight of the Order
 
 - **Skill Proficiencies:** Persuasion, plus one from among Arcana, History, Nature, and Religion, as appropriate for your order

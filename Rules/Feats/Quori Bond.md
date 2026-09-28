@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Quori Bond
 
 General Feat (Prerequisite: Level 4+, Kalashtar)

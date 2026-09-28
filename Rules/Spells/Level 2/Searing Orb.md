@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Searing Orb
 *Level 2 Evocation*
 ___

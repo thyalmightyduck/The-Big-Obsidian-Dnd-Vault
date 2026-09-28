@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Sanguine Knight Illrigger
 ## The Illrigger Revised
 

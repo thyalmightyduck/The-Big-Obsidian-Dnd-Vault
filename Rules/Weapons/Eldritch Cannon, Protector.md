@@ -1,3 +1,6 @@
+---
+{}
+---
 *Tiny or Small Object*
 
 **[[Armor Class]]:** 18

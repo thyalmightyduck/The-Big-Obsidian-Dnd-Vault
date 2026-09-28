@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Soldier
 
 - **Skill Proficiencies:** Athletics, Intimidation

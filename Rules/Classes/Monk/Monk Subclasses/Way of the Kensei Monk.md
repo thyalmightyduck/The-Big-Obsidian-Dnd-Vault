@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of the Kensei Monk
 ## Xanathar’s Guide to Everything
 

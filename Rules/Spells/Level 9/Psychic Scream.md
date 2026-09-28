@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Psychic Scream
 *Level 9 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits: Book of Ebon Tides:
 **Ability Scores:** Choose any +2; choose any other +1
 **Creature Type:** Humanoid

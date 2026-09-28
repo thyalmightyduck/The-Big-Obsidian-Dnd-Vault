@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Call of the Wild
 *Level 4 Enchantment*
 ___

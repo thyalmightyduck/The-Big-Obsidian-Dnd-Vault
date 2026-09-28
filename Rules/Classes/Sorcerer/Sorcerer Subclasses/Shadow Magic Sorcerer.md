@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Shadow Magic Sorcerer
 ## Xanathar’s Guide to Everything
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Shadow's Gift of Stone
 
 General Feat (Prerequisite: Level 4+, Medusa)

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Familiar Trainer
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

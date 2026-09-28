@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Wage Mage
 
 - **Ability Scores:** Strength, Dexterity, Intelligence

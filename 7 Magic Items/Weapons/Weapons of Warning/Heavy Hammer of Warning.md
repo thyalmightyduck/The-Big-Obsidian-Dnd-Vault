@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Heavy Hammer]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Bludgeoning, Martial Weapon, Melee Weapon

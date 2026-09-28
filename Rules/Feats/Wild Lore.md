@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Wild Lore
 
 General Feat (Prerequisite: Level 4+)

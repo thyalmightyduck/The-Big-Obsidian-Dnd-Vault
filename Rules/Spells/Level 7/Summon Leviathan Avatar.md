@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Summon Leviathan Avatar
 *Level 7 Conjuration*
 ___

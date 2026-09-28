@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon ([[Blunderbuss]]), Uncommon*
 **Weapon:** 1d12 Piercing Martial Weapon, Ranged Weapon, Firearm

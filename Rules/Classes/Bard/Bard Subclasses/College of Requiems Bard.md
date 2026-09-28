@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP
 # Bard: Grim Hallow: Player’s Guide (2024):
 

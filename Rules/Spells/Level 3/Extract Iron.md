@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Extract Iron
 *Level 3 Transmutation (sangromancy)*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Cloistered Scholar
 
 - **Skill Proficiencies:** History, plus your choice of one from among Arcana, Nature, and Religion

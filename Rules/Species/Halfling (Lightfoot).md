@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits PHB14
 - Ability Scores: Dexterity +2; Charisma +1
     

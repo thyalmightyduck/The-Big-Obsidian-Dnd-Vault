@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Hunting Rifle]], Uncommon*
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm

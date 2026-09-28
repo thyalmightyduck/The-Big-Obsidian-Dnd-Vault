@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Laser Pistol]], Rare (Requires Attunement)*
 **Weapon:** 3d6 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dawn
 *Level 5 Evocation*
 ___

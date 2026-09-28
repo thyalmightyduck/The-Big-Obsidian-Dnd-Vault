@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Abjuration Level 1_
 
 **Casting Time:** [[Reaction]], which you take when you are hit by an [[Attack Rolls]] or targeted by the [[Magic Missile]] spell

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits GGR
 - Ability Scores: Dexterity +2; Constitution +1
     

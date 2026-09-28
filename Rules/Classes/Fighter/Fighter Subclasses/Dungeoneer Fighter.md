@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Dungeoneer Fighter
 ## Valda’s Spire of Secrets: Player’s Pack
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Players Handbook (2024):
 _Enchantment Level 1_
 

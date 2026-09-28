@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Reweave Fate
 *Level 7 Divination*
 ___

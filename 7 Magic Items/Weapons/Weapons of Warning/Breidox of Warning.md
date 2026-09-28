@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Breidox]], Uncommon (Requires Attunement)*
 **Weapon:** 1d10 Slashing Martial Weapon, Melee Weapon

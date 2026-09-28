@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Parasite Patron
 ## Grim Hallow: Player’s Guide (2024)
 

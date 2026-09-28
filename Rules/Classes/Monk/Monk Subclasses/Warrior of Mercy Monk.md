@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of Mercy Monk 
 ## Player’s Handbook (2024)
 

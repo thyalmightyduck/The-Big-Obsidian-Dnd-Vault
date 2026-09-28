@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Inquisitor
 
 - **Ability Scores:** Strength, Wisdom, Charisma

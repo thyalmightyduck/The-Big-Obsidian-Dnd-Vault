@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Celestial
 *Level 7 Conjuration*
 ___

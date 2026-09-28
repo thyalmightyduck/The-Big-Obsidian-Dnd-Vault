@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Catnap
 *Level 3 Enchantment*
 ___

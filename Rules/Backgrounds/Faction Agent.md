@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Faction Agent
 
 - **Skill Proficiencies:** Insight and one Intelligence, Wisdom, or Charisma skill of your choice, as appropriate to your faction

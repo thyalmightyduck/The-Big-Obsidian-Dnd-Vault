@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Convincing Inquisitor
 
 Origin Feat

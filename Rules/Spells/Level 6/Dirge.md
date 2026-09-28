@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dirge
 *Level 6 Enchantment*
 ___

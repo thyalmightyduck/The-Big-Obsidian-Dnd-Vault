@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Drayfn's Curse of Incompetence
 *Level 4 Necromancy*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Skaldic Scolding
 *Level 4 Enchantment*
 ___

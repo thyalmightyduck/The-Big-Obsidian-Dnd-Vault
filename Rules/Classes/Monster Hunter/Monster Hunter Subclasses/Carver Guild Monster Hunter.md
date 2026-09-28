@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Carver Guild Monster Hunter
 ## Grim Hallow: Player’s Guide (2024)
 

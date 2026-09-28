@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 _Virtues of the Hobbits Feat (Prerequisite: Hobbit or Bree-Hobbit Culture)_
 
 Hobbits are a little people, but their resourcefulness far exceeds their stature. You have learnt how to exploit your small size to your advantage in a fight.

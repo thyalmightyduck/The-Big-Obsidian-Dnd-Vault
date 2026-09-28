@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Primal Scent
 *Divination Cantrip*
 ___

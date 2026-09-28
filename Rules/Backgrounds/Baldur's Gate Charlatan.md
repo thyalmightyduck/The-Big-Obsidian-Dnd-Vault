@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Baldur's Gate Charlatan
 
 - **Skill Proficiencies:** Deception, Sleight of Hand

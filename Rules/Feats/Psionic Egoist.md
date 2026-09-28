@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Psionic Egoist
 
 Your innate psionic talents improve your mastery of your own body, granting you the following benefits:

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Flaming Fist Mercenary
 
 - **Ability Scores:** Strength, Constitution, Charisma

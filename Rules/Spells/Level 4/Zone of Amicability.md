@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Zone of Amicability
 *Level 4 Enchantment*
 ___

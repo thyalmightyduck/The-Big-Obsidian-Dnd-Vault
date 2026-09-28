@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sun Rune
 *Level 6 Evocation*
 ___

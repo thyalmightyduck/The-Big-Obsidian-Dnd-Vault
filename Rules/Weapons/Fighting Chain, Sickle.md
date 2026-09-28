@@ -1,13 +1,5 @@
 ---
-tags:
-  - Advanced
-  - Melee
-  - Damage
-  - Double
-  - Finesse
-  - Reach
-  - TwoHanded
-  - MasteryEntangling
+{}
 ---
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Damage (Slashing), Double, Finesse, Reach, Two‑Handed

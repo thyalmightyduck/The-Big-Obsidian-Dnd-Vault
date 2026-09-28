@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Billowing Sails
 *Level 2 Evocation*
 ___

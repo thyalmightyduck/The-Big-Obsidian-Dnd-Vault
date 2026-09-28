@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Sorcerer: Player’s Handbook (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                                  | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |

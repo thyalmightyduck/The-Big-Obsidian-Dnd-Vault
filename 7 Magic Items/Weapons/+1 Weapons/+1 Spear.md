@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Spear]], Uncommon*
 **Weapon:** 1d6 Piercing Simple Weapon, Ranged Weapon

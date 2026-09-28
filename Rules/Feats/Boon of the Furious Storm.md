@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Furious Storm
 
 Epic Boon Feat (Prerequisite: Level 19+; Spellcasting or Pact Magic Feature)

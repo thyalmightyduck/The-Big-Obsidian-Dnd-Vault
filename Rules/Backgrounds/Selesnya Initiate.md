@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Selesnya Initiate
 
 - **Skill Proficiencies:** Nature, Persuasion

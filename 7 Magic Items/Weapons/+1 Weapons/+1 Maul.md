@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Maul]], Uncommon*
 **Weapon:** 2d6 Piercing, Martial Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Stout-Hearted
 
 Virtues of the Bardings Feat (Prerequisite: Barding Culture)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # 2024
 _Necromancy Cantrip_
 

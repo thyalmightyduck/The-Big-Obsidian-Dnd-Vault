@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Moon Domain Cleric
 ## Tal’Dorei Campaign Setting Reborn
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You learn to use psionic energy to manipulate others with a subtle combination of psi and your own, natural charm.
 
 **Psychic Focus.** While focused on this discipline, you gain a bonus to Charisma checks. The bonus equals half your Intelligence modifier (minimum of +1).

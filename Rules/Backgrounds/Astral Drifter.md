@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Astral Drifter
 
 - **Skill Proficiencies:** Insight, Religion

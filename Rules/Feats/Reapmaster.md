@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Reapmaster
 
 Harvesting Feat (Prerequisite: Expert Harvester)

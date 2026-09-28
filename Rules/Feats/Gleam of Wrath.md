@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Gleam of Wrath
 
 Virtues of the Elves Feat (Prerequisite: Elven Culture)

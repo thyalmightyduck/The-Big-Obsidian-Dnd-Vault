@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Noble (Displaced)
 
 - **Skill Proficiencies:** History, Persuasion

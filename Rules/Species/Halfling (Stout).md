@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits PHB’14
 - Ability Scores: Dexterity +2; Constitution +1
     

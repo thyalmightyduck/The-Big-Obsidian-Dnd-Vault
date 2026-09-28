@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You can alter your body to match your surroundings, allowing you to withstand punishing environments. With greater psi energy, you can extend this protection to others.
 
 **Psychic Focus.** While focused on this discipline, you don’t need to eat, breathe, or sleep. To gain the benefits of a long rest, you can spend 8 hours engaged in light activity, rather than sleeping during any of it.

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bound Fortunes
 *Level 5 Necromancy*
 ___

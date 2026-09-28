@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Phantasmic Circus Trouper
 
 - **Ability Scores:** Dexterity, Constitution, Charisma

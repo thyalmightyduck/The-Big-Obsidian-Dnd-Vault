@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Abjuration Level 5_
 
 **Casting Time:** Action

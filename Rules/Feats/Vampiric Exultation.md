@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Vampiric Exultation
 
 Prerequisite: Vampire (Ixalan)

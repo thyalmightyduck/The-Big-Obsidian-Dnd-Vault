@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Holy Aura
 *Level 8 Abjuration*
 ___

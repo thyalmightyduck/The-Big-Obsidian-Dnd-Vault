@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Light Sentira Lens]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Psychic, Simple Weapon, Ranged Weapon

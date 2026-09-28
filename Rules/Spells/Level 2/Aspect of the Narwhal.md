@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Aspect of the Narwhal
 *Level 2 Transmutation*
 ___

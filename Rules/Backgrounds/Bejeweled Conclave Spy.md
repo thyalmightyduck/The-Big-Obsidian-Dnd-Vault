@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Bejeweled Conclave Spy
 
 - **Ability Scores:** Dexterity, Wisdom, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Farmer
 
 - **Ability Scores:** Strength, Constitution, Wisdom

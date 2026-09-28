@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 2 Transmutation (contaminated)_
 
 **Casting Time:** Action

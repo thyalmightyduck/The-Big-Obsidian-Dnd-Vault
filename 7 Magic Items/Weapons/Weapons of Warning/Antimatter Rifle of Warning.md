@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Antimatter Rifle]], Uncommon (Requires Attunement*
 **Weapon:** 6d8 Necrotic Futuristic, Martial Weapon, Ranged Weapon, Firearm

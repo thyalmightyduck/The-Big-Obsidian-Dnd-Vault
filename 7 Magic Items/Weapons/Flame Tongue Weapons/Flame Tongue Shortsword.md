@@ -1,9 +1,6 @@
 ---
 tags:
-  - Weapon
-  - MagicItem
-  - Rare
-  - Attunement
+  - magicitem
 ---
 **Weapon:** 1d6 Piercing Martial Weapon, Melee Weapon
 **Properties:** Finesse, Light

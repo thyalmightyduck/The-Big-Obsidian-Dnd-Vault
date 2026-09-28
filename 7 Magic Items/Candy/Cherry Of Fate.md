@@ -1,10 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Candy
-  - WondrousItem
-  - Rare
-  - Homebrew
+  - magicitem
 ---
 > [!infobox]
 > # Cherry Of Fate

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Emerald Goblet
 *Level 1 Abjuration*
 ___

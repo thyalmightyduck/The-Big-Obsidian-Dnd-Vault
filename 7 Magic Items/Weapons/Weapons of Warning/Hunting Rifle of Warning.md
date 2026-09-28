@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Hunting Rifle]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm

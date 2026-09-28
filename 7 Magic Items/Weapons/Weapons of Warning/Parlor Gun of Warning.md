@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Parlor Gun]], Uncommon (Requires Attunement)*
 **Weapon:** 2d4 Piercing Simple Weapon, Ranged Weapon, Firearm

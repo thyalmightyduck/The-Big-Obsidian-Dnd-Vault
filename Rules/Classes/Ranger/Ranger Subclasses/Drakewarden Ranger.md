@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Drakewarden Ranger
 ## Fizban’s Treasury of Dragons
 

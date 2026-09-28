@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dread Scarecrow
 *Level 4 Illusion (osteomancy)*
 ___

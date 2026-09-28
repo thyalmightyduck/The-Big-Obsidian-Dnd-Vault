@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Info
 ## Plane Shift: Amonkhet
 **Ability Scores:** Dexterity +2; Wisdom +2

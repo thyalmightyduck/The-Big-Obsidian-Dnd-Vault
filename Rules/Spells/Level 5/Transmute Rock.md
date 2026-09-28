@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Transmute Rock
 *Level 5 Transmutation*
 ___

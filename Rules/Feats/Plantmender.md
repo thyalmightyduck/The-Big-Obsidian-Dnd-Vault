@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Plantmender
 
 Prerequisite: Wisdom 13+

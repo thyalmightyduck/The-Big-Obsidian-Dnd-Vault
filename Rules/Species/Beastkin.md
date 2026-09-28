@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits:
 ## Northlands Worldbook:
 - **Creature Type:** Humanoid

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits: Sword Coast Adventurer's Guide
 **Ability Scores:** Intelligence +1; Choose Dexterity or Charisma +2
 **Creature Type:** [[Humanoid]]

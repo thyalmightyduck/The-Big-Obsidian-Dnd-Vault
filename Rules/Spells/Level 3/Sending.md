@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 3 Divination_
 
 **Casting Time:** Action

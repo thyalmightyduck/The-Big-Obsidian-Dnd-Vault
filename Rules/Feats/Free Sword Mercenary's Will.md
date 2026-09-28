@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Free Sword Mercenary's Will
 
 Origin Feat

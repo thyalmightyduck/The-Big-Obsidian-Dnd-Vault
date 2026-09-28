@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Befuddlement
 *Level 8 Enchantment*
 ___

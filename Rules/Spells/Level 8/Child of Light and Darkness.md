@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Child of Light and Darkness
 *Level 8 Transmutation*
 ___

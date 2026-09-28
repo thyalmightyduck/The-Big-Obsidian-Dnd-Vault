@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Traits: GH:PH’24
 - Creature Type: Humanoid
     

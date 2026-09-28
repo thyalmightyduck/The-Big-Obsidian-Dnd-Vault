@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of the Open Hand Monk
 ## Player’s Handbook (2024)
 

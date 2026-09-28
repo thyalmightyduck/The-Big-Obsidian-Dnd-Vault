@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ugly Duckling
 *Level 2 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hunt Domain Cleric
 ## Heliana’s Guide to Monster Hunting
 

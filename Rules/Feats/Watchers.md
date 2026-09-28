@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Watchers
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

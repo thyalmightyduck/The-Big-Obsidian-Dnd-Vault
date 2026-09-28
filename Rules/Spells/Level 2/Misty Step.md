@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Level 2_
 
 **Casting Time:** [[Bonus Action]]

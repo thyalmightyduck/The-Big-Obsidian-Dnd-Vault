@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Nightwatcher Fighter
 ## Grim Hallow: Player’s Guide (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 - [[Crown of Despair]]
 - [[Crown of Disgust]]
 - [[Crown of Rage]]

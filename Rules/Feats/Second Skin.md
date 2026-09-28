@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Second Skin
 
 Dark Gift Feat (Prerequisite: Ravenloft Campaign)

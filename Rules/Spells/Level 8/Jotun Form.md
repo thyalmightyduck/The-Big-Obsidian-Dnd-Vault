@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Jotun Form
 *Level 8 Transmutation*
 ___

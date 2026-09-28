@@ -1,6 +1,5 @@
 ---
 tags:
-  - Language
   - PHB14
 ---
 ## Player’s Handbook 2014 (PHB14):

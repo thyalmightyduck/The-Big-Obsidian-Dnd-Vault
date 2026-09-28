@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Vision of Elapsing Eons
 *Level 9 Illusion*
 ___

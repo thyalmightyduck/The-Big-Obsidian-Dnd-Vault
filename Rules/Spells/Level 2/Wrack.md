@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wrack
 *Level 2 Necromancy*
 ___

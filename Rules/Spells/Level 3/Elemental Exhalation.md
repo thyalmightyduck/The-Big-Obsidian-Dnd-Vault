@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Elemental Exhalation
 *Level 3 Evocation*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Harm
 *Level 6 Necromancy*
 ___

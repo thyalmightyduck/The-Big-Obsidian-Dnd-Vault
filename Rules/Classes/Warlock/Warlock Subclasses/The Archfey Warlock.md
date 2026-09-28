@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Archfey Warlock 
 ## Player’s Handbook (2014):
 

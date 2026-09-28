@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Khesh'dar Training
 
 Origin Feat

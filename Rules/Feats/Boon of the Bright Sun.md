@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Bright Sun
 
 Epic Boon Feat (Prerequisite: Level 19+)

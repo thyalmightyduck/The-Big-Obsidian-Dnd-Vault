@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Human (Innistrad)
 
 - **Creature Type:** Humanoid

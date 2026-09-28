@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Variant Continental Nobility (Last of the Line)
 
 - **Skill Proficiencies:** Two of the following: Persuasion, Athletics, History, or Intimidation

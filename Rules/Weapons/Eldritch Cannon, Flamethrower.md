@@ -1,5 +1,5 @@
 ---
-tags:
+{}
 ---
 *Tiny or Small Object*
 

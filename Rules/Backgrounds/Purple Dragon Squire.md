@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Purple Dragon Squire
 
 - **Ability Scores:** Strength, Wisdom, Charisma

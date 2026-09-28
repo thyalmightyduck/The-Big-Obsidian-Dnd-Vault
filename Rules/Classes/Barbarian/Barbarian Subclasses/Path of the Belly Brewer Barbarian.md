@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: Obojima: Tales From the Tall Grass
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

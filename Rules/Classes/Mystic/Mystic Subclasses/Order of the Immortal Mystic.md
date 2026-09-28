@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Order of the Immortal Mystic
 ## Unearthed Arcana: The Mystic Class
 

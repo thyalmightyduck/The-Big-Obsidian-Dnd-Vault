@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Commerce Domain Cleric
 ## Frontiers of Eberron: Quickstone
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Planar Wanderer
 
 Prerequisite: Level 4+, Scion of the Outer Planes

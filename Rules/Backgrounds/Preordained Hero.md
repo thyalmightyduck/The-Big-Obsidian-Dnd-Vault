@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Preordained Hero
 
 - **Ability Scores:** Charisma, Intelligence, Strength

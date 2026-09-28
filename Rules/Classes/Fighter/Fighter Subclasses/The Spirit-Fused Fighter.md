@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # WOP The Spirit-Fused Fighter
 ## Obojima: Tales from the Tall Grass
 

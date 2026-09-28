@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Frenzy
 *Level 6 Enchantment*
 ___

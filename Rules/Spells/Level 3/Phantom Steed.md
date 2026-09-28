@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Illusion Level 3_
 
 **Casting Time:** 1 Minute Or Ritual

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You transform your body, gaining traits of different beasts.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Wisdom(Animal Handling) checks.

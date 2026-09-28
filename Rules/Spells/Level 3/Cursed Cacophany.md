@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Cursed Cacophany
 *Level 3 Enchantment*
 ___

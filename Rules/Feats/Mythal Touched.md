@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mythal Touched
 
 General Feat (Prerequisite: Level 4+)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Stone Eyes
 
 General Feat (Prerequisite: Level 8+, Medusa)

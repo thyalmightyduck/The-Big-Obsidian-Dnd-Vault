@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Sword]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Slashing, Martial Weapon, Melee Weapon

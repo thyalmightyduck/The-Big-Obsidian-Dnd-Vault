@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Leiloch's Arduous Shuffle
 *Level 7 Enchantment*
 ___

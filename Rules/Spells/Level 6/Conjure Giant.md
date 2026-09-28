@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Giant
 *Level 6 Conjuration*
 ___

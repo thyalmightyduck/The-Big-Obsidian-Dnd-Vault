@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Close Combat Artillerist
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

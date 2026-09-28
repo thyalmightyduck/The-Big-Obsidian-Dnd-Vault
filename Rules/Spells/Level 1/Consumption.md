@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 1 Evocation (sangromancy)_
 
 **Casting Time:** Bonus action

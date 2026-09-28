@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Brutal Grip
 
 General Feat (Prerequisite: Level 4+, Strength 13+)

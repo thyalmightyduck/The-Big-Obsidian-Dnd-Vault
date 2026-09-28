@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Cacophonic Shield
 *Level 3 Evocation*
 ___

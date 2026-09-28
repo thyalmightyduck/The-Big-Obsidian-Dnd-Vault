@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: The Crooked Moon (2024):
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

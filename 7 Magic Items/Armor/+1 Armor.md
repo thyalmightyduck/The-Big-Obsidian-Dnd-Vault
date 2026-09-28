@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Variant
-  - Rare
+  - magicitem
   - DMG24
 ---
 # WOP

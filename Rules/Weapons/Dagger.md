@@ -2,13 +2,6 @@
 aliases:
   - Daggers
   - daggers
-tags:
-  - Item
-  - Weapon
-  - Finesse
-  - Light
-  - Thrown
-  - MasteryNick
 ---
 **Weapon:** 1d4 Piercing, Finesse, Light, Thrown (20/60 ft.)
 2 GP 1lbs

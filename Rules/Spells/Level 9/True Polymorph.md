@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Transmutation Level 9_
 
 **Casting Time:** Action

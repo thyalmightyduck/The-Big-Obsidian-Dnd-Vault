@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Harpy
 
 - **Creature Type:** Humanoid

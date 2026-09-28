@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Visitor to the Mountains
 
 - **Skill Proficiencies.** Insight, Old Lore

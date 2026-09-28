@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You create psychic static that disrupts other creatures’ ability to think clearly.
 
 **Psychic Focus.** While focused on this discipline, you have advantage on Charisma (Deception) checks.

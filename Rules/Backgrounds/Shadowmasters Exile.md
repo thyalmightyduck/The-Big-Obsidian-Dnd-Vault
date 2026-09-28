@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Shadowmasters Exile
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

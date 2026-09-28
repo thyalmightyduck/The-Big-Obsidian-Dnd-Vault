@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
+  - magicitem
 ---
 *Weapon [[Glaive]], Uncommon*
 **Weapon:** 1d10 Slashing Martial Weapon, Melee Weapon

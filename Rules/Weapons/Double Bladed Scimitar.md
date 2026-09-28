@@ -1,11 +1,5 @@
 ---
-tags:
-  - Item
-  - Weapon
-  - Martial
-  - Melee
-  - Special
-  - TwoHanded
+{}
 ---
 **Weapon:** 2d4 Slashing, Martial Weapon, Melee Weapon
 **Properties:** Two‑handed, special

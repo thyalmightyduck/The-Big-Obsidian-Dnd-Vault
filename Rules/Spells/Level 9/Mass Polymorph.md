@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mass Polymorph
 *Level 9 Transmutation*
 ___

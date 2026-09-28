@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Love Bites
 
 General Feat (Prerequisite: Level 4+)

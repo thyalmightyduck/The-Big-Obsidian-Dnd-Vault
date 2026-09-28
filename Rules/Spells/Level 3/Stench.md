@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Stench
 *Level 3 Conjuration*
 ___

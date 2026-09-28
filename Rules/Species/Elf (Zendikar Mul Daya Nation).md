@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Elf (Zendikar; Mul Daya Nation)
 ## Plane Shift: Zendikar
 ### Abilities:

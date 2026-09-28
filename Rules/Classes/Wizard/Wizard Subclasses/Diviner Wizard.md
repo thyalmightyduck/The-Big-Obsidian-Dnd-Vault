@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Diviner Wizard 
 ## Player’s Handbook (2024):
 

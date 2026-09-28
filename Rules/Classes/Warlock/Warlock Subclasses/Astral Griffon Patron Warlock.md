@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Astral Griffon Warlock
 ## The Griffon’s Saddlebag, Book 1 (2024)
 

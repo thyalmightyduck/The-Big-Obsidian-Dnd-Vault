@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Seer Apprentice
 
 - **Ability Scores:** Intelligence, Wisdom, Charisma

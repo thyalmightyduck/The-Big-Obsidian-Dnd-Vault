@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greater Discipline Acquisition (Protean)
 
 Kindred Feat (Prerequisite: Level 8+  Kindred, Discipline Acquisition (Protean))

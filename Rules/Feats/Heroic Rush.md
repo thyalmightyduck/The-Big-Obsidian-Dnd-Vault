@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Heroic Rush
 
 General Feat (Prerequisite: Level 4+)

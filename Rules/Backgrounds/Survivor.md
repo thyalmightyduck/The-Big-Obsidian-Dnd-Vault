@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Survivor
 
 - **Skill Proficiencies:** Two of the following: Perception, Survival, Stealth, Athletics

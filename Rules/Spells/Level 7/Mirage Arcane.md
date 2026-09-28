@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mirage Arcane
 *Level 7 Illusion*
 ___

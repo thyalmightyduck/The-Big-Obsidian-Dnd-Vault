@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Pandemic
 *Level 9 Conjuration*
 ___

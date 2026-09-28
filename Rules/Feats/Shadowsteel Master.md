@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Shadowsteel Master
 
 General Feat (Prerequisite: Level 8+, Shadowsteel Adept)

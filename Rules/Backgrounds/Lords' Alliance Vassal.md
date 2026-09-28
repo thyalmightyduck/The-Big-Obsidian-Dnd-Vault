@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Lords' Alliance Vassal
 
 - **Ability Scores:** Strength, Intelligence, Charisma

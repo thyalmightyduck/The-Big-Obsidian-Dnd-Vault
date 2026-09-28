@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ghostly Crew
 *Level 4 Necromancy*
 ___

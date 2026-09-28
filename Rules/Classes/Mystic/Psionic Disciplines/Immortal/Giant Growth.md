@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You infuse yourself with psionic energy to grow to tremendous size, bolstering your strength and durability.
 
 **Psychic Focus.** While focused on this discipline, your reach increases by 5 feet.

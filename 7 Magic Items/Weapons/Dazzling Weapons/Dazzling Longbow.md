@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Longbow]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon

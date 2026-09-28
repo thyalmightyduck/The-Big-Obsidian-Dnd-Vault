@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Ocular Necrosis
 *Level 2 Necromancy*
 ___

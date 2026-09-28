@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dueling Ground
 *Level 2 Abjuration*
 ___

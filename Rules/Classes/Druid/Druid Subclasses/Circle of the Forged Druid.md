@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Forged Druid
 ## Players Handbook (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ### Species Traits
 **Creature Type:** [[Humanoid]]
 **Size:** Small (about 2-3 feet tall)

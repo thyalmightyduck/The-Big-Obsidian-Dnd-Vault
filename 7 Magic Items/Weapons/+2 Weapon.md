@@ -1,8 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Variant
-  - Rare
+  - magicitem
 ---
 Generic Variant, Rare
 - - - 

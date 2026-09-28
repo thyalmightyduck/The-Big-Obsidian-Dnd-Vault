@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wipe Face
 *Level 9 Necromancy*
 ___

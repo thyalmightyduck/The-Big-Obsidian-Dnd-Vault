@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Gray Gaze
 *Transmutation Cantrip*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Vampiric Claws
 *Level 1 Transmutation*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Fey Tormentor
 
 General Feat (Prerequisite: Level 4+, Fey Pact)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hungering Dark Sorcerer
 ## Cthulhu by Torchlight
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Warden Initiate
 
 General Feat (Prerequisite: Level 4+)

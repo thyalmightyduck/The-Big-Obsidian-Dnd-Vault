@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Mind Tricks
 
 Kindred Feat (Prerequisite: Level 2+  Kindred)

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Tasha's Caustic Brew
 *Level 1 Evocation*
 ___

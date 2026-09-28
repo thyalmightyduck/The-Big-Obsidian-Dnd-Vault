@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Hewn for Battle
 
 General Feat (Prerequisite: Level 4+, Gargoyle)

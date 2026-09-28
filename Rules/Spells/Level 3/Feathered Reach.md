@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Feathered Reach
 *Level 3 Transmutation*
 ___

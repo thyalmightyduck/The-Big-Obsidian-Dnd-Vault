@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Syndicate Smuggler
 
 - **Ability Scores:** Dexterity, Intelligence, Charisma

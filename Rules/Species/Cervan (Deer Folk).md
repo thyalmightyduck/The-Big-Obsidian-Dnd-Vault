@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Species Traits:
 ## Humblewood Campaign Setting:
 **Ability Scores:** Constitution +2

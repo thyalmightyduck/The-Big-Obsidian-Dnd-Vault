@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sanctum of the Flock
 *Level 3 Transmutation*
 ___

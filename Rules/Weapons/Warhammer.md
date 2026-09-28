@@ -1,10 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Melee
-  - Versatile
-  - MasteryPush
+{}
 ---
 **Weapon:** 1d8 Bludgeoning, Martial Weapon, Melee Weapon
 **Properties:** Versatile (1d10)

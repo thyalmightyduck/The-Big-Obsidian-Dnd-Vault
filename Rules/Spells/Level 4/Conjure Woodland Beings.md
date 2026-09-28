@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Conjure Woodland Beings
 *Level 4 Conjuration*
 ___

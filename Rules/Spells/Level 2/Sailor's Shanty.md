@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Sailor's Shanty
 *Level 2 Enchantment*
 ___

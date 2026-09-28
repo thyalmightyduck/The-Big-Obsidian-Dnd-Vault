@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Astral Projection
 *Level 9 Necromancy*
 ___

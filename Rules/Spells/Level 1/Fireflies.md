@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fireflies
 *Level 1 Evocation*
 ___

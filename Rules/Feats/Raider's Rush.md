@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Raider's Rush
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

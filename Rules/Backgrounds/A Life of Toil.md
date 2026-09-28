@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## A Life of Toil
 
 - **Skill Proficiencies.** Athletics, Perception

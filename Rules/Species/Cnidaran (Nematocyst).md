@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Cnidaran (Nematocyst)
 
 - **Ability Scores:** Constitution +2; Dexterity +1

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Red Rain
 *Level 8 Conjuration (sangromancy)*
 ___

@@ -1,8 +1,7 @@
 ---
 tags:
-  - MagicItem
-  - Armor
-  - Rare
+  - magicitem
+  - DMG24
 ---
 [[Heavy Armor]] ([[Chain Mail]]), Rare
 55 lb.

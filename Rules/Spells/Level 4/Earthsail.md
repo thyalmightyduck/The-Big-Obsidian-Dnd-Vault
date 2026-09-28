@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Earthsail
 *Level 4 Transmutation*
 ___

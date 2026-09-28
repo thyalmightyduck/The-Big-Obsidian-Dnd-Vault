@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Healing Spirit
 *Level 2 Conjuration*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Marksman's Luck
 
 General Feat (Prerequisite: Level 4+, Dexterity 13+)

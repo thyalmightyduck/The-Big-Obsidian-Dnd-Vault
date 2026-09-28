@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 # Dhampire
 ## Grim Hallow: Player’s Guide 2024 (GHPG24):
 - Creature Type: [[Humanoid]]

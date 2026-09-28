@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Inquisitive Rogue
 ## Xanathar’s Guide to Everything
 

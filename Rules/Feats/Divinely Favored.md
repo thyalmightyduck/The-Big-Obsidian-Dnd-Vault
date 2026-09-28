@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Divinely Favored
 
 Prerequisite: Level 4+, Dragonlance Campaign

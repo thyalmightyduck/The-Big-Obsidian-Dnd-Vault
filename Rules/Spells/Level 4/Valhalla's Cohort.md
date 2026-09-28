@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Valhalla's Cohort
 *Level 4 Conjuration*
 ___

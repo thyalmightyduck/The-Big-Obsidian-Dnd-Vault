@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Aberrant Mind Sorcerer
 ## Tasha’s Cauldron of Everything
 

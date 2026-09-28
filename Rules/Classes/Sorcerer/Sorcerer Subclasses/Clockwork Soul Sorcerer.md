@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Clockwork Soul Sorcerer
 ## Tasha’s Cauldron of Everything
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Arcana Domain Cleric
 ## Sword Coast Adventurer’s Guide:
 

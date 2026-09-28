@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Hand of Dread Pugilist
 ## The Pugilist Class (2024)
 

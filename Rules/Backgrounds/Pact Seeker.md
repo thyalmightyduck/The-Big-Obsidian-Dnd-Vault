@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Pact Seeker
 
 - **Ability Scores:** Constitution, Intelligence, Charisma

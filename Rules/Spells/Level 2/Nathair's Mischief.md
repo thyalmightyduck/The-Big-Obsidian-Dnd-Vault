@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Nathair's Mischief
 *Level 2 Illusion*
 ___

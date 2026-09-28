@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Pinky Swear
 *Level 2 Abjuration*
 ___

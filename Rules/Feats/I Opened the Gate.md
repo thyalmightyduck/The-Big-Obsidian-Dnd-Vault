@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## I Opened the Gate
 
 Origin Feat

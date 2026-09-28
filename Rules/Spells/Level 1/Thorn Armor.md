@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Thorn Armor
 *Level 1 Abjuration*
 ___

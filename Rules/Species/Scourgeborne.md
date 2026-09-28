@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Scourgeborne
 
 - **Creature Type:** Monstrosity

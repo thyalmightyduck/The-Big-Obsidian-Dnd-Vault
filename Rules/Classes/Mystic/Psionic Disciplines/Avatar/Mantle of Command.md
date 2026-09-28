@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 You exert an aura of trust and authority, enhancing the coordination among your allies.
 
 **Psychic Focus.** While focused on this discipline, when you end your turn and didn’t move during it, you can use your reaction to allow one ally you can see within 30 feet of you to move up to half their speed, following a path of your choice. To move in this way, the ally mustn’t be incapacitated.

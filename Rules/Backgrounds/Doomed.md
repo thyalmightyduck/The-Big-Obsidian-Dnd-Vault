@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Doomed
 
 - **Ability Scores:** Charisma, Intelligence, Wisdom

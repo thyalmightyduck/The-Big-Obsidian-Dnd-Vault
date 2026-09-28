@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Greater Blessing of Baldur
 
 General Feat (Prerequisite: Level 4+, Blessing of Baldur)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## I Hid from the Terror
 
 Origin Feat

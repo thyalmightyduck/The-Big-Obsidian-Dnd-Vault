@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Flipperform
 *Level 1 Biomancy*
 ___

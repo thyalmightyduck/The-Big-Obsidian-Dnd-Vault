@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Wood-Craft
 
 Crafting Feat

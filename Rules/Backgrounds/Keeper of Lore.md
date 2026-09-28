@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Keeper of Lore
 
 - **Skill Proficiencies.** Investigation, Old Lore

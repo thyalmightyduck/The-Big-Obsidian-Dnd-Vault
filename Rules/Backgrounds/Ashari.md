@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Ashari
 
 - **Skill Proficiencies:** Nature, plus your choice of Arcana or Survival

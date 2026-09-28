@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Ruined
 
 - **Skill Proficiencies:** Stealth, Survival

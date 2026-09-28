@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Ring
-  - Rare
-  - Homebrew
+  - magicitem
 ---
 # Ring of Unity
 > [!infobox]

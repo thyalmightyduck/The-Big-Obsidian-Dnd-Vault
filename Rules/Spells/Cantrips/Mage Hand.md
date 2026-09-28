@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Conjuration Cantrip_
 
 **Casting Time:** Action

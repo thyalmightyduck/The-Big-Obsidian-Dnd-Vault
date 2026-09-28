@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Life Domain Cleric
 ## Player’s Handbook (2024)
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Barbarian: Sword Coast Adventure’s Guide:
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

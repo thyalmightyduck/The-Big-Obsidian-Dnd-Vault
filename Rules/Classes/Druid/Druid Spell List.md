@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 ## Cantrip
 - [[Aegir's Breath]]
 - [[Bacterial Barrage]]

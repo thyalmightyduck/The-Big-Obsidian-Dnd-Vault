@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Pack Fighting
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

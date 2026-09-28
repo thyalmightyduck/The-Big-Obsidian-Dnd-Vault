@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # The Hexblade Warlock
 ## Xanathar’s Guide to Everything
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Entertainer
 
 - **Ability Scores:** Strength, Dexterity, Charisma

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Shared Expertise
 *Level 3 Transmutation*
 ___

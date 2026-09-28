@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Dragonmarked Foundling
 
 - **Ability Scores:** Dexterity, Constitution, Charisma

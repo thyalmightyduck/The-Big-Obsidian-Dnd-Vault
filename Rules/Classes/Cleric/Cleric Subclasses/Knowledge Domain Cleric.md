@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Knowledge Domain Cleric
 ## Player’s Handbook (2014):
 

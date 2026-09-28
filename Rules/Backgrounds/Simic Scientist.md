@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Simic Scientist
 
 - **Skill Proficiencies:** Arcana, Medicine

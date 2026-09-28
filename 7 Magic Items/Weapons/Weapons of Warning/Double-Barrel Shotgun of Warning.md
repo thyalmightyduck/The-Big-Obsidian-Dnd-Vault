@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Uncommon
-  - Attunement
+  - magicitem
 ---
 *Weapons [[Double-Barrel Shotgun]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm

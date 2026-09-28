@@ -1,10 +1,5 @@
 ---
-tags:
-  - Weapon
-  - Martial
-  - Melee
-  - Finesse
-  - MasteryTopple
+{}
 ---
 **Weapon:** 2d6 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Finesse

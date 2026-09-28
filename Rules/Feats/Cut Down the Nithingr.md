@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Cut Down the Nithingr
 
 General Feat (Prerequisite: Level 4+)

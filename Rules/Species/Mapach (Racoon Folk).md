@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 - Ability Scores: Wisdom +2; Constitution +1
     
 - Creature Type: Humanoid

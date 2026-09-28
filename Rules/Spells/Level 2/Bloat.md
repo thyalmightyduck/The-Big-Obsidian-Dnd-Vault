@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Bloat
 *Level 2 Necromancy*
 ___

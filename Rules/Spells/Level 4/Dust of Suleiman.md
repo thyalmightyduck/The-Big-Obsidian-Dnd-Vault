@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Dust of Suleiman
 *Level 4 Conjuration*
 ___

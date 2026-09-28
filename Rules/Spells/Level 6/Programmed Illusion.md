@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Programmed Illusion
 *Level 6 Illusion*
 ___

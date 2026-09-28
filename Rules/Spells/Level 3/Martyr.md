@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Martyr
 *Level 3 Necromancy*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Enchanter Wizard
 ## Arcana Unleashed (AU):
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 _Level 4 Necromancy_
 
 **Casting Time:** Action

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Anthropologist
 
 - **Skill Proficiencies:** Insight, Religion

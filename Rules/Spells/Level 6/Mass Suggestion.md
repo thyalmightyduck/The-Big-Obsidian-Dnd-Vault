@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 # Player’s Handbook 2024 (PHB24):
 _Level 6 Enchantment_
 

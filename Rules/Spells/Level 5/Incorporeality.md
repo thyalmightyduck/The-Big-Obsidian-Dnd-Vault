@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Incorporeality
 *Level 5 Transmutation*
 ___

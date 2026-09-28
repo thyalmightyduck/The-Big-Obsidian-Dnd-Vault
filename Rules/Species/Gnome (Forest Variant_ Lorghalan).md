@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Gnome (Forest Variant: Lorghalan)
 
 - **Ability Scores:** Intelligence +2; Charisma +1

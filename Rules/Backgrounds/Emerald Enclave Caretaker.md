@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Emerald Enclave Caretaker
 
 - **Ability Scores:** Constitution, Intelligence, Wisdom

@@ -1,3 +1,7 @@
+---
+tags:
+  - backgrounds
+---
 ## Grinner
 
 - **Skill Proficiencies:** Deception, Performance

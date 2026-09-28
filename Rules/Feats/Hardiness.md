@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Hardiness
 
 Common Virtues Feat

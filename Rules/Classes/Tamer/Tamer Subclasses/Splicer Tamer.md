@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Splicer Tamer
 ## Heliana’s Guide to Monster Hunting
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - species
+---
 ## Goliath (Variant: Desert Born)
 
 - **Ability Scores:** Strength +2; Constitution +1

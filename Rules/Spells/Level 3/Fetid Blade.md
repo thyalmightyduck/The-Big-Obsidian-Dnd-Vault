@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Fetid Blade
 *Level 3 Evocation*
 ___

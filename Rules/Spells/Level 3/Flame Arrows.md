@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Flame Arrows
 *Level 3 Transmutation*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Blood Domain Cleric
 ## Tal’Dorei Campaign Setting Reborn:
 

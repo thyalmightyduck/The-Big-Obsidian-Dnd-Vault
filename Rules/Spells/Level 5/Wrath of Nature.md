@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Wrath of Nature
 *Level 5 Evocation*
 ___

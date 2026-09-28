@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Shadow Knawer Barbarian: Book of Ebon Tides:
 
 | Level | [[Proficiency Bonus]] | Features                                              | Rages | Rage Damage | Weapon Mastery |

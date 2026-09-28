@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Strom Sorcery Sorcerer
 ## Xanathar’s Guide to Everything
 

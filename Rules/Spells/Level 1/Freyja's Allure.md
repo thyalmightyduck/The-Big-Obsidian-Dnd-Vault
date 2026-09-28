@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Freyja's Allure
 *Level 1 Enchantment*
 ___

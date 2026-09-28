@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Stone Bones
 *Level 2 Transmutation*
 ___

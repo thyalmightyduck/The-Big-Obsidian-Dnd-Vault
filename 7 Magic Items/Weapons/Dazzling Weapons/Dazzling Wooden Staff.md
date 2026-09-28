@@ -1,9 +1,6 @@
 ---
 tags:
-  - MagicItem
-  - Weapon
-  - Rare
-  - Attunement
+  - magicitem
 ---
 *Weapon [[Wooden Staff]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning, Simple Weapon, Spellcasting Focus

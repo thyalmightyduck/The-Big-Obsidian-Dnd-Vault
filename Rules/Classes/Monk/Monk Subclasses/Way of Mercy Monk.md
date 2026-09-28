@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Way of Mercy Monk
 ## Tasha’s Cauldron of Everything
 

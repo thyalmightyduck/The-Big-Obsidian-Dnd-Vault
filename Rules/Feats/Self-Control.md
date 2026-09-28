@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Self-Control
 
 Kindred Feat (Prerequisite: Level 2+  Kindred)

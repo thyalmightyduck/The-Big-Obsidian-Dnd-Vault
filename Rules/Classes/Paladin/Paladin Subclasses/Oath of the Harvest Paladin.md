@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of the Harvest Paladin
 ## Heliana’s Guide to Monster Hunting
 

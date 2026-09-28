@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Warrior of Regret Monk
 ## Grim Hallow: Player’s Guide (2024)
 

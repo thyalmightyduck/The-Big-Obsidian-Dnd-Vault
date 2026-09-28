@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Linked Glyphs
 *Level 3 Abjuration*
 ___

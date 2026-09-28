@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Oath of Hexes Paladin
 ## Sebastian Crowe’s Guide to Drakkenheim
 

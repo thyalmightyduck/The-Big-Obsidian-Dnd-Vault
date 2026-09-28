@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Chosen by Fate
 
 General Feat (Prerequisite: Level 4+)

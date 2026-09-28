@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of Terror
 
 Epic Boon Feat (Prerequisite: Level 19+)

@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Circle of the Warden Druid
 ## Humblewood Tales
 

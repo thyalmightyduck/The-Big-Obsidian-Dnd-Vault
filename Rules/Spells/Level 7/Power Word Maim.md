@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Power Word Maim
 *Level 7 Enchantment*
 ___

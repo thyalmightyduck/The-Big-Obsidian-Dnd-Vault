@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Boon of the Earthly Tether
 
 Epic Boon Feat (Prerequisite: Level 19+, Specter Transformation)

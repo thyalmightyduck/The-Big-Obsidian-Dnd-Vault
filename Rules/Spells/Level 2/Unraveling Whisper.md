@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Unraveling Whisper
 *Level 2 Enchantment*
 ___

@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Mephitic Vapors
 *Level 6 Conjuration*
 ___

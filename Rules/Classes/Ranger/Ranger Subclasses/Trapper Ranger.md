@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Trapper Ranger 
 ## Heliana’s Guide to Monster Hunting
 

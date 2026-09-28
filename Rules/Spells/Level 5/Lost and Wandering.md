@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Lost and Wandering
 *Level 5 Enchantment*
 ___

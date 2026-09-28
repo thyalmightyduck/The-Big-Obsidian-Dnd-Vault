@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # Captain The Lord of The Rings Roleplaying
 
 | Level | [[Proficiency Bonus]] | Features                                |

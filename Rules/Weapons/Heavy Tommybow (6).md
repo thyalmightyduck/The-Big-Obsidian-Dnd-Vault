@@ -1,3 +1,6 @@
+---
+{}
+---
 **Weapon:** 1d10 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (100/200 ft.), heavy, Reload (6), two‑handed
 300 GP 18lbs

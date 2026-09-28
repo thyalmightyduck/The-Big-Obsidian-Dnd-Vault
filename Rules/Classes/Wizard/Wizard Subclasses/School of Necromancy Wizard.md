@@ -1,3 +1,7 @@
+---
+tags:
+  - classes
+---
 # School of Necromancy Wizard
 ## Player’s Handbook (2014):
 

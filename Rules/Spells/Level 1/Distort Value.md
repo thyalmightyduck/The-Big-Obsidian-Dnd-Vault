@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Distort Value
 *Level 1 Illusion*
 ___

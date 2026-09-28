@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Witch Hunter
 
 General Feat (Prerequisite: Level 4+)

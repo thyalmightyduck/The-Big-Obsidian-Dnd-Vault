@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Savagery
 
 Fighting Style Feat (Prerequisite: Fighting Style Feature)

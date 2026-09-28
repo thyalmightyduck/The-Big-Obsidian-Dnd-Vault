@@ -1,3 +1,7 @@
+---
+tags:
+  - Feat
+---
 ## Spell Resistant
 
 General Feat (Prerequisite: Level 4+)

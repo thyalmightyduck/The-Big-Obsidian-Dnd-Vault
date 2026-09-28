@@ -1,3 +1,7 @@
+---
+tags:
+  - spells
+---
 #### Doom of False Friends
 *Level 8 Enchantment*
 ___
