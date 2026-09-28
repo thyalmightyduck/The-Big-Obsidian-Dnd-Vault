@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Humanoid
-  - todo/spellcasterlists
+  - PSI
 ---
 # Keeper of the Feather
 ## Plane Shift: Innistrad (PSI):

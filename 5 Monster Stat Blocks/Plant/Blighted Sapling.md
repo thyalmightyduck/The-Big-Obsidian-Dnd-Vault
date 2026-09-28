@@ -1,3 +1,9 @@
+---
+tags:
+  - Monster
+  - Plant
+  - TDCSR
+---
 # Blighted Sapling
 
 > [!infobox]
