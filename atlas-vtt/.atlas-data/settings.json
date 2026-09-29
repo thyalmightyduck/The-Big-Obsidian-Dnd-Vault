@@ -27,7 +27,7 @@
     "showToolbar": false,
     "showTokenHP": true,
     "showTokenStress": false,
-    "showTokenNameplates": true,
+    "showTokenNameplates": false,
     "showNotePreviews": false,
     "showGrid": true,
     "showWidgets": true,
