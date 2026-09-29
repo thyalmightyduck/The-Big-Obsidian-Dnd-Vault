@@ -121,7 +121,7 @@
         "customCreatureFilters": [
           {
             "id": "armorclass",
-            "label": "Armorclass",
+            "label": "Armor Class",
             "kind": "range",
             "field": "armorclass"
           },
@@ -130,7 +130,7 @@
             "label": "Type",
             "kind": "options",
             "fields": [
-              "Type"
+              "type"
             ]
           },
           {
@@ -176,7 +176,7 @@
         "systemPresetId": "builtin:dnd5e"
       },
       "createdAt": 1790659852594,
-      "modifiedAt": 1790713838588
+      "modifiedAt": 1790714047491
     },
     "Test": {
       "id": "Test",
@@ -382,18 +382,6 @@
       "createdAt": 1790710677545,
       "modifiedAt": 1790710677545,
       "filePath": "atlas-vtt/collections/Default/scenes/scene-1790710677545-8inf3q.json"
-    },
-    "token-1790713601180-0cun6r": {
-      "showRing": true,
-      "name": "Inconspicuous Hamster (Hammy)",
-      "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790713601154_vwkvgr.webp",
-      "collection": "Default",
-      "tags": [],
-      "thumbnailPath": "atlas-vtt/assets/thumbnails/Inconspicuous_Hamster__Hammy__1790713601154_vwkvgr-af3af37c.webp",
-      "type": "token",
-      "id": "token-1790713601180-0cun6r",
-      "createdAt": 1790713601180,
-      "modifiedAt": 1790713889297
     }
   },
   "version": 2,

@@ -7,10 +7,11 @@ statblock: "true"
 name: Inconspicuous Hamster (Hammy)
 Size: Tiny
 HP: "32"
-Type: Aberration
-image: "[[Inconspicuous Hamster BGR PNG.png]]"
+Type:
+  - Aberration
+image: "[[Inconspicuous Hamster (Hammy)]]"
 speed: 20
-armorclass: "12"
+armorclass: 12
 ---
 # Inconspicuous Hamster (Hammy)
 
