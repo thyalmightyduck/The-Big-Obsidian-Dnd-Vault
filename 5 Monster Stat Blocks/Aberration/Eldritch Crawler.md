@@ -7,7 +7,45 @@ statblock: "true"
 name: Eldritch Crawler
 image: "[[Eldritch Crawler BGR PNG.png]]"
 ---
-# Eldritch Crawler+
+# Eldritch Crawler
+
+# 5e Statblock
+
+```statblock
+layout: Basic 5e Layout
+image: [[Eldritch Crawler BGR PNG.png]]
+name: Eldritch Crawler
+size: Medium
+type: [[Aberration]]
+alignment: Neutral
+ac: 14
+hp: 66
+hit_dice: 12d8+12
+speed: 40ft., Climb 40ft.
+stats: [16, 15, 12, 6, 11, 2]
+damage_resistances: Necrotic
+condition_immunities: [[Grappled]], [[Restrained]]
+senses: [[Darkvision]] 60Ft, [[Passive Perception]] 10
+cr: 3
+traits:
+  - name: Alien Intellect.
+    desc: The eldritch crawler is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([[Insight]]) checks made to ascertain the eldritch crawler's intentions or sincerity have [[Disadvantage]].
+  - name: Fully Contaminated.
+    desc: The eldritch crawler is immune to [[Contamination]] and has [[Advantage]] on saving throws against contaminated spells. The eldritch crawler may cast contaminated spells even though it does not gain [[Contamination]] levels.
+  - name: Insectiod Limbs.
+    desc: The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an [[ability check]]. It ignores movement restrictions caused by webbing.      
+actions:
+  - name: "Bite."
+    desc: "_Constitution [[Saving Throw]]:_ DC 12, one target within 5 ft. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."
+  - name: "Contaminated Venom."
+    desc: "_Constitution [[Saving Throw]]:_ DC 12, one target within 40 feet. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."   
+bonus_actions:
+  - name: "Void Walker."
+    desc: "The eldritch crawler climbs through a tear in reality, traveling from the Material Plane to the Space Between Worlds or vice versa."
+reactions:
+  - name: "Fractured Reality."
+    desc: "_Trigger:_ A creature misses the eldritch crawler with an attack. _Response:_ The eldritch crawler teleports to an unoccupied space it can see within 30 feet, briefly leaving behind a fractured image of itself being hit by the attack." 
+```
 
 > [!infobox]
 > # Eldritch Crawler
@@ -96,45 +134,3 @@ Organs: Eyes, Guts, Glands, Flesh. Natural
 Weapons: Tentacles.
 
 Hide: Skin.
-
-Dust: Aberrant Dust.
-
-
-# 5e Statblock
-
-```statblock
-layout: Basic 5e Layout
-image: [[Eldritch Crawler BGR PNG.png]]
-name: Eldritch Crawler
-size: Medium
-type: [[Aberration]]
-alignment: Neutral
-ac: 14
-hp: 66
-hit_dice: 12d8+12
-speed: 40ft., Climb 40ft.
-stats: [16, 15, 12, 6, 11, 2]
-damage_resistances: Necrotic
-condition_immunities: [[Grappled]], [[Restrained]]
-senses: [[Darkvision]] 60Ft, [[Passive Perception]] 10
-cr: 3
-traits:
-  - name: Alien Intellect.
-    desc: The eldritch crawler is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([[Insight]]) checks made to ascertain the eldritch crawler's intentions or sincerity have [[Disadvantage]].
-  - name: Fully Contaminated.
-    desc: The eldritch crawler is immune to [[Contamination]] and has [[Advantage]] on saving throws against contaminated spells. The eldritch crawler may cast contaminated spells even though it does not gain [[Contamination]] levels.
-  - name: Insectiod Limbs.
-    desc: The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an [[ability check]]. It ignores movement restrictions caused by webbing.      
-actions:
-  - name: "Bite."
-    desc: "_Constitution [[Saving Throw]]:_ DC 12, one target within 5 ft. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."
-  - name: "Contaminated Venom."
-    desc: "_Constitution [[Saving Throw]]:_ DC 12, one target within 40 feet. _Failure:_ 18 (4d8) Necrotic damage, and the target gains one [[Contamination]] level. _Success:_ Half damage only."   
-bonus_actions:
-  - name: "Void Walker."
-    desc: "The eldritch crawler climbs through a tear in reality, traveling from the Material Plane to the Space Between Worlds or vice versa."
-reactions:
-  - name: "Fractured Reality."
-    desc: "_Trigger:_ A creature misses the eldritch crawler with an attack. _Response:_ The eldritch crawler teleports to an unoccupied space it can see within 30 feet, briefly leaving behind a fractured image of itself being hit by the attack." 
-```
-
