@@ -72,7 +72,7 @@
         "image": "<STATBLOCK-WIKI-LINK>Inconspicuous Hamster BGR PNG.png<STATBLOCK-WIKI-LINK>",
         "name": "Inconspicuous Hamster",
         "size": "Tiny",
-        "type": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "type": "Aberration",
         "subtype": null,
         "alignment": null,
         "ac": 12,
@@ -113,7 +113,7 @@
           },
           {
             "name": "Brain Probe",
-            "desc": "_Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma saving throw. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn."
+            "desc": "_Melee Spell Attack:_ +5 to hit, reach 30 feet., one target. _Hit:_ 1 psychic damage, and the target must succeed on a DC 13 Charisma <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failure, the Inconspicuous Hamster can read the target’s thoughts until the start of its next turn."
           },
           {
             "name": "Mental Meal",

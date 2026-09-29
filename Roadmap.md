@@ -1,4 +1,5 @@
 # Last Left Off
+add properties for monster to import to the vtt
 ### Feats
 - [x] Players Handbook 2024
 - [x] Players Handbook 2014

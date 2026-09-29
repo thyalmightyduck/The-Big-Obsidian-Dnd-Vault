@@ -6,6 +6,7 @@ tags:
 statblock: "true"
 name: Inconspicuous Hamster (Hammy)
 image: "[[Inconspicuous Hamster BGR PNG.png]]"
+Size: Tiny
 ---
 # Inconspicuous Hamster (Hammy)
 
