@@ -1,1 +1,116 @@
-{"state":{"schema":"atlas-vtt","version":4,"mapPath":"atlas-vtt/collections/Default/scenes/Colossal Snail   Hermitage   Round Shell   Whole   22x16.atlasmap","background":"atlas-vtt/assets/Colossal_Snail___Hermitage___Round_Shell___Whole___22x16_1790710644333_hg5il5.webp","grid":{"enabled":true,"visible":true,"snapToGrid":true,"type":"square","size":69.9,"offsetX":0.89,"offsetY":1.01,"opacity":0.5,"lineType":"solid","lineWidth":0.5,"unitType":"feet","unitDistance":5,"measurementType":"units"},"objects":{"tokens":{"tok_1790711049702_rondtruf1":{"x":944.5400000000001,"y":525.2600000000001,"imagePath":"atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp","kind":"character","name":"Inconspicuous Hamster (Hammy)","showRing":true,"statblockPath":"5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md","id":"tok_1790711049702_rondtruf1","instanceNumber":1}},"fog":{},"pins":{},"texts":{},"drawings":{},"walls":{},"lights":{}},"camera":{"x":0,"y":0,"scale":1},"widgetValues":{},"widgetSettings":{"widgets":{},"globalVisible":true,"position":"top","scale":1},"dmNotePath":null,"tokenSettings":{"showNameplates":true,"showHPBars":true,"showStressBars":false,"showInstanceBadges":true,"tokenRingSize":1},"initiative":{"entries":[{"tokenId":"tok_1790711049702_rondtruf1","name":"Inconspicuous Hamster (Hammy)","initiative":0,"initiativeModifier":0,"hp":{"current":10,"max":10},"imagePath":"atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp","isDefeated":false,"isNPC":true,"statblockPath":"5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md","id":"init_1790711049703_uc18i4tzt","order":0,"isActive":true}],"currentIndex":-1,"round":0,"isActive":false,"config":{"autoSort":true},"removedTokenIds":["tok_1790709854730_a73hv7gym","tok_1790709864481_aokt5m6vt","tok_1790709869482_93mxjhlxn","tok_1790709874137_12c5mhdkv","tok_1790709879118_7obo0n68a","tok_1790709882543_6nvtxfurt","tok_1790709487996_l9okxxty8","tok_1790710374499_4wxo6ummp"]},"initiativeTrackerOpen":true,"diceLog":[{"id":"roll_1790709351652_kfdk7fkzp","timestamp":1790709351652,"formula":"d4","rolls":[{"die":"d4","value":3,"max":4}],"modifiers":0,"total":3,"player":"Player"}],"pinnedNotePreviews":{},"lootRoller":{"open":false,"disabledViews":[],"excludedRarities":[],"count":1,"pane":"results"}},"version":4}
+{
+  "state": {
+    "schema": "atlas-vtt",
+    "version": 4,
+    "mapPath": "atlas-vtt/collections/Default/scenes/Colossal Snail   Hermitage   Round Shell   Whole   22x16.atlasmap",
+    "background": "atlas-vtt/assets/Colossal_Snail___Hermitage___Round_Shell___Whole___22x16_1790710644333_hg5il5.webp",
+    "grid": {
+      "enabled": true,
+      "visible": true,
+      "snapToGrid": true,
+      "type": "square",
+      "size": 69.9,
+      "offsetX": 0.89,
+      "offsetY": 1.01,
+      "opacity": 0.5,
+      "lineType": "solid",
+      "lineWidth": 0.5,
+      "unitType": "feet",
+      "unitDistance": 5,
+      "measurementType": "units"
+    },
+    "objects": {
+      "tokens": {},
+      "fog": {},
+      "pins": {},
+      "texts": {},
+      "drawings": {},
+      "walls": {},
+      "lights": {}
+    },
+    "camera": {
+      "x": 0,
+      "y": 0,
+      "scale": 1
+    },
+    "widgetValues": {},
+    "widgetSettings": {
+      "widgets": {},
+      "globalVisible": true,
+      "position": "top",
+      "scale": 1
+    },
+    "dmNotePath": null,
+    "tokenSettings": {
+      "showNameplates": true,
+      "showHPBars": true,
+      "showStressBars": false,
+      "showInstanceBadges": true,
+      "tokenRingSize": 1
+    },
+    "initiative": {
+      "entries": [
+        {
+          "tokenId": "tok_1790711049702_rondtruf1",
+          "name": "Inconspicuous Hamster (Hammy)",
+          "initiative": 0,
+          "initiativeModifier": 0,
+          "hp": {
+            "current": 10,
+            "max": 10
+          },
+          "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp",
+          "isDefeated": false,
+          "isNPC": true,
+          "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
+          "id": "init_1790711049703_uc18i4tzt",
+          "order": 0,
+          "isActive": true
+        }
+      ],
+      "currentIndex": -1,
+      "round": 0,
+      "isActive": false,
+      "config": {
+        "autoSort": true
+      },
+      "removedTokenIds": [
+        "tok_1790709854730_a73hv7gym",
+        "tok_1790709864481_aokt5m6vt",
+        "tok_1790709869482_93mxjhlxn",
+        "tok_1790709874137_12c5mhdkv",
+        "tok_1790709879118_7obo0n68a",
+        "tok_1790709882543_6nvtxfurt",
+        "tok_1790709487996_l9okxxty8",
+        "tok_1790710374499_4wxo6ummp"
+      ]
+    },
+    "initiativeTrackerOpen": true,
+    "diceLog": [
+      {
+        "id": "roll_1790709351652_kfdk7fkzp",
+        "timestamp": 1790709351652,
+        "formula": "d4",
+        "rolls": [
+          {
+            "die": "d4",
+            "value": 3,
+            "max": 4
+          }
+        ],
+        "modifiers": 0,
+        "total": 3,
+        "player": "Player"
+      }
+    ],
+    "pinnedNotePreviews": {},
+    "lootRoller": {
+      "open": false,
+      "disabledViews": [],
+      "excludedRarities": [],
+      "count": 1,
+      "pane": "results"
+    }
+  },
+  "version": 4
+}

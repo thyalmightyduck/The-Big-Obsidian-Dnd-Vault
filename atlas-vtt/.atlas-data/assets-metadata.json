@@ -123,17 +123,17 @@
           "source",
           "alignment",
           "rarity",
-          "traits",
           "cr",
           "level",
           "tier",
-          "type"
+          "type",
+          "traits"
         ],
         "lootBases": [],
         "systemPresetId": "builtin:dnd5e"
       },
       "createdAt": 1790659852594,
-      "modifiedAt": 1790708788359
+      "modifiedAt": 1790713097478
     },
     "Test": {
       "id": "Test",
@@ -314,95 +314,6 @@
       "createdAt": 1790661659677,
       "modifiedAt": 1790661659677,
       "filePath": "atlas-vtt/collections/Default/scenes/scene-1790661659677-sb5hbg.json"
-    },
-    "token-1790709130754-4ewnhv": {
-      "showRing": true,
-      "name": "Inconspicuous Hamster (Hammy)",
-      "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp",
-      "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
-      "collection": "Default",
-      "tags": [],
-      "thumbnailPath": "atlas-vtt/assets/thumbnails/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug-c838ee2e.webp",
-      "type": "token",
-      "id": "token-1790709130754-4ewnhv",
-      "createdAt": 1790709130754,
-      "modifiedAt": 1790709130754
-    },
-    "encounter-1790709661498-ofeymc": {
-      "name": "Encounter 9/29/2026",
-      "collection": "Default",
-      "tokens": [
-        {
-          "id": "tok_1790709487996_l9okxxty8",
-          "name": "Inconspicuous Hamster (Hammy)",
-          "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp",
-          "cell": {
-            "q": 0,
-            "r": 0
-          },
-          "offset": {
-            "x": 0,
-            "y": 0
-          },
-          "state": {
-            "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp",
-            "kind": "character",
-            "name": "Inconspicuous Hamster (Hammy)",
-            "showRing": true,
-            "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
-            "size": 1,
-            "showNameplate": true
-          },
-          "size": 1,
-          "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md"
-        }
-      ],
-      "formation": {
-        "gridType": "square",
-        "pitch": 70
-      },
-      "difficulty": "medium",
-      "tags": [],
-      "thumbnailUrl": "app://cffc55aae11e5cdc936f2c92d68bb3260724/F:/The%20Big%20Obsidian%20Dnd%20Vault/The%20Big%20Obsidian%20Dnd%20Vault/atlas-vtt/assets/encounter-thumbnails/encounter-1790709661378.png?1790709661379",
-      "data": {
-        "description": "Encounter with 1 tokens",
-        "tokens": [
-          {
-            "id": "tok_1790709487996_l9okxxty8",
-            "name": "Inconspicuous Hamster (Hammy)",
-            "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp",
-            "cell": {
-              "q": 0,
-              "r": 0
-            },
-            "offset": {
-              "x": 0,
-              "y": 0
-            },
-            "state": {
-              "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790709130726_vyi0ug.webp",
-              "kind": "character",
-              "name": "Inconspicuous Hamster (Hammy)",
-              "showRing": true,
-              "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
-              "size": 1,
-              "showNameplate": true
-            },
-            "size": 1,
-            "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md"
-          }
-        ],
-        "difficulty": "medium",
-        "formation": {
-          "gridType": "square",
-          "pitch": 70
-        }
-      },
-      "id": "encounter-1790709661498-ofeymc",
-      "createdAt": 1790709661498,
-      "modifiedAt": 1790709661498,
-      "type": "encounter",
-      "filePath": "atlas-vtt/collections/Default/encounters/encounter-1790709661498-ofeymc.json"
     },
     "map-1790710644361-2ml3s4": {
       "type": "map",
