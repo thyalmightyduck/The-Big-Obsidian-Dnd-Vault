@@ -165,7 +165,7 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells                                                             |
 | -------------- | ------------------------------------------------------------------ |
-| 3rd            | [[Alter Self]], [[Chromatic Orb]], [[Command]], [[Dragons Breath]] |
+| 3rd            | [[Alter Self]], [[Chromatic Orb]], [[Command]], [[Dragon's Breath]] |
 | 5th            | [[Fear]], [[Fly]]                                                  |
 | 7th            | [[Arcane Eye]], [[Charm Monster]]                                  |
 | 9th            | [[Legend Lore]], [[Summon Dragon]]                                 |

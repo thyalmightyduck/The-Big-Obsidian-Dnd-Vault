@@ -1,6 +1,8 @@
 ---
 tags:
   - spells
+aliases:
+  - Dragons Breath
 ---
 _Level 2 Transmutation_
 

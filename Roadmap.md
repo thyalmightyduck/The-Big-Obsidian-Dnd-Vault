@@ -105,8 +105,8 @@ Artificer
 - [x] Druid
 - [x] Monk
 - [x] Paladin
-- [ ] Ranger
-- [ ] Sorcerer
+- [x] Ranger
+- [x] Sorcerer
 - [x] Warlock
 - [ ] Wizard
 - [x] Apothecary

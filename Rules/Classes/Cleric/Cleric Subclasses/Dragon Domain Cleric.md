@@ -111,7 +111,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Spells                                                             |
 | ------------ | ------------------------------------------------------------------ |
-| 3            | [[Chromatic Orb]], [[Command]], [[Darkvision]], [[Dragons Breath]] |
+| 3            | [[Chromatic Orb]], [[Command]], [[Darkvision]], [[Dragon's Breath]] |
 | 5            | [[Fly]], [[Protection from Energy]]                                |
 | 7            | [[Banishment]], [[Charm Monster]]                                  |
 | 9            | [[Dominate Person]], [[Summon Dragon]]                             |
@@ -128,7 +128,7 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom 
 You gain a feature from your Cleric Subclass.
 
 ### Level 6: Wyrm's Blessing
-You can expend a use of your Channel Divinity to cast [[Dragons Breath]] or [[Protection from Energy]] on yourself rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[Concentration]]. This spell ends early if you cast that spell again, have the [[Incapacitated]] condition, or die.
+You can expend a use of your Channel Divinity to cast [[Dragon's Breath]] or [[Protection from Energy]] on yourself rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[Concentration]]. This spell ends early if you cast that spell again, have the [[Incapacitated]] condition, or die.
 
 ## Level 7: Blessed Strikes
 Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).
