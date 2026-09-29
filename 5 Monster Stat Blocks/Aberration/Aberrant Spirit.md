@@ -4,13 +4,25 @@ tags:
   - Aberration
   - TCE
 statblock: "true"
-image: "[[Aberrant Spirit BGR PNG.png]]"
+image: atlas-vtt/assets/Aberrant_Spirit_1790714545851_60hl4x.webp
 name: Aberrant Spirit
 size: Medium
 Type:
   - Aberration
 alignment: unaligned
-ac:
+ac: 11
+hp: "40"
+speed: 30
+stats:
+  - 16 (+3)
+  - "10"
+  - "15"
+  - "16"
+  - "10"
+  - "6"
+damage_immunities: Psychic
+senses: Darkvision 60ft, Passive Perception 10, Passive Insight 10, Passive Stealth 10
+languages: Deep Speech, Unsterstands the languages you speak
 ---
 # Aberrant Spirit
 ## Tasha’s Cauldron of Everything (TCE):
