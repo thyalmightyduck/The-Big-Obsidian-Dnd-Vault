@@ -3,7 +3,5 @@ views:
     name: Table
     order:
       - file.name
-      - Prerequisites
-      - tags
   - type: table
     name: View

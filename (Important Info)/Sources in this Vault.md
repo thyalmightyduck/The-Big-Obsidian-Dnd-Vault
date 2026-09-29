@@ -2,7 +2,7 @@
 ### Core/Supplements
 - (AU) Arcana Unleashed
 - (BGG) Bigby Presents: Glory of the Giants
-- (DSotDQ) Dragonlance: Shadow of thh Dragon Queen
+- (DSotDQ) Dragonlance: Shadow of the Dragon Queen
 - (DMG14) Dungeon Master’s Guide (2014)
 - (EFA) Eberron: Forge of the Artificer 
 - (ERLW) Eberron: Rising from the Last War
