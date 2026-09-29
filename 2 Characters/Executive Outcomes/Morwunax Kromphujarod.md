@@ -33,6 +33,14 @@ skills:
   Survival: true
   Medicine: true
   Persuasion: true
+attacks:
+  - name: Longbow +3
+    ability: Dex
+    proficient: false
+    damage: 1D8+7
+    damage_type: Piercing
+    properties:
+      - two-handed
 ---
 ### [[Dragonborn]] (Brass) [[Ranger]]([[Fey Wanderer Ranger|Fey Wanderer]]) Lvl 9
 > [!infobox]
