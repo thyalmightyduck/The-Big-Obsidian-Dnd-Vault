@@ -1,3 +1,17 @@
+---
+dnd_character: true
+class: Ranger
+level: 9
+background: Hermit
+proficiency_bonus: 4
+speed: 40
+ac: 19
+race: Dragonborn (Brass)
+hit_dice:
+  total: 9
+  used: 0
+  die: d10
+---
 ### [[Dragonborn]] (Brass) [[Ranger]]([[Fey Wanderer Ranger|Fey Wanderer]]) Lvl 9
 > [!infobox]
 > # Morwunax Kromphujarod
