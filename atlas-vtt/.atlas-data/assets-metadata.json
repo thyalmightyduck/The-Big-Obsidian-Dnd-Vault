@@ -118,7 +118,50 @@
           "hpBar": true,
           "initiativeTracker": true
         },
-        "customCreatureFilters": [],
+        "customCreatureFilters": [
+          {
+            "id": "armorclass",
+            "label": "Armorclass",
+            "kind": "range",
+            "field": "armorclass"
+          },
+          {
+            "id": "type-2",
+            "label": "Type",
+            "kind": "options",
+            "fields": [
+              "Type"
+            ]
+          },
+          {
+            "id": "hp",
+            "label": "HP",
+            "kind": "range",
+            "field": "HP"
+          },
+          {
+            "id": "size",
+            "label": "Size",
+            "kind": "options",
+            "fields": [
+              "Size"
+            ]
+          },
+          {
+            "id": "speed",
+            "label": "Speed",
+            "kind": "range",
+            "field": "speed"
+          },
+          {
+            "id": "tags",
+            "label": "Tags",
+            "kind": "options",
+            "fields": [
+              "tags"
+            ]
+          }
+        ],
         "hiddenCreatureFilters": [
           "source",
           "alignment",
@@ -133,7 +176,7 @@
         "systemPresetId": "builtin:dnd5e"
       },
       "createdAt": 1790659852594,
-      "modifiedAt": 1790713097478
+      "modifiedAt": 1790713838588
     },
     "Test": {
       "id": "Test",
@@ -344,14 +387,13 @@
       "showRing": true,
       "name": "Inconspicuous Hamster (Hammy)",
       "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790713601154_vwkvgr.webp",
-      "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
       "collection": "Default",
       "tags": [],
       "thumbnailPath": "atlas-vtt/assets/thumbnails/Inconspicuous_Hamster__Hammy__1790713601154_vwkvgr-af3af37c.webp",
       "type": "token",
       "id": "token-1790713601180-0cun6r",
       "createdAt": 1790713601180,
-      "modifiedAt": 1790713601180
+      "modifiedAt": 1790713889297
     }
   },
   "version": 2,
