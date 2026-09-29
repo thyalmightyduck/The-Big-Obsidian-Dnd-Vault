@@ -115,7 +115,8 @@
           "abstractRangeBands": []
         },
         "defaultWidgets": {
-          "hpBar": true
+          "hpBar": true,
+          "initiativeTracker": true
         },
         "customCreatureFilters": [],
         "hiddenCreatureFilters": [
@@ -132,7 +133,7 @@
         "systemPresetId": "builtin:dnd5e"
       },
       "createdAt": 1790659852594,
-      "modifiedAt": 1790662452763
+      "modifiedAt": 1790708788359
     }
   },
   "defaultCollectionId": "Default",
