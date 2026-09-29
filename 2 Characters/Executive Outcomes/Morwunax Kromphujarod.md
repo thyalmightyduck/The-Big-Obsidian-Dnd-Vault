@@ -41,6 +41,8 @@ attacks:
     damage_type: Piercing
     properties:
       - two-handed
+height: 190
+alignment: NG
 ---
 ### [[Dragonborn]] (Brass) [[Ranger]]([[Fey Wanderer Ranger|Fey Wanderer]]) Lvl 9
 > [!infobox]
