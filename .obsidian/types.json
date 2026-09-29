@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Type": "multitext",
-    "armorclass": "number"
+    "armorclass": "number",
+    "stats": "multitext"
   }
 }
