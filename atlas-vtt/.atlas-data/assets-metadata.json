@@ -403,6 +403,31 @@
       "modifiedAt": 1790709661498,
       "type": "encounter",
       "filePath": "atlas-vtt/collections/Default/encounters/encounter-1790709661498-ofeymc.json"
+    },
+    "map-1790710644361-2ml3s4": {
+      "type": "map",
+      "name": "Colossal Snail   Hermitage   Round Shell   Whole   22x16",
+      "mapFilePath": "atlas-vtt/assets/Colossal_Snail___Hermitage___Round_Shell___Whole___22x16_1790710644333_hg5il5.webp",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Colossal_Snail___Hermitage___Round_Shell___Whole___22x16_1790710644333_hg5il5-33501089.webp",
+      "id": "map-1790710644361-2ml3s4",
+      "createdAt": 1790710644361,
+      "modifiedAt": 1790710644361,
+      "filePath": "atlas-vtt/collections/Default/maps/map-1790710644361-2ml3s4.json"
+    },
+    "scene-1790710677545-8inf3q": {
+      "type": "scene",
+      "name": "Colossal Snail   Hermitage   Round Shell   Whole   22x16",
+      "collection": "Default",
+      "tags": [],
+      "data": {
+        "mapPath": "atlas-vtt/collections/Default/scenes/Colossal Snail   Hermitage   Round Shell   Whole   22x16.atlasmap"
+      },
+      "id": "scene-1790710677545-8inf3q",
+      "createdAt": 1790710677545,
+      "modifiedAt": 1790710677545,
+      "filePath": "atlas-vtt/collections/Default/scenes/scene-1790710677545-8inf3q.json"
     }
   },
   "version": 2,
