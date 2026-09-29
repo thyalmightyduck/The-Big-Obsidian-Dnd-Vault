@@ -6,7 +6,7 @@
     "Type": "multitext",
     "armorclass": "number",
     "stats": "multitext",
-    "trait": "multitext",
+    "trait": "text",
     "traits": "text"
   }
 }

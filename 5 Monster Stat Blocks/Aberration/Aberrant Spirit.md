@@ -4,8 +4,13 @@ tags:
   - Aberration
   - TCE
 statblock: "true"
-name: Aberrant Spirit
 image: "[[Aberrant Spirit BGR PNG.png]]"
+name: Aberrant Spirit
+size: Medium
+Type:
+  - Aberration
+alignment: unaligned
+ac:
 ---
 # Aberrant Spirit
 ## Tasha’s Cauldron of Everything (TCE):
