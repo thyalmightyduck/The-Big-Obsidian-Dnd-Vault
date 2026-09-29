@@ -339,6 +339,19 @@
       "createdAt": 1790710677545,
       "modifiedAt": 1790710677545,
       "filePath": "atlas-vtt/collections/Default/scenes/scene-1790710677545-8inf3q.json"
+    },
+    "token-1790713601180-0cun6r": {
+      "showRing": true,
+      "name": "Inconspicuous Hamster (Hammy)",
+      "imagePath": "atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790713601154_vwkvgr.webp",
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Inconspicuous Hamster (Hammy).md",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Inconspicuous_Hamster__Hammy__1790713601154_vwkvgr-af3af37c.webp",
+      "type": "token",
+      "id": "token-1790713601180-0cun6r",
+      "createdAt": 1790713601180,
+      "modifiedAt": 1790713601180
     }
   },
   "version": 2,
