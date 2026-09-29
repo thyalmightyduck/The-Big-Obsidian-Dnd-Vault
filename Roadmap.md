@@ -1,3 +1,7 @@
+---
+dnd_character: true
+class: Ranger
+---
 # Last Left Off
 add properties for monster to import to the vtt
 ### Feats
