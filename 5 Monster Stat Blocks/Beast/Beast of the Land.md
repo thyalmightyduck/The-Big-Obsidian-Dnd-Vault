@@ -4,6 +4,9 @@ tags:
   - Beast
   - Summon
   - TCE
+statblock: "true"
+name: Beast of the Land
+image: "[[Beast of the Land BGR PNG.png]]"
 ---
 # Beast of the Land
 ## Tasha’s Cauldron of Everything (TCE):

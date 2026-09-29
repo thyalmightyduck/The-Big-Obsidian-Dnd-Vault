@@ -3,6 +3,9 @@ tags:
   - Monster
   - Monstrosity
   - IDROTF
+statblock: "true"
+name: Auril (First Form)
+image: "[[Auril First Form BGR PNG.png]]"
 ---
 # Auril (First Form)
 ## Icewind Dale: Rime of the Frostmaiden (IDROTF):

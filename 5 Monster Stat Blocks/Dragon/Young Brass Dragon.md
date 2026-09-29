@@ -3,6 +3,9 @@ tags:
   - Monster
   - Dragon
   - MM25
+statblock: "true"
+name: Young Brass Dragon
+image: "[[Young Brass Dragon BGR PNG.png]]"
 ---
 # Young Brass Dragon
 ## Monster Manuel 2025 (MM25):

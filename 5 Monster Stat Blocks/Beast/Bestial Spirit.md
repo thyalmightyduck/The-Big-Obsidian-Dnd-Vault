@@ -4,6 +4,9 @@ tags:
   - Beast
   - Summon
   - PHB24
+statblock: "true"
+name: Bestial Spirit
+image: "[[Bestial Spirit BGR PNG.png]]"
 ---
 # Bestial Spirit
 ## Player’s Handbook 2024 (PHB24):

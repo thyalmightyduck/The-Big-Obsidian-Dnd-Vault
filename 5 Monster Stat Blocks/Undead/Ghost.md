@@ -3,6 +3,9 @@ tags:
   - Monster
   - Undead
   - MM25
+statblock: "true"
+name:
+image:
 ---
 # Ghost
 ## Monster Manual (2025):

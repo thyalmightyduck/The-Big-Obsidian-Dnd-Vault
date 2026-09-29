@@ -4,12 +4,16 @@ tags:
   - Ooze
   - HGtMH
   - Summon
+statblock: "true"
+name: Parasitic Ooze
+image:
 ---
 # Parasitic Ooze 
 ## Heliana’s Guide to Monster Hunting (HGTMH):
 
 ```statblock
 layout: Basic 5e Layout
+image: [[Ooze BGR PNG.png]]
 name: Parasitic Ooze
 size: Tiny
 type: [[Ooze]]

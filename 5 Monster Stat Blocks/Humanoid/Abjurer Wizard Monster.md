@@ -3,6 +3,9 @@ tags:
   - Monster
   - Humanoid
   - MPMM
+statblock: "true"
+name: Abjurer Wizard Monster
+image: "[[Abjurer Wizard BGR PNG.png]]"
 ---
 # Abjurer Wizard 
 ## Mordenkainen Presents: Monsters of the Multiverse (MPMM): 

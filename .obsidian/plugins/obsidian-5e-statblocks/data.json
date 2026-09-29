@@ -2004,7 +2004,7 @@
           },
           {
             "name": "Whispering Aura (Star Spawn Only).",
-            "desc": "At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> against your spell save DC or take 2d6 psychic damage, provided that the aberration isn't <STATBLOCK-WIKI-LINK>incapacitated<STATBLOCK-WIKI-LINK>."
+            "desc": "At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> against your spell save DC or take 7 (2d6) psychic damage, provided that the aberration isn't <STATBLOCK-WIKI-LINK>incapacitated<STATBLOCK-WIKI-LINK>."
           }
         ],
         "actions": [
@@ -2501,16 +2501,17 @@
   "useDice": true,
   "renderDice": true,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 10,
     "patch": 3
   },
   "paths": [
-    "/"
+    "/",
+    "5 Monster Stat Blocks"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": false,

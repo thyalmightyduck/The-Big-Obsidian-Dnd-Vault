@@ -3,6 +3,9 @@ tags:
   - Monster
   - Elemental
   - MM25
+statblock: "true"
+name: Dao
+image: "[[Dao BGR PNG.png]]"
 ---
 # Dao
 ## Monster Manual 2025 (MM25):

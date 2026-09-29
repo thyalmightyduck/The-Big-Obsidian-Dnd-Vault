@@ -3,6 +3,9 @@ tags:
   - Monster
   - Construct
   - PHB24
+statblock: "true"
+name: Animated Object
+image: "[[Animate Object BGR PNG.png]]"
 ---
 # Animated Object:
 ## Player’s Handbook 2024 (PHB24):

@@ -4,6 +4,9 @@ tags:
   - Undead
   - TCM24
   - Summon
+statblock: "true"
+name:
+image:
 ---
 # Grim
 ## The Crooked Moon 2024 (TCM24):

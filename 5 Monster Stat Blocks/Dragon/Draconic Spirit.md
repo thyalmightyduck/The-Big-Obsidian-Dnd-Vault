@@ -3,6 +3,9 @@ tags:
   - Monster
   - Dragon
   - PHB24
+statblock: "true"
+name: Draconic Spirit
+image: "[[Draconic Spirit BGRP NG.png]]"
 ---
 # Draconic Spirit
 ## Player’s Handbook 2024 (PHB24):

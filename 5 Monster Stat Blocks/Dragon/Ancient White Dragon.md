@@ -3,6 +3,9 @@ tags:
   - Monster
   - Dragon
   - MM25
+statblock: "true"
+name: Ancient White Dragon
+image: "[[Ancient White Dragon BGR PNG.png]]"
 ---
 # Ancient White Dragon
 ## Monster Manual (2025):

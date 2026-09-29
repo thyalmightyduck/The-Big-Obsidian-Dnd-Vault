@@ -3,6 +3,9 @@ tags:
   - Monster
   - Monstrosity
   - MM25
+statblock: "true"
+name: Yeti
+image: "[[Yeti BGR PNG.png]]"
 ---
 # Yeti
 ## Monster Manual (2025):

@@ -3,6 +3,9 @@ tags:
   - Monster
   - Elemental
   - IDROTF
+statblock: "true"
+name: Auril (Second Form)
+image: "[[Auril Secon Form BGR PNG.png]]"
 ---
 # Auril Second Form
 ## Icewind Dale: Rime of the Frostmaiden (IDROTF):

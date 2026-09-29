@@ -3,6 +3,9 @@ tags:
   - Monster
   - Undead
   - Homebrew
+statblock: "true"
+name:
+image:
 ---
 # Bone Executioner
 ## Homebrew

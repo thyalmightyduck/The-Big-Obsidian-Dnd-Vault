@@ -3,6 +3,9 @@ tags:
   - Monster
   - Aberration
   - Homebrew
+statblock: "true"
+name: Inconspicuous Hamster (Hammy)
+image: "[[Inconspicuous Hamster BGR PNG.png]]"
 ---
 # Inconspicuous Hamster (Hammy)
 

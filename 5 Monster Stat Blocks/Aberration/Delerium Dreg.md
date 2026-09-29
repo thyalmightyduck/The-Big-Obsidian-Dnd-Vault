@@ -3,10 +3,12 @@ tags:
   - Monster
   - Aberration
   - MoDk
+statblock: "true"
+image: "[[Delerium Dreg BGR PNG.png]]"
+name: Delerium Dreg
 ---
 # Delerium Dreg
 ## Monsters of Drakkenheim (MODK):
-
 ```statblock
 layout: Basic 5e Layout
 image: [[Delerium Dreg BGR PNG.png]]

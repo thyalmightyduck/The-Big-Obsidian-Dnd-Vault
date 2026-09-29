@@ -4,6 +4,9 @@ tags:
   - Elemental
   - PHB24
   - Summon
+statblock: "true"
+name: Elemental Spirit
+image: "[[Elemental Spirit BGR PNG.png]]"
 ---
 # Elemental Spirit
 ## Players Handbook 2024 (PHB24):

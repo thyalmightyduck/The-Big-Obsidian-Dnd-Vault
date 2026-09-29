@@ -3,6 +3,9 @@ tags:
   - Monster
   - Fey
   - LFL
+statblock: "true"
+name: Incarnation of Transience
+image: "[[Incarnation Of Transience BGR PNG.png]]"
 ---
 # Incarnation of Transience
 ## Lorwyn: First Light (LFL):

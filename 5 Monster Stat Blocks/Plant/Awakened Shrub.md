@@ -3,6 +3,9 @@ tags:
   - Monster
   - Plant
   - MM25
+statblock: "true"
+name:
+image:
 ---
 # Awakened Shrub
 ## Monster Manuel 2025 (MM25):

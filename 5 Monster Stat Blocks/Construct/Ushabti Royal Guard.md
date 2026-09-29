@@ -3,6 +3,9 @@ tags:
   - Monster
   - Construct
   - TOB123
+statblock: "true"
+name: Ushabti Royal Guard
+image: "[[Ushabti Royal Guard BGR PNG.png]]"
 ---
 # Ushabti Royal Guard:
 ## Tome of Beasts 1 2023 Edition (TOB123):

@@ -3,6 +3,9 @@ tags:
   - Monster
   - Beast
   - MM25
+statblock: "true"
+name: Swarm of Ravens
+image: "[[Swarm of Ravens BGR PNG.png]]"
 ---
 # Swarm Of Ravens:
 ## Monster Manuel 2025 (MM25):

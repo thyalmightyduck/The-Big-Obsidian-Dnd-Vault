@@ -3,6 +3,9 @@ tags:
   - Monster
   - Humanoid
   - AATM
+statblock: "true"
+name: Heralds of Dust Exorcist
+image: "[[Heralds of Dust Exorcist BGR PNG.png]]"
 ---
 # Heralds of Dust Exorcist
 ## Adventure Atlas: The Mortuary (AATM):

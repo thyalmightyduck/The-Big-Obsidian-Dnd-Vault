@@ -4,6 +4,9 @@ tags:
   - Beast
   - Summon
   - TCE
+statblock: "true"
+name: Beast of the Sky
+image: "[[Beast of the Sky BGR PNG.png]]"
 ---
 # Beast of the Sky
 ## Tasha’s Cauldron of Everything (TCE):

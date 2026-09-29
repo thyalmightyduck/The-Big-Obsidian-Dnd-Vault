@@ -4,6 +4,9 @@ tags:
   - Beast
   - Summon
   - TCE
+statblock: "true"
+name: Beast of the Sea
+image: "[[Beast of the Sea BGR PNG.png]]"
 ---
 # Beast of the Sea
 ## Tasha’s Cauldron of Everything (TCE):

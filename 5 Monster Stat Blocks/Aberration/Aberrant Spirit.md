@@ -3,6 +3,9 @@ tags:
   - Monster
   - Aberration
   - TCE
+statblock: "true"
+name: Aberrant Spirit
+image: "[[Aberrant Spirit BGR PNG.png]]"
 ---
 # Aberrant Spirit
 ## Tasha’s Cauldron of Everything (TCE):
@@ -24,7 +27,7 @@ traits:
   - name: Regeneration (Slaad Only).
     desc: The aberration regains 5 hit points at the start of its turn if it has at least 1 [[hit point]].  
   - name: Whispering Aura (Star Spawn Only).
-    desc: At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom [[saving throw]] against your spell save DC or take 2d6 psychic damage, provided that the aberration isn't [[incapacitated]].  
+    desc: At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom [[saving throw]] against your spell save DC or take 7 (2d6) psychic damage, provided that the aberration isn't [[incapacitated]].  
 actions:
   - name: "Multiattack"
     desc: "The aberration makes a number of attacks equal to half this spell's level (rounded down)."

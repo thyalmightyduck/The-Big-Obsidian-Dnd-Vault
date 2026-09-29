@@ -3,6 +3,9 @@ tags:
   - Monster
   - Fiend
   - MM14
+statblock: "true"
+name: Horned Devil
+image: "[[Horned Devil BGR PNG.png]]"
 ---
 # Horned Devil 
 ## Monster Manuel 2014 (MM14):

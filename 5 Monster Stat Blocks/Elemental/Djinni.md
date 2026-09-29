@@ -3,6 +3,9 @@ tags:
   - Monster
   - Elemental
   - MM25
+statblock: "true"
+name: Djinni
+image: "[[Djinni BGR PNG.png]]"
 ---
 # Djinni
 ## Monster Manual 2025 (MM25):

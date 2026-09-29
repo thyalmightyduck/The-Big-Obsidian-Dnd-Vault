@@ -4,6 +4,9 @@ tags:
   - Beast
   - Summon
   - GHPG24
+statblock: "true"
+name: Primal Striker
+image: "[[Primal Guardian BGR PNG.png]]"
 ---
 # Primal Striker
 ## Grim Hallow: Player’s Guide 2024 (GHPG24):

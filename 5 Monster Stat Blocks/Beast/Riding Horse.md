@@ -3,6 +3,9 @@ tags:
   - Monster
   - Beast
   - MM25
+statblock: "true"
+name: Riding Horse
+image: "[[Riding Horse BGR PNG.png]]"
 ---
 # Riding Horse:
 ## Monster Manuel 2025 (MM25):

@@ -3,6 +3,9 @@ tags:
   - Monster
   - Aberration
   - MoDk
+statblock: "true"
+name: Star Warden
+image: "[[Star Warden BGR PNG.png]]"
 ---
 # Star Warden
 

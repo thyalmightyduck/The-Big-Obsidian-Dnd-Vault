@@ -3,6 +3,9 @@ tags:
   - Monster
   - Undead
   - MM25
+statblock: "true"
+name:
+image:
 ---
 # Death Knight
 ## Monster Manuel 2025 (MM25): 

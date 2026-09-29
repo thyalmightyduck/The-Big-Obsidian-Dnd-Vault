@@ -3,6 +3,9 @@ tags:
   - Monster
   - Undead
   - MoDk
+statblock: "true"
+name:
+image:
 ---
 # Haze Wight
 ## Monsters of Drakkenheim (MODK):

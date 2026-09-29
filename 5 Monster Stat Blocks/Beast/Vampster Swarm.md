@@ -3,6 +3,9 @@ tags:
   - Monster
   - Beast
   - Homebrew
+statblock: "true"
+name: Vampster Swarm
+image: "[[Vampster Swarm BGR PNG.png]]"
 ---
 # Vampster Swarm:
 ```statblock

@@ -3,6 +3,9 @@ tags:
   - Monster
   - Undead
   - MM25
+statblock: "true"
+name:
+image:
 ---
 # Minotaur Skeleton
 ## Monster Manual 2025 (MM25):

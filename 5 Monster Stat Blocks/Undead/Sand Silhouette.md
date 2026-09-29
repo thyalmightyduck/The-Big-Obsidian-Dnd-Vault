@@ -3,6 +3,9 @@ tags:
   - Monster
   - Undead
   - TOB123
+statblock: "true"
+name:
+image:
 ---
 # Sand Silhouette
 ## Tome of Beasts 1 2023 Edition (TOB123):

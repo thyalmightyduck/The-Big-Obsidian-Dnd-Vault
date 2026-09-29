@@ -3,6 +3,9 @@ tags:
   - Monster
   - Monstrosity
   - MM25
+statblock: "true"
+name: Displacer Beast
+image: "[[Displacer Beast BGR PNG.png]]"
 ---
 # Displacer Beast
 ## Monster Manuel 2025 (MM25):

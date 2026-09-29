@@ -3,6 +3,9 @@ tags:
   - Monster
   - Monstrosity
   - SKT
+statblock: "true"
+name: Crag Cat
+image: "[[Crag Cat BGR PNG.png]]"
 ---
 # Crag Cat
 ## Storm King’s Thunder

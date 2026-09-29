@@ -4,6 +4,9 @@ tags:
   - Construct
   - Summon
   - SCGTD
+statblock: "true"
+name: Corpsewrought Creature
+image: "[[Corpsewrought Creature BGR PNG.png]]"
 ---
 # Corpsewrought Creature:
 ## Sebastian Crowe’s Guide to Drakkenheim (SCGTD):

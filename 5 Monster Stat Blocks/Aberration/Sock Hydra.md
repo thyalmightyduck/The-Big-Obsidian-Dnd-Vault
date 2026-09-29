@@ -3,6 +3,9 @@ tags:
   - Monster
   - Aberration
   - Homebrew
+statblock: "true"
+name: Sock Hydra
+image: "[[Sock Hydara.png]]"
 ---
 # Sock Hydra
 # 5e Statblock

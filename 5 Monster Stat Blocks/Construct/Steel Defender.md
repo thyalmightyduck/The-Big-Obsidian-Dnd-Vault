@@ -4,6 +4,9 @@ tags:
   - Construct
   - TCE
   - Summon
+statblock: "true"
+name: Steel Defender
+image: "[[Steel Defender BGR PNG.png]]"
 ---
 # Steel Defender:
 ## Tasha’s Cauldron of Everything (TCE):

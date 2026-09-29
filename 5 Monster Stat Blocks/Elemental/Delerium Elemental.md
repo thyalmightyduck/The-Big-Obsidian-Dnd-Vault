@@ -4,6 +4,9 @@ tags:
   - Elemental
   - SCGTD
   - Summon
+statblock: "true"
+name: Delerium Elemental
+image: "[[Delerium Elemental BGR PNG.png]]"
 ---
 # Delerium Elemental
 ## Sebastian Crowe’s Guide to Drakkenheim (SCGTD):

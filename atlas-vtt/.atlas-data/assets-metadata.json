@@ -1,0 +1,429 @@
+{
+  "collections": {
+    "Default": {
+      "id": "Default",
+      "uid": "01dd9c67-4f48-4239-9fff-dd995c059ad2",
+      "version": 1,
+      "name": "Default",
+      "description": "Default collection",
+      "tags": {
+        "tokens:class": {
+          "id": "class",
+          "name": "Class",
+          "group": "tokens"
+        }
+      },
+      "settings": {
+        "conditions": [
+          {
+            "id": "dnd5e-blinded",
+            "name": "Blinded",
+            "color": "#475569",
+            "icon": "blindfold"
+          },
+          {
+            "id": "dnd5e-charmed",
+            "name": "Charmed",
+            "color": "#db2777",
+            "icon": "heart"
+          },
+          {
+            "id": "dnd5e-deafened",
+            "name": "Deafened",
+            "color": "#0891b2",
+            "icon": "hearing-disabled"
+          },
+          {
+            "id": "dnd5e-exhaustion",
+            "name": "Exhaustion",
+            "color": "#92400e",
+            "icon": "tired-eye",
+            "valued": true
+          },
+          {
+            "id": "dnd5e-frightened",
+            "name": "Frightened",
+            "color": "#7c3aed",
+            "icon": "terror"
+          },
+          {
+            "id": "dnd5e-grappled",
+            "name": "Grappled",
+            "color": "#ea580c",
+            "icon": "grab"
+          },
+          {
+            "id": "dnd5e-incapacitated",
+            "name": "Incapacitated",
+            "color": "#b91c1c",
+            "icon": "knockout"
+          },
+          {
+            "id": "dnd5e-invisible",
+            "name": "Invisible",
+            "color": "#c7d2fe",
+            "icon": "invisible"
+          },
+          {
+            "id": "dnd5e-paralyzed",
+            "name": "Paralyzed",
+            "color": "#38bdf8",
+            "icon": "frozen-body"
+          },
+          {
+            "id": "dnd5e-petrified",
+            "name": "Petrified",
+            "color": "#78716c",
+            "icon": "stoned-skull"
+          },
+          {
+            "id": "dnd5e-poisoned",
+            "name": "Poisoned",
+            "color": "#16a34a",
+            "icon": "poison"
+          },
+          {
+            "id": "dnd5e-prone",
+            "name": "Prone",
+            "color": "#d97706",
+            "icon": "foot-trip"
+          },
+          {
+            "id": "dnd5e-restrained",
+            "name": "Restrained",
+            "color": "#0d9488",
+            "icon": "imprisoned"
+          },
+          {
+            "id": "dnd5e-stunned",
+            "name": "Stunned",
+            "color": "#facc15",
+            "icon": "knocked-out-stars"
+          },
+          {
+            "id": "dnd5e-unconscious",
+            "name": "Unconscious",
+            "color": "#1e3a8a",
+            "icon": "sleepy"
+          }
+        ],
+        "gridDefaults": {
+          "unitType": "feet",
+          "unitDistance": 5,
+          "measurementMode": "metric",
+          "diagonalRule": "equidistant",
+          "abstractRangeBands": []
+        },
+        "defaultWidgets": {
+          "hpBar": true
+        },
+        "customCreatureFilters": [],
+        "hiddenCreatureFilters": [
+          "source",
+          "alignment",
+          "rarity",
+          "traits",
+          "cr",
+          "level",
+          "tier",
+          "type"
+        ],
+        "lootBases": [],
+        "systemPresetId": "builtin:dnd5e"
+      },
+      "createdAt": 1790659852594,
+      "modifiedAt": 1790662452763
+    },
+    "Test": {
+      "id": "Test",
+      "uid": "4b0e90ac-0256-4d10-a236-efa280d3952b",
+      "version": 1,
+      "name": "Test",
+      "tags": {},
+      "settings": {
+        "conditions": [
+          {
+            "id": "dnd5e-blinded",
+            "name": "Blinded",
+            "color": "#475569",
+            "icon": "blindfold"
+          },
+          {
+            "id": "dnd5e-charmed",
+            "name": "Charmed",
+            "color": "#db2777",
+            "icon": "heart"
+          },
+          {
+            "id": "dnd5e-deafened",
+            "name": "Deafened",
+            "color": "#0891b2",
+            "icon": "hearing-disabled"
+          },
+          {
+            "id": "dnd5e-exhaustion",
+            "name": "Exhaustion",
+            "color": "#92400e",
+            "icon": "tired-eye",
+            "valued": true
+          },
+          {
+            "id": "dnd5e-frightened",
+            "name": "Frightened",
+            "color": "#7c3aed",
+            "icon": "terror"
+          },
+          {
+            "id": "dnd5e-grappled",
+            "name": "Grappled",
+            "color": "#ea580c",
+            "icon": "grab"
+          },
+          {
+            "id": "dnd5e-incapacitated",
+            "name": "Incapacitated",
+            "color": "#b91c1c",
+            "icon": "knockout"
+          },
+          {
+            "id": "dnd5e-invisible",
+            "name": "Invisible",
+            "color": "#c7d2fe",
+            "icon": "invisible"
+          },
+          {
+            "id": "dnd5e-paralyzed",
+            "name": "Paralyzed",
+            "color": "#38bdf8",
+            "icon": "frozen-body"
+          },
+          {
+            "id": "dnd5e-petrified",
+            "name": "Petrified",
+            "color": "#78716c",
+            "icon": "stoned-skull"
+          },
+          {
+            "id": "dnd5e-poisoned",
+            "name": "Poisoned",
+            "color": "#16a34a",
+            "icon": "poison"
+          },
+          {
+            "id": "dnd5e-prone",
+            "name": "Prone",
+            "color": "#d97706",
+            "icon": "foot-trip"
+          },
+          {
+            "id": "dnd5e-restrained",
+            "name": "Restrained",
+            "color": "#0d9488",
+            "icon": "imprisoned"
+          },
+          {
+            "id": "dnd5e-stunned",
+            "name": "Stunned",
+            "color": "#facc15",
+            "icon": "knocked-out-stars"
+          },
+          {
+            "id": "dnd5e-unconscious",
+            "name": "Unconscious",
+            "color": "#1e3a8a",
+            "icon": "sleepy"
+          }
+        ],
+        "gridDefaults": {
+          "unitType": "feet",
+          "unitDistance": 5,
+          "measurementMode": "metric",
+          "diagonalRule": "equidistant",
+          "abstractRangeBands": []
+        },
+        "defaultWidgets": {
+          "hpBar": true,
+          "initiativeTracker": true
+        },
+        "systemPresetId": "builtin:dnd5e",
+        "customCreatureFilters": [],
+        "hiddenCreatureFilters": [],
+        "lootBases": [
+          "Bases Tests.base"
+        ]
+      },
+      "createdAt": 1790661076217,
+      "modifiedAt": 1790661243259,
+      "publisherId": "84ffc1bd-4f7e-4a4d-bb7e-ab6af0241bac"
+    }
+  },
+  "defaultCollectionId": "Default",
+  "assets": {
+    "token-1790659852796-6mids5": {
+      "name": "Cleric",
+      "imagePath": "atlas-vtt/assets/Cleric_1790659852787_1y7qx7.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852796-6mids5",
+      "createdAt": 1790659852796,
+      "modifiedAt": 1790659852796,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Cleric_1790659852787_1y7qx7-71329475.webp"
+    },
+    "token-1790659852825-9jvu7h": {
+      "name": "Fighter",
+      "imagePath": "atlas-vtt/assets/Fighter_1790659852815_upoot1.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852825-9jvu7h",
+      "createdAt": 1790659852825,
+      "modifiedAt": 1790659852825,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Fighter_1790659852815_upoot1-30bd241f.webp"
+    },
+    "token-1790659852836-hb0dqo": {
+      "name": "Paladin",
+      "imagePath": "atlas-vtt/assets/Paladin_1790659852827_fn5l67.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852836-hb0dqo",
+      "createdAt": 1790659852836,
+      "modifiedAt": 1790659852836,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Paladin_1790659852827_fn5l67-c705ad5e.webp"
+    },
+    "token-1790659852848-9u5q4u": {
+      "name": "Ranger",
+      "imagePath": "atlas-vtt/assets/Ranger_1790659852839_hrd79h.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852848-9u5q4u",
+      "createdAt": 1790659852848,
+      "modifiedAt": 1790659852848,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Ranger_1790659852839_hrd79h-0dee3c33.webp"
+    },
+    "token-1790659852864-yhqasn": {
+      "name": "Rogue",
+      "imagePath": "atlas-vtt/assets/Rogue_1790659852855_6khq3q.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852864-yhqasn",
+      "createdAt": 1790659852864,
+      "modifiedAt": 1790659852864,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Rogue_1790659852855_6khq3q-27020c04.webp"
+    },
+    "token-1790659852876-x6dy4e": {
+      "name": "Warlock",
+      "imagePath": "atlas-vtt/assets/Warlock_1790659852866_d7ni6h.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852876-x6dy4e",
+      "createdAt": 1790659852876,
+      "modifiedAt": 1790659852876,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Warlock_1790659852866_d7ni6h-a2f35be7.webp"
+    },
+    "token-1790659852887-nmmzes": {
+      "name": "Wizard",
+      "imagePath": "atlas-vtt/assets/Wizard_1790659852879_aa9xfw.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852887-nmmzes",
+      "createdAt": 1790659852887,
+      "modifiedAt": 1790659852887,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Wizard_1790659852879_aa9xfw-7e41e9fb.webp"
+    },
+    "token-1790659852904-0rlm73": {
+      "name": "Knight",
+      "imagePath": "atlas-vtt/assets/Knight_1790659852895_xhptuc.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852904-0rlm73",
+      "createdAt": 1790659852904,
+      "modifiedAt": 1790659852904,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Knight_1790659852895_xhptuc-e5e6874f.webp"
+    },
+    "token-1790659852915-da98us": {
+      "name": "Assassin",
+      "imagePath": "atlas-vtt/assets/Assassin_1790659852906_iqjga4.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852915-da98us",
+      "createdAt": 1790659852915,
+      "modifiedAt": 1790659852915,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Assassin_1790659852906_iqjga4-7254edf4.webp"
+    },
+    "token-1790659852927-3883kd": {
+      "name": "Occultist",
+      "imagePath": "atlas-vtt/assets/Occultist_1790659852918_5tela6.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790659852927-3883kd",
+      "createdAt": 1790659852927,
+      "modifiedAt": 1790659852927,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Occultist_1790659852918_5tela6-6201691d.webp"
+    },
+    "map-1790661306393-p27ukl": {
+      "type": "map",
+      "name": "HillsideAltar",
+      "mapFilePath": "atlas-vtt/assets/HillsideAltar_1790661306379_xjtuyq.webp",
+      "collection": "Default",
+      "tags": [],
+      "id": "map-1790661306393-p27ukl",
+      "createdAt": 1790661306393,
+      "modifiedAt": 1790661344678,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/HillsideAltar_1790661306379_xjtuyq-0895ecf7.webp"
+    },
+    "scene-1790661659677-sb5hbg": {
+      "type": "scene",
+      "name": "HillsideAltar",
+      "collection": "Default",
+      "tags": [],
+      "data": {
+        "mapPath": "atlas-vtt/collections/Default/scenes/HillsideAltar.atlasmap"
+      },
+      "id": "scene-1790661659677-sb5hbg",
+      "createdAt": 1790661659677,
+      "modifiedAt": 1790661659677,
+      "filePath": "atlas-vtt/collections/Default/scenes/scene-1790661659677-sb5hbg.json"
+    }
+  },
+  "version": 2,
+  "vaultId": "84ffc1bd-4f7e-4a4d-bb7e-ab6af0241bac"
+}

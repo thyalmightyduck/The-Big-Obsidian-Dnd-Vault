@@ -3,6 +3,9 @@ tags:
   - Monster
   - Fiend
   - FM
+statblock: "true"
+name: Devil Jurist
+image: "[[Devil Jurist BGR PNG.png]]"
 ---
 # Devil Jurist 
 ## Flee, Mortals! (FM!)

@@ -3,6 +3,9 @@ tags:
   - Monster
   - Undead
   - TOB123
+statblock: "true"
+name:
+image:
 ---
 # Accursed Defiler
 ## Tome of Beasts 1 2023 Edition (TOB123) 

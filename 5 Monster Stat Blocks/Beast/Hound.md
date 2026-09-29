@@ -4,6 +4,9 @@ tags:
   - Beast
   - Summon
   - TPC24
+statblock: "true"
+name: Hound
+image: "[[Hound BGR PNG.png]]"
 ---
 # Hound:
 ## The Pugilist Class 2024 (TPC24):

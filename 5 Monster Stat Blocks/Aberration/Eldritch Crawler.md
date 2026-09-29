@@ -3,6 +3,9 @@ tags:
   - Monster
   - Aberration
   - MoDk
+statblock: "true"
+name: Eldritch Crawler
+image: "[[Eldritch Crawler BGR PNG.png]]"
 ---
 # Eldritch Crawler+
 

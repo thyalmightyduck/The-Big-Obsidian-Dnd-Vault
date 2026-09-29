@@ -4,6 +4,9 @@ tags:
   - Dragon
   - Summon
   - FTD
+statblock: "true"
+name: Drake Companion
+image: "[[Drake Companion BGR PNG.png]]"
 ---
 # Drake Companion
 ## Fizban’s Treasury of Dragons (FTD):

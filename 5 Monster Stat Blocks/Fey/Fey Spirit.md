@@ -4,12 +4,15 @@ tags:
   - Fey
   - PHB24
   - Summon
+statblock: "true"
+name: Fey Spirit
+image: "[[Fey Spirit BGR PNG.png]]"
 ---
 # Fey Spirit
 ## Player’s Handbook 2024 (PHB24):
 ```statblock
 layout: Basic 5e Layout
-image: [[Fey Spirt BGR PNG.png]]
+image: [[Fey Spirit BGR PNG.png]]
 name: Fey Spirit
 size: Small
 type: [[Fey]]
