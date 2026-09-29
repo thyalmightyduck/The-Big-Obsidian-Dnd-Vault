@@ -147,6 +147,7 @@ Add Weapon Lists
 - DnD Character Sheet Tool-Simon Zweers
 - Multi Properties-technohiker
 - Text Formater-Benature
+- Atlas VTT-Fabian Urbanek
 # Problem Plugins (Install at own risk)
 - Highlightr-chetachi
 - Janitor-Gabriele Cannata (Don’t have enabled unless you are actively using causes performance issues)
