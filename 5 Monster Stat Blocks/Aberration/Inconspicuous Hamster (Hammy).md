@@ -49,7 +49,6 @@ condition_immunities: [[Charmed]], [[Blinded]], [[Frightened]]
 senses: [[Blindsight]] 30Ft, [[Passive Perception]] 13, Passive Insight 12, Passive Stealth 14
 languages: Telepathy
 cr: 2
-
 traits:
   - name: False Appearance.
     desc: The inconspicuous hamster is indistinguishable from a common hamster.

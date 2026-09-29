@@ -5,6 +5,8 @@
     "tags": "tags",
     "Type": "multitext",
     "armorclass": "number",
-    "stats": "multitext"
+    "stats": "multitext",
+    "trait": "multitext",
+    "traits": "text"
   }
 }
