@@ -9,7 +9,7 @@ Size: Tiny
 HP: "32"
 Type:
   - Aberration
-image: "[[Inconspicuous Hamster (Hammy)]]"
+image: "[[Inconspicuous Hamster BGR PNG.png]]"
 speed: 20
 armorclass: 12
 ---
