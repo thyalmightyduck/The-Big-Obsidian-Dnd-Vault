@@ -67,5 +67,5 @@ actions:
 ```
 
 # Lore
-Nothing to see here-just a completely inconspicuous hamster. In absolutely no way is it an interdimensional predator and thus does not feed on the minds of unsuspecting creatures in its vicinity. Just like any common and harmless hamster, its abstains fro wreaking haon wherever it appears and-needless to say-wouldn’t do anything that might result in serious damage without being provoked.
+Nothing to see here-just a completely inconspicuous hamster. In absolutely no way is it an interdimensional predator and thus does not feed on the minds of unsuspecting creatures in its vicinity. Just like any common and harmless hamster, its abstains from wreaking havoc wherever it appears and-needless to say-wouldn’t do anything that might result in serious damage without being provoked.
 **Source:** the fluffy follio
