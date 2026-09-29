@@ -5,13 +5,14 @@ tags:
   - Homebrew
 statblock: "true"
 name: Inconspicuous Hamster (Hammy)
-Size: Tiny
 HP: "32"
-Type:
-  - Aberration
 image: "[[Inconspicuous Hamster BGR PNG.png]]"
 speed: 20
-armorclass: 12
+ac: 12
+type:
+  - Aberration
+size: Tiny
+damage_resistances: Bludgeoning, Piercing, Slashing
 ---
 # Inconspicuous Hamster (Hammy)
 
