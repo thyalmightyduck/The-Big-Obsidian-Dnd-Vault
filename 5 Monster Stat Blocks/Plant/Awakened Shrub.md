@@ -4,8 +4,8 @@ tags:
   - Plant
   - MM25
 statblock: "true"
-name:
-image:
+name: Awakened Shrub
+image: "[[Awakened Shrub BGR PNG.png]]"
 ---
 # Awakened Shrub
 ## Monster Manuel 2025 (MM25):

@@ -4,8 +4,8 @@ tags:
   - Undead
   - TOB123
 statblock: "true"
-name:
-image:
+name: Accursed Defiler
+image: "[[Accursed Defiler BGR PNG.png]]"
 ---
 # Accursed Defiler
 ## Tome of Beasts 1 2023 Edition (TOB123) 

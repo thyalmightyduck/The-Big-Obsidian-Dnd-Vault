@@ -4,8 +4,8 @@ tags:
   - Undead
   - Homebrew
 statblock: "true"
-name:
-image:
+name: Bone Executioner
+image: "[[Bone Executioner BGR PNG.png]]"
 ---
 # Bone Executioner
 ## Homebrew

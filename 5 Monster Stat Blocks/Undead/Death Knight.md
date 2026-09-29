@@ -4,8 +4,8 @@ tags:
   - Undead
   - MM25
 statblock: "true"
-name:
-image:
+name: Death Knight
+image: "[[Death Knight BGR PNG.png]]"
 ---
 # Death Knight
 ## Monster Manuel 2025 (MM25): 

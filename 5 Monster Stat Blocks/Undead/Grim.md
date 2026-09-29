@@ -5,8 +5,8 @@ tags:
   - TCM24
   - Summon
 statblock: "true"
-name:
-image:
+name: Grim
+image: "[[Grim BGR PNG.png]]"
 ---
 # Grim
 ## The Crooked Moon 2024 (TCM24):

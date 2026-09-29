@@ -4,14 +4,14 @@ tags:
   - Plant
   - TDCSR
 statblock: "true"
-name:
-image:
+name: Blighted Sapling
+image: "[[Blighted Sapling BGR PNG.png]]"
 ---
 # Blighted Sapling
 
 > [!infobox]
 > # Blighted Sapling
-> ![[image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png|cover hsmall]]
+> ![[Blighted Sapling BGR PNG.png|cover hsmall]]
 > ###### Main Info
 > | Meduim [[Plant]] | Unaligned |
 > | ---- | ---- |
@@ -67,7 +67,7 @@ image:
 
 ```statblock
 layout: Basic 5e Layout
-image: [[image_2026-06-23_192648122-removebg-preview.pngBlighted Sapling BGR PNG.png]]]
+image: [[Blighted Sapling BGR PNG.png]]
 name: Blighted Sapling
 size: Medium
 type: [[Plant]]

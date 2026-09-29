@@ -4,8 +4,8 @@ tags:
   - Undead
   - MM25
 statblock: "true"
-name:
-image:
+name: Zombie
+image: "[[Zombie BGR PNG.png]]"
 ---
 # Zombie
 ## Monster Manuel 2025 (MM25):

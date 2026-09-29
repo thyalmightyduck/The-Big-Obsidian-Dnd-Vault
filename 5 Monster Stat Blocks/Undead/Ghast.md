@@ -4,8 +4,8 @@ tags:
   - Undead
   - MM25
 statblock: "true"
-name:
-image:
+name: Ghast
+image: "[[Ghast BGR PNG.png]]"
 ---
 # Ghast
 ## Monster Manual 2025:

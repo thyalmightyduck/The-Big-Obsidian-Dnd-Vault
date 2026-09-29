@@ -4,8 +4,8 @@ tags:
   - Undead
   - MM25
 statblock: "true"
-name:
-image:
+name: Shadow
+image: "[[Shadow BGR PNG.png]]"
 ---
 # Shadow
 ## Monster Manuel 2025 (MM25):

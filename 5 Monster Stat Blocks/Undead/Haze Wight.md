@@ -4,8 +4,8 @@ tags:
   - Undead
   - MoDk
 statblock: "true"
-name:
-image:
+name: Haze Wight
+image: "[[Haze Wight BGR PNG.png]]"
 ---
 # Haze Wight
 ## Monsters of Drakkenheim (MODK):
