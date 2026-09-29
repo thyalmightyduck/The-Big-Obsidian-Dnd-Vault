@@ -25,13 +25,13 @@
   "systemPresets": [],
   "localPlayerView": {
     "showToolbar": false,
-    "showTokenHP": false,
+    "showTokenHP": true,
     "showTokenStress": false,
-    "showTokenNameplates": false,
+    "showTokenNameplates": true,
     "showNotePreviews": false,
     "showGrid": true,
     "showWidgets": true,
-    "showInitiative": true,
+    "showInitiative": false,
     "showDiceRolls": true,
     "showCommandPalette": false
   }
