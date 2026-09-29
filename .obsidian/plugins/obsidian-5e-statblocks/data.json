@@ -2513,7 +2513,7 @@
   ],
   "autoParse": true,
   "disableSRD": true,
-  "tryToRenderLinks": true,
+  "tryToRenderLinks": false,
   "debug": false,
   "notifiedOfFantasy": false,
   "hideConditionHelp": false,

@@ -1,16 +1,5 @@
 {
-  "players": [
-    {
-      "note": "Yohn Mclovin",
-      "path": "2 Characters/Executive Outcomes/Yohn Mclovin.md",
-      "name": "Yohn Mclovin",
-      "level": 9,
-      "hp": 66,
-      "ac": "12",
-      "modifier": 1,
-      "player": true
-    }
-  ],
+  "players": [],
   "parties": [
     {
       "name": "Executive Outcomes",
