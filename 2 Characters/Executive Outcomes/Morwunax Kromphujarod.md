@@ -11,6 +11,28 @@ hit_dice:
   total: 9
   used: 0
   die: d10
+hp:
+  current: 68
+  max: 68
+abilities:
+  str: 12
+  dex: 18
+  con: 14
+  int: 12
+  wis: 14
+  cha: 12
+saving_throws:
+  str: true
+  dex: true
+spellcasting: wis
+skills:
+  Stealth: true
+  Perception: true
+  Investigation: true
+  Religion: true
+  Survival: true
+  Medicine: true
+  Persuasion: true
 ---
 ### [[Dragonborn]] (Brass) [[Ranger]]([[Fey Wanderer Ranger|Fey Wanderer]]) Lvl 9
 > [!infobox]
