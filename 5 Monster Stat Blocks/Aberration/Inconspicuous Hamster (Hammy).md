@@ -3,7 +3,7 @@ tags:
   - Monster
   - Aberration
   - Homebrew
-statblock: "true"
+statblock: true
 name: Inconspicuous Hamster (Hammy)
 HP: "32"
 image: "[[Inconspicuous Hamster BGR PNG.png]]"
@@ -13,6 +13,9 @@ type:
   - Aberration
 size: Tiny
 damage_resistances: Bludgeoning, Piercing, Slashing
+languages: Telepathy
+cr: "2"
+stats: "[4, 15, 14, 15, 12, 16]"
 ---
 # Inconspicuous Hamster (Hammy)
 
