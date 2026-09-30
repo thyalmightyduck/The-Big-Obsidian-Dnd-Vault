@@ -4,7 +4,7 @@ tags:
   - Aberration
   - TCE
 statblock: "true"
-image: atlas-vtt/assets/Aberrant_Spirit_1790714545851_60hl4x.webp
+image: "[[Aberrant Spirit BGR PNG.png]]"
 name: Aberrant Spirit
 size: Medium
 Type:

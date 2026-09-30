@@ -383,19 +383,6 @@
       "modifiedAt": 1790710677545,
       "filePath": "atlas-vtt/collections/Default/scenes/scene-1790710677545-8inf3q.json"
     },
-    "token-1790714546761-4bw65f": {
-      "showRing": true,
-      "name": "Aberrant Spirit",
-      "imagePath": "atlas-vtt/assets/Aberrant_Spirit_1790714545851_60hl4x.webp",
-      "collection": "Default",
-      "tags": [],
-      "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Spirit_1790714545851_60hl4x-93f64510.webp",
-      "type": "token",
-      "id": "token-1790714546761-4bw65f",
-      "createdAt": 1790714546761,
-      "modifiedAt": 1790723285624,
-      "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md"
-    },
     "token-1790714548270-gssdse": {
       "showRing": true,
       "name": "Abjurer Wizard Monster",
@@ -1503,6 +1490,19 @@
       "id": "token-1790714597708-cbg8nk",
       "createdAt": 1790714597708,
       "modifiedAt": 1790714597708
+    },
+    "token-1790808287581-5ggak8": {
+      "showRing": true,
+      "name": "Aberrant Spirit",
+      "imagePath": "atlas-vtt/assets/Aberrant_Spirit_1790808287554_0ql5fe.webp",
+      "size": 1,
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Spirit_1790808287554_0ql5fe-bea5000c.webp",
+      "type": "token",
+      "id": "token-1790808287581-5ggak8",
+      "createdAt": 1790808287581,
+      "modifiedAt": 1790808416431
     }
   },
   "version": 2,
