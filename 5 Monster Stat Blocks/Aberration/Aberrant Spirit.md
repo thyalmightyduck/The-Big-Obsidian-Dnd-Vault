@@ -7,7 +7,13 @@ alignment: Unaligned
 ac: 11 + the level of the spell (natural armor)
 hp: 11 + the level of the spell (natural armor)
 speed: 30 ft., [[Fly]] 30 ft. (beholderkin only; hover)
-stats: [16, 10, 15, 16, 10, 6]
+stats:
+  - 16
+  - 10
+  - 15
+  - 16
+  - 10
+  - 6
 senses: Darkvision 60Ft, Passive Perception 10, Passive Insight 10, Passive Stealth 10
 traits:
   - name: Regeneration (Slaad Only).
@@ -28,9 +34,9 @@ picture:
 statblock: true
 atlas-type: statblock
 tags:
-  - dnd5e
   - monster
-image: [[Aberrant Spirit BGR PNG.png]]
+image:
+  - - Aberrant Spirit BGR PNG.png
 ---
 
 # Aberrant Spirit
