@@ -3,9 +3,6 @@ tags:
   - Monster
   - Monstrosity
   - MM25
-statblock: "true"
-name: Basilisk
-image: "[[Basilisk BGR PNG.png]]"
 ---
 # Basilisk
 ## Monster Manuel 2025 (MM25):

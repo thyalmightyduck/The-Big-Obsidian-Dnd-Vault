@@ -3,9 +3,6 @@ tags:
   - Monster
   - Monstrosity
   - MM25
-statblock: "true"
-name: Doppelganger
-image: "[[Doppelganger BGR PNG.png]]"
 ---
 # Doppelganger
 ## Monster Manuel 2025 (MM25):

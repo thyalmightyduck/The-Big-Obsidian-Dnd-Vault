@@ -3,9 +3,6 @@ tags:
   - Monster
   - Celestial
   - PHB24
-statblock: "true"
-name: Celestial Spirit
-image: "[[Celestial Spirit BGR PNG.png]]"
 ---
 # Celestial Spirit:
 ## Player’s Handbook 2024 (PHB24):

@@ -3,9 +3,6 @@ tags:
   - Monster
   - Construct
   - PHB24
-statblock: "true"
-name: Construct Spirit
-image: "[[Construct Spirit BGR PNG.png]]"
 ---
 # Construct Spirt :
 ## Player’s Handbook 2024 (PHB24):

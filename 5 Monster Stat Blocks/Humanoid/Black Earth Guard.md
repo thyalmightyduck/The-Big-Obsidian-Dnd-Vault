@@ -3,9 +3,6 @@ tags:
   - Monster
   - Humanoid
   - POTA
-statblock: "true"
-name: Black Earth Guard
-image: "[[Black Earth Guard BGR PNG.png]]"
 ---
 # Black Earth Guard
 ## Princes of the Apocalypse (POTA): 

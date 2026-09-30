@@ -4,9 +4,6 @@ tags:
   - Beast
   - Summon
   - PHB24
-statblock: "true"
-name: Giant Insect Monster
-image: "[[Giaint Insect Monster BGR PNG.png]]"
 ---
 # Giant Insect:
 ## Player’s Handbook 2024 (PHB24):

@@ -3,9 +3,6 @@ tags:
   - Monster
   - Humanoid
   - Homebrew
-statblock: "true"
-name: Masked One of Arkan
-image: "[[Masked One of Arkan BGR PNG.png]]"
 ---
 # Statblock
 ```statblock

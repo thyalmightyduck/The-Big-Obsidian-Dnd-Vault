@@ -3,9 +3,6 @@ tags:
   - Monster
   - Undead
   - MM25
-statblock: "true"
-name: Specter
-image: Specter
 ---
 # Specter
 ## Monster Manual (2025):

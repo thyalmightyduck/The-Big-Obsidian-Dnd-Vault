@@ -3,9 +3,6 @@ tags:
   - Monster
   - Fey
   - LFL
-statblock: "true"
-name: Incarnation of Vibrance
-image: "[[Incarnation Of Vibrance BGR PNG.png]]"
 ---
 # Incarnation of Vibrance
 ## Lorwyn: First Light (LFL): 

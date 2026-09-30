@@ -2,11 +2,6 @@
   "types": {
     "aliases": "aliases",
     "cssclasses": "multitext",
-    "tags": "tags",
-    "Type": "multitext",
-    "armorclass": "number",
-    "stats": "multitext",
-    "trait": "text",
-    "traits": "text"
+    "tags": "tags"
   }
 }

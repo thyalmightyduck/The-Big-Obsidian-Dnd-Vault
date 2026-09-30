@@ -3,9 +3,6 @@ tags:
   - Monster
   - Dragon
   - FTD
-statblock: "true"
-name: Amethyst Dragon Wyrmling
-image: "[[Amethyst Dragon Wyrmling.png]]"
 ---
 # Amethyst Dragon Wyrmling
 ## Fizban's Treasury of Dragons (FTD):

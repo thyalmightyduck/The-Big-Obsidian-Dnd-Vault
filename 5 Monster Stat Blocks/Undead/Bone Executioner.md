@@ -3,9 +3,6 @@ tags:
   - Monster
   - Undead
   - Homebrew
-statblock: "true"
-name: Bone Executioner
-image: "[[Bone Executioner BGR PNG.png]]"
 ---
 # Bone Executioner
 ## Homebrew

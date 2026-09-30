@@ -3,9 +3,6 @@ tags:
   - Monster
   - Dragon
   - MoDk
-statblock: "true"
-name: Delerium Dragon Wyrmling
-image: "[[Delerium Dragon Wyrmling BGR PNG.png]]"
 ---
 # Delerium Dragon Wyrmling:
 ## Monsters of Drakkenheim (MODK):

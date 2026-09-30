@@ -4,9 +4,6 @@ tags:
   - Elemental
   - TCE
   - Summon
-statblock: "true"
-name: Wildfire Spirit
-image: "[[Wildfire Spirit BGR PNG.png]]"
 ---
 # Wildfire Spirit 
 ## Tasha’s Cauldron of Everything (TCE):

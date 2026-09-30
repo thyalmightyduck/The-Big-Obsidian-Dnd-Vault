@@ -3,9 +3,6 @@ tags:
   - Monster
   - Beast
   - MM25
-statblock: "true"
-name: Rat
-image: "[[Rat BGR PNG.png]]"
 ---
 # Rat:
 ## Monster Manuel 2025 (MM25):

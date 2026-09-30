@@ -1182,14 +1182,13 @@
       "name": "Morwunax Kromphujarod",
       "imagePath": "atlas-vtt/assets/Morwunax_Kromphujarod_1790714590683_vzau2s.webp",
       "size": 1,
-      "statblockPath": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
       "collection": "Default",
       "tags": [],
       "thumbnailPath": "atlas-vtt/assets/thumbnails/Morwunax_Kromphujarod_1790714590683_vzau2s-e5655637.webp",
       "type": "token",
       "id": "token-1790714590720-m7nko8",
       "createdAt": 1790714590720,
-      "modifiedAt": 1790714590720
+      "modifiedAt": 1790809130083
     },
     "token-1790714591340-co46sn": {
       "showRing": true,
@@ -1502,7 +1501,8 @@
       "type": "token",
       "id": "token-1790808287581-5ggak8",
       "createdAt": 1790808287581,
-      "modifiedAt": 1790808416431
+      "modifiedAt": 1790810792431,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md"
     }
   },
   "version": 2,

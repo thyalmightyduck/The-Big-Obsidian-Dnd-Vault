@@ -3,9 +3,6 @@ tags:
   - Monster
   - Plant
   - TDCSR
-statblock: "true"
-name: Blighted Sapling
-image: "[[Blighted Sapling BGR PNG.png]]"
 ---
 # Blighted Sapling
 

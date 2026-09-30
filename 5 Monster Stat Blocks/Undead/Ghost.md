@@ -3,9 +3,6 @@ tags:
   - Monster
   - Undead
   - MM25
-statblock: "true"
-name: Ghost
-image: "[[Ghost BGR PNG.png]]"
 ---
 # Ghost
 ## Monster Manual (2025):

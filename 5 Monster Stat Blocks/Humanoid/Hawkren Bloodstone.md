@@ -3,9 +3,6 @@ tags:
   - Monster
   - Humanoid
   - TGS2
-statblock: "true"
-name: Hawkren Bloodstone
-image: "[[Humanoid Blank BGR PNG.png]]"
 ---
 # Hawkren Bloodstone
 ## The Griffon’s Saddlebag, Book 2 (TGS2):

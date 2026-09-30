@@ -3,9 +3,6 @@ tags:
   - Monster
   - Aberration
   - MM25
-statblock: "true"
-name: Eldritch Crawler
-image: "[[Eldritch Crawler BGR PNG.png]]"
 ---
 # Gibbering Mouther
 ## Monster Manual 2025 (MM25):

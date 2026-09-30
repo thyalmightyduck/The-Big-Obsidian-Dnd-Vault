@@ -4,9 +4,6 @@ tags:
   - Fey
   - PHB24
   - Summon
-statblock: "true"
-name: Fey Spirit
-image: "[[Fey Spirit BGR PNG.png]]"
 ---
 # Fey Spirit
 ## Player’s Handbook 2024 (PHB24):

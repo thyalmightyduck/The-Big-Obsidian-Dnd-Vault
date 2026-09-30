@@ -4,9 +4,6 @@ tags:
   - Beast
   - Summon
   - GHPG24
-statblock: "true"
-name: Swarm of Vermin
-image: "[[Swarm of Vermin BGR PNG.png]]"
 ---
 # Swarm of Vermin
 ## Grim Hallow: Player’s Guide 2024 (GHPG24):

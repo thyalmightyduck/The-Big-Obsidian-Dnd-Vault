@@ -3,9 +3,6 @@ tags:
   - Monster
   - Summon
   - PHB24
-statblock: "true"
-name: Otherworldly Steed
-image: "[[Otherworldly Steed BGR PNG.png]]"
 ---
 # Otherworldly Steed
 ## Player’s Handbook (2024)

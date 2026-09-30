@@ -3,9 +3,6 @@ tags:
   - Monster
   - Humanoid
   - PSI
-statblock: "true"
-name: Keeper of the Feather
-image: "[[Keeper of the Feather BGR PNG.png]]"
 ---
 # Keeper of the Feather
 ## Plane Shift: Innistrad (PSI):

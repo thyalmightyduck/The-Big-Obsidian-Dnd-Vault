@@ -4,9 +4,6 @@ tags:
   - Undead
   - Summon
   - PHB24
-statblock: "true"
-name: Undead Spirit
-image: "[[Undead Spirit BGR PNG.png]]"
 ---
 # Undead Spirit
 ## Player’s Handbook 2024 (PHB24): 

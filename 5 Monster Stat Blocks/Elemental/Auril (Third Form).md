@@ -3,9 +3,6 @@ tags:
   - Monster
   - Elemental
   - IDROTF
-statblock: "true"
-name: Auril (Third Form)
-image: "[[Auril Third Form BGR PNG.png]]"
 ---
 # Auril Third Form
 ## Icewind Dale: Rime of the Frostmaiden (IDROTF): 

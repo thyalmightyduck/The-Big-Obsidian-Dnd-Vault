@@ -3,9 +3,6 @@ tags:
   - Monster
   - Elemental
   - MM25
-statblock: "true"
-name: Efreeti
-image: "[[Efreeti GBR PNG.png]]"
 ---
 # Efreeti
 ## Monster Manual 2025 (MM25):

@@ -3,9 +3,6 @@ tags:
   - Monster
   - Aberration
   - MPP
-statblock: "true"
-name: Githzerai Uniter
-image: "[[Githzerai Uniter BGR PNG.png]]"
 ---
 # Githzerai Uniter
 ## Morte’s Planar Parade (MPP):

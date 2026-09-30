@@ -3,9 +3,6 @@ tags:
   - Monster
   - Undead
   - MoDk
-statblock: "true"
-name: Haze Husk
-image: "[[Haze Husk BGR PNG.png]]"
 ---
 # Haze Husk
 ## Monsters of Drakkenheim (MODK):

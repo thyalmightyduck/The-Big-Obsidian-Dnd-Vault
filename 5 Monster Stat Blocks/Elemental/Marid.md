@@ -3,9 +3,6 @@ tags:
   - Monster
   - Elemental
   - MM25
-statblock: "true"
-name: Marid
-image: "[[Marid BGR PNG.png]]"
 ---
 # Marid
 ## Monster Manual 2025 (MM25):

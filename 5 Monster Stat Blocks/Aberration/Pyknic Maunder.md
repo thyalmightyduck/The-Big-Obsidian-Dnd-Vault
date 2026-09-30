@@ -3,9 +3,6 @@ tags:
   - Monster
   - Aberration
   - MoDk
-statblock: "true"
-name: Pyknic Maunder
-image: "[[Pyknic Maunder BGR PNG.png]]"
 ---
 # Pyknic Maunder
 ## Monsters of Drakkenheim (MODK):

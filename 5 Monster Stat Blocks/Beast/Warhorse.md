@@ -3,9 +3,6 @@ tags:
   - Monster
   - Beast
   - MM25
-statblock: "true"
-name: Warhorse
-image: "[[Warhorse BGR PNG.png]]"
 ---
 # Warhorse Statblock
 ## Monster Manuel 2025 (MM25):

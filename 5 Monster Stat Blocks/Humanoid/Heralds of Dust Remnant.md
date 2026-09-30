@@ -3,9 +3,6 @@ tags:
   - Monster
   - Humanoid
   - MPP
-statblock: "true"
-name: Heralds of Dust Remnant
-image: "[[Heralds of Dust Remnant BGR PNG.png]]"
 ---
 # Heralds of Dust Remnant
 ## Morte’s Planar Parade (MPP): 

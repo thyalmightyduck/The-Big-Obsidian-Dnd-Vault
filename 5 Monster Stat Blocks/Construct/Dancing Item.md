@@ -3,9 +3,6 @@ tags:
   - Monster
   - Construct
   - TCE
-statblock: "true"
-name: Dancing Item
-image: "[[Dancing Item BGR PNG.png]]"
 ---
 # Dancing Item:
 ## Tasha’s Cauldron of Everything (TCE):

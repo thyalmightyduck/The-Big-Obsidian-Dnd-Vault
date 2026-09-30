@@ -3,9 +3,6 @@ tags:
   - Monster
   - Beast
   - Homebrew
-statblock: "true"
-name: Blooderfly
-image: "[[Blooderfly.png]]"
 ---
 # Blooderfly
 

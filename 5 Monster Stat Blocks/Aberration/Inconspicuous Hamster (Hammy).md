@@ -3,29 +3,6 @@ tags:
   - Monster
   - Aberration
   - Homebrew
-statblock: true
-image: "[[Inconspicuous Hamster BGR PNG.png]]"
-name: Inconspicuous Hamster (Hammy)
-size: Tiny
-type:
-  - Aberration
-subtype:
-alignment: unaligned
-HP: "32"
-ac: 12
-speed: 20
-stats:
-  - "4"
-  - "15"
-  - "14"
-  - "15"
-  - "12"
-  - "16"
-damage_resistances: Bludgeoning, Piercing, Slashing
-condition_immunities: Charmed. Blinded, Frightened
-senses: Blindsight 30ft, Passive Perception 13, Passive Insight 12, Passive Stealth 14
-languages: Telepathy
-cr: "2"
 ---
 # Inconspicuous Hamster (Hammy)
 

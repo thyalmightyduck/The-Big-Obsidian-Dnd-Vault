@@ -3,9 +3,6 @@ tags:
   - Monster
   - Humanoid
   - POTA
-statblock: "true"
-name: Flamewrath
-image: "[[Flamewrath BGR PNG.png]]"
 ---
 # Flamewrath
 ## Princess Of The Apocalypse (POTA):
