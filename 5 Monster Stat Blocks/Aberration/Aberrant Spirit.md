@@ -30,7 +30,7 @@ atlas-type: statblock
 tags:
   - dnd5e
   - monster
-image: atlas-vtt/assets/Aberrant_Spirit_1790808287554_0ql5fe.webp
+image: [[Aberrant Spirit BGR PNG.png]]
 ---
 
 # Aberrant Spirit
