@@ -1489,20 +1489,6 @@
       "id": "token-1790714597708-cbg8nk",
       "createdAt": 1790714597708,
       "modifiedAt": 1790714597708
-    },
-    "token-1790808287581-5ggak8": {
-      "showRing": true,
-      "name": "Aberrant Spirit",
-      "imagePath": "atlas-vtt/assets/Aberrant_Spirit_1790808287554_0ql5fe.webp",
-      "size": 1,
-      "collection": "Default",
-      "tags": [],
-      "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Spirit_1790808287554_0ql5fe-bea5000c.webp",
-      "type": "token",
-      "id": "token-1790808287581-5ggak8",
-      "createdAt": 1790808287581,
-      "modifiedAt": 1790810792431,
-      "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md"
     }
   },
   "version": 2,
