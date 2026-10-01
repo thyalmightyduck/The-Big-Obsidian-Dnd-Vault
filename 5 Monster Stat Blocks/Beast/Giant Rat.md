@@ -1,9 +1,41 @@
 ---
+layout: Basic 5e Layout
+name: Giant Rat
+size: Small
+type: Beast
+alignment: Unaligned
+ac: 13
+modifier:
+hp: 7
+hit_dice: 2d6
+speed: 30 ft., Climb 30 ft.
+stats:
+  - 7
+  - 16
+  - 11
+  - 2
+  - 10
+  - 4
+saves:
+  - dexterity: +5
+senses: Darkvision 60Ft, Passive Perception 12
+cr: 1/8
+traits:
+  - name: Pack Tactics
+    desc: The rat has Advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+actions:
+  - name: Bite
+    desc: '*Melee Attack Roll:* +5, reach 5 feet. _Hit:_ 5 (1d4 + 3) Piercing damage'
+statblock: true
+atlas-type: statblock
+image:
+  - - Giant Rat BGR PNG.png
 tags:
-  - Monster
-  - Beast
+  - monster
+  - beast
   - MM25
 ---
+
 # Giant Rat:
 ## Monster Manuel 2025 (MM25):
 
