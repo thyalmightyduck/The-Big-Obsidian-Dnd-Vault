@@ -38,8 +38,7 @@ legendary_actions:
     desc: Desc Goes Here
 statblock: true
 atlas-type: statblock
-picture:
-  - - Humanoid Blank BGR PNG.png
+picture: Humanoid Blank BGR PNG.png
 tags:
   - monster
 ---

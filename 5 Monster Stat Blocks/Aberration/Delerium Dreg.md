@@ -25,7 +25,7 @@ actions:
     desc: "*Melee Attack Roll:* 14 (1d20 + 4), reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage plus 10 (3d6) Necrotic damage. Critical *Hit:* *Constitution Saving Throw:* DC 10. *Failure:* The target gains one level of Contamination."
 statblock: true
 atlas-type: statblock
-picture: [[Delerium Dreg BGR PNG.png]]
+picture: "[[Delerium Dreg BGR PNG.png]]"
 tags:
   - monster
 ---
