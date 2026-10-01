@@ -242,6 +242,20 @@
       "createdAt": 1790710677545,
       "modifiedAt": 1790710677545,
       "filePath": "atlas-vtt/collections/Default/scenes/scene-1790710677545-8inf3q.json"
+    },
+    "token-1790814546393-t7n26q": {
+      "showRing": false,
+      "name": "Aberrant Spirit",
+      "imagePath": "atlas-vtt/assets/Aberrant_Spirit_1790814546302_x8y08p.webp",
+      "size": 1,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Spirit_1790814546302_x8y08p-6c564396.webp",
+      "type": "token",
+      "id": "token-1790814546393-t7n26q",
+      "createdAt": 1790814546393,
+      "modifiedAt": 1790814546393
     }
   },
   "version": 2,
