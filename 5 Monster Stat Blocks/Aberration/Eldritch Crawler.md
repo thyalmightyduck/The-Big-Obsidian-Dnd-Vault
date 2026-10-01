@@ -39,7 +39,7 @@ reactions:
 statblock: true
 atlas-type: statblock
 image:
-  - - Eldritch Crawler BGR PNG
+  - - Eldritch Crawler BGR PNG.png
 tags:
   - monster
 ---

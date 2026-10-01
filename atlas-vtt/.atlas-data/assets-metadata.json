@@ -242,6 +242,46 @@
       "createdAt": 1790710677545,
       "modifiedAt": 1790710677545,
       "filePath": "atlas-vtt/collections/Default/scenes/scene-1790710677545-8inf3q.json"
+    },
+    "token-1790816522925-hok9f5": {
+      "showRing": false,
+      "name": "Aberrant Spirit",
+      "imagePath": "atlas-vtt/assets/Aberrant_Spirit_1790816522884_xo9e16.webp",
+      "size": 1,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Spirit_1790816522884_xo9e16-7adc4a96.webp",
+      "type": "token",
+      "id": "token-1790816522925-hok9f5",
+      "createdAt": 1790816522925,
+      "modifiedAt": 1790816522925
+    },
+    "token-1790816523064-y4bw2g": {
+      "showRing": false,
+      "name": "Deleruim Dreg",
+      "imagePath": "atlas-vtt/assets/Deleruim_Dreg_1790816522994_egbe5h.webp",
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Delerium Dreg.md",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Deleruim_Dreg_1790816522994_egbe5h-c15282e7.webp",
+      "type": "token",
+      "id": "token-1790816523064-y4bw2g",
+      "createdAt": 1790816523064,
+      "modifiedAt": 1790816523064
+    },
+    "token-1790816657377-t5skvj": {
+      "showRing": false,
+      "name": "Eldritch Crawler",
+      "imagePath": "atlas-vtt/assets/Eldritch_Crawler_1790816656949_gm1onb.webp",
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Eldritch_Crawler_1790816656949_gm1onb-9aa07e77.webp",
+      "type": "token",
+      "id": "token-1790816657377-t5skvj",
+      "createdAt": 1790816657377,
+      "modifiedAt": 1790816657377
     }
   },
   "version": 2,
