@@ -1,6 +1,6 @@
 ---
 layout: Basic 5e Layout
-name: deleruim Dreg
+name: Deleruim Dreg
 size: Meduim
 type: Aberratio
 alignment:
@@ -19,10 +19,10 @@ senses: Darkvision 60 ft., Passive Perception 10, Passive Insight 10, Passive St
 cr: 1/2
 traits:
   - name: Misty Camouflage.
-    desc: A dreg has Advantage on Dexterity (Stealth) checks when taking the Hide action in any area obscured by mist or fog, including the Haze. 
+    desc: A dreg has Advantage on Dexterity (Stealth) checks when taking the Hide action in any area obscured by mist or fog, including the Haze.
 actions:
   - name: Claws.
-    desc: '*Melee Attack Roll:* 14 (1d20 + 4), reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage plus 10 (3d6) Necrotic damage. Critical *Hit:* *Constitution Saving Throw:* DC 10. *Failure:* The target gains one level of Contamination.'
+    desc: "*Melee Attack Roll:* 14 (1d20 + 4), reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage plus 10 (3d6) Necrotic damage. Critical *Hit:* *Constitution Saving Throw:* DC 10. *Failure:* The target gains one level of Contamination."
 statblock: true
 atlas-type: statblock
 picture: [[Delerium Dreg BGR PNG.png]]
