@@ -27,14 +27,23 @@ senses: Passive Perception 16, Passive Insight 16, Passive Stealth 13
 languages: Common, Gith
 cr: 7
 traits:
-  - name: Name goes here
-    desc: Desc goes here.
+  - name: Psychic Defense
+    desc: While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 actions:
-  - name: Name goes here
-    desc: Desc Goes Here Keep The Dashes
-legendary_actions:
-  - name: Name Goes Here
-    desc: Desc Goes Here
+  - name: Multiattack
+    desc: The githzerai makes three [[Unarmed Strike]] or Psychic Bolt attacks. It can replace any of these attacks with one use of its Pacifying Touch.
+  - name: Unarmed Strike.
+    desc: '*Melee Weapon Attack:* 16 (1d20 + 6) to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage plus 10 (3d6) psychic damage.'
+  - name: Psychic Bolt
+    desc: '*Ranged Spell Attack:* 16 (1d20 + 6) to hit, range 60 ft., one creature. *Hit:* 17 (5d6) psychic damage.'
+  - name: Pacifying Touch
+    desc: 'The githzerai touches one creature it can see within 5 feet of itself. The target must succeed on a DC 14 Intelligence saving throw, or the githzerai chooses an action for that target: Attack, Cast a Spell, or Dash Action. The affected target cant take that action for 1 minute. At the end of each of the targets turns, it can repeat the saving throw, ending the effect on itself on a successful save. A target that succeeds on the saving throw becomes immune to this githzerais Pacifying Touch for 24 hours.'
+  - name: Spellcasting
+    desc: 'The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 14):'
+  - name: At will.
+    desc: '[[Mage Hand]] (the hand is [[invisible]]), [[See Invisibility]]'
+  - name: 1/day each.
+    desc: '[[Plane Shift]] (Self Only), [[Telekinesis]]  '
 statblock: true
 atlas-type: statblock
 image:
@@ -79,7 +88,7 @@ traits:
 actions:
   - name: "Multiattack"
     desc: "The githzerai makes three [[Unarmed Strike]] or Psychic Bolt attacks. It can replace any of these attacks with one use of its Pacifying Touch."
-  - name: "[[Unarmed Strike]]."
+  - name: "Unarmed Strike."
     desc: "_Melee Weapon Attack:_ 16 (1d20 + 6) to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage plus 10 (3d6) psychic damage."
   - name: "Psychic Bolt"
     desc: "_Ranged Spell Attack:_ 16 (1d20 + 6) to hit, range 60 ft., one creature. _Hit:_ 17 (5d6) psychic damage."
