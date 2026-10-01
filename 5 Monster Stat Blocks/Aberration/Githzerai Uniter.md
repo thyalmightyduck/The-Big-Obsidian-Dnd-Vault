@@ -4,29 +4,28 @@ name: Githzerai Uniter
 size: Medium
 type: Aberration
 alignment: Any Alignment
-ac:
-modifier:
-hp:
-hit_dice:
-speed:
+ac: 16 (Psychic Defense)
+hp: 123
+hit_dice: 19d8+38
+speed: 40ft
 stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
+  - 13
+  - 17
+  - 15
+  - 15
+  - 17
+  - 16
 saves:
-  - dexterity:
-  - constitution:
-  - intelligence:
-  - wisdom:
+  - dexterity: +5
+  - constitution: +6
+  - intelligence: +5
+  - wisdom: +6
 skillsaves:
-  - history:
-  - perception:
-senses:
-cr:
-legendary_description: Text goes here
+  - insight: +6
+  - perception: +6
+senses: Passive Perception 16, Passive Insight 16, Passive Stealth 13
+languages: Common, Gith
+cr: 7
 traits:
   - name: Name goes here
     desc: Desc goes here.
