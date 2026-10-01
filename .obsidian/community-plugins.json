@@ -1,11 +1,14 @@
 [
+  "table-editor-obsidian",
   "buttons",
   "calendarium",
   "dataview",
   "obsidian-dice-roller",
   "obsidian-5e-statblocks",
+  "initiative-tracker",
   "obsidian-leaflet-plugin",
   "obsidian-meta-bind-plugin",
+  "obsidian-smart-typography",
   "obsidian-style-settings",
   "supercharged-links-obsidian",
   "templater-obsidian",
@@ -13,6 +16,5 @@
   "obsidian-git",
   "dnd-charactersheet",
   "tag-wrangler",
-  "multi-properties",
   "atlas-vtt"
 ]
