@@ -422,6 +422,20 @@
       "id": "token-1790896692837-o7eg7h",
       "createdAt": 1790896692837,
       "modifiedAt": 1790896692837
+    },
+    "token-1790897508879-tf72d2": {
+      "showRing": true,
+      "name": "Blooderfly",
+      "imagePath": "atlas-vtt/assets/Blooderfly_1790897508854_39rae4.webp",
+      "size": 2,
+      "statblockPath": "5 Monster Stat Blocks/Beast/Blooderfly.md",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Blooderfly_1790897508854_39rae4-53860ed9.webp",
+      "type": "token",
+      "id": "token-1790897508879-tf72d2",
+      "createdAt": 1790897508879,
+      "modifiedAt": 1790897508879
     }
   },
   "version": 2,
