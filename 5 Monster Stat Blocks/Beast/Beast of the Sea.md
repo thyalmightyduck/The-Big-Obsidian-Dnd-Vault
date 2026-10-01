@@ -1,10 +1,40 @@
 ---
+layout: Basic 5e Layout
+name: Beast of the Sea
+size: Medium
+type: Beast
+alignment: Unaligned
+ac: 13 + PB (Natural Armor)
+modifier:
+hp: 5 + five times your ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] [d8s] equal to your ranger level)
+hit_dice:
+speed: 5 ft., Swim 60 ft.
+languages: Understands the languages you speak
+stats:
+  - 14
+  - 14
+  - 15
+  - 8
+  - 14
+  - 11
+senses: Darkvision 60Ft, Passive Perception 12, Passive Insight 12, Passive Stealth 12
+cr: 0
+traits:
+  - name: Amphibious.
+    desc: The beast can breathe both air and water.
+  - name: Primal Bond.
+    desc: You can add your proficiency bonus to any ability check or saving throw that the beast makes.  
+actions:
+  - name: Binding Strike.
+    desc: '*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) + PB piercing damage or 5 (1d6+2) + PB bludgeoning damage (your choice), and the target is grappled (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast cant use this attack on another target.'
+statblock: true
+atlas-type: statblock
+image:
+  - - Beast of the Sea BGR PNG.png
 tags:
-  - Monster
-  - Beast
-  - Summon
-  - TCE
+  - monster
 ---
+
 # Beast of the Sea
 ## Tasha’s Cauldron of Everything (TCE):
 
