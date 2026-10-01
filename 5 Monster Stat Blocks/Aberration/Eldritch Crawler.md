@@ -24,24 +24,24 @@ traits:
   - name: Fully Contaminated.
     desc: The eldritch crawler is immune to Contamination and has Advantage on saving throws against contaminated spells. The eldritch crawler may cast contaminated spells even though it does not gain [[Contamination]] levels.
   - name: Insectiod Limbs.
-    desc: The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an [[ability check]]. It ignores movement restrictions caused by webbing. 
+    desc: The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an [[ability check]]. It ignores movement restrictions caused by webbing.
 actions:
   - name: Bite.
-    desc: '*Constitution Saving Throw:* DC 12, one target within 5 ft. *Failure:* 18 (4d8) Necrotic damage, and the target gains one Contamination level. *Success:* Half damage only.'
+    desc: "*Constitution Saving Throw:* DC 12, one target within 5 ft. *Failure:* 18 (4d8) Necrotic damage, and the target gains one Contamination level. *Success:* Half damage only."
   - name: Contaminated Venom.
-    desc: '*Constitution Saving Throw:* DC 12, one target within 40 feet. *Failure:* 18 (4d8) Necrotic damage, and the target gains one Contamination level. *Success:* Half damage only.' 
+    desc: "*Constitution Saving Throw:* DC 12, one target within 40 feet. *Failure:* 18 (4d8) Necrotic damage, and the target gains one Contamination level. *Success:* Half damage only."
 bonus_actions:
   - name: Void Walker.
-    desc: 'The eldritch crawler climbs through a tear in reality, traveling from the Material Plane to the Space Between Worlds or vice versa.'
+    desc: The eldritch crawler climbs through a tear in reality, traveling from the Material Plane to the Space Between Worlds or vice versa.
 reactions:
   - name: Fractured Reality.
-    desc: '*Trigger:* A creature misses the eldritch crawler with an attack. *Response:* The eldritch crawler teleports to an unoccupied space it can see within 30 feet, briefly leaving behind a fractured image of itself being hit by the attack.'
+    desc: "*Trigger:* A creature misses the eldritch crawler with an attack. *Response:* The eldritch crawler teleports to an unoccupied space it can see within 30 feet, briefly leaving behind a fractured image of itself being hit by the attack."
 statblock: true
 atlas-type: statblock
-image:
-  - - Eldritch Crawler BGR PNG.png
+image: atlas-vtt/assets/Eldritch_Crawler_1790816656949_gm1onb.webp
 tags:
   - monster
+  - MoDk
 ---
 
 # Eldritch Crawler

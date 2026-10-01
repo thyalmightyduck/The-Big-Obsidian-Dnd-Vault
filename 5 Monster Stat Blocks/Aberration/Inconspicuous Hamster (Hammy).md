@@ -17,11 +17,11 @@ stats:
   - 12
   - 16
 skillsaves:
-  - Deception: +5
-  - Investigation: +4
-  - Perception: +3
-  - Performance: +5
-  - Stealth: +4  
+  - Deception: 5
+  - Investigation: 4
+  - Perception: 3
+  - Performance: 5
+  - Stealth: 4
 damage_resistances: Bludgeoning, Piercing, Slashing
 condition_immunities: Charmed, Blinded, Frightened
 senses: Blindsight 30Ft (blind beyond this radius), Passive Perception 13, Passive Insight 12, Passive Stealth 14
@@ -30,22 +30,23 @@ traits:
   - name: False Appearance.
     desc: The inconspicuous hamster is indistinguishable from a common hamster.
   - name: Hidden Thoughts.
-    desc: The inconspicuous hamster’s telepathy as well as its spell attacks do not reveal its location or identity. Furthermore, If a creature has half or more of its hit points after taking psychic damage from the inconspicuous hamster, the creature is unaware of the damage taken. 
+    desc: The inconspicuous hamster’s telepathy as well as its spell attacks do not reveal its location or identity. Furthermore, If a creature has half or more of its hit points after taking psychic damage from the inconspicuous hamster, the creature is unaware of the damage taken.
   - name: Shielded Mind.
     desc: The inconspicuous hamster is immune to [[scrying]] and to any effect that would sense its emotions, read its thoughts, or detect its location.
 actions:
   - name: Multiattack.
-    desc: 'The Inconspicuous Hamster makes two attacks'
+    desc: The Inconspicuous Hamster makes two attacks
   - name: Brain Probe
-    desc: '*Melee Spell Attack:* +5 to hit, reach 30 feet., one target. *Hit:* 1 psychic damage, and the target must succeed on a DC 13 Charisma saving throw. On a failure, the Inconspicuous Hamster can read the targets thoughts until the start of its next turn.'
+    desc: "*Melee Spell Attack:* +5 to hit, reach 30 feet., one target. *Hit:* 1 psychic damage, and the target must succeed on a DC 13 Charisma saving throw. On a failure, the Inconspicuous Hamster can read the targets thoughts until the start of its next turn."
   - name: Mental Meal
-    desc: '*Melee Spell Attack:* +5 to hit, reach 30 ft., one target. *Hit:* 1 psychic damage. The Inconspicuous Hamster regains 2 (1d4) hit points and gains 2 (1d4) temporary hit points.'
+    desc: "*Melee Spell Attack:* +5 to hit, reach 30 ft., one target. *Hit:* 1 psychic damage. The Inconspicuous Hamster regains 2 (1d4) hit points and gains 2 (1d4) temporary hit points."
 statblock: true
 atlas-type: statblock
-image:
-  - - Inconspicuous Hamster BGR PNG.png
+image: atlas-vtt/assets/Inconspicuous_Hamster__Hammy__1790822484070_zhb14n.webp
 tags:
   - monster
+  - Homebrew
+  - Aberration
 ---
 
 # Inconspicuous Hamster (Hammy)

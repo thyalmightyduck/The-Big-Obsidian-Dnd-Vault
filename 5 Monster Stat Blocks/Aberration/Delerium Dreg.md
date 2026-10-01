@@ -23,12 +23,12 @@ traits:
 actions:
   - name: Claws.
     desc: "*Melee Attack Roll:* 14 (1d20 + 4), reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage plus 10 (3d6) Necrotic damage. Critical *Hit:* *Constitution Saving Throw:* DC 10. *Failure:* The target gains one level of Contamination."
-image:
-  - - Delerium Dreg BGR PNG.png
+image: atlas-vtt/assets/Deleruim_Dreg_1790816522994_egbe5h.webp
 statblock: true
 atlas-type: statblock
 tags:
   - monster
+  - MoDk
 ---
 
 # Delerium Dreg

@@ -35,8 +35,8 @@ statblock: true
 atlas-type: statblock
 tags:
   - monster
-image:
-  - - Aberrant Spirit BGR PNG.png
+  - TCE
+image: atlas-vtt/assets/Aberrant_Spirit_1790816522884_xo9e16.webp
 ---
 
 # Aberrant Spirit

@@ -1,10 +1,125 @@
 ---
+layout: Basic 5e Layout
+name: Star Warden
+size: Huge
+type: Aberration
+alignment: Neutral
+ac: 15
+modifier:
+hp: 189
+hit_dice: 18d12+72
+speed: 30ft
+stats:
+  - 19
+  - 15
+  - 18
+  - 20
+  - 18
+  - 15
+saves:
+  - intelligence: 9
+  - wisdom: 8
+  - charisma: 6
+skill_saves:
+  - Arcana: 9
+  - History: 9
+  - Perception: 12
+damage_resistances: psychic
+condition_immunities: Charmed, Frightened
+senses: Truesight 120Ft, Passive Perception 22, Passive Insight 22
+cr: 10
+traits:
+  - name: Alien Intellect.
+    desc: The sentient planetoid is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sentient planetoid's intentions or sincerity have Disadvantage.
+  - name: Cosmic Aura.
+    desc: A creature that starts its turn within 30 feet of the star warden is subjected to the following effect. *Charisma Saving Throw:* DC 17. *Failure:* The target is hurled through time and space, witnessing every moment of existence in a single second. It takes 17 (5d6) Psychic damage and is teleported to an unoccupied space it can see within 30 feet.
+  - name: Delerium Healing.
+    desc: As an action, the star warden can touch a delerium shard to regain 10 (3d6) Hit Points. Once the star warden has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours.
+  - name: Fully Contaminated.
+    desc: The star warden is immune to Contamination and has Advantage on saving throws against contaminated spells. The star warden may cast contaminated spells even though it does not gain Contamination levels.
+  - name: Lords of Time and Space.
+    desc: Dexterity Saving Throw:* DC 17, each creature in a 30-foot Cone. *Failure:* 18 (4d6 + 4) Radiant damage and the target has the Burning condition (4d6 Radiant).
+actions:
+  - name: Multiattack.
+    desc: The star warden makes two attacks.
+  - name: Staff of Stars.
+    desc: "*Melee or Ranged Attack Roll:* +8, reach 5 ft. or range 60/120 ft. *Hit:* 22 (5d6 + 4) Radiant damage plus 10 (3d6) Force damage."
+  - name: Nebulae Grasp.
+    desc: "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 27 (5d8 + 4) Piercing damage, and the star warden can teleport the target to an unoccupied space the star warden can see within 120 feet."
+  - name: Stardust.
+    desc: "*Dexterity Saving Throw:* DC 17, each creature in a 30-foot Cone. *Failure:* 18 (4d6 + 4) Radiant damage and the target has the Burning condition (4d6 Radiant)."
+bonus_actions:
+  - name: The Cold Void of Space.
+    desc: "*Constitution Saving Throw:* DC 17, one creature within 120 feet of the star warden that teleported this turn. *Failure:* The target has the Frozen condition. *Success:* 10 (3d6) Cold damage."
+reactions:
+  - name: Outside Time and Space.
+    desc: "*Trigger:* A creature hits the star warden with an attack. *Response:* The star warden switches places with another creature within 30 feet, and the attack hits that creature instead."
+statblock: true
+atlas-type: statblock
+image:
+  - - Star Warden BGR PNG.png
 tags:
-  - Monster
-  - Aberration
+  - monster
   - MoDk
+  - Aberration
 ---
+
 # Star Warden
+
+# 5e Statblock
+
+```statblock
+layout: Basic 5e Layout
+image: [[Star Warden BGR PNG.png]]
+name: Star Warden
+size: Huge
+type: [[Aberration]]
+alignment: Neutral
+ac: 15
+hp: 189
+hit_dice: 18d12+72
+speed: 30ft
+stats: [19, 15, 18, 20, 18, 15]
+saves: 
+  - INT: +9
+  - WIS: +8
+  - CHA: +6   
+skillsaves:
+  - Arcana: +9
+  - History: +9
+  - Perception: +12   
+damage_resistances: psychic
+condition_immunities: [[Charmed]], [[Frightened]]
+senses: [[Truesight]] 120Ft, [[Passive Perception]] 22
+languages: All, telepathy 120 ft
+cr: 10
+traits:
+  - name: Alien Intellect.
+    desc: The sentient planetoid is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([[Insight]]) checks made to ascertain the sentient planetoid's intentions or sincerity have [[Disadvantage]].
+  - name: Cosmic Aura.
+    desc: A creature that starts its turn within 30 feet of the star warden is subjected to the following effect. _Charisma [[Saving Throw]]:_ DC 17. _Failure:_ The target is hurled through time and space, witnessing every moment of existence in a single second. It takes 17 (5d6) Psychic damage and is teleported to an unoccupied space it can see within 30 feet.
+  - name: Delerium Healing.
+    desc: As an [[action]], the star warden can touch a delerium shard to regain 10 (3d6) `dice:3d6` [[Hit Points]]. Once the star warden has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours.
+  - name: Fully Contaminated.
+    desc: The star warden is immune to [[Contamination]] and has [[Advantage]] on saving throws against contaminated spells. The star warden may cast contaminated spells even though it does not gain [[Contamination]] levels.
+  - name: Lords of Time and Space.   
+    desc: _Dexterity [[Saving Throw]]:_ DC 17, each creature in a 30-foot [[Cone]]. _Failure:_ 18 (4d6 + 4) Radiant damage and the target has the [[Burning]] [[condition]] (4d6 Radiant).       
+actions:
+  - name: "Multiattack."
+    desc: "The star warden makes two attacks."
+  - name: "Staff of Stars."
+    desc: "_Melee or Ranged Attack Roll:_ +8, reach 5 ft. or range 60/120 ft. _Hit:_ 22 (5d6 + 4) Radiant damage plus 10 (3d6) Force damage."
+  - name: "Nebulae Grasp."
+    desc: "_Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 27 (5d8 + 4) Piercing damage, and the star warden can teleport the target to an unoccupied space the star warden can see within 120 feet."
+  - name: "Stardust." 
+    desc: "_Dexterity [[Saving Throw]]:_ DC 17, each creature in a 30-foot [[Cone]]. _Failure:_ 18 (4d6 + 4) Radiant damage and the target has the [[Burning]] [[condition]] (4d6 Radiant)."      
+bonus_actions:
+  - name: "The Cold Void of Space."
+    desc: "_Constitution [[Saving Throw]]:_ DC 17, one creature within 120 feet of the star warden that teleported this turn. _Failure:_ The target has the [[Frozen]] [[condition]]. _Success:_ 10 (3d6) Cold damage."
+reactions:
+  - name: "Outside Time and Space."
+    desc: "_Trigger:_ A creature hits the star warden with an attack. _Response:_ The star warden switches places with another creature within 30 feet, and the attack hits that creature instead."  
+```
 
 > [!infobox]
 > # Star Warden
@@ -114,55 +229,3 @@ Hide: Skin.
 Dust: Aberrant Dust.
 
 “_Everything in this dimension is there one minute and gone the next. Always challenging reality. Swing your sword wide._”
-
-# 5e Statblock
-
-```statblock
-layout: Basic 5e Layout
-image: [[Star Warden BGR PNG.png]]
-name: Star Warden
-size: Huge
-type: [[Aberration]]
-alignment: Neutral
-ac: 15
-hp: 189
-hit_dice: 18d12+72
-speed: 30ft
-stats: [19, 15, 18, 20, 18, 15]
-saves: 
-  - INT: +9
-  - WIS: +8
-  - CHA: +6   
-damage_resistances: psychic
-condition_immunities: [[Charmed]], [[Frightened]]
-senses: [[Truesight]] 120Ft, [[Passive Perception]] 22
-languages: All, telepathy 120 ft
-cr: 10
-traits:
-  - name: Alien Intellect.
-    desc: The sentient planetoid is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([[Insight]]) checks made to ascertain the sentient planetoid's intentions or sincerity have [[Disadvantage]].
-  - name: Cosmic Aura.
-    desc: A creature that starts its turn within 30 feet of the star warden is subjected to the following effect. _Charisma [[Saving Throw]]:_ DC 17. _Failure:_ The target is hurled through time and space, witnessing every moment of existence in a single second. It takes 17 (5d6) Psychic damage and is teleported to an unoccupied space it can see within 30 feet.
-  - name: Delerium Healing.
-    desc: As an [[action]], the star warden can touch a delerium shard to regain 10 (3d6) `dice:3d6` [[Hit Points]]. Once the star warden has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours.
-  - name: Fully Contaminated.
-    desc: The star warden is immune to [[Contamination]] and has [[Advantage]] on saving throws against contaminated spells. The star warden may cast contaminated spells even though it does not gain [[Contamination]] levels.
-  - name: Lords of Time and Space.   
-    desc: _Dexterity [[Saving Throw]]:_ DC 17, each creature in a 30-foot [[Cone]]. _Failure:_ 18 (4d6 + 4) Radiant damage and the target has the [[Burning]] [[condition]] (4d6 Radiant).       
-actions:
-  - name: "Multiattack."
-    desc: "The star warden makes two attacks."
-  - name: "Staff of Stars."
-    desc: "_Melee or Ranged Attack Roll:_ +8, reach 5 ft. or range 60/120 ft. _Hit:_ 22 (5d6 + 4) Radiant damage plus 10 (3d6) Force damage."
-  - name: "Nebulae Grasp."
-    desc: "_Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 27 (5d8 + 4) Piercing damage, and the star warden can teleport the target to an unoccupied space the star warden can see within 120 feet."
-  - name: "Stardust." 
-    desc: "_Dexterity [[Saving Throw]]:_ DC 17, each creature in a 30-foot [[Cone]]. _Failure:_ 18 (4d6 + 4) Radiant damage and the target has the [[Burning]] [[condition]] (4d6 Radiant)."      
-bonus_actions:
-  - name: "The Cold Void of Space."
-    desc: "_Constitution [[Saving Throw]]:_ DC 17, one creature within 120 feet of the star warden that teleported this turn. _Failure:_ The target has the [[Frozen]] [[condition]]. _Success:_ 10 (3d6) Cold damage."
-reactions:
-  - name: "Outside Time and Space."
-    desc: "_Trigger:_ A creature hits the star warden with an attack. _Response:_ The star warden switches places with another creature within 30 feet, and the attack hits that creature instead."  
-```
-

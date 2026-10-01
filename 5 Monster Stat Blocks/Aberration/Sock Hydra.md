@@ -1,9 +1,46 @@
 ---
+layout: Basic 5e Layout
+name: Sock Hydra
+size: Medium
+type: Aberration
+alignment: Chaotic Silly
+ac: 13
+modifier:
+hp: 22
+hit_dice: 4d8+4
+speed: 30 ft., Climb 20 ft.
+stats:
+  - 12
+  - 14
+  - 12
+  - 3
+  - 10
+  - 6
+damage_resistances: Lightning
+senses: Darkvision 60Ft, Passive Perception 10, Passive Insight 10, Passive Stealth 14
+cr: 1/4
+traits:
+  - name: Multiple Heads.
+    desc: This Sock Hydra Begins Within 3 Heads. When It Takes 5 Or More Damage From A Single Attack, One Sock Head May Be Destroyed. At The start Of Its Next Turn, Two New Mismatched Sock Heads Sprout Unless Fire Damage Was Dealt. It Can Have Up To 7 Heads At Once.
+  - name: Static Cling.
+    desc:  Any Creature That Touches Or Grapples The Hydra Takes 1 Lightning Damage As Socks Crackle With Static Electricity.
+  - name: Missing Laundry.
+    desc: Any Creature That Touches Or Grapples The Hydra Takes 1 Lightning Damage As Socks Crackle With Static Electricity.
+actions:
+  - name: Sock Bite.
+    desc: '*Melee Weapon Attack:* +3 To Hit Reach 5ft, One Target *Hit* 3 (1d4+1) Bludgeoning Damage. The Hydra Makes One Attack Per Active Head.'
+  - action: Static Snap (Recharge 6 Rounds).
+  - desc: 'The Sock Hydra Unleashes A Burst Of Static Electricity. Each Creature Within 10ft Must Succeed On A DC11 CON Save or Take 5 (2d4) Lightning Damage And Drop Any Metal Objects They Are Holding.'
+statblock: true
+atlas-type: statblock
+image:
+  - - Sock Hydara.png
 tags:
-  - Monster
+  - monster
+  - hombrew
   - Aberration
-  - Homebrew
 ---
+
 # Sock Hydra
 # 5e Statblock
 
@@ -19,8 +56,7 @@ hp: 22
 hit_dice: 4d8+4
 speed: 30 ft., Climb 20 ft.
 stats: [12, 14, 12, 3, 10, 6]
-damage_resistances: 
-   - Lightning
+damage_resistances: Lightning
 senses: [[Darkvision]] 60Ft, [[Passive Perception]] 10, Passive Insight 10, Passive Stealth 14
 cr: 1/4
 traits:
