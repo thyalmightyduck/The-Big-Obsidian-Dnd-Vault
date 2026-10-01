@@ -1,9 +1,49 @@
 ---
+layout: Basic 5e Layout
+name: Eldritch Crawler
+size: Meduim
+type: Aberration
+alignment: Neutral
+ac: 14
+hp: 66
+hit_dice: 12d8 + 12
+speed: 40ft., Climb 40ft.
+stats:
+  - 16
+  - 15
+  - 12
+  - 6
+  - 11
+  - 2
+senses: Darkvision 60Ft, Passive Perception 10, Passive Insight 10, Passive Stealth 12
+cr: 3
+damage_resistances: Necrotic
+traits:
+  - name: Alien Intellect.
+    desc: The eldritch crawler is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the eldritch crawler's intentions or sincerity have Disadvantage.
+  - name: Fully Contaminated.
+    desc: The eldritch crawler is immune to Contamination and has Advantage on saving throws against contaminated spells. The eldritch crawler may cast contaminated spells even though it does not gain [[Contamination]] levels.
+  - name: Insectiod Limbs.
+    desc: The eldritch crawler can climb difficult surfaces, including along ceilings, without needing to make an [[ability check]]. It ignores movement restrictions caused by webbing. 
+actions:
+  - name: Bite.
+    desc: '*Constitution Saving Throw:* DC 12, one target within 5 ft. *Failure:* 18 (4d8) Necrotic damage, and the target gains one Contamination level. *Success:* Half damage only.'
+  - name: Contaminated Venom.
+    desc: '*Constitution Saving Throw:* DC 12, one target within 40 feet. *Failure:* 18 (4d8) Necrotic damage, and the target gains one Contamination level. *Success:* Half damage only.' 
+bonus_actions:
+  - name: Void Walker.
+    desc: 'The eldritch crawler climbs through a tear in reality, traveling from the Material Plane to the Space Between Worlds or vice versa.'
+reactions:
+  - name: Fractured Reality.
+    desc: '*Trigger:* A creature misses the eldritch crawler with an attack. *Response:* The eldritch crawler teleports to an unoccupied space it can see within 30 feet, briefly leaving behind a fractured image of itself being hit by the attack.'
+statblock: true
+atlas-type: statblock
+image:
+  - - Eldritch Crawler BGR PNG
 tags:
-  - Monster
-  - Aberration
-  - MoDk
+  - monster
 ---
+
 # Eldritch Crawler
 
 # 5e Statblock
