@@ -1,9 +1,36 @@
 ---
+layout: Basic 5e Layout
+name: deleruim Dreg
+size: Meduim
+type: Aberratio
+alignment:
+ac: 12
+hp: 9
+hit_dice: 2d8
+speed: 30 ft.
+stats:
+  - 13
+  - 15
+  - 10
+  - 7
+  - 10
+  - 5
+senses: Darkvision 60 ft., Passive Perception 10, Passive Insight 10, Passive Stealth 12
+cr: 1/2
+traits:
+  - name: Misty Camouflage.
+    desc: A dreg has Advantage on Dexterity (Stealth) checks when taking the Hide action in any area obscured by mist or fog, including the Haze. 
+actions:
+  - name: Claws.
+    desc: '*Melee Attack Roll:* 14 (1d20 + 4), reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage plus 10 (3d6) Necrotic damage. Critical *Hit:* *Constitution Saving Throw:* DC 10. *Failure:* The target gains one level of Contamination.'
+statblock: true
+atlas-type: statblock
+picture:
+  - - Humanoid Blank BGR PNG.png
 tags:
-  - Monster
-  - Aberration
-  - MoDk
+  - monster
 ---
+
 # Delerium Dreg
 ## Monsters of Drakkenheim (MODK):
 ```statblock
@@ -22,7 +49,7 @@ languages: [[Common]]
 cr: 1/2
 traits:
   - name: Misty Camouflage.
-    desc: A dreg has [[Advantage]] on Dexterity ([[Stealth]]) checks when taking the [[Hide] action]] in any area obscured by mist or fog, including the Haze.  
+    desc: A dreg has [[Advantage]] on Dexterity ([[Stealth]]) checks when taking the Hide action in any area obscured by mist or fog, including the Haze.  
 actions:
   - name: "Claws."
     desc: "_Melee Attack Roll:_ 14 (1d20 + 4), reach 5 ft. _Hit:_ 4 (1d4 + 2) Slashing damage plus 10 (3d6) Necrotic damage. Critical _Hit:_ _Constitution Saving Throw:_ DC 10. _Failure:_ The target gains one level of [[Contamination]]." 
