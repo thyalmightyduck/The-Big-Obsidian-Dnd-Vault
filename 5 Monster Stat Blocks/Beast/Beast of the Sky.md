@@ -32,6 +32,8 @@ image:
   - - Beast of the Sky BGR PNG.png
 tags:
   - monster
+  - TCE
+  - beast
 ---
 
 # Beast of the Sky
