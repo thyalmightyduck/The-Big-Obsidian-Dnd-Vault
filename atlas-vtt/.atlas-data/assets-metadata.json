@@ -177,6 +177,19 @@
       },
       "createdAt": 1790659852594,
       "modifiedAt": 1790714047491
+    },
+    "Test": {
+      "id": "Test",
+      "uid": "acb0f9ab-5479-41ba-8f72-c455343381e9",
+      "version": 1,
+      "name": "Test",
+      "description": "Test collection",
+      "tags": {},
+      "settings": {
+        "conditions": []
+      },
+      "createdAt": 1790894202963,
+      "modifiedAt": 1790894202963
     }
   },
   "defaultCollectionId": "Default",
