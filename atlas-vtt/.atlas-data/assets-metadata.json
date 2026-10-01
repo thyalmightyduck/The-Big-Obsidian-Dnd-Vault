@@ -450,6 +450,20 @@
       "id": "token-1790898469177-l61yys",
       "createdAt": 1790898469177,
       "modifiedAt": 1790898469177
+    },
+    "token-1790899043655-j8a9yz": {
+      "showRing": false,
+      "name": "Giant Rat",
+      "imagePath": "atlas-vtt/assets/Giant_Rat_1790899043242_8ccpm7.webp",
+      "size": 1,
+      "statblockPath": "5 Monster Stat Blocks/Beast/Giant Rat.md",
+      "collection": "Default",
+      "tags": [],
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Giant_Rat_1790899043242_8ccpm7-be052303.webp",
+      "type": "token",
+      "id": "token-1790899043655-j8a9yz",
+      "createdAt": 1790899043655,
+      "modifiedAt": 1790899043655
     }
   },
   "version": 2,
