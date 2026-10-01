@@ -11,10 +11,24 @@
             "id": "f4ae903fabf46e5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7 Magic Items/Armor/+1 Armor.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "+1 Armor"
             }
           }
         ]
@@ -113,6 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "7 Magic Items/Armor/+1 Armor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,6 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "7 Magic Items/Armor/+1 Armor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,6 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "7 Magic Items/Armor/+1 Armor.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -173,7 +190,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +206,15 @@
       "calendarium:Open Calendarium": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f4ae903fabf46e5c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Rules/Armor/Breastplate.md",
+    "7 Magic Items/Armor/+1 Armor.md",
+    "2 Characters/Ignatius Hooligan.md"
+  ]
 }
