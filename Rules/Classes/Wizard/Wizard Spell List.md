@@ -642,4 +642,7 @@ tags:
 - [[Leomund's Lamentable Belaborment]]
 - [[Life Drain]]
 - [[Lungburst]]
-- 
+- [[Magic Jar]]
+- [[Mass Suggestion]]
+- [[Melting Curse]]
+- [[Mental Prison]]
