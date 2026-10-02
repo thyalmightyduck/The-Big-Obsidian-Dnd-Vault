@@ -82,3 +82,4 @@ tags:
 - [[Water Whip]]
 - [[Word of Misfortune]]
 ## Level 1
+- 
