@@ -471,4 +471,10 @@ tags:
 - [[Frogskin]]
 - [[Fungal Infection]]
 - [[Galder's Speedy Courier]]
-- 
+- [[Gate Seal]]
+- [[Ghostly Crew]]
+- [[Gravity Repulsion]]
+- [[Greater Invisibility]]
+- [[Hallucinatory Terrain]]
+- [[Hearthfire]]
+- [[Hide in One's Shadow]]
