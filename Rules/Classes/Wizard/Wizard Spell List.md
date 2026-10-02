@@ -442,3 +442,13 @@ tags:
 - [[Black Hand]]
 - [[Blight]]
 - [[Buried Alive]]
+- [[Charm Monster]]
+- [[Confusion]]
+- [[Conjure Minor Elementals]]
+- [[Consume Mind]]
+- [[Control Water]]
+- [[Corpse Explosion]]
+- [[Dark Sacrament]]
+- [[Delerium Blast]]
+- [[Dimension Door]]
+- 
