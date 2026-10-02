@@ -435,4 +435,10 @@ tags:
 - [[Weave Detonation]]
 - [[Zippit!]]
 ## Level 4
-- 
+- [[Angrboda's Fury]]
+- [[Arcane Eye]]
+- [[Backlash]]
+- [[Banishment]]
+- [[Black Hand]]
+- [[Blight]]
+- [[Buried Alive]]
