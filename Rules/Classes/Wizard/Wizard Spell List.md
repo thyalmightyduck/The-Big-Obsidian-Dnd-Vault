@@ -369,4 +369,12 @@ tags:
 - [[Inflict Doubt]]
 - [[Intellect Fortress]]
 - [[Isolation]]
+- [[Laeral's Silver Lance]]
+- [[Leomund's Tiny Hut]]
+- [[Life Transference]]
+- [[Lightning Bolt]]
+- [[Linked Glyphs]]
+- [[Luckfingers]]
+- [[Maelfa's Quickened Class]]
+- [[Magic Circle]]
 - 
