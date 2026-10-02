@@ -623,4 +623,12 @@ tags:
 - [[Doom of Stacked Stones]]
 - [[Drawmij's Instant Summons]]
 - [[Earth Worm]]
+- [[Elminster's Effulgent Spheres]]
+- [[Ensnared Threads]]
+- [[Eyebite]]
+- [[Fizban's Platinum Shield]]
+- [[Flesh to Stone]]
+- [[Frenzy]]
+- [[Game of Fate]]
+- [[Ghastly Charge]]
 - 
