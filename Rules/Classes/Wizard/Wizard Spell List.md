@@ -637,4 +637,9 @@ tags:
 - [[Heartseeker]]
 - [[Investiture of Flame]]
 - [[Investiture of Ice]]
+- [[Investiture of Stone]]
+- [[Investiture of Wind]]
+- [[Leomund's Lamentable Belaborment]]
+- [[Life Drain]]
+- [[Lungburst]]
 - 
