@@ -429,3 +429,10 @@ tags:
 - [[Vampiric Touch]]
 - [[Void Strike]]
 - [[Voorish Sign]]
+- [[Wall of Sand]]
+- [[Wall of Water]]
+- [[Water Breathing]]
+- [[Weave Detonation]]
+- [[Zippit!]]
+## Level 4
+- 
