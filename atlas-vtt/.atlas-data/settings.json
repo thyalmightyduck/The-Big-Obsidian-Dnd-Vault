@@ -22,17 +22,22 @@
     "color": "#ff0059",
     "size": 16
   },
+  "diceDisplay": "full",
+  "diceColour": "light",
+  "diceFont": "medieval",
   "systemPresets": [],
+  "experimental": {},
   "localPlayerView": {
     "showToolbar": false,
-    "showTokenHP": true,
-    "showTokenStress": false,
     "showTokenNameplates": false,
     "showNotePreviews": false,
     "showGrid": true,
     "showWidgets": true,
     "showInitiative": false,
     "showDiceRolls": true,
-    "showCommandPalette": false
+    "showCommandPalette": false,
+    "showTokenHP": true,
+    "showTokenStress": false,
+    "tokenBarsCarriedOver": true
   }
 }
