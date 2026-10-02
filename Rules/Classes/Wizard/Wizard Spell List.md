@@ -361,3 +361,12 @@ tags:
 - [[Galder's Tower]]
 - [[Gaseous Form]]
 - [[Giant's Teeth]]
+- [[Glyph of Warding]]
+- [[Grim Shadows]]
+- [[Haste]]
+- [[Hypnotic Pattern]]
+- [[Incite Greed]]
+- [[Inflict Doubt]]
+- [[Intellect Fortress]]
+- [[Isolation]]
+- 
