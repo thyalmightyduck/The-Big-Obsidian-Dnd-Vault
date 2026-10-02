@@ -173,10 +173,21 @@
           "traits"
         ],
         "lootBases": [],
-        "systemPresetId": "builtin:dnd5e"
+        "systemPresetId": "builtin:dnd5e",
+        "resources": [
+          {
+            "key": "hp",
+            "name": "HP",
+            "field": "hp",
+            "direction": "drains",
+            "color": "#22c55e",
+            "defeatedWhenSpent": true,
+            "visibleToPlayers": true
+          }
+        ]
       },
       "createdAt": 1790659852594,
-      "modifiedAt": 1790714047491
+      "modifiedAt": 1790970142380
     }
   },
   "defaultCollectionId": "Default",

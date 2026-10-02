@@ -23,12 +23,10 @@
     "size": 16
   },
   "diceDisplay": "full",
-  "diceColour": "accent",
+  "diceColour": "light",
   "diceFont": "medieval",
   "systemPresets": [],
-  "experimental": {
-    "dynamicLighting": true
-  },
+  "experimental": {},
   "localPlayerView": {
     "showToolbar": false,
     "showTokenNameplates": false,
