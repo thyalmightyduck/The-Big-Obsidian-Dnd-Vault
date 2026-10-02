@@ -515,4 +515,17 @@ tags:
 - [[Storm Door]]
 - [[Storm Sphere]]
 - [[Summon Aberration]]
+- [[Summon Construct]]
+- [[Summon Elemental]]
+- [[Summon Greater Demon]]
+- [[Summon the Thing with the Writhing Tail]]
+- [[Tentacle Lash]]
+- [[Viscous Sheath]]
+- [[Vitriol Ichor]]
+- [[Vitriolic Sphere]]
+- [[Wall of Death]]
+- [[Wall of Fire]]
+- [[Watery Sphere]]
+- [[Weavebend]]
+## Level 5
 - 
