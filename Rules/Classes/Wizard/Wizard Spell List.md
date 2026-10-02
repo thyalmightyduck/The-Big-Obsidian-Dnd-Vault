@@ -409,4 +409,12 @@ tags:
 - [[Sleet Storm]]
 - [[Slow]]
 - [[Speak with Dead]]
+- [[Spirit Shroud]]
+- [[Stench]]
+- [[Stinking Cloud]]
+- [[Suffocate]]
+- [[Summon Fey]]
+- [[Summon Lesser Demons]]
+- [[Summon Shadowspawn]]
+- [[Summon Undead]]
 - 
