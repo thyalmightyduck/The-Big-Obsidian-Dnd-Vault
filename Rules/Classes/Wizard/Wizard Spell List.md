@@ -341,3 +341,11 @@ tags:
 - [[Crimson Harvest]]
 - [[Crooked Ward]]
 - [[Culling Sickle]]
+- [[Curse of the Putrid Husk]]
+- [[Depth Charge]]
+- [[Dispel Magic]]
+- [[Displacing Maw]]
+- [[Emmeline's Essence Infusion]]
+- [[Enemies Abound]]
+- [[Erupting Earth]]
+- 
