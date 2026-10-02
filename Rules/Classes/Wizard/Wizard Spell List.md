@@ -631,4 +631,10 @@ tags:
 - [[Frenzy]]
 - [[Game of Fate]]
 - [[Ghastly Charge]]
+- [[Globe of Invulnerability]]
+- [[Grim Harvest]]
+- [[Guards and Wards]]
+- [[Heartseeker]]
+- [[Investiture of Flame]]
+- [[Investiture of Ice]]
 - 
