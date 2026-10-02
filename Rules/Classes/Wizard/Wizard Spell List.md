@@ -478,3 +478,13 @@ tags:
 - [[Hallucinatory Terrain]]
 - [[Hearthfire]]
 - [[Hide in One's Shadow]]
+- [[Ice Storm]]
+- [[Intrusive Despair]]
+- [[Knife of Fate]]
+- [[Leomund's Secret Chest]]
+- [[Locate Creature]]
+- [[Lunar Transfer]]
+- [[Maiden of Bones]]
+- [[Mandy's Feral Follower]]
+- [[Mechamagic]]
+- 
