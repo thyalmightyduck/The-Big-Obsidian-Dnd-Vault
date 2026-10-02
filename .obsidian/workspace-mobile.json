@@ -11,13 +11,24 @@
             "id": "f4ae903fabf46e5c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases Tests.base",
-                "viewName": "Table"
+                "file": "Rules/Classes/Wizard/Wizard Spell List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Bases Tests"
+              "icon": "lucide-file",
+              "title": "Wizard Spell List"
             }
           }
         ]
@@ -202,9 +213,9 @@
   },
   "active": "f4ae903fabf46e5c",
   "lastOpenFiles": [
+    "Bases Tests.base",
     "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Kull The City Of Fortune/Kull.md",
     "7 Magic Items/Armor/+1 Armor.md",
-    "Bases Tests.base",
     "MP3/Adventure Begins.mp3",
     "Rules/Armor/Breastplate.md",
     "2 Characters/Ignatius Hooligan.md"
