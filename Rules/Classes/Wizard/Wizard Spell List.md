@@ -451,4 +451,13 @@ tags:
 - [[Dark Sacrament]]
 - [[Delerium Blast]]
 - [[Dimension Door]]
+- [[Dire Warning]]
+- [[Distorted Distance]]
+- [[Divination]]
+- [[Drayfn's Curse of Incompetence]]
+- [[Dread Scarecrow]]
+- [[Dust of Suleiman]]
+- [[Earthsail]]
+- [[Elemental Bane]]
+- [[Evard's Black Tentacles]]
 - 
