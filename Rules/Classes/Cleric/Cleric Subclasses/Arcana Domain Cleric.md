@@ -1,6 +1,8 @@
 ---
 tags:
   - classes
+  - subclass
+  - cleric
 ---
 # Arcana Domain Cleric
 ## Sword Coast Adventurer’s Guide:

@@ -1,6 +1,11 @@
 ---
 tags:
   - spells
+  - SCGtD
+  - evocation
+  - cantrip
+  - apothecary
+school:
 ---
 #### Acid Burn
 *Evocation Cantrip*
@@ -14,4 +19,4 @@ You magically produce a spray of acidic formula in a 15-foot cone in front of yo
 
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-**Classes:** Apothecary
+**Classes:** [[Apothecary]]
