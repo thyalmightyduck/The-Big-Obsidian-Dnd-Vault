@@ -1,7 +1,3 @@
----
-dnd_character: true
-class: Ranger
----
 # Last Left Off
 add properties for monster to import to the vtt
 ### Feats
@@ -113,7 +109,7 @@ Artificer
 - [x] Ranger
 - [x] Sorcerer
 - [x] Warlock
-- [ ] Wizard
+- [x] Wizard
 - [x] Apothecary
 # Fixes
 #todo/fixes
