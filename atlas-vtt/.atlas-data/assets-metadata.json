@@ -188,6 +188,30 @@
       },
       "createdAt": 1790659852594,
       "modifiedAt": 1790970142380
+    },
+    "Test": {
+      "id": "Test",
+      "uid": "888849ee-da66-4834-829b-07820c5c7f3b",
+      "version": 1,
+      "name": "Test",
+      "description": "Test collection",
+      "tags": {},
+      "settings": {
+        "conditions": [],
+        "resources": [
+          {
+            "key": "hp",
+            "name": "HP",
+            "field": "hp",
+            "direction": "drains",
+            "color": "#22c55e",
+            "defeatedWhenSpent": true,
+            "visibleToPlayers": false
+          }
+        ]
+      },
+      "createdAt": 1791066690058,
+      "modifiedAt": 1791066690373
     }
   },
   "defaultCollectionId": "Default",
