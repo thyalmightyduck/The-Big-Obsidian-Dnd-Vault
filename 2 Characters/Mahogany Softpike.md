@@ -226,7 +226,7 @@ languages: Common
 cr: 
 spells:
   - Spell Casting Modifier +5, Spell Save DC +5, Spell Attack Bonus +6:
-  - Cantrips: [[Eldritch Blast]], [[Green-Flame Blade]], [[Lightning Lure]], [[Light]], [[Sacred Flame]]
+  - Cantrips: [[Eldritch Blast]], [[Green-Flame Blade]], [[Lightning Lure]],
   - 2/day: [[Hex]], [[Enthrall]], [[Hold Person]], [[Spider Climb]], [[Counterspell]], [[Remove Curse]], [[Summon Undead]],  
 traits:
   - name: "Pact Magic"
