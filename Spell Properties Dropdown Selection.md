@@ -2,7 +2,7 @@ School: ```INPUT[inlineSelect(option(Abjuration), option(Biomancy), option(Conju
 
 Level: ```INPUT[inlineSelect(option(Cantrip), option(Level 1), option(Level 2), option(Level 3), option(Level 4), option(Level 5), option(Level 6), option(Level 7), option(Level 8), option(Level 9)):spell_level]```
 
-Casting Time: ```INPUT[inlineSelect(option(Action), option(Bonus Action), option(Reactino)):casting_time]```
+Casting Time: ```INPUT[inlineSelect(option(Action), option(Bonus Action), option(Reactino), option(24 Hours), option(12 Hours), option(8 Hours), option(1 Hour), option()):casting_time]```
 
 Range: ```INPUT[inlineSelect(option(Self), option(Touch)):range]```
 
