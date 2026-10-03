@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Spells/Cantrips/Acid Splash.md",
-                "mode": "preview",
+                "file": "Untitled 2.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Acid Splash"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -213,6 +213,11 @@
   },
   "active": "f4ae903fabf46e5c",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.base",
+    "(Important Info)/How To Download Obsidian Vault On Github.md",
+    "Untitled.md",
+    "Rules/Spells/Cantrips/Acid Splash.md",
     "Rules/Classes/Wizard/Wizard Spell List.md",
     "Rules/Spells/Level 9/Invulnerability.md",
     "Rules/Spells/Level 9/Hindsight.md",
@@ -235,10 +240,6 @@
     "Rules/Spells/Level 4/Mordenkainen's Private Sanctum.md",
     "Rules/Spells/Level 4/Mordenkainen's Faithful Hound.md",
     "Rules/Spells/Level 4/Mandy's Feral Follower.md",
-    "Rules/Spells/Level 4/Galder's Speedy Courier.md",
-    "Rules/Spells/Level 3/Wall of Sand.md",
-    "Rules/Spells/Level 3/Void Strike.md",
-    "Rules/Spells/Level 3/Shadow Trove.md",
     "PDFs/Spells/Level 6/Earth Worm.pdf",
     "PDFs/Spells/Level 6",
     "PDFs/Spells",
