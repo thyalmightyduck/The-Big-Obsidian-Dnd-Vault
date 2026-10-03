@@ -35,7 +35,74 @@ spells:
   lvl3:
     total_slots: 0
     slots_expended: 0
-    learned: []
+    learned:
+      - name: Counterspell
+        prepared: false
+        link: ""
+      - name: Remove Curse
+        prepared: false
+        link: ""
+      - name: Summon Undead
+        prepared: false
+        link: ""
+      - name: Haste (Parasite)
+        prepared: false
+        link: ""
+      - name: Spirit Guardians (Parasite)
+        prepared: false
+        link: ""
+  cantrips:
+    - name: Eldritch Blast
+      link: "### Birth Parasite"
+    - name: Green-Flame Blade
+      link: ""
+    - name: Lightning Lure
+      link: ""
+  lvl1:
+    total_slots: 0
+    slots_expended: 0
+    learned:
+      - name: Hex
+        prepared: false
+        link: ""
+      - name: Heroism (Parasite)
+        prepared: false
+        link: ""
+      - name: Sanctuary (Parasite)
+        prepared: false
+        link: ""
+  lvl2:
+    total_slots: 0
+    slots_expended: 0
+    learned:
+      - name: Enthrall
+        prepared: false
+        link: ""
+      - name: Hold Person
+        prepared: false
+        link: ""
+      - name: Spider Climb
+        prepared: false
+        link: ""
+      - name: Enhance Ability (Parasite)
+        prepared: false
+        link: ""
+      - name: Enlarge Reduce (Parasite)
+        prepared: false
+        link: ""
+  lvl4:
+    total_slots: 0
+    slots_expended: 0
+    learned:
+      - name: Zone of Amicability
+        prepared: false
+        link: ""
+      - name: Evard's Black Tentacles (Parasite)
+        prepared: false
+        link: ""
+      - name: Freedom of Movement (Parasite)
+        prepared: false
+        link: ""
 proficiencies:
   - Light Armor
   - Simple Weapons
@@ -88,6 +155,9 @@ traits:
   - Hexshredder (Invocation)
   - Magical Cunning
   - Shifting
+  - Symbiotic Reinforcement
+  - Liquefied Body
+  - Birth Parasite
 attacks:
   - name: Eldritch Blast
     ability: "+6"
@@ -108,6 +178,13 @@ attacks:
     damage_type: Slashig
     properties:
       - reach
+  - name: Pact Blade
+    ability: "+8"
+    proficient: false
+    damage: 1d6+5
+    damage_type: slashing
+    properties:
+      - light
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
