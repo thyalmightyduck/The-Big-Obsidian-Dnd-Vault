@@ -5,10 +5,11 @@ tags:
   - evocation
   - cantrip
   - apothecary
-school:
+school: Evocation
+spell_level: Cantrip
 ---
 #### Acid Burn
-*Evocation Cantrip*
+Evocation Cantrip
 ___
 - **Casting Time:** Action
 - **Range:** Self

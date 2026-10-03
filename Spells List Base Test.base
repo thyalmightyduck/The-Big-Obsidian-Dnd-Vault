@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.path.startsWith("Rules/Spells")
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: View
+    groupBy:
+      property: formula.Untitled
+      direction: ASC
+    order:
+      - file.name
+      - spell_level
+      - school
+    sort:
+      - property: file.name
+        direction: ASC

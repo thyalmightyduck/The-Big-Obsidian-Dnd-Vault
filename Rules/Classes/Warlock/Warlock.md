@@ -1,6 +1,7 @@
 ---
 tags:
   - classes
+level: 7
 ---
 # Warlock: Player’s Handbook (2024):
 

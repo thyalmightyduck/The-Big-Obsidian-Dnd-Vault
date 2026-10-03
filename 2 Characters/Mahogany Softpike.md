@@ -1,5 +1,48 @@
+---
+dnd_character: true
+class: "[[Warlock]]"
+level: 7
+proficiency_bonus: 3
+ac: 15
+race: "[[Shifter (Swiftstride)]]"
+height: 154
+alignment: Chaotic Evil
+age: 18
+hit_dice:
+  total: 6
+  used: 0
+  die: d8
+hp:
+  current: 33
+abilities:
+  str: 9
+  dex: 18
+  con: 10
+  int: 16
+  wis: 13
+  cha: 20
+skills:
+  Acrobatics: true
+  Sleight of Hand: true
+  Stealth: true
+  Arcana: true
+  Deception: true
+saving_throws:
+  cha: true
+  wis: true
+spellcasting: cha
+spells:
+  lvl3:
+    total_slots: 0
+    slots_expended: 0
+    learned: []
+proficiencies:
+  - Light Armor
+  - Simple Weapons
+  - Thieves Tools
+---
 # Mahogany Softpike
-### Warlock-The Parasite Level 7 [[Shifter (Swiftstride)]]
+### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
 > [!infobox]
 > # Mahogany Softpike
 > ![[Mahogony BGR PNG.png|cover hsmall]]
