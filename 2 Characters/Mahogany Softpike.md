@@ -101,6 +101,13 @@ attacks:
     damage: 1d8
     damage_type: Lightning
     properties: []
+  - name: Parasitic Weapon
+    ability: "+8"
+    proficient: false
+    damage: 1d12+8
+    damage_type: Slashig
+    properties:
+      - reach
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
