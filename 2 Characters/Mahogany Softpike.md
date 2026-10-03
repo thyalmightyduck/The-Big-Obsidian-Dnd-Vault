@@ -78,6 +78,16 @@ inventory:
   - Supreme Potion of Healing x2
   - Potion of Longevity
   - Scroll of Symbol
+traits:
+  - Undying Servitude (Invocation)
+  - Lessons of the First Ones (Invocation)
+  - Armor of Shadows (Invocation
+  - Armor of Shadows (Invocation)
+  - Parasitic Leech (Invocation)
+  - Thirsting Blade (Invocation)
+  - Hexshredder (Invocation)
+  - Magical Cunning
+  - Shifting
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
@@ -139,54 +149,10 @@ inventory:
 
 
 #### Level 1 Eldritch Invocations
-
  **Lesson Of The First One:** You have received knowledge from an elder entity of the multiverse, allowing you to gain one [[Origin feat]] of your choice.
  *Repeatable.* You can gain this invocation more than once. Each time you do so, choose a different [[Origin feat]]. 
  **Armor Of Shadows:** You can cast [[Mage Armor]] on yourself without expending a spell slot
 **Undying Servitude:** You can cast [[animate dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a [[Long Rest]].
-
-#### Level 2:Magical Cunning
->>You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[Long Rest]].
->
-#### Level 3: Warlock Subclass Celestial
->You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
->>  **Celestial Patron:** Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.
->>> **Level 3: Celestial Spells** The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.
->>> Celestial Spells
->>>> **Level 3:** [[Aid]], [[Cure Wounds]], [[Guiding Bolt]], [[Lesser Restoration]], [[Light]], [[Sacred Flame]]
->>>> **Level 5:** [[Daylight]], [[Revivify]]
->>>> **Level 7:** [[Guardian Of Faith]], [[Wall Of Fire]]
->>>> **Level 9:** [[Greater Restoration]], [[Summon Celestial]] 
->> **Level 3: Healing Light** You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
->>> As a [[Bonus Action]], you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Point]] equal to the roll's total. Your pool regains all expended dice when you finish a [[Long Rest]].
->
-#### Level 4: Ability Score Improvement
->>You gain the Ability Score Improvement of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
->
-#### Level 6: Subclass Feature
->You gain a feature from your Warlock subclass.
->> **Level 6: Radiant Soul**
->> Your link to your patron allows you to serve as a conduit for radiant energy. You have [[Resistance (Damage)]] to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets
-
-### Species Traits: [[Shifter (Swiftstride)]]
->> **Darkvision:** 
->> You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
->
->> **Shifting:** 
->> As a [[bonus action]], you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a [[bonus action]]. When you shift, you gain [[Temporary Hit Point]] equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
->> Once you shift, you can't do so again until you finish a short or [[Long Rest]].
->
->> **Graceful:** 
->> You have [[proficiency]] in the [[Acrobatics]] skill.
->
->> **Shifting Feature:**
->>  While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a [[Reaction]] when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke [[Opportunity Attack]]s
-
-### Feats:
->> **[[Rules/Feats/Alert]]:**
->> You gain the following benefits.
->> **[[Initiative]] Proficiency:** When you roll [[Initiative]], you can add your Proficiency Bonus to the roll.
->> **[[Initiative]] Swap:** Immediately after you roll [[Initiative]], you can swap your [[Initiative]] with the [[Initiative]] of one willing ally in the same combat. You can't make this swap if you or the ally has the [[Incapacitated]] condition.
 
 # Inventory
 
