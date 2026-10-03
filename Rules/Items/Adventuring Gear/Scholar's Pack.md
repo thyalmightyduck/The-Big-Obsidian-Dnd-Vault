@@ -1,3 +1,7 @@
+---
+aliases:
+  - Scholars Pack
+---
 _Adventuring Gear_
 _40 GP, 22 lbs._
 - - -

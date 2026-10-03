@@ -44,7 +44,7 @@ tags:
 You start with the following items, plus anything provided by your background:
 - (a) a [[Light Crossbow]] and 20 bolts, (b) a [[shortsword]] or (c) any [[Simple Weapons]]
 - (a) a [[Component Pouch]] or (b) an [[arcane focus]]
-- (a) a [[Scholars Pack]] or (b) a [[Dungeoneers Pack]]
+- (a) a [[Scholar's Pack]] or (b) a [[Dungeoneers Pack]]
 - [[hide armor]], any [[Simple Weapons]], and two [[dagger]]s
 - a [[Healers Kit]]
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
