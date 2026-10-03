@@ -95,6 +95,12 @@ attacks:
     damage: 1d10
     damage_type: Force
     properties: []
+  - name: Lightning Lure
+    ability: STR 16
+    proficient: false
+    damage: 1d8
+    damage_type: Lightning
+    properties: []
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
