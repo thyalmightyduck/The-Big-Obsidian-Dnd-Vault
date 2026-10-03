@@ -88,6 +88,13 @@ traits:
   - Hexshredder (Invocation)
   - Magical Cunning
   - Shifting
+attacks:
+  - name: Eldritch Blast
+    ability: "+6"
+    proficient: false
+    damage: 1d10
+    damage_type: Force
+    properties: []
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
@@ -225,9 +232,10 @@ senses: Darkvision 60Ft
 languages: Common
 cr: 
 spells:
-  - Spell Casting Modifier +5, Spell Save DC +5, Spell Attack Bonus +6:
+  - Spell Casting Modifier +5, Spell Save DC 16, Spell Attack Bonus +6:
   - Cantrips: [[Eldritch Blast]], [[Green-Flame Blade]], [[Lightning Lure]],
-  - 2/day: [[Hex]], [[Enthrall]], [[Hold Person]], [[Spider Climb]], [[Counterspell]], [[Remove Curse]], [[Summon Undead]],  
+  - 2/day: [[Hex]], [[Enthrall]], [[Hold Person]], [[Spider Climb]], [[Counterspell]], [[Remove Curse]], [[Summon Undead]], [[Zone of Amicability]] 
+  - Parasite Spells: [[Heroism]], [[Sanctuary]], [[Enhance Ability]], [[Enlarge Reduce]], [[Haste]], [[Spirit Guardians]], [[Evard's Black Tentacles]], [[Freedom Of Movement]]  
 traits:
   - name: "Pact Magic"
     desc: "Regain All Spell Slots On A [[Short Rest]]."  
