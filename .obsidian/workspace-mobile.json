@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Classes/Wizard/Wizard Spell List.md",
-                "mode": "source",
+                "file": "Rules/Spells/Cantrips/Acid Splash.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wizard Spell List"
+              "title": "Acid Splash"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "f4ae903fabf46e5c",
   "lastOpenFiles": [
+    "Rules/Classes/Wizard/Wizard Spell List.md",
     "Rules/Spells/Level 9/Invulnerability.md",
     "Rules/Spells/Level 9/Hindsight.md",
     "Rules/Spells/Level 8/Telepathy.md",
@@ -238,7 +239,6 @@
     "Rules/Spells/Level 3/Wall of Sand.md",
     "Rules/Spells/Level 3/Void Strike.md",
     "Rules/Spells/Level 3/Shadow Trove.md",
-    "Rules/Spells/Level 3/Maelfa's Quickened Class.md",
     "PDFs/Spells/Level 6/Earth Worm.pdf",
     "PDFs/Spells/Level 6",
     "PDFs/Spells",
