@@ -1,5 +1,9 @@
 ---
 school:
+my_linked_note: "[[Rules/Spells/Level 3/Tiny Servant.md|Tiny Servant]]"
+spell_select: "[[Rules/Spells/Level 3/Suffocate.md|Suffocate]]"
+species_select: "[[Rules/Species/Worg.md|Worg]]"
+class_selector: "[[Rules/Classes/Wizard/Wizard Subclasses/Abjurer Wizard.md|Abjurer Wizard]]"
 ---
 School: `INPUT[inlineSelect(defaultValue(School Of Magic), option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation), option(null,School Of Magic)):school]`
 
@@ -17,4 +21,8 @@ Components: `INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material
 - Instantaneous
 
 
-`INPUT[suggester(optionQuery(#notes), useLinks(value:true)):my_linked_note]`
+`INPUT[suggester(optionQuery(#Species), useLinks(true)):species_select]`
+
+`INPUT[suggester(optionQuery(#Spells), useLinks(true)):spell_select]`
+
+`INPUT[suggester(optionQuery(#Classes), useLinks(true)):class_selector]`
