@@ -1,4 +1,7 @@
-School: `INPUT[inlineSelect(option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation), option(example)):school]`
+---
+school: School Of Magic
+---
+School: `INPUT[inlineSelect(defaultValue(School of Magic), option(School Of Magic), option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation)):school]`
 
 Level: `INPUT[inlineSelect(option(Cantrip), option(Level 1), option(Level 2), option(Level 3), option(Level 4), option(Level 5), option(Level 6), option(Level 7), option(Level 8), option(Level 9)):spell_level]`
 
@@ -8,7 +11,7 @@ Range: `INPUT[inlineSelect(option(Self), option(Touch), option(Sight), option(10
 
 Components: `INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material)):componenets]`
 
-`INPUT[text]`
+`INPUT[text(defaultValue(Material Componenets Here))]`
 
 # Durations
 - Instantaneous
