@@ -27,5 +27,5 @@ INPUT[suggester(optionQuery(#Species), useLinks(true), title(Species)):species_s
 INPUT[suggester(optionQuery(#Classes), useLinks(true), title(Class)):class_selector]
 ```
 ```meta-bind
-INPUT[listSuggester(optionQuery(#Cantrips), useLinks(true), title(Cantrips)):spell_select]
+INPUT[listSuggester(optionQuery(#Cantrips), useLinks(true), title(Cantrips)):spell_select_cantrips]
 ```

@@ -2,7 +2,7 @@
   "devMode": false,
   "ignoreCodeBlockRestrictions": false,
   "preferredDateFormat": "YYYY-MM-DD",
-  "firstWeekday": "Monday",
+  "firstWeekday": "Sunday",
   "syncInterval": 200,
   "enableJs": false,
   "viewFieldDisplayNullAsEmpty": false,
