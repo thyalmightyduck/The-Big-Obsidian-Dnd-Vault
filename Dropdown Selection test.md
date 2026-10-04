@@ -1,7 +1,8 @@
 ---
 school:
 my_linked_note: "[[Rules/Spells/Level 3/Tiny Servant.md|Tiny Servant]]"
-spell_select: "[[Rules/Spells/Level 3/Suffocate.md|Suffocate]]"
+spell_select:
+  - "[[Rules/Spells/Level 3/Tongues.md|Tongues]]"
 species_select: "[[Rules/Species/Worg.md|Worg]]"
 class_selector: "[[Rules/Classes/Wizard/Wizard Subclasses/Abjurer Wizard.md|Abjurer Wizard]]"
 ---
@@ -20,9 +21,12 @@ Components: `INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material
 # Durations
 - Instantaneous
 
-
-`INPUT[suggester(optionQuery(#Species), useLinks(true)):species_select]`
-
-`INPUT[listSuggester(optionQuery(#Spells), useLinks(true)):spell_select]`
-
-`INPUT[suggester(optionQuery(#Classes), useLinks(true)):class_selector]`
+```meta-bind
+INPUT[suggester(optionQuery(#Species), useLinks(true), title(Species)):species_select]
+```
+```meta-bind
+INPUT[suggester(optionQuery(#Classes), useLinks(true), title(Class)):class_selector]
+```
+```meta-bind
+INPUT[listSuggester(optionQuery(#Spells), useLinks(true), title(Spells)):spell_select]
+```
