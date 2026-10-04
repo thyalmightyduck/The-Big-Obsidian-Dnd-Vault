@@ -11,6 +11,7 @@ componenets:
   - "-"
 exampleProperty: []
 progress:
+progress_value: 0
 ---
 School: `INPUT[inlineSelect(defaultValue(School Of Magic), option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation), option(null,School Of Magic)):school]`
 
@@ -40,9 +41,8 @@ INPUT[multiSelect(option(-), option(Vocal), option(Semantic), option(Material)):
 ```
 
 
-
 ```meta-bind
-INPUT[progressBar:exampleProperty]
+INPUT[progressBar(minValue(0), maxValue(100), addLabels):progress_value]
 ```
 
 
