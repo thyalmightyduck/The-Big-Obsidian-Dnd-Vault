@@ -52,11 +52,11 @@ spells:
         prepared: false
         link: ""
   cantrips:
-    - name: Eldritch Blast
-      link: https://open5e.com/spells/srd_eldritch-blast
     - name: Green-Flame Blade
-      link: ""
+      link: https://5e.tools/spells.html#green-flame%20blade_tce,flstsource:aitfr-avt=1~llk=1~azfyt=1~coa=1~tlk=1~imr=1~rtg=1~sja=1~ttp=1~aitfr-thp=1~aitfr-isf=1~lr=1~hfstcm=1~lk=1~xmts=1~aitfr-dn=1~nrh-tlt=1~aitfr-fcd=1~uthftlh=1~bqgt=1,flopsource:extend
     - name: Lightning Lure
+      link: ""
+    - name: Eldritch Blast
       link: ""
   lvl1:
     total_slots: 0
