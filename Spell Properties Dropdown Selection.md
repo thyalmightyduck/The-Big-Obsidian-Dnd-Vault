@@ -8,4 +8,5 @@ Range: ```INPUT[inlineSelect(option(Self), option(Touch), option(Sight), option(
 
 Components: ```INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material)):componenets]```
 
-```INPUT[textArea]```
+```INPUT[text]```
+
