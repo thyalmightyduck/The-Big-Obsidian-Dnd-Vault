@@ -23,6 +23,6 @@ Components: `INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material
 
 `INPUT[suggester(optionQuery(#Species), useLinks(true)):species_select]`
 
-`INPUT[suggester(optionQuery(#Spells), useLinks(true)):spell_select]`
+`INPUT[listSuggester(optionQuery(#Spells), useLinks(true)):spell_select]`
 
 `INPUT[suggester(optionQuery(#Classes), useLinks(true)):class_selector]`
