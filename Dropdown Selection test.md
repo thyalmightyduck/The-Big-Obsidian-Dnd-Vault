@@ -1,7 +1,7 @@
 ---
 school:
 my_linked_note: "[[Rules/Spells/Level 3/Tiny Servant.md|Tiny Servant]]"
-spell_select: []
+spell_select_cantrips: []
 species_select: "[[Rules/Species/Worg.md|Worg]]"
 class_selector: "[[Rules/Classes/Wizard/Wizard Subclasses/Abjurer Wizard.md|Abjurer Wizard]]"
 ---
@@ -21,11 +21,11 @@ Components: `INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material
 - Instantaneous
 
 ```meta-bind
-INPUT[suggester(optionQuery(#Species), useLinks(true), title(Species)):species_select]
+INPUT[suggester(optionQuery("Rules/Species"), useLinks(true), title(Species)):species_select]
 ```
 ```meta-bind
-INPUT[suggester(optionQuery(#Classes), useLinks(true), title(Class)):class_selector]
+INPUT[suggester(optionQuery("Rules/Classes"), useLinks(true), title(Class)):class_selector]
 ```
 ```meta-bind
-INPUT[listSuggester(optionQuery(#Cantrips), useLinks(true), title(Cantrips)):spell_select_cantrips]
+INPUT[listSuggester(optionQuery("Rules/Spells/Cantrips"), useLinks(true), title(Cantrips)):spell_select_cantrips]
 ```
