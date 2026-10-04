@@ -9,6 +9,8 @@ casting_time: 8 Hours
 range: 15 ft.
 componenets:
   - "-"
+exampleProperty: []
+progress:
 ---
 School: `INPUT[inlineSelect(defaultValue(School Of Magic), option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation), option(null,School Of Magic)):school]`
 
@@ -36,3 +38,11 @@ INPUT[listSuggester(optionQuery("Rules/Spells/Cantrips"), useLinks(true), title(
 ```meta-bind
 INPUT[multiSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]
 ```
+
+
+
+```meta-bind
+INPUT[progressBar:exampleProperty]
+```
+
+
