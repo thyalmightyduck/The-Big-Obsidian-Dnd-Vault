@@ -1,9 +1,9 @@
 ---
 school: Biomancy
 spell_select_cantrips:
-  - "[[Rules/Spells/Cantrips/Aundair's Silent Sanctum.md|Aundair's Silent Sanctum]]"
+  - "[[Blood Bolt]]"
 species_select: "[[Aasimar]]"
-class_selector: "[[Rules/Classes/Apothecary/Apothecary Subclasses/Pathogenist Apothecary.md|Pathogenist Apothecary]]"
+class_selector: "[[Maverick Artificer]]"
 spell_level: Level 3
 casting_time: 8 Hours
 range: 15 ft.
@@ -30,10 +30,10 @@ Components: `INPUT[multiSelect(option(-), option(Vocal), option(Semantic), optio
 INPUT[suggester(optionQuery("Rules/Species"), useLinks(partial), title(Species)):species_select]
 ```
 ```meta-bind
-INPUT[suggester(optionQuery("Rules/Classes"), useLinks(true), title(Class)):class_selector]
+INPUT[suggester(optionQuery("Rules/Classes"), useLinks(partial), title(Class)):class_selector]
 ```
 ```meta-bind
-INPUT[listSuggester(optionQuery("Rules/Spells/Cantrips"), useLinks(true), title(Cantrips)):spell_select_cantrips]
+INPUT[listSuggester(optionQuery("Rules/Spells/Cantrips"), useLinks(partial), title(Cantrips)):spell_select_cantrips]
 ```
 
 ```meta-bind
