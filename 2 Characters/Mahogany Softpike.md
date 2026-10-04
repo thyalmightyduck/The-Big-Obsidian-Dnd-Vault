@@ -53,7 +53,7 @@ spells:
         link: ""
   cantrips:
     - name: Eldritch Blast
-      link: "### Birth Parasite"
+      link: https://open5e.com/spells/srd_eldritch-blast
     - name: Green-Flame Blade
       link: ""
     - name: Lightning Lure
