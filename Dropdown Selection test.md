@@ -1,8 +1,8 @@
 ---
 school: Biomancy
-my_linked_note: "[[Rules/Spells/Level 3/Tiny Servant.md|Tiny Servant]]"
-spell_select_cantrips: []
-species_select: "[[Rules/Species/Worg.md|Worg]]"
+spell_select_cantrips:
+  - "[[Rules/Spells/Cantrips/Aundair's Silent Sanctum.md|Aundair's Silent Sanctum]]"
+species_select: "[[Aasimar]]"
 class_selector: "[[Rules/Classes/Apothecary/Apothecary Subclasses/Pathogenist Apothecary.md|Pathogenist Apothecary]]"
 spell_level: Level 3
 casting_time: 8 Hours
@@ -27,7 +27,7 @@ Components: `INPUT[multiSelect(option(-), option(Vocal), option(Semantic), optio
 - Instantaneous
 
 ```meta-bind
-INPUT[suggester(optionQuery("Rules/Species"), useLinks(true), title(Species)):species_select]
+INPUT[suggester(optionQuery("Rules/Species"), useLinks(partial), title(Species)):species_select]
 ```
 ```meta-bind
 INPUT[suggester(optionQuery("Rules/Classes"), useLinks(true), title(Class)):class_selector]
@@ -45,5 +45,3 @@ INPUT[multiSelect(option(-), option(Vocal), option(Semantic), option(Material)):
 INPUT[progressBar(minValue(0), maxValue(100), addLabels):progress_value]
 ```
 
-
-`VIEW[some text {textExampleProperty}][text]`
