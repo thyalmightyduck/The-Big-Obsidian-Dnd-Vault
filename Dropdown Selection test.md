@@ -1,9 +1,14 @@
 ---
-school:
+school: Biomancy
 my_linked_note: "[[Rules/Spells/Level 3/Tiny Servant.md|Tiny Servant]]"
 spell_select_cantrips: []
 species_select: "[[Rules/Species/Worg.md|Worg]]"
-class_selector: "[[Rules/Classes/Wizard/Wizard Subclasses/Abjurer Wizard.md|Abjurer Wizard]]"
+class_selector: "[[Rules/Classes/Apothecary/Apothecary Subclasses/Pathogenist Apothecary.md|Pathogenist Apothecary]]"
+spell_level: Level 3
+casting_time: 8 Hours
+range: 15 ft.
+componenets:
+  - "-"
 ---
 School: `INPUT[inlineSelect(defaultValue(School Of Magic), option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation), option(null,School Of Magic)):school]`
 
@@ -13,9 +18,7 @@ Casting Time: `INPUT[inlineSelect(option(Action), option(Bonus Action), option(R
 
 Range: `INPUT[inlineSelect(option(Self), option(Touch), option(Sight), option(10 ft.), option(15 ft.), option(20 ft.), option(30 ft.), option(40 ft.), option(50 ft.), option(60 ft.), option(90 ft.), option(100 ft.), option(120 ft.), option(150 ft.), option(180 ft.), option(200 ft.), option(300 ft.), option(500 ft.), option(600 ft.), option(1000 ft.), option(1 Mile), option(5 Miles), option(10 Miles), option(500 Miles), option(unlimited), option(Special)):range]`
 
-Components: `INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material)):componenets]`
-
-`INPUT[text(defaultValue(Material Componenets Here))]`
+Components: `INPUT[multiSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]`, `INPUT[inlineSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]`, `INPUT[inlineSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]` `INPUT[text(defaultValue(Material Componenets Here))]`
 
 # Durations
 - Instantaneous
@@ -28,4 +31,8 @@ INPUT[suggester(optionQuery("Rules/Classes"), useLinks(true), title(Class)):clas
 ```
 ```meta-bind
 INPUT[listSuggester(optionQuery("Rules/Spells/Cantrips"), useLinks(true), title(Cantrips)):spell_select_cantrips]
+```
+
+```meta-bind
+INPUT[multiSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]
 ```
