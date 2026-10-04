@@ -10,7 +10,5 @@
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
   "buttonTemplates": [],
-  "excludedFolders": [
-    "Templates"
-  ]
+  "excludedFolders": []
 }
