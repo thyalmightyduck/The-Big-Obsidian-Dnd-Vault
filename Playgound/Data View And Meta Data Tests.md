@@ -1,9 +1,8 @@
 ---
-school: Biomancy
+school:
 spell_select_cantrips:
-  - "[[Blood Bolt]]"
-species_select: "[[Aasimar]]"
-class_selector: "[[Maverick Artificer]]"
+species_select:
+class_selector:
 spell_level: Level 3
 casting_time: 8 Hours
 range: 15 ft.

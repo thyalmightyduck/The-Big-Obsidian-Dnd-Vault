@@ -8,10 +8,10 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "readableLineLength": false,
   "showLineNumber": false,
   "showInlineTitle": true,
   "propertiesInDocument": "visible",
-  "newFileFolderPath": "7 Magic Items/Weapons/Dazzling Weapons"
+  "newFileFolderPath": "Playgound"
 }
