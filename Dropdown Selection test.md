@@ -46,3 +46,4 @@ INPUT[progressBar(minValue(0), maxValue(100), addLabels):progress_value]
 ```
 
 
+`VIEW[some text {textExampleProperty}][text]`
