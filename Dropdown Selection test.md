@@ -28,5 +28,5 @@ INPUT[suggester(optionQuery(#Species), useLinks(true), title(Species)):species_s
 INPUT[suggester(optionQuery(#Classes), useLinks(true), title(Class)):class_selector]
 ```
 ```meta-bind
-INPUT[listSuggester(optionQuery(#Spells), useLinks(true), title(Spells)):spell_select]
+INPUT[listSuggester(optionQuery(#Spells), useLinks(true), title(title)):spell_select]
 ```
