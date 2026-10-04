@@ -185,6 +185,9 @@ attacks:
     damage_type: slashing
     properties:
       - light
+statblock: true
+image: "[[Mahogony BGR PNG.png]]"
+atlas-type: statblock
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
