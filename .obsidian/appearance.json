@@ -1,8 +1,7 @@
 {
   "enabledCssSnippets": [
     "S - Encoded Icons",
-    "supercharged-links-gen",
-    "horizontal multiselect"
+    "supercharged-links-gen"
   ],
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
