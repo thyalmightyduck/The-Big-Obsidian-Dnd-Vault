@@ -1,8 +1,7 @@
 ---
 school:
 my_linked_note: "[[Rules/Spells/Level 3/Tiny Servant.md|Tiny Servant]]"
-spell_select:
-  - "[[Rules/Spells/Level 3/Tongues.md|Tongues]]"
+spell_select: []
 species_select: "[[Rules/Species/Worg.md|Worg]]"
 class_selector: "[[Rules/Classes/Wizard/Wizard Subclasses/Abjurer Wizard.md|Abjurer Wizard]]"
 ---
@@ -28,5 +27,5 @@ INPUT[suggester(optionQuery(#Species), useLinks(true), title(Species)):species_s
 INPUT[suggester(optionQuery(#Classes), useLinks(true), title(Class)):class_selector]
 ```
 ```meta-bind
-INPUT[listSuggester(optionQuery(#Spells), useLinks(true), title(Spells)):spell_select]
+INPUT[listSuggester(optionQuery(#Cantrips), useLinks(true), title(Cantrips)):spell_select]
 ```
