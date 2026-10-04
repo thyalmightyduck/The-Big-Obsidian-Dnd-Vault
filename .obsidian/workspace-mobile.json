@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Characters/Mahogany Softpike.md",
-                "mode": "source",
+                "file": "Playgound/Data View And Meta Data Tests.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mahogany Softpike"
+              "title": "Data View And Meta Data Tests"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "f4ae903fabf46e5c",
   "lastOpenFiles": [
+    "2 Characters/Mahogany Softpike.md",
     "Templates/Copy Multiple Properties Template.md",
     "Rules/Items/Adventuring Gear/Scholar's Pack.md",
     "Playgound/Untitled.base",
@@ -243,7 +244,6 @@
     "Rules/Spells/Level 6/Create Homunculus.md",
     "Rules/Spells/Level 6/Contingency.md",
     "Rules/Spells/Level 6/Black Well.md",
-    "Rules/Spells/Level 5/Mordenkainen's Lucubration.md",
     "PDFs/Spells/Level 6/Earth Worm.pdf",
     "PDFs/Spells/Level 6",
     "PDFs/Spells",
