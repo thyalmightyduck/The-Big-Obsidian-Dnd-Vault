@@ -15,4 +15,6 @@ Components: `INPUT[inlineSelect(option(Vocal), option(Semantic), option(Material
 
 # Durations
 - Instantaneous
-- 
+
+
+`INPUT[suggester(optionQuery(#notes), useLinks(value:true)):my_linked_note]`
