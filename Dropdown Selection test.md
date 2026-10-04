@@ -47,3 +47,22 @@ INPUT[progressBar(minValue(0), maxValue(100), addLabels):progress_value]
 
 `= this.species_select`
 
+```meta-bind-button
+label: 📄 Create Note & Copy Property
+icon: plus-circle
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: templaterCreateNote
+    templateFile: Templates/Template Test.md
+    folderPath: /
+    fileName: Character Maker Test
+    openNote: true
+    openIfAlreadyExists: false
+
+```
