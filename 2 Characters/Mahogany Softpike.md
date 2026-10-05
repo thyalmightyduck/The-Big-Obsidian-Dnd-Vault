@@ -1,7 +1,7 @@
 ---
 dnd_character: true
 class: "[[Warlock]]"
-level: 7
+level: 8
 proficiency_bonus: 3
 ac: 15
 race: "[[Shifter (Swiftstride)]]"
@@ -13,7 +13,7 @@ hit_dice:
   used: 0
   die: d8
 hp:
-  current: 33
+  current: 35
 abilities:
   str: 9
   dex: 18
