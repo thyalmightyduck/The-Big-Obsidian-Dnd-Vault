@@ -254,13 +254,20 @@ atlas-type: statblock
 
 
 #### Level 1 Eldritch Invocations
- **Undying Servitude:**
- **Lessons of the First Ones:**
- **Armor of Shadows :**
- **Parasitic Leech:**
- **Pact of the Blade:**
- **Thirsting Blade:**
- **Hexshredder:**
+ **Undying Servitude:** You can cast [[animate dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
+ 
+ **Lessons of the First Ones:** You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
+Repeatable. You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+
+ **Parasitic Leech:** When you score a critical hit with your parasitic weapon or reduce a creature to 0 hit points with it, you gain a number of temporary hit points equal to the number rolled on the weapon's damage dice. If you later gain the Pact of the Blade feature, you gain this benefit to critical hits scored with your pact weapon.
+ 
+ **Pact of the Blade:** As a [[Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[Spellcasting Focus]].
+Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+Your bond with the weapon ends if you use this feature's [[Bonus Action]] again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+
+ **Thirsting Blade:** You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [[Attack action]] on your turn.
+ 
+ **Hexshredder:** Your fingers grow into bestial claws, which you can use to make unarmed strikes that deal 1d6 points of slashing damage. You may add your Charisma modifier instead of your Strength modifier to attack and damage rolls made with these unarmed strikes. Your unarmed strikes count as pact weapons, in addition to any melee weapons you have chosen, and as light weapons for the purposes of two-weapon fighting.
 
 # Inventory
 
