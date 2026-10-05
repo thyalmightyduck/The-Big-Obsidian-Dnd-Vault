@@ -186,7 +186,7 @@ attacks:
   - name: Pact Blade
     ability: "+8"
     proficient: false
-    damage: 1d6+5
+    damage: 1d6+8
     damage_type: slashing
     properties:
       - light
