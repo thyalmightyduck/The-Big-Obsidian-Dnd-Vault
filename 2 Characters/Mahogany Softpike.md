@@ -369,3 +369,8 @@ bonus_actions:
 - Aphons Hammer 10% discount-Cum Man 
 - Skeletons I've Created-7
 - Store House Gives 200 Every 2 Weeks
+
+### Skeleton Army x20
+- 260 HP
+- 14 ac
+- dmg 58 9d12 half at half hp `dice: 9d12`
