@@ -3,46 +3,31 @@
 layout: Basic 5e Layout
 image: [[Swarm of Skeletons BGR PNG.png]]
 name: Swarm of Skeletons
-size: Medium
-type: [[Humanoid]]
+size: Huge Swarm of Medium
+type: Undead
 subtype: 
-alignment: Neutral
-ac: 14
-hp: 52
-hit_dice: 8d8+16
-speed: 30ft
-stats: [11, 18, 14, 11, 12, 14]
-fage_stats: 
-saves: 
-  - 
-  - 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: [[Charmed]]
-senses: [[Darkvision]] 60Ft, Passive Perception 11
-languages: [[Common]] And 3 More
-cr: 3
-spells:
-  - The doppelganger casts [[Detect Thoughts]], requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).:
-  - At Will: [[Detect Thoughts]]
+alignment: Lawful Evil
+ac: 13 (Armor Scraps)
+hp: 102
+hit_dice: 12d12+24
+speed: 30 ft.
+stats: [16, 14, 15, 6, 8, 5]
+damage_resistances: Piercing, Slashing
+damage_immunities: Pooison
+condition_immunities: [[Charmed]], [[Exhaustion]], [[Frightened]], [[Grappled]], [[Paralyzed]], [[Petrified]], [[Poisoned]], [[Prone]], [[Restrained]], [[Stunned]]
+senses: [[Darkvision]] 60Ft, Passive Perception 9, Passive Insight 9, Passive Stealth 12
+languages: Understands Common but can't speak
+cr: 6
 traits:
-  - name: 
-    desc:   
+  - name: Swarm.
+    desc: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a single member of the swarm. The swarm can't regain hit points or gain temporary hit points.
+  - name: Turn Resistance.
+    desc: The swarm has advantage on saving throws against any effect that turns undead.    
 actions:
   - name: "Multiattack"
-    desc: "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
-  - name: "Slam"
-    desc: "_Melee [[Attack Roll]]:_ +6 (with [[Advantage]] during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
-  - name: "Unsettling Visage (Recharge 6)"
-  - desc: "_Wisdom [[Saving Throw]]:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
-bonus_actions:
-  - name: "Shape-Shift"
-    desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
-reactions:
-  - name: 
-    desc: 
-legendary_actions:
-  - name: 
-    desc:   
+    desc: "The swarm makes two weapon attacks."
+  - name: "Shortsword."
+    desc: "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 14 (4d6) piercing damage, or half that if the swarm has half of its hit points or fewer."
+  - name: "Shortbow."
+  - desc: "_Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 15 (4d6) piercing damage, or half that if the swarm has half of its hit points or fewer"   
 ```
