@@ -6,18 +6,21 @@
   let fm = cache?.frontmatter;
 
   // 2. Extract your properties (replace the names on the right with your actual YAML keys)
-  let propA = fm?.spell_select_cantrips || "No Project ID";
-  let propB = fm?.species_select || "No Status";
-  let propC = fm?.class_selector || "No Client";
+  let propA = fm?.species_select || "No Project ID";
+  let propB = fm?.class_selector || "No Status";
+  let propC = fm?.background_selector || "No Client";
 
   // 3. Output them cleanly as individual YAML lines
-  tR += `spell_select_cantrips: "${propA}"\n`;
-  tR += `species_select: "${propB}"\n`;
-  tR += `client: "${propC}"\n`;
+  tR += `species_select: "${propA}"\n`;
+  tR += `class_selector: "${propB}"\n`;
+  tR += `background_selector: "${propC}"\n`;
 -%>
 ---
 
-
+# Character Info:
+Species: `= this.species_select`
+Class: `= this.class_selector`
+Background: `= this.background_selector`
 
 
 

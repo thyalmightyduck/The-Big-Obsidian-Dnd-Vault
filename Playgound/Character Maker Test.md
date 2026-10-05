@@ -31,7 +31,7 @@ id: ""
 hidden: false
 actions:
   - type: templaterCreateNote
-    templateFile: Templates/Template Test.md
+    templateFile: Templates/Copy Multiple Properties Template.md
     folderPath: /
     fileName: Character Maker Test
     openNote: true
