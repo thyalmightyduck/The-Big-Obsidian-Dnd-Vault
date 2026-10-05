@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Mahogany Softpike",
+    "imagePath": "atlas-vtt/assets/Mahogany_Softpike_1791156216940_ey1bsj.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Mahogany_Softpike_1791156216940_ey1bsj-d501694c.webp",
+    "id": "token-1791156216973-bxcgdj",
+    "createdAt": 1791156216973,
+    "modifiedAt": 1791156321910
+  }
+}

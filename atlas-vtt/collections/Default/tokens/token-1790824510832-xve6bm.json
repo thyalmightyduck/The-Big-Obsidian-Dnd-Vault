@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": true,
+    "name": "Sock Hydra",
+    "imagePath": "atlas-vtt/assets/Sock_Hydra_1790824510472_s8b6y5.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Sock Hydra.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Sock_Hydra_1790824510472_s8b6y5-39ffeb68.webp",
+    "type": "token",
+    "id": "token-1790824510832-xve6bm",
+    "createdAt": 1790824510832,
+    "modifiedAt": 1790824510832
+  }
+}

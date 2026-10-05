@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": false,
+    "name": "Beast of the Sky",
+    "imagePath": "atlas-vtt/assets/Beast_of_the_Sky_1790895689902_wsqtij.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Beast of the Sky.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Beast_of_the_Sky_1790895689902_wsqtij-921efc5a.webp",
+    "type": "token",
+    "id": "token-1790895689972-70ufph",
+    "createdAt": 1790895689972,
+    "modifiedAt": 1790895689972
+  }
+}

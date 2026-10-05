@@ -1,0 +1,16 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": false,
+    "name": "Deleruim Dreg",
+    "imagePath": "atlas-vtt/assets/Deleruim_Dreg_1790816522994_egbe5h.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Deleruim_Dreg_1790816522994_egbe5h-c15282e7.webp",
+    "type": "token",
+    "id": "token-1790816523064-y4bw2g",
+    "createdAt": 1790816523064,
+    "modifiedAt": 1790823687551,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Delerium Dreg.md"
+  }
+}

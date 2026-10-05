@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": false,
+    "name": "Pyknic Maunder",
+    "imagePath": "atlas-vtt/assets/Pyknic_Maunder_1790823854873_eux4ji.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Pyknic Maunder.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Pyknic_Maunder_1790823854873_eux4ji-0da934cf.webp",
+    "type": "token",
+    "id": "token-1790823855279-sywkue",
+    "createdAt": 1790823855279,
+    "modifiedAt": 1790823855279
+  }
+}

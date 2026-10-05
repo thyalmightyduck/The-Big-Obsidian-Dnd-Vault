@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": false,
+    "name": "Githzerai Uniter",
+    "imagePath": "atlas-vtt/assets/Githzerai_Uniter_1790820905922_5yhf7w.webp",
+    "size": 1,
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Githzerai_Uniter_1790820905922_5yhf7w-fbeb926b.webp",
+    "type": "token",
+    "id": "token-1790820906021-lk03jy",
+    "createdAt": 1790820906021,
+    "modifiedAt": 1790823709731,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Githzerai Uniter.md"
+  }
+}

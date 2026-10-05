@@ -5,5 +5,17 @@
   "tags": [],
   "collection": "Default",
   "createdAt": 1790710644361,
-  "modifiedAt": 1790710644361
+  "modifiedAt": 1790710644361,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "Colossal Snail   Hermitage   Round Shell   Whole   22x16",
+    "mapFilePath": "atlas-vtt/assets/Colossal_Snail___Hermitage___Round_Shell___Whole___22x16_1790710644333_hg5il5.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Colossal_Snail___Hermitage___Round_Shell___Whole___22x16_1790710644333_hg5il5-33501089.webp",
+    "id": "map-1790710644361-2ml3s4",
+    "createdAt": 1790710644361,
+    "modifiedAt": 1790710644361
+  }
 }

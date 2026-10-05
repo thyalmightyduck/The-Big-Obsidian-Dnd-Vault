@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "uid": "3747b71b-9b30-4561-a98e-533334b0c02a",
+  "version": 1,
+  "description": "Test collection",
+  "tags": {},
+  "settings": {
+    "conditions": [],
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": false
+      }
+    ]
+  },
+  "createdAt": 1791219398167,
+  "modifiedAt": 1791219398347
+}

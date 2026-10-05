@@ -1,3 +1,13 @@
 {
-  "mapPath": "atlas-vtt/collections/Default/scenes/Colossal Snail   Hermitage   Round Shell   Whole   22x16.atlasmap"
+  "mapPath": "atlas-vtt/collections/Default/scenes/Colossal Snail   Hermitage   Round Shell   Whole   22x16.atlasmap",
+  "atlasRecord": {
+    "format": 1,
+    "type": "scene",
+    "name": "Colossal Snail   Hermitage   Round Shell   Whole   22x16",
+    "collection": "Default",
+    "tags": [],
+    "id": "scene-1790710677545-8inf3q",
+    "createdAt": 1790710677545,
+    "modifiedAt": 1790710677545
+  }
 }

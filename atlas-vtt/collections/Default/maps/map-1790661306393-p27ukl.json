@@ -5,5 +5,17 @@
   "tags": [],
   "collection": "Default",
   "createdAt": 1790661306393,
-  "modifiedAt": 1790661344678
+  "modifiedAt": 1790661344678,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "HillsideAltar",
+    "mapFilePath": "atlas-vtt/assets/HillsideAltar_1790661306379_xjtuyq.webp",
+    "collection": "Default",
+    "tags": [],
+    "id": "map-1790661306393-p27ukl",
+    "createdAt": 1790661306393,
+    "modifiedAt": 1790661344678,
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/HillsideAltar_1790661306379_xjtuyq-0895ecf7.webp"
+  }
 }

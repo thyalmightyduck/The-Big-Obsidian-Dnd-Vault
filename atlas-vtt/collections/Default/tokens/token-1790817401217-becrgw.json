@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": false,
+    "name": "Gibbering Mouther",
+    "imagePath": "atlas-vtt/assets/Gibbering_Mouther_1790817400794_tsl6um.webp",
+    "size": 1,
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Gibbering_Mouther_1790817400794_tsl6um-c716ccc8.webp",
+    "type": "token",
+    "id": "token-1790817401217-becrgw",
+    "createdAt": 1790817401217,
+    "modifiedAt": 1790822623232,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Gibbering Mouther.md"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": false,
+    "name": "Giant Insect Monster",
+    "imagePath": "atlas-vtt/assets/Giant_Insect_Monster_1790898469110_16oxzf.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Giant Insect Monster.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Giant_Insect_Monster_1790898469110_16oxzf-eabdeb5a.webp",
+    "type": "token",
+    "id": "token-1790898469177-l61yys",
+    "createdAt": 1790898469177,
+    "modifiedAt": 1790898469177
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "showRing": false,
+    "name": "Eldritch Crawler",
+    "imagePath": "atlas-vtt/assets/Eldritch_Crawler_1790816656949_gm1onb.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Eldritch_Crawler_1790816656949_gm1onb-9aa07e77.webp",
+    "type": "token",
+    "id": "token-1790816657377-t5skvj",
+    "createdAt": 1790816657377,
+    "modifiedAt": 1790823693719,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Eldritch Crawler.md"
+  }
+}
