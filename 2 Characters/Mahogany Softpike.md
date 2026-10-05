@@ -373,7 +373,7 @@ bonus_actions:
 ### Skeleton Army x20
 - 260 HP
 - 14 ac
-- dmg 58 9d12 half at half hp `dice: 9d12`
+- dmg 58 9d12 half at half hp `dice: 9d12` +7
 
 21 me
 6 Army
