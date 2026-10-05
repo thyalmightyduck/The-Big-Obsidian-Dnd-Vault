@@ -152,10 +152,10 @@ traits:
   - Undying Servitude (Invocation)
   - Lessons of the First Ones (Invocation)
   - Armor of Shadows (Invocation
-  - Armor of Shadows (Invocation)
   - Parasitic Leech (Invocation)
   - Thirsting Blade (Invocation)
   - Hexshredder (Invocation)
+  - Pact of the Blade (Invocation)
   - Magical Cunning
   - Shifting
   - Symbiotic Reinforcement
@@ -254,10 +254,13 @@ atlas-type: statblock
 
 
 #### Level 1 Eldritch Invocations
- **Lesson Of The First One:** You have received knowledge from an elder entity of the multiverse, allowing you to gain one [[Origin feat]] of your choice.
- *Repeatable.* You can gain this invocation more than once. Each time you do so, choose a different [[Origin feat]]. 
- **Armor Of Shadows:** You can cast [[Mage Armor]] on yourself without expending a spell slot
-**Undying Servitude:** You can cast [[animate dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a [[Long Rest]].
+ **Undying Servitude:**
+ **Lessons of the First Ones:**
+ **Armor of Shadows :**
+ **Parasitic Leech:**
+ **Pact of the Blade:**
+ **Thirsting Blade:**
+ **Hexshredder:**
 
 # Inventory
 
