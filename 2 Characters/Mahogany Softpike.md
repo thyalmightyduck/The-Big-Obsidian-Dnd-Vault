@@ -269,6 +269,9 @@ Your bond with the weapon ends if you use this feature's [[Bonus Action]] agai
  
  **Hexshredder:** Your fingers grow into bestial claws, which you can use to make unarmed strikes that deal 1d6 points of slashing damage. You may add your Charisma modifier instead of your Strength modifier to attack and damage rolls made with these unarmed strikes. Your unarmed strikes count as pact weapons, in addition to any melee weapons you have chosen, and as light weapons for the purposes of two-weapon fighting.
 
+#### Goob
+![[Parasitic Ooze]]
+
 # Inventory
 
 | Name                                              | QTY | Weight | Cost     | Active | Notes       |     |
