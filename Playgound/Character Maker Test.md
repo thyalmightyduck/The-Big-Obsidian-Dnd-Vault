@@ -1,7 +1,7 @@
 ---
-species_select: "[[AArakocra]]"
-class_selector: "[[Alienist Apothecary]]"
-background_selector: "[[Amnesiac]]"
+species_select: "[[Bugbear]]"
+class_selector: "[[The Lantern Warlock]]"
+background_selector: "[[Athlete]]"
 ---
 ```meta-bind
 INPUT[suggester(optionQuery("Rules/Species"), useLinks(partial), title(Species)):species_select]
@@ -13,7 +13,7 @@ INPUT[suggester(optionQuery("Rules/Classes"), useLinks(partial), title(Class)):c
 
 
 ```meta-bind
-INPUT[suggester(optionQuery("Rules/Backgrounds"), useLinks(partial), title(Class)):background_selector]
+INPUT[suggester(optionQuery("Rules/Backgrounds"), useLinks(partial), title(background)):background_selector]
 ```
 
 

@@ -161,6 +161,8 @@ traits:
   - Symbiotic Reinforcement
   - Liquefied Body
   - Birth Parasite
+  - Inscrutable D on insight on me
+  - Unremarkable
 attacks:
   - name: Eldritch Blast
     ability: "+6"
@@ -193,7 +195,7 @@ image: "[[Mahogony BGR PNG.png]]"
 atlas-type: statblock
 ---
 # Mahogany Softpike
-### [[The Parasite Warlock]] Level 7 [[Shifter (Swiftstride)]]
+### [[The Parasite Warlock]] Level 8 [[Shifter (Swiftstride)]]
 > [!infobox]
 > # Mahogany Softpike
 > ![[Mahogony BGR PNG.png|cover hsmall]]
