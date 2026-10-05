@@ -13,7 +13,7 @@ hit_dice: 12d12+24
 speed: 30 ft.
 stats: [16, 14, 15, 6, 8, 5]
 damage_resistances: Piercing, Slashing
-damage_immunities: Pooison
+damage_immunities: Poison
 condition_immunities: [[Charmed]], [[Exhaustion]], [[Frightened]], [[Grappled]], [[Paralyzed]], [[Petrified]], [[Poisoned]], [[Prone]], [[Restrained]], [[Stunned]]
 senses: [[Darkvision]] 60Ft, Passive Perception 9, Passive Insight 9, Passive Stealth 12
 languages: Understands Common but can't speak
