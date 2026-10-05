@@ -345,7 +345,7 @@ cr:
 spells:
   - Spell Casting Modifier +5, Spell Save DC 16, Spell Attack Bonus +6:
   - Cantrips: [[Eldritch Blast]], [[Green-Flame Blade]], [[Lightning Lure]],
-  - 2/day: [[Hex]], [[Enthrall]], [[Hold Person]], [[Spider Climb]], [[Counterspell]], [[Remove Curse]], [[Summon Undead]], [[Zone of Amicability]] 
+  - 2/day: [[Hex]], [[Enthrall]], [[Hold Person]], [[Spider Climb]], [[Counterspell]], [[Remove Curse]], [[Summon Undead]], [[Zone of Amicability]], [[Blood Worm]] 
   - Parasite Spells: [[Heroism]], [[Sanctuary]], [[Enhance Ability]], [[Enlarge Reduce]], [[Haste]], [[Spirit Guardians]], [[Evard's Black Tentacles]], [[Freedom Of Movement]]  
 traits:
   - name: "Pact Magic"
