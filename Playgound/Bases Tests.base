@@ -1,6 +1,9 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.path.startsWith("Rules/Feat")
     order:
       - file.name
   - type: table

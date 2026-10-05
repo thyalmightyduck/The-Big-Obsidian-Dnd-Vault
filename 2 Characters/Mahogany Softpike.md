@@ -100,6 +100,9 @@ spells:
       - name: Evard's Black Tentacles (Parasite)
         prepared: false
         link: ""
+      - name: Blood Worm
+        prepared: false
+        link: ""
       - name: Freedom of Movement (Parasite)
         prepared: false
         link: ""
