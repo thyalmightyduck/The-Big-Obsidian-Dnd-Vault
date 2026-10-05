@@ -368,3 +368,4 @@ bonus_actions:
 # Notes
 - Aphons Hammer 10% discount-Cum Man 
 - Skeletons I've Created-7
+- Store House Gives 200 Every 2 Weeks
