@@ -1,3 +1,7 @@
+---
+aliases:
+  - Thieves' Tools
+---
 *Tool*
 *25 Gp, 1 Lbs*
 

@@ -5,7 +5,7 @@ tags:
 ## Grinner
 
 - **Skill Proficiencies:** Deception, Performance
-- **Tool Proficiencies:** One type of musical instrument, *thieves' tools*
+- **Tool Proficiencies:** One type of musical instrument, *[[Thieves Tools|thieves' tools]]*
 - **Equipment:** A set of *fine clothes*, a *disguise kit*, a musical instrument of your choice, a gold-plated ring depicting a smiling face, and a *pouch* containing 15 gp
 
 #### Feature: Ballad of the Grinning Fool

@@ -5,7 +5,7 @@ tags:
 ## Baldur's Gate Criminal
 
 - **Skill Proficiencies:** Deception, Stealth
-- **Tool Proficiencies:** One type of gaming set, *thieves' tools*
+- **Tool Proficiencies:** One type of gaming set, *[[Thieves Tools|thieves' tools]]*
 - **Equipment:** A *crowbar*, a set of dark *common clothes* including a hood, and a belt *pouch* containing 15 gp
 
 #### Feature: Criminal Contact

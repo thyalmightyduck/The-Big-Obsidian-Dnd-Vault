@@ -1,6 +1,9 @@
 ---
 tags:
   - spells
+  - Level4
+  - conjuration
+  - BoET
 ---
 #### Lunar Transfer
 *Level 4 Conjuration*
@@ -10,7 +13,7 @@ ___
 - **Components:** V, S, M (an opal worth 500 gp, which the spell consumes)
 - **Duration:** Instantaneous
 ---
-This spell instantly summons a glittering moonbeam that transports one sleeping creature or object of your choice that you can see within range to a destination you select. If you target an unwilling creature, it gains a Wisdom saving throw. On a successful save, the spell fails, and the caster appears in the target location instead. A transferred creature wakes up as soon as it arrives at its destination. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature. The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether the creature or object arrives there successfully.
+This spell instantly summons a glittering moonbeam that transports one sleeping creature or object of your choice that you can see within range to a destination you select. If you target an unwilling creature, it gains a Wisdom [[saving throw]]. On a successful save, the spell fails, and the caster appears in the target location instead. A transferred creature wakes up as soon as it arrives at its destination. If you target an object, it must be able to fit entirely inside a 10-foot [[cube]], and it can't be held or carried by an unwilling creature. The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether the creature or object arrives there successfully.
 
 The GM rolls d20 and consults the Lunar Transfer table below. The following definitions will help:
 
@@ -20,7 +23,7 @@ The GM rolls d20 and consults the Lunar Transfer table below. The following defi
 - Seen Casually is someplace you have seen more than once but with which you aren't very familiar.
 - Viewed Once is a place you have seen once, possibly using magic.
 - Description is a place whose location and appearance you know through someone else's description, perhaps from a map.
-- False Destination is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or perhaps you are attempting to teleport to a familiar location that no longer exists.
+- False Destination is a place that doesn't exist. Perhaps you tried to scry an [[enemy]]'s sanctum but instead viewed an illusion, or perhaps you are attempting to teleport to a familiar location that no longer exists.
 
 ***On Target.*** The target creature or object appears where you want it to.
 
@@ -39,3 +42,4 @@ The GM rolls d20 and consults the Lunar Transfer table below. The following defi
 | 14-17 |    On target    |  On target |   On target   |   On target   |  On target  |  Off target |      Similar      |
 | 18-19 |    On target    |  On target |   On target   |   On target   |  On target  |  On target  |      Similar      |
 |   20  |    On target    |  On target |   On target   |   On target   |  On target  |  On target  |      Similar      |
+**Classes:** [[Druid]], [[Sorcerer]], [[Wizard]]

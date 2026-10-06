@@ -7,5 +7,5 @@ tags:
 - **Ability Scores:** Dexterity, Intelligence, Charisma
 - **Feat:** Savage Attacker
 - **Skill Proficiencies:** Acrobatics and Stealth
-- **Tool Proficiencies:** *Thieves' Tools*
-- **Equipment:** Choose A or B: (A) 2 Daggers, *Thieves' Tools*, *Caltrops*, *Costume*, *Grappling Hook*, *Iron Spikes*, *Mirror*, 2 *Pouches*, *Rope*, *Traveler's Clothes*, 3 GP; or (B) 50 GP
+- **Tool Proficiencies:** *[[Thieves Tools|Thieves' Tools]]*
+- **Equipment:** Choose A or B: (A) 2 Daggers, *[[Thieves Tools|Thieves' Tools]]*, *Caltrops*, *Costume*, *Grappling Hook*, *Iron Spikes*, *Mirror*, 2 *Pouches*, *Rope*, *Traveler's Clothes*, 3 GP; or (B) 50 GP

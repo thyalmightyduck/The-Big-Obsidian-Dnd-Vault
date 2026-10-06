@@ -9,7 +9,6 @@ range: 15 ft.
 componenets:
   - "-"
 exampleProperty: []
-progress:
 progress_value: 0
 ---
 School: `INPUT[inlineSelect(defaultValue(School Of Magic), option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation), option(null,School Of Magic)):school]`
@@ -39,10 +38,6 @@ INPUT[listSuggester(optionQuery("Rules/Spells/Cantrips"), useLinks(partial), tit
 INPUT[multiSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]
 ```
 
-
-```meta-bind
-INPUT[progressBar(minValue(0), maxValue(100), addLabels):progress_value]
-```
 
 `= this.species_select`
 

@@ -21,4 +21,4 @@ tags:
 
 ***Grit.*** You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier.
 
-***Tuktuk Cunning.*** You have proficiency with *thieves' tools*.
+***Tuktuk Cunning.*** You have proficiency with *[[Thieves Tools|thieves' tools]]*.

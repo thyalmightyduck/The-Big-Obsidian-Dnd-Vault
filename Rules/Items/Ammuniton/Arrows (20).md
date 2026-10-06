@@ -1,3 +1,7 @@
+---
+aliases:
+  - 20 arrows
+---
 *Ammunition*
 *1 GP, 1 lb.*
 - - - 

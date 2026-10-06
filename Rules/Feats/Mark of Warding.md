@@ -8,7 +8,7 @@ Dragonmark Feat (Prerequisite: Eberron Campaign, Can't Have Another Dragonmark F
 
 You gain the following benefits.
 
-***Warder's Intuition.*** When you make an Intelligence (Investigation) check or an ability check using *Thieves' Tools*, you can roll 1d4 and add the number rolled to the ability check.
+***Warder's Intuition.*** When you make an Intelligence (Investigation) check or an ability check using *[[Thieves Tools|Thieves' Tools]]*, you can roll 1d4 and add the number rolled to the ability check.
 
 ***Wards and Seals.*** You always have the *Alarm* and *Mage Armor* spells prepared. You can cast each spell once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest.
 

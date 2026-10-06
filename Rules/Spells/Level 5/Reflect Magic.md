@@ -1,0 +1,11 @@
+#### Reflect Magic
+*Level 5 Abjuration*
+___
+- **Casting Time:** Reaction, which you take when you are targeted by, or within the area of, a spell
+- **Range:** Self
+- **Components:** V, S, M (a polished silver mirror worth 100+ GP, which this spell consumes)
+- **Duration:** Instantaneous
+---
+Shimmering interconnected hexagons momentarily appear around you, disrupting or redirecting a spell targeting you. The creature casting the spell makes an Intelligence saving throw. On a successful save, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If the spell was cast with a spell slot, the slot is expended. On a failed save, you deflect the spell, choosing a new target, targets, or area for it as if you had cast the spell from your space. Once redirected, the spell is resolved as normal.
+
+**Classes:** Bard, Magus, Sorcerer, Wizard

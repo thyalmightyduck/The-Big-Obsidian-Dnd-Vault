@@ -1,7 +1,8 @@
 ---
-{}
+aliases:
+  - Longswords
 ---
-**Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon
+**Weapon:** 1d8 Slashing [[Martial Weapons|Martial Weapon]], [[Melee Weapons|Melee Weapon]]
 **Properties:** Versatile (1d10)
 15 GP 3lbs
 **Mastery:** [[Sap]]

@@ -116,7 +116,7 @@ When you join the College of the Road at 3rd level, you gain a few useful profic
 - You gain proficiency with a Gaming Set of your choice.
 - You gain proficiency with a martial weapon of your choice
 - You gain proficiency with Herbalism Kits
-- You gain proficiency with Thieves' Tools
+- You gain proficiency with [[Thieves Tools|Thieves' Tools]]
 - You gain proficiency with a skill of your choice
 - You learn two languages of your choice
 

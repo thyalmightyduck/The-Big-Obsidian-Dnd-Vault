@@ -1,9 +1,13 @@
 ---
 tags:
   - magicitem
+  - variant
+  - rare
+  - attunement
+  - EFA
 ---
-*Weapon [[Laser Rifle]], Rare (Requires Attunement)*
-**Weapon:** 3d8 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm
+*Weapon [[Laser Rifle]], Rare (Requires [[Attunement]])*
+**Weapon:** 3d8 Radiant, Futuristic, [[Martial Weapons|Martial Weapon]], Ranged Weapon, Firearm
 **Properties:** Ammunition (100/300 ft.; Energy Cell), Reload (30 shots), Two‑Handed
 7 lb.
 **Mastery:** Slow
@@ -16,7 +20,7 @@ The weapon has 4 charges. You can take a [[Reaction]] immediately after being 
 
 **Ammunition.** Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at the GM's discretion.
 
-**Reload.** You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [[Bonus Action]].
+**Reload.** You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an [[action]] or a [[Bonus Action]].
 
 **Two-Handed.** A Two-Handed weapon requires two hands when you attack with it.
 

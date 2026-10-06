@@ -5,8 +5,8 @@ tags:
 ## Treasure Seeker
 
 - **Skill Proficiencies:** Investigation and one choice from the following: Stealth, Insight, or Perception
-- **Tool Proficiencies:** Thieves' tools, cartographer's tools
-- **Equipment:** *Thieves' tools*, a set of dark clothes with a hood and a face covering. A *signet ring* of a fake lord, a fake identification, a set of weighted dice, and a deck of cards
+- **Tool Proficiencies:** [[Thieves Tools|Thieves' tools]], cartographer's tools
+- **Equipment:** *[[Thieves Tools|Thieves' tools]]*, a set of dark clothes with a hood and a face covering. A *signet ring* of a fake lord, a fake identification, a set of weighted dice, and a deck of cards
 
 #### Treasure Hunters' Secrets
 

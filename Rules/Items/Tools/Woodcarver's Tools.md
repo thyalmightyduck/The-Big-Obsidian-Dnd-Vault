@@ -1,3 +1,7 @@
+---
+aliases:
+  - Woodcarvers Tools
+---
 *Artisan’s Tools*
 *1 GP, 5 Lbs.*
 

@@ -5,7 +5,7 @@ tags:
 ## Baldur's Gate Urchin
 
 - **Skill Proficiencies:** Sleight of Hand, Stealth
-- **Tool Proficiencies:** *Disguise kit*, *Thieves' tools*
+- **Tool Proficiencies:** *Disguise kit*, *[[Thieves Tools|Thieves' tools]]*
 - **Equipment:** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of *common clothes*, and a belt *pouch* containing 10 gp
 
 #### Feature: City Secrets

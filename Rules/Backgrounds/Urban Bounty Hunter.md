@@ -5,7 +5,7 @@ tags:
 ## Urban Bounty Hunter
 
 - **Skill Proficiencies:** Choose two from among Deception, Insight, Persuasion, and Stealth
-- **Tool Proficiencies:** Choose two from among one type of gaming set, one musical instrument, and *thieves' tools*
+- **Tool Proficiencies:** Choose two from among one type of gaming set, one musical instrument, and *[[Thieves Tools|thieves' tools]]*
 - **Equipment:** A set of clothes appropriate to your duties and a *pouch* containing 20 gp
 
 #### Feature: Ear to the Ground

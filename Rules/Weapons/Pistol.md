@@ -1,5 +1,6 @@
 ---
-{}
+aliases:
+  - Pistols
 ---
 **Weapon:** 1d10 Piercing, [[Martial Weapons]], [[Ranged Weapons]], [[Firearms]]
 **Properties:** Ammunition (Range 30/90 Ft.; [[Firearm Bullets]]), Loading

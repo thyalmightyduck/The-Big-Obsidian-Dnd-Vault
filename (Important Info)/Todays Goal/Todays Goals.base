@@ -1,0 +1,18 @@
+views:
+  - type: kanban
+    name: View
+    filters:
+      and:
+        - file.folder == "(Important Info)/Todays Goal"
+    groupBy:
+      property: Progress
+      direction: ASC
+    groupOrder:
+      - - Haven't Started
+      - - In Progress
+      - - Finished
+    order:
+      - file.name
+    columnWidth: 200
+    imageAspectRatio: 1.1
+    imageFit: contain

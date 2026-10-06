@@ -7,5 +7,5 @@ tags:
 - **Ability Scores:** Strength, Constitution, Intelligence
 - **Feat:** Mark of Warding
 - **Skill Proficiencies:** Arcana and Investigation
-- **Tool Proficiencies:** *Thieves' Tools*
-- **Equipment:** Choose A or B: (A) *Thieves' Tools*, *Fine Clothes*, 10 GP; or (B) 50 GP
+- **Tool Proficiencies:** *[[Thieves Tools|Thieves' Tools]]*
+- **Equipment:** Choose A or B: (A) *[[Thieves Tools|Thieves' Tools]]*, *Fine Clothes*, 10 GP; or (B) 50 GP

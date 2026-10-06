@@ -32,7 +32,7 @@ PlotHook: Witnessed a cult ritual
 - [[Shovel]] _(2 gp)_  
 - [[Parchment]] (one sheet) _(1 sp)_  
 - Rope spider’s silk (50 ft.) _(100 gp)_  
-- [[Woodcarvers Tools]] _(1 gp)_  
+- [[Woodcarver's Tools]] _(1 gp)_  
 - [[Ink Pen]] _(2 cp)_  
 - [[Lock]] _(10 gp)_  
 - [[Masons Tools]] _(10 gp)_  

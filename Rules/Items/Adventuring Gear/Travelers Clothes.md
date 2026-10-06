@@ -1,3 +1,7 @@
+---
+aliases:
+  - Traveler's Clothes
+---
 _Adventuring Gear_
 _2 GP, 4 lb._
 - - - 

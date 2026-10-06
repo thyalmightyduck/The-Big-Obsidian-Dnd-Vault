@@ -1,8 +1,12 @@
 ---
 tags:
   - magicitem
+  - rare
+  - variant
+  - attunement
+  - EFA
 ---
-*Weapon [[Revolver]], Rare (Requires Attunement)*
+*Weapon [[Revolver]], Rare (Requires [[Attunement]])*
 **Weapon:** 2d6 Piercing, Simple, Ranged, Firearm
 **Properties:** Ammunition (Range 30/120 ft.; [[Bullet]]), Firearm, Industrial Era, Recoil, Reload (6 Shots)
 125 GP 3lbs
@@ -22,6 +26,6 @@ An iconic handgun, the Revolver stores six bullets in a rotating cylinder. This 
 
 **Recoil:** After you make an attack with this weapon, you can't make ranged attacks beyond the weapon's normal range until the end of the current turn.
 
-**Reload:** You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [[Bonus Action]].
+**Reload:** You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an [[action]] or a [[Bonus Action]].
 
-**Mastery: Slow:** If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
+**Mastery: Slow:** If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [[Speed]] reduction doesn't exceed 10 feet.

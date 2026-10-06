@@ -26,4 +26,4 @@ Fast Crafting. When you finish a [[Long Rest]], you can craft one piece of gea
 | [[Smiths Tools]]         | [[Ball Bearings]], [[Bucket]], [[Caltrops]], [[Grappling Hook]], [[Iron Pot]] |
 | [[Tinkers Tools]]        | [[Bell]], [[Shovel]], [[Tinderbox]]                                           |
 | [[Weavers Tools]]        | [[Basket]], [[Rope]], [[Net]], [[Tent]]                                       |
-| [[Woodcarvers Tools]]    | [[Club]], [[Greatclub]], [[Quarterstaff]]                                     |
+| [[Woodcarver's Tools]]    | [[Club]], [[Greatclub]], [[Quarterstaff]]                                     |

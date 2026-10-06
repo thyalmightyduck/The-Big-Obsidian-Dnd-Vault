@@ -7,5 +7,5 @@ tags:
 - **Ability Scores:** Constitution, Intelligence, Charisma
 - **Feat:** Alert
 - **Skill Proficiencies:** Insight and Investigation
-- **Tool Proficiencies:** *Thieves' Tools*
-- **Equipment:** Choose A or B: (A) *Thieves' Tools*, *Bullseye Lantern*, *Crowbar*, *Oil* (10 flasks), *Traveler's Clothes*, 10 GP; or (B) 50 GP
+- **Tool Proficiencies:** *[[Thieves Tools|Thieves' Tools]]*
+- **Equipment:** Choose A or B: (A) *[[Thieves Tools|Thieves' Tools]]*, *Bullseye Lantern*, *Crowbar*, *Oil* (10 flasks), *Traveler's Clothes*, 10 GP; or (B) 50 GP

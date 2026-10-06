@@ -1,9 +1,63 @@
 ---
+layout: Basic 5e Layout
+name: Delerium Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment:
+ac: 18
+modifier:
+hp: 90
+hit_dice: 12d8+36
+speed: 30 ft., Climb 30 ft., Fly 60 ft. (Hover)
+stats:
+  - 19
+  - 15
+  - 17
+  - 16
+  - 13
+  - 15
+saves:
+  - dexterity: +5
+  - constitution: +6
+  - wisdom: +4
+  - charisma: +5   
+skillsaves:
+  - arcana: +6
+  - perception: +7
+  - stealth: +5 
+damage_resistances: Necrotic, Psychic
+senses: Blindsight 10 ft., Darkvision 120 ft., Passive Perception 17, Passive Insight 14, Passive Stealth 15
+languages: Common, Draconic; telepathy 30 ft.
+cr: 5
+traits:
+  - name: Alien Intellect.
+    desc: The dragon is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the dragon's intentions or sincerity have Disadvantage.  
+  - name: Delerium Healing.
+    desc: As an action, the dragon can touch a delerium shard to regain 10 (3d6) Hit Points. Once the dragon has used a delerium shard in this way, the shard can't be used in this manner again for 24 hours. 
+  - name: Fully Contaminated.
+    desc: The dragon is immune to Contamination and has Advantage on saving throws against contaminated spells. The dragon may cast contaminated spells even though it does not gain Contamination levels. 
+actions:
+  - name: Multiattack.
+    desc: 'The dragon makes one Bite attack and uses Contaminated Rend twice.'
+  - name: Bite.
+    desc: '*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 15 (2d10 + 4) Force damage.'
+  - name: Contaminated Rend.
+    desc: '*Constitution Saving Throw:* DC 15, one creature within 5 feet of the dragon. *Failure:* 14 (4d6) Necrotic damage, and the target gains one Contamination level.' 
+  - name: Octarine Breath (Recharge 5–6).
+    desc: '*Dexterity Saving Throw:* DC 15, each creature in a 30-foot Cone. *Failure:* 10 (3d6) Necrotic damage plus 10 (3d6) Psychic damage plus 10 (3d6) Radiant damage. *Success:* Half damage.' 
+bonus_actions:
+  - name: Dimension Hop.
+    desc: 'The dragon teleports to an unoccupied space it can see within 30 feet.'
+statblock: true
+atlas-type: statblock
+image:
+  - - Delerium Dragon Wyrmling BGR PNG.png
 tags:
-  - Monster
+  - monster
   - Dragon
   - MoDk
 ---
+
 # Delerium Dragon Wyrmling:
 ## Monsters of Drakkenheim (MODK):
 ```statblock

@@ -1,5 +1,6 @@
 ---
-{}
+aliases:
+  - Rapiers
 ---
 **Weapon:** 1d8 Piercing, Martial Weapon, Melee Weapon
 **Properties:** Finesse
