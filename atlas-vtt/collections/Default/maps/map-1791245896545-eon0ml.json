@@ -1,0 +1,21 @@
+{
+  "id": "map-1791245896545-eon0ml",
+  "name": "katai",
+  "mapFilePath": "atlas-vtt/assets/katai_1791245896324_dsi8yg.webp",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1791245896545,
+  "modifiedAt": 1791245896545,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "katai",
+    "mapFilePath": "atlas-vtt/assets/katai_1791245896324_dsi8yg.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/katai_1791245896324_dsi8yg-d147cd05.webp",
+    "id": "map-1791245896545-eon0ml",
+    "createdAt": 1791245896545,
+    "modifiedAt": 1791245896545
+  }
+}

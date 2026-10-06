@@ -1,0 +1,21 @@
+{
+  "id": "map-1791245896545-l6645c",
+  "name": "scrya",
+  "mapFilePath": "atlas-vtt/assets/scrya_1791245896069_ik2adc.webp",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1791245896545,
+  "modifiedAt": 1791245896545,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "scrya",
+    "mapFilePath": "atlas-vtt/assets/scrya_1791245896069_ik2adc.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/scrya_1791245896069_ik2adc-c40d30bf.webp",
+    "id": "map-1791245896545-l6645c",
+    "createdAt": 1791245896545,
+    "modifiedAt": 1791245896545
+  }
+}

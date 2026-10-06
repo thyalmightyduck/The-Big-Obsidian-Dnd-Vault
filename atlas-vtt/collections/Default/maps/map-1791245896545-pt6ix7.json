@@ -1,0 +1,21 @@
+{
+  "id": "map-1791245896545-pt6ix7",
+  "name": "bulmaar",
+  "mapFilePath": "atlas-vtt/assets/bulmaar_1791245896292_yywrl0.webp",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1791245896545,
+  "modifiedAt": 1791245896545,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "bulmaar",
+    "mapFilePath": "atlas-vtt/assets/bulmaar_1791245896292_yywrl0.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/bulmaar_1791245896292_yywrl0-ab3eb02e.webp",
+    "id": "map-1791245896545-pt6ix7",
+    "createdAt": 1791245896545,
+    "modifiedAt": 1791245896545
+  }
+}

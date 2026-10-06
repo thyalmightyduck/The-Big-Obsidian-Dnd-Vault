@@ -1,0 +1,21 @@
+{
+  "id": "map-1791245952072-cpg03o",
+  "name": "Oskana",
+  "mapFilePath": "atlas-vtt/assets/Oskana_1791245952033_5a28e5.webp",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1791245952072,
+  "modifiedAt": 1791245952072,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "Oskana",
+    "mapFilePath": "atlas-vtt/assets/Oskana_1791245952033_5a28e5.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Oskana_1791245952033_5a28e5-01387fb2.webp",
+    "id": "map-1791245952072-cpg03o",
+    "createdAt": 1791245952072,
+    "modifiedAt": 1791245952072
+  }
+}
