@@ -8,14 +8,14 @@
   "modifiedAt": 1791245896545,
   "atlasRecord": {
     "format": 1,
-    "type": "map",
-    "name": "Kull",
-    "mapFilePath": "atlas-vtt/assets/Kull_1791245896396_gcio18.webp",
-    "collection": "Default",
-    "tags": [],
-    "thumbnailPath": "atlas-vtt/assets/thumbnails/Kull_1791245896396_gcio18-d49e5307.webp",
     "id": "map-1791245896545-vo3ukq",
+    "name": "Kull",
+    "tags": [],
+    "collection": "Default",
     "createdAt": 1791245896545,
-    "modifiedAt": 1791245896545
+    "modifiedAt": 1791245896545,
+    "type": "map",
+    "mapFilePath": "atlas-vtt/assets/Kull_1791245896396_gcio18.webp",
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Kull_1791245896396_gcio18-d49e5307.webp"
   }
 }

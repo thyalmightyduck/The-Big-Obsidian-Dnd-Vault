@@ -1,11 +1,46 @@
 ---
+layout: Basic 5e Layout
+name: Haze Husk
+size: Medium
+type: Undead
+alignment: Unaligned
+ac: 10
+modifier:
+hp: 7
+hit_dice: 1d8+3
+speed: 30 ft.
+stats:
+  - 13
+  - 10
+  - 16
+  - 3
+  - 6
+  - 5
+saves:
+  - wisdom: +0
+senses: Darkvision 60Ft, Passive Perception 8, Passive Insight 8, Passive Stealth, 10
+damage_immunities: Poison
+condition_immunities: Poisoned
+languages: Understands the languages it knew in life but can't speak
+cr: 1/4
+actions:
+  - name: Slam.
+    desc: '*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Bludgeoning damage.'
+reactions:
+  - name: Death Burst.
+    desc: '*Trigger* The haze husk is reduced to 0 Hit Points by damage that isnt Radiant or from a Critical Hit. *Response—**Constitution Saving Throw* DC 10, each creature in a 5-foot Emanation originating from the haze husk. *Failure* 7 (2d6) Necrotic damage. Failure by 5 or More The target gains one Contamination level.'
+statblock: true
+atlas-type: statblock
+image:
+  - - Haze Husk BGR PNG.png
 tags:
-  - Monster
+  - monster
+  - MODK
   - Undead
-  - MoDk
 ---
-# Haze Husk
-## Monsters of Drakkenheim (MODK):
+# Monsters of Drakkenheim (MODK):
+## Haze Husk
+### Stat block 
 ```statblock
 layout: Basic 5e Layout
 image: [[Haze Husk BGR PNG.png]]
@@ -15,13 +50,13 @@ type: Undead
 ac: 10
 hp: 7
 hit_dice: 1d8+3
-speed: 30ft
+speed: 30 f.t
 stats: [13, 10, 16, 3, 6, 5]
 saves: 
   - WIS: +0
 damage_immunities: Poison
 condition_immunities: [[Poisoned]]
-senses: [[Darkvision]] 60Ft, Passive Perception 8
+senses: [[Darkvision]] 60Ft, [[Passive Perception]] 8, Passive Insight 8, Passive Stealth, 10
 languages: Understands the languages it knew in life but can't speak
 cr: 1/4   
 actions:
@@ -29,19 +64,45 @@ actions:
     desc: "_Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 4 (1d6 + 1) Bludgeoning damage."
 reactions:
   - name: Death Burst.
-    desc: "_Trigger:_ The haze husk is reduced to 0 [[Hit Points]] by damage that isn't Radiant or from a [[Critical Hit]]. _Response—__Constitution Saving Throw:_ DC 10, each creature in a 5-foot [[Emanation]] originating from the haze husk. _Failure:_ 7 (2d6) Necrotic damage. Failure by 5 or More: The target gains one [[Contamination]] level. "
+    desc: "_Trigger:_ The haze husk is reduced to 0 [[Hit Points]] by damage that isn't Radiant or from a [[Critical Hit]]. _Response—__Constitution [[Saving Throw]]:_ DC 10, each creature in a 5-foot [[Emanation]] originating from the haze husk. _Failure:_ 7 (2d6) Necrotic damage. Failure by 5 or More: The target gains one [[Contamination]] level."
 ```
-# Haze Husk Lore:
+_ _ _
+*Medium Undead*
+_ _ _
+- **[[Armor Class]]** 10
+- **[[Hit Point|Hit Points]]** 7 (1d8 + 3)
+- **[[Speed]]** 30 ft.
+- **[[Initiative]]** +0 (10)
+___
+
+|   STR   |   DEX   |   CON   |  INT   |  WIS   |  CHA   |
+| :-----: | :-----: | :-----: | :----: | :----: | :----: |
+| 13 (+1) | 10 (+0) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
+- - -
+- **[[Saving Throw|Saving Throws]]** Wis +0
+- **Immunities** Poison; [[Poisoned]]
+- **Senses** [[Darkvision]] 60 ft., [[Passive Perception]] 8
+- **Languages** Understands the languages it knew in life but can't speak
+- **Challenge** 1/4 (XP 50; PB +2)
+- **[[Proficiency Bonus]]** +2
+- - -
+#### Actions
+***Slam.*** *Melee Attack Roll:*  +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Bludgeoning damage.  
+
+#### Reactions
+***Death Burst.*** *Trigger:* The haze husk is reduced to 0 [[Hit Point|Hit Points]] by damage that isn't Radiant or from a [[Critical Hit]]. *Response—* *Constitution [[Saving Throw]]:* DC 10, each creature in a 5-foot [[Emanation]] originating from the haze husk. *Failure:* 7 (2d6) Necrotic damage. Failure by 5 or More: The target gains one [[Contamination]] level.
+
+### Info:
 The walking dead wander Drakkenheim draped in the ragged clothes from their final day. Their wounds billow with eldritch energy and their putrid flesh slides over their bones. Hollow black eyes stare, and their gaping mouths groan in pain. Each face wears the agony of their last moments while shards of delerium protrude from their skin.
 
 The Haze reanimates those who died in Drakkenheim to mindlessly wander as zombies. Most Haze Husks are those who perished when the meteor struck, while others died exploring the ruins, remaining near where they fell.
 
-While dead bodies do not decay in the ruins, over time even undead flesh is warped by contamination. Their skeletons slowly crystallizing into delerium, eventually bursting through their skin. When damaged, a Haze Husk's unstable crystals often break, releasing contaminated energy and splintered shards.
+While dead bodies do not decay in the ruins, over time even undead flesh is warped by [[contamination]]. Their skeletons slowly crystallizing into delerium, eventually bursting through their skin. When damaged, a Haze Husk's unstable crystals often break, releasing contaminated energy and splintered shards.
 
 Haze Husks ignore most contaminated monsters but attack all others. They do not eat their victims, preferring to lie in wait until the dead rise to join them. Left on their own, they rarely travel far from where they died, but if commanded, they will follow more powerful undead, such as Haze Wights and Arcane Wraiths, who recruit them into a sort of militia or retinue.
 
 ## Reanimated by the Haze
-Left undisturbed in the ruins of Drakkenheim, the corpse of a humanoid character of 5th level (or Challenge Rating 5) or lower has a 10 percent chance each day of rising as a Haze Husk.
+Left undisturbed in the ruins of Drakkenheim, the corpse of a humanoid character of 5th level (or [[Challenge Rating]] 5) or lower has a 10 percent chance each day of rising as a Haze Husk.
 
 ## Study the Foe
 Characters proficient in [[Arcana]] gain [[Advantage]] on Intelligence ([[Religion]]) checks to Study a Haze Husk, learning the following based on their result:
@@ -54,7 +115,7 @@ Characters proficient in [[Arcana]] gain [[Advantage]] on Intelligence ([[Re
 ## Combat Tactics
 In combat, Haze Husks lunge at the closest target without tactics or concern for self-preservation, battering down doors and clambering over obstacles in pursuit. When commanded by other undead or a spellcaster who created them, they are more capable, and can be ordered to remain at heel.
 
-A character with one or more [[Contamination]] levels and at least one mutation may be able to pass themselves off as a contaminated monster to a Haze Husk. Doing so successfully requires a DC 15 Charisma (Performance or Deception) check, which Charms the Haze Husk for 1 minute.
+A character with one or more [[Contamination]] levels and at least one mutation may be able to pass themselves off as a contaminated monster to a Haze Husk. Doing so successfully requires a DC 15 Charisma ([[Performance]] or [[Deception]]) check, which Charms the Haze Husk for 1 minute.
 
 ## Harvestable Components (Common)
 ### Animus:
