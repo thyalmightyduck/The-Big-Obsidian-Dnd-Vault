@@ -1,6 +1,7 @@
 ---
 tags:
   - backgrounds
+  - FRHoF
 ---
 ## Flaming Fist Mercenary
 
