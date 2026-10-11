@@ -38,15 +38,20 @@ actions:
     desc: "Fireball (level 4 version), Invisibility"
   - name: 1/day each 
     desc: "Cone of Cold, Fly"
-legendary_actions:
-  - name: Name Goes Here
-    desc: Desc Goes Here
+bonus_actions:
+  - name: Misty Step (3/Day).
+    desc: The mage casts Misty Step, using the same spellcasting ability as Spellcasting.  
+reaction:
+  - name: Protective Magic (3/Day).
+    desc: The mage casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 statblock: true
 atlas-type: statblock
 image:
-  - - Humanoid Blank BGR PNG.png
+  - - Mage BGR PNG
 tags:
   - monster
+  - humanoid
+  - MM25
 ---
 
 ___
