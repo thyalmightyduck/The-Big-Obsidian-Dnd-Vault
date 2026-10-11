@@ -3,10 +3,11 @@ tags:
   - backgrounds
   - FRHoF
 ---
-## Flaming Fist Mercenary
+## Forgotten Realms: Heroes of Faerûn
+### Flaming Fist Mercenary
 
 - **Ability Scores:** Strength, Constitution, Charisma
 - **Feat:** Tough
-- **Skill Proficiencies:** Intimidation and Perception
+- **[[Skill]] Proficiencies:** [[Intimidation]] and [[Perception]]
 - **Tool Proficiencies:** *Smith's Tools*
 - **Equipment:** Choose A or B: (A) *Mace*, *Smith's Tools*, *Fine Clothes*, *Manacles*, *Portable Ram*, 4 GP; or (B) 50 GP

@@ -23,7 +23,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
@@ -127,14 +127,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Kull The City Of Fortune/Kull.md",
+            "file": "Rules/Backgrounds/Flaming Fist Mercenary.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -146,9 +146,9 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3 The Kingdom Of Nesafia/1 Cities Of Nesafia/Kull The City Of Fortune/Kull.md",
+            "file": "Rules/Backgrounds/Flaming Fist Mercenary.md",
             "linksCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-going-out",
           "title": "Outgoing links"
@@ -200,7 +200,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f4ae903fabf46e5c",
+  "active": "c791c3389298ef3f",
   "lastOpenFiles": [
     "(Important Info)/Roadmap.md",
     "Untitled.canvas",
