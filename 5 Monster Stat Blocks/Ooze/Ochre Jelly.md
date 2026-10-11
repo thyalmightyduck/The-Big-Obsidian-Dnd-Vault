@@ -1,3 +1,47 @@
+---
+layout: Basic 5e Layout
+name: Ochre Jelly
+size: Large
+type: Ooze
+alignment: Unaligned
+ac: 8
+modifier:
+hp: 52
+hit_dice: 7d10+14
+speed: 20 ft., Climb 20 ft.
+stats:
+  - 15
+  - 6
+  - 14
+  - 2
+  - 6
+  - 1
+damage_resistances: Acid
+damage_immunities: Lightning, Slashing
+condition_immunities: Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+senses: Blindsight 60 ft., Passive Perception 8
+cr: 2
+traits:
+  - name: Amorphous.
+    desc: The jelly can move through a space as narrow as 1 inch without expending extra movement to do so.
+  - name: Spider Climb.
+    desc: The jelly can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+actions:
+  - name: Pseudopod.
+    desc: "_Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 12 (3d6 + 2) Acid damage."
+reactions:
+  - name: Split.
+    desc: _Trigger:_ While the jelly is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. _Response:_ The jelly splits into two new Ochre Jellies. Each new jelly is one size smaller than the original jelly and acts on its Initiative. The original jelly's Hit Points are divided evenly between the new jellies (round down).
+statblock: true
+atlas-type: statblock
+image:
+  - - Ochre Jelly BGR PNG.png
+tags:
+  - monster
+  - ooze
+  - MM25
+---
+
 ___
 >## Ochre Jelly
 >*Large Ooze, Unaligned*
