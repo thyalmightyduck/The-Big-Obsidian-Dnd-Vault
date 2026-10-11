@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Garker",
+    "imagePath": "atlas-vtt/assets/Garker_1791747760126_699e81.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Garker_1791747760126_699e81-64a47103.webp",
+    "id": "token-1791747760157-4zipyd",
+    "createdAt": 1791747760157,
+    "modifiedAt": 1791747760157
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Kaldiar",
+    "imagePath": "atlas-vtt/assets/Kaldiar_1791747760036_iwot6g.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Kaldiar_1791747760036_iwot6g-8f2cfe41.webp",
+    "id": "token-1791747760157-07ms3w",
+    "createdAt": 1791747760157,
+    "modifiedAt": 1791747760157
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Falcheon",
+    "imagePath": "atlas-vtt/assets/Falcheon_1791747759614_rd8rrp.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Falcheon_1791747759614_rd8rrp-84c56ec3.webp",
+    "id": "token-1791747760157-6ls5ck",
+    "createdAt": 1791747760157,
+    "modifiedAt": 1791747760157
+  }
+}

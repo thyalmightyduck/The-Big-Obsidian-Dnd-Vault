@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Jin",
+    "imagePath": "atlas-vtt/assets/Jin_1791747760100_vmkxdn.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Jin_1791747760100_vmkxdn-686abf18.webp",
+    "id": "token-1791747760157-wr5u4w",
+    "createdAt": 1791747760157,
+    "modifiedAt": 1791747760157
+  }
+}

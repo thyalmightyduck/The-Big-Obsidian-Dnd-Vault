@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Usuper",
+    "imagePath": "atlas-vtt/assets/Usuper_1791747760069_28mo3n.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Usuper_1791747760069_28mo3n-e7d3d614.webp",
+    "id": "token-1791747760157-g16y81",
+    "createdAt": 1791747760157,
+    "modifiedAt": 1791747760157
+  }
+}
