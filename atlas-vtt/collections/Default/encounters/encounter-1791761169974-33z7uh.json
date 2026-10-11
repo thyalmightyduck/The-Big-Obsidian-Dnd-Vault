@@ -1,0 +1,87 @@
+{
+  "description": "Encounter with 2 tokens",
+  "tokens": [
+    {
+      "id": "tok_1791759754817_wbvuzdo9l",
+      "name": "Clay Golem",
+      "imagePath": "atlas-vtt/assets/Clay_Golem_1791759746850_ocm1im.webp",
+      "cell": {
+        "q": 0,
+        "r": 0
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Clay_Golem_1791759746850_ocm1im.webp",
+        "kind": "character",
+        "name": "Clay Golem",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Construct/Clay Golem.md",
+        "difficulty": "CR 9",
+        "layer": 15,
+        "isHidden": false,
+        "vision": {
+          "enabled": false
+        },
+        "hp": {
+          "current": 123,
+          "max": 123
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Construct/Clay Golem.md"
+    },
+    {
+      "id": "tok_1791760547526_7o0r22v72",
+      "name": "Mage",
+      "imagePath": "atlas-vtt/assets/Mage_1791760533120_dbz1x9.webp",
+      "cell": {
+        "q": 1,
+        "r": 3
+      },
+      "offset": {
+        "x": 0.5000000000000001,
+        "y": 2.500000000000002
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Mage_1791760533120_dbz1x9.webp",
+        "kind": "character",
+        "name": "Mage",
+        "size": 1,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Humanoid/Mage.md",
+        "difficulty": "CR 6",
+        "layer": 16,
+        "isHidden": false,
+        "vision": {
+          "enabled": false
+        },
+        "hp": {
+          "current": 81,
+          "max": 81
+        }
+      },
+      "size": 1,
+      "statblockPath": "5 Monster Stat Blocks/Humanoid/Mage.md"
+    }
+  ],
+  "difficulty": "medium",
+  "formation": {
+    "gridType": "square",
+    "pitch": 139.98
+  },
+  "atlasRecord": {
+    "format": 1,
+    "name": "Mage And Gollem",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailUrl": "app://ff13284fd7d387c7096f506a3db992b0a8a7/F:/The%20Big%20Obsidian%20Dnd%20Vault/The%20Big%20Obsidian%20Dnd%20Vault/atlas-vtt/assets/encounter-thumbnails/encounter-1791761169963.png?1791761169963",
+    "id": "encounter-1791761169974-33z7uh",
+    "createdAt": 1791761169973,
+    "modifiedAt": 1791761169973,
+    "type": "encounter"
+  }
+}

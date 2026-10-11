@@ -1,0 +1,251 @@
+{
+  "description": "Encounter with 8 tokens",
+  "tokens": [
+    {
+      "id": "tok_1791760762302_1pha25bak",
+      "name": "Ghast",
+      "imagePath": "atlas-vtt/assets/Ghast_1791758839060_m2br8d.webp",
+      "cell": {
+        "q": 0,
+        "r": 0
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ghast_1791758839060_m2br8d.webp",
+        "kind": "character",
+        "name": "Ghast",
+        "size": 1,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Ghast.md",
+        "difficulty": "CR 2",
+        "layer": 33,
+        "isHidden": false,
+        "hp": {
+          "current": 36,
+          "max": 36
+        }
+      },
+      "size": 1,
+      "statblockPath": "5 Monster Stat Blocks/Undead/Ghast.md"
+    },
+    {
+      "id": "tok_1791760829549_773oa8y7y",
+      "name": "Zombie",
+      "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+      "cell": {
+        "q": 0,
+        "r": -3
+      },
+      "offset": {
+        "x": 0,
+        "y": -3.0000000000000004
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+        "kind": "character",
+        "name": "Zombie",
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md",
+        "difficulty": "CR 1/4",
+        "layer": 34,
+        "isHidden": false,
+        "hp": {
+          "current": 15,
+          "max": 15
+        }
+      },
+      "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md"
+    },
+    {
+      "id": "tok_1791760762302_smree705q",
+      "name": "Ghast",
+      "imagePath": "atlas-vtt/assets/Ghast_1791758839060_m2br8d.webp",
+      "cell": {
+        "q": 13,
+        "r": 0
+      },
+      "offset": {
+        "x": 13,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ghast_1791758839060_m2br8d.webp",
+        "kind": "character",
+        "name": "Ghast",
+        "size": 1,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Ghast.md",
+        "difficulty": "CR 2",
+        "layer": 23,
+        "isHidden": false,
+        "hp": {
+          "current": 36,
+          "max": 36
+        }
+      },
+      "size": 1,
+      "statblockPath": "5 Monster Stat Blocks/Undead/Ghast.md"
+    },
+    {
+      "id": "tok_1791760829549_mkuwkaoyt",
+      "name": "Zombie",
+      "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+      "cell": {
+        "q": 13,
+        "r": -3
+      },
+      "offset": {
+        "x": 13,
+        "y": -3.0000000000000004
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+        "kind": "character",
+        "name": "Zombie",
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md",
+        "difficulty": "CR 1/4",
+        "layer": 30,
+        "isHidden": false,
+        "hp": {
+          "current": 15,
+          "max": 15
+        }
+      },
+      "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md"
+    },
+    {
+      "id": "tok_1791760829549_htw3q4kvd",
+      "name": "Zombie",
+      "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+      "cell": {
+        "q": 0,
+        "r": 2
+      },
+      "offset": {
+        "x": 0,
+        "y": 2.0000000000000004
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+        "kind": "character",
+        "name": "Zombie",
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md",
+        "difficulty": "CR 1/4",
+        "layer": 35,
+        "isHidden": false,
+        "hp": {
+          "current": 15,
+          "max": 15
+        }
+      },
+      "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md"
+    },
+    {
+      "id": "tok_1791760829549_ko5aezjb6",
+      "name": "Zombie",
+      "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+      "cell": {
+        "q": 13,
+        "r": 2
+      },
+      "offset": {
+        "x": 13,
+        "y": 2.0000000000000004
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+        "kind": "character",
+        "name": "Zombie",
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md",
+        "difficulty": "CR 1/4",
+        "layer": 31,
+        "isHidden": false,
+        "hp": {
+          "current": 15,
+          "max": 15
+        }
+      },
+      "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md"
+    },
+    {
+      "id": "tok_1791760829549_bmfhkyjqy",
+      "name": "Zombie",
+      "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+      "cell": {
+        "q": 0,
+        "r": -5
+      },
+      "offset": {
+        "x": 0,
+        "y": -4.999999999999999
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+        "kind": "character",
+        "name": "Zombie",
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md",
+        "difficulty": "CR 1/4",
+        "layer": 32,
+        "isHidden": false,
+        "hp": {
+          "current": 15,
+          "max": 15
+        }
+      },
+      "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md"
+    },
+    {
+      "id": "tok_1791760762302_xve0242ls",
+      "name": "Ghast",
+      "imagePath": "atlas-vtt/assets/Ghast_1791758839060_m2br8d.webp",
+      "cell": {
+        "q": 13,
+        "r": -5
+      },
+      "offset": {
+        "x": 13,
+        "y": -4.999999999999999
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ghast_1791758839060_m2br8d.webp",
+        "kind": "character",
+        "name": "Ghast",
+        "size": 1,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Undead/Ghast.md",
+        "difficulty": "CR 2",
+        "layer": 22,
+        "isHidden": false,
+        "hp": {
+          "current": 36,
+          "max": 36
+        }
+      },
+      "size": 1,
+      "statblockPath": "5 Monster Stat Blocks/Undead/Ghast.md"
+    }
+  ],
+  "difficulty": "medium",
+  "formation": {
+    "gridType": "square",
+    "pitch": 139.98
+  },
+  "atlasRecord": {
+    "format": 1,
+    "name": "2nd Round",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailUrl": "app://ff13284fd7d387c7096f506a3db992b0a8a7/F:/The%20Big%20Obsidian%20Dnd%20Vault/The%20Big%20Obsidian%20Dnd%20Vault/atlas-vtt/assets/encounter-thumbnails/encounter-1791761325745.png?1791761325746",
+    "id": "encounter-1791761325756-nv8lq0",
+    "createdAt": 1791761325756,
+    "modifiedAt": 1791761325756,
+    "type": "encounter"
+  }
+}

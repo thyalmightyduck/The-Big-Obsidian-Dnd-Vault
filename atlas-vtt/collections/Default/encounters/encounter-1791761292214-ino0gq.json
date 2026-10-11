@@ -1,0 +1,168 @@
+{
+  "description": "Encounter with 5 tokens",
+  "tokens": [
+    {
+      "id": "tok_1791761228870_kox225suq",
+      "name": "Chull",
+      "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+      "cell": {
+        "q": 0,
+        "r": 0
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+        "kind": "character",
+        "name": "Chull",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md",
+        "difficulty": "CR 4",
+        "layer": 42,
+        "hp": {
+          "current": 76,
+          "max": 76
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md"
+    },
+    {
+      "id": "tok_1791760700938_9vxux6gwh",
+      "name": "Ochre Jelly",
+      "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+      "cell": {
+        "q": 6,
+        "r": 0
+      },
+      "offset": {
+        "x": 6,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+        "kind": "character",
+        "name": "Ochre Jelly",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md",
+        "difficulty": "CR 2",
+        "layer": 37,
+        "isHidden": false,
+        "hp": {
+          "current": 52,
+          "max": 52
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md"
+    },
+    {
+      "id": "tok_1791760700937_qkbht1h80",
+      "name": "Ochre Jelly",
+      "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+      "cell": {
+        "q": -3,
+        "r": 0
+      },
+      "offset": {
+        "x": -3,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+        "kind": "character",
+        "name": "Ochre Jelly",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md",
+        "difficulty": "CR 2",
+        "layer": 36,
+        "isHidden": false,
+        "hp": {
+          "current": 52,
+          "max": 52
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md"
+    },
+    {
+      "id": "tok_1791761228870_5qc9viduo",
+      "name": "Chull",
+      "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+      "cell": {
+        "q": 1,
+        "r": 11
+      },
+      "offset": {
+        "x": 1.0000000000000002,
+        "y": 10.999999999999998
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+        "kind": "character",
+        "name": "Chull",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md",
+        "difficulty": "CR 4",
+        "layer": 43,
+        "hp": {
+          "current": 76,
+          "max": 76
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md"
+    },
+    {
+      "id": "tok_1791761228870_b13qqv1jk",
+      "name": "Chull",
+      "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+      "cell": {
+        "q": 5,
+        "r": 11
+      },
+      "offset": {
+        "x": 5,
+        "y": 10.999999999999998
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+        "kind": "character",
+        "name": "Chull",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md",
+        "difficulty": "CR 4",
+        "layer": 44,
+        "hp": {
+          "current": 76,
+          "max": 76
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md"
+    }
+  ],
+  "difficulty": "medium",
+  "formation": {
+    "gridType": "square",
+    "pitch": 139.98
+  },
+  "atlasRecord": {
+    "format": 1,
+    "name": "Make A Move",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailUrl": "app://ff13284fd7d387c7096f506a3db992b0a8a7/F:/The%20Big%20Obsidian%20Dnd%20Vault/The%20Big%20Obsidian%20Dnd%20Vault/atlas-vtt/assets/encounter-thumbnails/encounter-1791761291861.png?1791761291862",
+    "id": "encounter-1791761292214-ino0gq",
+    "createdAt": 1791761292214,
+    "modifiedAt": 1791761292214,
+    "type": "encounter"
+  }
+}

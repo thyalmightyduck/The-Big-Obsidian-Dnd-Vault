@@ -1,0 +1,171 @@
+{
+  "description": "Encounter with 5 tokens",
+  "tokens": [
+    {
+      "id": "tok_1791758472319_q28xje1bq",
+      "name": "Ochre Jelly",
+      "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+      "cell": {
+        "q": 0,
+        "r": 0
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+        "kind": "character",
+        "name": "Ochre Jelly",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md",
+        "difficulty": "CR 2",
+        "layer": 8,
+        "isHidden": true,
+        "hp": {
+          "current": 52,
+          "max": 52
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md"
+    },
+    {
+      "id": "tok_1791757917722_4iyocm7y5",
+      "name": "Chull",
+      "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+      "cell": {
+        "q": -2,
+        "r": 0
+      },
+      "offset": {
+        "x": -2,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+        "kind": "character",
+        "name": "Chull",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md",
+        "difficulty": "CR 4",
+        "layer": 7,
+        "isHidden": true,
+        "hp": {
+          "current": 76,
+          "max": 76
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md"
+    },
+    {
+      "id": "tok_1791758472319_8y41lc6nu",
+      "name": "Ochre Jelly",
+      "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+      "cell": {
+        "q": 3,
+        "r": -11
+      },
+      "offset": {
+        "x": 3,
+        "y": -11
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+        "kind": "character",
+        "name": "Ochre Jelly",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md",
+        "difficulty": "CR 2",
+        "layer": 9,
+        "isHidden": true,
+        "hp": {
+          "current": 52,
+          "max": 52
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md"
+    },
+    {
+      "id": "tok_1791758472319_uk9qqlios",
+      "name": "Ochre Jelly",
+      "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+      "cell": {
+        "q": 9,
+        "r": 1
+      },
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
+        "kind": "character",
+        "name": "Ochre Jelly",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md",
+        "difficulty": "CR 2",
+        "layer": 10,
+        "isHidden": true,
+        "hp": {
+          "current": 52,
+          "max": 52
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md"
+    },
+    {
+      "id": "tok_1791757917722_9xg7n0tl5",
+      "name": "Chull",
+      "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+      "cell": {
+        "q": -14,
+        "r": 1
+      },
+      "offset": {
+        "x": -14,
+        "y": 1
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+        "kind": "character",
+        "name": "Chull",
+        "size": 1.5,
+        "showRing": false,
+        "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md",
+        "difficulty": "CR 4",
+        "layer": 6,
+        "isHidden": true,
+        "hp": {
+          "current": 76,
+          "max": 76
+        }
+      },
+      "size": 1.5,
+      "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md"
+    }
+  ],
+  "difficulty": "medium",
+  "formation": {
+    "gridType": "square",
+    "pitch": 70
+  },
+  "atlasRecord": {
+    "format": 1,
+    "name": "Cemetary",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailUrl": "app://ff13284fd7d387c7096f506a3db992b0a8a7/F:/The%20Big%20Obsidian%20Dnd%20Vault/The%20Big%20Obsidian%20Dnd%20Vault/atlas-vtt/assets/encounter-thumbnails/encounter-1791761006700.png?1791761006701",
+    "id": "encounter-1791761007043-ml0u3e",
+    "createdAt": 1791761007042,
+    "modifiedAt": 1791761007042,
+    "type": "encounter"
+  }
+}

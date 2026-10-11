@@ -47,7 +47,7 @@ reaction:
 statblock: true
 atlas-type: statblock
 image:
-  - - Mage BGR PNG
+  - - Mage BGR PNG.png
 tags:
   - monster
   - humanoid
