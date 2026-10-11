@@ -35,7 +35,7 @@ reactions:
 statblock: true
 atlas-type: statblock
 image:
-  - - Ochre Jelly BGR PNG.png
+  - - Ochre Jell BGR PNG.png
 tags:
   - monster
   - ooze
