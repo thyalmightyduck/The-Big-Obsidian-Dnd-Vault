@@ -22,7 +22,9 @@
   "diceDisplay": "full",
   "diceColour": "light",
   "diceFont": "medieval",
-  "experimental": {},
+  "experimental": {
+    "dynamicLighting": true
+  },
   "statblockPane": {
     "hintDismissed": false
   },
