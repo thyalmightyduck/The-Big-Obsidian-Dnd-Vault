@@ -149,7 +149,7 @@ When you cast a Bard spell, you can apply that Metamagic Option as if you had pa
 
 Once you use this talent, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
-**Warlock.** You learn one Eldritch Invocation of your choice. If an invocation has a level requirement, use your Bard level.
+**Warlock.** You learn one [[(Eldritch Invocation)]] of your choice. If an invocation has a level requirement, use your Bard level.
 
 When you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation for which you qualify.
 

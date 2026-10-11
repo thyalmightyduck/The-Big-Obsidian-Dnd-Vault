@@ -7,7 +7,7 @@ tags:
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 | ----- | ----------------- | --------------------------------------------------------------------------- | ----------- | -------- | --------------- | ----------- | ---------- |
-| 1st   | +2                | Eldritch Invocations,<br><br>Pact Magic,<br><br>Eldritch Invocation Options | 1           | 2        | 2               | 1           | 1          |
+| 1st   | +2                | Eldritch Invocations,<br><br>Pact Magic,<br><br>[[(Eldritch Invocation)]] Options | 1           | 2        | 2               | 1           | 1          |
 | 2nd   | +2                | Magical Cunning                                                             | 3           | 2        | 3               | 2           | 1          |
 | 3rd   | +2                | Warlock Subclass                                                            | 3           | 2        | 4               | 2           | 2          |
 | 4th   | +2                | Ability Score Improvement                                                   | 3           | 3        | 5               | 2           | 2          |
@@ -50,7 +50,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 **Armor Training:** [[Light armor]]
 
 ## Level 1: Eldritch Invocations
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as [[Pact of the Tome]]. Invocations are described in the "[[(Eldritch Invocation)]] Options" section later in this class's description.
 
 Prerequisites. If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
@@ -83,8 +83,8 @@ Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spe
 
 [[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
-## Level 1: Eldritch Invocation Options
-Eldritch Invocation options appear in alphabetical order.
+## Level 1: [[(Eldritch Invocation)]] Options
+[[(Eldritch Invocation)]] options appear in alphabetical order.
 
 ## Level 2: Magical Cunning
 You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[Long Rest]].
@@ -126,7 +126,7 @@ This parasitic weapon can't be used for opportunity attacks; it specifies that i
 Invested in your survival, your patron manifests in protective ways You can use your Charisma modifier in place of your Strength modifier when making Strength saving throws In addition, as a bonus action, you can cause your patron to manifest as a shield in your free hand, with which you are proficient. This shield disappears if you are incapacitated or if you dismiss it as a bonus action The increase to AC rises to 3 when you reach 10th level in this class.
 
 #### Invocations & Parasitic Weapon
-If you are the GM, consider allowing invocations that have the [[eldritch blast]] cantrip as a prerequisite to also benefit attacks the warlock makes with their parasitic weapon. For example, Repelling Blast would permit the parasitic weapon to push targets, while [[Agonizing Blast]] would allow the warlock to add their Charisma modifier to its damage rolls. However, take this with a pinch of salt; Eldritch Spear extends the weapon's reach by a factor of 2.5 only, not 180 feet!
+If you are the GM, consider allowing invocations that have the [[eldritch blast]] cantrip as a prerequisite to also benefit attacks the warlock makes with their parasitic weapon. For example, [[Repelling Blast]] would permit the parasitic weapon to push targets, while [[Agonizing Blast]] would allow the warlock to add their Charisma modifier to its damage rolls. However, take this with a pinch of salt; [[Eldritch Spear]] extends the weapon's reach by a factor of 2.5 only, not 180 feet!
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
@@ -142,7 +142,7 @@ As a bonus action, you can transform your body into a viscous, liquid form for 1
 ### Birth Parasite
 Over the course of 1 minute, you can extrude an independent piece of your patron, causing it to manifest in an unoccupied space within 5 feet of you This parasite acts as a familiar, as if with the [[find familiar]] spell See this creature's game statistics in the [[parasitic ooze]] stat block, which uses your proficiency bonus (PB) in several places.
 
-If you have the Pact of the Chain feature, the parasite counts as a familiar for you for the purpose of applying any benefits from that feature or your invocations.
+If you have the [[Pact of the Chain]] feature, the parasite counts as a familiar for you for the purpose of applying any benefits from that feature or your invocations.
 
 After you birth a parasite, you can't do so again until you finish a short or long rest. If you use this feature while you already have a parasite, the previous one dissolves in a puddle of goo.
 

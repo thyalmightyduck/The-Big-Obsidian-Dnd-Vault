@@ -1,7 +1,7 @@
 ## Devil's Sight
 
-Prerequisite: Level 2+  Warlock
+Prerequisite: Level 2+  [[Warlock]]
 
-You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.
+You can see normally in [[Dim Light]] and [[Darkness]]—both magical and nonmagical—within 120 feet of yourself.
 
-*Type: Eldritch Invocation*
+*Type: [[(Eldritch Invocation)]]*

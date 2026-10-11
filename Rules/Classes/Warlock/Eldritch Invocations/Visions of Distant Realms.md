@@ -1,7 +1,7 @@
 ## Visions of Distant Realms
 
-Prerequisite: Level 9+  Warlock
+Prerequisite: Level 9+  [[Warlock]]
 
-You can cast *Arcane Eye* without expending a spell slot.
+You can cast *[[Arcane Eye]]* without expending a spell slot.
 
-*Type: Eldritch Invocation*
+*Type: [[(Eldritch Invocation)]]*

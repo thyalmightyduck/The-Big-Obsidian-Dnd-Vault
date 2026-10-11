@@ -1,7 +1,7 @@
 ## Witch Sight
 
-Prerequisite: Level 15+  Warlock
+Prerequisite: Level 15+  [[Warlock]]
 
-You have Truesight with a range of 30 feet.
+You have [[Truesight]] with a range of 30 feet.
 
-*Type: Eldritch Invocation*
+*Type: [[(Eldritch Invocation)]]*

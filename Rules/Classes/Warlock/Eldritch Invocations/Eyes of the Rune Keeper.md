@@ -2,4 +2,4 @@
 
 You can read all writing.
 
-*Type: Eldritch Invocation*
+*Type: [[(Eldritch Invocation)]]*

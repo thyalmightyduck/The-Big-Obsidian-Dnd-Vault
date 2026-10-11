@@ -127,7 +127,7 @@ Each time you finish a [[Long Rest]], choose whether you are siphoning power fr
 | 7            | [[Guardian of Faith]]                                                          |
 | 9            | [[Greater Restoration]] |
 ### Level 3: Stolen Secrets
-You have uncovered or stolen secret power from agents of the Arch Daemons and Arch Seraphs. You gain one Eldritch Invocation of your choice.
+You have uncovered or stolen secret power from agents of the Arch Daemons and Arch Seraphs. You gain one [[(Eldritch Invocation)]] of your choice.
 
 **Prerequisites:** If an invocation has a prerequisite, you must meet it to learn that invocation. If an invocation has a Warlock level prerequisite, you use your Wizard level instead. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Wizard level 5.
 

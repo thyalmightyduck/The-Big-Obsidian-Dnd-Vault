@@ -7,7 +7,7 @@ tags:
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 | ----- | ----------------- | --------------------------------------------------------------------------- | ----------- | -------- | --------------- | ----------- | ---------- |
-| 1st   | +2                | Eldritch Invocations,<br><br>Pact Magic,<br><br>Eldritch Invocation Options | 1           | 2        | 2               | 1           | 1          |
+| 1st   | +2                | Eldritch Invocations,<br><br>Pact Magic,<br><br>[[(Eldritch Invocation)]] Options | 1           | 2        | 2               | 1           | 1          |
 | 2nd   | +2                | Magical Cunning                                                             | 3           | 2        | 3               | 2           | 1          |
 | 3rd   | +2                | Warlock Subclass                                                            | 3           | 2        | 4               | 2           | 2          |
 | 4th   | +2                | Ability Score Improvement                                                   | 3           | 3        | 5               | 2           | 2          |
@@ -50,7 +50,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 **Armor Training:** [[Light armor]]
 
 ## Level 1: Eldritch Invocations
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as [[Pact of the Tome]]. Invocations are described in the "[[(Eldritch Invocation)]] Options" section later in this class's description.
 
 Prerequisites. If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
@@ -83,8 +83,8 @@ Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spe
 
 [[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
-## Level 1: Eldritch Invocation Options
-Eldritch Invocation options appear in alphabetical order.
+## Level 1: [[(Eldritch Invocation)]] Options
+[[(Eldritch Invocation)]] options appear in alphabetical order.
 
 ## Level 2: Magical Cunning
 You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[Long Rest]].
