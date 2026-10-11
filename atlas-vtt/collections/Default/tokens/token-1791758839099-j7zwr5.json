@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ghast",
+    "imagePath": "atlas-vtt/assets/Ghast_1791758839060_m2br8d.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Undead/Ghast.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ghast_1791758839060_m2br8d-4780978e.webp",
+    "id": "token-1791758839099-j7zwr5",
+    "createdAt": 1791758839099,
+    "modifiedAt": 1791758839099
+  }
+}
