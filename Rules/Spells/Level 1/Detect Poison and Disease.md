@@ -10,7 +10,7 @@ tags:
 #### Detect Poison and Disease
 _Level 1 Divination_
 - - - 
-**Casting Time:** Action or Ritual
+**Casting Time:** [[Action]] or [[Ritual]]
 **Range:** Self
 **Components:** V, S, M (a yew leaf)
 **Duration:** [[Concentration]], up to 10 minutes

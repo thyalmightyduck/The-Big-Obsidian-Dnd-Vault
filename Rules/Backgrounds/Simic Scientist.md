@@ -38,7 +38,7 @@ For you, the spells on the Simic Guild Spells table are added to the spell list 
 | Spell Level | Spells                                                     |
 |:-----------:|------------------------------------------------------------|
 |   Cantrip   | *acid splash*, *druidcraft*                                |
-|     1st     | *detect poison and disease*, *expeditious retreat*, *jump* |
+|     1st     | *[[detect poison and disease]]*, *expeditious retreat*, *jump* |
 |     2nd     | *alter self*, *enhance ability*, *enlarge/reduce*          |
 |     3rd     | *gaseous form*, *water breathing*, *wind wall*             |
 |     4th     | *freedom of movement*, *polymorph*                         |

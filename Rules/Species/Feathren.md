@@ -27,7 +27,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 | Feline Ancestry                       | Spell                       |
 |---------------------------------------|-----------------------------|
 | Lion, Panther, or Saber-Toothed Tiger | *Detect Evil and Good*      |
-| Cheetah, Serval, or Tiger             | *Detect Poison and Disease* |
+| Cheetah, Serval, or Tiger             | *[[Detect Poison and Disease]]* |
 | Jaguar, Lynx, or Snow Leopard         | *Detect Magic*              |
 
 ***Kindred Speech.*** You can communicate simple ideas to birds and cats that are Large or smaller, including griffons. They can understand your words, though you have no special ability to understand them in return. You have Advantage on Wisdom (Animal Handling) checks and Charisma checks you make to influence them.
