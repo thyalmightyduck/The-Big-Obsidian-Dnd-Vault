@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Chull",
+    "imagePath": "atlas-vtt/assets/Chull_1791757217538_ruhuct.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Chuul.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Chull_1791757217538_ruhuct-9c96f686.webp",
+    "id": "token-1791757217565-o4byhh",
+    "createdAt": 1791757217565,
+    "modifiedAt": 1791757217565
+  }
+}

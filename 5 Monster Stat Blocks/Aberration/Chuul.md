@@ -38,7 +38,7 @@ actions:
 statblock: true
 atlas-type: statblock
 image:
-  - - Chull BGR PNG.png
+  - - Chuul BGR PNG.png
 tags:
   - monster
   - Aberration
