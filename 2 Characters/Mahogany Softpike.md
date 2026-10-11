@@ -359,7 +359,7 @@ actions:
     desc: "_Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 7 (1d4+5) Slashing damage"
   - name: "Dagger"
     desc: "_Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 2 (1d4) Piercing damage"
-  - name: "Armor Of Shadows"
+  - name: "[[Armor Of Shadows]]"
     desc: "You can cast [[Mage Armor]] on yourself without expending a spell slot"
   - name: "Undying Servitude"
     desc: "You can cast [[animate dead]] without using a spell slot."   
