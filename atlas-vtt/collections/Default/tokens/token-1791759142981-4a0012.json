@@ -1,0 +1,16 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Zombie",
+    "imagePath": "atlas-vtt/assets/Zombie_1791759142951_ca63ec.webp",
+    "statblockPath": "5 Monster Stat Blocks/Undead/Zombie.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Zombie_1791759142951_ca63ec-646e56d6.webp",
+    "id": "token-1791759142981-4a0012",
+    "createdAt": 1791759142981,
+    "modifiedAt": 1791759142981
+  }
+}

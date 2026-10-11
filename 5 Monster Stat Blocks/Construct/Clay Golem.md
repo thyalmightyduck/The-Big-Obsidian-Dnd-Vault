@@ -1,3 +1,50 @@
+---
+layout: Basic 5e Layout
+name: Clay Golem
+size: Large
+type: Construct
+alignment: Unaligned
+ac: 14
+modifier:
+hp: 123
+hit_dice: 13d10+52
+speed: 20 ft.
+stats:
+  - 20
+  - 9
+  - 18
+  - 3
+  - 8
+  - 1
+senses: Darkvision 60 ft., Passive Perception 9
+damage_resistances: Bludgeoning, Piercing, Slashing
+damage_immunities:  Acid, Poison, Psychic
+condition_immunities: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+cr: 9
+traits:
+  - name: Acid Absorption.
+    desc: Whenever the golem is subjected to Acid damage, it takes no damage and instead regains a number of Hit Points equal to the Acid damage dealt.
+  - name: Berserk.
+    desc: Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it continues to be berserk until it is destroyed or it is no longer Bloodied. 
+  - name: Immutable Form.
+    desc: The golem can't shape-shift.
+  - name: Magic Resistance.
+    desc: The golem has Advantage on saving throws against spells and other magical effects.
+actions:
+  - name: Multiattack.
+    desc: The golem makes two Slam attacks, or it makes three Slam attacks if it used Hasten this turn.
+  - name: Slam.
+    desc: _Melee Attack Roll:_ +9, reach 5 ft. _Hit:_ 10 (1d10 + 5) Bludgeoning damage plus 6 (1d12) Acid damage, and the target's Hit Point maximum decreases by an amount equal to the Acid damage taken.
+bonus_actions:
+  - name: Hasten (Recharge 5–6).
+    desc:  The golem takes the Dash and Disengage actions. 
+atlas-type: statblock
+image:
+  - - Clay Golem BGR PNG.png
+tags:
+  - monster
+---
+
 ___
 >## Clay Golem
 >*Large Construct, Unaligned*
