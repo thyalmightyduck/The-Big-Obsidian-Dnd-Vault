@@ -1,3 +1,54 @@
+---
+layout: Basic 5e Layout
+name: Mage
+size: Medium
+type: Humanoid (Wizard)
+alignment: Neutral
+ac: 15
+modifier:
+hp: 81
+hit_dice: 18d8
+speed: 30 ft.
+stats:
+  - 9
+  - 14
+  - 11
+  - 17
+  - 12
+  - 11
+saves:
+  - intelligence: +6
+  - wisdom: +4
+skillsaves:
+  - arcana: +6
+  - history: +6
+  - perception: +4
+senses: Passive Perception 14
+cr: 6
+actions:
+  - name: Multiattack.
+    desc: The mage makes three Arcane Burst attacks.
+  - name: Arcane Burst.
+    desc: "_Melee or Ranged Attack Roll:_ +6, reach 5 ft. or range 120 ft. _Hit:_ 16 (3d8 + 3) Force damage."
+  - name: Spellcasting.
+    desc: The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14)
+  - name: At will. 
+    desc: "Detect Magic, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation"
+  - name: 2/day each. 
+    desc: "Fireball (level 4 version), Invisibility"
+  - name: 1/day each 
+    desc: "Cone of Cold, Fly"
+legendary_actions:
+  - name: Name Goes Here
+    desc: Desc Goes Here
+statblock: true
+atlas-type: statblock
+image:
+  - - Humanoid Blank BGR PNG.png
+tags:
+  - monster
+---
+
 ___
 >## Mage
 >*Small or Medium Humanoid (Wizard), Neutral*

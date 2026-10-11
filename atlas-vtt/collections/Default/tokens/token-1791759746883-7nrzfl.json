@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Clay Golem",
+    "imagePath": "atlas-vtt/assets/Clay_Golem_1791759746850_ocm1im.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Construct/Clay Golem.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Clay_Golem_1791759746850_ocm1im-b6075d5f.webp",
+    "id": "token-1791759746883-7nrzfl",
+    "createdAt": 1791759746883,
+    "modifiedAt": 1791759746883
+  }
+}
