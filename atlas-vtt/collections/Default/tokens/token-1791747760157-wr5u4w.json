@@ -2,14 +2,14 @@
   "atlasRecord": {
     "format": 1,
     "type": "token",
-    "showRing": false,
+    "showRing": true,
     "name": "Jin",
-    "imagePath": "atlas-vtt/assets/Jin_1791747760100_vmkxdn.png",
+    "imagePath": "atlas-vtt/assets/Jin_1791747760100_vmkxdn.webp",
     "collection": "Default",
     "tags": [],
-    "thumbnailPath": "atlas-vtt/assets/thumbnails/Jin_1791747760100_vmkxdn-686abf18.webp",
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Jin_1791747760100_vmkxdn-5e70cab7.webp",
     "id": "token-1791747760157-wr5u4w",
     "createdAt": 1791747760157,
-    "modifiedAt": 1791747760157
+    "modifiedAt": 1791768644427
   }
 }

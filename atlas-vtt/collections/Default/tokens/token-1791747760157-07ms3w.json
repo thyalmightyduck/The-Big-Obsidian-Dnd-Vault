@@ -2,14 +2,14 @@
   "atlasRecord": {
     "format": 1,
     "type": "token",
-    "showRing": false,
+    "showRing": true,
     "name": "Kaldiar",
-    "imagePath": "atlas-vtt/assets/Kaldiar_1791747760036_iwot6g.png",
+    "imagePath": "atlas-vtt/assets/Kaldiar_1791747760036_iwot6g.webp",
     "collection": "Default",
     "tags": [],
-    "thumbnailPath": "atlas-vtt/assets/thumbnails/Kaldiar_1791747760036_iwot6g-8f2cfe41.webp",
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Kaldiar_1791747760036_iwot6g-9b0221c8.webp",
     "id": "token-1791747760157-07ms3w",
     "createdAt": 1791747760157,
-    "modifiedAt": 1791747760157
+    "modifiedAt": 1791768668666
   }
 }

@@ -2,14 +2,14 @@
   "atlasRecord": {
     "format": 1,
     "type": "token",
-    "showRing": false,
+    "showRing": true,
     "name": "Usuper",
-    "imagePath": "atlas-vtt/assets/Usuper_1791747760069_28mo3n.png",
+    "imagePath": "atlas-vtt/assets/Usuper_1791747760069_28mo3n.webp",
     "collection": "Default",
     "tags": [],
-    "thumbnailPath": "atlas-vtt/assets/thumbnails/Usuper_1791747760069_28mo3n-e7d3d614.webp",
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Usuper_1791747760069_28mo3n-9e1cb1eb.webp",
     "id": "token-1791747760157-g16y81",
     "createdAt": 1791747760157,
-    "modifiedAt": 1791747760157
+    "modifiedAt": 1791768682353
   }
 }

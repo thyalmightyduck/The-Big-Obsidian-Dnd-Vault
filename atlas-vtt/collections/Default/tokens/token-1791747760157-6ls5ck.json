@@ -2,14 +2,14 @@
   "atlasRecord": {
     "format": 1,
     "type": "token",
-    "showRing": false,
+    "showRing": true,
     "name": "Falcheon",
-    "imagePath": "atlas-vtt/assets/Falcheon_1791747759614_rd8rrp.png",
+    "imagePath": "atlas-vtt/assets/Falcheon_1791747759614_rd8rrp.webp",
     "collection": "Default",
     "tags": [],
-    "thumbnailPath": "atlas-vtt/assets/thumbnails/Falcheon_1791747759614_rd8rrp-84c56ec3.webp",
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Falcheon_1791747759614_rd8rrp-8345de46.webp",
     "id": "token-1791747760157-6ls5ck",
     "createdAt": 1791747760157,
-    "modifiedAt": 1791747760157
+    "modifiedAt": 1791768658598
   }
 }

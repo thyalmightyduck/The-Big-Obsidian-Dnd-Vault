@@ -31,7 +31,7 @@
   "toolbar": {},
   "localPlayerView": {
     "showToolbar": false,
-    "showTokenNameplates": false,
+    "showTokenNameplates": true,
     "showNotePreviews": false,
     "showWidgets": true,
     "showInitiative": true,
