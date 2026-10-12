@@ -8,7 +8,7 @@ tags:
 AC 16
 - - - 
 
-You gain a +1 bonus to [[Armor Class]] while you wear this armor. You are considered trained with this armor even if you lack training with Medium or [[Heavy armor]].
+You gain a +1 bonus to [[Armor Class]] while you wear this armor. You are considered trained with this armor even if you lack training with Medium or [[Heavy Armor]].
 
 The wearer has [[Disadvantage]] on Dexterity ([[Stealth]]) checks.
 

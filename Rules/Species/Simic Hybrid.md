@@ -21,7 +21,7 @@ tags:
 
 	At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:
 - **Grappling Appendage:** You have two special appendages growing alongside your arms. Choose whether they're both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an [[Unarmed Strike]]. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an [[Unarmed Strike]]. Immediately after hitting, you can try to grapple the target as a [[bonus action]]. These appendages can't precisely manipulate anything and can't wield weapons, magic items, or other specialized equipment.
-- **Carapace:** Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you're not wearing [[heavy armor]].
+- **Carapace:** Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you're not wearing [[Heavy Armor]].
 - **Acid Spit:** As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your [[Proficiency]] bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10). You can use this trait a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses of it when you finish a [[Long Rest]].
 
 

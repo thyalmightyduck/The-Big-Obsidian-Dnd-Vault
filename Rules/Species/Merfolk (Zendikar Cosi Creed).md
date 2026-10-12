@@ -23,7 +23,7 @@ Swimming. You have a swimming speed of 30 feet.
 
 Languages. You can speak, read, and write Common, Merfolk, and one extra language of your choice.
 
-Cantrip. You know one cantrip of your choice from the [[bard spell list]]. Charisma is your spellcasting ability for it.
+Cantrip. You know one cantrip of your choice from the [[Bard Spell List]]. Charisma is your spellcasting ability for it.
 
 Creed of the Trickster. You have proficiency in the Sleight of Hand and Stealth skills.
 

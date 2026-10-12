@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Long sword]], Rare (Requires Attunement)*
+*Weapon [[Long Sword]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Slashing, Martial Weapon, Melee Weapon
 **Properties:** Heavy, versatile (1d10)
 2 G, 3 lb.

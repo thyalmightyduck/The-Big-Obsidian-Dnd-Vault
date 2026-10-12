@@ -14,7 +14,7 @@ tags:
 > ##### Description
 A Metallic gauntlet of otherworldly origin, softly glowing with eerie malice. It’s surface is dotted with nodes that can be pressed to utilize it’s advanced technological functions. 
 
-**Integrated Weapon:** The vambrace is able to extend ad retract one-handed weapons, enabled them to be hidden from view, to be used hand-free, and granting them a +1 bonus to attack and damage rolls. The gauntlet starts fitted with a simple [[shortsword]], but you can replace the integrated weapon over the course of a short rest.
+**Integrated Weapon:** The vambrace is able to extend ad retract one-handed weapons, enabled them to be hidden from view, to be used hand-free, and granting them a +1 bonus to attack and damage rolls. The gauntlet starts fitted with a simple [[Shortsword]], but you can replace the integrated weapon over the course of a short rest.
 
 **Stalker’s Cloak:** You can cast [[Greater Invisibility]] on yourself without expending a spell slot and without requiring verbal components. You can do so twice before finishing a long rest.
 

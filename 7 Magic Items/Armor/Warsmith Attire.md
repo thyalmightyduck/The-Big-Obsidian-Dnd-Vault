@@ -20,7 +20,7 @@ When attuned and wearing all the elements of the ensemble, you gain the followin
 
 **Raging Furnace:** The Gloves now hold 5 charges instead of 3 and they regain 1d4+1 charges each day at dawn. You can now expend 4 charges to cast the spell [[Fire Shield]] or [[Stoneskin]] on yourself, requiring no costly component.
 
-**Fire & Steal:** Whenever you cast a spell that deals fire damage while holding a [[light hammer]], [[warhammer]] or [[maul]], it becomes overheated or the duration of the spell, or until the end of your next turn if its duration is instantaneous. Dealing an additional 1d4 fire damage on a hit.
+**Fire & Steal:** Whenever you cast a spell that deals fire damage while holding a [[Light Hammer]], [[Warhammer]] or [[Maul]], it becomes overheated or the duration of the spell, or until the end of your next turn if its duration is instantaneous. Dealing an additional 1d4 fire damage on a hit.
 
 ## Warsmith Apron:
 *Magic Breastplate, Uncommon, Requires Attunement*

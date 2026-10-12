@@ -34,7 +34,7 @@ _Note: This race is listed in the _Dungeon Master's Guide_ as an option for cr
 **Size:** Medium
 **Speed:** 30 Feet, Fly; 30 Feet
 
-**Flight:** Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or [[heavy armor]].
+**Flight:** Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or [[Heavy Armor]].
 **Talons:** You have talons that you can use to make [[Unarmed Strike]]. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an [[Unarmed Strike]]
 **Wind Caller:** Starting at 3rd level, you can cast the [[Gust Of Wind]] spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a [[Long Rest]]. You can also cast the spell using any spell slots you have of 2nd level or higher.
 Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [[Gust Of Wind]] with this trait (choose when you select this race).

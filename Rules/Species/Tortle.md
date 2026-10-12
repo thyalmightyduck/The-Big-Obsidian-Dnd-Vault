@@ -16,7 +16,7 @@ tags:
 **Claws:** You have claws that you can use to make [[Unarmed Strike]]s. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an [[Unarmed Strike]].
 
 **Hold Breath:** You can hold your breath for up to 1 hour.
-**Natural Armor:** Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect this number). You can't wear [[Light Armor]] , [[Medium Armor]], or [[heavy armor]], but if you are using a [[shield]], you can apply the [[shield]]'s bonus as normal.
+**Natural Armor:** Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect this number). You can't wear [[Light Armor]] , [[Medium Armor]], or [[Heavy Armor]], but if you are using a [[Shield]], you can apply the [[Shield]]'s bonus as normal.
 
 **Nature's Intuition:** Thanks to your mystical connection to nature, you gain [[Proficiency]] with one of the following skills of your choice: [[Animal Handling]], [[Medicine]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]].
 
@@ -49,7 +49,7 @@ _The Tortle Package is considered part of Xanathar's Guide to Everything for Adv
 
 **Hold Breath.** You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air.
 
-**Natural Armor.** Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a [[shield]], you can apply the [[shield]]'s bonus as normal.
+**Natural Armor.** Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a [[Shield]], you can apply the [[Shield]]'s bonus as normal.
 
 **Shell Defense.** You can withdraw into your shell as an [[action]]. Until you emerge, you gain a +4 bonus to AC, and you have [[advantage]] on Strength and Constitution [[Saving Throw|saving throws]]. While in your shell, you are [[prone]], your [[speed]] is 0 and can't increase, you have [[disadvantage]] on Dexterity [[Saving Throw|saving throws]], you can't take reactions, and the only [[action]] you can take is a [[bonus action]] to emerge from your shell.
 

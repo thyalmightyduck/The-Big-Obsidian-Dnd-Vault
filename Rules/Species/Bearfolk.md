@@ -33,7 +33,7 @@ tags:
 
 | Lineage | Benefit                                                                                                                                                                                                                                                                                                   |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Andari  | **Nature's Gift.** You know one cantrip of your choice from the [[druid spell list]]. Wisdom is your spellcasting ability score for it.                                                                                                                                                                   |
+| Andari  | **Nature's Gift.** You know one cantrip of your choice from the [[Druid Spell List]]. Wisdom is your spellcasting ability score for it.                                                                                                                                                                   |
 | Garhamr | **Bear Hug.** When you hit a target with an attack roll and deal damage to it, you can make an [[Unarmed Strike]] as a [[Bonus Action]]. You can use this ability a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses when you finish a [[Long Rest]]. |
 # Info 
 ## Book of Ebon  Tides

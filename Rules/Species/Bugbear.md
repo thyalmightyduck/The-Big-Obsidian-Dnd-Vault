@@ -69,7 +69,7 @@ Consider how a monstrous character's native culture views the character. Is the 
 
 The character's bond is a great starting point to consider for this question. How did the bond drive the character to adventure? The character's trait, flaw, and ideal can also play a role in fleshing out the story.
 ##### Friends or Enemies?
-Figure out what special ties the character has to other members of the adventuring party. An orc warlock might be the dwarf [[ranger]]'s sworn enemy, but the two are forced to work together to defeat a mutual foe. Perhaps the kobold sorcerer was the tiefling wizard's familiar, transformed by an irate archmage in return for some petty insult. The hobgoblin paladin might have been human once, but crossed the wrong hag and was cursed to take on an evil guise. A creative tie between a monstrous character and the rest of the party helps make for a memorable campaign.
+Figure out what special ties the character has to other members of the adventuring party. An orc warlock might be the dwarf [[Ranger]]'s sworn enemy, but the two are forced to work together to defeat a mutual foe. Perhaps the kobold sorcerer was the tiefling wizard's familiar, transformed by an irate archmage in return for some petty insult. The hobgoblin paladin might have been human once, but crossed the wrong hag and was cursed to take on an evil guise. A creative tie between a monstrous character and the rest of the party helps make for a memorable campaign.
 
 The Monstrous Origin table gives a number of ideas for adding a monstrous character to the campaign.
 # Pictures

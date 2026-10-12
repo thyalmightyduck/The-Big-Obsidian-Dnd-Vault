@@ -28,7 +28,7 @@ tags:
 
 **Sunlight Sensitivity.** You have disadvantage on attack rolls and on Wisdom ([[Perception]]) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
-**Elf Weapon Training.** You have [[proficiency]] with the [[longsword]], [[shortsword]], [[shortbow]], and [[longbow]].
+**Elf Weapon Training.** You have [[proficiency]] with the [[Longsword]], [[Shortsword]], [[Shortbow]], and [[Longbow]].
 
 ### Info:
 Elves of the Mul Daya nation of Bala Ged are set apart from other elves by their relationship with the spirits of their elven ancestors. To the Mul Daya, the spirit world and the mortal realm are different only in terms of their tangibility. Death and the spirits of the dead are as much a part of the lives of the Mul Daya as is the natural world. This is not a macabre sentiment to the elves; they simply view it as the truest sense of the natural order.

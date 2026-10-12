@@ -4,5 +4,5 @@ A Druidic Focus takes a specific form and is carved, tied with ribbon, or painte
 
 Multiple variations of this item exist, as listed below:
 - [[Sprig of Mistletoe]]
-- [[Wooden staff]]
+- [[Wooden Staff]]
 - [[Yew Wand]]

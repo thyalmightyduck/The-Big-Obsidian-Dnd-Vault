@@ -12,7 +12,7 @@ tags:
 **Size:** Tieflings are about the same size and build as humans. Your size is Medium.
 **[[Darkvision]]:** Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 **Hellish Resistance:** You have resistance to fire damage.
-**Winged:** You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren't wearing [[heavy armor]].
+**Winged:** You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren't wearing [[Heavy Armor]].
 **Languages:** You can speak, read, and write [[Common]] and [[Infernal (Language)]].
 **Appearance:** Your [[tiefling]] might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose 1d4+1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat like legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
 

@@ -20,4 +20,4 @@ If the object is worn or carried by a creature, that creature must succeed on a 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 
 **Classes:** [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Aberrant Mind Sorcerer]], [[Exalted Assembly of the Feline Court Warlock]], [[Great Old One Patron Warlock]], [[Haunted Sorcery Sorcerer]], [[Occultist Guild Monster Hunter]], [[Psi Warrior Fighter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The First Vampire Patron Warlock]], [[The Great Old One Warlock]], [[Warrior Of The Leaden Crown Monk]]
+**Subclasses:** [[Aberrant Mind Sorcerer]], [[Exalted Assembly of the Feline Court Warlock]], [[Great Old One Patron Warlock]], [[Haunted Sorcery Sorcerer]], [[Occultist Guild Monster Hunter]], [[Psi Warrior Fighter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The First Vampire Patron Warlock]], [[The Great Old One Warlock]], [[Warrior of the Leaden Crown Monk]]

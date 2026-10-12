@@ -16,7 +16,7 @@ Choose one of the three moons of Krynn to influence your magic: the black moon, 
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nuitari  | Choose two from [[dissonant whispers]], [[false life]], [[hex]], and [[ray of sickness]]                                                                                                                                                                                                                                                             |
 | Lunitari | Choose two from [[color spray]], [[disguise self]], [[feather fall]], and [[longstrider]]                                                                                                                                                                                                                                                            |
-| Solinari | Choose two from [[comprehend languages]], [[detect evil and good]], [[protection from evil and good]], and [[shield]] |
+| Solinari | Choose two from [[comprehend languages]], [[detect evil and good]], [[protection from evil and good]], and [[Shield]] |
 You can cast each of the chosen 1st-level spells without a spell slot, and you must finish a long rest before you can cast them in this way again. You can also cast the spells using any spell slots you have.
 
 Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Charisma (choose when you select this feat).

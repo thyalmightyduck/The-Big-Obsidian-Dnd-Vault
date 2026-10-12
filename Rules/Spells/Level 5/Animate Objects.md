@@ -18,6 +18,6 @@ Until the spell ends, you can take a [[Bonus Action]] to mentally command any 
 **Using a Higher-Level Spell Slot:** The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
 
 **Classes:** [[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]]
-**Subclasses:** [[Alienist Apothecary]], [[Circle Of The Forged Druid]], [[Forge Domain Cleric]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Urban Ranger Ranger]], [[Way of the Arcane Hand Monk]]
+**Subclasses:** [[Alienist Apothecary]], [[Circle of the Forged Druid]], [[Forge Domain Cleric]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Urban Ranger Ranger]], [[Way of the Arcane Hand Monk]]
 **Backgrounds:** [[Izzet Engineer]]
 **Feats:** [[Boon of Siberys]]

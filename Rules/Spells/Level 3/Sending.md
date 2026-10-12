@@ -16,7 +16,7 @@ You can send the message across any distance and even to other planes of existen
 Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails.
 
 **Classes:** [[Apothecary]], [[Bard]], [[Cleric]], [[Wizard]]
-**Subclasses:** [[Aberrant Mind Sorcerer]], [[aberrant Sorcery Sorcerer]], [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[Occultist Guild Monster Hunter]], [[Peace Domain Cleric]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Great Old One Warlock]], [[Way of the Arcane Hand Monk]]
+**Subclasses:** [[Aberrant Mind Sorcerer]], [[Aberrant Sorcery Sorcerer]], [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[Diviner Wizard]], [[Eldritch Knight Fighter]], [[Occultist Guild Monster Hunter]], [[Peace Domain Cleric]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Great Old One Warlock]], [[Way of the Arcane Hand Monk]]
 **Species:** [[Gnome (Mark of Scribing)]]
 **Feats:** [[Mark of Scribing]]
 **Other Options/Features:** [[Far Scribe]]

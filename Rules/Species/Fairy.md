@@ -13,7 +13,7 @@ tags:
 **Creature Type:** You are a Fey.
 **Fairy Magic:** You know the [[druidcraft]] cantrip. Starting at 3rd level, you can cast the [[Faerie Fire]] spell with this trait. Starting at 5th level, you can also cast the [[Enlarge Reduce]] spell with this trait. Once you cast [[Faerie Fire]] or [[Enlarge Reduce]] with this trait, you can't cast that spell with it again until you finish a [[Long Rest]]. You can also cast either of those spells using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
-**Flight:** Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or [[heavy armor]].
+**Flight:** Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or [[Heavy Armor]].
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
 ### Info:

@@ -78,7 +78,7 @@
 >>>> **[[Spellcasting Focus]]:** You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 >
 #### Level 1 Eldritch Invocations
->>> **[[Pact Of The Blade]]:** As a [[Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[Spellcasting Focus]].
+>>> **[[Pact of the Blade]]:** As a [[Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[Spellcasting Focus]].
 >>> Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 >>> Your bond with the weapon ends if you use this feature's [[Bonus Action]] again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 >>> **Lesson Of The First One:** You have received knowledge from an elder entity of the multiverse, allowing you to gain one [[Origin feat]] of your choice.

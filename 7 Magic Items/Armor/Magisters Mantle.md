@@ -10,7 +10,7 @@ tags:
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |
-> | Wondrous Item (Robe) | Legendary (Requires [[Attunement]] by a [[sorcerer]], [[warlock]], or [[wizard]]) |
+> | Wondrous Item (Robe) | Legendary (Requires [[Attunement]] by a [[Sorcerer]], [[Warlock]], or [[Wizard]]) |
 > | Price | 250 GP |
 > ##### Description
 This suspends an engraved metal plate over the wearer’s chest, which bears an enchantment amplifying arcane power and protection from magical attack. 

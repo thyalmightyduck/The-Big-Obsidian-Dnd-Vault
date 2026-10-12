@@ -14,5 +14,5 @@ You ward a creature within range. Until the spell ends, any creature who targets
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
 **Classes:** [[Artificer]], [[Cleric]], [[Tamer]]
-**Subclasses:** [[College of Lore Bard]], [[Couatl Herald Fighter]], [[Divine Soul Sorcerer]], [[Oath of Devotion Paladin]], [[Oath of Redemption Paladin]], [[Peace Domain Cleric]], [[The Genie Warlock]], [[The Parasite Patron Warlock]], [[way of the open hand monk]]
+**Subclasses:** [[College of Lore Bard]], [[Couatl Herald Fighter]], [[Divine Soul Sorcerer]], [[Oath of Devotion Paladin]], [[Oath of Redemption Paladin]], [[Peace Domain Cleric]], [[The Genie Warlock]], [[The Parasite Patron Warlock]], [[Way of the Open Hand Monk]]
 **Feats:** [[Artificer Initiate]], [[Divinely Favored]], [[Magic Initiate]], [[Mark of Warding]], [[Rune Shaper]], [[Strixhaven Initiate]]

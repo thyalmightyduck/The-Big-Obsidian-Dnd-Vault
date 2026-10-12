@@ -16,4 +16,4 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 If you cast the spell more than once before finishing a [[Long Rest]], there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 **Classes:** [[Cleric]]
-**Subclasses:** [[Divine Soul Sorcerer]], [[Oath of Devotion Paladin]], [[Oath of glory Paladin]], [[Order Domain Cleric]]
+**Subclasses:** [[Divine Soul Sorcerer]], [[Oath of Devotion Paladin]], [[Oath of Glory Paladin]], [[Order Domain Cleric]]

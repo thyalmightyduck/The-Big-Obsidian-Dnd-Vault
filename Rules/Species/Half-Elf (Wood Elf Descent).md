@@ -16,7 +16,7 @@ tags:
 **Fey Ancestry:** You have [[Advantage]] on saving throws against being [[charmed]], and magic can't put you to sleep.
 	###### Variant Feature (Choose 1)
 	**Skill Versatility:** You gain [[Proficiency]] in two skills of your choice.
-	**Elf Weapon Training:** You have [[Proficiency]] with the [[Longsword]], [[shortsword]], [[Shortbow]], and [[Longbow]].
+	**Elf Weapon Training:** You have [[Proficiency]] with the [[Longsword]], [[Shortsword]], [[Shortbow]], and [[Longbow]].
 	**Fleet of Foot** Your base walking speed increases to 35 feet.
 	**Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena
 **Languages:** You can speak, read, and write Common, [[Elvish]], and one extra language of your choice.
