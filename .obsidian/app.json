@@ -11,7 +11,9 @@
   "newFileLocation": "folder",
   "readableLineLength": false,
   "showLineNumber": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "propertiesInDocument": "visible",
-  "newFileFolderPath": "Playgound"
+  "newFileFolderPath": "Playgound",
+  "strictLineBreaks": false,
+  "showIndentGuide": true
 }

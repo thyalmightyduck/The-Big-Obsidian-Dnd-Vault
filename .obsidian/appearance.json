@@ -5,5 +5,7 @@
   ],
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
-  "showRibbon": true
+  "showRibbon": true,
+  "accentColor": "#09008a",
+  "showViewHeader": true
 }
