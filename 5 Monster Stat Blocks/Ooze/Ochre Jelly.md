@@ -28,14 +28,13 @@ traits:
     desc: The jelly can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 actions:
   - name: Pseudopod.
-    desc: "_Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 12 (3d6 + 2) Acid damage."
+    desc: _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 12 (3d6 + 2) Acid damage.
 reactions:
   - name: Split.
     desc: _Trigger:_ While the jelly is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. _Response:_ The jelly splits into two new Ochre Jellies. Each new jelly is one size smaller than the original jelly and acts on its Initiative. The original jelly's Hit Points are divided evenly between the new jellies (round down).
 statblock: true
 atlas-type: statblock
-image:
-  - - Ochre Jell BGR PNG.png
+image: atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp
 tags:
   - monster
   - ooze

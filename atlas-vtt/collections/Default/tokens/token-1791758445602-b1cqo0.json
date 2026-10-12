@@ -6,12 +6,12 @@
     "name": "Ochre Jelly",
     "imagePath": "atlas-vtt/assets/Ochre_Jelly_1791758445572_ytohyo.webp",
     "size": 1.5,
-    "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md",
     "collection": "Default",
     "tags": [],
     "thumbnailPath": "atlas-vtt/assets/thumbnails/Ochre_Jelly_1791758445572_ytohyo-41b6245d.webp",
     "id": "token-1791758445602-b1cqo0",
     "createdAt": 1791758445602,
-    "modifiedAt": 1791758445602
+    "modifiedAt": 1791777212276,
+    "statblockPath": "5 Monster Stat Blocks/Ooze/Ochre Jelly.md"
   }
 }
