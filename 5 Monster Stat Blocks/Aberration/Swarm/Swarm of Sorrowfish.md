@@ -50,8 +50,8 @@ ___
 ## Swarm of Sorrowfish
 *Medium swarm of Tiny Aberrations, Unaligned*
 ___
-- **Armor Class** 14
-- **Hit Points** 104 (16d8 + 32)
+- **[[Armor Class]]** 14
+- **[[Hit Point|Hit Points]]** 104 (16d8 + 32)
 - **Speed** 0 ft., Swim 30 ft.
 - **Initiative** +4 (14)
 ___
