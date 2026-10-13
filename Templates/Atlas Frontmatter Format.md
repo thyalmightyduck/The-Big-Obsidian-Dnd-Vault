@@ -25,6 +25,10 @@ skillsaves:
   - history:
   - perception:
 senses:
+condition_immunities:
+damage_immunities:
+damage_resistances:
+languages:
 cr:
 legendary_description: Text goes here
 traits:
@@ -33,6 +37,7 @@ traits:
 actions:
   - name: Name goes here
     desc: Desc Goes Here Keep The Dashes
+bonus_actions:
 legendary_actions:
   - name: Name Goes Here
     desc: Desc Goes Here

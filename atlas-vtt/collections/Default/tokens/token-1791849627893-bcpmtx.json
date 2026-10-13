@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Worms-in-the-Walls Swarm",
+    "imagePath": "atlas-vtt/assets/Worms_in_the_Walls_Swarm_1791849627856_xzg4p3.png",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Worms-in-the-Walls Swarm.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Worms_in_the_Walls_Swarm_1791849627856_xzg4p3-e6b7b825.webp",
+    "id": "token-1791849627893-bcpmtx",
+    "createdAt": 1791849627893,
+    "modifiedAt": 1791849627893
+  }
+}
