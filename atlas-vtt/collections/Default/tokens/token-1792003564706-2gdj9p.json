@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Mahogony BGR PNG",
+    "imagePath": "atlas-vtt/assets/Mahogony_BGR_PNG_1792003564304_6lrxo8.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Mahogony_BGR_PNG_1792003564304_6lrxo8-9b8dad65.webp",
+    "id": "token-1792003564706-2gdj9p",
+    "createdAt": 1792003564706,
+    "modifiedAt": 1792003564706
+  }
+}
