@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Swarm of Ears",
+    "imagePath": "atlas-vtt/assets/Swarm_of_Ears_1791939961537_ezt4yv.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Swarm of Ears.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Swarm_of_Ears_1791939961537_ezt4yv-b772a76c.webp",
+    "id": "token-1791939961885-8u7489",
+    "createdAt": 1791939961885,
+    "modifiedAt": 1791939961885
+  }
+}

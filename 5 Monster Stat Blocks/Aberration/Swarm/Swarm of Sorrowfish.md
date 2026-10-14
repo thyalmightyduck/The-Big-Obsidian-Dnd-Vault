@@ -43,6 +43,7 @@ tags:
   - swarm
   - Aberration
   - CRCotN
+  - CR6
 ---
 
 ___

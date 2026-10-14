@@ -30,12 +30,12 @@ ___
 >
 >***Bite.*** *Melee Attack Roll:*  +8, reach 5 ft. *Hit:* 12 (2d8 + 3) Bludgeoning damage plus 13 (3d8) Acid damage, and if the target is Medium or smaller, it has the Grappled condition (escape DC 16). While Grappled, the target has the Restrained condition and the grotesquerie can't Bite another target.  
 >
->***Call Animals.*** The grotesquerie summons another **Swarm of Grotesquerie Minions** into an unoccupied space within 60 feet.  
+>***Call Animals.*** The grotesquerie summons another **[[Swarm of Grotesquerie Minions]]** into an unoccupied space within 60 feet.  
 >
->***Devour Animals.*** The grotesquerie orders one **Swarm of Grotesquerie Minions** into its maw. The swarm is removed from the Initiative order, and the grotesquerie regains Hit Points up to the amount the swarm had remaining.  
+>***Devour Animals.*** The grotesquerie orders one **[[Swarm of Grotesquerie Minions]]** into its maw. The swarm is removed from the Initiative order, and the grotesquerie regains Hit Points up to the amount the swarm had remaining.  
 >
 >***Grotesque Vomit (Recharge 4–6).*** *Dexterity Saving Throw:* DC 18, each creature in a 30-foot Cone. *Failure:* 45 (10d8) Acid damage. *Success:* Half damage.  
->If the grotesquerie has a creature swallowed, it expels the creature, hurling it up to 30 feet into random unoccupied space in the Cone. The target takes 7 (2d6) Bludgeoning damage and has the Prone condition. If the grotesquerie has used Devour Animals, a swarm of grotesquerie minions also lands safely in a random space in the Cone and rejoins the Initiative order.  
+>If the grotesquerie has a creature swallowed, it expels the creature, hurling it up to 30 feet into random unoccupied space in the Cone. The target takes 7 (2d6) Bludgeoning damage and has the Prone condition. If the grotesquerie has used Devour Animals, a [[swarm of grotesquerie minions]] also lands safely in a random space in the Cone and rejoins the Initiative order.  
 >
 >***Swallow.*** The grotesquerie makes one Bite attack against a Medium or smaller creature it has Grappled with its Bite. *Hit:* The target takes the Bite attack's damage, no longer has the Grappled condition, and is swallowed. While swallowed, the target has the Blinded and Restrained condition and Total Cover from effects that originate outside the grotesquerie. It takes 10 (3d6) Bludgeoning damage and 18 (4d8) Acid damage at the start of each of the grotesquerie's turns. The grotesquerie can have only one creature swallowed at a time.  
 >If the grotesquerie takes 25 damage or more on a single turn from a creature inside it, the grotesquerie must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the swallowed creature, which lands in a space within 10 feet of the grotesquerie and has the Prone condition. If the grotesquerie dies, the swallowed creature no longer has the Restrained condition and can escape the corpse using 10 feet of movement, exiting with the Prone condition.  
