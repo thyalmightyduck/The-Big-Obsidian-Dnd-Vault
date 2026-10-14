@@ -2065,6 +2065,63 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Swarm of Cranium Rats",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Swarm of Cranium Rats BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Swarm of Cranium Rats",
+        "size": "Medium swarm",
+        "type": "Tiny Aberrations",
+        "subtype": null,
+        "alignment": "Lawful Evil",
+        "ac": 12,
+        "hp": 76,
+        "hit_dice": "17d8",
+        "speed": "30 ft.",
+        "stats": [
+          9,
+          14,
+          10,
+          15,
+          11,
+          14
+        ],
+        "damage_resistances": "Bludgeoning, Piercing, Slashing",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 30 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 12",
+        "languages": "<STATBLOCK-WIKI-LINK>Telepathy<STATBLOCK-WIKI-LINK> 30 ft.",
+        "cr": 5,
+        "spellsNotes": "__Spellcasting (Psionics).__ As long as it has more than half of its <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> remaining, the swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13)",
+        "spells": [
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>command<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>comprehend languages<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>detect thoughts<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>confusion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>dominate monster<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Swarm.",
+            "desc": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> or gain <STATBLOCK-WIKI-LINK>Temporary Hit Point|temporary hit points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bites.",
+            "desc": "*Melee Weapon Attack:*  +5 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> or fewer, plus 22 (5d8) psychic damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Illumination.",
+            "desc": "The swarm sheds <STATBLOCK-WIKI-LINK>dim light<STATBLOCK-WIKI-LINK> from its brains in a 5-foot radius, increases the illumination to <STATBLOCK-WIKI-LINK>bright light<STATBLOCK-WIKI-LINK> in a 5- to 20-foot radius (and <STATBLOCK-WIKI-LINK>dim light<STATBLOCK-WIKI-LINK> for an additional number of feet equal to the chosen radius), or extinguishes the light."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

@@ -1,4 +1,11 @@
-# Mordenkainen Presents: Monsters of the Multiverse
+---
+tags:
+  - Monster
+  - swarm
+  - Aberration
+  - MPMM
+---
+# Mordenkainen Presents: Monsters of the Multiverse (MPMM)
 ___
 ## Swarm of Cranium Rats
 *Medium swarm of Tiny Aberrations, Typically Lawful Evil*
@@ -59,7 +66,7 @@ condition_immunities: [[Charmed]], [[Frightened]], [[Grappled]], [[Paralyzed]], 
 senses: [[Darkvision]] 30 ft., [[Passive Perception]] 10, Passive Insight 10, Passive Stealth 12
 languages: [[Telepathy]] 30 ft.
 cr: 5
-spellsNotes: As long as it has more than half of its [[Hit Point|hit points]] remaining, the swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13)  
+spellsNotes: __Spellcasting (Psionics).__ As long as it has more than half of its [[Hit Point|hit points]] remaining, the swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13)  
 spells:
   - At will: [[command]], [[comprehend languages]], [[detect thoughts]]  
   - 1/day each: [[confusion]], [[dominate monster]]    
@@ -67,19 +74,9 @@ traits:
   - name: Swarm.
     desc: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain [[Hit Point|hit points]] or gain [[Temporary Hit Point|temporary hit points]].    
 actions:
-  - name: "Multiattack"
-    desc: "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
-  - name: "Slam"
-    desc: "_Melee [[Attack Roll]]:_ +6 (with [[Advantage]] during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
-  - name: "Unsettling Visage (Recharge 6)"
-  - desc: "_Wisdom [[Saving Throw]]:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
+  - name: "Bites."
+    desc: "*Melee Weapon Attack:*  +5 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its [[Hit Point|hit points]] or fewer, plus 22 (5d8) psychic damage."   
 bonus_actions:
-  - name: "Shape-Shift"
-    desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
-reactions:
-  - name: 
-    desc: 
-legendary_actions:
-  - name: 
-    desc:   
+  - name: "Illumination."
+    desc: "The swarm sheds [[dim light]] from its brains in a 5-foot radius, increases the illumination to [[bright light]] in a 5- to 20-foot radius (and [[dim light]] for an additional number of feet equal to the chosen radius), or extinguishes the light."  
 ```
