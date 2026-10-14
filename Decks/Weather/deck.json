@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "flip": 40,
+    "turn": "half"
+  },
+  "state": {
+    "total": 10,
+    "remaining": [
+      6,
+      1,
+      7,
+      9,
+      0,
+      5,
+      4,
+      8,
+      2,
+      3
+    ],
+    "drawn": [],
+    "removed": []
+  }
+}

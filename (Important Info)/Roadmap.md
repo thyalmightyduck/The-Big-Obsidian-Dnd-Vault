@@ -51,6 +51,8 @@ Add Weapon Lists
 - Multi Properties-technohiker
 - Text Formater-Benature
 - Atlas VTT-Fabian Urbanek
+- Randomness_Josh
+- Wonderful Cards-trikorka
 # Problem Plugins (Install at own risk)
 - Highlightr-chetachi
 - Janitor-Gabriele Cannata (Don’t have enabled unless you are actively using causes performance issues)

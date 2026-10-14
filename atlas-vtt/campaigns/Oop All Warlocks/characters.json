@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "campaignId": "21faf5b8-95d1-46d8-bb14-ec57f1915c2b",
+  "characters": {
+    "token-1791747760157-wr5u4w": {
+      "resources": {
+        "hp": {
+          "current": 51,
+          "max": 74,
+          "maxByHand": true
+        }
+      }
+    },
+    "token-1791747760157-g16y81": {
+      "resources": {
+        "hp": {
+          "current": 20,
+          "max": 64,
+          "maxByHand": true
+        }
+      }
+    },
+    "token-1791747760157-6ls5ck": {
+      "resources": {
+        "hp": {
+          "current": 70,
+          "max": 70,
+          "maxByHand": true
+        }
+      }
+    },
+    "token-1791747760157-4zipyd": {
+      "resources": {
+        "hp": {
+          "current": 1,
+          "max": 63,
+          "maxByHand": true
+        }
+      }
+    },
+    "token-1791747760157-07ms3w": {
+      "resources": {
+        "hp": {
+          "current": 69,
+          "max": 73,
+          "maxByHand": true
+        }
+      }
+    }
+  }
+}

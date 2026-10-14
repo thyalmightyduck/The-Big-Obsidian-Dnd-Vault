@@ -2122,6 +2122,73 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Spythronar Swarm",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Spythronar Swarm BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Spythronar Swarm",
+        "size": "Medium swarm",
+        "type": "Tiny Aberrations",
+        "alignment": "Neutral Evil",
+        "ac": 13,
+        "hp": 45,
+        "hit_dice": "10d8",
+        "speed": "30 ft., Climb 30 ft.",
+        "stats": [
+          5,
+          17,
+          10,
+          3,
+          11,
+          3
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 5
+          }
+        ],
+        "damage_resistances": "Bludgeoning, Piercing, Slashing",
+        "damage_immunities": "Lightning",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., Tremorsense 30 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive 13",
+        "languages": [
+          null
+        ],
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Spider Climb.",
+            "desc": "A spythronar swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an <STATBLOCK-WIKI-LINK>ability check<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "name": "Swarm.",
+            "desc": "The spythronar swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny arachnid. The swarm can't regain <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> or gain <STATBLOCK-WIKI-LINK>Temporary Hit Point|Temporary Hit Points<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Web Walker.",
+            "desc": "The <STATBLOCK-WIKI-LINK>spythronar web<STATBLOCK-WIKI-LINK> ignores movement restrictions caused by webbing, and it knows the location of any other creature in contact with the same webbing."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bites.",
+            "desc": "_Melee Attack Roll_  +5, reach 0 ft., one creature in the swarm's space. _Hit_ 10 (4d4) Piercing damage plus 9 (2d8) Lightning damage, or 5 (2d4) Piercing damage plus 4 (1d8) Lightning damage if the swarm has the <STATBLOCK-WIKI-LINK>Bloodied<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Weave (4/Day).",
+            "desc": "The spythronar swarm weaves webbing, covering a 5-foot Square. The swarm can give up 1 <STATBLOCK-WIKI-LINK>Hit Point<STATBLOCK-WIKI-LINK> to create a <STATBLOCK-WIKI-LINK>spythronar sac<STATBLOCK-WIKI-LINK> in that space. If the swarm's webbing covers a 10-foot Square, it can give up 23 <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> to instead create a spythronar web with the same number of <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK>. The swarm can't drop to 0 <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> to create a sac or web. If the swarm weaves an incomplete web, that web is a normal web rather than a sentient, monstrous one. A creature that enters the normal web's space must succeed on a DC 10 Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or have the <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK> (escape DC 10). While <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, the target has the <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK>. Each 5-foot Square of this web has AC 10, the Vulnerabilities, Immunities, and <STATBLOCK-WIKI-LINK>Resistance|Resistances<STATBLOCK-WIKI-LINK> of a <STATBLOCK-WIKI-LINK>spythronar web<STATBLOCK-WIKI-LINK>, and 5 <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Furtive.",
+            "desc": "The spythronar swarm takes the <STATBLOCK-WIKI-LINK>Hide action<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
