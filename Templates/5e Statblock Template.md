@@ -15,6 +15,8 @@ fage_stats:
 saves: 
   - 
   - 
+skillsaves:
+  - 
 damage_vulnerabilities: 
 damage_resistances: 
 damage_immunities: 
@@ -22,9 +24,10 @@ condition_immunities: [[Charmed]]
 senses: [[Darkvision]] 60Ft, Passive Perception 11
 languages: [[Common]] And 3 More
 cr: 3
+spellsNotes: 
 spells:
-  - The doppelganger casts [[Detect Thoughts]], requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).:
-  - At Will: [[Detect Thoughts]]
+  - 
+legendary_description: 
 traits:
   - name: 
     desc:   
@@ -44,4 +47,14 @@ reactions:
 legendary_actions:
   - name: 
     desc:   
+mythic_description: 
+mythic_actions:
+  - name: 
+    desc:
+lair_actions:
+  - name: 
+    desc:
+regional_effects:
+  - name: 
+    desc:
 ```
