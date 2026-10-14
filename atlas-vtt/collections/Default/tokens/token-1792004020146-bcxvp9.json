@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Black Earth Guard",
+    "imagePath": "atlas-vtt/assets/Black_Earth_Guard_1792004019444_l5eu4c.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Black Earth Guard.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Black_Earth_Guard_1792004019444_l5eu4c-90c2163f.webp",
+    "id": "token-1792004020146-bcxvp9",
+    "createdAt": 1792004020146,
+    "modifiedAt": 1792004020146
+  }
+}

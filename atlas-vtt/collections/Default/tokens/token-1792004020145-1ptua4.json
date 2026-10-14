@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Amethyst Dragon Wyrmling",
+    "imagePath": "atlas-vtt/assets/Amethyst_Dragon_Wyrmling_1792004018842_yz8uqi.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Dragon/Amethyst Dragon Wyrmling.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Amethyst_Dragon_Wyrmling_1792004018842_yz8uqi-f52e56ee.webp",
+    "id": "token-1792004020145-1ptua4",
+    "createdAt": 1792004020145,
+    "modifiedAt": 1792004020145
+  }
+}

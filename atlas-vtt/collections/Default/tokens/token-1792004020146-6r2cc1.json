@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Basilisk",
+    "imagePath": "atlas-vtt/assets/Basilisk_1792004019397_8j3or7.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Monstrosity/Basilisk.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Basilisk_1792004019397_8j3or7-e8b88369.webp",
+    "id": "token-1792004020146-6r2cc1",
+    "createdAt": 1792004020146,
+    "modifiedAt": 1792004020146
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Wildfire Spirit",
+    "imagePath": "atlas-vtt/assets/Wildfire_Spirit_1792004020080_k8ltre.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Elemental/Wildfire Spirit.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Wildfire_Spirit_1792004020080_k8ltre-e4981b14.webp",
+    "id": "token-1792004020146-0db1xc",
+    "createdAt": 1792004020146,
+    "modifiedAt": 1792004020146
+  }
+}

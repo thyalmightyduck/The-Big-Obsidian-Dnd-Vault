@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Masked One of Arkan",
+    "imagePath": "atlas-vtt/assets/Masked_One_of_Arkan_1792004019794_78pk7z.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Masked One of Arkan.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Masked_One_of_Arkan_1792004019794_78pk7z-a6afe4e2.webp",
+    "id": "token-1792004020146-79zf5g",
+    "createdAt": 1792004020146,
+    "modifiedAt": 1792004020146
+  }
+}
