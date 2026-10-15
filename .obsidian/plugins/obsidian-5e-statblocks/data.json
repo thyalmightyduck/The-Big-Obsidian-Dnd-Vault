@@ -2645,6 +2645,138 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Voiceless Talker Operative",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Voiceless Talker Operative BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Voiceless Talker Operative",
+        "size": "Medium",
+        "type": "Aberration",
+        "subtype": "<STATBLOCK-WIKI-LINK>Voiceless Talker<STATBLOCK-WIKI-LINK>, Retainer",
+        "alignment": "Any Alignment",
+        "ac": "15 (<STATBLOCK-WIKI-LINK>medium armor<STATBLOCK-WIKI-LINK>)",
+        "hp": "Seven times their level (number of d8 <STATBLOCK-WIKI-LINK>Hit Point Dice|Hit Dice<STATBLOCK-WIKI-LINK> equal to their level)",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          10,
+          16,
+          10,
+          12
+        ],
+        "saves": [
+          {
+            "STR": "+PB"
+          },
+          {
+            "DEX": "1+PB"
+          },
+          {
+            "CON": "+PB"
+          },
+          {
+            "INT": "3+PB"
+          },
+          {
+            "WIS": "+PB"
+          },
+          {
+            "CHA": "1+PB"
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": "+3 plus PB"
+          },
+          {
+            "Deception": "+1 plus PB"
+          }
+        ],
+        "damage_resistances": "Bludgeoning",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10,  Passive Stealth 11",
+        "languages": "Common, Deep Speech, Undercommon, telepathy 60 ft.",
+        "cr": null,
+        "actions": [
+          {
+            "name": "Signature Attack (Psionic Pistol).",
+            "desc": "*Ranged Weapon Attack:*  +3 plus PB to hit, range 80/320 ft., one target. *Hit:* 1d10 plus PB force damage. Beginning at 7th level, the operative can make this attack twice, instead of once, when they take the <STATBLOCK-WIKI-LINK>Attack action<STATBLOCK-WIKI-LINK> on their turn."
+          },
+          {
+            "name": "3rd Level: Phasing Charge (3/Day).",
+            "desc": "When the operative hits a creature with a signature attack, they can attempt to teleport the target. The target must succeed on a DC 10 plus PB Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be teleported up to 30 feet to an unoccupied space on the ground that the operative can see."
+          },
+          {
+            "name": "5th Level: Telekinetic Repulsion (3/Day).",
+            "desc": "As an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK>, the operative releases a powerful pulse of energy. Each <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK> within 10 feet of the operative must make a DC 10 plus PB Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, a creature takes PBd6 force damage and is pushed up to 10 feet directly away from the operative. On a successful save, a creature takes half as much damage and isn't pushed."
+          },
+          {
+            "name": "7th Level: Memory Thief (3/Day; 4th-Order Power; <STATBLOCK-WIKI-LINK>Concentration<STATBLOCK-WIKI-LINK>).",
+            "desc": "The operative psionically plunders the mind of a creature they can see within 30 feet of them. The target must make a DC 10 plus PB Intelligence <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, the target takes 22 (4d10) psychic damage, and for 1 minute, the target's <STATBLOCK-WIKI-LINK>proficiency bonus<STATBLOCK-WIKI-LINK> is cumulatively lowered by 1 and the infiltrator gains a cumulative +1 bonus to attack and damage rolls and to each feature's save DC. On a successful save, a target takes half as much damage and doesn't have their <STATBLOCK-WIKI-LINK>proficiency bonus<STATBLOCK-WIKI-LINK> reduced. <P>A creature whose <STATBLOCK-WIKI-LINK>proficiency bonus<STATBLOCK-WIKI-LINK> drops to 0 can't form new thoughts or speak, and they have <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on ability checks, attack rolls, and <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Derro Savant",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Derro Savant.png<STATBLOCK-WIKI-LINK>",
+        "name": "Derro Savant",
+        "size": "Small",
+        "type": "Aberration",
+        "subtype": "Sorcerer",
+        "alignment": "Typically Chaotic Evil",
+        "ac": "13 (*<STATBLOCK-WIKI-LINK>leather armor<STATBLOCK-WIKI-LINK>*)",
+        "hp": 36,
+        "hit_dice": "8d6 + 8",
+        "speed": "30 ft.",
+        "stats": [
+          9,
+          14,
+          12,
+          11,
+          5,
+          14
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 4
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 7, Passive Insight 7, Passive Stealth 14",
+        "languages": "Dwarvish, Undercommon",
+        "cr": 3,
+        "spellsNotes": "***Spellcasting.*** The derro casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):",
+        "spells": [
+          "**At will**: *<STATBLOCK-WIKI-LINK>mage hand<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>message<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>prestidigitation<STATBLOCK-WIKI-LINK>*",
+          "**1/day each:** *<STATBLOCK-WIKI-LINK>invisibility<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>sleep<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>spider climb<STATBLOCK-WIKI-LINK>*"
+        ],
+        "traits": [
+          {
+            "name": "Magic Resistance.",
+            "desc": "The derro has <STATBLOCK-WIKI-LINK>advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> against spells and other magical effects."
+          },
+          {
+            "name": "Sunlight Sensitivity.",
+            "desc": "While in sunlight, the derro has <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>attack rolls<STATBLOCK-WIKI-LINK>, as well as on Wisdom (<STATBLOCK-WIKI-LINK>Perception<STATBLOCK-WIKI-LINK>) checks that rely on sight."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Quarterstaff.",
+            "desc": "*Melee Weapon Attack:*  +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 - 1) bludgeoning damage."
+          },
+          {
+            "name": "Chromatic Beam.",
+            "desc": "The derro launches a brilliant beam of magical energy in a 5-foot-wide <STATBLOCK-WIKI-LINK>line<STATBLOCK-WIKI-LINK> that is 60 feet long. Each creature in the <STATBLOCK-WIKI-LINK>line<STATBLOCK-WIKI-LINK> must make a DC 12 Dexterity <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

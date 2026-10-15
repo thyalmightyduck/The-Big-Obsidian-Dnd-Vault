@@ -108,6 +108,21 @@
       "id": "warlock",
       "name": "Warlock",
       "group": "tokens"
+    },
+    "tokens:fm": {
+      "id": "fm",
+      "name": "FM",
+      "group": "tokens"
+    },
+    "tokens:summon": {
+      "id": "summon",
+      "name": "Summon",
+      "group": "tokens"
+    },
+    "tokens:small": {
+      "id": "small",
+      "name": "Small",
+      "group": "tokens"
     }
   },
   "settings": {
