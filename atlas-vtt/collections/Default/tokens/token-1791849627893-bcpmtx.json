@@ -8,10 +8,16 @@
     "size": 1.5,
     "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Worms-in-the-Walls Swarm.md",
     "collection": "Default",
-    "tags": [],
+    "tags": [
+      "Aberration",
+      "CR3",
+      "Large",
+      "GHMG24",
+      "Swarm"
+    ],
     "thumbnailPath": "atlas-vtt/assets/thumbnails/Worms_in_the_Walls_Swarm_1791849627856_xzg4p3-e6b7b825.webp",
     "id": "token-1791849627893-bcpmtx",
     "createdAt": 1791849627893,
-    "modifiedAt": 1791849627893
+    "modifiedAt": 1792032427717
   }
 }

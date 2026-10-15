@@ -11,11 +11,12 @@
       "Beast",
       "CR1/2",
       "Homebrew",
-      "Swarm"
+      "Swarm",
+      "Medium"
     ],
     "thumbnailPath": "atlas-vtt/assets/thumbnails/Vampster_Swarm_1792004020010_xl8txp-42d6f82f.webp",
     "id": "token-1792004020146-1l5kbm",
     "createdAt": 1792004020146,
-    "modifiedAt": 1792032067828
+    "modifiedAt": 1792032379699
   }
 }
