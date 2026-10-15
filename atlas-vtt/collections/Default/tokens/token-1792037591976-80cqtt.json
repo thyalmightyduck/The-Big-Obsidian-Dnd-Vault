@@ -1,0 +1,23 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Neogi Void Hunter",
+    "imagePath": "atlas-vtt/assets/Neogi_Void_Hunter_1792037591882_7f7j71.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Warlocks/Neogi Void Hunter.md",
+    "collection": "Default",
+    "tags": [
+      "Aberration",
+      "BAM",
+      "CR4",
+      "Medium",
+      "Warlock"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Neogi_Void_Hunter_1792037591882_7f7j71-15b494ed.webp",
+    "id": "token-1792037591976-80cqtt",
+    "createdAt": 1792037591976,
+    "modifiedAt": 1792037591976
+  }
+}

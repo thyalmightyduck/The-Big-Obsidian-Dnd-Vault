@@ -103,6 +103,11 @@
       "id": "mpp",
       "name": "MPP",
       "group": "tokens"
+    },
+    "tokens:warlock": {
+      "id": "warlock",
+      "name": "Warlock",
+      "group": "tokens"
     }
   },
   "settings": {
