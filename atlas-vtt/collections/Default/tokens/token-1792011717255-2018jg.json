@@ -8,10 +8,16 @@
     "size": 1,
     "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Spythronar Swarm.md",
     "collection": "Default",
-    "tags": [],
+    "tags": [
+      "Aberration",
+      "CR2",
+      "GHMG24",
+      "Medium",
+      "Swarm"
+    ],
     "thumbnailPath": "atlas-vtt/assets/thumbnails/Spythronar_Swarm_1792011717126_tyjdgz-5a862d8d.webp",
     "id": "token-1792011717255-2018jg",
     "createdAt": 1792011717255,
-    "modifiedAt": 1792011717255
+    "modifiedAt": 1792031639512
   }
 }

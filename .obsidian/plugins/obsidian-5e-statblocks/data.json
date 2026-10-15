@@ -2298,6 +2298,53 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Mukad Larva Swarm",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Mukad Larva Swarm BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Mukad Larva Swarm",
+        "size": "Medium swarm",
+        "type": "Tiny Aberrations",
+        "alignment": "Lawful Evil",
+        "ac": 12,
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "speed": "20 ft., Climb 20 ft.",
+        "stats": [
+          10,
+          12,
+          12,
+          3,
+          10,
+          4
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60Ft, Passive Perception 11",
+        "languages": "<STATBLOCK-WIKI-LINK>Blindsight<STATBLOCK-WIKI-LINK> 10 ft., <STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 11",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Magic Resistance.",
+            "desc": "The swarm has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> against spells and other magical effects."
+          },
+          {
+            "name": "Spider Climb.",
+            "desc": "The larva swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an <STATBLOCK-WIKI-LINK>ability check<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Swarm.",
+            "desc": "The larva swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> or gain <STATBLOCK-WIKI-LINK>Temporary Hit Point|Temporary Hit Points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bites.",
+            "desc": "*Melee Attack Roll:*  +3, reach 5 ft. *Hit:* 7 (2d6 + 1) Piercing damage plus 7 (2d6) Poison damage, or 4 (1d6 + 1) Piercing damage plus 3 (1d6) Poison damage if the larva swarm is <STATBLOCK-WIKI-LINK>Bloodied<STATBLOCK-WIKI-LINK>. If the target is a creature, it is subjected to the following effect. *Constitution <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 11. *Failure:* The target has the <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK>. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. It automatically succeeds after 1 minute. <p>If the target drops to 0 <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> while <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>, it is <STATBLOCK-WIKI-LINK>Stable<STATBLOCK-WIKI-LINK> but has the <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK> for 1 hour and has the <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK> until it is no longer <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

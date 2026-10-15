@@ -1,0 +1,23 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Neogi Hatchling Swarm",
+    "imagePath": "atlas-vtt/assets/Neogi_Hatchling_Swarm_1792030534863_1vmkd1.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Neogi Hatchling Swarm.md",
+    "collection": "Default",
+    "tags": [
+      "Aberration",
+      "Swarm",
+      "BAM",
+      "CR3",
+      "Medium"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Neogi_Hatchling_Swarm_1792030534863_1vmkd1-acbe1adc.webp",
+    "id": "token-1792030534974-ecvq83",
+    "createdAt": 1792030534974,
+    "modifiedAt": 1792031532186
+  }
+}

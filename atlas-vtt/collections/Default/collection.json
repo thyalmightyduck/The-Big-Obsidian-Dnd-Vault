@@ -8,6 +8,91 @@
       "id": "class",
       "name": "Class",
       "group": "tokens"
+    },
+    "tokens:swarm": {
+      "id": "swarm",
+      "name": "Swarm",
+      "group": "tokens"
+    },
+    "tokens:aberration": {
+      "id": "aberration",
+      "name": "Aberration",
+      "group": "tokens"
+    },
+    "tokens:ghmg24": {
+      "id": "ghmg24",
+      "name": "GHMG24",
+      "group": "tokens"
+    },
+    "tokens:cr2": {
+      "id": "cr2",
+      "name": "CR2",
+      "group": "tokens"
+    },
+    "tokens:bam": {
+      "id": "bam",
+      "name": "BAM",
+      "group": "tokens"
+    },
+    "tokens:cr3": {
+      "id": "cr3",
+      "name": "CR3",
+      "group": "tokens"
+    },
+    "tokens:tob123": {
+      "id": "tob123",
+      "name": "ToB123",
+      "group": "tokens"
+    },
+    "tokens:large": {
+      "id": "large",
+      "name": "Large",
+      "group": "tokens"
+    },
+    "tokens:medium": {
+      "id": "medium",
+      "name": "Medium",
+      "group": "tokens"
+    },
+    "tokens:cr4": {
+      "id": "cr4",
+      "name": "CR4",
+      "group": "tokens"
+    },
+    "tokens:mpmm": {
+      "id": "mpmm",
+      "name": "MPMM",
+      "group": "tokens"
+    },
+    "tokens:cr5": {
+      "id": "cr5",
+      "name": "CR5",
+      "group": "tokens"
+    },
+    "tokens:cr9": {
+      "id": "cr9",
+      "name": "CR9",
+      "group": "tokens"
+    },
+    "tokens:cr1/2": {
+      "id": "cr1/2",
+      "name": "CR1/2",
+      "group": "tokens"
+    },
+    "tokens:cr6": {
+      "id": "cr6",
+      "name": "CR6",
+      "group": "tokens"
+    },
+    "tokens:crcotn": {
+      "id": "crcotn",
+      "name": "CRCotN",
+      "group": "tokens"
+    },
+    "tokens:beast": {
+      "id": "beast",
+      "name": "Beast",
+      "group": "tokens"
     }
   },
   "settings": {
