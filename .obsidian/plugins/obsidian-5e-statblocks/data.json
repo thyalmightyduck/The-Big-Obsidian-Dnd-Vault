@@ -2253,6 +2253,51 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Neogi Hatchling Swarm",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Neogi Hatchling Swarm BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Neogi Hatchling Swarm",
+        "size": "Medium swarm",
+        "type": "Tiny Aberrations",
+        "alignment": "Lawful Evil",
+        "ac": 11,
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "speed": "20 ft., Climb 20 ft.",
+        "stats": [
+          12,
+          13,
+          14,
+          6,
+          10,
+          9
+        ],
+        "damage_resistances": "Bludgeoning, Piercing, Slashing",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 11",
+        "languages": "—",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Spider Climb.",
+            "desc": "The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an <STATBLOCK-WIKI-LINK>ability check<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Swarm.",
+            "desc": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny <STATBLOCK-WIKI-LINK>neogi hatchling<STATBLOCK-WIKI-LINK>. The swarm can't regain <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> or gain <STATBLOCK-WIKI-LINK>Temporary Hit Point|temporary hit points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Swarm of Bites.",
+            "desc": "*Melee Weapon Attack:*  +3 to hit, reach 5 ft., one creature. *Hit:* 22 (6d6 + 1) poison damage, or 11 (3d6 + 1) poison damage if the swarm has half of its <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> or fewer, and the target must succeed on a DC 12 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or become <STATBLOCK-WIKI-LINK>poisoned<STATBLOCK-WIKI-LINK> for 1 minute. A target can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> at the end of each of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
