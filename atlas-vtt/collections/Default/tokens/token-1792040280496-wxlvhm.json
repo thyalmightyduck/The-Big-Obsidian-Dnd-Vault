@@ -1,0 +1,23 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Neogi Master",
+    "imagePath": "atlas-vtt/assets/Neogi_Master_1792040280110_8cy464.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Warlocks/Neogi Master.md",
+    "collection": "Default",
+    "tags": [
+      "Aberration",
+      "MPMM",
+      "Medium",
+      "Warlock",
+      "CR4"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Neogi_Master_1792040280110_8cy464-62695819.webp",
+    "id": "token-1792040280496-wxlvhm",
+    "createdAt": 1792040280496,
+    "modifiedAt": 1792040280496
+  }
+}

@@ -81,31 +81,21 @@ spells:
   - "1/day each: *[[dimension door]]*, *[[hold person]]*, *[[hunger of Hadar]]*"  
 traits:
   - name: Devil's Sight.
-    desc: Magical darkness doesn't impede the neogi's [[darkvision]].    
+    desc: Magical darkness doesn't impede the neogi's [[darkvision]]. 
+  - name: Mental Fortitude.   
+    desc: "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution [[saving throw]] or become [[poisoned]] for 1 minute. A target can repeat the [[saving throw]] at the end of each of its turns, ending the effect on itself on a success."
+  - name: Spider Climb.
+    desc: The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an [[ability check]].      
 actions:
   - name: "Multiattack"
-    desc: "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
-  - name: "Slam"
-    desc: "_Melee [[Attack Roll]]:_ +6 (with [[Advantage]] during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
-  - name: "Unsettling Visage (Recharge 6)"
-  - desc: "_Wisdom [[Saving Throw]]:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
+    desc: "The neogi makes one Bite attack and one Claw attack, or it makes two Tentacle of Hadar attacks."
+  - name: "Bite."
+    desc: "*Melee Weapon Attack:*  +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution [[saving throw]] or become [[poisoned]] for 1 minute. A target can repeat the [[saving throw]] at the end of each of its turns, ending the effect on itself on a success."
+  - name: "Claw."
+  - desc: "*Melee Weapon Attack:*  +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) piercing damage." 
+  - name: "Tentacle of Hadar."
+    desc: "*Ranged Spell Attack:*  +6 to hit, range 120 ft., one target. *Hit:* 14 (3d6 + 4) necrotic damage, and the target can't take reactions until the end of the neogi's next turn, as a spectral tentacle clings to the target."    
 bonus_actions:
-  - name: "Shape-Shift"
-    desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
-reactions:
-  - name: 
-    desc: 
-legendary_actions:
-  - name: 
-    desc:   
-mythic_description: 
-mythic_actions:
-  - name: 
-    desc:
-lair_actions:
-  - name: 
-    desc:
-regional_effects:
-  - name: 
-    desc:
+  - name: "Enslave (Recharges after a Short or [[Long Rest]])."
+    desc: "The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom [[saving throw]] or be magically [[charmed]] by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The [[charmed]] target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the [[charmed]] target takes damage, it can repeat the [[saving throw]], ending the effect on itself on a success."
 ```
