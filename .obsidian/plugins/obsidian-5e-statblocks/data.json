@@ -2345,6 +2345,214 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Horror Flit Swarm",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Horror Flit Swarm BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Horror Flit Swarm",
+        "size": "Medium swarm",
+        "type": "Tiny Aberrations",
+        "alignment": "Chaotic Evil",
+        "ac": 13,
+        "hp": 54,
+        "hit_dice": "12d8",
+        "speed": "40 ft., Climb 40 ft., Swim 40 ft.",
+        "stats": [
+          10,
+          17,
+          10,
+          3,
+          8,
+          2
+        ],
+        "damage_immunities": "Bludgeoning, Piercing, Slashing",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Blinded<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Blindsight<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 9, Passive Insight 9, Passive Stealth 13",
+        "languages": "—",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Amphibious.",
+            "desc": "The horror flit swarm can breathe air and water."
+          },
+          {
+            "name": "Spider Climb.",
+            "desc": "The horror flit swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an <STATBLOCK-WIKI-LINK>ability check<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Swarm.",
+            "desc": "The horror flit swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> or gain <STATBLOCK-WIKI-LINK>Temporary Hit Point|Temporary Hit Points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bites.",
+            "desc": "*Melee Attack Roll:*  +5, reach 0 ft. *Hit:* 18 (4d8) Piercing damage, or 9 (2d8) Piercing damage if the swarm has the <STATBLOCK-WIKI-LINK>Bloodied<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK>. If a Small or larger creature is killed by this damage, a **Horror Flit Swarm** emerges from its corpse 1d4 hours later."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Cranium Rat Squeaker Swarm",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Cranium Rat Squeaker BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Cranium Rat Squeaker Swarm",
+        "size": "Medium swarm",
+        "type": "Tiny Aberrations",
+        "alignment": "typically Neutral",
+        "ac": 12,
+        "hp": 76,
+        "hit_dice": "17d8",
+        "speed": "30 ft.",
+        "stats": [
+          9,
+          14,
+          10,
+          15,
+          11,
+          14
+        ],
+        "damage_resistances": "Bludgeoning, Piercing, Slashing",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 30 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 12",
+        "languages": "Telepathy 30 ft.",
+        "cr": 5,
+        "spellsNotes": "***Spellcasting (Psionics).*** The swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13) *To cast these spell, the swarm must have more than half its <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> remaining.: ",
+        "spells": [
+          {
+            "At will": "*<STATBLOCK-WIKI-LINK>command<STATBLOCK-WIKI-LINK>* , *<STATBLOCK-WIKI-LINK>detect thoughts<STATBLOCK-WIKI-LINK>* , *<STATBLOCK-WIKI-LINK>sending<STATBLOCK-WIKI-LINK>*  "
+          },
+          {
+            "1/day each": "*<STATBLOCK-WIKI-LINK>confusion<STATBLOCK-WIKI-LINK>* , *<STATBLOCK-WIKI-LINK>dominate monster<STATBLOCK-WIKI-LINK>*  "
+          }
+        ],
+        "traits": [
+          {
+            "name": "Psychic Messenger.",
+            "desc": "The swarm can use its *<STATBLOCK-WIKI-LINK>sending<STATBLOCK-WIKI-LINK>* spell to target someone familiar to a creature in telepathic contact with the swarm."
+          },
+          {
+            "name": "Swarm.",
+            "desc": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny <STATBLOCK-WIKI-LINK>rat<STATBLOCK-WIKI-LINK>. The swarm can't regain <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> or gain <STATBLOCK-WIKI-LINK>Temporary Hit Point|temporary hit points<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Telepathic Shroud.",
+            "desc": "The swarm is immune to any effect that would sense its emotions or read its thoughts, as well as to divination spells."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bites.",
+            "desc": "*Melee Weapon Attack:*  +5 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> or fewer, plus 22 (5d8) psychic damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Illumination.",
+            "desc": "The swarm sheds <STATBLOCK-WIKI-LINK>dim light<STATBLOCK-WIKI-LINK> from its brains in a 5-foot radius, increases the illumination to <STATBLOCK-WIKI-LINK>bright light<STATBLOCK-WIKI-LINK> in a 5- to 20-foot radius and <STATBLOCK-WIKI-LINK>dim light<STATBLOCK-WIKI-LINK> for an additional number of feet equal to the chosen radius, or extinguishes the light."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Neogi Void Hunter",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Neogi Void Hunter BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Neogi Void Hunter",
+        "size": "Medium",
+        "type": "Aberration",
+        "subtype": "Warlock",
+        "alignment": "typically Lawful Evil",
+        "ac": "14 (natural armor)",
+        "hp": 58,
+        "hit_dice": "9d8 + 18",
+        "speed": "30 ft., Climb 30 ft.",
+        "stats": [
+          6,
+          16,
+          14,
+          16,
+          12,
+          18
+        ],
+        "saves": [
+          {
+            "Wisdon": 3
+          },
+          {
+            "Charisma": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 5
+          },
+          {
+            "Deception": 6
+          },
+          {
+            "Intimidation": 6
+          },
+          {
+            "Perception": 3
+          },
+          {
+            "Persuasion": 6
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 13, Passive Insight 11, Passive Stealth 13",
+        "languages": "Common, Deep Speech, telepathy 30 ft., Undercommon",
+        "cr": 4,
+        "spellsNotes": "***Spellcasting.*** The neogi casts one of the following spells, using Charisma as the spellcasting ability:",
+        "spells": [
+          "1/day each: *<STATBLOCK-WIKI-LINK>dimension door<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>invisibility<STATBLOCK-WIKI-LINK>*"
+        ],
+        "traits": [
+          {
+            "name": "Devil's Sight.",
+            "desc": "Magical darkness doesn't impede the neogi's <STATBLOCK-WIKI-LINK>darkvision<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Mental Fortitude.",
+            "desc": "The neogi has <STATBLOCK-WIKI-LINK>advantage<STATBLOCK-WIKI-LINK><STATBLOCK-WIKI-LINK>Saving Throw| on saving throws<STATBLOCK-WIKI-LINK> against being <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>frightened<STATBLOCK-WIKI-LINK>, and magic can't put the neogi to sleep."
+          },
+          {
+            "name": "Spider Climb.",
+            "desc": "The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an <STATBLOCK-WIKI-LINK>ability check<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack.",
+            "desc": "The neogi makes one Bite attack and two Claw attacks, or it makes two Eldritch Bolt attacks."
+          },
+          {
+            "name": "Bite.",
+            "desc": "*Melee Weapon Attack:*  +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or become <STATBLOCK-WIKI-LINK>poisoned<STATBLOCK-WIKI-LINK> for 1 minute. A target can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> at the end of each of its turns, ending the effect on itself on a success."
+          },
+          {
+            "name": "Claw.",
+            "desc": "*Melee Weapon Attack:*  +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage."
+          },
+          {
+            "name": "Eldritch Bolt.",
+            "desc": "*Ranged Spell Attack:*  +6 to hit, range 120 ft., one creature. *Hit:* 20 (3d10 + 4) force damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Enslave (Recharges after a Short or <STATBLOCK-WIKI-LINK>Long Rest<STATBLOCK-WIKI-LINK>).",
+            "desc": "The neogi targets one creature it can see within 30 feet of itself. The target must succeed on a DC 14 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be magically <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> target takes damage, it can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, ending the effect on itself on a success."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

@@ -1,0 +1,23 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Horror Flit Swarm",
+    "imagePath": "atlas-vtt/assets/Horror_Flit_Swarm_1792034319156_9dl80n.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Horror Flit Swarm.md",
+    "collection": "Default",
+    "tags": [
+      "Aberration",
+      "CR3",
+      "GHMG24",
+      "Medium",
+      "Swarm"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Horror_Flit_Swarm_1792034319156_9dl80n-29af7809.webp",
+    "id": "token-1792034319728-wl96cm",
+    "createdAt": 1792034319728,
+    "modifiedAt": 1792034319728
+  }
+}

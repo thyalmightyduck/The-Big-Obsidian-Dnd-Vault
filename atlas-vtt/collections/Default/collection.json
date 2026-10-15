@@ -98,6 +98,11 @@
       "id": "homebrew",
       "name": "Homebrew",
       "group": "tokens"
+    },
+    "tokens:mpp": {
+      "id": "mpp",
+      "name": "MPP",
+      "group": "tokens"
     }
   },
   "settings": {
