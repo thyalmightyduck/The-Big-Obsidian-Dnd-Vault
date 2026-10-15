@@ -26,7 +26,7 @@ languages: "[[Common]], [[Draconic]]"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 damage_immunities: "fire, poison"
 condition_immunities: "[[charmed]], [[frightened]], [[grappled]], [[paralyzed]], [[petrified]], [[poisoned]], [[prone]], [[restrained]]"
-cr: 21
+cr: 1/2
 traits:
   - name: "Amphibious"
     desc: "The dragon can breathe air and water"

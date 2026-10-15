@@ -93,6 +93,11 @@
       "id": "beast",
       "name": "Beast",
       "group": "tokens"
+    },
+    "tokens:homebrew": {
+      "id": "homebrew",
+      "name": "Homebrew",
+      "group": "tokens"
     }
   },
   "settings": {
