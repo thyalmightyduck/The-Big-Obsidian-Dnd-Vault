@@ -1,4 +1,9 @@
 {
   "ITS@@select": "wotc-beyond",
-  "ITS@@paper": true
+  "ITS@@paper": true,
+  "ITS@@canvas-cards": true,
+  "ITS@@default-statblock": false,
+  "ITS@@canvas-color-opacity": 0.12,
+  "ITS@@breadcrumbs-block": false,
+  "ITS@@metabind-auto": false
 }
