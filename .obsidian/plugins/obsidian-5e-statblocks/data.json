@@ -2777,6 +2777,234 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Xorannox",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Xorannox BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Xorannox",
+        "size": "Large",
+        "type": "Aberration",
+        "subtype": "(Solo)",
+        "alignment": "Lawful Evil",
+        "ac": "18 (natural armor)",
+        "hp": 228,
+        "hit_dice": "24d10 + 96",
+        "speed": "0 ft., Fly 20 ft. (hover)",
+        "stats": [
+          10,
+          16,
+          18,
+          19,
+          14,
+          18
+        ],
+        "saves": [
+          {
+            "INT": 9
+          },
+          {
+            "WIS": 7
+          },
+          {
+            "CHA": 9
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 9
+          },
+          {
+            "Deception": 9
+          },
+          {
+            "Insight": 7
+          },
+          {
+            "Intimidation": 9
+          },
+          {
+            "Perception": 7
+          }
+        ],
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Flanked<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 17, Passive Insight 17, Passive Stealth 13",
+        "languages": "Common, Deep Speech, Undercommon",
+        "cr": 14,
+        "legendary_description": "Xorannox has three villain actions. He can take each <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> once during an <STATBLOCK-WIKI-LINK>encounter<STATBLOCK-WIKI-LINK> after an <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK>'s turn. He can take these actions in any order but can use only one per round.",
+        "traits": [
+          {
+            "name": "Painful Resistance (3/Day).",
+            "desc": "Eight eyes float around Xorannox and create his Eye Psionics. If Xorannox fails a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, he can destroy a random floating eye (chosen by rolling a d8) and succeed instead. If an eye is destroyed, a new eye pops of out of Xorannox's face to replace it 24 hours later."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite.",
+            "desc": "*Melee Weapon Attack:*  +5 to hit, reach 5 ft., one target. *Hit:* 14 (4d6) piercing damage."
+          },
+          {
+            "name": "Eye Psionics.",
+            "desc": "Xorannox creates three of the following psionic eye effects. Unless otherwise stated, each eye targets a creature who he can see within 120 feet of him. He can't use the same effect twice on a turn. <P>- **1. Charm Beam.** The targeted creature must succeed on a DC 17 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> by Xorannox for 1 hour, or until he harms the creature or one of their allies. <P>- **2. Compulsion Beam.** The targeted creature must succeed on a DC 17 Intelligence <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or use their <STATBLOCK-WIKI-LINK>reaction<STATBLOCK-WIKI-LINK>, if available, to move up to their <STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK> toward the closest ally they can see and make one weapon attack against them. Creatures who can't be <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> are unaffected. <P>- **3. Memory Beam.** The targeted creature must make a DC 17 Intelligence <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, if the creature has unexpended spell slots, they expend a spell slot of their highest remaining level, with no effect. If they don't have unexpended spell slots, they instead lose <STATBLOCK-WIKI-LINK>proficiency<STATBLOCK-WIKI-LINK> with a weapon they're holding or carrying for 1 minute (save ends at end of turn). <P>- **4. Toxic Vapors.** Xorannox chooses a point he can see within 120 feet of him. Each creature within 10 feet of the point must succeed on a DC 17 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be <STATBLOCK-WIKI-LINK>poisoned<STATBLOCK-WIKI-LINK> for 1 minute (save ends at end of turn). <P>- **5. Telekinetic Field.** Xorannox chooses a point he can see within 120 feet of him. Each <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK> within 10 feet of the point must succeed on a DC 17 Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be moved up to 30 feet in any direction and take 7 (2d6) force damage at the end of the move. Additionally, Xorannox can target any object within 10 feet of the point that weighs 300 pounds or less and isn't being worn or carried, moving it up to 30 feet in any direction. Xorannox can also exert fine control on objects with this effect, such as manipulating a simple tool or opening a door or a container. <P>- **6. Lightning Bolt.** Xorannox shoots a 5-foot-wide, 60-foot-long <STATBLOCK-WIKI-LINK>line<STATBLOCK-WIKI-LINK> of lightning. Each creature in the <STATBLOCK-WIKI-LINK>line<STATBLOCK-WIKI-LINK> must succeed on a DC 17 Dexterity <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, taking 36 (8d8) lightning damage on a failed save, or half as much damage on a successful one. <P>- **7. Explosion.** Xorannox chooses a point he can see within 120 feet of him. Each creature within 10 feet of the point must make a DC 17 Dexterity <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, taking 36 (8d8) fire damage on a failed save, or half as much damage on a successful one. <P>- **8. Necrosis Beam.** The targeted creature must succeed on a DC 17 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or immediately take 55 (10d10) necrotic damage and lose 7 (2d6) <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> at the start of each of their turns. If this effect reduces a target's <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> to 0, they die. The effect ends if Xorannox dies or can't see the target. This psionic effect can't be used again while this effect persists."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "The Great Eye (Recharge 6).",
+            "desc": "Xorannox's central eye turns solid black and projects a 150-foot <STATBLOCK-WIKI-LINK>cone<STATBLOCK-WIKI-LINK> of energy. If Xorannox or any creature in that area is affected by a spell, the spell's effects immediately end for that creature."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Cower!.",
+            "desc": "When a creature hits Xorannox with an attack, he shoots a psionic fear beam at them. The creature must succeed on a DC 17 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take 21 (6d6) psychic damage and be <STATBLOCK-WIKI-LINK>frightened<STATBLOCK-WIKI-LINK> of Xorannox for 1 minute (save ends at end of turn)."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Action 1: Disruption Beams.",
+            "desc": "Xorannox shoots a psionic disruption beam at three creatures he can see within 120 feet of him. Each target must make a DC 17 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, whenever the target makes more than one weapon attack on a turn or casts a spell that isn't a cantrip, they take 14 (4d6) psychic damage. This effect lasts for 1 minute (save ends at end of turn)."
+          },
+          {
+            "name": "Action 2: Disappearing Act.",
+            "desc": "Xorannox turns <STATBLOCK-WIKI-LINK>Invisible Condition|invisible<STATBLOCK-WIKI-LINK> until the end of his next turn and teleports up to 120 feet to an unoccupied space he can see."
+          },
+          {
+            "name": "Action 3: Megabeam.",
+            "desc": "Xorannox unleashes the effects of all of his remaining psionic eyes at once in a 20-foot-wide, 120-foot-long <STATBLOCK-WIKI-LINK>line<STATBLOCK-WIKI-LINK>. Each creature in that area must make a save against two random eye effects from Xorannox's Eye"
+          },
+          {
+            "name": "Psionics (reroll duplicates for each target).",
+            "desc": "If the effect usually affects an area, it instead only affects individual creatures."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Lord Syuul",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Lord Syuul BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Lord Syuul",
+        "size": "Medium",
+        "type": "Aberration",
+        "subtype": "(Solo)",
+        "alignment": "Lawful Evil",
+        "ac": "18 (natural armor)",
+        "hp": 221,
+        "hit_dice": "26d8 + 104",
+        "speed": "30 ft., Fly 30 ft.",
+        "stats": [
+          15,
+          16,
+          18,
+          22,
+          20,
+          21
+        ],
+        "saves": [
+          {
+            "CON": 9
+          },
+          {
+            "INT": 11
+          },
+          {
+            "WIS": 10
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 16
+          },
+          {
+            "Deception": 10
+          },
+          {
+            "Insight": 10
+          },
+          {
+            "Perception": 10
+          },
+          {
+            "Persuasion": 10
+          },
+          {
+            "Stealth": 8
+          }
+        ],
+        "damage_resistances": "Bludgeoning",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 20, Passive Insight 20, Passive Stealth 18",
+        "languages": "Deep Speech, Undercommon, telepathy 120 ft.",
+        "cr": 15,
+        "legendary_description": "Lord Syuul has three villain actions. He can take each <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> once during an <STATBLOCK-WIKI-LINK>encounter<STATBLOCK-WIKI-LINK> after an <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK>'s turn. He can take these actions in any order but can use only one per round.",
+        "traits": [
+          {
+            "name": "Draw In.",
+            "desc": "If Lord Syuul fails a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> while grappling at least one <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK>, he can choose to release all <STATBLOCK-WIKI-LINK>grappled<STATBLOCK-WIKI-LINK> creatures and succeed on the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack.",
+            "desc": "Lord Syuul makes two Tentacle or two Psionic Repeater attacks then manifests a power or uses Memory Transfer."
+          },
+          {
+            "name": "Tentacle.",
+            "desc": "*Melee Weapon Attack:*  +11 to hit, reach 15 ft., one target. *Hit:* 28 (4d10 + 6) psychic damage, and if the target is Large or smaller, they are <STATBLOCK-WIKI-LINK>grappled<STATBLOCK-WIKI-LINK> (escape DC 19)."
+          },
+          {
+            "name": "Psionic Repeater.",
+            "desc": "*Ranged Weapon Attack:*  +11 to hit, range 150/600 ft., one target. *Hit:* 22 (3d10 + 6) force damage."
+          },
+          {
+            "name": "Brain Overload (1/Day; 6th-Order Power).",
+            "desc": "Lord Syuul creates a sudden surge of energy in the mind of a creature he can see within 120 feet of him. The target must make a DC 19 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, taking 77 (14d10) psychic damage on a failed save, or half as much damage on a successful one. If the target has a brain and is reduced to 0 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK>, their brain explodes, and if they can't survive without their brain, they die."
+          },
+          {
+            "name": "Flay (6th-Order Power).",
+            "desc": "Lord Syuul shoots a 15-foot <STATBLOCK-WIKI-LINK>cone<STATBLOCK-WIKI-LINK> of psionic energy from his eyes. Each creature in that area must make a DC 19 Intelligence <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, taking 35 (10d6) psychic damage on a failed save, or half as much damage on a successful one."
+          },
+          {
+            "name": "Memory Transfer.",
+            "desc": "Lord Syuul psionically plunders the mind of each creature he is grappling. Each target must succeed on a DC 19 Intelligence <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take 44 (8d10) psychic damage. If a target fails their <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> and doesn't escape the <STATBLOCK-WIKI-LINK>grapple<STATBLOCK-WIKI-LINK> by the end of their next turn, they must choose one of these effects: <P>- The target's <STATBLOCK-WIKI-LINK>proficiency bonus<STATBLOCK-WIKI-LINK> drops to 0, they can't form new thoughts or speak, and they have <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on all ability checks, <STATBLOCK-WIKI-LINK>attack rolls<STATBLOCK-WIKI-LINK>, and <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK>. Only the *cure ailment* power, a *<STATBLOCK-WIKI-LINK>lesser restoration<STATBLOCK-WIKI-LINK>* spell, or a similar supernatural effect can end this effect. Additionally, until Lord Syuul finishes a <STATBLOCK-WIKI-LINK>long rest<STATBLOCK-WIKI-LINK>, he gains a cumulative +5 bonus to damage rolls. <P>- The target is <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> by Lord Syuul for 1 hour. While the target is <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK>, Lord Syuul can issue the target telepathic commands (no <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> required), which the target does their best to obey. Each time the target takes damage, they can make a DC 19 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, ending the effect on a success."
+          },
+          {
+            "name": "Guise (3rd-Order Power).",
+            "desc": "Lord Syuul projects a psionic image over his body, transforming his appearance for 1 hour into that of a Medium creature he has seen. When he manifests this power, he can also change the appearance of any equipment he carries. <P>The changes wrought by this power fail to hold up to physical inspection. A creature can use an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> to inspect Lord Syuul's appearance and make a DC 19 Intelligence (<STATBLOCK-WIKI-LINK>Investigation<STATBLOCK-WIKI-LINK>) check, noticing the image is a projection on a success.  "
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Grappling Jaunt.",
+            "desc": "Lord Syuul and each creature <STATBLOCK-WIKI-LINK>grappled<STATBLOCK-WIKI-LINK> by him teleport up to 30 feet to an unoccupied space he can see."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Brain Drain.",
+            "desc": "When a creature <STATBLOCK-WIKI-LINK>grappled<STATBLOCK-WIKI-LINK> by Lord Syuul makes a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> against Memory Transfer, Lord Syuul momentarily weakens the creature and the creature has <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Action 1: Mindblind.",
+            "desc": "Each <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK> Lord Syuul can see within 60 feet of him must make a DC 19 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, a creature can't see creatures other than Lord Syuul for 1 minute save ends at end of turn)."
+          },
+          {
+            "name": "Action 2: Was I Ever Here?.",
+            "desc": "Lord Syuul becomes <STATBLOCK-WIKI-LINK>Invisible Condition|invisible<STATBLOCK-WIKI-LINK>, teleports 60 feet to an unoccupied space he can see, and can take the <STATBLOCK-WIKI-LINK>Hide action<STATBLOCK-WIKI-LINK>. At the same time, an illusory psionic image of Lord Syuul appears in the space he left, gesturing, speaking, and behaving as he chooses (no <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> required). A creature who touches the image for the first time on a turn or makes a melee attack against it must succeed on a DC 19 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take 21 (6d6) psychic damage because things can pass through it. Lord Syuul's invisibility ends and his image disappears at the end of his next turn."
+          },
+          {
+            "name": "Action 3: Mindshatter.",
+            "desc": "Each <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK> Lord Syuul can see within 60 feet of him must make a DC 19 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, a target takes 55 (10d10) psychic damage and is <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK> for 1 minute (save ends at end of turn). On a successful save, a target takes half as much damage and isn't <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

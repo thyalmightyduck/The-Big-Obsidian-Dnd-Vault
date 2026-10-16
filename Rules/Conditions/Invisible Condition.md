@@ -1,3 +1,7 @@
+---
+aliases:
+  - Invisible
+---
 While you have the Invisible condition, you experience the following effects.
 
 Surprise. If you're Invisible when you roll [[Initiative]], you have [[Advantage]] on the roll.

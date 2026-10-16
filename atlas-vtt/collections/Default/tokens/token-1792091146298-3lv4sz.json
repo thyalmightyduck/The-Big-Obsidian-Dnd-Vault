@@ -7,7 +7,6 @@
     "imagePath": "atlas-vtt/assets/Derro_Savant_1792091146268_p2kvqb.png",
     "size": 1,
     "statblockPath": "5 Monster Stat Blocks/Aberration/Derro Savant.md",
-    "playerCharacter": true,
     "collection": "Default",
     "tags": [
       "Aberration",
@@ -18,6 +17,6 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/Derro_Savant_1792091146268_p2kvqb-e77d75d9.webp",
     "id": "token-1792091146298-3lv4sz",
     "createdAt": 1792091146298,
-    "modifiedAt": 1792091146298
+    "modifiedAt": 1792115850615
   }
 }

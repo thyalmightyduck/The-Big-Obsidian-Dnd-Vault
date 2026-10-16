@@ -123,6 +123,21 @@
       "id": "small",
       "name": "Small",
       "group": "tokens"
+    },
+    "tokens:cr14": {
+      "id": "cr14",
+      "name": "CR14",
+      "group": "tokens"
+    },
+    "tokens:solo": {
+      "id": "solo",
+      "name": "Solo",
+      "group": "tokens"
+    },
+    "tokens:cr15": {
+      "id": "cr15",
+      "name": "CR15",
+      "group": "tokens"
     }
   },
   "settings": {
@@ -294,10 +309,36 @@
         "direction": "drains",
         "color": "#22c55e",
         "defeatedWhenSpent": true,
-        "visibleToPlayers": true
+        "visibleToPlayers": true,
+        "slot": 0
+      },
+      {
+        "key": "ac",
+        "name": "AC",
+        "field": "ac",
+        "direction": "drains",
+        "color": "#3b82f6",
+        "visibleToPlayers": true,
+        "slot": 4
       }
-    ]
+    ],
+    "defaultTokenVision": {
+      "range": 5
+    },
+    "initiative": {
+      "mode": "turn-order",
+      "roll": "1d20",
+      "firstSide": "players",
+      "modifier": {
+        "field": "initiative",
+        "abilityScore": true
+      },
+      "modifierFallback": {
+        "field": "stats.1",
+        "abilityScore": true
+      }
+    }
   },
   "createdAt": 1790659852594,
-  "modifiedAt": 1790970142380
+  "modifiedAt": 1792118611722
 }
