@@ -20,13 +20,13 @@
     "size": 16
   },
   "diceDisplay": "full",
+  "detectGridOnNewScenes": true,
   "diceColour": "light",
   "diceFont": "medieval",
   "experimental": {
-    "dynamicLighting": true
-  },
-  "statblockPane": {
-    "hintDismissed": false
+    "dynamicLighting": true,
+    "statblockEditor": true,
+    "onlinePlay": true
   },
   "toolbar": {},
   "localPlayerView": {
@@ -37,9 +37,13 @@
     "showInitiative": true,
     "showDiceRolls": true,
     "showCommandPalette": false,
+    "showCursors": false,
     "showGrid": true,
     "showTokenHP": true,
     "showTokenStress": false,
     "tokenBarsCarriedOver": true
+  },
+  "statblockPane": {
+    "hintDismissed": false
   }
 }

@@ -318,7 +318,7 @@
         "field": "ac",
         "direction": "drains",
         "color": "#3b82f6",
-        "visibleToPlayers": true,
+        "visibleToPlayers": false,
         "slot": 4
       }
     ],
@@ -340,5 +340,5 @@
     }
   },
   "createdAt": 1790659852594,
-  "modifiedAt": 1792118611722
+  "modifiedAt": 1792121243847
 }
