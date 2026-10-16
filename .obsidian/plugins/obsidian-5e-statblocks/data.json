@@ -3005,6 +3005,122 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Ithu'rath",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Lthu'rath BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Ithu'rath",
+        "size": "Large",
+        "type": "Aberration",
+        "subtype": "(Solo)",
+        "alignment": "Chaotic Evil",
+        "ac": "19 (natural armor)",
+        "hp": 255,
+        "hit_dice": "30d10 + 90",
+        "speed": "30 ft., Fly 60 ft. (hover), Swim 60 ft.",
+        "stats": [
+          23,
+          9,
+          16,
+          23,
+          14,
+          18
+        ],
+        "saves": [
+          {
+            "CON": 8
+          },
+          {
+            "INT": 11
+          },
+          {
+            "WIS": 7
+          },
+          {
+            "CHA": 9
+          }
+        ],
+        "skillsaves": [
+          {
+            "History": 11
+          },
+          {
+            "Insight": 12
+          },
+          {
+            "Intimidation": 9
+          },
+          {
+            "Perception": 12
+          }
+        ],
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Flanked<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Blindsight<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 22, Passive Insight 22, Passive Stealth 9",
+        "languages": "Common, Deep Speech, Undercommon, telepathy 120 ft.",
+        "cr": 16,
+        "legendary_description": "Ithu'rath has three villain actions. They can take each <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> once during an <STATBLOCK-WIKI-LINK>encounter<STATBLOCK-WIKI-LINK> after an <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK>'s turn. They can take these actions in any order but can use only one per round.",
+        "traits": [
+          {
+            "name": "Amphibious.",
+            "desc": "Ithu'rath can breathe air and water."
+          },
+          {
+            "name": "Immutable Form.",
+            "desc": "Ithu'rath is immune to any power, spell, or effect that would alter their form."
+          },
+          {
+            "name": "Slimy Resistance (3/Day).",
+            "desc": "When Ithu'rath fails a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, they can succeed on the save by channeling the power of their protective slime. Until the end of Ithu'rath's next turn, creatures have <STATBLOCK-WIKI-LINK>advantage<STATBLOCK-WIKI-LINK> on the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> for Ithu'rath's Devolving Tentacle attack."
+          },
+          {
+            "name": "Supernatural Resistance.",
+            "desc": "Ithu'rath has <STATBLOCK-WIKI-LINK>advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> against powers, spells, and other supernatural effects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Ithu'rath makes six Devolving Tentacle attacks and uses Piscine Transformation."
+          },
+          {
+            "name": "Devolving Tentacle.",
+            "desc": "*Melee Weapon Attack:*  +11 to hit, reach 20 ft., one target. *Hit:* 16 (3d6 + 6) piercing damage. The first time a creature is hit with this attack on a turn, they must succeed on a DC 19 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be injected with a degenerative psionic slime (save ends at end of turn). While slimed, each time the creature makes an attack roll or an <STATBLOCK-WIKI-LINK>ability check<STATBLOCK-WIKI-LINK>, they must roll a d4 and subtract the number rolled from the d20 roll. At the end of a slimed creature's turn, the size of the subtracted die increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on, to a maximum of d12. The *cure ailment* power or *<STATBLOCK-WIKI-LINK>lesser restoration<STATBLOCK-WIKI-LINK>* spell also ends this effect. "
+          },
+          {
+            "name": "Piscine Transformation (3rd-Order Power).",
+            "desc": "Ithu'rath targets a creature with a head, legs, or torso they can see within 60 feet of them, blasting them with a pulse of transformational energy. The target must succeed on a DC 19 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or undergo one of the following transformations of the Ithu'rath's choice:  <P>- **Head.** The target's head transforms into the head of a fish, proportionately sized for their body. They can't speak. <P>- **Legs.** The target's legs become fins. Their walking <STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK> is reduced to 10 feet (unless their walking <STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK> is slower), and they gain a swimming <STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK> of 30 feet. <P>- **Torso.** The target's torso becomes the body of a fish with gills. They can only breathe water and can hold their breath for 1 hour. If the target isn't underwater when this transformation takes effect, they begin suffocating. <P>The transformation lasts until a *cure ailment* power of 4th order or higher or the *<STATBLOCK-WIKI-LINK>greater restoration<STATBLOCK-WIKI-LINK>* spell affects the target. A target who suffers all three transformations at once is permanently transformed into a hybrid fishlike creature and can only be returned to their original form by a *<STATBLOCK-WIKI-LINK>wish<STATBLOCK-WIKI-LINK>* spell or similar supernatural effects.  "
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Jaunt (3rd-Order Power).",
+            "desc": "Ithu'rath teleports 30 feet to an unoccupied space they can see."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Liquefy (3rd-Order Power).",
+            "desc": "When a creature within 30 feet of Ithu'rath hits them with an attack, Ithu'rath can psionically barrage that creature. That creature must succeed on a DC 19 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be pushed 5 feet away from Ithu'rath and be <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK> until the end of the creature's next turn, as their lower body temporarily melts into an immovable goo."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Action 1: Skeletal Collapse.",
+            "desc": "Ithu'rath targets one or more creatures with a skeleton within 60 feet of them, attempting to temporarily melt their ligaments. Each target must succeed on a DC 19 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take 18 (4d8) necrotic damage and have <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on Strength- and Dexterity-based ability checks, <STATBLOCK-WIKI-LINK>attack rolls<STATBLOCK-WIKI-LINK>, and <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> for 1 minute (save ends at end of turn)."
+          },
+          {
+            "name": "Action 2: Psychic Pulse.",
+            "desc": "Ithu'rath channels a pulse of telekinetic energy to scour and harry their foes. Each <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK> within 60 feet of Ithu'rath must succeed on a DC 19 Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take 18 (4d8) force damage and be moved up to 30 feet in any direction."
+          },
+          {
+            "name": "Action 3: Slime Storm.",
+            "desc": "Ithu'rath unleashes a cloud of transformative slime. Each creature within 60 feet of Ithu'rath who isn't an <STATBLOCK-WIKI-LINK>olothec<STATBLOCK-WIKI-LINK> or a slime servant must make a DC 19 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, a target takes 45 (10d8) piercing damage and is <STATBLOCK-WIKI-LINK>blinded<STATBLOCK-WIKI-LINK> until the end of their next turn as their eyes temporarily turn into insectoid feelers. On a successful save, a target takes half as much damage and isn't <STATBLOCK-WIKI-LINK>blinded<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
