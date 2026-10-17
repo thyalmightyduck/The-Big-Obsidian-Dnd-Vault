@@ -1,0 +1,29 @@
+___
+>## Acidic Mist Apparition
+>*Large Elemental, Neutral*
+>___
+>- **Armor Class** 15
+>- **Hit Points** 90 (12d10 + 24)
+>- **Speed** 0 ft., Fly 90 ft. (hover)
+>- **Initiative** +5 (15)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
+>___
+>- **Damage Resistances** Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+>- **Immunities** Acid, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+>- **Senses** Darkvision 60 ft., Passive Perception 10
+>- **Languages** Auran
+>- **Challenge** 5 (XP 1,800; PB +3)
+>- **Proficiency Bonus** +3
+>___
+>***Air Form.*** The apparition can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.  
+>
+>### Actions
+>***Multiattack.*** The apparition makes two slam attacks.  
+>
+>***Slam.*** *Melee Weapon Attack:*  +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) acid damage.  
+>
+>***Whirlwind (Recharge 4–6).*** Each creature in the apparition's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the apparition in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.  
+>If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
