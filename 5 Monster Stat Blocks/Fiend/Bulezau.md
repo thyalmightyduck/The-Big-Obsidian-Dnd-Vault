@@ -1,0 +1,28 @@
+___
+>## Bulezau
+>*Medium Fiend (Demon), Typically Chaotic Evil*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 52 (7d8 + 21)
+>- **Speed** 40 ft.
+>- **Initiative** +2 (12)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|14 (+2)|17 (+3)|8 (-1)|9 (-1)|6 (-2)|
+>___
+>- **Damage Resistances** Cold, Fire, Lightning
+>- **Immunities** Poison; Charmed, Frightened, Poisoned
+>- **Senses** Darkvision 120 ft., Passive Perception 9
+>- **Languages** Abyssal, telepathy 60 ft.
+>- **Challenge** 3 (XP 700; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Rotting Presence.*** When any creature that isn't a demon starts its turn within 30 feet of the bulezau, that creature must succeed on a DC 13 Constitution saving throw or take 3 (1d6) necrotic damage.  
+>
+>***Standing Leap.*** The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.  
+>
+>***Sure-Footed.*** The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.  
+>
+>### Actions
+>***Barbed Tail.*** *Melee Weapon Attack:*  +4 to hit, reach 5 ft., one target. *Hit:* 8 (1d12 + 2) piercing damage plus 4 (1d8) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8). The target dies if its hit point maximum is reduced to 0.

@@ -1,0 +1,45 @@
+___
+>## Hydroloth
+>*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>___
+>- **Armor Class** 15
+>- **Hit Points** 135 (18d8 + 54)
+>- **Speed** 20 ft., Swim 40 ft.
+>- **Initiative** +5 (15)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|21 (+5)|16 (+3)|19 (+4)|10 (+0)|14 (+2)|
+>___
+>- **Skills** Insight +4, Perception +4
+>- **Damage Vulnerabilities** Fire
+>- **Damage Resistances** Cold, Lightning; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+>- **Immunities** Acid, Poison; Poisoned
+>- **Senses** Blindsight 60 ft., Darkvision 60 ft., Passive Perception 14
+>- **Languages** Abyssal, Infernal, telepathy 60 ft.
+>- **Challenge** 9 (XP 5,000; PB +4)
+>- **Proficiency Bonus** +4
+>___
+>***Amphibious.*** The hydroloth can breathe air and water.  
+>
+>***Magic Resistance.*** The hydroloth has advantage on saving throws against spells and other magical effects.  
+>
+>***Secure Memory.*** The hydroloth is immune to the waters of the River Styx, as well as any effect that would steal or modify its memories or detect or read its thoughts.  
+>
+>***Watery Advantage.*** While submerged in liquid, the hydroloth has advantage on attack rolls.  
+>
+>### Actions
+>***Multiattack.*** The hydroloth makes two Bite or Claw attacks. It can replace one attack with a use of Spellcasting.  
+>
+>***Bite.*** *Melee Weapon Attack:*  +9 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) force damage plus 9 (2d10) psychic damage.  
+>
+>***Claw.*** *Melee Weapon Attack:*  +9 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) force damage plus 9 (2d10) psychic damage.  
+>
+>***Spellcasting.*** The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):  
+>
+>At will: *darkness*, *detect magic*, *dispel magic*, *invisibility* (self only)  
+>3/day each: *control water*, *crown of madness*, *fear*, *suggestion*  
+>
+>***Steal Memory (1/Day).*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (4d6) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A *greater restoration* or *remove curse* spell cast on the target ends this effect early.  
+>
+>***Teleport.*** The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
