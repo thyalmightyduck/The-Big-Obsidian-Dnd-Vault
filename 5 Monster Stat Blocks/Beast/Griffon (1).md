@@ -1,0 +1,34 @@
+___
+>## Griffon
+>*Large Beast (Controller), Unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 57 (6d10 + 24)
+>- **Speed** 30 ft., Fly 60 ft.
+>- **Initiative** +2 (12)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|14 (+2)|18 (+4)|6 (-2)|14 (+2)|8 (-1)|
+>___
+>- **Saving Throws** Con +6
+>- **Skills** Perception +4
+>- **Senses** Passive Perception 14
+>- **Languages** —
+>- **Challenge** 2 (XP 450; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Steady.*** The griffon has advantage on ability checks and saving throws against being knocked prone.  
+>
+>***Swoop.*** If the griffon flies more than 20 feet in a straight line toward their target and then hits them with a Claw attack on the same turn, the target is grappled (escape DC 14). While the target is grappled in this way, the griffon has advantage on Beak attacks against the target but can't make Claw attacks. Grappling a Medium or smaller creature imposes no penalty on the griffon's speed.  
+>
+>### Actions
+>***Multiattack.*** The griffon makes one Beak attack, and they can make one Claw attack, use Buffet, or use Piercing Cry.  
+>
+>***Beak.*** *Melee Weapon Attack:*  +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage.  
+>
+>***Claw.*** *Melee Weapon Attack:*  +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4 + 4) slashing damage.  
+>
+>***Buffet.*** The griffon beats their wings in mighty gusts of wind. Each creature not grappled by the griffon within a 30-foot cone originating from the griffon must make a DC 14 Strength saving throw. On a failed save, a creature takes 5 (2d4) bludgeoning damage, is pushed 5 feet away from the griffon, and is knocked prone.  
+>
+>***Piercing Cry.*** The griffon lets out an earsplitting screech. Each enemy within 60 feet of the griffon who can hear them must succeed on a DC 12 Wisdom saving throw or be frightened of the griffon for 1 minute (save ends at end of turn). If a creature's saving throw is successful or the effect ends for them, they are immune to the Piercing Cry of all griffons for the next 24 hours.

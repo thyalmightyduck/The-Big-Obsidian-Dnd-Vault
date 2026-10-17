@@ -1,0 +1,31 @@
+___
+>## Living Cloudkill
+>*Large Construct, Unaligned*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 73 (7d10 + 35)
+>- **Speed** 25 ft., Fly 25 ft.
+>- **Initiative** +2 (12)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|15 (+2)|20 (+5)|3 (-4)|11 (+0)|6 (-2)|
+>___
+>- **Damage Resistances** Bludgeoning, Piercing, and Slashing from nonmagical attacks
+>- **Immunities** Poison; Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Poisoned, Prone
+>- **Senses** Darkvision 60 ft., Passive Perception 10
+>- **Languages** —
+>- **Challenge** 7 (XP 2,900; PB +3)
+>- **Proficiency Bonus** +3
+>___
+>***Amorphous.*** The living spell can move through a space as narrow as 1 inch wide without squeezing.  
+>
+>***Magic Resistance.*** The living spell has advantage on saving throws against spells and other magical effects.  
+>
+>### Actions
+>***Multiattack.*** The living spell makes two Magical Strike attacks.  
+>
+>***Magical Strike.*** *Melee Spell Attack:*  +8 to hit, reach 10 ft., one target. *Hit:* 22 (5d6 + 5) poison damage.  
+>
+>***Spell Mimicry (Recharge 5–6).*** The living spell creates a 40-foot-diameter sphere of fog within 60 feet of it (the fog spreads around corners). When a creature enters the fog for the first time on a turn or starts its turn there, it must make a DC 16 Constitution saving throw, taking 22 (5d8) poison damage on a failed save, or half as much damage on a successful one.  
+>The fog moves 10 feet away from the living spell at the start of each of its turns, rolling along the ground and through openings. The fog lasts for 10 minutes or until the living spell's concentration ends (as if concentrating on a spell).
