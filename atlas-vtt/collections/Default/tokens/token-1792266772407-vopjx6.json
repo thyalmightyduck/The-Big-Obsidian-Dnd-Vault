@@ -1,0 +1,20 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Wormomancer",
+    "imagePath": "atlas-vtt/assets/Wormomancer_1792266772116_spy44u.webp",
+    "size": 1,
+    "statblockPath": "2 Characters/Executive Outcomes/Wormomancer.md",
+    "collection": "Default",
+    "tags": [
+      "Player"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Wormomancer_1792266772116_spy44u-f8c7b714.webp",
+    "id": "token-1792266772407-vopjx6",
+    "createdAt": 1792266772407,
+    "modifiedAt": 1792266800691,
+    "playerCharacter": true
+  }
+}

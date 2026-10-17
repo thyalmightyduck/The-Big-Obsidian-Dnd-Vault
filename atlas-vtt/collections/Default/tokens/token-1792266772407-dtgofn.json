@@ -1,0 +1,20 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Lucian Relnor",
+    "imagePath": "atlas-vtt/assets/Lucian_Relnor_1792266771526_r1wxul.webp",
+    "size": 1,
+    "statblockPath": "2 Characters/The Three Vedos/Lucian Relnor.md",
+    "collection": "Default",
+    "tags": [
+      "Player"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Lucian_Relnor_1792266771526_r1wxul-1dde2bbb.webp",
+    "id": "token-1792266772407-dtgofn",
+    "createdAt": 1792266772407,
+    "modifiedAt": 1792266795913,
+    "playerCharacter": true
+  }
+}

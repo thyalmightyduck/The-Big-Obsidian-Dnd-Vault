@@ -41,7 +41,7 @@ bonus_actions:
 legendary_actions:
   - name: Name Goes Here
     desc: Desc Goes Here
-statblock: true
+statblock: false
 atlas-type: statblock
 image:
   - - Humanoid Blank BGR PNG.png

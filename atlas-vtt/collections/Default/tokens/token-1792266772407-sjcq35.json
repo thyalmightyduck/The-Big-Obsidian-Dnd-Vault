@@ -1,0 +1,20 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Garak",
+    "imagePath": "atlas-vtt/assets/Garak_1792266770369_djmrr4.webp",
+    "size": 1,
+    "statblockPath": "2 Characters/The Three Vedos/Garak.md",
+    "collection": "Default",
+    "tags": [
+      "Player"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Garak_1792266770369_djmrr4-886abf30.webp",
+    "id": "token-1792266772407-sjcq35",
+    "createdAt": 1792266772407,
+    "modifiedAt": 1792266792739,
+    "playerCharacter": true
+  }
+}

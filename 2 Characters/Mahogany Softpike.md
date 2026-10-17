@@ -190,7 +190,7 @@ attacks:
     damage_type: slashing
     properties:
       - light
-statblock: true
+statblock: false
 image: "[[Mahogony BGR PNG.png]]"
 atlas-type: statblock
 ---

@@ -138,6 +138,11 @@
       "id": "cr15",
       "name": "CR15",
       "group": "tokens"
+    },
+    "tokens:player": {
+      "id": "player",
+      "name": "Player",
+      "group": "tokens"
     }
   },
   "settings": {

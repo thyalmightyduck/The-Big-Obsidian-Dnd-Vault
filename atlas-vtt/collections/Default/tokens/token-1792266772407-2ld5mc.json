@@ -1,0 +1,20 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Morwunax Kromphujarod",
+    "imagePath": "atlas-vtt/assets/Morwunax_Kromphujarod_1792266771707_wlmgz4.webp",
+    "size": 1,
+    "statblockPath": "2 Characters/Executive Outcomes/Morwunax Kromphujarod.md",
+    "collection": "Default",
+    "tags": [
+      "Player"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Morwunax_Kromphujarod_1792266771707_wlmgz4-e8772065.webp",
+    "id": "token-1792266772407-2ld5mc",
+    "createdAt": 1792266772407,
+    "modifiedAt": 1792266798577,
+    "playerCharacter": true
+  }
+}
