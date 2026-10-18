@@ -2,24 +2,22 @@
 layout: Basic 5e Layout
 image: [[Doppelganger BGR PNG.png]]
 name: Doppelganger
-size: Medium
-type: [[Humanoid]]
-subtype: 
-alignment: Neutral
-ac: 14
-hp: 52
-hit_dice: 8d8+16
-speed: 30ft
-stats: [11, 18, 14, 11, 12, 14]
-fage_stats: 
+size: Size Here
+type: Type Here
+subtype: Subtype Here
+alignment: Alignmnet Here
+ac: 10
+hp: 12
+hit_dice: 2d6
+speed: Speeds Here
+stats: [10, 10, 10, 10, 10, 10]
 saves: 
-  - 
-  - 
+  - Saves: +0
 skillsaves:
-  - 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
+  - Skill Save: +0
+damage_vulnerabilities: Damage Vulnerabilities Here
+damage_resistances: Damage Resistances Here
+damage_immunities: Damage Immunities Here
 condition_immunities: Condition Immunities Here
 senses: Senses Go Here
 languages: Languages Here
