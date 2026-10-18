@@ -20,13 +20,15 @@
     "size": 16
   },
   "diceDisplay": "full",
-  "detectGridOnNewScenes": true,
   "diceColour": "light",
   "diceFont": "medieval",
   "experimental": {
     "dynamicLighting": true,
     "statblockEditor": true,
     "onlinePlay": true
+  },
+  "statblockPane": {
+    "hintDismissed": false
   },
   "toolbar": {},
   "localPlayerView": {
@@ -43,7 +45,5 @@
     "showTokenStress": false,
     "tokenBarsCarriedOver": true
   },
-  "statblockPane": {
-    "hintDismissed": false
-  }
+  "detectGridOnNewScenes": true
 }
