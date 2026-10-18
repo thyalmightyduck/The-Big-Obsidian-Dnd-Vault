@@ -20,14 +20,14 @@ skillsaves:
 damage_vulnerabilities: 
 damage_resistances: 
 damage_immunities: 
-condition_immunities: [[Charmed]]
-senses: [[Darkvision]] 60Ft, Passive Perception 11
-languages: [[Common]] And 3 More
-cr: 3
-spellsNotes: 
+condition_immunities: Condition Immunities Here
+senses: Senses Go Here
+languages: Languages Here
+cr: 0
+spellsNotes: "Spell Notes Here"
 spells:
-  - 
-legendary_description: 
+  - "Spell Level Here: Spell Names Here"
+legendary_description: "Legendary Desciption"
 traits:
   - name: "Trait Name:"
     desc: "Trait Descreption"  
@@ -49,8 +49,8 @@ mythic_actions:
     desc: "Mythic Action Description"
 lair_actions:
   - name: "Lair Action Name:"
-    desc: "Lair "
+    desc: "Lair Action Desc"
 regional_effects:
-  - name: 
-    desc:
+  - name: "Regional Effect Name:"
+    desc: "Regional Effect Description"
 ```
