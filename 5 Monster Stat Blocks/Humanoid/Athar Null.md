@@ -40,3 +40,63 @@ ___
 
 ### Reactions
 ***Nullify Spell (3/Day).*** The null utters a magical word of cancellation to interrupt a creature it can see that is casting a spell. If the spell is 3rd level or lower, it fails and has no effect. If the spell is 4th level or higher, the null makes an Intelligence check (DC 10 + the spell's level). On a successful check, the spell fails and has no effect.
+
+```statblock
+layout: Basic 5e Layout
+image: [[Athar Null BGR PNG.png]]
+name: Athar Null
+size: Small or Medium
+type: Humanoid
+alignment: Any Alignment
+ac: 14 (*[[leather armor]]*)
+hp: 84
+hit_dice: 13d8 + 26
+speed: 30 ft.
+stats: [11, 18, 14, 11, 12, 14]
+fage_stats: 
+saves: 
+  - 
+  - 
+skillsaves:
+  - 
+damage_vulnerabilities: 
+damage_resistances: 
+damage_immunities: 
+condition_immunities: [[Charmed]]
+senses: [[Darkvision]] 60Ft, Passive Perception 11
+languages: [[Common]] And 3 More
+cr: 3
+spellsNotes: 
+spells:
+  - 
+legendary_description: 
+traits:
+  - name: 
+    desc:   
+actions:
+  - name: "Multiattack"
+    desc: "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
+  - name: "Slam"
+    desc: "_Melee [[Attack Roll]]:_ +6 (with [[Advantage]] during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
+  - name: "Unsettling Visage (Recharge 6)"
+  - desc: "_Wisdom [[Saving Throw]]:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
+bonus_actions:
+  - name: "Shape-Shift"
+    desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
+reactions:
+  - name: 
+    desc: 
+legendary_actions:
+  - name: 
+    desc:   
+mythic_description: 
+mythic_actions:
+  - name: 
+    desc:
+lair_actions:
+  - name: 
+    desc:
+regional_effects:
+  - name: 
+    desc:
+```
