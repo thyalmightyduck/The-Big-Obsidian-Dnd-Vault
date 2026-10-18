@@ -173,6 +173,16 @@
       "id": "small-or-medium",
       "name": "Small Or Medium",
       "group": "tokens"
+    },
+    "tokens:monstrosity": {
+      "id": "monstrosity",
+      "name": "Monstrosity",
+      "group": "tokens"
+    },
+    "tokens:companion": {
+      "id": "companion",
+      "name": "Companion",
+      "group": "tokens"
     }
   },
   "settings": {

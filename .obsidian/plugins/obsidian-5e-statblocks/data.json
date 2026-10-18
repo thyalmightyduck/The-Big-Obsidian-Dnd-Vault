@@ -3476,6 +3476,127 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Gnoll Hunter",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Gnoll Hunter BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Gnoll Hunter",
+        "size": "Medium",
+        "type": "Monstrosity",
+        "alignment": "Typically Chaotic Evil",
+        "ac": "13 (*<STATBLOCK-WIKI-LINK>leather armor<STATBLOCK-WIKI-LINK>*)",
+        "hp": 22,
+        "hit_dice": "4d8 + 4",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          14,
+          12,
+          8,
+          12,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Perception": 3
+          },
+          {
+            "Stealth": 4
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 13, Passive Insight 11, Passive Stealth 14",
+        "languages": "Gnoll",
+        "cr": "1/2",
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The gnoll makes two Bite, Spear, or Longbow attacks."
+          },
+          {
+            "name": "Bite:",
+            "desc": "*Melee Weapon Attack:*  +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
+          },
+          {
+            "name": "Spear:",
+            "desc": "*Melee  or Ranged Weapon Attack:*  +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage when used with two hands to make a melee <STATBLOCK-WIKI-LINK>Attack Action|attack<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Longbow:",
+            "desc": "*Ranged Weapon Attack:*  +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Rampage.",
+            "desc": "After the gnoll reduces a creature to 0 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> with a melee <STATBLOCK-WIKI-LINK>Attack Action|attack<STATBLOCK-WIKI-LINK> on its turn, the gnoll moves up to half its speed and makes a Bite <STATBLOCK-WIKI-LINK>Attack Action|attack<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Chimera Companion",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Chimera Companion BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Chimera Companion",
+        "size": "Large",
+        "type": "Monstrosity",
+        "subtype": "(Companion)",
+        "alignment": "Unaligned",
+        "ac": "13 plus PB (natural armor)",
+        "hp": "7 + seven times caregiver's level (number of d8 <STATBLOCK-WIKI-LINK>Hit Point Dice|Hit Dice<STATBLOCK-WIKI-LINK> equal to their caregiver's level)",
+        "speed": "30 ft., Fly 30 ft.",
+        "stats": [
+          16,
+          12,
+          15,
+          5,
+          12,
+          8
+        ],
+        "saves": [
+          {
+            "CON": "Con +2 plus PB"
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": "+3 plus PB"
+          }
+        ],
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 11, Passive Insight 11, Passive Stealth 11",
+        "languages": "—",
+        "cr": null,
+        "actions": [
+          {
+            "name": "Signature Attack (Bite):",
+            "desc": "*Melee Weapon Attack:*  3 plus PB to hit, reach 5 ft., one target. *Hit:* 1d6 plus PB piercing damage."
+          },
+          {
+            "name": "1st Level: Ram's Defense (2 Ferocity):",
+            "desc": "The chimera makes a signature attack. On a hit, the attack imposes <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on the target's next attack roll made before the start of the chimera's next turn."
+          },
+          {
+            "name": "3rd Level: Lion's Leap (5 Ferocity):",
+            "desc": "The chimera moves up to half their speed without provoking <STATBLOCK-WIKI-LINK>Opportunity Attack|opportunity attacks<STATBLOCK-WIKI-LINK>. If they end this movement on the ground, each creature within 5 feet of them must succeed on a DC 10 plus PB Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be knocked <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "5th Level: Volcanic Blow (8 Ferocity):",
+            "desc": "The chimera spits an explosion of fire at a point they can see within 60 feet of them. Each creature in a 10-foot-radius <STATBLOCK-WIKI-LINK>sphere<STATBLOCK-WIKI-LINK> centered on that point must make a DC 10 plus PB Dexterity <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, taking PBd6 fire damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Protective Absorption (Recharges after a Short or <STATBLOCK-WIKI-LINK>Long Rest<STATBLOCK-WIKI-LINK>):",
+            "desc": "When the chimera's caregiver takes damage while within 60 feet of the chimera, half the damage taken (rounded up) is transferred to the chimera."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

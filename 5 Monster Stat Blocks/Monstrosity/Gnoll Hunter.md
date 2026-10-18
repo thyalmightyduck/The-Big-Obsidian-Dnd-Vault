@@ -55,39 +55,18 @@ skillsaves:
   - Perception: +3
   - Stealth: +4  
 senses: [[Darkvision]] 60 ft., [[Passive Perception]] 13, Passive Insight 11, Passive Stealth 14
-languages: [[Common]] And 3 More
-cr: 3
-spellsNotes: 
-spells:
-  - 
-legendary_description: 
-traits:
-  - name: 
-    desc:   
+languages: Gnoll
+cr: 1/2   
 actions:
-  - name: "Multiattack"
-    desc: "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
-  - name: "Slam"
-    desc: "_Melee [[Attack Roll]]:_ +6 (with [[Advantage]] during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
-  - name: "Unsettling Visage (Recharge 6)"
-  - desc: "_Wisdom [[Saving Throw]]:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
+  - name: "Multiattack:"
+    desc: "The gnoll makes two Bite, Spear, or Longbow attacks."
+  - name: "Bite:"
+    desc: "*Melee Weapon Attack:*  +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
+  - name: "Spear:"
+    desc: "*Melee  or Ranged Weapon Attack:*  +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage when used with two hands to make a melee [[Attack Action|attack]]."
+  - name: "Longbow:"
+    desc: "*Ranged Weapon Attack:*  +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn."          
 bonus_actions:
-  - name: "Shape-Shift"
-    desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
-reactions:
-  - name: 
-    desc: 
-legendary_actions:
-  - name: 
-    desc:   
-mythic_description: 
-mythic_actions:
-  - name: 
-    desc:
-lair_actions:
-  - name: 
-    desc:
-regional_effects:
-  - name: 
-    desc:
+  - name: "Rampage."
+    desc: "After the gnoll reduces a creature to 0 [[Hit Point|hit points]] with a melee [[Attack Action|attack]] on its turn, the gnoll moves up to half its speed and makes a Bite [[Attack Action|attack]]."
 ```

@@ -1,0 +1,22 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Chimera Companion",
+    "imagePath": "atlas-vtt/assets/Chimera_Companion_1792365487009_vuasjr.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Monstrosity/Chimera Companion.md",
+    "collection": "Default",
+    "tags": [
+      "Monstrosity",
+      "Large",
+      "Companion",
+      "FM"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Chimera_Companion_1792365487009_vuasjr-86e84c7c.webp",
+    "id": "token-1792365487040-pwzri3",
+    "createdAt": 1792365487040,
+    "modifiedAt": 1792365487040
+  }
+}
