@@ -1,0 +1,27 @@
+___
+>## Boromar Smuggler
+>*Small Humanoid (Halfling), Neutral Evil*
+>___
+>- **Armor Class** 13
+>- **Hit Points** 27 (6d6 + 6)
+>- **Speed** 40 ft.
+>- **Initiative** +4 (14)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|14 (+2)|
+>___
+>- **Saving Throws** Dex +4, Wis +2
+>- **Skills** Perception +2, Sleight of Hand +6, Stealth +6
+>- **Gear** *Leather Armor*, *Pistol*, *Shortsword*
+>- **Senses** Passive Perception 12
+>- **Languages** Common, Halfling, Thieves' cant
+>- **Challenge** 1/2 (XP 100; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Hustle.*** The smuggler can move through the space of any creature that is of a larger size, but it can't stop there.  
+>
+>### Actions
+>***Shortsword.*** *Melee Attack Roll:*  +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage plus 2 (1d4) Poison damage.  
+>
+>***Pistol.*** *Ranged Attack Roll:*  +4, range 30/90 ft. *Hit:* 7 (1d10 + 2) Piercing damage.
