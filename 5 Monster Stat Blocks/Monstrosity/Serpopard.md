@@ -1,0 +1,33 @@
+___
+>## Serpopard
+>*Large Monstrosity, Unaligned*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 85 (10d10 + 30)
+>- **Speed** 40 ft., Swim 30 ft.
+>- **Initiative** +3 (13)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|16 (+3)|16 (+3)|2 (-4)|12 (+1)|6 (-2)|
+>___
+>- **Skills** Perception +3, Stealth +5
+>- **Damage Resistances** Poison
+>- **Immunities** Poisoned
+>- **Senses** Darkvision 60 ft., Passive Perception 13
+>- **Languages** —
+>- **Challenge** 4 (XP 1,100; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Coastal Camouflage.*** The serpopard has advantage on Dexterity (Stealth) checks made to hide in sandy, muddy, or swampy terrain.  
+>
+>***Sinuous Strikeback.*** The serpopard gets two extra reactions that can be used only for opportunity attacks.  
+>
+>### Actions
+>***Multiattack.*** The serpopard makes one Bite attack and two Claw attacks.  
+>
+>***Bite.*** *Melee Weapon Attack:*  +5 to hit, reach 10 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.  
+>
+>***Claw.*** *Melee Weapon Attack:*  +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.  
+>
+>***Musk (Recharges after a Short or Long Rest).*** The serpopard releases foul-smelling musk in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 21 (6d6) poison damage and is poisoned for 1 hour or until it spends 10 minutes washing off the musk. On a success, a creature takes half the damage and isn't poisoned. While a creature is poisoned in this way, any creature that starts its turn within 5 feet of the poisoned creature must succeed on a DC 13 Dexterity saving throw or be poisoned until the end of its turn.

@@ -1,0 +1,35 @@
+___
+>## Owlbear
+>*Large Monstrosity (Brute), Unaligned*
+>___
+>- **Armor Class** 13 (natural armor)
+>- **Hit Points** 82 (11d10 + 22)
+>- **Speed** 40 ft.
+>- **Initiative** +1 (11)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|12 (+1)|15 (+2)|5 (-3)|12 (+1)|6 (-2)|
+>___
+>- **Skills** Perception +3
+>- **Immunities** Frightened
+>- **Senses** Darkvision 60 ft., Passive Perception 13
+>- **Languages** —
+>- **Challenge** 3 (XP 700; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Deadly Leap.*** The owlbear's long jump is up to 30 feet and their high jump is 15 feet, with or without a running start. If the owlbear leaps at least 20 feet toward a target and then hits them with a Bite or Claw attack, the target must succeed on a DC 15 Strength saving throw or be knocked prone.  
+>
+>***Keen Sight and Smell.*** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.  
+>
+>### Actions
+>***Multiattack.*** The owlbear makes one Bite and one Claw attack.  
+>
+>***Bite.*** *Melee Weapon Attack:*  +7 to hit, reach 10 ft., one target. *Hit:* 11 (1d12 + 5) piercing damage, and the owlbear can move the target 5 feet in any direction.  
+>
+>***Claw.*** *Melee Weapon Attack:*  +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.  
+>
+>***Bear Hug (Recharge 4–6).*** The owlbear attempts to grab and crush a creature they can see within 5 feet of them. The target must make a DC 15 Dexterity saving throw. On a failed save, the target takes 22 (4d10) bludgeoning damage and is grappled (escape DC 15). On a successful save, the target takes half as much damage and is not grappled. Until this grapple ends, the target is restrained and takes 5 (1d10) bludgeoning damage at the start of each of their turns. The grapple ends if the owlbear uses Bear Hug on another target or makes a Claw attack against another target.  
+>
+>### Reactions
+>***Hulking Rush.*** When the owlbear takes damage, they can move up to half their speed without provoking opportunity attacks.
