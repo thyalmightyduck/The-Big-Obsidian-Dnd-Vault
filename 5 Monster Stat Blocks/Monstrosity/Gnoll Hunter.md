@@ -50,18 +50,11 @@ ac: 13 (*[[leather armor]]*)
 hp: 22
 hit_dice: 4d8 + 4
 speed: 30 ft.
-stats: [14, 18, 14, 11, 12, 14]
-fage_stats: 
-saves: 
-  - 
-  - 
+stats: [14, 14, 12, 8, 12, 8]
 skillsaves:
-  - 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: [[Charmed]]
-senses: [[Darkvision]] 60Ft, Passive Perception 11
+  - Perception: +3
+  - Stealth: +4  
+senses: [[Darkvision]] 60 ft., [[Passive Perception]] 13, Passive Insight 11, Passive Stealth 14
 languages: [[Common]] And 3 More
 cr: 3
 spellsNotes: 
