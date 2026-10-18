@@ -1,0 +1,33 @@
+___
+>## Vampiric Mist
+>*Medium Undead, Typically Chaotic Evil*
+>___
+>- **Armor Class** 13
+>- **Hit Points** 30 (4d8 + 12)
+>- **Speed** 0 ft., Fly 30 ft. (hover)
+>- **Initiative** +3 (13)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|16 (+3)|16 (+3)|6 (-2)|12 (+1)|7 (-2)|
+>___
+>- **Saving Throws** Wis +3
+>- **Damage Resistances** Acid, Cold, Lightning, Necrotic, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+>- **Immunities** Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+>- **Senses** Darkvision 60 ft., Passive Perception 11
+>- **Languages** —
+>- **Challenge** 3 (XP 700; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Forbiddance.*** The mist can't enter a residence without an invitation from one of the occupants.  
+>
+>***Life Sense.*** The mist can sense the location of any creature within 60 feet of it, unless that creature's type is Construct or Undead.  
+>
+>***Misty Form.*** The mist can occupy another creature's space and vice versa. In addition, if air can pass through a space, the mist can pass through it without squeezing. Each foot of movement in water costs it 2 extra feet, rather than 1 extra foot. The mist can't manipulate objects in any way that requires fingers or manual dexterity.  
+>
+>***Sunlight Hypersensitivity.*** The mist takes 10 radiant damage whenever it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.  
+>
+>***Unusual Nature.*** The mist doesn't require air or sleep.  
+>
+>### Actions
+>***Life Drain.*** The mist touches one creature in its space. The target must succeed on a DC 13 Constitution saving throw (Undead and Constructs automatically succeed), or it takes 10 (2d6 + 3) necrotic damage, the mist regains 10 hit points, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
