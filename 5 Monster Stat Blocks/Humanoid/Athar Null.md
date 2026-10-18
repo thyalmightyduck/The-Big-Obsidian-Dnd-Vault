@@ -61,22 +61,16 @@ skillsaves:
   - Perception: +5
   - Stealth: +6    
 senses: [[Passive Perception]] 15, Passive Insight 12, Passive Stealth 16
-languages: [[Common]] And 3 More
-cr: 3
-spellsNotes: 
-spells:
-  - 
-legendary_description: 
+languages: Common plus two more languages
+cr: 5
 traits:
-  - name: 
-    desc:   
+  - name: "Avoidance:"
+    desc: "If the null is subjected to an effect that allows it to make a [[saving throw]] to take half as much damage, it instead takes no damage if it succeeds on the [[saving throw]], and half as much damage if it fails."  
 actions:
-  - name: "Multiattack"
-    desc: "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
-  - name: "Slam"
-    desc: "_Melee [[Attack Roll]]:_ +6 (with [[Advantage]] during the first round of each combat), reach 5 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning damage."
-  - name: "Unsettling Visage (Recharge 6)"
-  - desc: "_Wisdom [[Saving Throw]]:_ DC 12, each creature in a 15-foot [[Emanation]] originating from the doppelganger that can see the doppelganger. _Failure:_ The target has the [[Frightened]] condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."   
+  - name: "Multiattack:"
+    desc: "The null makes two Force Dagger attacks." 
+  - name: "Force Dagger:"
+    desc:    
 bonus_actions:
   - name: "Shape-Shift"
     desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
