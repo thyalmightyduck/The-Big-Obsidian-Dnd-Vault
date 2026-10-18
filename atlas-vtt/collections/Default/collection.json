@@ -168,6 +168,11 @@
       "id": "humanoid",
       "name": "Humanoid",
       "group": "tokens"
+    },
+    "tokens:small-or-medium": {
+      "id": "small-or-medium",
+      "name": "Small Or Medium",
+      "group": "tokens"
     }
   },
   "settings": {
