@@ -1,0 +1,7 @@
+#### Arrows, Wooden (20)
+
+Ammunition, 1 GP, ½ lb.
+
+---
+
+***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.
