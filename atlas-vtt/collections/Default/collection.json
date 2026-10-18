@@ -143,6 +143,21 @@
       "id": "player",
       "name": "Player",
       "group": "tokens"
+    },
+    "tokens:giant": {
+      "id": "giant",
+      "name": "Giant",
+      "group": "tokens"
+    },
+    "tokens:cr8": {
+      "id": "cr8",
+      "name": "CR8",
+      "group": "tokens"
+    },
+    "tokens:huge": {
+      "id": "huge",
+      "name": "Huge",
+      "group": "tokens"
     }
   },
   "settings": {

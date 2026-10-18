@@ -1,8 +1,11 @@
 ---
 tags:
   - classes
+  - subclass
+  - druid
+  - SCGtD
 ---
-# Circle of Contamination Druid
+# Circle of Contamination Druid (SCGtD)
 ## Sebastian Crowe’s Guide to Drakkenheim
 
 | Level | [[Proficiency Bonus]] | Features                                        | Wild Shape | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8t  | 9th |
