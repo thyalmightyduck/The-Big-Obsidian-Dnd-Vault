@@ -1,0 +1,28 @@
+___
+>## Orc Nurtured One of Yurtrus
+>*Medium Humanoid (Orc), Chaotic Evil*
+>___
+>- **Armor Class** 9
+>- **Hit Points** 30 (4d8 + 12)
+>- **Speed** 30 ft.
+>- **Initiative** -1 (9)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|8 (-1)|16 (+3)|7 (-2)|11 (+0)|7 (-2)|
+>___
+>- **Senses** Darkvision 60 ft., Passive Perception 10
+>- **Languages** Common, Orc
+>- **Challenge** 1/2 (XP 100; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.  
+>
+>***Corrupted Carrier.*** When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (4d6) poison damage and becomes poisoned. On a success, the creature takes half as much damage and isn't poisoned. A creature poisoned by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While poisoned by this effect, a creature can't regain hit points.  
+>
+>***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.  
+>
+>### Actions
+>***Claws.*** *Melee Weapon Attack:*  +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage plus 2 (1d4) necrotic damage.  
+>
+>***Corrupted Vengeance.*** The orc reduces itself to 0 hit points, triggering its Corrupted Carrier trait.

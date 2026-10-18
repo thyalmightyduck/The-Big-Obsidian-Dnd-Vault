@@ -1,0 +1,30 @@
+___
+>## Flux Blastseeker
+>*Medium Humanoid (Any Race), Chaotic Neutral*
+>___
+>- **Armor Class** 12 (15 with *mage armor*)
+>- **Hit Points** 55 (10d8 + 10)
+>- **Speed** 30 ft.
+>- **Initiative** +2 (12)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|15 (+2)|12 (+1)|20 (+5)|9 (-1)|14 (+2)|
+>___
+>- **Saving Throws** Dex +5, Int +8
+>- **Skills** Arcana +8, Perception +2
+>- **Gear** *Quarterstaff*
+>- **Senses** Passive Perception 12
+>- **Languages** Common plus any one language
+>- **Challenge** 5 (XP 1,800; PB +3)
+>- **Proficiency Bonus** +3
+>___
+>***Fluxbending Overcast (Recharge 5–6).*** The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect: 1-3. The blastseeker teleports, swapping places with a creature it can see within 30 feet of it. 4-6. The blastseeker and each creature within 10 feet of it must succeed on a DC 16 Constitution saving throw or take 11 (2d10) thunder damage.  
+>
+>***Innate Spellcasting.*** The blastseeker's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The blastseeker can innately cast the following spells, requiring no components other than its Izzet gear, which doesn't function for others:  
+>
+>3/day each: *mage armor* (self only), *scorching ray*  
+>1/day each: *banishment*, *cone of cold*, *dimension door*, *fireball*, *ice storm*  
+>
+>### Actions
+>***Quarterstaff.*** *Melee Weapon Attack:*  +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.
