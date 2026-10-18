@@ -1,5 +1,7 @@
-*Medium Armor*
-*AC 14 + DEX (Max 2)*
-*400 GP, 20 lb.*
+#### Breastplate
 
-![[Breastplate BGR PNG.png]]
+Medium Armor, 400 GP, 20 lb.
+
+AC 14 + Dex (max 2)
+
+---

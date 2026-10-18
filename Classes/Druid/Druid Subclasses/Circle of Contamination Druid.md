@@ -4,6 +4,8 @@ tags:
   - subclass
   - druid
   - SCGtD
+aliases:
+  - Contamination Druid
 ---
 # Circle of Contamination Druid 
 ## Sebastian Crowe’s Guide to Drakkenheim (SCGtD)
@@ -95,7 +97,7 @@ You can summon a nature spirit that assumes an animal form to aid you. As a [[M
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a [[Long Rest]].
 
 ## Level 2: Wild Shape
-The power of nature allows you to assume the form of an animal. As a [[Bonus Action]], you shape-shift into a [[Beast]] form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [[Incapacitated]] condition, or die. You can also leave the form early as a [[Bonus Action]].
+The power of nature allows you to assume the form of an animal. As a [[Bonus Action]], you shape-shift into a [[Beast]] form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [[Incapacitated]] [[condition]], or die. You can also leave the form early as a [[Bonus Action]].
 
 Number of Uses. You can use Wild Shape twice. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -131,7 +133,7 @@ As druids are often in tune with nature and the natural order, most see delirium
 
 At 2nd level, you learn the [[chill touch]] and [[poison needle]] cantrips. These don't count against the number of druid cantrips you know.
 
-At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Contamination Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
+At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Contamination Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the [[druid spell list]], the spell is nonetheless a druid spell for you.
 
 **Circle of Contamination Spells:**
 
@@ -144,26 +146,26 @@ At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that le
 ### Level 2: Blighted Magic
 Your magic becomes a twisted mockery of druidic principles, and you can twist your spells to suit your needs. Your spells which conjure creatures or natural flora and fauna now appear like sickly, fleshy tentacles, and animals you summon are cancerous and mutated. In addition, when you cast a spell, you can choose one of the following blighted magic options:
 - **Twin Spell.** If the spell you cast targets only one creature and doesn't have a range of self, you can expend a use of your Wild Shape feature to target a second creature in range with the same spell. To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level.
-- **Quicken Spell.** When you cast a spell that has a casting time of 1 action, you can expend a use of your Wild Shape feature to cast the spell as a bonus action.
-- **Corrupt Spell.** When you roll damage for a spell, you can expend a use of your Wild Shape feature to change the damage type of all damage caused by the spell to necrotic. In addition, you can reroll a number of the damage dice up to your Wisdom modifier (minimum one). You must use the new rolls.
-- **Purify Spell.** When you cast a contaminated spell (found in Chapter 4), you can expend a use of your Wild Shape feature to cast the spell without gaining a Contamination Level.
+- **Quicken Spell.** When you cast a spell that has a casting time of 1 [[action]], you can expend a use of your Wild Shape feature to cast the spell as a [[bonus action]].
+- **Corrupt Spell.** When you roll damage for a spell, you can expend a use of your Wild Shape feature to change the [[damage type]] of all damage caused by the spell to necrotic. In addition, you can reroll a number of the damage dice up to your Wisdom modifier (minimum one). You must use the new rolls.
+- **Purify Spell.** When you cast a contaminated spell (found in Chapter 4), you can expend a use of your Wild Shape feature to cast the spell without gaining a [[Contamination]] Level.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ## Level 5: Wild Resurgence
-Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
+Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no [[action]] required).
 
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [[Long Rest]].
+In addition, you can expend one use of Wild Shape (no [[action]] required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [[Long Rest]].
 
 ## Level 6: Subclass Feature
 You gain a feature from your Druid Subclass.
 
 ### Level 6: Despoiler
-You gain resistance to poison and necrotic damage.
+You gain [[resistance]] to poison and necrotic damage.
 
 ### Level 6: Cycle of Contamination
-Though your magic is infused with contaminated power, you have also learned ways to effectively expel these energies. You can cast the [[purge contamination]] spell as an action without expending a spell slot. You don't need to provide the material components when you cast the spell in this way, and the target does not gain any exhaustion levels from this casting of the spell. When you cast [[purge contamination]] in this way, you can't do so again until you finish a long rest.
+Though your magic is infused with contaminated power, you have also learned ways to effectively expel these energies. You can cast the [[purge contamination]] spell as an [[action]] without expending a spell slot. You don't need to provide the material components when you cast the spell in this way, and the target does not gain any [[exhaustion]] levels from this casting of the spell. When you cast [[purge contamination]] in this way, you can't do so again until you finish a [[long rest]].
 
 ## Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
@@ -179,10 +181,10 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 You gain a feature from your Druid Subclass.
 
 ### Level 10: Draw Corruption
-You gain the ability to draw contamination into yourself to empower your magic. Once per turn as a bonus action, you can gain one Contamination Level. If you do, you regain one use of your Wild Shape feature.
+You gain the ability to draw [[contamination]] into yourself to empower your magic. Once per turn as a [[bonus action]], you can gain one [[Contamination]] Level. If you do, you regain one use of your Wild Shape feature.
 
 ### Level 10: Defile Elements
-You learn the [[summon delerium elemental]] spell, and always have this spell prepared (it doesn't count against the number of druid spells you can prepare). You can cast it once without a spell slot, material component, or gaining a contamination level, and you regain the ability to do so when you finish a long rest. When you cast the spell, you can modify it so that it doesn't require concentration. When you do, the spell's duration for that casting changes to 1 minute.
+You learn the [[summon delerium elemental]] spell, and always have this spell prepared (it doesn't count against the number of druid spells you can prepare). You can cast it once without a spell slot, material component, or gaining a [[contamination]] level, and you regain the ability to do so when you finish a [[long rest]]. When you cast the spell, you can modify it so that it doesn't require [[concentration]]. When you do, the spell's duration for that casting changes to 1 minute.
 
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -191,9 +193,9 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Druid Subclass.
 
 ### Level 14: Haze Aura
-You have become such a locus for contamination that you project the Haze around your body. The aura persists so long as you are not incapacitated. Creatures of your choice which start their turn within 10 feet of you must make a Constitution saving throw against your spell save DC. Those who fail the save take 3d6 necrotic damage. A creature who fails this saving throw by 5 or more gains one Contamination Level.
+You have become such a locus for [[contamination]] that you project the Haze around your body. The aura persists so long as you are not [[incapacitated]]. Creatures of your choice which start their turn within 10 feet of you must make a Constitution [[saving throw]] against your spell save DC. Those who fail the save take 3d6 necrotic damage. A creature who fails this [[saving throw]] by 5 or more gains one [[Contamination]] Level.
 
-A creature which makes a successful saving throw against your Haze Aura is immune to its effects for 24 hours.
+A creature which makes a successful [[saving throw]] against your Haze Aura is immune to its effects for 24 hours.
 
 ## Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.
@@ -216,6 +218,6 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 Evergreen Wild Shape. Whenever you roll [[Initiative]] and have no uses of Wild Shape left, you regain one expended use of it.
 
-Nature Magician. You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [[Long Rest]].
+Nature Magician. You can convert uses of Wild Shape into a spell slot (no [[action]] required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [[Long Rest]].
 
 Longevity. The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.

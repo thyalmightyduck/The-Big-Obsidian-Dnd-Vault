@@ -1,4 +1,7 @@
-_Adventuring Gear_
-_5 CP, 2 lb._
-- - - 
+#### Bucket
+
+Adventuring Gear, 5 CP, 2 lb.
+
+---
+
 A Bucket holds up to half a cubic foot of contents.
