@@ -32,24 +32,24 @@ traits:
   - name: "Trait Name:"
     desc: "Trait Descreption"  
 actions:
-  - name: "Action Name"
-    desc: "Action"   
+  - name: "Action Name:"
+    desc: "Action Description"   
 bonus_actions:
-  - name: "Shape-Shift"
-    desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
+  - name: "Bonus Action Name:"
+    desc: "Bonus Action Desc"
 reactions:
-  - name: 
-    desc: 
+  - name: "Reaction Name:"
+    desc: "Reaction Description"
 legendary_actions:
-  - name: 
-    desc:   
-mythic_description: 
+  - name: "Legendary Action Name:"
+    desc: "Legendary Action Description"  
+mythic_description: "Mythic Description"
 mythic_actions:
-  - name: 
-    desc:
+  - name: "Mythic Action Name:"
+    desc: "Mythic Action Description"
 lair_actions:
-  - name: 
-    desc:
+  - name: "Lair Action Name:"
+    desc: "Lair "
 regional_effects:
   - name: 
     desc:
