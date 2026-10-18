@@ -70,24 +70,11 @@ actions:
   - name: "Multiattack:"
     desc: "The null makes two Force Dagger attacks." 
   - name: "Force Dagger:"
-    desc:    
+    desc: "*Melee  or Ranged Weapon Attack:*  +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 13 (3d8) force damage. *Hit or Miss:* The dagger magically returns to the null's hand immediately after a ranged attack."   
 bonus_actions:
-  - name: "Shape-Shift"
-    desc: "The [[doppelganger]] shape-shifts into a Medium or Small [[Humanoid]], or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
+  - name: "Defier's Whim:"
+    desc: "The null takes the Dash, Disengage, or Use an Object action."
 reactions:
-  - name: 
-    desc: 
-legendary_actions:
-  - name: 
-    desc:   
-mythic_description: 
-mythic_actions:
-  - name: 
-    desc:
-lair_actions:
-  - name: 
-    desc:
-regional_effects:
-  - name: 
-    desc:
+  - name: "Nullify Spell (3/Day)."
+    desc: "The null utters a magical word of cancellation to interrupt a creature it can see that is casting a spell. If the spell is 3rd level or lower, it fails and has no effect. If the spell is 4th level or higher, the null makes an Intelligence check (DC 10 + the spell's level). On a successful check, the spell fails and has no effect."
 ```

@@ -163,6 +163,11 @@
       "id": "undead",
       "name": "Undead",
       "group": "tokens"
+    },
+    "tokens:humanoid": {
+      "id": "humanoid",
+      "name": "Humanoid",
+      "group": "tokens"
     }
   },
   "settings": {
