@@ -1,3 +1,7 @@
+---
+aliases:
+  - Healing Surge
+---
 ## Healing Surge
 
 As an action, a character can use a healing surge and spend up to half his or her Hit Dice. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll.

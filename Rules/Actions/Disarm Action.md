@@ -1,3 +1,7 @@
+---
+aliases:
+  - Disarm
+---
 ## Disarm
 
 A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.

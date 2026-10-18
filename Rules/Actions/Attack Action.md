@@ -1,12 +1,11 @@
-City Of Honor/Bulmaar Locations/3 Fruitful Harvest Apothecary.md",
-    "3 The Kingdom Of Oskana/1 Cites Of Oskana/Fin City/Locations",
-    "3 The Kingdom Of Oskana/2 Towns Of Oskana/Oreding Town",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Olismond Village",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Klolk Village",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Strolburg Village",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Dairmont Village",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pery Village",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Pluford Village",
-    "3 The Kingdom Of Oskana/3 Villages Of Oskana/Drixgas Village",
-    "Pictures/Species/Kithkin BGR PNG.png",
-    "Pictures/Spe
+---
+aliases:
+  - Attack
+---
+## Attack
+
+When you take the Attack action, you can make one attack roll with a weapon or an Unarmed Strike.
+
+***Equipping and Unequipping Weapons.*** You can either equip or unequip one weapon when you make an attack as part of this action. You do so either before or after the attack. If you equip a weapon before an attack, you don't need to use it for that attack. Equipping a weapon includes drawing it from a sheath or picking it up. Unequipping a weapon includes sheathing, stowing, or dropping it.
+
+***Moving Between Attacks.*** If you move on your turn and have a feature, such as Extra Attack, that gives you more than one attack as part of the Attack action, you can use some or all of that movement to move between those attacks.

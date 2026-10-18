@@ -1,3 +1,7 @@
+---
+aliases:
+  - Activate an Item
+---
 ## Activate an Item
 
 Activating some magic items requires a user to do something in particular, such as holding the item and uttering a command word, reading the item if it is a scroll, or drinking it if it is a potion. The description of each item category or individual item details how an item is activated. Certain items use one or more of the following rules related to their activation.

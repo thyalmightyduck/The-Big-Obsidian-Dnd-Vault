@@ -1,3 +1,7 @@
+---
+aliases:
+  - Heal Scars
+---
 ## Heal Scars
 
 *Yule*

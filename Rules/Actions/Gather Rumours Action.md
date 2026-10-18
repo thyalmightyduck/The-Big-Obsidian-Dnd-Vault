@@ -1,3 +1,7 @@
+---
+aliases:
+  - Gather Rumours
+---
 ## Gather Rumours
 
 News of strange things happening in the world are multiplying with every passing year. Tidings of a gathering darkness, of distant wars, and of the flight of the Elves—vague legends and old songs are proving to be more than just children's stories. Player-heroes gathering rumours try to separate facts from fireside-tales, and to gather stories that may prove useful in their adventures.
