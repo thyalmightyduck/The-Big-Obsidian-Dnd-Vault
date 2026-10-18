@@ -158,6 +158,11 @@
       "id": "huge",
       "name": "Huge",
       "group": "tokens"
+    },
+    "tokens:undead": {
+      "id": "undead",
+      "name": "Undead",
+      "group": "tokens"
     }
   },
   "settings": {

@@ -1,0 +1,23 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Swarm of Wolf Spirits",
+    "imagePath": "atlas-vtt/assets/Swarm_of_Wolf_Spirits_1792360488021_cfnk3z.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Undead/Swarm of Wolf Spirits.md",
+    "collection": "Default",
+    "tags": [
+      "Undead",
+      "Large",
+      "Swarm",
+      "CR6",
+      "ToB123"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Swarm_of_Wolf_Spirits_1792360488021_cfnk3z-43b4cdec.webp",
+    "id": "token-1792360488386-vgskvk",
+    "createdAt": 1792360488386,
+    "modifiedAt": 1792360488386
+  }
+}
