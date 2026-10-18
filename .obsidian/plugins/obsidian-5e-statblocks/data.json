@@ -3258,6 +3258,75 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Bredbeddle",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Bredbeddle BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Bredbeddle",
+        "size": "Huge",
+        "type": "Giant",
+        "subtype": "(Shapechanger, Brute)",
+        "alignment": "typically Chaotic Evil",
+        "ac": "13 (natural armor)",
+        "hp": 157,
+        "hit_dice": "15d12 + 60",
+        "speed": "30 ft.",
+        "stats": [
+          24,
+          10,
+          18,
+          12,
+          12,
+          16
+        ],
+        "skillsaves": [
+          {
+            "Deception": 6
+          },
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 3
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Blindsight<STATBLOCK-WIKI-LINK> 60 ft. (blind beyond this radius in true form), <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 14, Passive Insight 11, Passive Stealth 13",
+        "languages": "Common, Giant (can't speak in true form)",
+        "cr": 8,
+        "traits": [
+          {
+            "name": "Rejuvenation.",
+            "desc": "If the bredbeddle dies, they return to life in 1d6 months with all their <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK>. If their body was destroyed, it reforms in an unoccupied space nearest to where they died. Only a *<STATBLOCK-WIKI-LINK>wish<STATBLOCK-WIKI-LINK>* spell or finding and destroying the bredbeddle's true head can prevent this trait from functioning."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The bredbeddle makes two Executioner's Axe attacks."
+          },
+          {
+            "name": "Executioner's Axe.",
+            "desc": "*Melee Weapon Attack:*  +10 to hit, reach 5 ft., one target. *Hit:* 23 (3d10 + 7) slashing damage."
+          },
+          {
+            "name": "Beheading Strike (Recharge 5–6).",
+            "desc": "*Melee Weapon Attack:*  +10 to hit, reach 15 ft., one Large or smaller Giant or Humanoid with a head. *Hit:* 40 (6d10 + 7) slashing damage, and the target must make a DC 15 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, the bredbeddle cuts off the target's head, which lands at the target's feet. A creature beheaded in this way remains alive unless reduced to 0 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK>, but they are <STATBLOCK-WIKI-LINK>blinded<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>deafened<STATBLOCK-WIKI-LINK>, and they can't speak. A creature can use an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> to place a beheaded creature's head back on their neck, reattaching the head and ending the effect. A beheaded creature dies if they are separated from their head for more than 24 hours.  "
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Get a Head.",
+            "desc": "The bredbeddle picks up a severed Giant or Humanoid head within 15 feet of them and places it on the bredbeddle's neck. The bredbeddle then polymorphs into that Giant or Humanoid creature. While polymorphed, the bredbeddle's statistics change as follows: <P>- They can speak. <P>- They lose their Headless trait. <P>- Their size changes to match the creature whose head they bear. <P>- They can see normally, and they gain any special senses the creature's head had. <P>- Any equipment they are wearing or carrying temporarily changes to match their size, but the equipment's statistics do not change. <P>The bredbeddle reverts to their true form if they die, if their head is removed, or after 24 hours. When they revert, the head falls off and can't be reattached to the bredbeddle. <P>A creature who can reach the bredbeddle can use an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> to make a DC 18 Strength (<STATBLOCK-WIKI-LINK>Athletics<STATBLOCK-WIKI-LINK>) check, removing the head from the bredbeddle on a success."
+          },
+          {
+            "name": "Toss Head (Polymorphed Form Only).",
+            "desc": "The bredbeddle removes their head, reverting to their true form, and throws the head at a creature they can see within 60 feet of them. <P>The head lands in the target's space, and the target must succeed on a DC 18 Dexterity <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take 18 (2d10 + 7) bludgeoning damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
