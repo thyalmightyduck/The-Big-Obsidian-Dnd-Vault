@@ -1,7 +1,7 @@
 ```statblock
 layout: Basic 5e Layout
-image: [[Doppelganger BGR PNG.png]]
-name: Doppelganger
+image: [[Blank Character Portrait.png]]
+name: Name Heere
 size: Size Here
 type: Type Here
 subtype: Subtype Here

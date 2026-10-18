@@ -41,17 +41,16 @@ ___
 
 ```statblock
 layout: Basic 5e Layout
-image: [[Doppelganger BGR PNG.png]]
-name: Doppelganger
+image: [[Gnoll Hunter BGR PNG.png]]
+name: Gnoll Hunter
 size: Medium
-type: [[Humanoid]]
-subtype: 
-alignment: Neutral
-ac: 14
-hp: 52
-hit_dice: 8d8+16
-speed: 30ft
-stats: [11, 18, 14, 11, 12, 14]
+type: Monstrosity
+alignment: Typically Chaotic Evil
+ac: 13 (*[[leather armor]]*)
+hp: 22
+hit_dice: 4d8 + 4
+speed: 30 ft.
+stats: [14, 18, 14, 11, 12, 14]
 fage_stats: 
 saves: 
   - 
