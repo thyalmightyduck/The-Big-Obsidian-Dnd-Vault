@@ -318,9 +318,9 @@ bonus_actions:
 - Store House Gives 200 Every 2 Weeks
 
 ### Skeleton Army x20
-- 260 HP
-- 14 ac
-- dmg 58 9d12 half at half hp `dice: 9d12` +7
+- 150 HP
+- 13 ac
+- +5 4d6+3
 
-21 me
-6 Army
+ me
+ Army
