@@ -110,6 +110,9 @@ proficiencies:
   - Light Armor
   - Simple Weapons
   - Thieves Tools
+  - Passive Perception 11
+  - Passive Insight 11
+  - Passive Stealth
 inventory:
   - Potion of Greater Healing
   - Leather Armor
@@ -196,62 +199,6 @@ atlas-type: statblock
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 8 [[Shifter (Swiftstride)]]
-> [!infobox]
-> # Mahogany Softpike
-> ![[Mahogony BGR PNG.png|cover hsmall]]
-> ###### Stats
-> | Type | Stat |
-> | ---- | ---- |
-> | AC | 15 (17 Mage Armor) |
-> | Max HP | 33/33 |
-> | Speed | 30ft (40ft Shifter) |
-> | [[Initiative]] | +7 (A) |
-> ###### Ability Scores
-> | Ability | Score | Mod | Save |
-> | ---- | ---- | ---- | ---- |
-> | Strength | 9 | -1 | -1 |
-> | Dexterity | 18 | +4 | +4 |
-> |  Constitution | 10 | +0 | +0 |
-> | Intelligence | 16 | +3 | +3 |
-> | Wisdom | 13 | +1 | +3 |
-> | Charisma | 20 | +5 | +7 | 
-> ###### Skills
-> | MOD | Skill | Bonus | Prof | A/D |
-> | ---- | ---- | ---- | ---- | ---- |
-> | STR | [[Athletics]] | -1 | | |
-> | DEX | [[Acrobatics]] | +6 | (P) | |
-> | DEX | [[Sleight Of Hand]] | +6 | (P) | |
-> | DEX | [[Stealth]] | +6 | (P) | | 
-> | INT | [[Arcana]] | +5 | (P) | |
-> | INT | [[History]] | +3 | | | 
-> | INT | [[Investigation]] | +3 | | 
-> | INT | [[Nature]] | +3 | | |
-> | INT | [[Religion]] | +3 | | |
-> | WIS | [[Animal Handling]] | +1 | | |
-> | WIS | [[Insight]] | +1 | | |
-> | WIS | [[Medicine]] | +1 | | |
-> | WIS | [[Perception]] | +1 | | (A) |
-> | WIS | [[Survival]] | + 1 | | |
-> | CHA | [[Deception]] | +7 | (P) | |
-> | CHA | [[Intimidation]] | +5 | | |
-> | CHA | [[Performance]] | +5 | | |
-> | CHA | [[Persuasion]] | +5 | | | 
-> ##### Proficiencies
-> | Type | Stat |
-> | ---- | ---- |
-> | [[Passive Perception]] | 11 |
-> | Passive Insight | 11 |
-> | Passive Stealth | 16 |
-> | Armor | Light Armor |
-> | Weapon | Simple Weapons |
-> | Tool | [[Thieves Tools]] |
-> | Language | Language |
->  ##### Defenses And Conditions
-  > | Stat | Type |
-> | ---- | ---- |
-> | Radiant | [[Resistance (Damage)]] |
-
-
 
 #### Level 1 Eldritch Invocations
  **[[Undying Servitude]]:** You can cast [[animate dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
