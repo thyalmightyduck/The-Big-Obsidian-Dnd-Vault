@@ -2,6 +2,8 @@
 tags:
   - Monster
   - Aberration
+  - CR9
+  - MoDk
 ---
 # Monsters of Drakkenheim (MoDk)
 ___
