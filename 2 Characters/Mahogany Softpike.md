@@ -330,12 +330,12 @@ bonus_actions:
 | 19         | Magna    |
 | 18         | Mahogony |
 | 17         | Jooney   |
-|            | Mouth    |
-|            | Yigs     |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
+| 16         | Yigs     |
 |            | Oob      |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
 
