@@ -3831,6 +3831,116 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Aboleth",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Aboleth BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Aboleth",
+        "size": "Large",
+        "type": "Aberration",
+        "alignment": "Lawful Evil",
+        "ac": 17,
+        "hp": 150,
+        "hit_dice": "20d10 + 40",
+        "speed": "10 ft., Swim 40 ft.",
+        "stats": [
+          21,
+          9,
+          15,
+          18,
+          15,
+          18
+        ],
+        "saves": [
+          {
+            "DEX": 3
+          },
+          {
+            "CON": 6
+          },
+          {
+            "INT": 8
+          },
+          {
+            "WIS": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "History": 12
+          },
+          {
+            "Perception": 10
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 20, Passive Insight 12, Passive Stealth 9",
+        "languages": "Deep Speech; telepathy 120 ft",
+        "cr": 10,
+        "legendary_description": "*Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the aboleth can expend a use to take one of the following actions. The aboleth regains all expended uses at the start of each of its turns.*",
+        "traits": [
+          {
+            "name": "Amphibious:",
+            "desc": "The aboleth can breathe air and water."
+          },
+          {
+            "name": "Eldritch Restoration:",
+            "desc": "If destroyed, the aboleth gains a new body in 5d10 days, reviving with all its <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> in the Far Realm or another location chosen by the DM."
+          },
+          {
+            "name": "Legendary Resistance (3/Day, or 4/Day in Lair):",
+            "desc": "If the aboleth fails a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, it can choose to succeed instead."
+          },
+          {
+            "name": "Mucus Cloud:",
+            "desc": "While underwater, the aboleth is surrounded by mucus. *Constitution <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 14, each creature in a 5-foot <STATBLOCK-WIKI-LINK>Emanation<STATBLOCK-WIKI-LINK> originating from the aboleth at the end of the aboleth's turn. *Failure:* The target is cursed. Until the curse ends, the target's skin becomes slimy, the target can breathe air and water, and it can't regain <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> unless it is underwater. <P>While the cursed creature is outside a body of water, the creature takes 6 (1d12) Acid damage at the end of every 10 minutes unless moisture is applied to its skin before those minutes have passed."
+          },
+          {
+            "name": "Probing Telepathy:",
+            "desc": "If a creature the aboleth can see communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The aboleth makes two Tentacle attacks and uses either Consume Memories or Dominate Mind if available."
+          },
+          {
+            "name": "Tentacle:",
+            "desc": "*Melee Attack Roll:*  +9, reach 15 ft. *Hit:* 12 (2d6 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the <STATBLOCK-WIKI-LINK>Grappled|Grappled condition<STATBLOCK-WIKI-LINK> (escape DC 14) from one of four tentacles."
+          },
+          {
+            "name": "Consume Memories:",
+            "desc": "*Intelligence <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 16, one creature within 30 feet that is <STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK> by the aboleth. *Failure:* 10 (3d6) Psychic damage. *Success:* Half damage. *Failure or Success:* The aboleth gains the target's memories if the target is a Humanoid and is reduced to 0 <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> by this <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Dominate Mind (2/Day):",
+            "desc": "*Wisdom <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 16, one creature the aboleth can see within 30 feet. *Failure:* The target has the <STATBLOCK-WIKI-LINK>Charmed|Charmed condition<STATBLOCK-WIKI-LINK> until the aboleth dies or is on a different plane of existence from the target. While <STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, the target acts as an ally to the aboleth and is under its control while within 60 feet of it. In addition, the aboleth and the target can communicate telepathically with each other over any distance. <P>The target repeats the save whenever it takes damage as well as after every 24 hours it spends at least 1 mile away from the aboleth, ending the effect on itself on a success."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Lash:",
+            "desc": "The aboleth makes one Tentacle attack."
+          },
+          {
+            "name": "Psychic Drain:",
+            "desc": "If the aboleth has at least one creature <STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, it uses Consume Memories and regains 5 (1d10) <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "regional_effects": [
+          {
+            "name": "Foul Water:",
+            "desc": "Water sources within 1 mile of the lair are supernaturally fouled. Creatures other than the aboleth and its allies that drink such water must succeed on a DC 15 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or have the <STATBLOCK-WIKI-LINK>Poisoned|Poisoned condition<STATBLOCK-WIKI-LINK> for 1 hour."
+          },
+          {
+            "name": "Psionic Projection:",
+            "desc": "While in its lair, the aboleth can cast *<STATBLOCK-WIKI-LINK>Project Image<STATBLOCK-WIKI-LINK>*, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16). When casting the spell this way, the spell's range is 1 mile, and the aboleth can use its telepathy as if it were in the illusion's space."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
