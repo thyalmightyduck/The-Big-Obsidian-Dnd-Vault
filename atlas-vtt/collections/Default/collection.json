@@ -183,6 +183,11 @@
       "id": "companion",
       "name": "Companion",
       "group": "tokens"
+    },
+    "tokens:modk": {
+      "id": "modk",
+      "name": "MoDk",
+      "group": "tokens"
     }
   },
   "settings": {
