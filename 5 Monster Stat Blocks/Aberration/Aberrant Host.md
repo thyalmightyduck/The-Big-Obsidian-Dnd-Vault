@@ -48,54 +48,38 @@ At will: *[[Detect Thoughts]]*, *[[Mage Hand]]* (the hand is [[Invisible Conditi
 ```statblock
 layout: Basic 5e Layout
 image: [[Aberrant Host BGR PNG.png]]
-name: Name Heere
-size: Size Here
-type: Type Here
-subtype: Subtype Here
-alignment: Alignmnet Here
-ac: 10
-hp: 12
-hit_dice: 2d6
-speed: Speeds Here
-stats: [10, 10, 10, 10, 10, 10]
+name: Aberrant Host
+size: Medium
+type: Aberration
+ac: 17
+hp: 110
+hit_dice: 13d8 + 52
+speed: 30 ft.
+stats: [13, 14, 18, 20, 17, 16]
 saves: 
-  - Saves: +0
+  - INT: +9
+  - WIS: +7
+  - CHA: +7  
 skillsaves:
-  - Skill Save: +0
-damage_vulnerabilities: Damage Vulnerabilities Here
-damage_resistances: Damage Resistances Here
-damage_immunities: Damage Immunities Here
-condition_immunities: Condition Immunities Here
-senses: Senses Go Here
-languages: Languages Here
-cr: 0
-spellsNotes: "Spell Notes Here"
+  - Deception: +7
+  - Insight: +7
+  - Perception: +7    
+damage_resistances: Psychic
+condition_immunities: [[Charmed]], [[Frightened]]
+senses: [[Darkvision]] 120 ft., [[Passive Perception]] 17, Passive Insight 17, Passive Stealth 12
+languages: Common; telepathy 120 ft.
+cr: 9
+spellsNotes: "***Spellcasting.*** The host casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 17, +9 to spell attacks):"
 spells:
-  - "Spell Level Here: Spell Names Here"
-legendary_description: "Legendary Desciption"
-traits:
-  - name: "Trait Name:"
-    desc: "Trait Descreption"  
+  - "At will: *[[Detect Thoughts]]*, *[[Mage Hand]]* (the hand is [[Invisible Condition|invisible]]) "
+  - "3/day: *[[Levitate]]*, *[[Suggestion]]*"
+  - "1/day: *[[Dominate Person]]*"     
 actions:
-  - name: "Action Name:"
-    desc: "Action Description"   
-bonus_actions:
-  - name: "Bonus Action Name:"
-    desc: "Bonus Action Desc"
+  - name: "Multiattack:"
+    desc: "The host makes two Mind Spike attacks."  
+  - name: "Mind Spike:"
+    desc: "*Melee Attack Roll:*  +6, reach 5 ft. *Hit:* 11 (2d8 + 2) Psychic damage."   
 reactions:
   - name: "Reaction Name:"
     desc: "Reaction Description"
-legendary_actions:
-  - name: "Legendary Action Name:"
-    desc: "Legendary Action Description"  
-mythic_description: "Mythic Description"
-mythic_actions:
-  - name: "Mythic Action Name:"
-    desc: "Mythic Action Description"
-lair_actions:
-  - name: "Lair Action Name:"
-    desc: "Lair Action Desc"
-regional_effects:
-  - name: "Regional Effect Name:"
-    desc: "Regional Effect Description"
 ```
