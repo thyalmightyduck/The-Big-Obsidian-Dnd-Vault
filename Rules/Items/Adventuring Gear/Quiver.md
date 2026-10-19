@@ -1,5 +1,7 @@
-*Adventuring Gear*
-*1 GP, 1 lb.*
-- - - 
+#### Quiver
 
-A Quiver holds up to [[Arrows (20)]].
+Adventuring Gear, 1 GP, 1 lb.
+
+---
+
+A Quiver holds up to 20 Arrows.

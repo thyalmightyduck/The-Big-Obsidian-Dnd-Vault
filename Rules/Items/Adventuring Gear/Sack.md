@@ -1,4 +1,7 @@
-_Adventuring Gear_
-_1 CP, ½ lb._
-- - - 
+#### Sack
+
+Adventuring Gear, 1 CP, ½ lb.
+
+---
+
 A Sack holds up to 30 pounds within 1 cubic foot.

@@ -1,0 +1,16 @@
+#### Star Map of Creation
+
+Adventuring Gear
+
+---
+
+This scroll displays what the night sky looked like at the creation of the Mundane World. If you have proficiency with the Arcana or Nature skill, you can spend 1 minute holding and studying the map and search it for an omen about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible outcomes:
+
+- Good omen
+- Bad omen
+- Mixed omen that has both good and bad results
+- No omen for a result that isn't especially good or bad
+
+The omen doesn't take into account any possible circumstances that might change the outcome, such as the loss or gain of equipment or a companion.
+
+If the map is used two or more times in 24 hours, there is a cumulative 25 percent chance for each reading after the first that you get a random reading. The GM makes this roll in secret.

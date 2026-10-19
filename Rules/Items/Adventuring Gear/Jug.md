@@ -1,4 +1,7 @@
-_Adventuring Gear_
-_2 CP, 4 lb._
-- - - 
+#### Jug
+
+Adventuring Gear, 2 CP, 4 lb.
+
+---
+
 A Jug holds up to 1 gallon.
