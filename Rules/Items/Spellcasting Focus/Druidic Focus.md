@@ -1,8 +1,13 @@
-*Spellcasting Focus*
-- - - 
-A Druidic Focus takes a specific form and is carved, tied with ribbon, or painted to channel primal magic. A [[Druid]] or [[Ranger]] can use such an object as a [[Spellcasting Focus]].
+#### Druidic Focus
+
+Spellcasting Focus
+
+---
+
+A Druidic Focus takes a specific form and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.
 
 Multiple variations of this item exist, as listed below:
-- [[Sprig of Mistletoe]]
-- [[Wooden Staff]]
-- [[Yew Wand]]
+
+- *Sprig of mistletoe*
+- *Wooden staff*
+- *Yew wand*

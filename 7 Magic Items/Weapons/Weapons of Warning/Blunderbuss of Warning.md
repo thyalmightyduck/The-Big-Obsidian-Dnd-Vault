@@ -14,7 +14,7 @@ As long as this weapon is within your reach and you are attuned to it, you and a
 
 **Supernatural Readiness:** Each subject has [[Advantage]] on its [[Initiative]] rolls.
 
-This distinctive short-range firearm features a dramatically flared muzzle designed to launch shot in a wide spray. Most effective at close range, the Blunderbuss can be considered a precursor to the modern shotgun.
+This distinctive short-range firearm features a dramatically flared muzzle designed to launch shot in a wide spray. Most effective at close range, the [[Blunderbuss]] can be considered a precursor to the modern shotgun.
 
 **Range:** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
 

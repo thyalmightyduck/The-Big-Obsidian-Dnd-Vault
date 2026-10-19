@@ -6,15 +6,15 @@ Generic Variant
 
 Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam's borders. It can also be found in the Ironlands, a Khyberian demiplane that's been delved into by the Ghaash'kala and Kech Sharaat. Aberrations tied to the daelkyr--including **Dolgaunts**, **Dolgrims**, and **Mind Flayers**--are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight Aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk.
 
-Melee weapons made of or coated with byeshk are not inherently magical weapons, but are unusually effective when used to fight Aberrations. Whenever you hit an Aberration with a byeshk weapon, the Aberration takes an extra 1d6 damage of the weapon's type, and it can't regain Hit Points until the start of your next turn.
+[[Melee weapons]] made of or coated with byeshk are not inherently magical weapons, but are unusually effective when used to fight Aberrations. Whenever you hit an Aberration with a byeshk weapon, the Aberration takes an extra 1d6 damage of the weapon's type, and it can't regain [[Hit Point|Hit Points]] until the start of your next turn.
 
-The byeshk version of a Melee weapon costs 400 gp more than the normal version, whether the weapon is made of the metal or coated with it.
+The byeshk version of a [[Melee Weapons|Melee weapon]] costs 400 gp more than the normal version, whether the weapon is made of the metal or coated with it.
 
 ***Base items.*** This item variant can be applied to the following base items:
 
-- *Atgeir* (*Byeshk Atgeir*)
-- *Battleaxe* (*Byeshk Battleaxe*)
-- *Battleaxe, Silver* (*Byeshk Battleaxe, Silver*)
+- *[[Atgeir]]* (*Byeshk Atgeir*)
+- *[[Battleaxe]]* (*Byeshk Battleaxe*)
+- *[[Battleaxe, Silver]]* (*Byeshk Battleaxe, Silver*)
 - *Bearded Axe* (*Byeshk Bearded Axe*)
 - *Brass Knuckles* (*Byeshk Brass Knuckles*)
 - *Breidox* (*Byeshk Breidox*)
