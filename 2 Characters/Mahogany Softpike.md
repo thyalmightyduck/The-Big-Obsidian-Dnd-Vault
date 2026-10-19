@@ -329,13 +329,13 @@ bonus_actions:
 | 20         | Army     |
 | 19         | Magna    |
 | 18         | Mahogony |
-|            | Oob      |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
+| 17         | Jooney   |
 |            | Mouth    |
 |            | Yigs     |
-|            | Jooney   |
 |            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Oob      |
 
