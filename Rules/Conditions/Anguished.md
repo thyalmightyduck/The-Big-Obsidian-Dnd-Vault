@@ -1,3 +1,7 @@
+---
+aliases:
+  - Anguished Condition
+---
 ## Anguished
 
 Player-heroes whose Shadow score reaches the full value of their Wisdom score become anguished.

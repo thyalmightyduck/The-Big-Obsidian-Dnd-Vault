@@ -1,3 +1,9 @@
+---
+aliases:
+  - Corruption Condition
+  - Corruption
+---
+# The Field Guide to Floral Dragons (FGFD)
 ## Corruption
 
 The mushroom dragon and the pleurossa network can infect creatures with corruption. This disease turns creatures into hosts, slowly kills them, and absorbs them into the pleurossa network. The infection can be obtained by inhaling toxic spores, sustaining injury, or ingesting corrupted organic material. Wearing a face covering grants Advantage on saving throws against corruption through inhalation, and wearing adamantine armor grants advantage on saving throws against corruption through injury. Constructs and undead are immune to corruption.

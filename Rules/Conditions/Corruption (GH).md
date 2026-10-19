@@ -1,3 +1,9 @@
+---
+aliases:
+  - Corruption
+  - Corruption Condition
+---
+# Grim Hallow: Campaign Guide 2024 (GHCG24)
 ## Corruption
 
 While you have the Corruption condition, you experience the following effects.

@@ -1,0 +1,23 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Aberrant Zealot",
+    "imagePath": "atlas-vtt/assets/Aberrant_Zealot_1792444508358_ougxy2.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Zealot.md",
+    "collection": "Default",
+    "tags": [
+      "Aberration",
+      "PaBTSO",
+      "Medium",
+      "CR8",
+      "Chaotic Evil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Zealot_1792444508358_ougxy2-e7aaf3c2.webp",
+    "id": "token-1792444508829-o4oarr",
+    "createdAt": 1792444508829,
+    "modifiedAt": 1792444508829
+  }
+}

@@ -61,7 +61,7 @@ Lord Syuul has three villain actions. He can take each [[action]] once during an
 
 - **Action 1: Mindblind.** Each [[enemy]] Lord Syuul can see within 60 feet of him must make a DC 19 Wisdom [[saving throw]]. On a failed save, a creature can't see creatures other than Lord Syuul for 1 minute save ends at end of turn).
 - **Action 2: Was I Ever Here?.** Lord Syuul becomes [[Invisible Condition|invisible]], teleports 60 feet to an unoccupied space he can see, and can take the [[Hide action]]. At the same time, an illusory psionic image of Lord Syuul appears in the space he left, gesturing, speaking, and behaving as he chooses (no [[action]] required). A creature who touches the image for the first time on a turn or makes a melee attack against it must succeed on a DC 19 Constitution [[saving throw]] or take 21 (6d6) psychic damage because things can pass through it. Lord Syuul's invisibility ends and his image disappears at the end of his next turn.
-- **Action 3: Mindshatter.** Each [[enemy]] Lord Syuul can see within 60 feet of him must make a DC 19 Wisdom [[saving throw]]. On a failed save, a target takes 55 (10d10) psychic damage and is [[dazed]] for 1 minute (save ends at end of turn). On a successful save, a target takes half as much damage and isn't [[dazed]].
+- **Action 3: Mindshatter.** Each [[enemy]] Lord Syuul can see within 60 feet of him must make a DC 19 Wisdom [[saving throw]]. On a failed save, a target takes 55 (10d10) psychic damage and is [[Dazed (MoDk)]] for 1 minute (save ends at end of turn). On a successful save, a target takes half as much damage and isn't [[Dazed (MoDk)]].
 
 ```statblock
 layout: Basic 5e Layout

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Contamination Condition
+---
 While you have Contamination, you experience the following effects.
 
 **Contamination Levels.** This [[condition]] is cumulative. Each time you receive it, you gain one or more levels of Contamination. You undergo a Monstrous Transformation if your Contamination level reaches 6.
@@ -12,7 +16,7 @@ While you have Contamination, you experience the following effects.
 | 2     | Halve the [[Hit Point]] you regain when you expend [[Hit Point Dice\|Hit Dice]] during a [[Short Rest]] |
 | 3     | You do not regain [[Hit Point]] when you finish a [[Long Rest]].                                        |
 | 4     | You have the [[Weakened]] condition.                                                                    |
-| 5     | You have the [[Dazed]] condition.                                                                       |
+| 5     | You have the [[Dazed (MoDk)]] condition.                                                                       |
 | 6     | Monstrous Transformation!                                                                               |
 **Mutations.** Each time you gain a Contamination level, roll 1d6. If the result is equal to or lower than your current Contamination level, you gain a randomly determined mutation by rolling on the [[Mutations]] table. The effects of the mutation remain while you have Contamination levels. Unless otherwise specified, a creature can't gain the same mutation more than once. If a duplicate result is rolled, the GM chooses a different one or rolls again.
 

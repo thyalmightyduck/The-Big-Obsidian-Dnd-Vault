@@ -193,6 +193,16 @@
       "id": "tce",
       "name": "TCE",
       "group": "tokens"
+    },
+    "tokens:pabtso": {
+      "id": "pabtso",
+      "name": "PaBTSO",
+      "group": "tokens"
+    },
+    "tokens:chaotic-evil": {
+      "id": "chaotic-evil",
+      "name": "Chaotic Evil",
+      "group": "tokens"
     }
   },
   "settings": {

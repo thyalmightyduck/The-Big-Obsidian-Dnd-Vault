@@ -1,3 +1,9 @@
+---
+aliases:
+  - Dazed
+  - Dazed Condition
+---
+# Flee, Mortals! (FM)
 ## Dazed
 
 A **dazed** creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The *cure ailment* power, *lesser restoration* spell, and *greater restoration* spell remove the dazed condition. At the GM's discretion, other powers, spells, or effects might also remove the dazed condition.

@@ -1,6 +1,7 @@
 ---
-tags:
-  - Rules
-  - MoDk
+aliases:
+  - Distracted Condition
 ---
-You can't take [[Reaction]]s.
+## Distracted
+
+You can't take Reactions.

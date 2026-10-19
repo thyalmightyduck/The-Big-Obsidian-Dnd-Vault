@@ -1,3 +1,9 @@
+---
+aliases:
+  - Drakkenheim Madness Condition
+---
+## Drakkenheim Madness
+
 A character with Drakkenheim Madness gains one of the following traits:
 
 - "I wish I didn't have all these useless organs inside me."

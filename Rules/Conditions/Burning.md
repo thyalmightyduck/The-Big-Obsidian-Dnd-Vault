@@ -1,3 +1,7 @@
+---
+aliases:
+  - Burning Condition
+---
 ## Burning
 
 You're on fire or covered in acid:
