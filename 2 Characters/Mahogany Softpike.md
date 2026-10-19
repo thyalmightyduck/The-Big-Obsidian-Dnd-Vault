@@ -321,6 +321,7 @@ bonus_actions:
 - 150 HP
 - 13 ac
 - +5 4d6+3
+- +3 Initiative
 
 
 | Initiative | Player   |
