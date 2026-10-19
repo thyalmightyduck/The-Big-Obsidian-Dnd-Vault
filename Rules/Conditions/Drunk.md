@@ -1,3 +1,7 @@
+---
+aliases:
+  - Drunk Condition
+---
 ## Drunk
 
 Between long rests, a creature can drink a number of units of alcohol equal to its Constitution modifier without any effect. For each unit of alcohol the creature drinks beyond this, the creature must make a Constitution saving throw, calculating the DC using the formula below.

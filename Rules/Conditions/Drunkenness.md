@@ -1,3 +1,7 @@
+---
+aliases:
+  - Drunkenness Condition
+---
 ## Drunkenness
 
 Drinking alcohol is a common pastime and element of many social encounters. However, consuming too much alcohol causes a creature to become drunk. At the GM's discretion, this drunkenness can be measured in six levels using the following rules. A creature gains one level of drunkenness whenever it has a number of alcoholic drinks within 1 hour equal to 2 + half its Constitution modifier, rounded up (a minimum of 2 drinks per hour).

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Shocked Condition
+---
 ## Shocked
 
 - You're Dazed and Defenseless.

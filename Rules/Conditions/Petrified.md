@@ -1,3 +1,7 @@
+---
+aliases:
+  - Petrified Condition
+---
 While you have the Petrified condition, you experience the following effects.
 
 **Turned to Inanimate Substance:** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.

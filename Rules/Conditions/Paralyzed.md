@@ -1,3 +1,7 @@
+---
+aliases:
+  - Paralyzed Condition
+---
 While you have the Paralyzed condition, you experience the following effects.
 
 [[Incapacitated]]. You have the [[Incapacitated]] condition.

@@ -1,4 +1,0 @@
-## Immobilized
-
-- Your Speed becomes 0, and you can't benefit from any bonuses to your Speed.
-- If you're flying when you become Immobilized, you fall.

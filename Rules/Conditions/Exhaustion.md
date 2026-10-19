@@ -1,3 +1,7 @@
+---
+aliases:
+  - Exhaustion Condition
+---
 While you have the Exhaustion condition, you experience the following effects.
 
 Exhaustion Levels. This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.

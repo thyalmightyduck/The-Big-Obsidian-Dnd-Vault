@@ -1,3 +1,7 @@
+---
+aliases:
+  - Miserable Condition
+---
 ## Miserable
 
 If a Player-hero's Shadow score matches or exceeds half their Wisdom score (rounded up), they become miserable.

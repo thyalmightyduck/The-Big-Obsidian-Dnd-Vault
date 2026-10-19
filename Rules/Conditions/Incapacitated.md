@@ -1,3 +1,7 @@
+---
+aliases:
+  - Incapacitated Condition
+---
 While you have the Incapacitated condition, you experience the following effects.
 **Inactive:** You can't take any action, [[Bonus Action]], or [[Reaction]].
 **No Concentration:** Your [[Concentration]] is broken.

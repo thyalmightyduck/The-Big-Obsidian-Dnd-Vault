@@ -1,1 +1,5 @@
+---
+aliases:
+  - Weakened Condition
+---
 You deal half damage with weapon attacks and spells.

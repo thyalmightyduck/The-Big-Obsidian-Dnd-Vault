@@ -1,3 +1,7 @@
+---
+aliases:
+  - Stunned Condition
+---
 While you have the Stunned condition, you experience the following effects.
 
 Incapacitated. You have the [[Incapacitated]] condition.

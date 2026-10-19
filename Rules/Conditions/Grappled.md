@@ -1,3 +1,7 @@
+---
+aliases:
+  - Grappled Condition
+---
 While you have the Grappled condition, you experience the following effects.
 
 Speed 0. Your Speed is 0 and can't increase.
