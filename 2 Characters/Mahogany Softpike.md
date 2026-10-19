@@ -331,4 +331,10 @@ bonus_actions:
 | 8          | Magna    |
 | 5          | Mahogony |
 | 3          | Oob      |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
 
