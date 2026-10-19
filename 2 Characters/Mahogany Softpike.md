@@ -13,7 +13,8 @@ hit_dice:
   used: 0
   die: d8
 hp:
-  current: 35
+  current: 31
+  temp: 0
 abilities:
   str: 9
   dex: 18
@@ -329,12 +330,12 @@ bonus_actions:
 | Army     |
 | Magna    |
 | Mouth    |
+| Mouth    |
+| Mouth    |
 | Mahogony |
 | Jooney   |
 | Yigs     |
 | Oob      |
-| Mouth    |
-| Mouth    |
 | Mouth    |
 | Mouth    |
 | Mouth    |
