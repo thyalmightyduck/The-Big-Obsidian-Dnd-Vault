@@ -326,16 +326,16 @@ bonus_actions:
 
 | Initiative | Player   |
 | ---------- | -------- |
-| 26         | Jooney   |
-| 18         | Yigs     |
+|            | Jooney   |
+|            | Yigs     |
+|            | Mahogony |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Mouth    |
+|            | Oob      |
+| 19         | Magna    |
 | 20         | Army     |
-| 8          | Magna    |
-| 14         | Mahogony |
-| 3          | Oob      |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
-|            | Mouth    |
 
