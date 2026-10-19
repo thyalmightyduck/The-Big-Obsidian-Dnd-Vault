@@ -1,3 +1,8 @@
+---
+tags:
+  - Monster
+  - Aberration
+---
 # Monsters of Drakkenheim (MoDk)
 ___
 ## Aberrant Host
