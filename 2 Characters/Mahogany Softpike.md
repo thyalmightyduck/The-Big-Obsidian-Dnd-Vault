@@ -13,7 +13,7 @@ hit_dice:
   used: 0
   die: d8
 hp:
-  current: 31
+  current: 13
   temp: 0
 abilities:
   str: 9
@@ -333,10 +333,10 @@ bonus_actions:
 | Mouth    |
 | Mouth    |
 | Mahogony |
+| Mouth    |
 | Jooney   |
+| Mouth    |
 | Yigs     |
 | Oob      |
-| Mouth    |
-| Mouth    |
 | Mouth    |
 
