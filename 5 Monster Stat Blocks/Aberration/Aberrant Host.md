@@ -78,8 +78,10 @@ actions:
   - name: "Multiattack:"
     desc: "The host makes two Mind Spike attacks."  
   - name: "Mind Spike:"
-    desc: "*Melee Attack Roll:*  +6, reach 5 ft. *Hit:* 11 (2d8 + 2) Psychic damage."   
+    desc: "*Melee Attack Roll:*  +6, reach 5 ft. *Hit:* 11 (2d8 + 2) Psychic damage."  
+  - name: "Psychic Barrage (Recharge 5–6):"
+    desc: "*Intelligence [[Saving Throw]]:* DC 17, up to three creatures the host can see within 60 feet. *Failure:* 28 (8d6) Psychic damage, and the target has the [[Jinxed]] [[condition]] (1d8; save ends). *Success:* Half damage only."  
 reactions:
-  - name: "Reaction Name:"
-    desc: "Reaction Description"
+  - name: "Thought Shield:"
+    desc: "*Trigger:* The host or a creature it can see fails a [[saving throw]] or is hit by an attack. *Response:* The target rolls 1d6 and adds the result to its AC or [[saving throw]], potentially turning a hit into a miss or a failure into a success."
 ```

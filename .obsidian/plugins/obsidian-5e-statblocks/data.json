@@ -3597,6 +3597,82 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Aberrant Host",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Aberrant Host BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Aberrant Host",
+        "size": "Medium",
+        "type": "Aberration",
+        "ac": 17,
+        "hp": 110,
+        "hit_dice": "13d8 + 52",
+        "speed": "30 ft.",
+        "stats": [
+          13,
+          14,
+          18,
+          20,
+          17,
+          16
+        ],
+        "saves": [
+          {
+            "INT": 9
+          },
+          {
+            "WIS": 7
+          },
+          {
+            "CHA": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Deception": 7
+          },
+          {
+            "Insight": 7
+          },
+          {
+            "Perception": 7
+          }
+        ],
+        "damage_resistances": "Psychic",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 17, Passive Insight 17, Passive Stealth 12",
+        "languages": "Common; telepathy 120 ft.",
+        "cr": 9,
+        "spellsNotes": "***Spellcasting.*** The host casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 17, +9 to spell attacks):",
+        "spells": [
+          "At will: *<STATBLOCK-WIKI-LINK>Detect Thoughts<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>Mage Hand<STATBLOCK-WIKI-LINK>* (the hand is <STATBLOCK-WIKI-LINK>Invisible Condition|invisible<STATBLOCK-WIKI-LINK>) ",
+          "3/day: *<STATBLOCK-WIKI-LINK>Levitate<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>Suggestion<STATBLOCK-WIKI-LINK>*",
+          "1/day: *<STATBLOCK-WIKI-LINK>Dominate Person<STATBLOCK-WIKI-LINK>*"
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The host makes two Mind Spike attacks."
+          },
+          {
+            "name": "Mind Spike:",
+            "desc": "*Melee Attack Roll:*  +6, reach 5 ft. *Hit:* 11 (2d8 + 2) Psychic damage."
+          },
+          {
+            "name": "Psychic Barrage (Recharge 5–6):",
+            "desc": "*Intelligence <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 17, up to three creatures the host can see within 60 feet. *Failure:* 28 (8d6) Psychic damage, and the target has the <STATBLOCK-WIKI-LINK>Jinxed<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK> (1d8; save ends). *Success:* Half damage only."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Thought Shield:",
+            "desc": "*Trigger:* The host or a creature it can see fails a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or is hit by an attack. *Response:* The target rolls 1d6 and adds the result to its AC or <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, potentially turning a hit into a miss or a failure into a success."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
