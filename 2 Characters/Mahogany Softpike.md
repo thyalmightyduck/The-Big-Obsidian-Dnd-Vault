@@ -323,7 +323,12 @@ bonus_actions:
 - +5 4d6+3
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Initiative | Player   |
+| ---------- | -------- |
+| 26         | Jooney   |
+| 18         | Yigs     |
+| 15         | Army     |
+| 8          | Magna    |
+| 5          | Mahogony |
+| 3          | Oob      |
 
