@@ -188,6 +188,11 @@
       "id": "modk",
       "name": "MoDk",
       "group": "tokens"
+    },
+    "tokens:tce": {
+      "id": "tce",
+      "name": "TCE",
+      "group": "tokens"
     }
   },
   "settings": {

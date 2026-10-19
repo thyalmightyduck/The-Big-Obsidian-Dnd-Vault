@@ -6,12 +6,16 @@
     "imagePath": "atlas-vtt/assets/Aberrant_Spirit_1790816522884_xo9e16.webp",
     "size": 1,
     "collection": "Default",
-    "tags": [],
+    "tags": [
+      "Aberration",
+      "Medium",
+      "TCE"
+    ],
     "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Spirit_1790816522884_xo9e16-7adc4a96.webp",
     "type": "token",
     "id": "token-1790816522925-hok9f5",
     "createdAt": 1790816522925,
-    "modifiedAt": 1790823527962,
+    "modifiedAt": 1792442134608,
     "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Spirit.md"
   }
 }
