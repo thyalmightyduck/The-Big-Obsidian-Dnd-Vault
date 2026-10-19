@@ -318,7 +318,7 @@ bonus_actions:
 - Store House Gives 200 Every 2 Weeks
 
 ### Skeleton Army x20
-- 150 HP
+- 150/150 HP
 - 13 ac
 - +5 4d6+3
 - +3 Initiative
@@ -328,9 +328,9 @@ bonus_actions:
 | ---------- | -------- |
 | 26         | Jooney   |
 | 18         | Yigs     |
-| 15         | Army     |
+| 20         | Army     |
 | 8          | Magna    |
-| 5          | Mahogony |
+| 14         | Mahogony |
 | 3          | Oob      |
 |            | Mouth    |
 |            | Mouth    |
