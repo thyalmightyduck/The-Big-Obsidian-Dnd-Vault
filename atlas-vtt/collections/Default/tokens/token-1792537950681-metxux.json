@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Athar Null",
+    "imagePath": "atlas-vtt/assets/Athar_Null_1792537947615_1fn29g.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Athar Null.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Athar_Null_1792537947615_1fn29g-5cf10e6e.webp",
+    "id": "token-1792537950681-metxux",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

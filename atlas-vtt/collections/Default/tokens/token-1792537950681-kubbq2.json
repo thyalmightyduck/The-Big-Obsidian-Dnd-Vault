@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Neogi Void Hunter",
+    "imagePath": "atlas-vtt/assets/Neogi_Void_Hunter_1792537949479_wv8p0v.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Warlocks/Neogi Void Hunter.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Neogi_Void_Hunter_1792537949479_wv8p0v-ebfb1fb4.webp",
+    "id": "token-1792537950681-kubbq2",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

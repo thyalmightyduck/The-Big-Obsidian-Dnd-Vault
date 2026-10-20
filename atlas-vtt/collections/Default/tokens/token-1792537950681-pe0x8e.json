@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Aberrant Host",
+    "imagePath": "atlas-vtt/assets/Aberrant_Host_1792537946730_bikcl1.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Aberrant Host.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Aberrant_Host_1792537946730_bikcl1-821851b9.webp",
+    "id": "token-1792537950681-pe0x8e",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

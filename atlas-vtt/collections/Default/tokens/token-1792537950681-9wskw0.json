@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Rat",
+    "imagePath": "atlas-vtt/assets/Rat_1792537949661_e58gr5.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Rat.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Rat_1792537949661_e58gr5-f2230ba8.webp",
+    "id": "token-1792537950681-9wskw0",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

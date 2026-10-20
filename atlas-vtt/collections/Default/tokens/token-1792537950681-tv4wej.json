@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Gnoll Hunter",
+    "imagePath": "atlas-vtt/assets/Gnoll_Hunter_1792537948857_m8lnkh.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Monstrosity/Gnoll Hunter.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Gnoll_Hunter_1792537948857_m8lnkh-fe20a0db.webp",
+    "id": "token-1792537950681-tv4wej",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

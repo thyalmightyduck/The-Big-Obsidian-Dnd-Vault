@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Bestial Spirit",
+    "imagePath": "atlas-vtt/assets/Bestial_Spirit_1792537947918_xxg53e.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Bestial Spirit.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Bestial_Spirit_1792537947918_xxg53e-316a6e9e.webp",
+    "id": "token-1792537950681-em4yc4",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Usagt",
+    "imagePath": "atlas-vtt/assets/Usagt_1792537950215_sysj4n.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Usagt.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Usagt_1792537950215_sysj4n-a82a8d0e.webp",
+    "id": "token-1792537950681-9ovefl",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

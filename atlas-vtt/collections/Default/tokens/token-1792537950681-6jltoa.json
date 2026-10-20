@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Steel Defender",
+    "imagePath": "atlas-vtt/assets/Steel_Defender_1792537949897_0mm720.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Construct/Steel Defender.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Steel_Defender_1792537949897_0mm720-f733f6ab.webp",
+    "id": "token-1792537950681-6jltoa",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ushabti Royal Guard",
+    "imagePath": "atlas-vtt/assets/Ushabti_Royal_Guard_1792537950271_bqa9nw.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Construct/Ushabti Royal Guard.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ushabti_Royal_Guard_1792537950271_bqa9nw-6cf628d4.webp",
+    "id": "token-1792537950681-t2q4u5",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

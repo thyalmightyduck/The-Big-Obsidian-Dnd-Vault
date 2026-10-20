@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Bone Executioner",
+    "imagePath": "atlas-vtt/assets/Bone_Executioner_1792537948064_2azr1n.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Undead/Bone Executioner.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Bone_Executioner_1792537948064_2azr1n-a5904eb7.webp",
+    "id": "token-1792537950681-aer2o8",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

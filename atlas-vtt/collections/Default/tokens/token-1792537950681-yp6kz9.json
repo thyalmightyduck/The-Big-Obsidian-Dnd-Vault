@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Gingwatzim",
+    "imagePath": "atlas-vtt/assets/Gingwatzim_1792537948798_zgv1q4.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Gingwatzim.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Gingwatzim_1792537948798_zgv1q4-0581918e.webp",
+    "id": "token-1792537950681-yp6kz9",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

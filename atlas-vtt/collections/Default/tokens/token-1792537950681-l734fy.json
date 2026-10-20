@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ithu'rath",
+    "imagePath": "atlas-vtt/assets/Ithu_rath_1792537949019_c86hgo.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Solo/Ithu'rath.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ithu_rath_1792537949019_c86hgo-e4f0f6a7.webp",
+    "id": "token-1792537950681-l734fy",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

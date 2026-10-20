@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Neogi Master",
+    "imagePath": "atlas-vtt/assets/Neogi_Master_1792537949422_wg7sfb.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Warlocks/Neogi Master.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Neogi_Master_1792537949422_wg7sfb-9de80e0c.webp",
+    "id": "token-1792537950681-urokg5",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

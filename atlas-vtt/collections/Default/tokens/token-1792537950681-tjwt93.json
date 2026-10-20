@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Cranium Rat Squeaker Swarm",
+    "imagePath": "atlas-vtt/assets/Cranium_Rat_Squeaker_Swarm_1792537948267_ruqsqy.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Cranium Rat Squeaker Swarm.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Cranium_Rat_Squeaker_Swarm_1792537948267_ruqsqy-41dbaae2.webp",
+    "id": "token-1792537950681-tjwt93",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

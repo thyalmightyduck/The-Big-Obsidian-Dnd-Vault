@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Beast of the Land",
+    "imagePath": "atlas-vtt/assets/Beast_of_the_Land_1792537947773_y3eynw.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Beast of the Land.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Beast_of_the_Land_1792537947773_y3eynw-00641e30.webp",
+    "id": "token-1792537950681-eflcq5",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

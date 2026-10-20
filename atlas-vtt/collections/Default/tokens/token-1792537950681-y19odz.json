@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Young Brass Dragon",
+    "imagePath": "atlas-vtt/assets/Young_Brass_Dragon_1792537950635_i5w2rz.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Dragon/Young Brass Dragon.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Young_Brass_Dragon_1792537950635_i5w2rz-eac9ac4f.webp",
+    "id": "token-1792537950681-y19odz",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

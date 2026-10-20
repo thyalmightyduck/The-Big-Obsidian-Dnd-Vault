@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Death Knight",
+    "imagePath": "atlas-vtt/assets/Death_Knight_1792537948316_cka97n.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Undead/Death Knight.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Death_Knight_1792537948316_cka97n-2a065b00.webp",
+    "id": "token-1792537950681-hdkr4v",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

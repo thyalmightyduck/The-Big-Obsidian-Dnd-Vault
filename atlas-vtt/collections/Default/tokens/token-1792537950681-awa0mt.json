@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Star Warden",
+    "imagePath": "atlas-vtt/assets/Star_Warden_1792537949850_v2pdbz.webp",
+    "size": 2,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Star Warden.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Star_Warden_1792537949850_v2pdbz-aae02fdf.webp",
+    "id": "token-1792537950681-awa0mt",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

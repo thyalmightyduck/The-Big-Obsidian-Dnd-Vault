@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Giant Rat",
+    "imagePath": "atlas-vtt/assets/Giant_Rat_1792537948738_x227so.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Giant Rat.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Giant_Rat_1792537948738_x227so-9c69c781.webp",
+    "id": "token-1792537950681-4aljk2",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

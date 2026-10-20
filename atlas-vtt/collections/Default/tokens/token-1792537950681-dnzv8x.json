@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Accursed Defiler",
+    "imagePath": "atlas-vtt/assets/Accursed_Defiler_1792537947470_e6ux45.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Undead/Accursed Defiler.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Accursed_Defiler_1792537947470_e6ux45-2ae3c3bd.webp",
+    "id": "token-1792537950681-dnzv8x",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

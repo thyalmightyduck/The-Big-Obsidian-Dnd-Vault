@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Warhorse",
+    "imagePath": "atlas-vtt/assets/Warhorse_1792537950402_ma7i52.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Warhorse.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Warhorse_1792537950402_ma7i52-89050bc6.webp",
+    "id": "token-1792537950681-ppuxc6",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

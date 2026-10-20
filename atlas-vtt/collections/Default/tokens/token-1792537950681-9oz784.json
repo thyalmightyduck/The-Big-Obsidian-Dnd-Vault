@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Voiceless Talker Operative",
+    "imagePath": "atlas-vtt/assets/Voiceless_Talker_Operative_1792537950356_j0x81z.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Voiceless Talker Operative.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Voiceless_Talker_Operative_1792537950356_j0x81z-06b002de.webp",
+    "id": "token-1792537950681-9oz784",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

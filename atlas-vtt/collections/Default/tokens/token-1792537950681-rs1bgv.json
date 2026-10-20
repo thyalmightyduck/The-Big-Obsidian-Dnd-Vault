@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Keeper of the Feather",
+    "imagePath": "atlas-vtt/assets/Keeper_of_the_Feather_1792537949078_yl0epn.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Keeper of the Feather.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Keeper_of_the_Feather_1792537949078_yl0epn-840ea15c.webp",
+    "id": "token-1792537950681-rs1bgv",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

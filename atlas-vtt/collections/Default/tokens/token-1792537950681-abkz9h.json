@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ancient White Dragon",
+    "imagePath": "atlas-vtt/assets/Ancient_White_Dragon_1792537947567_p799oa.webp",
+    "size": 2.5,
+    "statblockPath": "5 Monster Stat Blocks/Dragon/Ancient White Dragon.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ancient_White_Dragon_1792537947567_p799oa-1e3839c1.webp",
+    "id": "token-1792537950681-abkz9h",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

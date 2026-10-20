@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Celestial Spirit",
+    "imagePath": "atlas-vtt/assets/Celestial_Spirit_1792537948170_3krf1o.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Celestial/Celestial Spirit.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Celestial_Spirit_1792537948170_3krf1o-afe0ce27.webp",
+    "id": "token-1792537950681-eosu4v",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

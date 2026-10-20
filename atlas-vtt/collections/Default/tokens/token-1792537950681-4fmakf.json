@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Aboleth",
+    "imagePath": "atlas-vtt/assets/Aboleth_1792537947362_fghehv.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Aboleth.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Aboleth_1792537947362_fghehv-ef46300c.webp",
+    "id": "token-1792537950681-4fmakf",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

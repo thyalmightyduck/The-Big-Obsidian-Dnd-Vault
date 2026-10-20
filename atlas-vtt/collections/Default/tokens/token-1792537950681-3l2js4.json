@@ -1,0 +1,16 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Vampster Swarm",
+    "imagePath": "atlas-vtt/assets/Vampster_Swarm_1792537950308_qylcyw.webp",
+    "statblockPath": "5 Monster Stat Blocks/Beast/Vampster Swarm.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Vampster_Swarm_1792537950308_qylcyw-5b7fa037.webp",
+    "id": "token-1792537950681-3l2js4",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

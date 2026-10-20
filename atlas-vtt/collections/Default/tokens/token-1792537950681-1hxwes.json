@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Spythronar Swarm",
+    "imagePath": "atlas-vtt/assets/Spythronar_Swarm_1792537949804_520724.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Spythronar Swarm.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Spythronar_Swarm_1792537949804_520724-e305adf8.webp",
+    "id": "token-1792537950681-1hxwes",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

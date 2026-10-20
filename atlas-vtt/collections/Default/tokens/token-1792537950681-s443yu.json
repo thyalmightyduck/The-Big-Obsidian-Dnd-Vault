@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Derro Savant",
+    "imagePath": "atlas-vtt/assets/Derro_Savant_1792537948413_fwfvs7.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Derro Savant.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Derro_Savant_1792537948413_fwfvs7-d6fdc75f.webp",
+    "id": "token-1792537950681-s443yu",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Awakened Shrub",
+    "imagePath": "atlas-vtt/assets/Awakened_Shrub_1792537947665_fswscm.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Plant/Awakened Shrub.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Awakened_Shrub_1792537947665_fswscm-2a212b29.webp",
+    "id": "token-1792537950681-tclhv2",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

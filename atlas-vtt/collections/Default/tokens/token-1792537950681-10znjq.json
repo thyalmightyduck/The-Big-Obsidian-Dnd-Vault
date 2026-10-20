@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Swarm of Cranium Rats",
+    "imagePath": "atlas-vtt/assets/Swarm_of_Cranium_Rats_1792537949945_oo5jj7.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Swarm of Cranium Rats.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Swarm_of_Cranium_Rats_1792537949945_oo5jj7-f36ac4f6.webp",
+    "id": "token-1792537950681-10znjq",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

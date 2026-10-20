@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Otherworldly Steed",
+    "imagePath": "atlas-vtt/assets/Otherworldly_Steed_1792537949580_33d6n7.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Multiple Type/Otherworldly Steed.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Otherworldly_Steed_1792537949580_33d6n7-5ba16059.webp",
+    "id": "token-1792537950681-410rtg",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

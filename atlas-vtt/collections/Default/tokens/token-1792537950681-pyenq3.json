@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Riding Horse",
+    "imagePath": "atlas-vtt/assets/Riding_Horse_1792537949708_qcxp5r.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Riding Horse.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Riding_Horse_1792537949708_qcxp5r-6d2a461d.webp",
+    "id": "token-1792537950681-pyenq3",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

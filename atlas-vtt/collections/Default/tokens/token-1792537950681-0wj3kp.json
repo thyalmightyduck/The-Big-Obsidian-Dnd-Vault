@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Flamewrath",
+    "imagePath": "atlas-vtt/assets/Flamewrath_1792537948630_qjkddj.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Flamewrath.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Flamewrath_1792537948630_qjkddj-55628f6e.webp",
+    "id": "token-1792537950681-0wj3kp",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

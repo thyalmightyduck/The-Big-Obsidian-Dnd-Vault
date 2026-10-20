@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Haze Husk",
+    "imagePath": "atlas-vtt/assets/Haze_Husk_1792537948914_zybwhe.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Undead/Haze Husk.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Haze_Husk_1792537948914_zybwhe-0ff86a0c.webp",
+    "id": "token-1792537950681-qkzvsl",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

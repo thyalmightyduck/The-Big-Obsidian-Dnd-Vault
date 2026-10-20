@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Swarm of Sorrowfish",
+    "imagePath": "atlas-vtt/assets/Swarm_of_Sorrowfish_1792537950111_xq489f.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Swarm of Sorrowfish.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Swarm_of_Sorrowfish_1792537950111_xq489f-4763d0ef.webp",
+    "id": "token-1792537950681-na3lnv",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

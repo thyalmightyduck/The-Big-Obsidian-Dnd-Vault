@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Lord Syuul",
+    "imagePath": "atlas-vtt/assets/Lord_Syuul_1792537949153_kay9w6.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Solo/Lord Syuul.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Lord_Syuul_1792537949153_kay9w6-91f85aff.webp",
+    "id": "token-1792537950681-tkhxpi",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Doppelganger",
+    "imagePath": "atlas-vtt/assets/Doppelganger_1792537948515_jetm9y.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Monstrosity/Doppelganger.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Doppelganger_1792537948515_jetm9y-bdfe224a.webp",
+    "id": "token-1792537950681-7la1ge",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

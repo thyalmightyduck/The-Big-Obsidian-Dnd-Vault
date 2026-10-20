@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Bredbeddle",
+    "imagePath": "atlas-vtt/assets/Bredbeddle_1792537948117_4qurkp.webp",
+    "size": 2,
+    "statblockPath": "5 Monster Stat Blocks/Giant/Bredbeddle.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Bredbeddle_1792537948117_4qurkp-013d2132.webp",
+    "id": "token-1792537950681-z4379p",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

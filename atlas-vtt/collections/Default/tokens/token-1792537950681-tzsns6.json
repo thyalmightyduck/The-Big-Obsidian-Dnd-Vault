@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Mukad Larva Swarm",
+    "imagePath": "atlas-vtt/assets/Mukad_Larva_Swarm_1792537949319_ve7d0x.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Mukad Larva Swarm.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Mukad_Larva_Swarm_1792537949319_ve7d0x-78899e87.webp",
+    "id": "token-1792537950681-tzsns6",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

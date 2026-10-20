@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Swarm of Grotesquerie Minions",
+    "imagePath": "atlas-vtt/assets/Swarm_of_Grotesquerie_Minions_1792537950045_6ajefu.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Swarm of Grotesquerie Minions.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Swarm_of_Grotesquerie_Minions_1792537950045_6ajefu-d24c46fc.webp",
+    "id": "token-1792537950681-u8vli9",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

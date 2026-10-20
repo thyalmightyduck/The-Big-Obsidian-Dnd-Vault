@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Delerium Dragon Wyrmling",
+    "imagePath": "atlas-vtt/assets/Delerium_Dragon_Wyrmling_1792537948364_1zkq4y.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Dragon/Delerium Dragon Wyrmling.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Delerium_Dragon_Wyrmling_1792537948364_1zkq4y-fcf3e6dd.webp",
+    "id": "token-1792537950681-2zj5qa",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

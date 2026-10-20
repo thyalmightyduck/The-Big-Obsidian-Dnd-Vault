@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Beast of the Sea",
+    "imagePath": "atlas-vtt/assets/Beast_of_the_Sea_1792537947824_x42vwq.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Beast of the Sea.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Beast_of_the_Sea_1792537947824_x42vwq-8a6f7628.webp",
+    "id": "token-1792537950681-hjv8k2",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

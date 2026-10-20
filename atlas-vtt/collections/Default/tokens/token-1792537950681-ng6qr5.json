@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Oculo Swarm",
+    "imagePath": "atlas-vtt/assets/Oculo_Swarm_1792537949529_pgodof.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Swarm/Oculo Swarm.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Oculo_Swarm_1792537949529_pgodof-c6ef3676.webp",
+    "id": "token-1792537950681-ng6qr5",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

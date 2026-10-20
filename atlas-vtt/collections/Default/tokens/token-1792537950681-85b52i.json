@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Chimera Companion",
+    "imagePath": "atlas-vtt/assets/Chimera_Companion_1792537948217_we26km.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Monstrosity/Chimera Companion.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Chimera_Companion_1792537948217_we26km-7bb59ee1.webp",
+    "id": "token-1792537950681-85b52i",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

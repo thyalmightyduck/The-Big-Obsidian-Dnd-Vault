@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Displacer Beast",
+    "imagePath": "atlas-vtt/assets/Displacer_Beast_1792537948465_1lfl8q.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Monstrosity/Displacer Beast.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Displacer_Beast_1792537948465_1lfl8q-2f5da331.webp",
+    "id": "token-1792537950681-19yzdb",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

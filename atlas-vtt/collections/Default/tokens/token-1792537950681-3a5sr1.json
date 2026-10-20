@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Aboleth Broodmother",
+    "imagePath": "atlas-vtt/assets/Aboleth_Broodmother_1792537947414_xdhjx3.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Aboleth Broodmother.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Aboleth_Broodmother_1792537947414_xdhjx3-3bcd0519.webp",
+    "id": "token-1792537950681-3a5sr1",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}

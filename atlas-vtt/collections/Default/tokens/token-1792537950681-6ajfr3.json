@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Elemental Spirit",
+    "imagePath": "atlas-vtt/assets/Elemental_Spirit_1792537948575_snc8zx.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Elemental/Elemental Spirit.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Elemental_Spirit_1792537948575_snc8zx-3b8fe2d3.webp",
+    "id": "token-1792537950681-6ajfr3",
+    "createdAt": 1792537950681,
+    "modifiedAt": 1792537950681
+  }
+}
