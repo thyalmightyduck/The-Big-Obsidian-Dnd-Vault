@@ -1,15 +1,13 @@
-
-> [!infobox]
-> # Ring Of Silent Steps
-> ![[Ring Of Silent Steps BGR PNG.png|cover hsmall]]
-> ###### Stats
-> | Type | Stat |
-> | ---- | ---- |
-> | Magic Ring | Uncommon |
-> | Price | 250 GP |
-> ##### Description
-While Wearing This Ring, You Have [[Advantage]] On [[Stealth]] Checks Made To Move Silently.
-
-Made From Soft Black Leather Stretched Into A Ring
-
-**Credit:**
+```itemcard
+name: "Magic Item Name Here"
+image: "Chthonian Chains BGR PNG.png"
+type: "Type Here"
+subtype: "Subtype Here"
+rarity: "Rarity Here"
+attunement: "True"
+price: "000"
+text_align: "center"
+description: |
+  Magic Item Description Here
+  ***Credit:*** Credit Here
+```
