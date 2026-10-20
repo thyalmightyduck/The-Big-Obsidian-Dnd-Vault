@@ -2,6 +2,8 @@
 tags:
   - Monster
   - Aberration
+  - HGtMH
+  - CR16
 ---
 # Heliana’s Guide to Monster Hunting (HGtMH)
 ___
@@ -51,7 +53,7 @@ Whenever the charmed target takes damage, the target can repeat the saving throw
 ### Legendary Actions
 The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.
 
-- **Jet.** The aboleth spurts out a pall of ink, heavily obscuring a 20-foot-radius sphere of water centred on the aboleth until the start of its next turn. It then moves up to its swimming speed.
+- **Jet.** The aboleth spurts out a pall of ink, heavily obscuring a 20-foot-radius sphere of water centered on the aboleth until the start of its next turn. It then moves up to its swimming speed.
 - **Tentacle.** The aboleth makes one Tentacle attack.
 - **Suction Drain (Costs 2 Actions).** The aboleth attempts to grapple one creature within 10 feet of it with a special tentacle. A creature charmed by the aboleth automatically fails this contested check. If the aboleth succeeds, the creature takes 21 (6d6) necrotic damage and the aboleth regains hit points equal to half the damage dealt. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
@@ -78,5 +80,60 @@ On initiative count 20 (losing initiative ties), the aboleth takes one of the fo
 ### Regional Effects
 The region containing an aboleth broodmother's lair is warped by millenia of tinkering with the flora and fauna, creating one or more of the following effects:
 - Never-before-seen fauna, often sporting sacs of unborn broodlings, proliferate within 6 miles of the lair.
-- Creatures in contact with water within 6 miles of the lair feel a compulsion to move towards the lair's centre.
+- Creatures in contact with water within 6 miles of the lair feel a compulsion to move towards the lair's center.
 - Within 1 mile of the lair, thickets of dense vegetation allow passage only for the broodmother, broodlings, or creatures controlled by either. Each 5-foot-cube of thicket has an AC of 15, 50 hit points, **vulnerability** to cold damage, **resistance** to bludgeoning damage, and **immunity** to piercing, poison, and psychic damage.
+
+```statblock
+layout: Basic 5e Layout
+image: [[Aboleth Broodmother BGR PNG.png]]
+name: Aboleth Broodmother
+size: Large
+type: Type Here
+subtype: Subtype Here
+alignment: Alignmnet Here
+ac: 10
+hp: 12
+hit_dice: 2d6
+speed: Speeds Here
+stats: [10, 10, 10, 10, 10, 10]
+saves: 
+  - Saves: +0
+skillsaves:
+  - Skill Save: +0
+damage_vulnerabilities: Damage Vulnerabilities Here
+damage_resistances: Damage Resistances Here
+damage_immunities: Damage Immunities Here
+condition_immunities: Condition Immunities Here
+senses: Senses Go Here
+languages: Languages Here
+cr: 0
+spellsNotes: "Spell Notes Here"
+spells:
+  - "Spell Level Here: Spell Names Here"
+legendary_description: "Legendary Desciption"
+traits:
+  - name: "Trait Name:"
+    desc: "Trait Descreption"  
+actions:
+  - name: "Action Name:"
+    desc: "Action Description"   
+bonus_actions:
+  - name: "Bonus Action Name:"
+    desc: "Bonus Action Desc"
+reactions:
+  - name: "Reaction Name:"
+    desc: "Reaction Description"
+legendary_actions:
+  - name: "Legendary Action Name:"
+    desc: "Legendary Action Description"  
+mythic_description: "Mythic Description"
+mythic_actions:
+  - name: "Mythic Action Name:"
+    desc: "Mythic Action Description"
+lair_actions:
+  - name: "Lair Action Name:"
+    desc: "Lair Action Desc"
+regional_effects:
+  - name: "Regional Effect Name:"
+    desc: "Regional Effect Description"
+```
