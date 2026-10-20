@@ -88,16 +88,17 @@ layout: Basic 5e Layout
 image: [[Aboleth Broodmother BGR PNG.png]]
 name: Aboleth Broodmother
 size: Large
-type: Type Here
-subtype: Subtype Here
-alignment: Alignmnet Here
-ac: 10
-hp: 12
-hit_dice: 2d6
-speed: Speeds Here
-stats: [10, 10, 10, 10, 10, 10]
+type: Aberration
+alignment: Lawful Evil
+ac: 17 (natural armor)
+hp: 210
+hit_dice: 20d10 + 100
+speed: 15 ft., Swim 40 ft.
+stats: [21, 10, 20, 18, 14, 18]
 saves: 
-  - Saves: +0
+  - CON: +10
+  - INT: +9
+  - WIS: +7   
 skillsaves:
   - Skill Save: +0
 damage_vulnerabilities: Damage Vulnerabilities Here
