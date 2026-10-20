@@ -116,10 +116,10 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                                                                                                                       |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | [[Alarm]], [[Shield of Faith]]                                                                                                               |
+| 3             | [[Alarm]], [[Shield Of Faith]]                                                                                                               |
 | 5             | [[Lesser Restoration]], [[Warding Bond]]                                                                                                     |
 | 9             | [[Beacon of Hope]], [[Protection from Energy]]                                                                                               |
-| 13            | [[Death Ward]], [[Guardian of Faith]]                                                                                                        |
+| 13            | [[Death Ward]], [[Guardian Of Faith]]                                                                                                        |
 | 17            | [[Greater Restoration]], [[Raise Dead]] |
 ### Level 3: Defensive Intervention
 When a creature you can see hits another creature within 30 feet of you with an attack roll, you can take a [[Reaction]] and expend one use of your Channel Divinity to teleport up to 30 feet to an unoccupied space within range of the triggering attack and become the target of the attack.

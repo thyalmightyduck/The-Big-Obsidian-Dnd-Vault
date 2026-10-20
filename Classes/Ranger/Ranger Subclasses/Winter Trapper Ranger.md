@@ -112,7 +112,7 @@ When you reach a Ranger level specified in the Winter Trapper Spells table, you 
 | 3rd          | [[Ice Knife]]                                                    |
 | 5th          | [[Mirror Image]]                                                 |
 | 9th          | [[Sleet Storm]]                                                  |
-| 13th         | [[Hallucinatory terrain]]                                        |
+| 13th         | [[Hallucinatory Terrain]]                                        |
 | 17th         | [[Hold Monster]] |
 
 ## Level 4: Ability Score Improvement

@@ -103,11 +103,11 @@ You gain the oath spells at the paladin levels listed in the Oath of the Harvest
 
 | Paladin Level | Spells                                        |
 | ------------- | --------------------------------------------- |
-| 3rd           | [[heroism]], [[purify food and drink]]        |
-| 5th           | [[prayer of healing]], [[warding bond]]       |
-| 9th           | [[beacon of hope]], [[create food and water]] |
-| 13th          | [[death ward]], [[otilukes resilient sphere]] |
-| 17th          | [[greater restoration]], [[mass cure wounds]] |
+| 3rd           | [[Heroism]], [[Purify Food and Drink]]        |
+| 5th           | [[Prayer of Healing]], [[Warding Bond]]       |
+| 9th           | [[Beacon of Hope]], [[Create Food and Water]] |
+| 13th          | [[Death Ward]], [[Otilukes Resilient Sphere]] |
+| 17th          | [[Greater Restoration]], [[Mass Cure Wounds]] |
 ### Level 3: Channel Divinity: Vow of Sustenance
 As a bonus action, you can place a ward around one creature you can see within 60 feet of you When you use this bonus action, and at the start of each of its turns for the next minute, the creature gains temporary hit points equal to twice your Charisma modifier (minimum 2).
 
@@ -190,6 +190,6 @@ You gain a feature from your Paladin Subclass.
 ### Avatar of Nourishment
 As a bonus action, you become a wellspring of lifeforce, gaining the following benefits for the next minute:
 - At the start of each of your turns, each creature of your choice within 30 feet of you (including you) regains hit points equal to your Charisma modifier (minimum 1) and gains temporary hit points equal to your Charisma modifier (minimum of 1).
-- As bonus action, you can cast the [[revivify]] spell without having it prepared and without expending a spell slot (material components are still required).
+- As bonus action, you can cast the [[Revivify]] spell without having it prepared and without expending a spell slot (material components are still required).
 - Whenever a creature within 30 feet of you takes damage, you can use your reaction to grant the creature resistance to that damage.
 After you use this feature, you can't do so again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.

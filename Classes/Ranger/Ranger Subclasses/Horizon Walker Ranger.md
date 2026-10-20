@@ -106,11 +106,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells                                                                          |
 | ------------ | ------------------------------------------------------------------------------- |
-| 3rd          | [[protection from evil and good]]                                               |
-| 5th          | [[misty step]]                                                                  |
-| 9th          | [[haste]]                                                                       |
-| 13th         | [[banishment]]                                                                  |
-| 17th         | [[teleportation circle]] |
+| 3rd          | [[Protection From Evil And Good]]                                               |
+| 5th          | [[Misty Step]]                                                                  |
+| 9th          | [[Haste]]                                                                       |
+| 13th         | [[Banishment]]                                                                  |
+| 17th         | [[Spells/Level 5/Teleportation Circle]] |
 ### Detect Portal
 At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
 
@@ -136,7 +136,7 @@ Your [[Speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]]. 
 You gain a feature from your Ranger Subclass.
 
 ### Ethereal Step
-At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [[etherealness]] spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
+At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [[Etherealness]] spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

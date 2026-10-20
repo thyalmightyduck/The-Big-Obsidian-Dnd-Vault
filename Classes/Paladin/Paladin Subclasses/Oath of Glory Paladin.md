@@ -102,7 +102,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 3rd           | [[Guiding Bolt]], [[Heroism]]                |
 | 5th           | [[Enhance Ability]], [[Magic Weapon]]        |
 | 9th           | [[Haste]], [[Protection from Energy]]        |
-| 13th          | [[Compulsion]], [[Freedom of Movement]]      |
+| 13th          | [[Compulsion]], [[Freedom Of Movement]]      |
 | 17th          | [[Legend Lore]], [[Yolandes Regal Presence]] |
 ### Level 3: Inspiring Smite
 Immediately after you cast [[Divine Smite]], you can expend one use of your Channel Divinity and distribute [[Temporary Hit Point]]s to creatures of your choice within 30 feet of yourself, which can include you. The total number of [[Temporary Hit Point]]s equals 2d8 plus your Paladin level, divided among the chosen creatures however you like.

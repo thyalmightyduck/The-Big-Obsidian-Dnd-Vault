@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -102,11 +102,11 @@ The Flesh lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spell                                     |
 | ----------- | ----------------------------------------- |
-| 1st         | [[jump]], [[Shield]]                      |
-| 2nd         | [[enhance ability]], [[enlarge reduce]]   |
-| 3rd         | [[haste]], [[slow]]                       |
-| 4th         | [[Evard's Black Tentacles]], [[polymorph]] |
-| 5th         | [[greater restoration]], [[reincarnate]]  |
+| 1st         | [[Jump]], [[Shield]]                      |
+| 2nd         | [[Enhance Ability]], [[Enlarge Reduce]]   |
+| 3rd         | [[Haste]], [[Slow]]                       |
+| 4th         | [[Evard's Black Tentacles]], [[Polymorph]] |
+| 5th         | [[Greater Restoration]], [[Reincarnate]]  |
 ### Level 1: Unarmored Defense
 While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Constitution modifier.
 

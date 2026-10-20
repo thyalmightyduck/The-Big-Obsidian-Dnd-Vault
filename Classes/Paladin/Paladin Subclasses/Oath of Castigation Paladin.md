@@ -122,7 +122,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 3rd           | [[Divine Favor]], [[Inflict Wounds]]                                                                                               |
 | 5th           | [[Chain of Conviction]], [[Hold Person]]                                                                                           |
-| 9th           | [[Counterspell]], [[Speak with Dead]]                                                                                              |
+| 9th           | [[Counterspell]], [[Speak With Dead]]                                                                                              |
 | 13th          | [[Consuming Pyre]], [[Locate Creature]]                                                                                            |
 | 17th          | [[Flame Strike]], [[Hold Monster]] |
 

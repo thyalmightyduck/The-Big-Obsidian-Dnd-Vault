@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -102,11 +102,11 @@ The Predator lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells                                      |
 | ----------- | ------------------------------------------- |
-| 1st         | [[hunters mark]], [[jump]]                  |
-| 2nd         | [[alter self]], [[ambush prey]]*            |
-| 3rd         | [[blink]], [[slow]]                         |
-| 4th         | [[dominate beast]], [[freedom of movement]] |
-| 5th         | [[contagion]], [[mislead]]                  |
+| 1st         | [[Hunters Mark]], [[Jump]]                  |
+| 2nd         | [[Alter Self]], [[Ambush Prey]]*            |
+| 3rd         | [[Blink]], [[Slow]]                         |
+| 4th         | [[Dominate Beast]], [[Freedom Of Movement]] |
+| 5th         | [[Contagion]], [[Mislead]]                  |
 ### Level 1: Bonus Proficiencies
 Starting at 1st level, your patron grants you enhanced tracking skills. You gain expertise with the Survival skill, and you add double your proficiency bonus to any Wisdom ([[Survival]]) skill checks you make.
 

@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Double Blade]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Double Blade]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Double, Momentum (1d10), Two‑Handed
 500 GP, 5 lb.

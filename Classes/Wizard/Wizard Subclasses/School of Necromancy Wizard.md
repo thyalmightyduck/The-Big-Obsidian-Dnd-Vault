@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -121,7 +121,7 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 You gain a feature from your Wizard Subclass.
 
 ### Undead Thralls
-At 6th level, you add the [[animate dead]] spell to your spellbook if it is not there already. When you cast [[animate dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+At 6th level, you add the [[Animate Dead]] spell to your spellbook if it is not there already. When you cast [[Animate Dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 - The creature's hit point maximum is increased by an amount equal to your wizard level.

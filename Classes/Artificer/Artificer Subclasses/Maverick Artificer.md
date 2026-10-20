@@ -114,7 +114,7 @@ As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one ite
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
-- [[Vial]]
+- [[Rules/Core Rules/Vial]]
 
 See the rules for the item in the Player's Handbook. The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 

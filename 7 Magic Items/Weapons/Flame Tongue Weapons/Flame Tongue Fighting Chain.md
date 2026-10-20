@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Fighting Chain]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Fighting Chain]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Double, Finesse, Reach, Two‑Handed
 500 GP, 3 lb.

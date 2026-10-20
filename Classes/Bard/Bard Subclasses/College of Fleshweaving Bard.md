@@ -112,10 +112,10 @@ If leather is a material, then why not skin itself? Students of the College of F
 ### Level 3: Malleable Visage
 Years spent mending, shaping, and adapting flesh have given you a preternatural ability to modify your own body. You are proficient with surgeon's tools, which you can use as a spellcasting focus, and you know the alter self spell, which counts as a bard spell for you, but it doesn't count against the number of bard spells you know. Over the course of 1 minute, you can cast the spell without expending a spell slot, choosing only the Change Appearance option. When you cast the spell in this way, it doesn't require concentration.
 
-In addition, over the course of 10 minutes, you can use your surgeon's tools to change the appearance of a willing creature. It magically gains the benefits of the Change Appearance effect of the [[alter self]] spell, which lasts until it finishes a long rest. After you use your surgeon's tools in this way, you can't do so again until you finish a long rest.
+In addition, over the course of 10 minutes, you can use your surgeon's tools to change the appearance of a willing creature. It magically gains the benefits of the Change Appearance effect of the [[Alter Self]] spell, which lasts until it finishes a long rest. After you use your surgeon's tools in this way, you can't do so again until you finish a long rest.
 
 ### Level 3: Suturer
-You know the [[spiritual weapon]] spell, which is a bard spell for you, but doesn't count against the number of spells you know. You can cast this spell once without expending a spell slot, and you regain the ability to cast it in this way when you finish a long rest. When you cast it as a bard spell, the weapon takes the form of a giant needle and thread, and deals piercing damage instead of force damage.
+You know the [[Spiritual Weapon]] spell, which is a bard spell for you, but doesn't count against the number of spells you know. You can cast this spell once without expending a spell slot, and you regain the ability to cast it in this way when you finish a long rest. When you cast it as a bard spell, the weapon takes the form of a giant needle and thread, and deals piercing damage instead of force damage.
 
 You also learn different ways to use this spiritual weapon. You gain the Suture benefit below, and you gain an additional benefit below when you reach 5th level and 10th level in this class.
 

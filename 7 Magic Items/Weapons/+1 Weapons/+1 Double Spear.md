@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Double Spear]], Uncommon*
+*Weapon [[Items/Weapons/Double Spear]], Uncommon*
 **Weapon:** 1d6 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Double, Momentum (1d10), Two‑Handed
 500 GP, 4 lb.

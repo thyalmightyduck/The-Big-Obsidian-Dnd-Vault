@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Fighting Chain, Hook]], Uncommon*
+*Weapon [[Items/Weapons/Fighting Chain, Hook]], Uncommon*
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Damage (Piercing), Double, Finesse, Reach, Two‑Handed
 500 GP, 3 lb.

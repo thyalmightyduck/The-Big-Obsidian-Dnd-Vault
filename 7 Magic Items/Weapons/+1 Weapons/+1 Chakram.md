@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon ([[Chakram]]), Uncommon*
+*Weapon ([[Items/Weapons/Chakram]]), Uncommon*
 **Weapon:** 1d8 Piercing Advanced Weapon, Melee Weapon
 **Properties:** Finesse, Light, Thrown (30/120 ft.)
 500 GP, 1 lb.

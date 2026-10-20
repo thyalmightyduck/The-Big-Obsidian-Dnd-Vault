@@ -28,7 +28,7 @@ PlotHook: Witnessed a cult ritual
 - Signet Ring _(5 gp)_  
 - Goblin fishing lure _(5 gp)_  
 - [[Net]] _(1 gp)_  
-- [[Vial]] _(1 gp)_
+- [[Rules/Core Rules/Vial]] _(1 gp)_
 - [[Shovel]] _(2 gp)_  
 - [[Parchment]] (one sheet) _(1 sp)_  
 - Rope spider’s silk (50 ft.) _(100 gp)_  

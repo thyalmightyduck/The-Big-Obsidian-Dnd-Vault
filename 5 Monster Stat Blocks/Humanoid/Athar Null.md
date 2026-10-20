@@ -10,7 +10,7 @@ ___
 ## Athar Null
 *Small or Medium Humanoid, Any Alignment*
 ___
-- **[[Armor Class]]** 14 (*[[leather armor]]*)
+- **[[Armor Class]]** 14 (*[[Leather Armor]]*)
 - **[[Hit Point|Hit Points]]** 84 (13d8 + 26)
 - **[[Speed]]** 30 ft.
 - **[[Initiative]]** +3 (13)

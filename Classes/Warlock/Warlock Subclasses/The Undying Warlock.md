@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -106,15 +106,15 @@ The Undying lets you choose from an expanded list of spells when you learn a war
 
 | Spell Level | Spells                               |
 | ----------- | ------------------------------------ |
-| 1st         | [[false life]], [[ray of sickness]]  |
-| 2nd         | [[blindness deafness]], [[silence]]  |
-| 3rd         | [[feign death]], [[speak with dead]] |
-| 4th         | [[aura of life]], [[death ward]]     |
-| 5th         | [[contagion]], [[legend lore]]       |
+| 1st         | [[False Life]], [[Ray of Sickness]]  |
+| 2nd         | [[Blindness Deafness]], [[Silence]]  |
+| 3rd         | [[Feign Death]], [[Speak With Dead]] |
+| 4th         | [[Aura of Life]], [[Death Ward]]     |
+| 5th         | [[Contagion]], [[Legend Lore]]       |
 ### Among the Dead
-Starting at 1st level, you learn the [[spare the dying]] cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.
+Starting at 1st level, you learn the [[Spare the Dying]] cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.
 
-Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of [[fireball]]). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
+Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of [[Fireball]]). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
@@ -123,7 +123,7 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 You gain a feature from your Warlock subclass.
 
 ### Defy Death
-Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a [[Death Saving Throws|death saving throw]] or when you stabilize a creature with [[spare the dying]].
+Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a [[Death Saving Throws|death saving throw]] or when you stabilize a creature with [[Spare the Dying]].
 
 Once you use this feature, you can't use it again until you finish a long rest.
 

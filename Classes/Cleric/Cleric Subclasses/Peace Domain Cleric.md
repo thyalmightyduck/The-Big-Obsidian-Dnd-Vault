@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -124,11 +124,11 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 
 | Cleric Level | Spells                                                                                                                                                               |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st          | [[heroism]], [[sanctuary]]                                                                                                                                           |
-| 3rd          | [[aid]], [[warding bond]]                                                                                                                                            |
-| 5th          | [[beacon of hope]], [[sending]]                                                                                                                                      |
-| 7th          | [[aura of purity]], [[Otilukes Resilient Sphere]]                                                                                                                   |
-| 9th          | [[greater restoration]], [[Rary's Telepathic Bond]] |
+| 1st          | [[Heroism]], [[Spells/Level 1/Sanctuary]]                                                                                                                                           |
+| 3rd          | [[Aid]], [[Warding Bond]]                                                                                                                                            |
+| 5th          | [[Beacon of Hope]], [[Sending]]                                                                                                                                      |
+| 7th          | [[Aura of Purity]], [[Otilukes Resilient Sphere]]                                                                                                                   |
+| 9th          | [[Greater Restoration]], [[Rary's Telepathic Bond]] |
 ### Implement of Peace
 _1st-level Peace Domain feature_
 

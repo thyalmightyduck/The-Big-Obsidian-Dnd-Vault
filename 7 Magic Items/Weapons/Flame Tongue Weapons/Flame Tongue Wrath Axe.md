@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Wrath Axe]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Wrath Axe]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Momentum (2d8), Two‑Handed
 750 GP, 12 lb.

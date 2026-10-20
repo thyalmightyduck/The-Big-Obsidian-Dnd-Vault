@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Polearm]], Uncommon*
+*Weapon [[Items/Weapons/Polearm]], Uncommon*
 **Weapon:** 1d12 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Reach, Two‑Handed
 500 GP, 12 lb.

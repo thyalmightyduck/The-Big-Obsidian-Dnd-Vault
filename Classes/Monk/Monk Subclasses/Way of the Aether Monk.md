@@ -103,7 +103,7 @@ When you choose this tradition at 3rd level, you learn to send out blue flashes 
 When you reach 6th level in this class, you can use your Stunning Strike feature when you hit a creature with your Spirit Strike.
 
 ### Level 3: Spirit Hand
-Also at 3rd level, you learn the [[mage hand]] cantrip, which you can cast and control as a bonus action. When you cast it, it doesn't require verbal or somatic components. The hand from the spell appears as a blue, spiritual copy of your own.
+Also at 3rd level, you learn the [[Mage Hand]] cantrip, which you can cast and control as a bonus action. When you cast it, it doesn't require verbal or somatic components. The hand from the spell appears as a blue, spiritual copy of your own.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
@@ -124,7 +124,7 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 You gain a feature from your Monk subclass.
 
 ### Level 6: Spectral Guide
-Starting at 6th level, you can't be possessed by ghosts or similar undead creatures, and you can use an action to spend 2 ki points to cast either the [[gentle repose]] or [[see invisibility]] spell, without providing material components. You also gain the [[spare the dying]] cantrip if you don't already know it.
+Starting at 6th level, you can't be possessed by ghosts or similar undead creatures, and you can use an action to spend 2 ki points to cast either the [[Gentle Repose]] or [[See Invisibility]] spell, without providing material components. You also gain the [[Spare the Dying]] cantrip if you don't already know it.
 Furthermore, you learn how to free certain souls from their undead vessels when you harness your ki. You gain the following ability:
 **Dismiss Undead:** When you hit an undead with one of the attacks granted by your Flurry of Blows, you can force it to make a Wisdom saving throw against your ki save DC. On a failed save, its spirit leaves and is put to rest, causing the creature to either vanish or become an unmoving corpse once more. If the creature's challenge rating is above the threshold shown in the following table, it automatically succeeds on the saving throw.
 
@@ -193,7 +193,7 @@ You gain a feature from your Monk subclass.
 
 ### Level 17: Sight Beyond Sight
 At 17th level, you gain truesight and telepathy out to 60 feet, as you are able to clearly see the world and connect to the souls within it using aether.
-In addition, you can use an action to cast the [[etherealness]] spell. When you do, the spell has a duration of 1 minute. Once you cast this spell, you can't cast it again until you finish a long rest.
+In addition, you can use an action to cast the [[Etherealness]] spell. When you do, the spell has a duration of 1 minute. Once you cast this spell, you can't cast it again until you finish a long rest.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

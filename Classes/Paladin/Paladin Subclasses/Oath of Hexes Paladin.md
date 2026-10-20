@@ -100,11 +100,11 @@ You gain oath spells at the paladin levels listed in the Oath of Hexes Spells ta
 
 | Paladin Level | Spells                                                              |
 | ------------- | ------------------------------------------------------------------- |
-| 3rd           | [[hellish rebuke]], [[Tasha's Hideous Laughter]], [[eldritch blast]] |
-| 5th           | [[invisibility]], [[suggestion]]                                    |
-| 9th           | [[bestow curse]], [[fear]]                                          |
-| 13th          | [[dimension door]], [[polymorph]]                                   |
-| 17th          | [[dominate person]], [[mislead]]                                    |
+| 3rd           | [[Hellish Rebuke]], [[Tasha's Hideous Laughter]], [[Eldritch Blast]] |
+| 5th           | [[Invisibility]], [[Suggestion]]                                    |
+| 9th           | [[Bestow Curse]], [[Fear]]                                          |
+| 13th          | [[Dimension Door]], [[Polymorph]]                                   |
+| 17th          | [[Dominate Person]], [[Mislead]]                                    |
 ### Level 3: Channel Divinity
 You gain the following Channel Divinity options:
 - **Curse of Hexes** As an action, you curse one creature you can see within 30 feet of you. When you curse a target, choose an ability score. The chosen creature has disadvantage on attack rolls, saving throws, and ability checks using that ability score for one minute or until it drops to 0 hit points or falls unconscious. At the end of each of the cursed creature's turns, it can make a Charisma saving throw against your spell save DC. On a successful save, the curse ends.

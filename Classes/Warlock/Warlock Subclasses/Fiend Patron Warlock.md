@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -106,7 +106,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | ------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 3             | [[Burning Hands]], [[Command]], [[Scorching Ray]], [[Suggestion]]                                                  |
 | 5             | [[Fireball]], [[Stinking Cloud]]                                                                                   |
-| 7             | [[Fire Shield]], [[Wall of Fire]]                                                                                  |
+| 7             | [[Fire Shield]], [[Wall Of Fire]]                                                                                  |
 | 9             | [[Geas]], [[Insect Plague]] |
 ### Level 3: Dark One's Blessing
 When you reduce an enemy to 0 [[Hit Point]]s, you gain [[Temporary Hit Point]]s equal to your Charisma modifier plus your Warlock level (minimum of 1 [[Temporary Hit Point]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[Hit Point]]s.

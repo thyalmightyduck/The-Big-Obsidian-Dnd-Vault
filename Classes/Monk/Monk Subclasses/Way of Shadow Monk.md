@@ -110,7 +110,7 @@ You gain a Monk subclass of your choice. A subclass is a specialization that gra
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadow dancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 
 ### Level 3: Shadow Arts
-You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [[darkness]], [[darkvision]], [[pass without trace]], or [[silence]], without providing material components. Additionally, you gain the [[minor illusion]] cantrip if you don't already know it.
+You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [[darkness]], [[darkvision]], [[Pass Without Trace]], or [[Silence]], without providing material components. Additionally, you gain the [[Minor Illusion]] cantrip if you don't already know it.
 
 ### Level 3: Ki-Fueled Attack
 _3rd-level monk optional feature_

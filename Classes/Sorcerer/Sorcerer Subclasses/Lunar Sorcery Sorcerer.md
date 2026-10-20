@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -164,17 +164,17 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Full Moon Spell           | New Moon Spell         | Crescent Moon Spell       |
 | -------------- | ------------------------- | ---------------------- | ------------------------- |
-| 1st            | [[Shield]]                | [[ray of sickness]]    | [[color spray]]           |
-| 3rd            | [[lesser restoration]]    | [[blindness deafness]] | [[alter self]]            |
-| 5th            | [[dispel magic]]          | [[vampiric touch]]     | [[phantom steed]]         |
-| 7th            | [[death ward]]            | [[confusion]]          | [[hallucinatory terrain]] |
-| 9th            | [[Rary's Telepathic Bond]] | [[hold monster]]       | [[mislead]]               |
+| 1st            | [[Shield]]                | [[Ray of Sickness]]    | [[Color Spray]]           |
+| 3rd            | [[Lesser Restoration]]    | [[Blindness Deafness]] | [[Alter Self]]            |
+| 5th            | [[Dispel Magic]]          | [[Vampiric Touch]]     | [[Phantom Steed]]         |
+| 7th            | [[Death Ward]]            | [[Confusion]]          | [[Hallucinatory Terrain]] |
+| 9th            | [[Rary's Telepathic Bond]] | [[Hold Monster]]       | [[Mislead]]               |
 Whenever you finish a long rest, you can choose what lunar phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon. While in the chosen phase, you can cast one 1st-level spell of the associated phase in the Lunar Spells table once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
 
 ### Moon Fire
 _1st-Level Lunar Sorcery Feature_
 
-You can call down the radiant light of the moon on command. You learn the [[sacred flame]] spell, which doesn't count against the number of sorcerer cantrips you know. When you cast the spell, you can target one creature as normal or target two creatures within range that are within 5 feet of each other.
+You can call down the radiant light of the moon on command. You learn the [[Sacred Flame]] spell, which doesn't count against the number of sorcerer cantrips you know. When you cast the spell, you can target one creature as normal or target two creatures within range that are within 5 feet of each other.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.

@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -107,9 +107,9 @@ You focus your studies on magic that dazzles the senses, befuddles the mind, and
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved.
 
 ### Improved Minor Illusion
-When you choose this school at 2nd level, you learn the [[minor illusion]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this school at 2nd level, you learn the [[Minor Illusion]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
-When you cast [[minor illusion]], you can create both a sound and an image with a single casting of the spell.
+When you cast [[Minor Illusion]], you can create both a sound and an image with a single casting of the spell.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.

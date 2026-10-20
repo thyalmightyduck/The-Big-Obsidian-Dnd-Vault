@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -102,16 +102,16 @@ The Mother of Sorrows lets you choose from an expanded list of spells when you l
 
 | Spell Level | Spells                                                                                                                                                     |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st         | [[detect poison and disease]], [[inflict wounds]]                                                                                                          |
-| 2nd         | [[ray of enfeeblement]], [[silence]]                                                                                                                       |
-| 3rd         | [[stinking cloud]], [[vampiric touch]]                                                                                                                     |
-| 4th         | [[greater invisibility]], [[phantasmal killer]] |
-| 5th         | [[cloudkill]], [[contagion]]                                                                                                                               |
+| 1st         | [[Detect Poison and Disease]], [[Inflict Wounds]]                                                                                                          |
+| 2nd         | [[Ray of Enfeeblement]], [[Silence]]                                                                                                                       |
+| 3rd         | [[Stinking Cloud]], [[Vampiric Touch]]                                                                                                                     |
+| 4th         | [[Greater Invisibility]], [[Phantasmal Killer]] |
+| 5th         | [[Cloudkill]], [[Contagion]]                                                                                                                               |
 ### Level 1: Poison Soul
 Starting at 1st level, your affinity for poison becomes supernatural. Any poison damage you deal ignores any [[resistance]] or [[immunity]].
 
 ### Level 1: Venomous Mark
-Also at 1st level, as a [[bonus action]], choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[incapacitated]]. Until the curse ends, you deal an extra 1d6 poison damage to the target whenever you hit it with a spell attack. (You can only apply this damage once per spell even if there are multiple spell attack instances, such as with [[eldritch blast]].)
+Also at 1st level, as a [[bonus action]], choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[incapacitated]]. Until the curse ends, you deal an extra 1d6 poison damage to the target whenever you hit it with a spell attack. (You can only apply this damage once per spell even if there are multiple spell attack instances, such as with [[Eldritch Blast]].)
 
 If the target drops to 0 hit points before the curse ends, you can use a [[bonus action]] on a subsequent turn of yours to curse a new creature. Only one creature can be affected with a venomous mark at any given time.
 

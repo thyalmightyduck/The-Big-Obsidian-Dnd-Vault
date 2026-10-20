@@ -114,7 +114,7 @@ As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one ite
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
-- [[Vial]]
+- [[Rules/Core Rules/Vial]]
 
 See the rules for the item in the Player's Handbook. The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
@@ -251,7 +251,7 @@ When you reach an Artificer level specified in the Cartographer Spells table, yo
 | 5               | [[Locate Object]], [[Mind Spike]]                   |
 | 9               | [[Call Lightning]], [[Clairvoyance]]                |
 | 13              | [[Banishment]], [[Locate Creature]]                 |
-| 17              | [[Scrying]], [[Teleportation Circle]]               |
+| 17              | [[Scrying]], [[Spells/Level 5/Teleportation Circle]]               |
 ### Level 3: Adventurer's Atlas
 Whenever you finish a [[Long Rest]] while holding [[Cartographer's Tools]], you can use that tool to create a set of magical maps by touching at least two creatures (one of whom can be yourself), up to a maximum number of creatures equal to 1 plus your Intelligence modifier (minimum of two creatures). Each target receives a magical map, which constantly updates to show the relative position of all the map holders but is illegible to all others. The maps last until you die or until you use this feature again, at which point any existing maps created by this feature immediately vanish.
 

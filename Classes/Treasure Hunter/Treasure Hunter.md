@@ -28,7 +28,7 @@ tags:
 
 **Weapon Proficiencies:** [[Simple Weapons]], [[Shortsword]], and [[Sword]]s
 
-**Tool Proficiencies:** A tool of your choice among [[cartographer's tools]], a gaming set, or [[thieves' tools]]
+**Tool Proficiencies:** A tool of your choice among [[Cartographer's Tools]], a gaming set, or [[thieves' tools]]
 
 **Armor Training:** [[Light Armor]]
 

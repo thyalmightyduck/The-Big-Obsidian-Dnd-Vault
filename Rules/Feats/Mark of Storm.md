@@ -13,7 +13,7 @@ You gain the following benefits.
 
 ***Storm's Boon.*** You have [[Resistance]] to Lightning damage.
 
-***Storm Magic.*** You know the *[[Thunderclap]]* cantrip. When you reach character level 3, you also always have the *[[Gust of Wind]]* spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[Long Rest]]. You can also cast it using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this [[feat]]).
+***Storm Magic.*** You know the *[[Thunderclap]]* cantrip. When you reach character level 3, you also always have the *[[Gust Of Wind]]* spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[Long Rest]]. You can also cast it using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this [[feat]]).
 
 ***Spells of the Mark.*** If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Storm Spells table are added to that feature's spell list.
 

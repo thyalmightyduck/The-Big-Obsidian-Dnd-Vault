@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Hammer]], Uncommon (Requires Attunement)*
+*Weapon [[Items/Weapons/Hammer]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning [[Simple Weapon]], [[Melee Weapon]]
 2 S, 3 lb.
 

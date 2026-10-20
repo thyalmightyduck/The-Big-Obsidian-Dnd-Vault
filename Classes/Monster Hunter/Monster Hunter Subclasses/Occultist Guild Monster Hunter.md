@@ -114,11 +114,11 @@ Your study of the occult gives you the ability to cast spells.
 **Cantrips:** You learn two cantrips of your choice from the Wizard spell list. Whenever you gain a Monster Hunter level, you can replace one of these cantrips with another of your choice from the Wizard spell list.
 When you reach Monster Hunter level 10, you learn another Wizard cantrip of your choice.
 **Spell Slots:** The Occultist Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a [[Long Rest]].
-**Prepared Spells of Level 1+:** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [[Burning Hands]], [[Detect Magic]], and [[Protection from Evil and Good]] are recommended.
+**Prepared Spells of Level 1+:** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [[Burning Hands]], [[Detect Magic]], and [[Protection From Evil And Good]] are recommended.
 The number of spells on your list increases as you gain Monster Hunter levels, as shown in the Prepared Spells column of the Occultist Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Monster Hunter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 **Changing Your Prepared Spells:** Whenever you gain a Monster Hunter level, you can replace one spell on your list with another Wizard spell.
 **Spellcasting Ability:** Intelligence is your spellcasting ability for your Wizard spells.
-**Spellcasting Focus:** You can use an [[Arcane Focus]] as [[Spellcasting Focus]] for your Wizard spells.
+**Spellcasting Focus:** You can use an [[Rules/Core Rules/Arcane Focus]] as [[Spellcasting Focus]] for your Wizard spells.
 
 ### Level 3: Arcane Interference
 You have [[Advantage]] on saving throws against spells cast by creature types in your Monster Grimoire. Additionally, when a creature you can see within 60 feet of you casts a spell or makes a spell attack, you can use Studied Response against that creature before the spell is cast.

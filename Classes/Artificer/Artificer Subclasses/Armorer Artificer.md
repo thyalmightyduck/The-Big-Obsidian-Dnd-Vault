@@ -114,7 +114,7 @@ As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one ite
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
-- [[Vial]]
+- [[Rules/Core Rules/Vial]]
 
 See the rules for the item in the Player's Handbook. The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
@@ -243,11 +243,11 @@ You always have certain spells prepared after you reach particular levels in thi
 #### Armorer Spells
 |      |                                           |
 | ---- | ----------------------------------------- |
-| 3rd  | [[magic missile]], [[thunderwave]]        |
-| 5th  | [[mirror image]], [[shatter]]             |
-| 9th  | [[hypnotic pattern]], [[lightning bolt]]  |
-| 13th | [[fire shield]], [[greater invisibility]] |
-| 17th | [[passwall]], [[wall of force]]           |
+| 3rd  | [[Magic Missile]], [[Thunderwave]]        |
+| 5th  | [[Mirror Image]], [[Shatter]]             |
+| 9th  | [[Hypnotic Pattern]], [[Lightning Bolt]]  |
+| 13th | [[Fire Shield]], [[Greater Invisibility]] |
+| 17th | [[Passwall]], [[Wall of Force]]           |
 ### Level 3: Arcane Armor
 _3rd-level Armorer feature_
 

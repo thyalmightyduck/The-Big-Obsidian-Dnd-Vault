@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -122,7 +122,7 @@ Every Wizard who walks the steps of the Philosopher does so to solve some specif
 |11|You were raised to revere the four elements, and you hypothesized that mastering the stuff of existence will bring harmony to them all.|
 |12|You had aspirations of joining the military and rising through the ranks, believing that the magic of reality can be used as a weapon of war.|
 ### Level 3: Alchemical Knowledge
-You gain a set of [[Alchemists Supplies]]. You have proficiency with it and can use it as an [[Arcane Focus]]. Additionally, you can use [[Alchemists Supplies]] instead of the normal tool to craft a magic item.
+You gain a set of [[Alchemists Supplies]]. You have proficiency with it and can use it as an [[Rules/Core Rules/Arcane Focus]]. Additionally, you can use [[Alchemists Supplies]] instead of the normal tool to craft a magic item.
 
 ### Level 3: Quintessence
 You have learned the fundamental process of dissolution. You know the [[Dissolution]] cantrip. A creature or object you reduce to 0 [[Hit Point]]s with the cantrip is destroyed. If the target was Small or larger, it dissolves into a measure (1 ounce) of crystalline powder called Quintessence. You can have a maximum amount of Quintessence equal to twice your Intelligence modifier at one time (minimum of 2 measures). If you create more, the oldest measure vanishes. You can use Quintessence you are touching in the following ways.

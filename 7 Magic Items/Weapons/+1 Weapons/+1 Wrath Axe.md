@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Wrath Axe]], Uncommon*
+*Weapon [[Items/Weapons/Wrath Axe]], Uncommon*
 **Weapon:** 2d6 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Momentum (2d8), Two‑Handed
 750 GP, 12 lb.

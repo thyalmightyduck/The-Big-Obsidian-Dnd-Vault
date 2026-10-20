@@ -40,7 +40,7 @@ As long as this weapon is within your reach and you are attuned to it, you and a
 - [[Greatclub]] ([[Greatclub of Warning]])
 - [[Greatsword]] ([[Greatsword of Warning]])
 - [[Halberd]] ([[Halberd of Warning]])
-- [[Hammer]] ([[Hammer of Warning]])
+- [[Items/Weapons/Hammer]] ([[Hammer of Warning]])
 - [[Hand Claws]] ([[Hand Claws of Warning]])
 - [[Hand Crossbow]] ([[Hand Crossbow of Warning]])
 - [[Hand Sentira Lens]] ([[Hand Sentira Lens of Warning]])

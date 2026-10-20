@@ -4,7 +4,7 @@ tags:
 ---
 *Potion, Uncommon*
 
-One vial of this oil can cover one Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the [[Freedom of Movement]] spell for 8 hours.
+One vial of this oil can cover one Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the [[Freedom Of Movement]] spell for 8 hours.
 
 Alternatively, the oil can be poured on the ground as a [[Magic Action]], where it covers a 10-foot square, duplicating the effect of the [[Grease]] spell in that area for 8 hours.
 

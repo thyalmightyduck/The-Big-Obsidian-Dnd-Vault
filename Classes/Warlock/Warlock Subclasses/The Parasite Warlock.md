@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -102,13 +102,13 @@ The Parasite lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells                                              |
 | ----------- | --------------------------------------------------- |
-| 1st         | [[heroism]], [[sanctuary]]                          |
-| 2nd         | [[enhance ability]], [[enlarge reduce]]             |
-| 3rd         | [[haste]], [[spirit guardians]]                     |
-| 4th         | [[Evard's Black Tentacles]], [[freedom of movement]] |
-| 5th         | [[endure]], [[dominate person]]                     |
+| 1st         | [[Heroism]], [[Spells/Level 1/Sanctuary]]                          |
+| 2nd         | [[Enhance Ability]], [[Enlarge Reduce]]             |
+| 3rd         | [[Haste]], [[Spirit Guardians]]                     |
+| 4th         | [[Evard's Black Tentacles]], [[Freedom Of Movement]] |
+| 5th         | [[Endure]], [[Dominate Person]]                     |
 #### Flavouring Spells
-Some of the spells in the Parasite Expanded Spells table have a divine flavour to them. Feel free to corrupt these to fit your parasitic patron! For example, [[sanctuary]] might be represented as part of your parasitic symbiont warding the target of your spell from damaging blows. [[Spirit guardians]] probably deals necrotic damage, even if you're not evil, and could manifest as viscous threads of corrupting ichor that whirl around you with a mind of their own. If you're especially into horror, you could even express [[dominate person]] as a part of your patron physically invading your target's cranium through a nostril!
+Some of the spells in the Parasite Expanded Spells table have a divine flavour to them. Feel free to corrupt these to fit your parasitic patron! For example, [[Spells/Level 1/Sanctuary]] might be represented as part of your parasitic symbiont warding the target of your spell from damaging blows. [[Spirit Guardians]] probably deals necrotic damage, even if you're not evil, and could manifest as viscous threads of corrupting ichor that whirl around you with a mind of their own. If you're especially into horror, you could even express [[Dominate Person]] as a part of your patron physically invading your target's cranium through a nostril!
 
 ### Level 1: Parasitic Weapon
 Your patron can manifest on and protrude from your body in the form of a parasitic weapon—claws, teeth, tendrils, or other appendages As a bonus action, you can manifest this parasitic weapon; you gain a new attack option that you can use when you take the Attack action on your turn This special attack is a melee weapon attack, with a reach equal to five times your proficiency bonus. You are proficient with this weapon and, when you make a weapon attack with it, you must use your Charisma modifier instead of your Strength modifier for the attack roll The attack deals 1d12 bludgeoning, piercing, or slashing damage on a hit (your choice when you manifest the weapon). You don't add your ability modifier to the damage of the parasitic weapon.
@@ -126,7 +126,7 @@ This parasitic weapon can't be used for opportunity attacks; it specifies that i
 Invested in your survival, your patron manifests in protective ways You can use your Charisma modifier in place of your Strength modifier when making Strength saving throws In addition, as a bonus action, you can cause your patron to manifest as a shield in your free hand, with which you are proficient. This shield disappears if you are incapacitated or if you dismiss it as a bonus action The increase to AC rises to 3 when you reach 10th level in this class.
 
 #### Invocations & Parasitic Weapon
-If you are the GM, consider allowing invocations that have the [[eldritch blast]] cantrip as a prerequisite to also benefit attacks the warlock makes with their parasitic weapon. For example, [[Repelling Blast]] would permit the parasitic weapon to push targets, while [[Agonizing Blast]] would allow the warlock to add their Charisma modifier to its damage rolls. However, take this with a pinch of salt; [[Eldritch Spear]] extends the weapon's reach by a factor of 2.5 only, not 180 feet!
+If you are the GM, consider allowing invocations that have the [[Eldritch Blast]] cantrip as a prerequisite to also benefit attacks the warlock makes with their parasitic weapon. For example, [[Repelling Blast]] would permit the parasitic weapon to push targets, while [[Agonizing Blast]] would allow the warlock to add their Charisma modifier to its damage rolls. However, take this with a pinch of salt; [[Eldritch Spear]] extends the weapon's reach by a factor of 2.5 only, not 180 feet!
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
@@ -140,7 +140,7 @@ As a bonus action, you can transform your body into a viscous, liquid form for 1
 **Magical Weapons:** Starting at 6th level, your attacks with your parasitic weapon count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ### Birth Parasite
-Over the course of 1 minute, you can extrude an independent piece of your patron, causing it to manifest in an unoccupied space within 5 feet of you This parasite acts as a familiar, as if with the [[find familiar]] spell See this creature's game statistics in the [[parasitic ooze]] stat block, which uses your proficiency bonus (PB) in several places.
+Over the course of 1 minute, you can extrude an independent piece of your patron, causing it to manifest in an unoccupied space within 5 feet of you This parasite acts as a familiar, as if with the [[Find Familiar]] spell See this creature's game statistics in the [[parasitic ooze]] stat block, which uses your proficiency bonus (PB) in several places.
 
 If you have the [[Pact of the Chain]] feature, the parasite counts as a familiar for you for the purpose of applying any benefits from that feature or your invocations.
 

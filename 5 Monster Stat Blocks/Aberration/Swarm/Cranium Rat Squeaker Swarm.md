@@ -29,7 +29,7 @@ ___
 - **[[Proficiency Bonus]]** +3
 ___
 ### Traits
-***Psychic Messenger.*** The swarm can use its *[[sending]]* spell to target someone familiar to a creature in telepathic contact with the swarm.  
+***Psychic Messenger.*** The swarm can use its *[[Sending]]* spell to target someone familiar to a creature in telepathic contact with the swarm.  
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny [[rat]]. The swarm can't regain [[Hit Point|hit points]] or gain [[Temporary Hit Point|temporary hit points]].  
 
@@ -40,8 +40,8 @@ ___
 
 ***Spellcasting (Psionics).*** The swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):  
 
-At will: *[[command]]* , *[[detect thoughts]]* , *[[sending]]*   
-1/day each: *[[confusion]]* , *[[dominate monster]]*   
+At will: *[[Command]]* , *[[Detect Thoughts]]* , *[[Sending]]*   
+1/day each: *[[Confusion]]* , *[[Dominate Monster]]*   
 
 *To cast these spell, the swarm must have more than half its [[Hit Point|hit points]] remaining.  
 

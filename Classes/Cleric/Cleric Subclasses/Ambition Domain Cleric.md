@@ -60,7 +60,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -110,11 +110,11 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells                                    |
 | ------------ | ----------------------------------------- |
-| 1st          | [[bane]], [[disguise self]]               |
-| 3rd          | [[mirror image]], [[ray of enfeeblement]] |
-| 5th          | [[bestow curse]], [[vampiric touch]]      |
-| 7th          | [[death ward]], [[dimension door]]        |
-| 9th          | [[dominate person]], [[modify memory]]    |
+| 1st          | [[Bane]], [[Disguise Self]]               |
+| 3rd          | [[Mirror Image]], [[Ray of Enfeeblement]] |
+| 5th          | [[Bestow Curse]], [[Vampiric Touch]]      |
+| 7th          | [[Death Ward]], [[Dimension Door]]        |
+| 9th          | [[Dominate Person]], [[Modify Memory]]    |
 ### Warding Flare
 When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be [[blinded]] is immune to this feature.
 

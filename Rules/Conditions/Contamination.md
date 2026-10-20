@@ -26,7 +26,7 @@ While you have Contamination, you experience the following effects.
 
 - The [[Purge Contamination]] spell
 - [[Heal]] removes all Contamination levels and mutations in addition to its other effects.
-- Contamination is not a curse, poison, or disease. Spells such as [[Lesser Restoration]], [[Protection from Poison]], and [[Remove Curse]] do not remove Contamination levels.
+- Contamination is not a curse, poison, or disease. Spells such as [[Lesser Restoration]], [[Protection From Poison]], and [[Remove Curse]] do not remove Contamination levels.
 - Being raised from the [[dead]] reduces a creature's Contamination level by 1.
 
 When your Contamination level reaches 0, the [[condition]] ends, as well as the effects of all [[mutations]].

@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Double Spear]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Double Spear]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Double, Momentum (1d10), Two‑Handed
 500 GP, 4 lb.

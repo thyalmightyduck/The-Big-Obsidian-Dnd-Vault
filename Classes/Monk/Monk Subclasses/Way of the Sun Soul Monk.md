@@ -123,8 +123,8 @@ Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice 
 You gain a feature from your Monk subclass.
 
 ### Searing Arc Strike
-At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the [[Attack action]] on your turn, you can spend 2 ki points to cast the [[burning hands]] spell as a bonus action.
-You can spend additional ki points to cast [[burning hands]] as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
+At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the [[Attack action]] on your turn, you can spend 2 ki points to cast the [[Burning Hands]] spell as a bonus action.
+You can spend additional ki points to cast [[Burning Hands]] as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.

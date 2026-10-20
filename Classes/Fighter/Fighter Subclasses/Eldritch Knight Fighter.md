@@ -92,7 +92,7 @@ When you reach Fighter level 10, you learn another Wizard cantrip of your choice
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the [[Wizard Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 **Changing your Prepared Spells:** Whenever you gain a Fighter level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 **Spellcasting Ability:** Intelligence is your spellcasting ability for your Wizard spells.
-**Spellcasting Focus:** You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spells.
+**Spellcasting Focus:** You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spells.
 
 ### Level 3: War Bond
 You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a [[Short Rest]]. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. The bond fails if another Fighter is bonded to the weapon or if the weapon is a magic item to which someone else is attuned.

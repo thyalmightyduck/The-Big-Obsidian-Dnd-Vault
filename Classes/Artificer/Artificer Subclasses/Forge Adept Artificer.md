@@ -114,7 +114,7 @@ As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one ite
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
-- [[Vial]]
+- [[Rules/Core Rules/Vial]]
 
 See the rules for the item in the Player's Handbook. The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
@@ -245,7 +245,7 @@ When you reach an Artificer level specified in the Forge Adept Spells table, you
 
 | Artificer Level | Spells                                    |
 | --------------- | ----------------------------------------- |
-| 3               | [[Armor of Agathys]], [[Shield of Faith]] |
+| 3               | [[Armor of Agathys]], [[Shield Of Faith]] |
 | 5               | [[Spiritual Weapon]], [[Warding Bond]]    |
 | 9               | [[Beacon of Hope]], [[Remove Curse]]      |
 | 13              | [[Death Ward]], [[Fire Shield]]           |

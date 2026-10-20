@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -161,9 +161,9 @@ You have the ability to cast a sliver of your curse onto another temporarily. As
 Once you use this feature, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]] unless you spend 1 Sorcery Point (no action required) to restore your use of it.
 
 ### Level 3: Blood Ties
-Your senses easily attune to the supernatural forces that caused your inherited affliction. You always have the [[Detect Evil and Good]] spell prepared and can cast it without expending a spell slot.
+Your senses easily attune to the supernatural forces that caused your inherited affliction. You always have the [[Detect Evil And Good]] spell prepared and can cast it without expending a spell slot.
 
-In addition, choose one of the following types of creatures as the being that cursed your ancestor: Fey, Fiend, or Undead. On each of your turns while you maintain [[Concentration]] on [[Detect Evil and Good]], including the turn when you cast it, creatures of the chosen type have [[Disadvantage]] on attack rolls against you, and you can't be possessed, [[Charmed]], or [[Frightened]] by such creatures.
+In addition, choose one of the following types of creatures as the being that cursed your ancestor: Fey, Fiend, or Undead. On each of your turns while you maintain [[Concentration]] on [[Detect Evil And Good]], including the turn when you cast it, creatures of the chosen type have [[Disadvantage]] on attack rolls against you, and you can't be possessed, [[Charmed]], or [[Frightened]] by such creatures.
 
 Once you cast the spell with this feature, you can't do so in this way again until you finish a [[Short Rest]] or [[Long Rest]].
 

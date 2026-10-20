@@ -42,7 +42,7 @@
 
 You start with the following items, plus anything provided by your background:
 - (a) a [[Light Crossbow]] and 20 bolts, (b) a [[Shortsword]] or (c) any [[Simple Weapons]]
-- (a) a [[Component Pouch]] or (b) an [[arcane focus]]
+- (a) a [[Component Pouch]] or (b) an [[Rules/Core Rules/Arcane Focus]]
 - (a) a [[Scholar's Pack]] or (b) a [[Dungeoneers Pack]]
 - [[Hide Armor]], any [[Simple Weapons]], and two [[Dagger]]s
 - a [[Healers Kit]]
@@ -58,7 +58,7 @@ When you gain a level in a class other than your first, you gain only some of th
 ## Level 1: Apothecary 
 Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the [[Apothecary Spell List]].
 ### Formula Book
-You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[arcane focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
+You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[Rules/Core Rules/Arcane Focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
 - A large leatherbound tome with yellowing pages bound shut with an iron lock
 - A scattered assortment of scribbled notes loosely held together by rope
 - A pristine journal with perfect edges and beautiful penmanship
@@ -81,7 +81,7 @@ Intelligence is your spellcasting ability for your apothecary spells, since you 
 ### Ritual Casting
 You can cast an apothecary spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 ### Spellcasting Focus
-You can use an [[arcane focus]] as a spellcasting focus for your apothecary spells.
+You can use an [[Rules/Core Rules/Arcane Focus]] as a spellcasting focus for your apothecary spells.
 
 ## Level 1: Occult Practice
 At 1st level, you take up one of the Occult Practices, a chosen discipline which defines your ongoing research of the body and spirit: the Alienist, the Chemist, the Exorcist, the Mutagenist, the Pathogenist, or the Reanimator.
@@ -91,7 +91,7 @@ Your choice grants you additional proficiencies and an expanded spell list at 1s
 A Reanimator is the master of life and death. Years spent perfecting their formula to bring the recently dead back, or to construct new life out of discarded flesh and patchwork anatomy, have left most Reanimators in a state constantly riding the lines between genius and madness. A Reanimator's skills at clutching life from the jaws of death make them exquisitely suited for dealing with death, and undeath. Their mad genius is presented with the construction of a creature made from the scrap body parts left behind by their enemies which storms forward into battle on their command.
 
 ### Level 1: Spark of Life
-You learn the [[shocking grasp]] and [[spare the dying]] cantrips. These count as apothecary spells for you, and don't count against the number of apothecary cantrips you know.
+You learn the [[Shocking Grasp]] and [[Spare the Dying]] cantrips. These count as apothecary spells for you, and don't count against the number of apothecary cantrips you know.
 
 ### Reanimator Spells
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Reanimator Spells table. These spells count as apothecary spells for you, but they don't count against the number of apothecary spells you prepare.
@@ -100,11 +100,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Apothecary Level | Spell                                |
 | ---------------- | ------------------------------------ |
-| 1st              | [[false life]], [[inflict wounds]]   |
-| 3rd              | [[gentle repose]], [[invigorate]]    |
-| 5th              | [[lightning bolt]], [[revivify]]     |
-| 7th              | [[death ward]], [[corpse explosion]] |
-| 9th              | [[raise dead]], [[nerve gas]]        |
+| 1st              | [[False Life]], [[Inflict Wounds]]   |
+| 3rd              | [[Gentle Repose]], [[Invigorate]]    |
+| 5th              | [[Lightning Bolt]], [[Revivify]]     |
+| 7th              | [[Death Ward]], [[Corpse Explosion]] |
+| 9th              | [[Raise Dead]], [[Nerve Gas]]        |
 
 ## Level 2: Esoteric Theories
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
@@ -132,14 +132,14 @@ At 6th level, you gain a feature granted by your chosen discipline.
 ### Level 6: Bodyguard
 When a creature within 5 feet of your corpsewrought creature makes an attack against you, it can use its reaction to make a melee weapon attack against the attacking creature. In addition, your corpsewrought creature's slam attack counts as magical for the purposes of overcoming resistance and immunity to nonmagical attacks and damage.
 
-In addition, you can cast [[animate dead]] once using an Apothecary spell slot. Once you do, you can't cast the spell again until you finish a long rest.
+In addition, you can cast [[Animate Dead]] once using an Apothecary spell slot. Once you do, you can't cast the spell again until you finish a long rest.
 
 ### Level 6: Reanimated Head
 You have reanimated the head of a dead humanoid creature which now serves you in your studies. You may use the head as a spellcasting focus. The head speaks common and one other language of your choice.
 
 Whenever you make an Intelligence ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10. Additionally, you gain proficiency in the Arcana and Investigation skills.
 
-You can use the head to cast [[speak with dead]] without expending a spell slot. Once you use this feature you can't do so again until you finish a short or long rest.
+You can use the head to cast [[Speak With Dead]] without expending a spell slot. Once you use this feature you can't do so again until you finish a short or long rest.
 
 ## Level 8: Ability Score Improvement
 When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.

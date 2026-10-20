@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -134,7 +134,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Wizard Subclass.
 
 ### Improved Abjuration
-Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in [[counterspell]] and [[dispel magic]]), you add your proficiency bonus to that ability check.
+Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in [[Counterspell]] and [[Dispel Magic]]), you add your proficiency bonus to that ability check.
 
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

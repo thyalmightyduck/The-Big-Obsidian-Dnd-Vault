@@ -82,7 +82,7 @@ You gain a Barbarian subclass of your choice. A subclass is a specialization tha
 ### Path of the Battlerager
 _This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
 
-Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are [[dwarf]] followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, [[Spiked Armor]] and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.
+Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are [[Species/Dwarf]] followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, [[Spiked Armor]] and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.
 
 ### Restriction—Dwarves Only
 Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.

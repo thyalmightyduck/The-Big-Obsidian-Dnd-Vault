@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Punching Dagger]], Uncommon*
+*Weapon [[Items/Weapons/Punching Dagger]], Uncommon*
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Armor-Piercing, Finesse, Light
 300 GP, 1 lb.

@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -155,11 +155,11 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 Depending on your choice of subclass, you may gain certain subclass features—or meet prerequisites for acquiring them—at this level.
 
 ### Veil of Dreams
-When you reach 8th level, you gain mastery over magical sleep. When you cast the [[sleep]] spell, add your cleric level to the dice you roll to determine how many hit points of creatures the spell can affect.
+When you reach 8th level, you gain mastery over magical sleep. When you cast the [[Sleep]] spell, add your cleric level to the dice you roll to determine how many hit points of creatures the spell can affect.
 
 You may choose the order in which creatures within the spell's area are affected. If the first target chosen has too many hit points to be affected, the spell will instead target the next creature you have chosen that the spell could affect before affecting other targets.
 
-Additionally, any creature you put to sleep cannot be woken until the start of your next turn. Otherwise, the [[sleep]] spell acts as normal.
+Additionally, any creature you put to sleep cannot be woken until the start of your next turn. Otherwise, the [[Sleep]] spell acts as normal.
 
 ## Level 10: Divine Intervention
 You can call on your deity or pantheon to intervene on your behalf. As a [[Magic Action]], choose any Cleric spell of level 5 or lower that doesn't require a [[Reaction]] to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a [[Long Rest]].

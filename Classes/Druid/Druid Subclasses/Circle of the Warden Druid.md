@@ -170,7 +170,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[Feat]] of your 
 You gain a feature from your Druid Subclass.
 
 ### Level 10: Aura of Calm
-Starting at 10th level, your presence radiates an aura of soothing natural magic. Whenever you or a friendly creature within 10 feet of you receives healing from a spell, that spell restores an additional number of hit points equal to half your druid level. Additionally, all plants that aren't creatures within this aura grow thick and plentiful and are restored to their full vigor. Such plants also become safe to travelers while inside the aura, negating difficult terrain caused by plants, including magical effects such as [[entangle]] or [[spike growth]], and granting advantage on any saving throws made to resist the harmful effects of such spells.
+Starting at 10th level, your presence radiates an aura of soothing natural magic. Whenever you or a friendly creature within 10 feet of you receives healing from a spell, that spell restores an additional number of hit points equal to half your druid level. Additionally, all plants that aren't creatures within this aura grow thick and plentiful and are restored to their full vigor. Such plants also become safe to travelers while inside the aura, negating difficult terrain caused by plants, including magical effects such as [[Entangle]] or [[Spike Growth]], and granting advantage on any saving throws made to resist the harmful effects of such spells.
 
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -184,7 +184,7 @@ Once you reach 14th level, your service to the natural balance is rewarded, and 
 As long as you are on the Material Plane or an elemental plane, natural features within the cylinder, including plants, trees, rocks, and water (as well as wind, water, earth, or fire, if on an elemental plane) animate to defend you. If you are in a setting, such as an indoor area, where natural features are not present, then plants, trees, rocks, and other natural elements sprout from the floor before animating.
 
 When you activate this ability, choose any number of creatures you are familiar with and can see to be immune to the cylinder's effect. All other creatures are subject to the following effects:
-- Creatures can't willingly enter the cylinder unless they succeed on a Charisma saving throw against your spell save DC. The cylinder also protects the area against planar travel for the duration, preventing any creature from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the [[plane shift]] spell.
+- Creatures can't willingly enter the cylinder unless they succeed on a Charisma saving throw against your spell save DC. The cylinder also protects the area against planar travel for the duration, preventing any creature from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the [[Plane Shift]] spell.
 - Creatures have disadvantage on attack rolls against targets within the cylinder.
 - Targets of your choice within the cylinder can't be [[charmed]], [[frightened]], or possessed by creatures inside or outside the cylinder.
 - When a creature enters the cylinder for the first time on a turn or starts its turn there, the creature takes 5d10 magical bludgeoning damage from the animated nature within.

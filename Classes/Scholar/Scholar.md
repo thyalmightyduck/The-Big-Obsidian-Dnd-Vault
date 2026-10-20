@@ -27,7 +27,7 @@ tags:
 
 **Weapon Proficiencies:** [[Simple Weapons]]
 
-**Tool Proficiencies:** Two tools of your choice among [[calligrapher's supplies]], [[cartographer's tools]], [[Herbalism Kit]], a [[musical instrument]], [[navigator's tools]], or [[Pipes]].
+**Tool Proficiencies:** Two tools of your choice among [[Calligrapher's Supplies]], [[Cartographer's Tools]], [[Herbalism Kit]], a [[musical instrument]], [[navigator's tools]], or [[Pipes]].
 
 **Armor Training:** [[Light Armor]]
 

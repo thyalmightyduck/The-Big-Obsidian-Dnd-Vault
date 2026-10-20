@@ -103,7 +103,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                     |
 | ------------- | ------------------------------------------ |
-| 3             | [[Detect Evil and Good]], [[Hunters Mark]] |
+| 3             | [[Detect Evil And Good]], [[Hunters Mark]] |
 | 5             | [[Detect Thoughts]], [[Knock]]             |
 | 9             | [[Fear]], [[Tongues]]                      |
 | 13            | [[Divination]], [[Locate Creature]]        |

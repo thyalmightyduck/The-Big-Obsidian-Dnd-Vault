@@ -202,7 +202,7 @@ atlas-type: statblock
 ### [[The Parasite Warlock]] Level 8 [[Shifter (Swiftstride)]]
 
 #### Level 1 Eldritch Invocations
- **[[Undying Servitude]]:** You can cast [[animate dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
+ **[[Undying Servitude]]:** You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
  
  **Lessons of the First Ones:** You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
 Repeatable. You can gain this invocation more than once. Each time you do so, choose a different Origin feat.

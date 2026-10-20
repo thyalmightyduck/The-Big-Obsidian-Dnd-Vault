@@ -113,7 +113,7 @@ Bards of the College of Spirits seek tales with inherent power—be they legends
 ### Guiding Whispers
 _3rd-level College of Spirits feature_
 
-You can reach out to spirits to guide you and others. You learn the [[guidance]] cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
+You can reach out to spirits to guide you and others. You learn the [[Guidance]] cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
 
 ### Spiritual Focus
 _3rd-level College of Spirits feature_

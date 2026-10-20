@@ -1,7 +1,7 @@
 # Basic Info:
 **Location:** [[Klont]]
 **Owner:** Name: 
-Description: Old, Female, [[Satyr]], Short ponytail, Tall, Heavy build, They wear a flower in their hair
+Description: Old, Female, [[Species/Satyr]], Short ponytail, Tall, Heavy build, They wear a flower in their hair
 Voice: Deep, Whispering, Slow, Gruff
 
 # Inventory:

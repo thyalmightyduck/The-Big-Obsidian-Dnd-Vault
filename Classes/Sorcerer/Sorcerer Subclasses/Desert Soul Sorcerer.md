@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -169,7 +169,7 @@ When you finish a [[Short Rest]], you can regain expended Sorcery Points, but n
 You gain a feature from your Sorcerer subclass.
 
 ### Level 6: Mirage
-At 6th level, you learn the [[mirror image]] spell. If you already know this spell, you learn a different sorcerer spell of your choice. The spell doesn't count against your number of spells known. You can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, any creature within 10 feet of you that destroys one of the spell's illusions takes fire damage equal to half your sorcerer level, as the illusion bursts into a wave of scalding air and sand.
+At 6th level, you learn the [[Mirror Image]] spell. If you already know this spell, you learn a different sorcerer spell of your choice. The spell doesn't count against your number of spells known. You can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, any creature within 10 feet of you that destroys one of the spell's illusions takes fire damage equal to half your sorcerer level, as the illusion bursts into a wave of scalding air and sand.
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.

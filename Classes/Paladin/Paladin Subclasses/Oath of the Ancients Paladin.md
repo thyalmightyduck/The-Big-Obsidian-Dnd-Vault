@@ -99,7 +99,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3rd           | [[Ensnaring Strike]], [[Speak with Animals]]                                                                                                     |
+| 3rd           | [[Ensnaring Strike]], [[Speak With Animals]]                                                                                                     |
 | 5th           | [[Misty Step]], [[Moonbeam]]                                                                                                                     |
 | 9th           | [[Plant Growth]], [[Protection from Energy]]                                                                                                     |
 | 13th          | [[Ice Storm]], [[Stoneskin]]                                                                                                                     |

@@ -10,7 +10,7 @@ ___
 ## Derro Savant
 *Small Aberration (Sorcerer), Typically Chaotic Evil*
 ___
-- **[[Armor Class]]** 13 (*[[leather armor]]*)
+- **[[Armor Class]]** 13 (*[[Leather Armor]]*)
 - **[[Hit Point|Hit Points]]** 36 (8d6 + 8)
 - **[[Speed]]** 30 ft.
 - **[[Initiative]]** +2 (12)
@@ -39,8 +39,8 @@ ___
 
 ***Spellcasting.*** The derro casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):  
 
-At will: *[[mage hand]]*, *[[message]]*, *[[prestidigitation]]*  
-1/day each: *[[invisibility]]*, *[[sleep]]*, *[[spider climb]]*
+At will: *[[Mage Hand]]*, *[[Message]]*, *[[Prestidigitation]]*  
+1/day each: *[[Invisibility]]*, *[[Sleep]]*, *[[Spider Climb]]*
 
 ```statblock
 layout: Basic 5e Layout

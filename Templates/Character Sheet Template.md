@@ -76,7 +76,7 @@
 >>>> If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
 >>>> **Changing Your Prepared Spells:** Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
 >>>> **Spellcasting Ability:** Charisma is the spellcasting ability for your Warlock spells.
->>>> **[[Spellcasting Focus]]:** You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+>>>> **[[Spellcasting Focus]]:** You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 >
 #### Level 1 Eldritch Invocations
 >>> **[[Pact of the Blade]]:** As a [[Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[Spellcasting Focus]].
@@ -86,7 +86,7 @@
 >>> *Repeatable.* You can gain this invocation more than once. Each time you do so, choose a different [[Origin feat]]. 
 >>> **Thirsting Blade:** Prerequisites: Level 5+ Warlock, [[Pact of the Blade]] You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [[Attack Action]] on your turn.
 >>> **Armor Of Shadows:** You can cast [[Mage Armor]] on yourself without expending a spell slot
->>>**Undying Servitude:** You can cast [[animate dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a [[Long Rest]].
+>>>**Undying Servitude:** You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a [[Long Rest]].
 >
 #### Level 2:Magical Cunning
 >>You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[Long Rest]].

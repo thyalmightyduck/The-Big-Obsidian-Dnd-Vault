@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Side-handle Baton]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Side-handle Baton]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Finesse, Light
 500 GP, 2 lb.

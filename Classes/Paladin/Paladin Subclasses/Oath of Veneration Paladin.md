@@ -96,12 +96,12 @@ The tenets of the Oath of Veneration challenge a paladin to uphold the legend of
 
 ### Level 3: Oath Spells
 When you take this oath, choose the following class that best represents your venerated ancestor: artificer, bard, cleric, druid, ranger, sorcerer, warlock, wizard. When you gain this feature, choose one 1st-level spell from your ancestor's class spell list. That spell is an oath spell for you. When you reach certain levels in this class—5th level, 9th level, 13th level, and 17th level—you gain another oath spell of your choice from your ancestor's class spell list. When you gain a paladin level, you can choose one of these spells and replace it with another spell from your ancestor's class spell list. See the Sacred Oath class feature for how oath spells work.
-Additionally, you add the [[enhance ability]], [[find steed]], and [[find greater steed]] spells to your oath spells.
+Additionally, you add the [[Enhance Ability]], [[Find Steed]], and [[Find Greater Steed]] spells to your oath spells.
 
 ### Level 3: Channel Divinity
 You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.
 **Ancestral Recall:** As a bonus action, you can use your Channel Divinity to call to mind a great deed of your ancestor. Choose one skill and choose one tool or language that your ancestor was skilled in during their life. For the next 10 minutes, you are proficient in any chosen skill or tool, and your proficiency bonus is doubled for each ability check you make using a chosen proficiency. If you choose a language, you can speak, read, and write that language for the duration.
-**Ancestral Companion:** You call on the spirit of one of your ancestor's most treasured allies, manifesting the spirit as a loyal mount or imbuing an ally with its favor. You cast either [[enhance ability]] or [[find steed]] as an action without expending a spell slot. When you reach 15th level in this class, you add [[find greater steed]] to the list of spells you can cast in this manner.
+**Ancestral Companion:** You call on the spirit of one of your ancestor's most treasured allies, manifesting the spirit as a loyal mount or imbuing an ally with its favor. You cast either [[Enhance Ability]] or [[Find Steed]] as an action without expending a spell slot. When you reach 15th level in this class, you add [[Find Greater Steed]] to the list of spells you can cast in this manner.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
@@ -150,7 +150,7 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 You gain a feature from your Paladin Subclass.
 
 ### Level 15: Exemplar Companion
-While a creature is affected by your [[enhance ability]] spell, or while you control a creature that you summoned, animated, or created with magic, that creature becomes an exemplar companion. Your Aura of the Paragon extends to the area around each exemplar companion as if you were in that creature's space.
+While a creature is affected by your [[Enhance Ability]] spell, or while you control a creature that you summoned, animated, or created with magic, that creature becomes an exemplar companion. Your Aura of the Paragon extends to the area around each exemplar companion as if you were in that creature's space.
 Additionally, when an exemplar companion gains your ancestor's favor, the extra damage it deals increases by 1d4 for each spell level higher than 1st that you expended with your [[Divine Smite]].
 
 ## Level 16: Ability Score Improvement

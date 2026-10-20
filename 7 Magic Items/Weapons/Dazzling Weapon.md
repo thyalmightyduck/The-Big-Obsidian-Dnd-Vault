@@ -38,7 +38,7 @@ Base items. This item variant can be applied to the following base items:
 - [[Greatclub]] ([[Dazzling Greatclub]])
 - [[Greatsword]] ([[Dazzling Greatsword]])
 - [[Halberd]] ([[Dazzling Halberd]])
-- [[Hammer]] ([[Dazzling Hammer]])
+- [[Items/Weapons/Hammer]] ([[Dazzling Hammer]])
 - [[Hand Claws]] ([[Dazzling Hand Claws]])
 - [[Hand Crossbow]] ([[Dazzling Hand Crossbow]])
 - [[Hand Sentira Lens]] ([[Dazzling Hand Sentira Lens]])

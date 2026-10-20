@@ -11,7 +11,7 @@ Owner: [[Jody Wadestein]]
 - [[Sprig of Mistletoe]] _(1 gp)_  
 - Bottle, Glass _(2 gp)_  
 - [[Ink Pen]] _(2 cp)_  
-- [[Vial]] _(1 gp)_  
+- [[Rules/Core Rules/Vial]] _(1 gp)_  
 - Abacus _(2 gp)_  
 - [[Lyre]] _(30 gp)_
 ## Magic Items:

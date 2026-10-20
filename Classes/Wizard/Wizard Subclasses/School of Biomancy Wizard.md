@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -108,13 +108,13 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 | Spell Level | Spells                                                      |
 | ----------- | ----------------------------------------------------------- |
-| 1st         | [[false life]], [[longstrider]]                             |
-| 2nd         | [[alter self]], [[darkvision]], [[spider climb]]            |
-| 3rd         | [[haste]], [[water breathing]]                              |
-| 4th         | [[stoneskin]]                                               |
-| 6th         | [[flesh to stone]]                                          |
-| 7th         | [[simulacrum]]                                              |
-| 9th         | [[shapechange]] |
+| 1st         | [[False Life]], [[Longstrider]]                             |
+| 2nd         | [[Alter Self]], [[darkvision]], [[Spider Climb]]            |
+| 3rd         | [[Haste]], [[Water Breathing]]                              |
+| 4th         | [[Stoneskin]]                                               |
+| 6th         | [[Flesh to Stone]]                                          |
+| 7th         | [[Simulacrum]]                                              |
+| 9th         | [[Shapechange]] |
 ### Level 2: Biostimulation
 You learn to channel biomantic magic into your cells, restoring your vitality When you cast a biomancy spell of 1st level or higher, you can simultaneously redirect a strand of the spell's magic to energize and repair you or your target's body You or your target (your choice) regains a number of hit points equal to twice the spell's level.
 
@@ -132,15 +132,15 @@ You can perform minor surgery on your body, improving yourself in a very literal
 
 - **Amphibisprings:** With enhanced quads and a ratcheting mechanism in your achilles, your jumping distance is tripled.
 - **Extra Appendage:** You gain a prehensile tail or an extra arm, allowing you to hold one more thing and conferring advantage on any ability checks you make to climb.
-- **Detachable Hand:** As an action, you can detach your hand and imbue it with biomantic magic The hand follows the rules of the [[unseen servant]] spell, except it is not [[invisible]] and waits patiently if ever more than 60 feet away from you If your hand is ever reduced to 0 hit points, it is destroyed, and you grow a new one over the course of a short or long rest.
-- **Firefly Skin:** You can cast the [[light]] cantrip at will with yourself as the target As a bonus action, you can flash brightly for a moment; each creature within 5 feet of you that can see you must succeed on a Constitution saving throw against your wizard spell save DC or be [[blinded]] until the end of your next turn. After you use this bonus action, you can't do so again until you finish a short or long rest.
+- **Detachable Hand:** As an action, you can detach your hand and imbue it with biomantic magic The hand follows the rules of the [[Unseen Servant]] spell, except it is not [[invisible]] and waits patiently if ever more than 60 feet away from you If your hand is ever reduced to 0 hit points, it is destroyed, and you grow a new one over the course of a short or long rest.
+- **Firefly Skin:** You can cast the [[Light]] cantrip at will with yourself as the target As a bonus action, you can flash brightly for a moment; each creature within 5 feet of you that can see you must succeed on a Constitution saving throw against your wizard spell save DC or be [[blinded]] until the end of your next turn. After you use this bonus action, you can't do so again until you finish a short or long rest.
 - **Owl Eyes:** You gain darkvision out to a range of 120 feet.
 - **Slime:** You exude slime; checks made to grapple you have disadvantage.
 - **Scales:** Your skin is covered in overlapping scales You gain a +1 bonus to AC when you aren't wearing armour.
 - **Spidersense:** You gain a 1d4 bonus to your initiative rolls.
 - **Talon:** One of your hands is replaced with a wicked giant hawk's talon, a natural weapon that you can use to make unarmed strikes If you hit with it, you deal slashing damage equal to 1d8 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike If you are grappling a creature with this talon, you can automatically deal this damage to the [[grappled]] creature once on each of your turns as a bonus action.
 - **Third Leg:** Your speed increases by 10 feet and you have advantage on ability checks and saving throws made against effects that would knock you [[prone]].
-- **Trimorphism:** You can cast the [[enlarge reduce]] spell on yourself at will (no material components or concentration required).
+- **Trimorphism:** You can cast the [[Enlarge Reduce]] spell on yourself at will (no material components or concentration required).
 
 Your body has enough latent biomantic magic to sustain one improvement at a time When you reach 10th and 14th level, you can sustain up to two and three improvements at a time, respectively If you gain a new improvement while you have your maximum number of sustainable improvements active, you must choose one improvement to lose; this improvement withers away and ceases to function the moment you finish the surgery on your new improvement.
 
@@ -174,7 +174,7 @@ Over the course of 1 hour (which can be done during a rest), you can craft a cap
 1. Your Dexterity score increases to match your Intelligence score if it isn't already higher.
 2. You have advantage on Dexterity checks and saving throws.
 3. Your cantrips with a casting time of 1 action have a casting time of 1 action or 1 bonus action
-4. You gain the benefits of the [[haste]] spell, which can't be dispelled:
+4. You gain the benefits of the [[Haste]] spell, which can't be dispelled:
     
     - Your speed is doubled.
     - You gain a +2 bonus to AC.

@@ -181,7 +181,7 @@ In addition, you can also read and write the languages granted by your Forked To
 As an Architect of Ruin, you access a well of profane magic to cast spells.
 **Cantrips:** You know two cantrips of your choice from the Architect of Ruin spell list (presented at the end of this subclass). You learn an additional cantrip from this list at 10th level.
 **Spell Slots:** The Architect of Ruin Spellcasting table shows how many spell slots you have to cast your illrigger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-For example, if you know the 1st-level spell hellish rebuke and have a 1st-level and a 2nd-level spell slot available, you can cast [[hellish rebuke]] using either slot.
+For example, if you know the 1st-level spell hellish rebuke and have a 1st-level and a 2nd-level spell slot available, you can cast [[Hellish Rebuke]] using either slot.
 **Spells Known of 1st Level and Higher** At 3rd level, you know three 1st-level spells of your choice from the Architect of Ruin spell list (presented at the end of this subclass).
 The Spells Known column of the Architect of Ruin Spellcasting table shows when you learn more illrigger spells of 1st level or higher. Each of these spells must be of a level for which you have spell slots. When you reach 7th level, for example, you learn one new spell of 1st or 2nd level.
 Whenever you gain a level in this class, you can replace one of the illrigger spells you know with another spell of your choice from the illrigger spell list. The new spell must be of a level for which you have spell slots.
@@ -243,7 +243,7 @@ When you or an ally within 30 feet of you succeed on a saving throw against a sp
 ### Spellbreaker
 _Prerequisite: Level 13+ Illrigger (Architect of Ruin)_
 
-When an interdicted creature you can see within 60 feet of you casts a spell, you can use your reaction to burn one or more of the seals on them. When you do, burning the seal deals no damage, and instead you cast [[counterspell]] on them without expending a spell slot. Your spell's level increases by 1 for every additional seal you burn after the first.
+When an interdicted creature you can see within 60 feet of you casts a spell, you can use your reaction to burn one or more of the seals on them. When you do, burning the seal deals no damage, and instead you cast [[Counterspell]] on them without expending a spell slot. Your spell's level increases by 1 for every additional seal you burn after the first.
 
 ## Level 8: Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.

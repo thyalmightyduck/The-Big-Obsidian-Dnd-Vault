@@ -101,8 +101,8 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | ------------- | ----------------------------------------------- |
 | 3rd           | [[Charm Person]], [[Tasha's Hideous Laughter]]   |
 | 5th           | [[Enhance Ability]], [[Hangover]]               |
-| 9th           | [[Create Food And Water]], [[Hypnotic Pattern]] |
-| 13th          | [[Charm Monster]], [[Freedom of Movement]]      |
+| 9th           | [[Create Food and Water]], [[Hypnotic Pattern]] |
+| 13th          | [[Charm Monster]], [[Freedom Of Movement]]      |
 | 17th          | [[Geas]], [[Rary's Telepathic Bond]]            |
 
 ## Level 4: Ability Score Improvement

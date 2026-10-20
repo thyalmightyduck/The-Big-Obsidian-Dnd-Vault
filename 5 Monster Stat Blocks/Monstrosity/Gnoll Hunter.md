@@ -10,7 +10,7 @@ ___
 ## Gnoll Hunter
 *Medium Monstrosity, Typically Chaotic Evil*
 ___
-- **[[Armor Class]]** 13 (*[[leather armor]]*)
+- **[[Armor Class]]** 13 (*[[Leather Armor]]*)
 - **[[Hit Point|Hit Points]]** 22 (4d8 + 4)
 - **[[Speed]]** 30 ft.
 - **[[Initiative]]** +2 (12)

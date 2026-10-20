@@ -43,8 +43,8 @@ ___
 
 ***Spellcasting.*** The neogi casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):  
 
-At will: *[[guidance]]*, *[[mage hand]]*, *[[minor illusion]]*, *[[prestidigitation]]*  
-1/day each: *[[dimension door]]*, *[[hold person]]*, *[[hunger of Hadar]]*  
+At will: *[[Guidance]]*, *[[Mage Hand]]*, *[[Minor Illusion]]*, *[[Prestidigitation]]*  
+1/day each: *[[Dimension Door]]*, *[[Hold Person]]*, *[[Hunger of Hadar]]*  
 
 ***Tentacle of Hadar.*** *Ranged Spell Attack:*  +6 to hit, range 120 ft., one target. *Hit:* 14 (3d6 + 4) necrotic damage, and the target can't take reactions until the end of the neogi's next turn, as a spectral tentacle clings to the target.  
 

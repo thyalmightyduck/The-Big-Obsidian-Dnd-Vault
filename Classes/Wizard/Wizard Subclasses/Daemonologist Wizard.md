@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -114,7 +114,7 @@ Each time you finish a [[Long Rest]], choose whether you are siphoning power fr
 
 | Wizard Level | Spells                      |
 | ------------ | --------------------------- |
-| 3            | [[Bane]], [[Toll the Dead]] |
+| 3            | [[Bane]], [[Toll The Dead]] |
 | 5            | [[Fear]]                    |
 | 7            | [[Dark Sacrament]]          |
 | 9            | [[Geas]]                    |
@@ -124,7 +124,7 @@ Each time you finish a [[Long Rest]], choose whether you are siphoning power fr
 | ------------ | ------------------------------------------------------------------------------ |
 | 3            | [[Aid]], [[Bless]], [[Word of Radiance]]                                       |
 | 5            | [[Revivify]]                                                                   |
-| 7            | [[Guardian of Faith]]                                                          |
+| 7            | [[Guardian Of Faith]]                                                          |
 | 9            | [[Greater Restoration]] |
 ### Level 3: Stolen Secrets
 You have uncovered or stolen secret power from agents of the Arch Daemons and Arch Seraphs. You gain one [[(Eldritch Invocation)]] of your choice.

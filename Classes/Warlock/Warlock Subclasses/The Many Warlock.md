@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -102,11 +102,11 @@ The Many lets you choose from an expanded list of spells when you learn a warloc
 
 | Spell Level | Spells                                     |
 | ----------- | ------------------------------------------ |
-| 1st         | [[entangle]], [[magic missile]]            |
-| 2nd         | [[scorching ray]], [[see invisibility]]    |
-| 3rd         | [[blink]], [[nondetection]]                |
-| 4th         | [[arcane eye]], [[Evard's Black Tentacles]] |
-| 5th         | [[mislead]], [[Rary's Telepathic Bond]]     |
+| 1st         | [[Entangle]], [[Magic Missile]]            |
+| 2nd         | [[Scorching Ray]], [[See Invisibility]]    |
+| 3rd         | [[Blink]], [[Nondetection]]                |
+| 4th         | [[Arcane Eye]], [[Evard's Black Tentacles]] |
+| 5th         | [[Mislead]], [[Rary's Telepathic Bond]]     |
 ### Level 1: Eldritch Heads
 At 1st level, you gain a number of eldritch heads equal to your proficiency bonus. Only you and creatures with truesight can see these heads, which sprout from your shoulders as representations of your patron. You can choose to ignore the heads and cause them to vanish from your vision.
 

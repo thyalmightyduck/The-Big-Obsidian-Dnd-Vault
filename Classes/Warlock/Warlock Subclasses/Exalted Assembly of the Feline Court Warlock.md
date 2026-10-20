@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -110,12 +110,12 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                                                                                      |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | [[Animal Friendship]], [[Cats Spring]], [[Feather Fall]], [[Feline Grace]], [[Misty Step]], [[Speak with Animals]]                          |
+| 3             | [[Animal Friendship]], [[Cats Spring]], [[Feather Fall]], [[Feline Grace]], [[Misty Step]], [[Speak With Animals]]                          |
 | 5             | [[Haste]], [[Phantom Panther]]                                                                                                              |
-| 7             | [[Freedom of Movement]], [[Dimension Door]]                                                                                                 |
+| 7             | [[Freedom Of Movement]], [[Dimension Door]]                                                                                                 |
 | 9             | [[Feline Chaos]], [[Telekinesis]] |
 ### Level 3: Feline Affinity
-You gain the ability to speak with the world's true nobility. You can cast [[Speak with Animals]] without expending a spell slot. When you cast the spell this way, the only Beasts you can verbally communicate with are cats, though most cats are reluctant to converse with a creature as simple as you.
+You gain the ability to speak with the world's true nobility. You can cast [[Speak With Animals]] without expending a spell slot. When you cast the spell this way, the only Beasts you can verbally communicate with are cats, though most cats are reluctant to converse with a creature as simple as you.
 
 ### Level 3: Feline Form
 Your patron takes pity on you and gives you the ability to adopt a superior, more pleasing form. As a [[Bonus Action]], you shape-shift into a Cat, a Tiny Beast. You stay in that form for a number of hours equal to half your Warlock level (rounded down) or until you use this feature again, have the [[Incapacitated]] condition, or die. You can also leave the form early as a [[Bonus Action]]. While in this form, you retain your personality, memories, and ability to speak, and the following rules apply:

@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -96,11 +96,11 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 
 | Spell Level | Spells                                              |
 | ----------- | --------------------------------------------------- |
-| 1st         | [[dissonant whispers]], [[Tasha's Hideous Laughter]] |
-| 2nd         | [[detect thoughts]], [[phantasmal force]]           |
-| 3rd         | [[clairvoyance]], [[sending]]                       |
-| 4th         | [[dominate beast]], [[Evard's Black Tentacles]]      |
-| 5th         | [[dominate person]], [[telekinesis]]                |
+| 1st         | [[Dissonant Whispers]], [[Tasha's Hideous Laughter]] |
+| 2nd         | [[Detect Thoughts]], [[Phantasmal Force]]           |
+| 3rd         | [[Clairvoyance]], [[Sending]]                       |
+| 4th         | [[Dominate Beast]], [[Evard's Black Tentacles]]      |
+| 5th         | [[Dominate Person]], [[Telekinesis]]                |
 ### Level 1: Awakened Mind
 Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
@@ -165,7 +165,7 @@ You gain a level 7 Warlock Spell of your choice.
 You gain a feature from your Warlock subclass.
 
 ### Level 14: Create Thrall
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[incapacitated]] humanoid. That creature is then [[charmed]] by you until a [[remove curse]] spell is cast on it, the [[charmed]] condition is removed from it, or you use this feature again.
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[incapacitated]] humanoid. That creature is then [[charmed]] by you until a [[Remove Curse]] spell is cast on it, the [[charmed]] condition is removed from it, or you use this feature again.
 
 You can communicate telepathically with the [[charmed]] creature as long as the two of you are on the same plane of existence.
 

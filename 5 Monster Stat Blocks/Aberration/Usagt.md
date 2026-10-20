@@ -33,7 +33,7 @@ ___
 
 ***Innate Spellcasting.*** The usagt's innate spellcasting ability is Charisma (spell save DC 15). It can cast the following spells, requiring no spell components:  
 
-At will: *[[banishment]]*, *[[detect thoughts]]*, *[[disguise self]]*  
+At will: *[[Banishment]]*, *[[Detect Thoughts]]*, *[[Disguise Self]]*  
 
 ***Invisibility.*** The usagt's true form is [[Invisible Condition|invisible]].  
 

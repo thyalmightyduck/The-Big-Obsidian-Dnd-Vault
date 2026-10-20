@@ -103,11 +103,11 @@ You gain oath spells at the paladin levels listed in the Oath of the Open Sea Sp
 
 | Paladin Level | Spells                                                                                                                                                                                          |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd           | [[create or destroy water]], [[expeditious retreat]]                                                                                                                                            |
-| 5th           | [[augury]], [[misty step]]                                                                                                                                                                      |
-| 9th           | [[call lightning]], [[freedom of the waves]]*                                                                                                                                                   |
-| 13th          | [[control water]], [[freedom of movement]]                                                                                                                                                      |
-| 17th          | [[commune with nature]], [[freedom of the winds]]* |
+| 3rd           | [[Create Or Destroy Water]], [[Expeditious Retreat]]                                                                                                                                            |
+| 5th           | [[Augury]], [[Misty Step]]                                                                                                                                                                      |
+| 9th           | [[Call Lightning]], [[Freedom of the Waves]]*                                                                                                                                                   |
+| 13th          | [[Control Water]], [[Freedom Of Movement]]                                                                                                                                                      |
+| 17th          | [[Commune with Nature]], [[Freedom of the Winds]]* |
 ### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 **Marine Layer:** As an action, you channel the sea to create a thick cloud of fog that surrounds you for 20 feet in all directions. The fog moves with you, remaining centered on you and making its area heavily obscured. You and each creature within 5 feet of you instead treat the area as lightly obscured. This fog lasts for 10 minutes, spreads around corners, and cannot be dispersed unless you choose to end this effect (no action required).

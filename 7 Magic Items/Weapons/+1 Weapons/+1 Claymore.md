@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon ([[Claymore]]), Uncommon*
+*Weapon ([[Items/Weapons/Claymore]]), Uncommon*
 **Weapon:** 1d8 Piercing Advanced Weapon, Melee Weapon
 **Properties:** Heavy, Two‑Handed
 500 GP, 7 lb.

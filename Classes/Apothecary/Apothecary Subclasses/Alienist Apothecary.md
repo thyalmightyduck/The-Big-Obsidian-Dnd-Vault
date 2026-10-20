@@ -42,7 +42,7 @@
 
 You start with the following items, plus anything provided by your background:
 - (a) a [[Light Crossbow]] and 20 bolts, (b) a [[Shortsword]] or (c) any [[Simple Weapons]]
-- (a) a [[Component Pouch]] or (b) an [[arcane focus]]
+- (a) a [[Component Pouch]] or (b) an [[Rules/Core Rules/Arcane Focus]]
 - (a) a [[Scholar's Pack]] or (b) a [[Dungeoneers Pack]]
 - [[Hide Armor]], any [[Simple Weapons]], and two [[Dagger]]s
 - a [[Healers Kit]]
@@ -58,7 +58,7 @@ When you gain a level in a class other than your first, you gain only some of th
 ## Level 1: Apothecary 
 Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the [[Apothecary Spell List]].
 ### Formula Book
-You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[arcane focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
+You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[Rules/Core Rules/Arcane Focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
 - A large leatherbound tome with yellowing pages bound shut with an iron lock
 - A scattered assortment of scribbled notes loosely held together by rope
 - A pristine journal with perfect edges and beautiful penmanship
@@ -81,7 +81,7 @@ Intelligence is your spellcasting ability for your apothecary spells, since you 
 ### Ritual Casting
 You can cast an apothecary spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 ### Spellcasting Focus
-You can use an [[arcane focus]] as a spellcasting focus for your apothecary spells.
+You can use an [[Rules/Core Rules/Arcane Focus]] as a spellcasting focus for your apothecary spells.
 
 ## Level 1: Occult Practice
 At 1st level, you take up one of the Occult Practices, a chosen discipline which defines your ongoing research of the body and spirit: the Alienist, the Chemist, the Exorcist, the Mutagenist, the Pathogenist, or the Reanimator.
@@ -90,7 +90,7 @@ Your choice grants you additional proficiencies and an expanded spell list at 1s
 An Alienist seeks to master the mysteries of the mind. Having devoted years to studying the inner workings of the brain, and unlocking its latent potential, an Alienist is able to read and manipulate the thoughts of others, and bend reality itself. They tap into unfathomable realities and shift the world to their will using the psychic energies they call upon from eldritch lore and arcane knowledge.
 
 #### Level 1: Advanced Psychology
-You learn the [[eldritch blast]] cantrip. You gain proficiency in the Arcana skill. If you already have this proficiency, you gain proficiency with another skill of your choice.
+You learn the [[Eldritch Blast]] cantrip. You gain proficiency in the Arcana skill. If you already have this proficiency, you gain proficiency with another skill of your choice.
 
 #### Level 1: Alienist Spells
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Alienist Spells table. These spells count as apothecary spells for you, but they don't count against the number of apothecary spells you prepare.
@@ -98,11 +98,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Apothecary Level | Spell                                         |
 | ---------------- | --------------------------------------------- |
-| 1st              | [[charm person]], [[Tasha's Hideous Laughter]] |
-| 3rd              | [[detect thoughts]], [[suggestion]]           |
-| 5th              | [[hypnotic pattern]], [[major image]]         |
-| 7th              | [[arcane eye]], [[dimension door]]            |
-| 9th              | [[animate objects]], [[modify memory]]        |
+| 1st              | [[Charm Person]], [[Tasha's Hideous Laughter]] |
+| 3rd              | [[Detect Thoughts]], [[Suggestion]]           |
+| 5th              | [[Hypnotic Pattern]], [[Major Image]]         |
+| 7th              | [[Arcane Eye]], [[Dimension Door]]            |
+| 9th              | [[Animate Objects]], [[Modify Memory]]        |
 
 ## Level 2: Esoteric Theories
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
@@ -173,7 +173,7 @@ You can cast this Greater Formula once without expending a spell slot. You must 
 ## Level 18: Occult Practice Feature
 At 18th level, you gain a feature granted by your chosen discipline.
 #### Level 18: Impenetrable Mind
-You are resistant to psychic damage and immune to being [[charmed]] or [[frightened]]. Magic cannot put you to sleep and you have advantage on [[Saving Throw|saving throws]] against spells that attempt to read your thoughts or control your mind or actions, such as [[dominate person]]. Additionally, when you use the Self-Diagnosis feature to regain Psychic Points using a spell slot, you now regain Psychic Points equal to the spell's level.
+You are resistant to psychic damage and immune to being [[charmed]] or [[frightened]]. Magic cannot put you to sleep and you have advantage on [[Saving Throw|saving throws]] against spells that attempt to read your thoughts or control your mind or actions, such as [[Dominate Person]]. Additionally, when you use the Self-Diagnosis feature to regain Psychic Points using a spell slot, you now regain Psychic Points equal to the spell's level.
 
 ## Level 19: Additional Greater Formula (6th)
 At 19th level, you discover a magical secret called a Greater Formula. Choose one additional 6th-level spell from the [[Apothecary Spell List]] as this formula.

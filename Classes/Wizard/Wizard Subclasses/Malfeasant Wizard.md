@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -128,7 +128,7 @@ When determining which Symptoms apply to you as a result of gaining Eldritch Con
 
 In the same manner, when checking to see if you develop a mutation when you gain a new Contamination Level, you are treated as having a number of Contamination Levels equal to half your current Contamination Level instead, rounded down. For example, if you gained 4 Contamination Levels, you would only develop a new mutation if the result of the 1d6 roll is 2 or lower.
 
-Note that if you have six or more contamination levels, being subject to the [[purge contamination]] spell will cause you to gain six (or more) levels of exhaustion, and you'll die as a result.
+Note that if you have six or more contamination levels, being subject to the [[Purge Contamination]] spell will cause you to gain six (or more) levels of exhaustion, and you'll die as a result.
 
 ### Level 6: Expel Contaminants
 You've discovered an arcane method to safely discharge eldritch pollutants from your own body. Whenever you finish a long rest, you can reduce your Contamination Level by an amount equal to half your proficiency bonus (rounded down).

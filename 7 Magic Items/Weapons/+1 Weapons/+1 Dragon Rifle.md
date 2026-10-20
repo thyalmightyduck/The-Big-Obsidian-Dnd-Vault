@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Dragon Rifle]], Uncommon*
+*Weapon [[Items/Weapons/Dragon Rifle]], Uncommon*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 30 ft.; Dragon Shot), Blackpowder, Loading
 750 GP, 4 lb.

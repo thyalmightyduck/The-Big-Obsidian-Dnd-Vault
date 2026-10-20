@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -106,11 +106,11 @@ You gain domain spells at the cleric levels listed in the Festus Domain Spells t
 
 | Cleric Level | Spells                                                                                                           |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
-| 1st          | [[goodberry]], [[purify food and drink]]                                                                         |
-| 3rd          | [[heat metal]], [[protection from poison]]                                                                       |
-| 5th          | [[create food and water]], [[stinking cloud]]                                                                    |
-| 7th          | [[blight]], [[control water]]                                                                                    |
-| 9th          | [[cloudkill]], [[contagion]] |
+| 1st          | [[Goodberry]], [[Purify Food and Drink]]                                                                         |
+| 3rd          | [[Heat Metal]], [[Protection From Poison]]                                                                       |
+| 5th          | [[Create Food and Water]], [[Stinking Cloud]]                                                                    |
+| 7th          | [[Blight]], [[Control Water]]                                                                                    |
+| 9th          | [[Cloudkill]], [[Contagion]] |
 
 ### Level 1: Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with heavy armor, martial weapons, [[Brewers Supplies]], and [[Cooks Utensils]].
@@ -135,7 +135,7 @@ You gain a feature from your Cleric Subclass.
 ### Level 6: Strong Stomach
 Starting at 6th level, your divinity and magically enhanced constitution have strengthened your natural defenses. You have advantage on saving throws against poison, and you have resistance to acid and poison damage.
 
-In addition, whenever you cast the [[create food and water]] spell, the food tastes delicious, and you can choose to replace up to 5 gallons of the water created by the spell with ale or wine. You choose what the food and ale or wine look and taste like.
+In addition, whenever you cast the [[Create Food and Water]] spell, the food tastes delicious, and you can choose to replace up to 5 gallons of the water created by the spell with ale or wine. You choose what the food and ale or wine look and taste like.
 
 Finally, if you're drunk or [[poisoned]], you can use an action to magically suppress the effect for 1 minute. Once you use this feature, you can't use it again until you finish a long rest.
 

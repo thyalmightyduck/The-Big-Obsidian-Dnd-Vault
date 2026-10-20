@@ -102,7 +102,7 @@ Monks who follow the Way of the Prophet refuse to cloister the wisdom they have 
 When you choose this tradition at 3rd level, you gain proficiency in the [[Performance]] and [[Persuasion]] skills. Additionally, whenever you roll an ability check using a Charisma-based skill, you can use your Wisdom modifier instead of your Charisma modifier.
 
 ### Level 2: Charming Aura
-Additionally, when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend a ki point to cast [[charm person]] or [[command]], or you can expend 2 ki points to cast [[suggestion]].
+Additionally, when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend a ki point to cast [[Charm Person]] or [[Command]], or you can expend 2 ki points to cast [[Suggestion]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.

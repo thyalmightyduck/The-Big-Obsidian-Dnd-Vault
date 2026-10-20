@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapoon [[Knightly Sword]], Uncommon*
+*Weapoon [[Items/Weapons/Knightly Sword]], Uncommon*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Versatile (1d10)
 750 GP, 3 lb.

@@ -120,7 +120,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Level 7: Peacebringer
 Whenever you deal damage with a weapon or an [[Unarmed Strike]], it can deal your choice of Radiant damage or its normal damage type.
-In addition, you always have the [[Calm Emotions]] and [[Sanctuary]] spells prepared. Your spellcasting ability for them is Charisma, and you can cast them without needing Somatic or Material components. With this feature, you can cast each of these spells without expending a spell slot. Once you cast a spell with this feature, you can't cast that spell in this way again until you finish a [[Short Rest]] or [[Long Rest]].
+In addition, you always have the [[Calm Emotions]] and [[Spells/Level 1/Sanctuary]] spells prepared. Your spellcasting ability for them is Charisma, and you can cast them without needing Somatic or Material components. With this feature, you can cast each of these spells without expending a spell slot. Once you cast a spell with this feature, you can't cast that spell in this way again until you finish a [[Short Rest]] or [[Long Rest]].
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.

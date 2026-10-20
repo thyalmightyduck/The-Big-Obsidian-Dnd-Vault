@@ -8,7 +8,7 @@ tags:
 8 lb.
 **Mastery:** Slow
 
-You have a +1 bonus to attack and damage rolls made with this [[magic weapon]].
+You have a +1 bonus to attack and damage rolls made with this [[Magic Weapon]].
 
 **Range.** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
 

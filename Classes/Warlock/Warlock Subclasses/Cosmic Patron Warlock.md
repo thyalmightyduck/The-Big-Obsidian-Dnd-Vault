@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -102,11 +102,11 @@ The Cosmos lets you choose from an expanded list of spells when you learn a warl
 
 | Spell Level | Spell                                     |
 | ----------- | ----------------------------------------- |
-| 1st         | [[magic missile]], [[faerie fire]]        |
-| 2nd         | [[moonbeam]], [[scorching ray]]           |
-| 3rd         | [[blink]], [[spirit guardians]]           |
-| 4th         | [[fire shield]], [[wall of fire]]         |
-| 5th         | [[flame strike]], [[greater restoration]] |
+| 1st         | [[Magic Missile]], [[Faerie Fire]]        |
+| 2nd         | [[Moonbeam]], [[Scorching Ray]]           |
+| 3rd         | [[Blink]], [[Spirit Guardians]]           |
+| 4th         | [[Fire Shield]], [[Wall Of Fire]]         |
+| 5th         | [[Flame Strike]], [[Greater Restoration]] |
 ### Level 1: Cosmic Attributes
 You take on an otherworldly cosmic appearance or essence. Choose one or more of the attributes listed below, decide your own, or roll randomly to determine how the cosmic powers bestowed into you take form.
 
@@ -119,10 +119,10 @@ You take on an otherworldly cosmic appearance or essence. Choose one or more of 
 |5|You develop a third eye in the middle of your forehead that is unblinking, and seems to pierce into people's minds as it stares upon them.|
 |6|Your veins glow with a soft radiant light, giving you the appearance of a walking constellation of stars and cosmic energy.|
 ### Level 1: Shooting Stars
-Beginning at first level, you learn the [[eldritch blast]] cantrip if you don't know it already. It doesn't count against the number of warlock cantrips you know. When you cast [[eldritch blast]], you can have it deal radiant damage instead of force damage.
+Beginning at first level, you learn the [[Eldritch Blast]] cantrip if you don't know it already. It doesn't count against the number of warlock cantrips you know. When you cast [[Eldritch Blast]], you can have it deal radiant damage instead of force damage.
 
 ### Level 1: Cosmic Guidance
-You can speak, read, and write Celestial and Deep Speech. In addition, you learn the [[guidance]] cantrip. It doesn't count against the number of warlock cantrips you know. Additionally, you may cast the spell [[augury]] once without expending a spell slot. You can't do so again until you finish a long rest.
+You can speak, read, and write Celestial and Deep Speech. In addition, you learn the [[Guidance]] cantrip. It doesn't count against the number of warlock cantrips you know. Additionally, you may cast the spell [[Augury]] once without expending a spell slot. You can't do so again until you finish a long rest.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
@@ -131,9 +131,9 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 You gain a feature from your Warlock subclass.
 
 ### Level 6: Orbit
-Once per turn when you miss a creature with [[eldritch blast]], the beam returns to you as an orbiting comet around your head. While you have an orbiting comet, you can absorb its energy to do the following:
+Once per turn when you miss a creature with [[Eldritch Blast]], the beam returns to you as an orbiting comet around your head. While you have an orbiting comet, you can absorb its energy to do the following:
 
-- **Cosmic Power.** Once on your turn when you cast [[eldritch blast]], you can consume one orbiting comet to fire an additional beam.
+- **Cosmic Power.** Once on your turn when you cast [[Eldritch Blast]], you can consume one orbiting comet to fire an additional beam.
 - **Interception.** You can use your reaction to intercept a melee or ranged attack, gaining resistance to the damage from that attack.
 - **Lightspeed.** As a bonus action, you can consume a comet to teleport 30 feet to an unoccupied space you can see.
 
@@ -151,7 +151,7 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 You gain a feature from your Warlock subclass.
 
 ### Level 10: Meteoric Impact
-Once per turn when you hit a creature with [[eldritch blast]], you can cause the beam to explode. Each creature within 10 feet of the target must succeed on a Dexterity saving throw or take 3d6 fire damage.
+Once per turn when you hit a creature with [[Eldritch Blast]], you can cause the beam to explode. Each creature within 10 feet of the target must succeed on a Dexterity saving throw or take 3d6 fire damage.
 
 The damage increases to 4d6 damage at 14th level, and to 5d6 damage at 17th level.
 
@@ -176,8 +176,8 @@ You gain a feature from your Warlock subclass.
 ### Level 14: Supernova
 Charged by the energy of the stars, you gain additional benefits from the otherworldly entities lurking in the deep void of space.
 
-- When you cast [[eldritch blast]], you can fire one additional beam.
-- Whenever you score a critical hit with [[eldritch blast]], you can use your Meteoric Impact feature an additional time that turn.
+- When you cast [[Eldritch Blast]], you can fire one additional beam.
+- Whenever you score a critical hit with [[Eldritch Blast]], you can use your Meteoric Impact feature an additional time that turn.
 
 ## Level 15: Mystic Arcanum
 You gain a level 8 Warlock Spell of your choice.

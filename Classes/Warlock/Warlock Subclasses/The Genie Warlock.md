@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -116,12 +116,12 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Genie Spells                                  | Dao Spells          | Djinni Spells            | Efreeti Spells    | Marid Spells      |     |
 | ----------- | --------------------------------------------- | ------------------- | ------------------------ | ----------------- | ----------------- | --- |
-| 1st         | [[detect evil and good]]                      | [[sanctuary]]       | [[thunderwave]]          | [[burning hands]] | [[fog cloud]]     |     |
-| 2nd         | [[phantasmal force]]                          | [[spike growth]]    | [[gust of wind]]         | [[scorching ray]] | [[blur]]          |     |
-| 3rd         | [[create food and water]]                     | [[meld into stone]] | [[wind wall]]            | [[fireball]]      | [[sleet storm]]   |     |
-| 4th         | [[phantasmal killer]]                         | [[stone shape]]     | [[greater invisibility]] | [[fire shield]]   | [[control water]] |     |
-| 5th         | [[creation]]                                  | [[wall of stone]]   | [[seeming]]              | [[flame strike]]  | [[cone of cold]]  |     |
-| 9th         | [[wish]] | —                   | —                        | —                 | —                 |     |
+| 1st         | [[Detect Evil And Good]]                      | [[Spells/Level 1/Sanctuary]]       | [[Thunderwave]]          | [[Burning Hands]] | [[Fog Cloud]]     |     |
+| 2nd         | [[Phantasmal Force]]                          | [[Spike Growth]]    | [[Gust Of Wind]]         | [[Scorching Ray]] | [[Blur]]          |     |
+| 3rd         | [[Create Food and Water]]                     | [[Meld into Stone]] | [[Wind Wall]]            | [[Fireball]]      | [[Sleet Storm]]   |     |
+| 4th         | [[Phantasmal Killer]]                         | [[Stone Shape]]     | [[Greater Invisibility]] | [[Fire Shield]]   | [[Control Water]] |     |
+| 5th         | [[Creation]]                                  | [[Wall of Stone]]   | [[Seeming]]              | [[Flame Strike]]  | [[Cone of Cold]]  |     |
+| 9th         | [[Wish]] | —                   | —                        | —                 | —                 |     |
 ### Genie's Vessel
 _1st-level Genie feature_
 

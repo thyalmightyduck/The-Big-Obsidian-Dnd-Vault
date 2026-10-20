@@ -26,7 +26,7 @@ ___
 - **[[Proficiency Bonus]]** +2
 ___
 ### Traits
-***Alternate Forms.*** The gingwatzim has two alternate forms, both of which are chosen by its creator when the gingwatzim comes into being. One form is an exact duplicate of a Tiny nonmagical object (such as a [[book]], [[dagger]], or gemstone) that its creator is carrying or wearing when the gingwatzim is conjured. The other form can be any Tiny beast. Once these alternate forms are chosen, they can't be changed.  
+***Alternate Forms.*** The gingwatzim has two alternate forms, both of which are chosen by its creator when the gingwatzim comes into being. One form is an exact duplicate of a Tiny nonmagical object (such as a [[Book]], [[Dagger]], or gemstone) that its creator is carrying or wearing when the gingwatzim is conjured. The other form can be any Tiny beast. Once these alternate forms are chosen, they can't be changed.  
 
 ### Actions
 ***Energy Drain (True Form Only).*** *Melee Weapon Attack:*  +4 to hit, reach 5 ft., one creature. *Hit:* 16 (4d6 + 2) necrotic damage, and the target must succeed on a DC 12 Constitution [[saving throw]] or gain 1 level of [[exhaustion]]. When the target finishes a short or [[long rest]], the target loses every level of [[exhaustion]] gained from this attack.  

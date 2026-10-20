@@ -64,12 +64,12 @@ You become bonded to a companion that accompanies you on your adventures and i
 If a vessel is broken, or a companion is released from its vessel for any other reason, the creature within it ceases to be a tamer's companion. It acts according to its own wishes and retains any improvements it gained while a companion.
 
 ##### Home Planes
-Some magical effects, like the [[banishment]] spell, have the ability to permanently banish a creature back to its home plane. When a creature becomes your companion, its home plane becomes the demiplane within its vessel. If the companion becomes permanently banished by such a spell, it simply reappears in this vessel.
+Some magical effects, like the [[Banishment]] spell, have the ability to permanently banish a creature back to its home plane. When a creature becomes your companion, its home plane becomes the demiplane within its vessel. If the companion becomes permanently banished by such a spell, it simply reappears in this vessel.
 
 **Summoning.** As an action, you can summon your companion from this vessel, causing it to appear in an unoccupied space that you can see within 30 feet of you, or any unoccupied space within 5 feet of you. You can dismiss a companion within 30 feet of you as a bonus action or action, drawing it back into its vessel. To summon or dismiss a companion, you must be holding its vessel in hand. You can only have one companion summoned at a time.
 
 #### Dominated Companions
-A companion that is controlled by another creature, such as by the [[dominate monster]] spell, can try to resist being recalled into its vessel. When you try to recall such a creature into its vessel, it can make make a Charisma saving throw against yourtamer spell save DC. On a failed saving throw, it is recalled, while on a success, it is not.
+A companion that is controlled by another creature, such as by the [[Dominate Monster]] spell, can try to resist being recalled into its vessel. When you try to recall such a creature into its vessel, it can make make a Charisma saving throw against yourtamer spell save DC. On a failed saving throw, it is recalled, while on a success, it is not.
 **Combat.** In combat, your companion shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action or action on your turn to command it to take a different action. That action can be one in its statistics or some other action. If you are [[incapacitated]], the companion can take any action of its choice, not just Dodge. Your companion can't take the Multiattack action until you reach 5th level in this class, even if it would otherwise be able to.
 **Rest.** A companion gains the benefits of a long rest when its tamer finish a long rest; if it has at least 1 hit point, it regains all its hit points when you finish a long rest. Unlike other creatures, a companion can't spend its own Hit Dice to recover hit points at the end of a short rest. See the Soul Bond feature for details on recovering hit points.
 **Items.** Armour, barding, and weapons can be equipped to enhance your companion. A companion can wear or carry any equipment that their size and body shape permits. However, your companion must be proficient with the armour or weapon to make full use of it. If your companion wears armour that it lacks proficiency with, it has disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity. A companion that is not proficient with a weapon type does not add its proficiency bonus to attack rolls made with that weapon type.
@@ -223,7 +223,7 @@ Cantrips. At 1st level, you know 2 cantrips of your choice from the tamer spel
 
 **Spell Slots.** The Tamer table shows how many spell slots you have to cast your tamer spells of 1st level and higher. To cast one of these tamer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[animal friendship]] using either slot.
+For example, if you know the 1st-level spell [[Animal Friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Animal Friendship]] using either slot.
 
 **Spells Known of 1st Level and Higher.** You know two 1st-level spells of your choice from the tamer spell list.
 
@@ -276,11 +276,11 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Tamer Level | Spells                                                                                                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd         | [[divine favor]], [[protection from evil and good]]                                                                                                              |
-| 5th         | [[inequality]], [[warding bond]]                                                                                                                                 |
-| 9th         | [[beacon of hope]], [[haste]]                                                                                                                                    |
-| 13th        | [[death ward]], [[freedom of movement]]                                                                                                                          |
-| 17th        | [[dispel evil and good]], [[endure]] |
+| 3rd         | [[Divine Favor]], [[Protection From Evil And Good]]                                                                                                              |
+| 5th         | [[Inequality]], [[Warding Bond]]                                                                                                                                 |
+| 9th         | [[Beacon of Hope]], [[Haste]]                                                                                                                                    |
+| 13th        | [[Death Ward]], [[Freedom Of Movement]]                                                                                                                          |
+| 17th        | [[Dispel Evil And Good]], [[Endure]] |
 
 ## Level 4: Ability Score Improvement
 When you reach 4th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.

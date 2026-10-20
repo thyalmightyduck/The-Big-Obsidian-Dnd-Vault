@@ -102,11 +102,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells                                                                                                                 |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 3rd           | [[command]], [[compelled duel]]                                                                                        |
-| 5th           | [[warding bond]], [[zone of truth]]                                                                                    |
-| 9th           | [[aura of vitality]], [[spirit guardians]]                                                                             |
-| 13th          | [[banishment]], [[guardian of faith]]                                                                                  |
-| 17th          | [[circle of power]], [[geas]] |
+| 3rd           | [[Command]], [[Compelled Duel]]                                                                                        |
+| 5th           | [[Warding Bond]], [[Zone of Truth]]                                                                                    |
+| 9th           | [[Aura of Vitality]], [[Spirit Guardians]]                                                                             |
+| 13th          | [[Banishment]], [[Guardian Of Faith]]                                                                                  |
+| 17th          | [[Circle of Power]], [[Geas]] |
 ### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 **Champion Challenge:** As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are [[incapacitated]] or die or if the creature is more than 30 feet away from you.

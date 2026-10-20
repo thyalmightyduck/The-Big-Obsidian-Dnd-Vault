@@ -12,7 +12,7 @@ PlotHook: Is looking for a lost friend
 - Identify a Magic Item _(100 gp)_  
 - [[Yew Wand]] _(10 gp)_  
 - Wand _(10 gp)_  
-- [[Vial]] _(1 gp)_  
+- [[Rules/Core Rules/Vial]] _(1 gp)_  
 - [[Pouch]] _(5 sp)_  
 - [[Candle]] _(1 cp)_  
 - [[Calligraphers Supplies]] _(10 gp)_  

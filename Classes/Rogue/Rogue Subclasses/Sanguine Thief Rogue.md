@@ -95,7 +95,7 @@ When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Sanguine Thief Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Sanguine Thief Spellcasting table. The chosen spells must be of a level for which you have spell slots.
 **Changing Your Prepared Spells:** Whenever you gain a Rogue level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 **Spellcasting Ability:** Intelligence is your spellcasting ability for your Wizard spells.
-**Spellcasting Focus:** You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spells.
+**Spellcasting Focus:** You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spells.
 
 ### Level 3: Stolen Power
 You draw magic from blood. It is represented by your Sangromancy Dice, which fuel powers you have from this subclass. You have a pool of d8s that you can use on Sanguine Thief features. The number of damage dice in the pool equals the number of damage dice as shown in the Sneak Attack column of the Rogue Features table. You can't have more Sangromancy Dice than the number of damage dice shown in the Sneak Attack column for your level, unless you have Sangromancy Dice from a different source.

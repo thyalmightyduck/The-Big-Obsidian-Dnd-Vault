@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -175,11 +175,11 @@ When you gain a level in this class, you can replace one spell you gained from t
 
 | Sorcerer Level | Spells                                                                                                                                     |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st            | [[longstrider]], [[protection from evil and good]]                                                                                         |
-| 3rd            | [[lesser restoration]], [[protection from poison]]                                                                                         |
-| 5th            | [[glyph of warding]], [[magic circle]]                                                                                                     |
-| 7th            | [[death ward]], [[freedom of movement]]                                                                                                    |
-| 9th            | [[greater restoration]], [[telekinesis]] |
+| 1st            | [[Longstrider]], [[Protection From Evil And Good]]                                                                                         |
+| 3rd            | [[Lesser Restoration]], [[Protection From Poison]]                                                                                         |
+| 5th            | [[Glyph Of Warding]], [[Magic Circle]]                                                                                                     |
+| 7th            | [[Death Ward]], [[Freedom Of Movement]]                                                                                                    |
+| 9th            | [[Greater Restoration]], [[Telekinesis]] |
 ### Glyph of Aegis
 Starting at 1st level, you can release the stored arcane power within your runes to absorb or deflect threatening attacks. Whenever you take damage, you can expend any number of charged runes as a reaction. Roll a number of d6s equal to the number of runes you expended, and reduce the damage by the total.
 

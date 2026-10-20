@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon ([[Composite Longbow]]), Uncommon*
+*Weapon ([[Items/Weapons/Composite Longbow]]), Uncommon*
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 150/600ft.; Arrow), Heavy, Two-Handed
 50 GP 2lbs

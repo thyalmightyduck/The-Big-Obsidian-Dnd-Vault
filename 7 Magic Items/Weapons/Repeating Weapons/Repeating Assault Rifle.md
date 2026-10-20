@@ -4,7 +4,7 @@ tags:
 ---
 _Uncommon (Requires [[Attunement]]_
 **Weapon:** 2d6 Piercing Martial Weapon, Ranged Weapon, Firearm
-**Properties:** Ammunition (Range 80/320ft.; [[Bullet]]), Firearm, Modern Era, Two-Handed
+**Properties:** Ammunition (Range 80/320ft.; [[Items/Weapons/Bullet]]), Firearm, Modern Era, Two-Handed
 300 GP 7lbs
 **Mastery:** Automatic
 

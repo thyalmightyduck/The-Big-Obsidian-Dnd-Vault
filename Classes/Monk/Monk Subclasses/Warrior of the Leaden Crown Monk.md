@@ -105,7 +105,7 @@ Your martial arts are enhanced by a capacity for telekinetic strikes. During you
 
 ### Level 3: Psionic Prowess
 Your psychic powers have manifested in the ability to cast certain spells. You know the [[Mage Hand]] cantrip. You can cast it without Verbal or Somatic components, and you can make the spectral hand [[Invisible]].
-In addition, you can cast certain spells by expending Focus Points. You can take a [[Magic action]] and expend 1 Focus Point to cast [[Detect Evil and Good]] or [[Protection from Evil and Good]]. You can also take a [[Magic action]] and expend 2 Focus Points to cast [[Hold Person]], [[Levitate]], or [[Shatter]]. Wisdom is your spellcasting ability for these spells, and you can cast them without Material components.
+In addition, you can cast certain spells by expending Focus Points. You can take a [[Magic action]] and expend 1 Focus Point to cast [[Detect Evil And Good]] or [[Protection From Evil And Good]]. You can also take a [[Magic action]] and expend 2 Focus Points to cast [[Hold Person]], [[Levitate]], or [[Shatter]]. Wisdom is your spellcasting ability for these spells, and you can cast them without Material components.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
@@ -180,7 +180,7 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 You gain a feature from your Monk subclass.
 
 ### Level 17: Psionic Mastery
-After much training, you have mastered the psionic disciplines necessary to defend mortals from planar threats. As a [[Magic action]], you can spend 5 Focus Points to cast [[Dispel Evil and Good]], [[Hold Monster]], [[Telekinesis]], or [[Wall of Force]]. Wisdom is your spellcasting ability for these spells, and you can cast them without Material components.
+After much training, you have mastered the psionic disciplines necessary to defend mortals from planar threats. As a [[Magic action]], you can spend 5 Focus Points to cast [[Dispel Evil And Good]], [[Hold Monster]], [[Telekinesis]], or [[Wall of Force]]. Wisdom is your spellcasting ability for these spells, and you can cast them without Material components.
 
 ## Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Rules/Core Rules/Resistance]] to all damage except Force damage.

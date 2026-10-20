@@ -107,7 +107,7 @@ The effects of your mystic marks are enhanced by your greater understanding of t
 **Enspell.** Once per turn when you miss a creature with a weapon[[Unarmed Strike| or Unarmed St]]rike, you can make the attack roll again with [[Advantage]]. You must use the new result.
 
 ### Level 3: Sidereal Cabal Magic
-You can use an Astrolabe or [[Arcane Focus]] as a [[Spellcasting Focus]] for your Magus spells.
+You can use an Astrolabe or [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Magus spells.
 
 In addition, your training in the Sidereal Cabal ensures you always have certain spells ready; when you reach a Magus level specified in the Sidereal Cabal Spells table, you thereafter always have the listed spells prepared.
 

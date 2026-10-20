@@ -10,7 +10,7 @@ ___
 ## Voiceless Talker Operative
 *Medium Aberration ([[Voiceless Talker]], Retainer); Any Alignment*
 ___
-- **[[Armor Class]]** 15 ([[medium armor]])
+- **[[Armor Class]]** 15 ([[Medium Armor]])
 - **[[Hit Point|Hit Points]]** Seven times their level (number of d8 [[Hit Point Dice|Hit Dice]] equal to their level)
 - **[[Speed]]** 30 ft.
 - **[[Initiative]]** +1 (11)

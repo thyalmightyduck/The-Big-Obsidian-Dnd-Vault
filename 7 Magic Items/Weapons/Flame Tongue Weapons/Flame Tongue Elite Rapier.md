@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Elite Rapier]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Elite Rapier]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Finesse
 500 GP, 2 lb.

@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Flame Bellows]], Uncommon*
+*Weapon [[Items/Weapons/Flame Bellows]], Uncommon*
 **Weapon:** 2d6 Fire Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 15 ft.; Bellows Cannister), Cumbersome, Loading, Magazine (20), Two‑Handed
 750 GP, 11 lb.

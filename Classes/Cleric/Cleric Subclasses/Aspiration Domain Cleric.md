@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -105,11 +105,11 @@ You gain domain spells at the cleric levels listed in the Aspiration Domain Spel
 
 | Cleric Level | Spells                                                                                                                       |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1st          | [[detect magic]], [[illusory script]]                                                                                        |
-| 3rd          | [[augury]], [[detect thoughts]]                                                                                              |
-| 5th          | [[clairvoyance]], [[Shadow's echo]]                                                                                          |
-| 7th          | [[divination]], [[shadow of Moil]]                                                                                           |
-| 9th          | [[circle of power]], [[scrying]] |
+| 1st          | [[Detect Magic]], [[Illusory Script]]                                                                                        |
+| 3rd          | [[Augury]], [[Detect Thoughts]]                                                                                              |
+| 5th          | [[Clairvoyance]], [[Shadow's Echo]]                                                                                          |
+| 7th          | [[Divination]], [[Shadow of Moil]]                                                                                           |
+| 9th          | [[Circle of Power]], [[Scrying]] |
 ### Level 1: Dark Revelations
 Your divine studies have revealed a wealth of knowledge to you. You gain proficiency in one skill or tool of your choice, and your proficiency bonus is doubled for any ability check you make using that skill or tool. Whenever you finish a long rest, you can change the proficiency granted by this feature to another skill or tool.
 

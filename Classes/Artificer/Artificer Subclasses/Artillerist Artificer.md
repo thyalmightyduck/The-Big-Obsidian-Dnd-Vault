@@ -114,7 +114,7 @@ As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one ite
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
-- [[Vial]]
+- [[Rules/Core Rules/Vial]]
 
 See the rules for the item in the Player's Handbook. The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
@@ -231,10 +231,10 @@ You gain an Artificer subclass of your choice. The [[Alchemist Artificer]], [[
 ### Artillerist
 An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power was valued by all the armies of the Last War. Now that the war is over, some members of this specialization have sought to build a more peaceful world by using their powers to fight the resurgence of strife in Khorvaire.
 
-The [[gnome]] artificer Vi, an unlikely yet key member of House Cannith's [[warforged]] project, has been especially vocal about making things right: "It's about time we fixed things instead of blowing them all to hell."
+The [[Gnome]] artificer Vi, an unlikely yet key member of House Cannith's [[Warforged]] project, has been especially vocal about making things right: "It's about time we fixed things instead of blowing them all to hell."
 
 ### Tool [[Proficiency]]
-When you adopt this specialization at 3rd level, you gain [[proficiency]] with [[woodcarver's tools]]. If you already have this [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
+When you adopt this specialization at 3rd level, you gain [[proficiency]] with [[Woodcarver's Tools]]. If you already have this [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
 
 ### Artillerist Spells
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
@@ -243,17 +243,17 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 | Artificer Level | Spell                               |
 | --------------- | ----------------------------------- |
-| 3rd             | [[Shield]], [[thunderwave]]         |
-| 5th             | [[scorching ray]], [[Shatter]]      |
-| 9th             | [[fireball]], [[Wind Wall]]         |
-| 13th            | [[ice storm]], [[wall of fire]]     |
-| 17th            | [[cone of cold]], [[wall of force]] |
+| 3rd             | [[Shield]], [[Thunderwave]]         |
+| 5th             | [[Scorching Ray]], [[Shatter]]      |
+| 9th             | [[Fireball]], [[Wind Wall]]         |
+| 13th            | [[Ice Storm]], [[Wall Of Fire]]     |
+| 17th            | [[Cone of Cold]], [[Wall of Force]] |
 ### Eldritch Cannon
-At 3rd level, you learn how to create a magical cannon. Using [[woodcarver's tools]] or [[Smiths Tools]], you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.
+At 3rd level, you learn how to create a magical cannon. Using [[Woodcarver's Tools]] or [[Smiths Tools]], you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.
 
 Once you create a cannon, you can't do so again until you finish a [[long rest]] or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.
 
-The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of [[Hit Point]] equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an [[ability check]] or a [[saving throw]], treat all its ability scores as 10 (+0). If the [[mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. It disappears if it is reduced to 0 [[Hit Point]] or after 1 hour. You can dismiss it early as an action.
+The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of [[Hit Point]] equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an [[ability check]] or a [[saving throw]], treat all its ability scores as 10 (+0). If the [[Mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. It disappears if it is reduced to 0 [[Hit Point]] or after 1 hour. You can dismiss it early as an action.
 
 When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a [[bonus action]] to cause the cannon to activate if you are within 60 feet of it. As part of the same [[bonus action]], you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
 
@@ -273,7 +273,7 @@ You gain the Ability Score Improvement feat or another [[feat]] of your choice
 You gain a feature from your Artificer Subclass.
 
 ### Arcane Firearm
-At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a [[long rest]], you can use [[woodcarver's tools]] to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a [[long rest]], you can use [[Woodcarver's Tools]] to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
 
 You can use your arcane firearm as a [[spellcasting focus]] for your artificer spells. When you cast an artificer spell through the firearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 

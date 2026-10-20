@@ -145,11 +145,11 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Spells                                               |
 | ----------- | ---------------------------------------------------- |
-| 2nd         | [[bane]], [[false life]]                             |
+| 2nd         | [[Bane]], [[False Life]]                             |
 | 3rd         | [[darkness]], [[darkvision]]                         |
-| 5th         | [[blink]], [[fear]]                                  |
-| 7th         | [[Evard's Black Tentacles]], [[greater invisibility]] |
-| 9th         | [[cone of cold]], [[dream]]                          |
+| 5th         | [[Blink]], [[Fear]]                                  |
+| 7th         | [[Evard's Black Tentacles]], [[Greater Invisibility]] |
+| 9th         | [[Cone of Cold]], [[Dream]]                          |
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.

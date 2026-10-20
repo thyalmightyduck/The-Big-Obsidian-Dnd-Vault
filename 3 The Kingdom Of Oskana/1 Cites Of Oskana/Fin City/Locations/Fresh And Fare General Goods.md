@@ -15,7 +15,7 @@ Owner: [[Lilit Krüger]]
 - [[Jeweler's Tools]] _(25 gp)_  
 - Clothes, Traveler's _(2 gp)_  
 - Longbow _(50 gp)_  
-- Blowgun [[Needles (50)]] _(1 gp)_  
+- Blowgun [[Items/Weapons/Needles (50)]] _(1 gp)_  
 - Vial _(1 gp)_  
 - Piton _(5 cp)_  
 - [[Waterskin]] _(2 sp)_

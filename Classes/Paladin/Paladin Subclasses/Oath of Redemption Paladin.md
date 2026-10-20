@@ -103,11 +103,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells                                                                                                                               |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 3rd           | [[sanctuary]], [[sleep]]                                                                                                             |
-| 5th           | [[calm emotions]], [[hold person]]                                                                                                   |
-| 9th           | [[counterspell]], [[hypnotic pattern]]                                                                                               |
-| 13th          | [[Otilukes Resilient Sphere]], [[stoneskin]]                                                                                        |
-| 17th          | [[hold monster]], [[wall of force]] |
+| 3rd           | [[Spells/Level 1/Sanctuary]], [[Sleep]]                                                                                                             |
+| 5th           | [[Calm Emotions]], [[Hold Person]]                                                                                                   |
+| 9th           | [[Counterspell]], [[Hypnotic Pattern]]                                                                                               |
+| 13th          | [[Otilukes Resilient Sphere]], [[Stoneskin]]                                                                                        |
+| 17th          | [[Hold Monster]], [[Wall of Force]] |
 ### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 **Emissary of Peace:** You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([[Persuasion]]) checks for the next 10 minutes.

@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -110,9 +110,9 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells                                                               |
 | ------------ | ----------------------------------------------------------------------------- |
-| 3rd          | [[Guiding Bolt]], [[Magic Weapon]], [[Shield of Faith]], [[Spiritual Weapon]] |
+| 3rd          | [[Guiding Bolt]], [[Magic Weapon]], [[Shield Of Faith]], [[Spiritual Weapon]] |
 | 5th          | [[Crusaders Mantle]], [[Spirit Guardians]]                                    |
-| 7th          | [[Fire Shield]], [[Freedom of Movement]]                                      |
+| 7th          | [[Fire Shield]], [[Freedom Of Movement]]                                      |
 | 9th          | [[Hold Monster]], [[Steel Wind Strike]]                                       |
 ### Level 3: War Priest
 As a [[Bonus Action]], you can make one attack with a weapon or an [[Unarmed Strike]]. You can use this [[Bonus Action]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[Short Rest]] or [[Long Rest]].
@@ -130,7 +130,7 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom 
 You gain a feature from your Cleric Subclass.
 
 ### Level 6: War God's Blessing
-You can expend a use of your Channel Divinity to cast [[Shield of Faith]] or [[Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[Incapacitated]] condition, or die.
+You can expend a use of your Channel Divinity to cast [[Shield Of Faith]] or [[Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[Incapacitated]] condition, or die.
 
 ## Level 7: Blessed Strikes
 Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).

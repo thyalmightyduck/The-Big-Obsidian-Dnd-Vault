@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -104,11 +104,11 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells                                    |
 | ----------- | ----------------------------------------- |
-| 1st         | [[burning hands]], [[command]]            |
-| 2nd         | [[blindness deafness]], [[scorching ray]] |
-| 3rd         | [[fireball]], [[stinking cloud]]          |
-| 4th         | [[fire shield]], [[wall of fire]]         |
-| 5th         | [[flame strike]], [[hallow]]              |
+| 1st         | [[Burning Hands]], [[Command]]            |
+| 2nd         | [[Blindness Deafness]], [[Scorching Ray]] |
+| 3rd         | [[Fireball]], [[Stinking Cloud]]          |
+| 4th         | [[Fire Shield]], [[Wall Of Fire]]         |
+| 5th         | [[Flame Strike]], [[Hallow]]              |
 ### Dark One's Blessing
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
 

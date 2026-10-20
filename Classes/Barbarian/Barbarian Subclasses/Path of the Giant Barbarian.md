@@ -87,7 +87,7 @@ Barbarians who walk the Path of the Giant draw strength from the same primal for
 ### Giant Power
 _3rd-Level Path of the Giant Feature_
 
-When you choose this path, you learn to speak, read, and write Giant or one other language of your choice if you already know Giant. Additionally, you learn a cantrip of your choice: either [[druidcraft]] or [[thaumaturgy]]. Wisdom is your spellcasting ability for this spell.
+When you choose this path, you learn to speak, read, and write Giant or one other language of your choice if you already know Giant. Additionally, you learn a cantrip of your choice: either [[Druidcraft]] or [[Thaumaturgy]]. Wisdom is your spellcasting ability for this spell.
 
 ### Giant's Havoc
 _3rd-Level Path of the Giant Feature_

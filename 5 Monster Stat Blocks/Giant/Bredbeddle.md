@@ -27,7 +27,7 @@ ___
 - **[[Proficiency Bonus]]** +3
 ___
 ### Traits
-***Rejuvenation.*** If the bredbeddle dies, they return to life in 1d6 months with all their [[Hit Point|hit points]]. If their body was destroyed, it reforms in an unoccupied space nearest to where they died. Only a *[[wish]]* spell or finding and destroying the bredbeddle's true head can prevent this trait from functioning.  
+***Rejuvenation.*** If the bredbeddle dies, they return to life in 1d6 months with all their [[Hit Point|hit points]]. If their body was destroyed, it reforms in an unoccupied space nearest to where they died. Only a *[[Wish]]* spell or finding and destroying the bredbeddle's true head can prevent this trait from functioning.  
 
 ***Headless (True Form Only).*** The bredbeddle can't be [[blinded]] or [[deafened]].  
 

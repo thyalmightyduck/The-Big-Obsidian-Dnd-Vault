@@ -162,7 +162,7 @@ You gain a feature from your Ranger Subclass.
 
 ### Level 7: Poison Control
 You gain [[Resistance]] to Poison damage and have [[Advantage]] on saving throws to avoid or end the [[Poisoned]] condition.
-In addition, you can cast the [[Protection from Poison]] spell without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+In addition, you can cast the [[Protection From Poison]] spell without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.

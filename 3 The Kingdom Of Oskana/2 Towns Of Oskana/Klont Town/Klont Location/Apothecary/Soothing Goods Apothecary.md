@@ -13,7 +13,7 @@ PlotHook: Is being blackmailed
 - Potion of Climbing _(50 gp)_  
 - Potion of [[Animal Friendship]] _(100 gp)_  
 - [[Potion of Superior Healing]] _(500 gp)_  
-- Poison, Basic ([[vial]]) _(100 gp)_  
-- [[Antitoxin]] ([[vial]]) _(50 gp)_  
+- Poison, Basic ([[Rules/Core Rules/Vial]]) _(100 gp)_  
+- [[Antitoxin]] ([[Rules/Core Rules/Vial]]) _(50 gp)_  
 - [[Potion of Greater Healing]] _(100 gp)_  
 - Potion of [[Invisibility]] _(5,000 gp)_

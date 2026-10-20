@@ -107,7 +107,7 @@ The effects of your mystic marks are enhanced by your greater understanding of t
 **Enspell.** Once per turn when you hit a creature with a weapon or [[Unarmed Strike]], you can force it to make a Charisma saving throw against your spell save DC. On a failure, the creature is teleported 10 feet horizontally in a direction of your choosing.
 
 ### Level 3: Arcane Order Magic
-You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Magus spells.
+You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Magus spells.
 
 In addition, your training in the Arcane Order ensures you always have certain spells ready; when you reach a Magus level specified in the Arcane Order Spells table, you thereafter always have the listed spells prepared.
 
@@ -119,7 +119,7 @@ In addition, your training in the Arcane Order ensures you always have certain s
 | 5           | [[Nystul's Magic Aura]], [[Misty Step]]                                        |
 | 9           | [[Dispel Magic]], [[Waypoint]]                                                 |
 | 13          | [[Banishment]], [[Mordenkainen's Private Sanctum]]                             |
-| 17          | [[Reflect Magic]], [[Teleportation Circle]]                                    |
+| 17          | [[Reflect Magic]], [[Spells/Level 5/Teleportation Circle]]                                    |
 ### Level 3: Mystic Insights
 You gain the following benefits.
 

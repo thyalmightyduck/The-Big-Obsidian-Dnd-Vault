@@ -103,11 +103,11 @@ You gain oath spells at the paladin levels listed in the Oath of the Watchers ta
 
 | Paladin Level | Spells                                                                                                               |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 3rd           | [[alarm]], [[detect magic]]                                                                                          |
-| 5th           | [[moonbeam]], [[see invisibility]]                                                                                   |
-| 9th           | [[counterspell]], [[nondetection]]                                                                                   |
-| 13th          | [[aura of purity]], [[banishment]]                                                                                   |
-| 17th          | [[hold monster]], [[scrying]] |
+| 3rd           | [[Alarm]], [[Detect Magic]]                                                                                          |
+| 5th           | [[Moonbeam]], [[See Invisibility]]                                                                                   |
+| 9th           | [[Counterspell]], [[Nondetection]]                                                                                   |
+| 13th          | [[Aura of Purity]], [[Banishment]]                                                                                   |
+| 17th          | [[Hold Monster]], [[Scrying]] |
 ### Channel Divinity
 _3rd-level Oath of the Watchers feature_
 You gain the following Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.

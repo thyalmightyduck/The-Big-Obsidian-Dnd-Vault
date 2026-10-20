@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Repeater Slinger]], Uncommon*
+*Weapon [[Items/Weapons/Repeater Slinger]], Uncommon*
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 80/300 ft.; [[Sling Bullet]]), Magazine (9), Repeater, Two‑Handed
 750 GP, 9 lb.

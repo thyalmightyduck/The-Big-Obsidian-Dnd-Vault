@@ -102,11 +102,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells                                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 3rd           | [[armor of Agathys]], [[command]]                                                                                              |
-| 5th           | [[hold person]], [[spiritual weapon]]                                                                                          |
-| 9th           | [[bestow curse]], [[fear]]                                                                                                     |
-| 13th          | [[dominate beast]], [[stoneskin]]                                                                                              |
-| 17th          | [[cloudkill]], [[dominate person]] |
+| 3rd           | [[Armor of Agathys]], [[Command]]                                                                                              |
+| 5th           | [[Hold Person]], [[Spiritual Weapon]]                                                                                          |
+| 9th           | [[Bestow Curse]], [[Fear]]                                                                                                     |
+| 13th          | [[Dominate Beast]], [[Stoneskin]]                                                                                              |
+| 17th          | [[Cloudkill]], [[Dominate Person]] |
 ### Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 **Conquering Presence:** You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes [[frightened]] of you for 1 minute. The [[frightened]] creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.

@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -110,11 +110,11 @@ You gain domain spells at the cleric levels listed in the Moon Domain Spells tab
 
 | Cleric Level | Spells                                                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------------------ |
-| 1st          | [[faerie fire]], [[silent image]]                                                                      |
-| 3rd          | [[invisibility]], [[moonbeam]]                                                                         |
-| 5th          | [[hypnotic pattern]], [[major image]]                                                                  |
-| 7th          | [[greater invisibility]], [[hallucinatory terrain]]                                                    |
-| 9th          | [[dream]], [[passwall]] |
+| 1st          | [[Faerie Fire]], [[Silent Image]]                                                                      |
+| 3rd          | [[Invisibility]], [[Moonbeam]]                                                                         |
+| 5th          | [[Hypnotic Pattern]], [[Major Image]]                                                                  |
+| 7th          | [[Greater Invisibility]], [[Hallucinatory Terrain]]                                                    |
+| 9th          | [[Dream]], [[Passwall]] |
 ### Clarity of Catha
 When you choose this domain at 1st level, you learn to shine light upon the mind's most dire moments, shielding those you protect. When a creature within 30 feet of you that you can see makes a Wisdom [[saving throw]], you can use your reaction to grant that creature [[advantage]] on the save.
 

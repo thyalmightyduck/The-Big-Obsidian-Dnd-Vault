@@ -42,7 +42,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger]]s, [[Revolver]], 50 [[Bullet]], [[Explorers Pack]], and 11 GP; or (B) 175 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger]]s, [[Revolver]], 50 [[Items/Weapons/Bullet]], [[Explorers Pack]], and 11 GP; or (B) 175 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.

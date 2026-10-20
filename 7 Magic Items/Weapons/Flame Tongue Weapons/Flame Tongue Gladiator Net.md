@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Gladiator Net]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Gladiator Net]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Thrown (10/30 ft.)
 350 GP, 5 lb.

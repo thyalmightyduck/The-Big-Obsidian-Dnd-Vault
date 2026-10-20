@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -172,11 +172,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells                                                     |
 | -------------- | ---------------------------------------------------------- |
-| 1st            | [[arms of Hadar]], [[dissonant whispers]], [[mind sliver]] |
-| 3rd            | [[calm emotions]], [[detect thoughts]]                     |
-| 5th            | [[hunger of Hadar]], [[sending]]                           |
-| 7th            | [[Evard's Black Tentacles]], [[summon aberration]]          |
-| 9th            | [[Rary's Telepathic Bond]], [[telekinesis]]                 |
+| 1st            | [[Arms of Hadar]], [[Dissonant Whispers]], [[Mind Sliver]] |
+| 3rd            | [[Calm Emotions]], [[Detect Thoughts]]                     |
+| 5th            | [[Hunger of Hadar]], [[Sending]]                           |
+| 7th            | [[Evard's Black Tentacles]], [[Summon Aberration]]          |
+| 9th            | [[Rary's Telepathic Bond]], [[Telekinesis]]                 |
 ### Telepathic Speech
 _1st-level Aberrant Mind feature_
 You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.

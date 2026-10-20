@@ -114,7 +114,7 @@ As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one ite
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
-- [[Vial]]
+- [[Rules/Core Rules/Vial]]
 
 See the rules for the item in the Player's Handbook. The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
@@ -231,7 +231,7 @@ You gain an Artificer subclass of your choice. The [[Alchemist Artificer]], [[
 ### Battle Smith
 Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a [[steel defender]], a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a [[steel defender]].
 
-Battle Smiths played a key role in House Cannith's work on battle constructs and the original [[warforged]], and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.
+Battle Smiths played a key role in House Cannith's work on battle constructs and the original [[Warforged]], and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.
 
 ### Tool [[Proficiency]]
 When you adopt this specialization at 3rd level, you gain [[proficiency]] with [[Smiths Tools]]. If you already have this [[proficiency]], you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice.
@@ -243,11 +243,11 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 | Artificer Level | Spell                                     |
 | --------------- | ----------------------------------------- |
-| 3rd             | [[heroism]], [[Shield]]                   |
-| 5th             | [[Branding Smite]], [[warding bond]]      |
-| 9th             | [[aura of vitality]], [[conjure barrage]] |
-| 13th            | [[aura of purity]], [[fire shield]]       |
-| 17th            | [[banishing smite]], [[mass cure wounds]] |
+| 3rd             | [[Heroism]], [[Shield]]                   |
+| 5th             | [[Branding Smite]], [[Warding Bond]]      |
+| 9th             | [[Aura of Vitality]], [[Conjure Barrage]] |
+| 13th            | [[Aura of Purity]], [[Fire Shield]]       |
+| 17th            | [[Banishing Smite]], [[Mass Cure Wounds]] |
 ### Battle Ready
 When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:
 
@@ -259,7 +259,7 @@ By 3rd level, your tinkering has borne you a faithful companion, a [[steel defe
 
 In combat, the defender shares your [[initiative]] count, but it takes its turn immediately after yours. It can move and use its [[reaction]] on its own, but the only action it takes on its turn is the [[Dodge Action]], unless you take a [[bonus action]] on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[incapacitated]], the defender can take any action of its choice, not just [[Dodge Action]].
 
-If the [[mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. If it has died within the last hour, you can use your [[Smiths Tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The [[steel defender]] returns to life after 1 minute with all its [[Hit Point]] restored.
+If the [[Mending]] spell is cast on it, it regains 2d6 [[Hit Point]]. If it has died within the last hour, you can use your [[Smiths Tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The [[steel defender]] returns to life after 1 minute with all its [[Hit Point]] restored.
 
 At the end of a [[long rest]], you can create a new [[steel defender]] if you have your [[Smiths Tools]] with you. If you already have a [[steel defender]] from this feature, the first one immediately perishes. The defender also perishes if you die.
 

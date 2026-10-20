@@ -133,7 +133,7 @@ Hamstring Blow. The target's [[Speed]] is reduced by 15 feet until the start 
 You gain a feature from your Barbarian subclass.
 
 ### Level 10: Planar Conspirator
-At 10th level, you can make minor deals with an interested archfiend or similar power to peer into the minds of other creatures and exploit their fears. You can use an action to spend 2 [[Hit Dice]], without regaining any [[Hit Point]], to cast the [[detect thoughts]] spell. The DC for this spell is equal to 8 + your [[proficiency]] bonus + your Constitution modifier.
+At 10th level, you can make minor deals with an interested archfiend or similar power to peer into the minds of other creatures and exploit their fears. You can use an action to spend 2 [[Hit Dice]], without regaining any [[Hit Point]], to cast the [[Detect Thoughts]] spell. The DC for this spell is equal to 8 + your [[proficiency]] bonus + your Constitution modifier.
 
 ## Level 11: Relentless Rage
 Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Point]] while your Rage is active and don't die outright, you can make a DC 10 Constitution [[saving throw]]. If you succeed, your [[Hit Point]] instead change to a number equal to twice your Barbarian level.
@@ -151,7 +151,7 @@ Sundering Blow. Before the start of your next turn, the next [[Attack Rolls]] m
 You gain a feature from your Barbarian subclass.
 
 ### Level 14: Incinerating Wrath
-Starting at 14th level, when you take damage from a creature that you can see within 60 feet of you while you're raging, you can use your [[reaction]] to release a punishing flame from your claw toward them, duplicating the effect of the [[hellish rebuke]] spell (3rd-level version, DC 8 + your [[proficiency]] bonus + your Constitution modifier). You can use this ability twice per rage.
+Starting at 14th level, when you take damage from a creature that you can see within 60 feet of you while you're raging, you can use your [[reaction]] to release a punishing flame from your claw toward them, duplicating the effect of the [[Hellish Rebuke]] spell (3rd-level version, DC 8 + your [[proficiency]] bonus + your Constitution modifier). You can use this ability twice per rage.
 
 ## Level 15: Persistent Rage
 When you roll [[Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[Long Rest]].

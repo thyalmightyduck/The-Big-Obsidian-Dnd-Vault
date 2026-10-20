@@ -43,7 +43,7 @@ tags:
 
 You start with the following items, plus anything provided by your background:
 - (a) a [[Light Crossbow]] and 20 bolts, (b) a [[Shortsword]] or (c) any [[Simple Weapons]]
-- (a) a [[Component Pouch]] or (b) an [[arcane focus]]
+- (a) a [[Component Pouch]] or (b) an [[Rules/Core Rules/Arcane Focus]]
 - (a) a [[Scholar's Pack]] or (b) a [[Dungeoneers Pack]]
 - [[Hide Armor]], any [[Simple Weapons]], and two [[Dagger]]s
 - a [[Healers Kit]]
@@ -59,7 +59,7 @@ When you gain a level in a class other than your first, you gain only some of th
 ## Level 1: Apothecary 
 Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the [[Apothecary Spell List]].
 ### Formula Book
-You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[arcane focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
+You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[Rules/Core Rules/Arcane Focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
 - A large leatherbound tome with yellowing pages bound shut with an iron lock
 - A scattered assortment of scribbled notes loosely held together by rope
 - A pristine journal with perfect edges and beautiful penmanship
@@ -82,7 +82,7 @@ Intelligence is your spellcasting ability for your apothecary spells, since you 
 ### Ritual Casting
 You can cast an apothecary spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 ### Spellcasting Focus
-You can use an [[arcane focus]] as a spellcasting focus for your apothecary spells.
+You can use an [[Rules/Core Rules/Arcane Focus]] as a spellcasting focus for your apothecary spells.
 
 ## Level 1: Occult Practice
 At 1st level, you take up one of the Occult Practices, a chosen discipline which defines your ongoing research of the body and spirit: the Alienist, the Chemist, the Exorcist, the Mutagenist, the Pathogenist, or the Reanimator.

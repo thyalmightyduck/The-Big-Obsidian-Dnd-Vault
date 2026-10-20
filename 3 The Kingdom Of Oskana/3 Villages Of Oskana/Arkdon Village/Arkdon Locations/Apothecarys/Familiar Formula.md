@@ -11,7 +11,7 @@ PlotHook: Saw a massive footprint in the woods
 - [[Potion of Superior Healing]] _(500 gp)_  x2
 - [[Alchemists Supplies]] _(50 gp)_  
 - [[Perfume]] (vial) _(5 gp)_  
-- [[Vial]] _(1 gp)_ x2
+- [[Rules/Core Rules/Vial]] _(1 gp)_ x2
 - [[Jug]] _(2 cp)_  
 - [[Brewers Supplies]] _(20 gp)_  
 - [[Alchemists Fire]] _(50 gp)_  

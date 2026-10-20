@@ -127,7 +127,7 @@ You gain a feature from your Monk subclass.
 
 ### Level 6: Stabilizing Focus
 You can harness and channel healing energy. As a [[Magic action]], you can touch a [[Bloodied]] creature and expend 1 or more Focus Points. For each Focus Point you expend, the creature regains 5 [[Hit Point]]s. This feature can restore a creature to no more than half its [[Hit Point]] maximum.
-In addition, you can expend 2 Focus Points to cast one of the following spells without a spell slot or Material component: [[Enhance Ability]], [[Lesser Restoration]], or [[Protection from Evil and Good]]. Your spellcasting ability for these spells is Wisdom.
+In addition, you can expend 2 Focus Points to cast one of the following spells without a spell slot or Material component: [[Enhance Ability]], [[Lesser Restoration]], or [[Protection From Evil And Good]]. Your spellcasting ability for these spells is Wisdom.
 
 ## Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.

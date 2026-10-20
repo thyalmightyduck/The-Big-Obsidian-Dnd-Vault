@@ -114,7 +114,7 @@ As a [[Magic Action]] while holding [[Tinkers Tools]], you can create one ite
 - [[String]]
 - [[Tinderbox]]
 - [[Torch]]
-- [[Vial]]
+- [[Rules/Core Rules/Vial]]
 
 See the rules for the item in the Player's Handbook. The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
@@ -254,7 +254,7 @@ When you reach an Artificer level specified in the Alchemist Spells table, you t
 | 13              | [[Death Ward]], [[Vitriolic Sphere]]      |
 | 17              | [[Cloudkill]], [[Raise Dead]]             |
 ### Level 3: Experimental Elixir
-Whenever you finish a [[Long Rest]] while holding [[Alchemists Supplies]], you can use that tool to magically produce two elixirs. For each elixir, roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. The elixir appears in a [[vial]], and the [[vial]] vanishes when the elixir is drunk or poured out. If any elixir remains when you finish a [[Long Rest]], the elixir and its [[vial]] vanish.
+Whenever you finish a [[Long Rest]] while holding [[Alchemists Supplies]], you can use that tool to magically produce two elixirs. For each elixir, roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. The elixir appears in a [[Rules/Core Rules/Vial]], and the [[Rules/Core Rules/Vial]] vanishes when the elixir is drunk or poured out. If any elixir remains when you finish a [[Long Rest]], the elixir and its [[Rules/Core Rules/Vial]] vanish.
 
 Drinking an Elixir. As a [[Bonus Action]], a creature can drink the elixir or administer it to another creature within 5 feet of itself.
 

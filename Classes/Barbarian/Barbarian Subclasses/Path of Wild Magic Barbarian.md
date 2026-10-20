@@ -83,7 +83,7 @@ You gain a Barbarian subclass of your choice. A subclass is a specialization tha
 ### Path of Wild Magic
 _This subclass is from a different game edition. For a given subclass feature, you may gain that feature at a different level from the one specified in the subclass feature._
 
-Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. [[Elf]], [[tiefling]], [[aasimar]], and [[genasi]] barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
+Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. [[Elf]], [[Tiefling]], [[Aasimar]], and [[Genasi]] barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
 
 ### Magic Awareness
 _3rd-level Path of Wild Magic feature_

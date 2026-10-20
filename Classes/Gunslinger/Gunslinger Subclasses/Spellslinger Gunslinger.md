@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger]]s, [[Revolver]], 50 [[Bullet]], [[Explorers Pack]], and 11 GP; or (B) 175 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger]]s, [[Revolver]], 50 [[Items/Weapons/Bullet]], [[Explorers Pack]], and 11 GP; or (B) 175 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -111,7 +111,7 @@ When you reach Gunslinger level 10, you learn another Wizard cantrip of your cho
 The number of spells on your list increases as you gain Gunslinger levels, as shown in the Prepared Spells column of the Spellslinger Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Gunslinger, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 **Changing your Prepared Spells:** Whenever you gain a Gunslinger level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 **Spellcasting Ability:** Intelligence is your spellcasting ability for your Wizard spells.
-**Spellcasting Focus:** You can use an [[Arcane Focus]] or a Ranged weapon as a [[Spellcasting Focus]] for your Wizard spells.
+**Spellcasting Focus:** You can use an [[Rules/Core Rules/Arcane Focus]] or a Ranged weapon as a [[Spellcasting Focus]] for your Wizard spells.
 
 ### Level 3: Bang, You're Dead!
 You can use magic in place of guns.

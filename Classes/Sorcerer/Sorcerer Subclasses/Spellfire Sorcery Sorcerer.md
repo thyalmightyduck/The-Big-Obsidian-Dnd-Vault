@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -169,7 +169,7 @@ When you reach a Sorcerer level specified in the Spellfire Spells table, you the
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 3              | [[Cure Wounds]], [[Guiding Bolt]], [[Lesser Restoration]], [[Scorching Ray]]                                                                     |
 | 5              | [[Aura of Vitality]], [[Dispel Magic]]                                                                                                           |
-| 7              | [[Fire Shield]], [[Wall of Fire]]                                                                                                                |
+| 7              | [[Fire Shield]], [[Wall Of Fire]]                                                                                                                |
 | 9              | [[Greater Restoration]], [[Flame Strike]] |
 
 ## Level 4: Ability Score Improvement

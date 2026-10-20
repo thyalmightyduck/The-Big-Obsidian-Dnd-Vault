@@ -139,11 +139,11 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Circle Spells                                                                                                                              |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2nd         | [[burning hands]], [[cure wounds]]                                                                                                         |
-| 3rd         | [[flaming sphere]], [[scorching ray]]                                                                                                      |
-| 5th         | [[plant growth]], [[revivify]]                                                                                                             |
-| 7th         | [[aura of life]], [[fire shield]]                                                                                                          |
-| 9th         | [[flame strike]], [[mass cure wounds]] |
+| 2nd         | [[Burning Hands]], [[Cure Wounds]]                                                                                                         |
+| 3rd         | [[Flaming Sphere]], [[Scorching Ray]]                                                                                                      |
+| 5th         | [[Plant Growth]], [[Revivify]]                                                                                                             |
+| 7th         | [[Aura of Life]], [[Fire Shield]]                                                                                                          |
+| 9th         | [[Flame Strike]], [[Mass Cure Wounds]] |
 ### Summon Wildfire Spirit
 _2nd-level Circle of Wildfire feature_
 

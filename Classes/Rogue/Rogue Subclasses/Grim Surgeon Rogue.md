@@ -166,7 +166,7 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 You gain a feature from your Rogue Subclass.
 
 ### Level 17: Bloodbound
-By 17th level, you can command the blood inside certain creatures. Immediately after you deal Sneak Attack damage to a beast or humanoid, you can force that creature to make a Constitution saving throw. The DC is equal to 8 + your proficiency bonus + your Wisdom modifier. On a failed save, that creature is under the effect of the [[dominate beast]] or [[dominate person]] spell, respectively, for 1 minute or until you choose to end the effect (no action required).
+By 17th level, you can command the blood inside certain creatures. Immediately after you deal Sneak Attack damage to a beast or humanoid, you can force that creature to make a Constitution saving throw. The DC is equal to 8 + your proficiency bonus + your Wisdom modifier. On a failed save, that creature is under the effect of the [[Dominate Beast]] or [[Dominate Person]] spell, respectively, for 1 minute or until you choose to end the effect (no action required).
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Level 18: Elusive

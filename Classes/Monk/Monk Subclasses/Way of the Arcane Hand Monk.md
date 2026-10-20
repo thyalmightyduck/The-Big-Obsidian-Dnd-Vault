@@ -103,10 +103,10 @@ You gain proficiency in the Arcana skill. Whenever you make an Intelligence ab
 
 ### Level 3: Spellcasting
 When you reach 3rd level, you gain the ability to cast spells. See Spell Rules for the general rules of spellcasting and the Spells Listing for the wizard spell list.
-**Arcane Focus:** You can use a monk weapon as an [[arcane focus]] for your spellcasting.
+**Arcane Focus:** You can use a monk weapon as an [[Rules/Core Rules/Arcane Focus]] for your spellcasting.
 **Cantrips:** You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.
 **Spell Slots:** The Way of the Arcane Hand Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-For example, if you know the 1st-level spell [[thunderwave]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[thunderwave]] using either slot.
+For example, if you know the 1st-level spell [[Thunderwave]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Thunderwave]] using either slot.
 **Spell Known of 1st-Level and Higher:** You know three 1st-level wizard spells of your choice.
 The Spells Known column of the Way of the Arcane Hand Spellcasting table shows when you learn more wizard spells of 1st level or higher of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
 Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots.
@@ -169,7 +169,7 @@ You gain a feature from your Monk subclass.
 
 ### Level 11: Focus Power
 When you cast a spell, you can expend ki points to increase the level of the spell as if you'd cast the spell using a higher-level spell slot. You must use a spell slot as normal to cast the spell, then expend 1 ki point for each level you increase the spell in this way. You can increase the spell's level higher than your highest-level spell slot to a maximum level equal to your proficiency bonus.
-For example, if you're an 11th-level Way of the Arcane Hand monk, when you cast the spell [[scorching ray]] using a 2nd-level spell slot, you could expend 2 ki points to cast the spell as 4th-level spell.
+For example, if you're an 11th-level Way of the Arcane Hand monk, when you cast the spell [[Scorching Ray]] using a 2nd-level spell slot, you could expend 2 ki points to cast the spell as 4th-level spell.
 
 ### Level 11: Spell Resistance
 You have advantage on saving throws against spells and magical effects. Furthermore, you have resistance to damage from spells and magical effects.

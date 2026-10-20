@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -103,11 +103,11 @@ The Keeper domain focuses on social bonds and well-regulated communities. These 
 
 | Cleric Level | Spells                                   |
 | ------------ | ---------------------------------------- |
-| 1st          | [[command]], [[Hunters Mark]]            |
-| 3rd          | [[calm emotions]], [[warding bond]]      |
-| 5th          | [[beacon of hope]], [[spirit guardians]] |
-| 7th          | [[death ward]], [[guardian of faith]]    |
-| 9th          | [[hallow]], [[Rary's Telepathic Bond]]   |
+| 1st          | [[Command]], [[Hunters Mark]]            |
+| 3rd          | [[Calm Emotions]], [[Warding Bond]]      |
+| 5th          | [[Beacon of Hope]], [[Spirit Guardians]] |
+| 7th          | [[Death Ward]], [[Guardian Of Faith]]    |
+| 9th          | [[Hallow]], [[Rary's Telepathic Bond]]   |
 ### Level 1: Blessed Chosen
 Starting at 1st level, you can assert your divine will to protect your allies. When an enemy within 30 feet of you that you can see attacks one of your allies, you can use your reaction to impose disadvantage on the attack roll before it hits or misses.
 

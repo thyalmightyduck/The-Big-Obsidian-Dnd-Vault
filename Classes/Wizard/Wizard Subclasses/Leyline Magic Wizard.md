@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -113,71 +113,71 @@ While attuned to a leyline, you gain access to any spells on your current list o
 
 | Wizard Level | Leyline Spells                                                    |
 | ------------ | ----------------------------------------------------------------- |
-| 1st          | [[grease]]                                                        |
-| 3rd          | [[hold person]]                                                   |
-| 5th          | [[slow]]                                                          |
-| 7th          | [[ice storm]]                                                     |
-| 9th          | [[cone of cold]] |
+| 1st          | [[Grease]]                                                        |
+| 3rd          | [[Hold Person]]                                                   |
+| 5th          | [[Slow]]                                                          |
+| 7th          | [[Ice Storm]]                                                     |
+| 9th          | [[Cone of Cold]] |
 
 **Coast:**
 
 | Wizard Level | Leyline Spells                            |
 | ------------ | ----------------------------------------- |
-| 1st          | [[thunderwave]]                           |
-| 3rd          | [[mirror image]]                          |
-| 5th          | [[call lightning]]                        |
-| 7th          | [[control water]]                         |
-| 9th          | [[conjure elemental]] (air or water only) |
+| 1st          | [[Thunderwave]]                           |
+| 3rd          | [[Mirror Image]]                          |
+| 5th          | [[Call Lightning]]                        |
+| 7th          | [[Control Water]]                         |
+| 9th          | [[Conjure Elemental]] (air or water only) |
 
 **Desert:**
 
 | Wizard Level | Leyline Spells                                      |
 | ------------ | --------------------------------------------------- |
-| 1st          | [[color spray]]                                     |
-| 3rd          | [[blur]]                                            |
-| 5th          | [[daylight]]                                        |
-| 7th          | [[blight]]                                          |
-| 9th          | [[seeming]] |
+| 1st          | [[Color Spray]]                                     |
+| 3rd          | [[Blur]]                                            |
+| 5th          | [[Daylight]]                                        |
+| 7th          | [[Blight]]                                          |
+| 9th          | [[Seeming]] |
 
 **Forest:**
 
 | Wizard Level | Leyline Spells                                                |
 | ------------ | ------------------------------------------------------------- |
-| 1st          | [[entangle]]                                                  |
-| 3rd          | [[barkskin]]                                                  |
-| 5th          | [[conjure animals]]                                           |
-| 7th          | [[shape plants]]*                                             |
-| 9th          | [[tree stride]] |
+| 1st          | [[Entangle]]                                                  |
+| 3rd          | [[Barkskin]]                                                  |
+| 5th          | [[Conjure Animals]]                                           |
+| 7th          | [[Shape Plants]]*                                             |
+| 9th          | [[Tree Stride]] |
 
 **Grassland:**
 
 | Wizard Level | Leyline Spells                                                                  |
 | ------------ | ------------------------------------------------------------------------------- |
-| 1st          | [[elevated sight]]*                                                             |
-| 3rd          | [[gust of wind]]                                                                |
-| 5th          | [[wind wall]]                                                                   |
-| 7th          | [[freedom of movement]]                                                         |
-| 9th          | [[commune with nature]] |
+| 1st          | [[Elevated Sight]]*                                                             |
+| 3rd          | [[Gust Of Wind]]                                                                |
+| 5th          | [[Wind Wall]]                                                                   |
+| 7th          | [[Freedom Of Movement]]                                                         |
+| 9th          | [[Commune with Nature]] |
 
 **Mountain:**
 
 | Wizard Level | Leyline Spells                                                      |
 | ------------ | ------------------------------------------------------------------- |
-| 1st          | [[fog cloud]]                                                       |
-| 3rd          | [[silence]]                                                         |
-| 5th          | [[sleet storm]]                                                     |
-| 7th          | [[stoneskin]]                                                       |
-| 9th          | [[wall of stone]] |
+| 1st          | [[Fog Cloud]]                                                       |
+| 3rd          | [[Silence]]                                                         |
+| 5th          | [[Sleet Storm]]                                                     |
+| 7th          | [[Stoneskin]]                                                       |
+| 9th          | [[Wall of Stone]] |
 
 **Swamp:**
 
 | Wizard Level | Leyline Spells                                                    |
 | ------------ | ----------------------------------------------------------------- |
-| 1st          | [[veil of dusk]]*                                                 |
-| 3rd          | [[spike growth]]                                                  |
-| 5th          | [[stinking cloud]]                                                |
-| 7th          | [[giant insect]]                                                  |
-| 9th          | [[insect plague]] |
+| 1st          | [[Veil of Dusk]]*                                                 |
+| 3rd          | [[Spike Growth]]                                                  |
+| 5th          | [[Stinking Cloud]]                                                |
+| 7th          | [[Spells/Level 4/Giant Insect]]                                                  |
+| 9th          | [[Insect Plague]] |
 ### Level 2: Thrum of the Land
 Also at 2nd level, you learn how to channel energy from a leyline to supplement your spells, infusing them with power. Whenever you are in an environment that matches a leyline to which you are attuned, you can apply one of the following benefits to any leyline spell you cast (chosen when you cast the spell):
 
@@ -208,7 +208,7 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Wizard Subclass.
 
 ### Level 10: Natural Disruption
-By 10th level, you can channel energy from your leyline to disrupt others' magic. You can cast [[counterspell]] or [[dispel magic]] without expending a spell slot at the level of the highest spell slot available to you.
+By 10th level, you can channel energy from your leyline to disrupt others' magic. You can cast [[Counterspell]] or [[Dispel Magic]] without expending a spell slot at the level of the highest spell slot available to you.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 

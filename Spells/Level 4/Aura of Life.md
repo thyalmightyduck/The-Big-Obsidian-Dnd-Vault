@@ -1,0 +1,18 @@
+---
+tags:
+  - spells
+---
+_Level 4 Abjuration_
+
+**Casting Time:** Action
+**Range:** Self
+**Components:** V
+**Duration:** [[Concentration]], up to 10 minutes
+
+An aura radiates from you in a 30-foot [[Emanation]] for the duration. While in the aura, you and your allies have [[Resistance]] to Necrotic damage, and your [[Hit Point]] maximums can't be reduced. If an ally with 0 [[Hit Point]] starts its turn in the aura, that ally regains 1 [[Hit Point]].
+
+**Classes:** [[Cleric]], [[Paladin]]
+**Subclasses:** [[Circle of Wildfire Druid]], [[Divine Soul Sorcerer]], [[Life Domain Cleric]], [[The Undying Warlock]], [[Twilight Domain Cleric]], [[Solidarity Domain Cleric]]
+**Species:** [[Halfling (Mark Of Healing)]], [[Human (Mark Of Handling)]]
+**Backgrounds:** [[Selesnya Initiate]]
+**Feats:** [[Mark of Handling]], [[Mark of Healing]]

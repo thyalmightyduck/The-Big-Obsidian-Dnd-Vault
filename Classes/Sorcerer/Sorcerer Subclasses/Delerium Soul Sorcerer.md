@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -160,11 +160,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells                                                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st            | [[comet shards]], [[feather fall]]                                                                                                                            |
-| 3rd            | [[controlled mutation]], [[grasping ghost]]                                                                                                                   |
-| 5th            | [[vanish to the space between worlds]], [[weave the elder sign]]                                                                                              |
-| 7th            | [[siphon time]], [[summon delerium elemental]]                                                                                                                |
-| 9th            | [[contaminated hands]], [[wall of force]] |
+| 1st            | [[Comet Shards]], [[Feather Fall]]                                                                                                                            |
+| 3rd            | [[Controlled Mutation]], [[Grasping Ghost]]                                                                                                                   |
+| 5th            | [[Vanish to the Space Between Worlds]], [[Weave the Elder Sign]]                                                                                              |
+| 7th            | [[Siphon Time]], [[Summon Delerium Elemental]]                                                                                                                |
+| 9th            | [[Contaminated Hands]], [[Wall of Force]] |
 ### Level 1: Mutant Manifestation
 When you finish a long rest, you can choose to roll twice on the Mutations table (see page 231), and must select one of the results. You gain that mutation, which remains until you finish a long rest, even if you don't currently have any contamination levels.
 

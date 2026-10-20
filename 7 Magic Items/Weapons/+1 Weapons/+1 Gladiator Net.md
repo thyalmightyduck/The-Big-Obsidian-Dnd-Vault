@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Gladiator Net]], Uncommon*
+*Weapon [[Items/Weapons/Gladiator Net]], Uncommon*
 **Weapon:** 1d6 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Thrown (10/30 ft.)
 350 GP, 5 lb.

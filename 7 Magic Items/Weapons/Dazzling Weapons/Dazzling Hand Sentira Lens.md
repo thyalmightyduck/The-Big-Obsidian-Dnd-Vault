@@ -17,4 +17,4 @@ The weapon has 4 charges. You can take a [[Reaction]] immediately after being 
 
 You can fire psiactive weapons a number of times equal to twice your proficiency bonus. After that, your psionic potential is temporarily expended and you can't fire another psiactive weapon until you regain your psionic focus by using an action or a bonus action (your choice). Your psionic focus is shared between all psiactive weapons; whenever you make an attack with any psiactive weapon, you expend one of your uses.
 
-As psiactive weapons channel your own latent energy, they aren't considered magic weapons and they can't be sensed with the [[detect magic]] spell or similar magic. However, they don't function in an [[antimagic field]].
+As psiactive weapons channel your own latent energy, they aren't considered magic weapons and they can't be sensed with the [[Detect Magic]] spell or similar magic. However, they don't function in an [[Antimagic Field]].

@@ -10,8 +10,8 @@ Your connection to an Outer Plane infuses you with the energy there. Choose a ty
 
 | Plane               | Damage Resistance | Cantrip            |
 | ------------------- | ----------------- | ------------------ |
-| Chaotic Outer Plane | Poison            | [[Minor illusion]] |
-| Evil Outer Plane    | Necrotic          | [[Chill touch]]    |
-| Good Outer Plane    | Radiant           | [[Sacred flame]]   |
+| Chaotic Outer Plane | Poison            | [[Minor Illusion]] |
+| Evil Outer Plane    | Necrotic          | [[Chill Touch]]    |
+| Good Outer Plane    | Radiant           | [[Sacred Flame]]   |
 | Lawful Outer Plane  | Force             | [[Guidance]]       |
-| The Outlands        | Psychic           | [[Mage hand]]      |
+| The Outlands        | Psychic           | [[Mage Hand]]      |

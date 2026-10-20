@@ -103,11 +103,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spell                                                         |
 | ------------ | ------------------------------------------------------------- |
-| 3rd          | [[feather fall]]                                              |
-| 5th          | [[gust of wind]]                                              |
-| 9th          | [[lightning bolt]]                                            |
-| 13th         | [[ice storm]]                                                 |
-| 17th         | [[legend lore]] |
+| 3rd          | [[Feather Fall]]                                              |
+| 5th          | [[Gust Of Wind]]                                              |
+| 9th          | [[Lightning Bolt]]                                            |
+| 13th         | [[Ice Storm]]                                                 |
+| 17th         | [[Legend Lore]] |
 ### Level 3: Guiding Wind
 Starting at 3rd level, when you make an attack, you can whisper to the wind to have it aid your strikes. Once on each of your turns, you can choose to gain one of the following benefits:
 

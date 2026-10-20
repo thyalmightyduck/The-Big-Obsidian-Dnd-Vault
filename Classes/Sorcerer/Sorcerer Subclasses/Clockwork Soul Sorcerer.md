@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -164,11 +164,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells                                                                                                                                             |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st            | [[alarm]], [[protection from evil and good]]                                                                                                       |
-| 3rd            | [[aid]], [[lesser restoration]]                                                                                                                    |
-| 5th            | [[dispel magic]], [[protection from energy]]                                                                                                       |
-| 7th            | [[freedom of movement]], [[summon construct]]                                                                                                      |
-| 9th            | [[greater restoration]], [[wall of force]] |
+| 1st            | [[Alarm]], [[Protection From Evil And Good]]                                                                                                       |
+| 3rd            | [[Aid]], [[Lesser Restoration]]                                                                                                                    |
+| 5th            | [[Dispel Magic]], [[Protection from Energy]]                                                                                                       |
+| 7th            | [[Freedom Of Movement]], [[Summon Construct]]                                                                                                      |
+| 9th            | [[Greater Restoration]], [[Wall of Force]] |
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.
 
 **Manifestations of Order:**

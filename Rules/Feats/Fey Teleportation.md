@@ -10,4 +10,4 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 
 - Increase your Intelligence or Charisma by 1, to a maximum of 20.
 - You learn to speak, read, and write [[Sylvan]].
-- You learn the [[misty step]] spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
+- You learn the [[Misty Step]] spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.

@@ -1,0 +1,41 @@
+---
+tags:
+  - species
+---
+### Traits ERLW
+- Ability Scores: Dexterity +2; Wisdom +1
+    
+- Creature Type: Humanoid
+    
+- Size: Small
+    
+- Speed: 25 feet
+    
+
+Age. A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+
+Size. Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+
+Lucky. When you roll a 1 on an [[Attack Rolls]], [[ability check]], or saving throw, you can reroll the die and must use the new roll.
+
+Brave. You have advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
+
+Halfling Nimbleness. You can move through the space of any creature that is of a size larger than yours.
+
+Languages. You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
+
+Medical Intuition. When you make a Wisdom (Medicine) check or an [[ability check]] using an [herbalism kit](https://5e.tools/items.html#herbalism%20kit_phb), you can roll a d4 and add the number rolled to the [[ability check]].
+
+Healing Touch. You can cast the [cure wounds](https://5e.tools/spells.html#cure%20wounds_phb) spell with this trait. Starting at 3rd level, you can also cast [lesser restoration](https://5e.tools/spells.html#lesser%20restoration_phb) with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.
+
+Spells of the Mark. If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Healing Spells table are added to the spell list of your spellcasting class.
+
+Mark Of Healing Spells
+
+| Spell Level | Spells                                        |
+| ----------- | --------------------------------------------- |
+| 1st         | [[Cure Wounds]], [[Healing Word]]             |
+| 2nd         | [[Lesser Restoration]], [[Prayer of Healing]] |
+| 3rd         | [[Aura of Vitality]], [[Mass Healing Word]]   |
+| 4th         | [[Aura of Purity]], [[Aura of Life]]          |
+| 5th         | [[Greater Restoration]]                       |

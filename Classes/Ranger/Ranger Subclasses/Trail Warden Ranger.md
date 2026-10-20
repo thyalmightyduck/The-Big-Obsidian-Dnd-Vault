@@ -111,7 +111,7 @@ When you reach a Ranger level specified in the Trailwarden Spells table, you the
 | 3rd          | [[Goodberry]]                                                              |
 | 5th          | [[Pass Without Trace]]                                                     |
 | 9th          | [[Spirit Guardians]]                                                       |
-| 13th         | [[Guardian of Faith]]                                                      |
+| 13th         | [[Guardian Of Faith]]                                                      |
 | 17th         | [[Mass Cure Wounds]] |
 ### Level 3: Coordinated Tactics
 You have an innate understanding of coordinating teamwork. It is represented by your Teamwork Die, which is used in the powers you have from this subclass. The Teamwork Die table shows the die size when you reach certain Ranger levels.

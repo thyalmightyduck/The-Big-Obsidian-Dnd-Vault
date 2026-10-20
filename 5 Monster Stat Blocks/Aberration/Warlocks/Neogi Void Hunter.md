@@ -45,7 +45,7 @@ ___
 
 ***Spellcasting.*** The neogi casts one of the following spells, using Charisma as the spellcasting ability:  
 
-1/day each: *[[dimension door]]*, *[[invisibility]]*  
+1/day each: *[[Dimension Door]]*, *[[Invisibility]]*  
 
 ### Bonus Actions
 ***Enslave (Recharges after a Short or [[Long Rest]]).*** The neogi targets one creature it can see within 30 feet of itself. The target must succeed on a DC 14 Wisdom [[saving throw]] or be magically [[charmed]] by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The [[charmed]] target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the [[charmed]] target takes damage, it can repeat the [[saving throw]], ending the effect on itself on a success.

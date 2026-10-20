@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Sabre]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Sabre]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Finesse
 500 GP, 2 lb.

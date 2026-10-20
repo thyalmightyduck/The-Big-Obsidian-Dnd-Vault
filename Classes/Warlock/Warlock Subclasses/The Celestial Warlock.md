@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -106,13 +106,13 @@ The Celestial lets you choose from an expanded list of spells when you learn a w
 
 | Spell Level | Spells                                                                                                                                         |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st         | [[cure wounds]], [[guiding bolt]]                                                                                                              |
-| 2nd         | [[flaming sphere]], [[lesser restoration]]                                                                                                     |
-| 3rd         | [[daylight]], [[revivify]]                                                                                                                     |
-| 4th         | [[guardian of faith]], [[wall of fire]]                                                                                                        |
-| 5th         | [[flame strike]], [[greater restoration]] |
+| 1st         | [[Cure Wounds]], [[Guiding Bolt]]                                                                                                              |
+| 2nd         | [[Flaming Sphere]], [[Lesser Restoration]]                                                                                                     |
+| 3rd         | [[Daylight]], [[Revivify]]                                                                                                                     |
+| 4th         | [[Guardian Of Faith]], [[Wall Of Fire]]                                                                                                        |
+| 5th         | [[Flame Strike]], [[Greater Restoration]] |
 ### Bonus Cantrips
-At 1st level, you learn the [[sacred flame]] and [[light]] cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+At 1st level, you learn the [[Sacred Flame]] and [[Light]] cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
 
 ### Healing Light
 At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.

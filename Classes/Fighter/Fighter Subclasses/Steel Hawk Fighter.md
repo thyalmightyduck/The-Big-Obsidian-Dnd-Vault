@@ -93,7 +93,7 @@ Starting at 3rd level, you are remarkably light on your feet and capable of coun
 If you hit a creature within 5 feet of you using a lance, you can immediately move up to 5 feet away from it, without provoking an opportunity attack from the target. You must be standing and have movement remaining in order to move in this way.
 
 ### Level 3: Bird Caller
-Also at 3rd level, you learn to identify common birds by their calls, and you have advantage on Wisdom ([[Animal Handling]]) checks when interacting with any beast that has an innate flying speed. In addition, you gain the ability to cast the [[animal messenger]] spell, but only as a ritual and only targeting a beast that has an innate flying speed.
+Also at 3rd level, you learn to identify common birds by their calls, and you have advantage on Wisdom ([[Animal Handling]]) checks when interacting with any beast that has an innate flying speed. In addition, you gain the ability to cast the [[Animal Messenger]] spell, but only as a ritual and only targeting a beast that has an innate flying speed.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.

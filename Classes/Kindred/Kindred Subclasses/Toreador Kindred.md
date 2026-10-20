@@ -223,7 +223,7 @@ You exude vampiric allure and have learned how to charm others. You gain the fol
 
 **Eerily Convincing.** You have [[Advantage]] on Charisma (Deception and Persuasion) checks. In addition, when you cast a spell with your Entrancement feature, a creature has [[Disadvantage]] on any saving throw it makes against the spell.
 
-**Majesty.** You can expend 3 Blood Points to cast the [[Sanctuary]] spell on yourself. When you cast the spell in this way, the spell doesn't end if you make an attack roll, cast a spell, or deal damage.
+**Majesty.** You can expend 3 Blood Points to cast the [[Spells/Level 1/Sanctuary]] spell on yourself. When you cast the spell in this way, the spell doesn't end if you make an attack roll, cast a spell, or deal damage.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify.

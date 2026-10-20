@@ -21,7 +21,7 @@ PlotHook: Is trying to open a bar
 - [[Handaxe]] _(5 gp)_  
 - [[Light Armor]] Leather _(10 gp)_  
 - [[Greatsword]] _(50 gp)_  
-- [[Hammer]] _(1 gp)_  
+- [[Items/Weapons/Hammer]] _(1 gp)_  
 - [[War Pick]] _(5 gp)_
 - [[Hooded Lantern|Lantern Hooded]] _(5 gp)_  
 - [[Chain]] (10 ft.) _(30 gp)_  
@@ -47,6 +47,6 @@ PlotHook: Is trying to open a bar
 - [[Spear]] _(1 gp)_  
 - Fetters _(15 gp)_  
 - [[Manacles]], masterwork _(50 gp)_  
-- [[Hammer]], Sledge _(2 gp)_  
+- [[Items/Weapons/Hammer]], Sledge _(2 gp)_  
 - [[Chain Shirt]] _(50 gp)_  
 - [[Manacles]] _(2 gp)_

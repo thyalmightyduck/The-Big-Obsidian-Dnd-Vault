@@ -4,7 +4,7 @@ tags:
 ---
 *Weapon [[Revolver]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Simple, Ranged, Firearm
-**Properties:** Ammunition (Range 30/120 ft.; [[Bullet]]), Firearm, Industrial Era, Recoil, Reload (6 Shots)
+**Properties:** Ammunition (Range 30/120 ft.; [[Items/Weapons/Bullet]]), Firearm, Industrial Era, Recoil, Reload (6 Shots)
 125 GP 3lbs
 **Mastery:** Slow
 

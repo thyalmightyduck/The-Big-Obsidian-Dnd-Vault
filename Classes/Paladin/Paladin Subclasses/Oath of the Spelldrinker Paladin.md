@@ -98,11 +98,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells                                            |
 | ------------- | ------------------------------------------------- |
-| 3rd           | [[bane]], [[detect magic]]                        |
-| 5th           | [[Nystuls Magic Aura]], [[hold person]]          |
-| 9th           | [[dispel magic]], [[slow]]                        |
-| 13th          | [[dimension door]], [[Otilukes Resilient Sphere]] |
-| 17th          | [[dominate person]], [[scrying]]                  |
+| 3rd           | [[Bane]], [[Detect Magic]]                        |
+| 5th           | [[Nystuls Magic Aura]], [[Hold Person]]          |
+| 9th           | [[Dispel Magic]], [[Slow]]                        |
+| 13th          | [[Dimension Door]], [[Otilukes Resilient Sphere]] |
+| 17th          | [[Dominate Person]], [[Scrying]]                  |
 ### Level 3: Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 **Absorb Magic:** You can refute certain spells and use them to nourish yourself. Using your Channel Divinity, you can interrupt a creature you can see within 30 feet of you casting a spell. You can use a reaction when you see a creature within range casting a spell to present your holy symbol and interrupt it. The spell fails and has no effect if it is of a level no higher than 1 + your paladin level divided by 3 (rounded up), to a maximum of 6th-level spells. When it does, you gain a number of temporary hit points equal to your Charisma modifier, plus 5 times the spell's level.

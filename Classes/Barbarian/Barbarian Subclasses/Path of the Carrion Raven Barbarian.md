@@ -109,7 +109,7 @@ On a failed saving throw, the creature takes 6d10 force damage. On a successfu
 
 **Axolotl's Regeneration:** You can use a bonus action and spend 2 or 6 maneuver points to regenerate your body. When you do, you regain 1d12 + your Constitution modifier hit points. If you spent 6 points, you also regrow a lost limb or organ of your choice.
 
-**Bestial Transformation:** You can use an action and spend 8 maneuver points to cast [[polymorph]] targeting only yourself without providing material components. However, you can only transform into a beast with a CR of half your level or lower, and you retain your Intelligence, Wisdom, and Charisma scores. Constitution is your spellcasting ability when you cast the spell in this way.
+**Bestial Transformation:** You can use an action and spend 8 maneuver points to cast [[Polymorph]] targeting only yourself without providing material components. However, you can only transform into a beast with a CR of half your level or lower, and you retain your Intelligence, Wisdom, and Charisma scores. Constitution is your spellcasting ability when you cast the spell in this way.
 
 **Call of the Beast Lord:** You can use an action and spend 5 maneuver points to howl, calling a bestial spirit to your aid. When you do, choose any beast with a CR equal to or less than your level to appear in an unoccupied space of your choice within 60 feet.
 
@@ -169,7 +169,7 @@ You gain a feature from your Barbarian subclass.
 ### Level 6: Raven's Spirit
 You gain proficiency in the Animal Handling skill. If you are already proficient in it, you gain proficiency in your choice of one the following skills instead: Athletics, Nature, or Survival.
 
-In addition, you can cast [[speak with animals]] as a ritual.
+In addition, you can cast [[Speak With Animals]] as a ritual.
 
 ## Level 7: Feral Instinct
 Your instincts are so honed that you have [[Advantage]] on [[Initiative]] rolls.

@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Military Fork]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Military Fork]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Reach, Two‑Handed
 500 GP, 8 lb.

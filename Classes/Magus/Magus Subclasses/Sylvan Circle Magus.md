@@ -126,7 +126,7 @@ In addition, your training in the Sylvan Circle ensures you always have certain 
 
 | Magus Level | Spells                                                                                                                                       |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3           | [[Entangle]], [[Speak with Animals]], [[Thornwhip]], [[Thornhold]]                                                                           |
+| 3           | [[Entangle]], [[Speak With Animals]], [[Thornwhip]], [[Thornhold]]                                                                           |
 | 5           | [[Lesser Restoration]], [[Moonbeam]]                                                                                                         |
 | 9           | [[Conjure Animals]], [[Speak with Plants]]                                                                                                   |
 | 13          | [[Conjure Woodland Beings]], [[Polymorph]]                                                                                                   |

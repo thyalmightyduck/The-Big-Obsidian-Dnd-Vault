@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Returning Club]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Returning Club]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Light, Thrown (20/60 ft.)
 300 GP, 2 lb.

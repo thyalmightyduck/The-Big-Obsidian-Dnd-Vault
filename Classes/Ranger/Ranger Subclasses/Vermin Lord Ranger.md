@@ -118,7 +118,7 @@ When you reach a Ranger level specified in the Vermin Lord Spells table, you the
 | 3rd          | [[Consumption]]                                          |
 | 5th          | [[Animal Messenger]]                                     |
 | 9th          | [[Flash Fever]]                                          |
-| 13th         | [[Freedom of Movement]]                                  |
+| 13th         | [[Freedom Of Movement]]                                  |
 | 17th         | [[Contagion]] |
 
 ## Level 4: Ability Score Improvement

@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Fighting Chain, Brutal]], Rare (Requires Attunement)*
+*Weapon [[Items/Weapons/Fighting Chain, Brutal]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing, Advanced Weapon, Melee Weapon
 **Properties:** Double, Finesse, Reach, Two‑Handed
 750 GP, 6 lb.

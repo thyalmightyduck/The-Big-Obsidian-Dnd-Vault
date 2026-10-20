@@ -129,19 +129,19 @@ Druids of the Circle of the Hive share their body with a plethora of tiny arthro
 Druids of this circle relish creating a moving biosphere that sustains a variety of organisms, often seeking out new and exotic species as symbiotic lodgers. These creatures are a part of the druid, nourishing and protecting the druid as the druid nourishes and protects its tenants.
 
 ### Level 2: Circle Spells
-Your symbiotic link to arthropods and their versatility grants you access to certain spells. At 2nd level, you learn the [[swarm]] cantrip.
+Your symbiotic link to arthropods and their versatility grants you access to certain spells. At 2nd level, you learn the [[Swarm]] cantrip.
 **At 3rd, 5th, 7th, and 9th level:** you gain access to the spells listed for that level in the Circle of the Hive Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-All these spells use arthropods in their manifestation; for example, [[arcane eye]] or [[mislead]] could be a swarm of flies you conjure and imbue with different properties.
+All these spells use arthropods in their manifestation; for example, [[Arcane Eye]] or [[Mislead]] could be a swarm of flies you conjure and imbue with different properties.
 
 **Circle of the Hive Spells:**
 
 | Druid Level | Spells                                                                                                                 |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 3rd         | [[blur]], [[web]]                                                                                                      |
-| 5th         | [[fly]], [[hypnotic pattern]]                                                                                          |
-| 7th         | [[arcane eye]], [[giant insect]]                                                                                       |
-| 9th         | [[insect plague]], [[mislead]] |
+| 3rd         | [[Blur]], [[Web]]                                                                                                      |
+| 5th         | [[Fly]], [[Hypnotic Pattern]]                                                                                          |
+| 7th         | [[Arcane Eye]], [[Spells/Level 4/Giant Insect]]                                                                                       |
+| 9th         | [[Insect Plague]], [[Mislead]] |
 ### Level 2: Swarm Shape
 When you use your Wild Shape feature, you can turn into a swarm of creatures, adhering to the normal limitations on CR and speed.
 

@@ -131,7 +131,7 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 ### Circle of Contamination
 As druids are often in tune with nature and the natural order, most see delirium as a scourge upon the world. However, a rare few see the truth: the eldritch stones are an essential part of the natural order, one which works at a cosmic scale. Druids of the Circle of Contamination use the blighted rocks and contaminating Haze as a conduit for supernatural evolution. They have embraced the chaotic power of Delerium as an extension of the inherent chaos in the natural order, spreading the Haze while wielding it as a powerful ally to fuel their spells.
 
-At 2nd level, you learn the [[chill touch]] and [[poison needle]] cantrips. These don't count against the number of druid cantrips you know.
+At 2nd level, you learn the [[Chill Touch]] and [[Poison Needle]] cantrips. These don't count against the number of druid cantrips you know.
 
 At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Contamination Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the [[druid spell list]], the spell is nonetheless a druid spell for you.
 
@@ -139,10 +139,10 @@ At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that le
 
 | Druid Level | Spells                                                                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3rd         | [[biohazard]], [[controlled mutation]]                                                                                                                 |
-| 5th         | [[purge contamination]], [[venomous aura]]                                                                                                             |
-| 7th         | [[horrific transformation]], [[poison wave]]                                                                                                           |
-| 9th         | [[acid rain]], [[toxic barrage]] |
+| 3rd         | [[Biohazard]], [[Controlled Mutation]]                                                                                                                 |
+| 5th         | [[Purge Contamination]], [[Venomous Aura]]                                                                                                             |
+| 7th         | [[Horrific Transformation]], [[Poison Wave]]                                                                                                           |
+| 9th         | [[Acid Rain]], [[Toxic Barrage]] |
 ### Level 2: Blighted Magic
 Your magic becomes a twisted mockery of druidic principles, and you can twist your spells to suit your needs. Your spells which conjure creatures or natural flora and fauna now appear like sickly, fleshy tentacles, and animals you summon are cancerous and mutated. In addition, when you cast a spell, you can choose one of the following blighted magic options:
 - **Twin Spell.** If the spell you cast targets only one creature and doesn't have a range of self, you can expend a use of your Wild Shape feature to target a second creature in range with the same spell. To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level.
@@ -165,7 +165,7 @@ You gain a feature from your Druid Subclass.
 You gain [[resistance]] to poison and necrotic damage.
 
 ### Level 6: Cycle of Contamination
-Though your magic is infused with contaminated power, you have also learned ways to effectively expel these energies. You can cast the [[purge contamination]] spell as an [[action]] without expending a spell slot. You don't need to provide the material components when you cast the spell in this way, and the target does not gain any [[exhaustion]] levels from this casting of the spell. When you cast [[purge contamination]] in this way, you can't do so again until you finish a [[long rest]].
+Though your magic is infused with contaminated power, you have also learned ways to effectively expel these energies. You can cast the [[Purge Contamination]] spell as an [[action]] without expending a spell slot. You don't need to provide the material components when you cast the spell in this way, and the target does not gain any [[exhaustion]] levels from this casting of the spell. When you cast [[Purge Contamination]] in this way, you can't do so again until you finish a [[long rest]].
 
 ## Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
@@ -184,7 +184,7 @@ You gain a feature from your Druid Subclass.
 You gain the ability to draw [[contamination]] into yourself to empower your magic. Once per turn as a [[bonus action]], you can gain one [[Contamination]] Level. If you do, you regain one use of your Wild Shape feature.
 
 ### Level 10: Defile Elements
-You learn the [[summon delerium elemental]] spell, and always have this spell prepared (it doesn't count against the number of druid spells you can prepare). You can cast it once without a spell slot, material component, or gaining a [[contamination]] level, and you regain the ability to do so when you finish a [[long rest]]. When you cast the spell, you can modify it so that it doesn't require [[concentration]]. When you do, the spell's duration for that casting changes to 1 minute.
+You learn the [[Summon Delerium Elemental]] spell, and always have this spell prepared (it doesn't count against the number of druid spells you can prepare). You can cast it once without a spell slot, material component, or gaining a [[contamination]] level, and you regain the ability to do so when you finish a [[long rest]]. When you cast the spell, you can modify it so that it doesn't require [[concentration]]. When you do, the spell's duration for that casting changes to 1 minute.
 
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.

@@ -153,7 +153,7 @@ Whenever you finish a [[Long Rest]], choose one type of land: arid, polar, temp
 | ----------- | -------------------------------------------------------------- |
 | 3rd         | [[Misty Step]], [[Shocking Grasp]], [[Sleep]]                  |
 | 5th         | [[Lightning Bolt]]                                             |
-| 7th         | [[Freedom of Movement]]                                        |
+| 7th         | [[Freedom Of Movement]]                                        |
 | 9th         | [[Tree Stride]] |
 **Tropical Land:**
 

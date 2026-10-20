@@ -48,7 +48,7 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repl
 
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
@@ -166,11 +166,11 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 
 | Affinity   | Spell                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------- |
-| Good       | [[cure wounds]]                                                                                         |
-| Evil       | [[inflict wounds]]                                                                                      |
-| Law        | [[bless]]                                                                                               |
-| Chaos      | [[bane]]                                                                                                |
-| Neutrality | [[protection from evil and good]] |
+| Good       | [[Cure Wounds]]                                                                                         |
+| Evil       | [[Inflict Wounds]]                                                                                      |
+| Law        | [[Bless]]                                                                                               |
+| Chaos      | [[Bane]]                                                                                                |
+| Neutrality | [[Protection From Evil And Good]] |
 ### Favored by the Gods
 Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
 

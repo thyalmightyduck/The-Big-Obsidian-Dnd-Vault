@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -110,11 +110,11 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells                                                                                                                                                     |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st         | [[create or destroy water]], [[thunderwave]]                                                                                                               |
-| 2nd         | [[gust of wind]], [[silence]]                                                                                                                              |
-| 3rd         | [[lightning bolt]], [[sleet storm]]                                                                                                                        |
-| 4th         | [[control water]], [[summon elemental]] (water only)                                                                                                       |
-| 5th         | [[Bigby's hand]] (appears as a tentacle), [[cone of cold]] |
+| 1st         | [[Create Or Destroy Water]], [[Thunderwave]]                                                                                                               |
+| 2nd         | [[Gust Of Wind]], [[Silence]]                                                                                                                              |
+| 3rd         | [[Lightning Bolt]], [[Sleet Storm]]                                                                                                                        |
+| 4th         | [[Control Water]], [[Summon Elemental]] (water only)                                                                                                       |
+| 5th         | [[Bigby's Hand]] (appears as a tentacle), [[Cone of Cold]] |
 ### Tentacle of the Deeps
 _1st-level Fathomless feature_
 

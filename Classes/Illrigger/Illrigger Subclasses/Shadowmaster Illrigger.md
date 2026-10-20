@@ -179,7 +179,7 @@ You understand the power of striking from the shadows. Once per turn, when you h
 
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
-**Master of Disguise:** As an action, you can cast the [[disguise self]] spell without expending a spell slot.
+**Master of Disguise:** As an action, you can cast the [[Disguise Self]] spell without expending a spell slot.
 **No Escape:** As a bonus action, you can call on the shadows to entrap a creature you can see within 30 feet of you. The target must make a Charisma saving throw, made with disadvantage if they are in dim light or darkness. On a failed save, the target's speed is halved and they can't willingly move more than 30 feet away from you. This effect ends for the target if you are [[incapacitated]] or die or if the target is more than 30 feet away from you.
 
 ## Level 3: Invoke Hell

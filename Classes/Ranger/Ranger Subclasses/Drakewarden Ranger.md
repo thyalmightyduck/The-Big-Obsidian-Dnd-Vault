@@ -112,7 +112,7 @@ Consider the source of the draconic spirit you have bonded with. The Drakewarden
 ### Draconic Gift
 _3rd-level Drakewarden feature_
 The bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:
-- **Thaumaturgy:** You learn the [[thaumaturgy]] cantrip, which is a ranger spell for you.
+- **Thaumaturgy:** You learn the [[Thaumaturgy]] cantrip, which is a ranger spell for you.
 - **Tongue of Dragons:** You learn to speak, read, and write Draconic or one other language of your choice.
 
 ### Drake Companion

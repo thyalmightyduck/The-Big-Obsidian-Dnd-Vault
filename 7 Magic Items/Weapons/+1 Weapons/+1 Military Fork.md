@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Military Fork]], Uncommon*
+*Weapon [[Items/Weapons/Military Fork]], Uncommon*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon
 **Properties:** Hafted, Heavy, Reach, Two‑Handed
 500 GP, 8 lb.

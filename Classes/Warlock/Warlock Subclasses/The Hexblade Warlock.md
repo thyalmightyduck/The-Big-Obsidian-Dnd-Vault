@@ -43,7 +43,7 @@ tags:
 
 **Armor Training:** [[Light Armor]]
 
-**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ##### Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
@@ -81,7 +81,7 @@ Changing Your Prepared Spells. Whenever you gain a Warlock level, you can repla
 
 Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spells.
 
-[[Spellcasting Focus]]. You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
+[[Spellcasting Focus]]. You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ## Level 1: [[(Eldritch Invocation)]] Options
 [[(Eldritch Invocation)]] options appear in alphabetical order.
@@ -106,11 +106,11 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells                                                                                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st         | [[Shield]], [[wrathful smite]]                                                                                                           |
-| 2nd         | [[blur]], [[branding smite]]                                                                                                             |
-| 3rd         | [[blink]], [[elemental weapon]]                                                                                                          |
-| 4th         | [[phantasmal killer]], [[staggering smite]]                                                                                              |
-| 5th         | [[banishing smite]], [[cone of cold]] |
+| 1st         | [[Shield]], [[Wrathful Smite]]                                                                                                           |
+| 2nd         | [[Blur]], [[Branding Smite]]                                                                                                             |
+| 3rd         | [[Blink]], [[Elemental Weapon]]                                                                                                          |
+| 4th         | [[Phantasmal Killer]], [[Staggering Smite]]                                                                                              |
+| 5th         | [[Banishing Smite]], [[Cone of Cold]] |
 ### Hexblade's Curse
 Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[incapacitated]]. Until the curse ends, you gain the following benefits:
 

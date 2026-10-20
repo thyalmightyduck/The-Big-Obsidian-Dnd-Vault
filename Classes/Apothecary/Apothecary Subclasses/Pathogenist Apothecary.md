@@ -42,7 +42,7 @@
 
 You start with the following items, plus anything provided by your background:
 - (a) a [[Light Crossbow]] and 20 bolts, (b) a [[Shortsword]] or (c) any [[Simple Weapons]]
-- (a) a [[Component Pouch]] or (b) an [[arcane focus]]
+- (a) a [[Component Pouch]] or (b) an [[Rules/Core Rules/Arcane Focus]]
 - (a) a [[Scholar's Pack]] or (b) a [[Dungeoneers Pack]]
 - [[Hide Armor]], any [[Simple Weapons]], and two [[Dagger]]s
 - a [[Healers Kit]]
@@ -58,7 +58,7 @@ When you gain a level in a class other than your first, you gain only some of th
 ## Level 1: Apothecary 
 Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the [[Apothecary Spell List]].
 ### Formula Book
-You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[arcane focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
+You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[Rules/Core Rules/Arcane Focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
 - A large leatherbound tome with yellowing pages bound shut with an iron lock
 - A scattered assortment of scribbled notes loosely held together by rope
 - A pristine journal with perfect edges and beautiful penmanship
@@ -81,7 +81,7 @@ Intelligence is your spellcasting ability for your apothecary spells, since you 
 ### Ritual Casting
 You can cast an apothecary spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 ### Spellcasting Focus
-You can use an [[arcane focus]] as a spellcasting focus for your apothecary spells.
+You can use an [[Rules/Core Rules/Arcane Focus]] as a spellcasting focus for your apothecary spells.
 
 ## Level 1: Occult Practice
 At 1st level, you take up one of the Occult Practices, a chosen discipline which defines your ongoing research of the body and spirit: the Alienist, the Chemist, the Exorcist, the Mutagenist, the Pathogenist, or the Reanimator.
@@ -91,7 +91,7 @@ Your choice grants you additional proficiencies and an expanded spell list at 1s
 The study of diseases opens doorways to many dangerous scientific discoveries. As experts in both ridding the body of sickness and the mutations of infectious disease, Pathogenists bring their study to the battlefield by using monsters and enemies as test subjects for their infections. Long years spent carefully monitoring the causes and effects of such plagues allows them to be experts at disease mutation, allowing their sickness to spread in a terrifying manner and riddle their foes with debilitating symptoms, crippling their bodies and rattling their minds.
 
 ### Level 1: Plague Proficiency
-You learn the [[chill touch]] cantrip. You gain proficiency with the [[Herbalism Kit]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+You learn the [[Chill Touch]] cantrip. You gain proficiency with the [[Herbalism Kit]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
 ### Level 1: Pathogenist Spells
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Pathogenist Spells table. These spells count as apothecary spells for you, but they don't count against the number of apothecary spells you prepare.
@@ -100,11 +100,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Apothecary Level | Spell                                 |
 | ---------------- | ------------------------------------- |
-| 1st              | [[infect]], [[inflict wounds]]        |
-| 3rd              | [[Blindness Deafness]], [[biohazard]] |
-| 5th              | [[pestilence]], [[venomous aura]]     |
-| 7th              | [[blight]], [[blood worm]]            |
-| 9th              | [[contagion]], [[insect plague]]      |
+| 1st              | [[Infect]], [[Inflict Wounds]]        |
+| 3rd              | [[Blindness Deafness]], [[Biohazard]] |
+| 5th              | [[Pestilence]], [[Venomous Aura]]     |
+| 7th              | [[Blight]], [[Blood Worm]]            |
+| 9th              | [[Contagion]], [[Insect Plague]]      |
 
 ## Level 2: Esoteric Theories
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
@@ -114,7 +114,7 @@ At 2nd level, you gain two esoteric theories of your choice. Your theory options
 At 3rd level, you gain a feature granted by your chosen discipline.
 
 ### Level 3: Pernicious Pathogens
-Whenever a creature casts a spell or uses a trait or feature that would cure or remove one of your diseases (such as casting [[lesser restoration]] to remove your [[infect]] spell), the creature must first make an ability check using its spellcasting ability (or its Charisma modifier, if the spell or special ability does not specify a spellcasting ability score). The DC equals your spell save DC.
+Whenever a creature casts a spell or uses a trait or feature that would cure or remove one of your diseases (such as casting [[Lesser Restoration]] to remove your [[Infect]] spell), the creature must first make an ability check using its spellcasting ability (or its Charisma modifier, if the spell or special ability does not specify a spellcasting ability score). The DC equals your spell save DC.
 
 On a failed check, the creature's spell, trait, or feature fails and has no effect. Any material components used are expended, and any spell slot expended is wasted.
 
@@ -128,7 +128,7 @@ You can evolve your diseases to cause new symptoms. You learn two mutant strains
 | 3rd              | 2                 |
 | 9th              | 3                 |
 | 15th             | 4                 |
-Whenever you cast a spell which inflicts diseases (such as [[infect]] or [[contagion]]) you can apply an additional effect from your mutant strain to one of the targets of the spell, which lasts for the duration of that spell.
+Whenever you cast a spell which inflicts diseases (such as [[Infect]] or [[Contagion]]) you can apply an additional effect from your mutant strain to one of the targets of the spell, which lasts for the duration of that spell.
 
 The following mutant strains are available to you when you learn a mutant strain. If a strain has a level requirement, you must be at least that level in this class to learn the strain.
 
@@ -173,7 +173,7 @@ If your DM allows the use of feats, you may instead take a [[feat]].
 At 10th level, you gain a feature granted by your chosen discipline.
 
 ### Level 10: Insidious Incubation
-When you start casting [[infect]], you can modify it so that it doesn't require concentration. If you do so, the spell's duration becomes 1 minute for that casting. You must finish a short or long rest before using this feature again.
+When you start casting [[Infect]], you can modify it so that it doesn't require concentration. If you do so, the spell's duration becomes 1 minute for that casting. You must finish a short or long rest before using this feature again.
 
 ## Level 11: Greater Formula (6th)
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
@@ -193,7 +193,7 @@ You can cast this Greater Formula once without expending a spell slot. You must 
 At 14th level, you gain a feature granted by your chosen discipline.
 
 ### Level 14: Immunocompromised
-A creature infected with one of your diseases (such as [[infect]] or [[contagion]]) has disadvantage on saving throws against your apothecary spells.
+A creature infected with one of your diseases (such as [[Infect]] or [[Contagion]]) has disadvantage on saving throws against your apothecary spells.
 
 ## Level 15: Greater Formula (8th)
 At 15th level, you discover a magical secret called a Greater Formula. Choose one 8th-level spell from the [[apothecary spell]] list as this formula.

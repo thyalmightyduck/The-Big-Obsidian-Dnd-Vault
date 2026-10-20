@@ -55,11 +55,11 @@ Spell Slots. The Spellcaster table shows how many spell slots the sidekick has 
 
 Spells Known. The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
 
-- Mage: [[mage hand]], [[ray of frost]], [[thunderwave]]
+- Mage: [[Mage Hand]], [[Ray of Frost]], [[Thunderwave]]
 
-- Healer: [[cure wounds]], [[guidance]], [[sacred flame]]
+- Healer: [[Cure Wounds]], [[Guidance]], [[Sacred Flame]]
 
-- Prodigy: [[eldritch blast]], [[healing word]], [[light]]
+- Prodigy: [[Eldritch Blast]], [[Healing Word]], [[Light]]
 
 - The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.
 - Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.

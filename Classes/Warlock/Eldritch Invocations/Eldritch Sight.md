@@ -1,5 +1,5 @@
 ## Eldritch Sight
 
-You can cast *[[detect magic]]* at will, without expending a spell slot.
+You can cast *[[Detect Magic]]* at will, without expending a spell slot.
 
 *Type: [[(Eldritch Invocation)]]*

@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Guardian Poleaxe]], Uncommon*
+*Weapon [[Items/Weapons/Guardian Poleaxe]], Uncommon*
 **Weapon:** 1d10 Slashing Advanced Weapon, Melee Weapon
 **Properties:** Damage (Piercing), Hafted, Heavy, Reach, Two‑Handed
 750 GP, 9 lb.

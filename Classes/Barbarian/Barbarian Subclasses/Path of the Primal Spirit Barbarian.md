@@ -118,7 +118,7 @@ Your [[speed]] increases by 10 feet while you aren't wearing [[Heavy Armor]].
 You gain a feature from your Barbarian subclass.
 
 ### Level 6: Kin to Beasts
-You always have the [[Animal Friendship]] and [[Speak with Animals]] spells prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a [[Short Rest]] or [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level. Constitution is your spellcasting ability for them.
+You always have the [[Animal Friendship]] and [[Speak With Animals]] spells prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a [[Short Rest]] or [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level. Constitution is your spellcasting ability for them.
 
 ## Level 7: Feral Instinct
 Your instincts are so honed that you have [[Advantage]] on [[Initiative]] rolls.

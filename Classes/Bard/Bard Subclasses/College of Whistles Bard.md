@@ -155,9 +155,9 @@ You gain a feature from your Bard Subclass.
 ### Level 6: Homeward Bound
 You can whistle to conjure a ghostly train that returns you and your companions to a known destination. When you finish a [[Long Rest]], you can leave a mark at that location using paint, chalk, carving, or some other medium (which can be erased, defaced, or destroyed normally).
 
-Thereafter, you can use this feature to cast [[Teleportation Circle]] using the mark as the destination. When you cast the spell in this way, a phantom train whisks away creatures who enter the circle, and you can't do so again until you finish a [[Long Rest]]. You can have a number of marked locations equal to your Charisma modifier at one time (minimum of 1 location). If you mark a location beyond your maximum, one of the previous marks of your choice fades.
+Thereafter, you can use this feature to cast [[Spells/Level 5/Teleportation Circle]] using the mark as the destination. When you cast the spell in this way, a phantom train whisks away creatures who enter the circle, and you can't do so again until you finish a [[Long Rest]]. You can have a number of marked locations equal to your Charisma modifier at one time (minimum of 1 location). If you mark a location beyond your maximum, one of the previous marks of your choice fades.
 
-When you reach level 9 in this class, you always have [[Teleportation Circle]] prepared and can use any of your marked locations as the destination when you cast it.
+When you reach level 9 in this class, you always have [[Spells/Level 5/Teleportation Circle]] prepared and can use any of your marked locations as the destination when you cast it.
 
 ### Level 6: Ride the Rails
 You can whistle as a [[Magic action]] to summon a spectral locomotive into existence. It hurtles forward in a 120-foot-long, 10-foot-wide [[Line]] from you, and it passes through objects and creatures.

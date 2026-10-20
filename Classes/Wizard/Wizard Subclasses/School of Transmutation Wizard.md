@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -139,9 +139,9 @@ You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your 
 You gain a feature from your Wizard Subclass.
 
 ### Shapechanger
-At 10th level, you add the [[polymorph]] spell to your spellbook, if it is not there already. You can cast [[polymorph]] without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
+At 10th level, you add the [[Polymorph]] spell to your spellbook, if it is not there already. You can cast [[Polymorph]] without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
 
-Once you cast [[polymorph]] in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
+Once you cast [[Polymorph]] in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
 
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -156,7 +156,7 @@ Starting at 14th level, you can use your action to consume the reserve of transm
 
 **Panacea:** You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.
 
-**Restore Life:** You cast the [[raise dead]] spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.
+**Restore Life:** You cast the [[Raise Dead]] spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.
 
 **Restore Youth:** You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.
 

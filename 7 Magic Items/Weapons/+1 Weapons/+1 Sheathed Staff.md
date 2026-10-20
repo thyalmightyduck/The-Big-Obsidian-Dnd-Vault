@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Sheathed Staff]], Uncommon*
+*Weapon [[Items/Weapons/Sheathed Staff]], Uncommon*
 **Weapon:** 1d6 Bludgeoning, Advanced Weapon, Melee Weapon
 **Properties:** Double
 500 GP, 6 lb.

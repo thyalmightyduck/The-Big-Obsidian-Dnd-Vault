@@ -41,14 +41,14 @@ ___
 ### Actions
 ***Multiattack.*** Ithu'rath makes six Devolving Tentacle attacks and uses Piscine Transformation.  
 
-***Devolving Tentacle.*** *Melee Weapon Attack:*  +11 to hit, reach 20 ft., one target. *Hit:* 16 (3d6 + 6) piercing damage. The first time a creature is hit with this attack on a turn, they must succeed on a DC 19 Constitution [[saving throw]] or be injected with a degenerative psionic slime (save ends at end of turn). While slimed, each time the creature makes an attack roll or an [[ability check]], they must roll a d4 and subtract the number rolled from the d20 roll. At the end of a slimed creature's turn, the size of the subtracted die increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on, to a maximum of d12. The *cure ailment* power or *[[lesser restoration]]* spell also ends this effect.  
+***Devolving Tentacle.*** *Melee Weapon Attack:*  +11 to hit, reach 20 ft., one target. *Hit:* 16 (3d6 + 6) piercing damage. The first time a creature is hit with this attack on a turn, they must succeed on a DC 19 Constitution [[saving throw]] or be injected with a degenerative psionic slime (save ends at end of turn). While slimed, each time the creature makes an attack roll or an [[ability check]], they must roll a d4 and subtract the number rolled from the d20 roll. At the end of a slimed creature's turn, the size of the subtracted die increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on, to a maximum of d12. The *cure ailment* power or *[[Lesser Restoration]]* spell also ends this effect.  
 
 ***Piscine Transformation (3rd-Order Power).*** Ithu'rath targets a creature with a head, legs, or torso they can see within 60 feet of them, blasting them with a pulse of transformational energy. The target must succeed on a DC 19 Wisdom [[saving throw]] or undergo one of the following transformations of the Ithu'rath's choice:  
 - **Head.** The target's head transforms into the head of a fish, proportionately sized for their body. They can't speak.
 - **Legs.** The target's legs become fins. Their walking [[speed]] is reduced to 10 feet (unless their walking [[speed]] is slower), and they gain a swimming [[speed]] of 30 feet.
 - **Torso.** The target's torso becomes the body of a fish with gills. They can only breathe water and can hold their breath for 1 hour. If the target isn't underwater when this transformation takes effect, they begin suffocating.
 
-The transformation lasts until a *cure ailment* power of 4th order or higher or the *[[greater restoration]]* spell affects the target. A target who suffers all three transformations at once is permanently transformed into a hybrid fishlike creature and can only be returned to their original form by a *[[wish]]* spell or similar supernatural effects.  
+The transformation lasts until a *cure ailment* power of 4th order or higher or the *[[Greater Restoration]]* spell affects the target. A target who suffers all three transformations at once is permanently transformed into a hybrid fishlike creature and can only be returned to their original form by a *[[Wish]]* spell or similar supernatural effects.  
 
 ### [[Bonus Action|Bonus Actions]]
 ***Jaunt (3rd-Order Power).*** Ithu'rath teleports 30 feet to an unoccupied space they can see.  

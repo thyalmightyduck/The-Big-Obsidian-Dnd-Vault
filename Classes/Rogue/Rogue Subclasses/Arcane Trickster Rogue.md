@@ -95,7 +95,7 @@ When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination.
 **Changing Your Prepared Spells:** Whenever you gain a Rogue level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 **Spellcasting Ability:** Intelligence is your spellcasting ability for your Wizard spells.
-**Spellcasting Focus:** You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spells.
+**Spellcasting Focus:** You can use an [[Rules/Core Rules/Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spells.
 
 ### Level 3: Mage Hand Legerdemain
 When you cast [[Mage Hand]], you can cast it as a [[Bonus Action]], and you can make the spectral hand [[Invisible]]. You can control the hand as a [[Bonus Action]], and through it, you can make Dexterity (Sleight of Hand) checks.

@@ -37,8 +37,8 @@ ___
 
 ***Spellcasting (Psionics).*** As long as it has more than half of its [[Hit Point|hit points]] remaining, the swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):  
 
-**At will:** *[[command]]*, *[[comprehend languages]]*, *[[detect thoughts]]*  
-**1/day each:** *[[confusion]]*, *[[dominate monster]]*  
+**At will:** *[[Command]]*, *[[Comprehend Languages]]*, *[[Detect Thoughts]]*  
+**1/day each:** *[[Confusion]]*, *[[Dominate Monster]]*  
 
 ### Bonus Actions
 ***Illumination.*** The swarm sheds [[dim light]] from its brains in a 5-foot radius, increases the illumination to [[bright light]] in a 5- to 20-foot radius (and [[dim light]] for an additional number of feet equal to the chosen radius), or extinguishes the light.

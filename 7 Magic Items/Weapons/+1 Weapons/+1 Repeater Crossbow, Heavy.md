@@ -2,7 +2,7 @@
 tags:
   - magicitem
 ---
-*Weapon [[Repeater Crossbow, Heavy]], Uncommon*
+*Weapon [[Items/Weapons/Repeater Crossbow, Heavy]], Uncommon*
 **Weapon:** 1 Piercing, Advanced Weapon, Ranged Weapon
 **Properties:** Ammunition (Range 30/120 ft.; [[Needle]]), Light, Magazine (6), Repeater
 50 GP 2lbs

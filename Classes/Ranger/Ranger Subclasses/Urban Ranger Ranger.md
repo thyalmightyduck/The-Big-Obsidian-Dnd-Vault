@@ -104,11 +104,11 @@ You learn an additional spell when you reach certain levels in this class, as sh
 
 | Ranger Level | Spells                                                                |
 | ------------ | --------------------------------------------------------------------- |
-| 3rd          | [[feather fall]]                                                      |
-| 5th          | [[invisibility]]                                                      |
-| 9th          | [[haste]]                                                             |
-| 13th         | [[dimension door]]                                                    |
-| 17th         | [[animate objects]] |
+| 3rd          | [[Feather Fall]]                                                      |
+| 5th          | [[Invisibility]]                                                      |
+| 9th          | [[Haste]]                                                             |
+| 13th         | [[Dimension Door]]                                                    |
+| 17th         | [[Animate Objects]] |
 ### Level 3: Gutter Runner
 You gain a climb speed equal to your walking speed, and proficiency in the Athletics and Acrobatics skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
 In addition, when you take the [[Dash action]] on your turn, you can move through other creature's spaces without penalty (but not stop there). When you do, your movement doesn't provoke opportunity attacks.

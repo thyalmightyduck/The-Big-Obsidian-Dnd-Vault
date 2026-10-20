@@ -154,7 +154,7 @@ You gain a feature from your Kindred Subclass.
 ### Level 6: Monstrous Gifts
 You have become more at peace with your monstrous appearance, unlocking aspects of yourself. You can choose two benefits from the following list.
 
-**Animalist.** You can cast the [[Animal Friendship]], [[Animal Messenger]], and [[Speak with Animals]] spells. You can cast each of these spells without expending a spell slot. Once you cast each spell in this way, you can't cast that spell in this way again until you finish a [[Short Rest]] or [[Long Rest]].
+**Animalist.** You can cast the [[Animal Friendship]], [[Animal Messenger]], and [[Speak With Animals]] spells. You can cast each of these spells without expending a spell slot. Once you cast each spell in this way, you can't cast that spell in this way again until you finish a [[Short Rest]] or [[Long Rest]].
 
 **Ears of the Bat.** You have [[Blindsight]] with a range of 60 feet.
 

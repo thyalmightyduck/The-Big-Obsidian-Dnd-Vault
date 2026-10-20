@@ -61,7 +61,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 Spell Slots. The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield Of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -108,13 +108,13 @@ You gain domain spells at the cleric levels listed in the Shadow Domain Spells t
 
 | Cleric Level | Spells                                                |
 | ------------ | ----------------------------------------------------- |
-| 1st          | [[false life]], [[sleep]]                             |
-| 3rd          | [[darkness]], [[pass without trace]]                  |
-| 5th          | [[hypnotic pattern]], [[nondetection]]                |
-| 7th          | [[Evard's Black Tentacles]], [[greater invisibility]] |
-| 9th          | [[cone of cold]], [[dream]]                           |
+| 1st          | [[False Life]], [[Sleep]]                             |
+| 3rd          | [[darkness]], [[Pass Without Trace]]                  |
+| 5th          | [[Hypnotic Pattern]], [[Nondetection]]                |
+| 7th          | [[Evard's Black Tentacles]], [[Greater Invisibility]] |
+| 9th          | [[Cone of Cold]], [[Dream]]                           |
 ### Level 1: Bonus Cantrips
-You learn the [[chill touch]] and [[minor illusion]] cantrips. These cantrips count as cleric spells for you, and don't count against the number of cleric cantrips you know.
+You learn the [[Chill Touch]] and [[Minor Illusion]] cantrips. These cantrips count as cleric spells for you, and don't count against the number of cleric cantrips you know.
 
 ### Level 1: Shadow Sight
 You can see normally in darkness, both magical and nonmagical, out to a distance of 300 feet.

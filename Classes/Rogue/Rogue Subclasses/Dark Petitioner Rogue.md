@@ -87,9 +87,9 @@ Though some Dark Petitioners worship the Six as great leaders to venerate and em
 
 ### Level 3: Spellcasting
 When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the [[Cleric Spell List]].
-**Cantrips:** You learn the [[guidance]] cantrip and two cantrips of your choice from the following list: [[dancing lights]], [[friends]], [[message]], [[resistance]], [[spare the dying]], [[thaumaturgy]], [[true strike]], and [[Travelers enigma]]. At 10th level, you learn another cantrip of your choice from this list.
+**Cantrips:** You learn the [[Guidance]] cantrip and two cantrips of your choice from the following list: [[Dancing Lights]], [[Friends]], [[Message]], [[resistance]], [[Spare the Dying]], [[Thaumaturgy]], [[True Strike]], and [[Travelers enigma]]. At 10th level, you learn another cantrip of your choice from this list.
 **Spell Slots:** The Dark Petitioner Spellcasting table shows how many spell slots you have to cast your Cleric Spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-For example, if you know the 1st-level spell [[cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[cure wounds]] using either slot.
+For example, if you know the 1st-level spell [[Cure Wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Cure Wounds]] using either slot.
 **Spells Known of 1st-Level and Higher:** You know three 1st-level cleric spells of your choice. The Spells Known column of the Dark Petitioner Spellcasting table shows when you learn more cleric spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
 Whenever you gain a level in this class, you can replace one of the cleric spells you know with another spell of your choice from the cleric spell list. The new spell must be of a level for which you have spell slots.
 **Spellcasting Ability:** Wisdom is your spellcasting ability for your cleric spells, since your spells come from your appeasement or veneration of the Dark Six. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
@@ -174,7 +174,7 @@ You gain the [[Ability Score Improvement feat]] or another [[feat]] of your 
 You gain a feature from your Rogue Subclass.
 
 ### Level 17: Keeper's End
-When you reduce a creature to 0 hit points, you can steal that creature's soul and keep it joined with your own. While a creature's soul is joined to yours, that creature can be restored to life only by a [[wish]] spell.
+When you reduce a creature to 0 hit points, you can steal that creature's soul and keep it joined with your own. While a creature's soul is joined to yours, that creature can be restored to life only by a [[Wish]] spell.
 Additionally, when you have to make a [[Death Saving Throws|death saving throw]], you can instead choose to release a soul you have stolen. When you do so, you regain 1 hit point, and that soul is no longer joined to yours.
 
 ## Level 18: Elusive

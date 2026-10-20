@@ -96,11 +96,11 @@ You gain oathbreaker spells at the paladin levels listed.
 
 | Paladin Level | Spells                                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 3rd           | [[hellish rebuke]], [[inflict wounds]]                                                                                         |
-| 5th           | [[crown of madness]], [[darkness]]                                                                                             |
-| 9th           | [[animate dead]], [[bestow curse]]                                                                                             |
-| 13th          | [[blight]], [[confusion]]                                                                                                      |
-| 17th          | [[contagion]], [[dominate person]] |
+| 3rd           | [[Hellish Rebuke]], [[Inflict Wounds]]                                                                                         |
+| 5th           | [[Crown of Madness]], [[darkness]]                                                                                             |
+| 9th           | [[Animate Dead]], [[Bestow Curse]]                                                                                             |
+| 13th          | [[Blight]], [[Confusion]]                                                                                                      |
+| 17th          | [[Contagion]], [[Dominate Person]] |
 ### Channel Divinity
 An Oathbreaker paladin of 3rd level or higher gains the following two Channel Divinity options.
 **Control Undead:** As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin's commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin's level is immune to this effect.

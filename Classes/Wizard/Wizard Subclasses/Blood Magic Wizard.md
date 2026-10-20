@@ -42,7 +42,7 @@ tags:
 **Weapon Proficiencies:** [[Simple Weapons]]
 
 **Starting Equipment:** _Choose A or B:_ 
-(A) 2 [[Dagger]]s, [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
+(A) 2 [[Dagger]]s, [[Rules/Core Rules/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or 
 (B) 55 GP
 
 ##### Multiclassing
@@ -73,7 +73,7 @@ Changing Your Prepared Spells. Whenever you finish a [[Long Rest]], you can ch
 
 Spellcasting Ability. Intelligence is your spellcasting ability for your Wizard spells.
 
-Spellcasting Focus. You can use an [[Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
+Spellcasting Focus. You can use an [[Rules/Core Rules/Arcane Focus]] or your spellbook as a [[Spellcasting Focus]] for your Wizard spells.
 
 #### Expanding and Replacing a Spellbook
 The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
@@ -106,7 +106,7 @@ Considered taboo by many societies and magic practitioners, the use of blood mag
 The secrets of [[hemocraft]] and other forms of blood magic were once the sole purview of the mysterious Claret Orders. In recent years, however, these secrets have begun to spread beyond the order's members and into the hands of less scrupulous mages. Blood magic has a bad reputation in Tal'Dorei, even though its powers can be used for much more than evil.
 
 ### Blood Channeling
-When you choose this arcane tradition at 2nd level, you are able to use your own depleted life essence to channel your magical abilities. Whenever your current hit points are below your hit point maximum, you can use your own body as an [[arcane focus]].
+When you choose this arcane tradition at 2nd level, you are able to use your own depleted life essence to channel your magical abilities. Whenever your current hit points are below your hit point maximum, you can use your own body as an [[Rules/Core Rules/Arcane Focus]].
 
 In addition, when casting a wizard spell that requires a costly material component, you can forego the component by taking 1d10 necrotic damage per 50 gp of the cost of the component (minimum 1d10). This damage can't be reduced in any way. If this damage reduces you to 0 hit points, the spell fails but the spell slot is not expended.
 

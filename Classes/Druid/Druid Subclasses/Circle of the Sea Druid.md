@@ -135,7 +135,7 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 
 | Druid Level | Prepared Spells                                                                                                                              |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd         | [[Fog Cloud]], [[Gust of Wind]], [[Ray of Frost]], [[Shatter]], [[Thunderwave]]                                                              |
+| 3rd         | [[Fog Cloud]], [[Gust Of Wind]], [[Ray of Frost]], [[Shatter]], [[Thunderwave]]                                                              |
 | 5th         | [[Lightning Bolt]], [[Water Breathing]]                                                                                                      |
 | 7th         | [[Control Water]], [[Ice Storm]]                                                                                                             |
 | 9th         | [[Conjure Elemental]], [[Hold Monster]] |

@@ -11,5 +11,5 @@ Owner: [[Mati Tommten]]
 - [[Poisoners Kit]] _(50 gp)_  
 - Potion of Greater Healing _(100 gp)_  
 - Potion of Gaseous Form _(500 gp)_  
-- [[Antitoxin]] ([[vial]]) _(50 gp)_  
+- [[Antitoxin]] ([[Rules/Core Rules/Vial]]) _(50 gp)_  
 - [[Potion of Water Breathing]] _(100 gp)_

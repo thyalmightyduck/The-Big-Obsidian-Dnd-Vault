@@ -42,7 +42,7 @@
 
 You start with the following items, plus anything provided by your background:
 - (a) a [[Light Crossbow]] and 20 bolts, (b) a [[Shortsword]] or (c) any [[Simple Weapons]]
-- (a) a [[Component Pouch]] or (b) an [[arcane focus]]
+- (a) a [[Component Pouch]] or (b) an [[Rules/Core Rules/Arcane Focus]]
 - (a) a [[Scholar's Pack]] or (b) a [[Dungeoneers Pack]]
 - [[Hide Armor]], any [[Simple Weapons]], and two [[Dagger]]s
 - a [[Healers Kit]]
@@ -58,7 +58,7 @@ When you gain a level in a class other than your first, you gain only some of th
 ## Level 1: Apothecary 
 Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the [[Apothecary Spell List]].
 ### Formula Book
-You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[arcane focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
+You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an [[Rules/Core Rules/Arcane Focus]] for your apothecary spells. You may describe this book any way you like. Some examples of your book's appearance include:
 - A large leatherbound tome with yellowing pages bound shut with an iron lock
 - A scattered assortment of scribbled notes loosely held together by rope
 - A pristine journal with perfect edges and beautiful penmanship
@@ -81,7 +81,7 @@ Intelligence is your spellcasting ability for your apothecary spells, since you 
 ### Ritual Casting
 You can cast an apothecary spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 ### Spellcasting Focus
-You can use an [[arcane focus]] as a spellcasting focus for your apothecary spells.
+You can use an [[Rules/Core Rules/Arcane Focus]] as a spellcasting focus for your apothecary spells.
 
 ## Level 1: Occult Practice
 At 1st level, you take up one of the Occult Practices, a chosen discipline which defines your ongoing research of the body and spirit: the Alienist, the Chemist, the Exorcist, the Mutagenist, the Pathogenist, or the Reanimator.
@@ -91,7 +91,7 @@ Your choice grants you additional proficiencies and an expanded spell list at 1s
 A Chemist is a studied scientist whose advanced research in to chemical compounds has granted them the ability to terrorize their enemies with alchemical explosions, devastating gasses, and other horrific concoctions. Chemists love testing their new compounds in the field, and are always keen to advance their study and research further, finding new combinations to combust their foes with.
 
 ### Level 1: Chemical Compound
-You gain proficiency in [[Alchemists Supplies]] if you do not already have it. You also learn the [[fire bolt]] cantrip and one additional evocation cantrip of your choice from the wizard spell list. These cantrips count as apothecary cantrips for you, but do not count against your cantrips known.
+You gain proficiency in [[Alchemists Supplies]] if you do not already have it. You also learn the [[Fire Bolt]] cantrip and one additional evocation cantrip of your choice from the wizard spell list. These cantrips count as apothecary cantrips for you, but do not count against your cantrips known.
 
 ### Level 1: Chemist Spells
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Chemist Spells table. These spells count as apothecary spells for you, but they don't count against the number of apothecary spells you prepare
@@ -100,11 +100,11 @@ You always have certain spells prepared after you reach particular levels in thi
 
 | Apothecary Level | Spell                                     |
 | ---------------- | ----------------------------------------- |
-| 1st              | [[burning hands]], [[grease]]             |
-| 3rd              | [[Melf's Acid Arrow]], [[flaming sphere]] |
-| 5th              | [[fireball]], [[stinking cloud]]          |
-| 7th              | [[ice storm]], [[wall of fire]]           |
-| 9th              | [[cloudkill]], [[cone of cold]]           |
+| 1st              | [[Burning Hands]], [[Grease]]             |
+| 3rd              | [[Melf's Acid Arrow]], [[Flaming Sphere]] |
+| 5th              | [[Fireball]], [[Stinking Cloud]]          |
+| 7th              | [[Ice Storm]], [[Wall Of Fire]]           |
+| 9th              | [[Cloudkill]], [[Cone of Cold]]           |
 
 ## Level 2: Esoteric Theories
 You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.
