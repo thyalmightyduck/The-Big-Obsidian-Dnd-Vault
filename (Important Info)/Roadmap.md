@@ -5,6 +5,7 @@ Artificer
 	+2 Weapons
 	Magic Items Armor Properties
 Adding Items Last Left off Finished Adventuring Gear Filter
+Formatting Magic Items Finished Adventuring Gear 
 # Second Quest
 2 person dnd one shots 
 # Main Tasks
