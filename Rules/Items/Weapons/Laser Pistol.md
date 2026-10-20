@@ -1,17 +1,19 @@
+#### Laser Pistol
+
+Weapon, Futuristic, Martial Weapon, Ranged Weapon, Firearm, 2 lb.
+
+3d6 Radiant
+
+Ammunition (40/120 ft.; *Energy Cell*), Reload (50 shots)
+
+Mastery:  Vex
+
 ---
-{}
----
-**Weapon:** 3d6 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm
-**Properties:** Ammunition (40/120 ft.; Energy Cell), Reload (50 shots)
-2 lb.
-**Mastery:** Vex
 
-**Range:** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the [[Attack Rolls]]. You can't attack a target beyond the long range.
+***Range.*** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have Disadvantage on the attack roll. You can't attack a target beyond the long range.
 
-**Ammunition:** You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+***Ammunition.*** Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at the GM's discretion.
 
-**Heavy:** You have [[Disadvantage]] on [[attack rolls]] with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+***Reload.*** You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a Bonus Action.
 
-**Two-Handed:** A Two-Handed weapon requires two hands when you attack with it.
-
-**Mastery: Slow:** If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
+***Mastery: Vex.*** If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.

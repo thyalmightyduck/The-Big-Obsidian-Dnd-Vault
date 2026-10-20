@@ -4,7 +4,7 @@ Artificer
 	Armor of Resistance Links
 	+2 Weapons
 	Magic Items Armor Properties
-Adding Items Last Left off Finished Adventuring Gear Filter
+Adding Items Last Left off Finished Gaming Set
 Formatting Magic Items Finished Adventuring Gear 
 # Second Quest
 2 person dnd one shots 

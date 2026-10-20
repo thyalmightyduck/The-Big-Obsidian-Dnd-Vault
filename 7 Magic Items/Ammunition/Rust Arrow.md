@@ -1,0 +1,11 @@
+#### Rust Arrow
+
+Ammunition (*Arrow*), Uncommon, Minor Tier, 0.8 oz.
+
+---
+
+Rust arrows are typically made in sets of 5 using the remains of a rust monster's antennae and chitinous hide. When found, a quiver of rust arrows contains 1d3 + 2 of the magic ammunition. Once it hits a target, an arrow flakes away into dust and is destroyed.
+
+When you make a ranged attack with a rust arrow and hit a target that is either wearing nonmagical metal armor or holding a nonmagical metal shield or weapon, that armor or weapon takes a permanent and cumulative –1 penalty to its AC or damage rolls, respectively. You choose what object takes the penalty. If an armor's penalty reduces its AC to 10 or its bonus to AC to +0, or if a weapon's penalty drops to –5, the object is destroyed.
+
+If the target is a nonmagical ferrous metal object that isn't being worn or carried, the arrow destroys a 1-foot cube of it.
