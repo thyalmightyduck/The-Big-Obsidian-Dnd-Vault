@@ -4161,6 +4161,112 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Aboling",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Abolng BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Aboling",
+        "size": "Tiny",
+        "type": "Aberration",
+        "subtype": "(Bespoke Companion, Crafted Familiar)",
+        "alignment": "Neutral Evil",
+        "ac": "12 (natural armor)",
+        "hp": 4,
+        "hit_dice": "1d4 + 2",
+        "speed": "25 ft., Swim 40 ft.",
+        "stats": [
+          13,
+          9,
+          14,
+          14,
+          11,
+          13
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 4
+          },
+          {
+            "History": 4
+          },
+          {
+            "Insight": 2
+          },
+          {
+            "Perception": 2
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12, Passive Insight 12, Passive Stealth 9",
+        "languages": "Understands emotions and imagery but doesn't speak, telepathy 30 ft.",
+        "cr": "1/8",
+        "actions": [
+          {
+            "name": "Tentacle:",
+            "desc": "*Melee Weapon Attack:*  +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage."
+          },
+          {
+            "name": "Detect Thoughts (1/Day):",
+            "desc": "The aboling learns the surface thoughts of one creature it can see within 30 feet of it for the next minute. It can attempt to probe deeper into the same creature's mind, using an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> to force the target to make a DC 12 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. If it fails, the aboling gains insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the effect ends. Either way, the target knows that the aboling was probing deep into its mind."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Adult Snarite",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Adult Snarite BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Adult Snarite",
+        "size": "Tiny",
+        "type": "Aberration",
+        "alignment": "Neutral Evil",
+        "ac": 14,
+        "hp": 18,
+        "hit_dice": "4d4 + 8",
+        "speed": "5 ft., Fly 15 ft.",
+        "stats": [
+          14,
+          18,
+          15,
+          10,
+          12,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 6
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 11, Passive Insight 11, Passive Stealth 16",
+        "languages": "—",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Muddled Thoughts:",
+            "desc": "Although an adult snarite cannot control the actions of its host, it can cloud a host's thoughts, inclining the host to make poor or irrational decisions. The host also refuses to cut their hair, thus saving the adult snarite from harm."
+          },
+          {
+            "name": "Wisdom Drinker:",
+            "desc": "After being infected by a <STATBLOCK-WIKI-LINK>young snarite<STATBLOCK-WIKI-LINK> for a year, the host is subjected to the following effect. *Wisdom <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 11. *Failure:* The target's Wisdom score is permanently reduced by 2."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Tail:",
+            "desc": "*Melee Attack Roll:*  +6 to hit, reach 5 ft. *Hit:* 6 (1d4 + 4) Slashing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Deflect Damage:",
+            "desc": "*Trigger:* The adult snarite is hit with a melee attack. *Response:* The adult snarite deflects the damage onto its host instead."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

@@ -1,3 +1,10 @@
+---
+tags:
+  - Monster
+  - Aberration
+  - CRCotN
+  - CR5
+---
 # Critical Roll: Call of the Netherdeep (CRCotN)
 ___
 ## Aboleth Spawn
