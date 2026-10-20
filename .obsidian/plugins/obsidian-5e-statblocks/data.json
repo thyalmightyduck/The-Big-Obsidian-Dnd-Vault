@@ -3941,6 +3941,159 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Aboleth Broodmother",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Aboleth Broodmother BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Aboleth Broodmother",
+        "size": "Large",
+        "type": "Aberration",
+        "alignment": "Lawful Evil",
+        "ac": "17 (natural armor)",
+        "hp": 210,
+        "hit_dice": "20d10 + 100",
+        "speed": "15 ft., Swim 40 ft.",
+        "stats": [
+          21,
+          10,
+          20,
+          18,
+          14,
+          18
+        ],
+        "saves": [
+          {
+            "CON": 10
+          },
+          {
+            "INT": 9
+          },
+          {
+            "WIS": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 10
+          },
+          {
+            "History": 14
+          },
+          {
+            "Perception": 12
+          }
+        ],
+        "damage_immunities": "Poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 22, Passive Insight 12, Passive Stealth, Passive Stealth 10",
+        "languages": "Deep Speech, telepathy 120 ft.",
+        "cr": 16,
+        "legendary_description": "The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.",
+        "traits": [
+          {
+            "name": "Amphibious:",
+            "desc": "The aboleth can breathe air and water."
+          },
+          {
+            "name": "Infectious Mucus:",
+            "desc": "The aboleth is surrounded by infectious mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 18 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failure, the creature is diseased. For the first hour of the disease, the creature takes 4 (1d8) necrotic damage each time it ends its turn out of water (it must be at least neck-deep to avoid this damage). After the first hour and until the disease is cured, a creature is unable to gain the benefits of a short or <STATBLOCK-WIKI-LINK>long rest<STATBLOCK-WIKI-LINK> if it does not spend the rest at least neck-deep in water. <P>A creature that fails the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> by 5 or more becomes a host for 1d4 <STATBLOCK-WIKI-LINK>broodling<STATBLOCK-WIKI-LINK> eggs that hatch within 3d6 days."
+          },
+          {
+            "name": "Legendary Resistance (3/Day):",
+            "desc": "If the aboleth fails a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, it can choose to succeed instead."
+          },
+          {
+            "name": "Mother of the Swarm (Recharges after a Short or <STATBLOCK-WIKI-LINK>Long Rest<STATBLOCK-WIKI-LINK>):",
+            "desc": "If the aboleth would be reduced to 0 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK>, its current <STATBLOCK-WIKI-LINK>hit point<STATBLOCK-WIKI-LINK> total instead resets to 210, it regains any expended uses of Legendary Resistance, it births 2 broodlings, and it gains 210 <STATBLOCK-WIKI-LINK>Temporary Hit Point|temporary hit points<STATBLOCK-WIKI-LINK> as a flurry of swamp fauna swarms over it to protect it. Additionally, the aboleth gains a +5 bonus to its attack and damage rolls and can now use the options in the *Mythic Actions* section for 1 hour. Award a party an additional 41,000 XP (56,000 XP total) for defeating the aboleth after its Mother of the Swarm activates."
+          },
+          {
+            "name": "Probing Telepathy:",
+            "desc": "If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The aboleth makes three Tentacle attacks and uses Birth, if available."
+          },
+          {
+            "name": "Tentacle:",
+            "desc": "*Melee Weapon Attack:*  +10 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage plus 4 (1d8) acid damage and the target must make a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> against the aboleth's Infectious Mucus trait."
+          },
+          {
+            "name": "Birth (Recharge 4-6):",
+            "desc": "The aboleth produces a <STATBLOCK-WIKI-LINK>broodling<STATBLOCK-WIKI-LINK> in an unoccupied space within 5 feet of it."
+          },
+          {
+            "name": "Entrance (3/Day):",
+            "desc": "The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 17 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be magically <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance. <P>Whenever the <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> target takes damage, the target can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> when it is at least 1 mile away from the aboleth. "
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Jet:",
+            "desc": "The aboleth spurts out a pall of ink, heavily obscuring a 20-foot-radius <STATBLOCK-WIKI-LINK>sphere<STATBLOCK-WIKI-LINK> of water centered on the aboleth until the start of its next turn. It then moves up to its swimming speed."
+          },
+          {
+            "name": "Tentacle:",
+            "desc": "The aboleth makes one Tentacle attack."
+          },
+          {
+            "name": "Suction Drain (Costs 2 Actions):",
+            "desc": "The aboleth attempts to <STATBLOCK-WIKI-LINK>Grapple Action|grapple<STATBLOCK-WIKI-LINK> one creature within 10 feet of it with a special tentacle. A creature <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> by the aboleth automatically fails this contested check. If the aboleth succeeds, the creature takes 21 (6d6) necrotic damage and the aboleth regains <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> equal to half the damage dealt. The target's <STATBLOCK-WIKI-LINK>hit point<STATBLOCK-WIKI-LINK> maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a <STATBLOCK-WIKI-LINK>long rest<STATBLOCK-WIKI-LINK>. The target dies if this effect reduces its <STATBLOCK-WIKI-LINK>hit point<STATBLOCK-WIKI-LINK> maximum to 0."
+          }
+        ],
+        "mythic_description": "If the aboleth's Mother of the Swarm trait has activated in the last hour, it can use the options below as legendary actions.",
+        "mythic_actions": [
+          {
+            "name": "Gestate:",
+            "desc": "The aboleth recharges and uses Birth. It must use a different legendary action before it can use this one again."
+          },
+          {
+            "name": "Rapid Suction Drain.",
+            "desc": "The aboleth uses its Suction Drain legendary action option. It must use a different legendary action before it uses this one again."
+          }
+        ],
+        "lair_actions": [
+          {
+            "name": "Lair Actions:",
+            "desc": "So long as the aboleth broodmother or one of its offspring is alive and within the lake, it can evoke the ambient magic to take lair actions. The DCs and damage of the lair actions and environmental hazards depend on the level at which you run the hunt. <P>**Hunt Level**: 5, **VDC:** 13, **Vmod:** + 5, **Vdam:** 5 (2d4). <P> **Hunt Level:** 11th, **VDC:** 15, **Vmod:** + 7, **Vdam:** 10 (3d6). <P> **Hunt Level:** 17th, **VDC:** 17, **VMOD** + 9, **Vdam:** 21 (6d6). <P>On <STATBLOCK-WIKI-LINK>initiative<STATBLOCK-WIKI-LINK> count 20 (losing <STATBLOCK-WIKI-LINK>initiative<STATBLOCK-WIKI-LINK> ties), the aboleth takes one of the following lair actions; the aboleth can't take the same lair action two rounds in a row. See the table above for the damage and save DC."
+          },
+          {
+            "name": "Tempestuous Turbulence:",
+            "desc": "The water within the lair writhes and swirls, causing 6-foot-tall waves to crash over all the low-lying islands. Each creature in the water, or on the ground less than 5 feet above the water's surface, must make a VDC Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be pulled up to 20 feet into the water."
+          },
+          {
+            "name": "Plague Tide:",
+            "desc": "The water begins to bubble, filling the lair with noxious, aerosolised droplets. A creature is affected even if it doesn't need to breathe. Each creature must succeed on a VDC Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or become <STATBLOCK-WIKI-LINK>poisoned<STATBLOCK-WIKI-LINK>. If running this hunt at 11th or 17th level, the creature is <STATBLOCK-WIKI-LINK>poisoned<STATBLOCK-WIKI-LINK> as if it had failed a <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> against the *<STATBLOCK-WIKI-LINK>contagion<STATBLOCK-WIKI-LINK>* spell (no <STATBLOCK-WIKI-LINK>concentration<STATBLOCK-WIKI-LINK> required). A creature can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> at the end of each of its turns, ending the effect for it on a success."
+          },
+          {
+            "name": "Aqua Phantasm",
+            "desc": "Water in the aboleth broodmother's lair magically becomes a conduit for the unspeakable horrors the broodmother has witnessed in its vast memory. Each creature of the broodmother or broodlings' choice within the lair's waters must succeed on a VDC Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take Vdam psychic damage and become <STATBLOCK-WIKI-LINK>frightened<STATBLOCK-WIKI-LINK> of the huddled mass of creatures (wave 1), the chrysalis (wave 2), or the broodmother (wave 3) until the end of its next turn."
+          }
+        ],
+        "regional_effects": [
+          {
+            "name": "Regional Effect:",
+            "desc": "The region containing an aboleth broodmother's lair is warped by millenia of tinkering with the flora and fauna, creating one or more of the following effects:"
+          },
+          {
+            "name": " ",
+            "desc": "Never-before-seen fauna, often sporting sacs of unborn broodlings, proliferate within 6 miles of the lair."
+          },
+          {
+            "name": "  ",
+            "desc": "Creatures in contact with water within 6 miles of the lair feel a compulsion to move towards the lair's center."
+          },
+          {
+            "name": "   ",
+            "desc": "Within 1 mile of the lair, thickets of dense vegetation allow passage only for the broodmother, broodlings, or creatures controlled by either. Each 5-foot-<STATBLOCK-WIKI-LINK>cube<STATBLOCK-WIKI-LINK> of thicket has an AC of 15, 50 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK>, **<STATBLOCK-WIKI-LINK>vulnerability<STATBLOCK-WIKI-LINK>** to cold damage, **<STATBLOCK-WIKI-LINK>resistance<STATBLOCK-WIKI-LINK>** to bludgeoning damage, and **<STATBLOCK-WIKI-LINK>immunity<STATBLOCK-WIKI-LINK>** to piercing, poison, and psychic damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

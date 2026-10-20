@@ -27,7 +27,7 @@ ___
 >
 >***Sticky Mucus.*** When a creature hits the chrysalis with a melee attack, it must succeed on a DC 17 Strength saving throw or become disarmed as its weapon stays stuck to the creature. A creature can use an action to make a DC 17 Strength (Athletics) check, freeing a stuck weapon within its reach on a success. If the attack requires that the attacker touch the aboleth (GM's discretion), then the attacker becomes grappled (escape DC 17) on a failed save. While it is grappled, it can't use that limb. If the attack is a bite, then the creature can't speak while it is grappled in this way.  
 >
->***Transitional State.*** The chrysalis turns into an aboleth broodmother at the start of its fourth turn after becoming a chrysalis, ending any grapples it is a part of.  
+>***Transitional State.*** The chrysalis turns into an [[aboleth broodmother]] at the start of its fourth turn after becoming a chrysalis, ending any grapples it is a part of.  
 >
 >### Actions
 >***Multiattack.*** The chrysalis makes three Sticky Ectoplasm attacks. Each attack must be against a different target.  
