@@ -1,10 +1,5 @@
 # Last Left Off
-add properties for monster to import to the vtt
-Artificer 
-	Armor of Resistance Links
-	+2 Weapons
-	Magic Items Armor Properties
-Adding Items Last Left off Finished Gaming Set
+Adding Items Last Left off Finished Instruments
 Formatting Magic Items Finished Adventuring Gear 
 # Second Quest
 2 person dnd one shots 
