@@ -3,136 +3,94 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Rules/Spells  ",
+      "query": "path:\"1 Daily Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 16449791
-      }
-    },
-    {
-      "query": "path:\"Rules/Core Rules\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:Rules/Backgrounds  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"1 Daily Notes/Executive Outcomes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:\"1 Daily Notes/The Three Vedos\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
+        "rgb": 16769305
       }
     },
     {
       "query": "path:\"2 Characters\"  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:\"3 The Kingdom Of Oskana\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
+        "rgb": 14803225
       }
     },
     {
       "query": "path:\"3 The Kingdom Of Nesafia\"  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
+        "rgb": 16769305
       }
     },
     {
-      "query": "path:\"4 Gods Of The Lands\"  ",
+      "query": "path:\"3 The Kingdom Of Oskana\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048429
+        "rgb": 16769305
       }
     },
     {
       "query": "path:\"5 Monster Stat Blocks\"  ",
       "color": {
         "a": 1,
-        "rgb": 12736256
+        "rgb": 15079755
       }
     },
     {
       "query": "path:\"7 Magic Items\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 9510580
       }
     },
     {
-      "query": "path:Pictures  ",
+      "query": "path:Classes  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 4416472
       }
     },
     {
-      "query": "path:Rules/Species  ",
+      "query": "path:Items  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 16089649
       }
     },
     {
-      "query": "path:Rules/Classes  ",
+      "query": "path:Species  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 3978315
       }
     },
     {
-      "query": "path:Rules/Feats  ",
+      "query": "path:Spells  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 4379892
       }
     },
     {
-      "query": "path:Rules/Items  ",
+      "query": "path:Rules  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "path:Rules/Reactions  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
+        "rgb": 15741670
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 1.18888888888889,
+  "nodeSizeMultiplier": 1.41307189542484,
   "lineSizeMultiplier": 0.1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.300653594771242,
   "repelStrength": 20,
   "linkStrength": 0.496732026143791,
