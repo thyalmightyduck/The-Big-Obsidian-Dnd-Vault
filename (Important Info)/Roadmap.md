@@ -1,5 +1,5 @@
 # Last Left Off
-Adding Items Last Left off Finished Instruments
+Adding Items Last Left off Finished Martial Weapons
 Formatting Magic Items Finished Adventuring Gear 
 Formatting Monsters [[Allopine]]
 # Second Quest
