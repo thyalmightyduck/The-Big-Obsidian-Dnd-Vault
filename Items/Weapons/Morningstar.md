@@ -1,10 +1,11 @@
----
-{}
----
-**Weapon:** 1d8 Piercing, Martial Weapon, Melee Weapon
-15 GP, 4 lb.
-**Mastery:** Sap
+#### Morningstar
 
-**Mastery: Sap.** If you hit a creature with this weapon, that creature has [[Disadvantage]] on its next attack roll before the start of your next turn.
+Weapon, Martial Weapon, Melee Weapon, 15 GP, 4 lb.
 
-![[Morningstar BGR PNG.png]]
+1d8 Piercing
+
+Mastery:  Sap
+
+---
+
+***Mastery: Sap.*** If you hit a creature with this weapon, that creature has Disadvantage on its next attack roll before the start of your next turn.

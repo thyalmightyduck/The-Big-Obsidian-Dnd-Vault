@@ -4327,6 +4327,70 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Allopine",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Allopine BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Allopine",
+        "size": "Small",
+        "type": "Aberration",
+        "ac": 12,
+        "hp": 21,
+        "hit_dice": "6d6",
+        "speed": "30 ft., Fly 30 ft.",
+        "stats": [
+          6,
+          15,
+          10,
+          8,
+          13,
+          5
+        ],
+        "skillsaves": [
+          {
+            "Perception": 3
+          },
+          {
+            "Stealth": 4
+          }
+        ],
+        "senses": "Darkvision 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 13, Passive Insight 11, Passive Stealth 14",
+        "languages": "Understands Deep Speech but can't speak",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Alien Intellect:",
+            "desc": "The allopine is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (<STATBLOCK-WIKI-LINK>Insight<STATBLOCK-WIKI-LINK>) checks made to ascertain the allopine's intentions or sincerity have <STATBLOCK-WIKI-LINK>Disadvantage<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Delerium Healing:",
+            "desc": "As an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK>, the allopine can touch a delerium <STATBLOCK-WIKI-LINK>shard<STATBLOCK-WIKI-LINK> to regain 10 (3d6) <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK>. Once the allopine has used a delerium <STATBLOCK-WIKI-LINK>shard<STATBLOCK-WIKI-LINK> in this way, the <STATBLOCK-WIKI-LINK>shard<STATBLOCK-WIKI-LINK> can't be used in this manner again for 24 hours."
+          },
+          {
+            "name": "Fully Contaminated:",
+            "desc": "The allopine is immune to <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK> and has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> against contaminated spells. The allopine may cast contaminated spells even though it does not gain <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK> levels."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The allopine makes three Quill attacks."
+          },
+          {
+            "name": "Quill:",
+            "desc": "*Melee  or Ranged Attack Roll:*  +4, reach 5 ft. or range 20/60 ft. *Hit:* 5 (1d6 + 2) Piercing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Nimble Escape:",
+            "desc": "The allopine takes the <STATBLOCK-WIKI-LINK>Disengage Action|Disengage<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>Hide action<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {

@@ -1,13 +1,15 @@
+#### Battleaxe
+
+Weapon, Martial Weapon, Melee Weapon, 10 GP, 4 lb.
+
+1d8 Slashing
+
+Versatile (1d10)
+
+Mastery:  Topple
+
 ---
-{}
----
-**Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon
-**Properties:** Versatile (1d10)
-10 GP, 4 lb.
-**Mastery:** Topple
 
-**Versatile.** A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
+***Versatile.*** A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
 
-**Mastery: Topple.** If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [[Proficiency Bonus]]). On a failed save, the creature has the [[Prone]] condition.
-
-![[Battleaxe BGR PNG.png]]
+***Mastery: Topple.*** If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.

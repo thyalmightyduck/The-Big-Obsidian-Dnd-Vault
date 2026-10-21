@@ -1,0 +1,23 @@
+#### Knight's Standard of Vigor
+
+Weapon (*Pike*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 18 lb.
+
+1d10 Piercing
+
+Heavy, Reach, Two‑Handed
+
+Mastery:  Push
+
+---
+
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. While wielding this brass *Pike*, you radiate health and vitality. When you or an ally within 10 feet of you makes a saving throw to avoid or end the Poisoned condition, the creature can add its Proficiency Bonus to the save if it wouldn't already. In addition, when an affected ally regains Hit Points from a spell or potion while in combat, you can take a Reaction to cause that ally to regain an extra 1d6 + 2 Hit Points.
+
+You can change the design and color of the weapon's flag by focusing on it over the course of 1 hour, which can be done during a Short Rest.
+
+***Heavy.*** You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+
+***Reach.*** A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
+
+***Two-Handed.*** A Two-Handed weapon requires two hands when you attack with it.
+
+***Mastery: Push.*** If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.

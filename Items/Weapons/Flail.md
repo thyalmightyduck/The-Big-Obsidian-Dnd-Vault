@@ -1,9 +1,11 @@
----
-{}
----
-**Weapon:** 1d8 Bludgeoning, [[Martial Weapons]], [[Melee Weapons]] 
-**Properties:** 
-50 GP 2lbs
-**Mastery:** Sap
+#### Flail
 
-**Mastery: Sap:** If you hit a creature with this weapon, that creature has [[Disadvantage]] on its next attack roll before the start of your next turn.
+Weapon, Martial Weapon, Melee Weapon, 10 GP, 2 lb.
+
+1d8 Bludgeoning
+
+Mastery:  Sap
+
+---
+
+***Mastery: Sap.*** If you hit a creature with this weapon, that creature has Disadvantage on its next attack roll before the start of your next turn.

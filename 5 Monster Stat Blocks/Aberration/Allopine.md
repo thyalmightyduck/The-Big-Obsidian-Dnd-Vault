@@ -40,3 +40,37 @@ ___
 
 ### [[Bonus Action|Bonus Actions]]
 ***Nimble Escape.*** The allopine takes the [[Disengage Action|Disengage]] or [[Hide action]].
+
+```statblock
+layout: Basic 5e Layout
+image: [[Allopine BGR PNG.png]]
+name: Allopine
+size: Small
+type: Aberration
+ac: 12
+hp: 21
+hit_dice: 6d6
+speed: 30 ft., Fly 30 ft.
+stats: [6, 15, 10, 8, 13, 5]
+skillsaves:
+  - Perception: +3
+  - Stealth: +4  
+senses: Darkvision 60 ft., [[Passive Perception]] 13, Passive Insight 11, Passive Stealth 14
+languages: Understands Deep Speech but can't speak
+cr: 1
+traits:
+  - name: "Alien Intellect:"
+    desc: "The allopine is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([[Insight]]) checks made to ascertain the allopine's intentions or sincerity have [[Disadvantage]]."
+  - name: "Delerium Healing:"
+    desc: "As an [[action]], the allopine can touch a delerium [[shard]] to regain 10 (3d6) [[Hit Point|Hit Points]]. Once the allopine has used a delerium [[shard]] in this way, the [[shard]] can't be used in this manner again for 24 hours."
+  - name: "Fully Contaminated:"
+    desc: "The allopine is immune to [[Contamination]] and has [[Advantage]] on [[Saving Throw|saving throws]] against contaminated spells. The allopine may cast contaminated spells even though it does not gain [[Contamination]] levels."      
+actions:
+  - name: "Multiattack:"
+    desc: "The allopine makes three Quill attacks."
+  - name: "Quill:"
+    desc: "*Melee  or Ranged Attack Roll:*  +4, reach 5 ft. or range 20/60 ft. *Hit:* 5 (1d6 + 2) Piercing damage."     
+bonus_actions:
+  - name: "Nimble Escape:"
+    desc: "The allopine takes the [[Disengage Action|Disengage]] or [[Hide action]]."
+```
