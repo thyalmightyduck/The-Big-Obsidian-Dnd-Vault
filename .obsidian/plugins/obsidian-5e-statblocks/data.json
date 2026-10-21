@@ -4267,6 +4267,66 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Agog",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Agog BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Agog",
+        "size": "Medium",
+        "type": "Aberration",
+        "ac": 13,
+        "hp": 30,
+        "hit_dice": "4d8 + 12",
+        "speed": "10 ft., Climb 10 ft.",
+        "stats": [
+          15,
+          6,
+          16,
+          3,
+          11,
+          5
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., Passive Perception 10, Passive Insight 10, Passive Stealth 8",
+        "languages": "Understands Deep Speech but can't speak",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Alien Intellect:",
+            "desc": "The agog is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (<STATBLOCK-WIKI-LINK>Insight<STATBLOCK-WIKI-LINK>) checks made to ascertain the agog's intentions or sincerity have <STATBLOCK-WIKI-LINK>Disadvantage<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Delerium Healing:",
+            "desc": "As an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK>, the agog can touch a delerium <STATBLOCK-WIKI-LINK>shard<STATBLOCK-WIKI-LINK> to regain 10 (3d6) <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK>. Once the agog has used a delerium <STATBLOCK-WIKI-LINK>shard<STATBLOCK-WIKI-LINK> in this way, the <STATBLOCK-WIKI-LINK>shard<STATBLOCK-WIKI-LINK> can't be used in this manner again for 24 hours."
+          },
+          {
+            "name": "Fully Contaminated:",
+            "desc": "The agog is immune to <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK> and has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> against contaminated spells. The agog may cast contaminated spells even though it does not gain <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK> levels."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The agog makes one Claw attack and one Bite attack."
+          },
+          {
+            "name": "Bite:",
+            "desc": "*Melee Attack Roll:*  +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage plus 3 (1d6) Acid damage."
+          },
+          {
+            "name": "Claw:",
+            "desc": "*Melee Attack Roll:*  +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Slashing damage, and if the target is Medium or smaller, it has the <STATBLOCK-WIKI-LINK>Prone|Prone condition<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Gobble:",
+            "desc": "The agog makes a Bite attack against a <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK> creature."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
