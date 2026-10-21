@@ -1,9 +1,11 @@
----
-{}
----
-**Weapon:** 1d6 Bludgeoning Simple Weapon, Melee Weapon
-**Properties:** 
-5 GP 4lbs
-**Mastery:** [[Sap]]
+#### Mace
 
-**Mastery: Sap:**  If you hit a creature with this weapon, that creature has [[Disadvantage]] on its next [[Attack Rolls]] before the start of your next turn.
+Weapon, Simple Weapon, Melee Weapon, 5 GP, 4 lb.
+
+1d6 Bludgeoning
+
+Mastery:  Sap
+
+---
+
+***Mastery: Sap.*** If you hit a creature with this weapon, that creature has Disadvantage on its next attack roll before the start of your next turn.
