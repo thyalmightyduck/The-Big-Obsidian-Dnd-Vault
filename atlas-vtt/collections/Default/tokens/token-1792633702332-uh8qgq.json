@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Amalgam",
+    "imagePath": "atlas-vtt/assets/Amalgam_1792633702220_oewfow.webp",
+    "size": 2.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Amalgam.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Amalgam_1792633702220_oewfow-f5b2aaf1.webp",
+    "id": "token-1792633702332-uh8qgq",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}

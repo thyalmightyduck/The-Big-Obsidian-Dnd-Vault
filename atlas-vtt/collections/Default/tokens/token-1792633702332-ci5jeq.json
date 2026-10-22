@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Agog",
+    "imagePath": "atlas-vtt/assets/Agog_1792633701985_dljnv7.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Agog.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Agog_1792633701985_dljnv7-827e0446.webp",
+    "id": "token-1792633702332-ci5jeq",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Alyxian Aboleth",
+    "imagePath": "atlas-vtt/assets/Alyxian_Aboleth_1792633702156_uq0848.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Alyxian Aboleth.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Alyxian_Aboleth_1792633702156_uq0848-9bd9c474.webp",
+    "id": "token-1792633702332-dxc0xv",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Aboling",
+    "imagePath": "atlas-vtt/assets/Aboling_1792633701799_tl66ea.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Aboling.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Aboling_1792633701799_tl66ea-fb4c4a41.webp",
+    "id": "token-1792633702332-6jupjl",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Aboleth Spawn",
+    "imagePath": "atlas-vtt/assets/Aboleth_Spawn_1792633701728_s4iv21.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Aboleth Spawn.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Aboleth_Spawn_1792633701728_s4iv21-db88652b.webp",
+    "id": "token-1792633702332-0iwcx2",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Adult Snarite",
+    "imagePath": "atlas-vtt/assets/Adult_Snarite_1792633701895_ue3ntx.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Adult Snarite.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Adult_Snarite_1792633701895_ue3ntx-233cb8db.webp",
+    "id": "token-1792633702332-hrb9d7",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}

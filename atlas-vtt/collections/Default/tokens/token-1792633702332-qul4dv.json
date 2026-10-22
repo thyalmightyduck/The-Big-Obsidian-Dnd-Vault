@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Amalgamation",
+    "imagePath": "atlas-vtt/assets/Amalgamation_1792633702294_ulr2sq.webp",
+    "size": 2.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Amalgamation.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Amalgamation_1792633702294_ulr2sq-d4a2f401.webp",
+    "id": "token-1792633702332-qul4dv",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}

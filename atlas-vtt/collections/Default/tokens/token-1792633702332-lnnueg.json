@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Allopine",
+    "imagePath": "atlas-vtt/assets/Allopine_1792633702095_l0iq29.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Allopine.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Allopine_1792633702095_l0iq29-9a39db57.webp",
+    "id": "token-1792633702332-lnnueg",
+    "createdAt": 1792633702332,
+    "modifiedAt": 1792633702332
+  }
+}
