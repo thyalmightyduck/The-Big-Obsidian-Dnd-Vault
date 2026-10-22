@@ -1,10 +1,7 @@
----
-tags:
-  - magicitem
----
-Ring, Rare (Requires [[Attunement]])
-- - - 
+#### Ring of Free Action
 
-While you wear this ring, [[Difficult Terrain]] doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [[Paralyzed]] or [[Restrained]] [[condition]].
+Ring, Rare (Requires Attunement)
 
-![[Ring of Free Action.png]]
+---
+
+While you wear this ring, Difficult Terrain doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the Paralyzed or Restrained condition.

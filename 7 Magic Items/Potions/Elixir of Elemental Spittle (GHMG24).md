@@ -1,0 +1,16 @@
+#### Elixir of Elemental Spittle
+
+Potion, Rare
+
+---
+
+This foul-smelling liquid is made from the saliva of an Elemental Troll. For one minute after consuming the potion, you can take a Bonus Action to spit energy at a creature within 5 feet of you. The target must succeed on a DC 12 Dexterity saving throw or take 2d6 damage of a type corresponding to the troll whose spittle was used to craft the potion. No damage is inflicted on a successful save.
+
+If the target rolls a natural 20 on its saving throw, the potion explodes inside you. You take 6d6 damage of the type listed for it, and the potion's duration ends immediately.
+
+Multiple variations of this item exist, as listed below:
+
+- *Elixir of Elemental Spittle, Fireborn*
+- *Elixir of Elemental Spittle, Seaborn*
+- *Elixir of Elemental Spittle, Stoneborn*
+- *Elixir of Elemental Spittle, Windborn*

@@ -1,8 +1,9 @@
----
-tags:
-  - magicitem
----
-*Shield, Uncommon*
-*6 Lbs*
+#### Sentinel Shield
 
-While holding this Shield, you have [[Advantage]] on [[Initiative]] rolls and Wisdom ([[Perception]]) checks. The Shield is emblazoned with a symbol of an eye.
+Shield (*Shield*), Uncommon, 6 lb.
+
+AC +2
+
+---
+
+While holding this Shield, you have Advantage on Initiative rolls and Wisdom (Perception) checks. The Shield is emblazoned with a symbol of an eye.

@@ -1,0 +1,9 @@
+#### Sir Varion's Shield
+
+Armor (*Shield*), Uncommon (Requires Attunement), Major Tier, 6 lb.
+
+AC +2
+
+---
+
+This large shield once belonged to Sir Varion, a noble knight who strode bravely through battles on ice, sand, or swamp. While holding this shield, you ignore nonmagical difficult terrain and have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.

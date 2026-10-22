@@ -1,9 +1,8 @@
+#### Potion of Water Breathing
+
+Potion, Uncommon, ½ lb.
+
 ---
-tags:
-  - magicitem
----
-*Potion, Uncommon
-1/2 Lbs.*
 
 You can breathe underwater for 24 hours after drinking this potion.
 

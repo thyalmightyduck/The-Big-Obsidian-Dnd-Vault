@@ -1,10 +1,7 @@
----
-tags:
-  - magicitem
----
-Ring, Rare (Requires [[Attunement]])
-- - - 
+#### Ring of Protection
 
-You gain a +1 bonus to [[Armor Class]] and saving throws while wearing this ring.
+Ring, Rare (Requires Attunement)
 
-![[Ring of Protection BGR PNG.png]]
+---
+
+You gain a +1 bonus to Armor Class and saving throws while wearing this ring.

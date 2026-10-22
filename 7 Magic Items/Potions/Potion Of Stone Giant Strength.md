@@ -1,9 +1,8 @@
+#### Potion of Stone Giant Strength
+
+Potion, Rare, ½ lb.
+
 ---
-tags:
-  - magicitem
----
-Potion, Rare
-*1/2 Lbs* 
 
 When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
 

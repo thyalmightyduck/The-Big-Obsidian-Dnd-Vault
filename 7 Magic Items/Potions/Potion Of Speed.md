@@ -1,10 +1,9 @@
----
-tags:
-  - magicitem
----
-*Potion, Very Rare*
-*1/2 Lbs.* 
+#### Potion of Speed
 
-When you drink this potion, you gain the effect of the [[Haste]] spell for 1 minute (no [[Concentration]] required) without suffering the wave of lethargy that typically occurs when the effect ends.
+Potion, Very Rare, ½ lb.
+
+---
+
+When you drink this potion, you gain the effect of the *Haste* spell for 1 minute (no Concentration required) without suffering the wave of lethargy that typically occurs when the effect ends.
 
 This potion's yellow fluid is streaked with black and swirls on its own.
