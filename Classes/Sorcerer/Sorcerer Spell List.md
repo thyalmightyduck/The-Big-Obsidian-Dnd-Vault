@@ -72,7 +72,7 @@ tags:
 - [[Shocking Grasp]]
 - [[Smokescreen]]
 - [[Sorcerous Burst]]
-- [[Spells/Cantrips/Spark]]
+- [[Spark (Spell)]]
 - [[Spore Cloud]]
 - [[Swarm]]
 - [[Sword Burst]]

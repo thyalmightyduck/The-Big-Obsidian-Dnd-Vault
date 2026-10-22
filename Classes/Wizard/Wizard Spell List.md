@@ -73,7 +73,7 @@ tags:
 - [[Shape Water]]
 - [[Shocking Grasp]]
 - [[Smokescreen]]
-- [[Spells/Cantrips/Spark]]
+- [[Spark (Spell)]]
 - [[Sword Burst]]
 - [[Thunderclap]]
 - [[Toll The Dead]]

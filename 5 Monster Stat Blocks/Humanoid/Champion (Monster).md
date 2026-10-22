@@ -1,3 +1,7 @@
+---
+aliases:
+  - Champion
+---
 ___
 >## Champion
 >*Medium Humanoid, Any Alignment*

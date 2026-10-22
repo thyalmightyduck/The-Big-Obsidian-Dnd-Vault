@@ -1,3 +1,7 @@
+---
+aliases:
+  - Spark
+---
 #### Spark
 *Evocation Cantrip*
 ___

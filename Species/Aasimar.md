@@ -29,8 +29,8 @@ tags:
 **Light Bearer:** You know the [[Light]] cantrip. Charisma is your spellcasting ability for it.
 **Celestial Revelation:** When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a [[bonus action]] to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a [[Bonus Action]]. Once you transform using your revelation below, you can't use it again until you finish a [[long rest]].
 - **Necrotic Shroud:** Your eyes briefly become pools of [[darkness]], and ghostly, flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you that can see you must succeed on a Charisma [[saving throw]] (DC 8 + your [[Proficiency Bonus]] + your Charisma modifier) or become [[frightened]] of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your [[Proficiency Bonus]].
-- **Radiant Consumption:** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and [[Dim Light]] for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your [[Proficiency Bonus]]. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your [[Proficiency Bonus]].
-- **Radiant Soul:** Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your [[proficiency bonus]].
+- **Radiant Consumption:** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed [[bright light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your [[Proficiency Bonus]]. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an [[Attack Action|attack]] or a spell. The extra damage equals your [[Proficiency Bonus]].
+- **Radiant Soul:** Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an [[Attack Action|attack]] or a spell. The extra damage equals your [[proficiency bonus]].
 **Languages:** You can speak, read, and write [[Common]] and one other language that you and your DM agree is appropriate for your character.
 
 ## Info
@@ -54,7 +54,7 @@ Aasimar Celestial Features
 **Ability Scores:** Charisma +2
 **Creature Type:** Humanoid
 **Size:** Medium
-**Speed:** 30 feet
+**[[Speed]]:** 30 feet
   This race has multiple subraces, as listed below:
 - [[Aasimar (Fallen)]]
 - [[Aasimar (Protector)]]
@@ -62,9 +62,9 @@ Aasimar Celestial Features
 
 **Age:** Aasimar mature at the same rate as [[Human]]s, but they can live up to 160 years.
 **Size:** Aasimar have the same range of height and weight as [[Human]]s.
-**[[Darkvision]]:** Blessed with a radiant soul, your vision can easily cut through [[Darkness]]. You can see in dim light within 60 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[dim light]]. You can't discern color in [[Darkness]], only shades of gray.
+**[[Darkvision]]:** Blessed with a radiant soul, your vision can easily cut through [[Darkness]]. You can see in [[dim light]] within 60 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[dim light]]. You can't discern color in [[Darkness]], only shades of gray.
 **Celestial Resistance:** You have resistance to necrotic damage and radiant damage.
-**Healing Hands:** As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a [[Long Rest]].
+**Healing Hands:** As an [[action]], you can touch a creature and cause it to regain a number of [[Hit Point|hit points]] equal to your level. Once you use this trait, you can't use it again until you finish a [[Long Rest]].
 **Light Bearer:** You know the [[Light]] cantrip. Charisma is your spellcasting ability for it.
 **Languages:** You can speak, read, and write [[Common]] and Celestial.
 

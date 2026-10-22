@@ -51,7 +51,7 @@ tags:
 - [[Poison Spray]]
 - [[Prestidigitation]]
 - [[Shadow Blindness]]
-- [[Spells/Cantrips/Spark]]
+- [[Spark (Spell)]]
 - [[Spore Cloud]]
 - [[Swarm]]
 - [[Sword Burst]]

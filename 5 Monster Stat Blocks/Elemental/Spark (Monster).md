@@ -1,3 +1,7 @@
+---
+aliases:
+  - Spark
+---
 ___
 >## Spark
 >*Tiny Elemental, Chaotic Neutral*
