@@ -82,6 +82,9 @@ An aarakocra of either gender may have one of these short names: Aera, Aial, Aur
 Backgrounds that are most appropriate for aarakocra include the outlander, the hermit, and the sage.
 
 The small colonies of aarakocra are insular and remote, and few aarakocra live away from their roosts. In the Star Mounts of the High Forest in the Forgotten Realms, no more than a few dozen aarakocra live away from the nests of their families. Those that do are usually rangers or fighters, constantly patrolling for outside threats.
+
+## Images
+![[Aarakocra EEPC BGR PNG.png]]
 # Mordenkainen Presents: Monsters of the Multiverse:
 ## Traits
 **Ability Scores:** Choose one of the following:
@@ -96,17 +99,13 @@ The small colonies of aarakocra are insular and remote, and few aarakocra live a
 **Wind Caller:** Starting at 3rd level, you can cast the [[Gust Of Wind]] spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a [[Long Rest]]. You can also cast the spell using any spell slots you have of 2nd level or higher.
 Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [[Gust Of Wind]] with this trait (choose when you select this race).
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character
-## Info:
 
-## Mordenkainen Presents: Monsters of the Multiverse 
+## Info
 A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa—mighty beings of air—and were imbued with a measure of their masters' power over winds. Their descendants still command echoes of that power.
 
 From below, aarakocra look like large birds and thus are sometimes called birdfolk. Only when they roost on a branch or walk across the ground is their [[Humanoid]] nature clear. Standing upright, aarakocra are typically about 5 feet tall, and they have long, narrow legs that taper to sharp talons. Feathers cover their bodies—usually red, orange, yellow, brown, or gray. Their heads are also avian, often resembling those of parrots or eagles.
 
-# Pictures
-## EEPC
-![[Aarakocra EEPC BGR PNG.png]]
-## MPMM:
+## Images:
 ![[AArakocra BGR PNG.png]]
 ##### Tags
 #Species #MPMM #EEPC #DMG14 
