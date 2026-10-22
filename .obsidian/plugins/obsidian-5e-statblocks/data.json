@@ -4482,6 +4482,179 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Amalgam",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Blank Aberration Portrait BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Amalgam",
+        "size": "Gargantuan",
+        "type": "Aberration",
+        "subtype": "(Controller)",
+        "alignment": "typically Chaotic Neutral",
+        "ac": "11 (natural armor)",
+        "hp": 189,
+        "hit_dice": "14d20 + 42",
+        "speed": "10 ft., Fly 10 ft. (hover), Swim 10 ft.",
+        "stats": [
+          18,
+          12,
+          16,
+          7,
+          10,
+          5
+        ],
+        "saves": [
+          {
+            "CON": 6
+          }
+        ],
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 11",
+        "languages": "Speaks all languages but doesn't understand any",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Immutable Form:",
+            "desc": "The amalgam is immune to any power, spell, or effect that would alter their form."
+          },
+          {
+            "name": "Lake Rebirth:",
+            "desc": "If destroyed, the amalgam reforms in the Lake of Rot 24 hours later with all their <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Primordial Influence:",
+            "desc": "A <STATBLOCK-WIKI-LINK>Dazed (FM)|dazed<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>enemy<STATBLOCK-WIKI-LINK> who starts their turn within 20 feet of the amalgam must make a DC 16 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failed save, that creature's body is altered in an otherworldly way of the GM's choice—they might flicker in and out of reality, sprout miniature fingers from their fingers, or have their physical form altered in a similarly alien way. This alteration doesn't affect the creature's game statistics. A cure ailment power of 4th order or higher, a *<STATBLOCK-WIKI-LINK>greater restoration<STATBLOCK-WIKI-LINK>* spell, or a similar supernatural effect reverses this alteration. <P>While altered in this way, a creature must repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> whenever they finish a <STATBLOCK-WIKI-LINK>long rest<STATBLOCK-WIKI-LINK>. On a failed save, their previous alteration worsens or they experience another chaotic alteration of the GM's choice. If a creature fails this <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> three times after their initial alteration, they transform into an amalgam controlled by the GM, and only a *<STATBLOCK-WIKI-LINK>wish<STATBLOCK-WIKI-LINK>* spell can restore the creature to their original form."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The amalgam makes two Reality Rend attacks. They can replace one attack with a use of Pull."
+          },
+          {
+            "name": "Reality Rend:",
+            "desc": "*Melee Power Attack:*  +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 4) psychic damage, and the target must succeed on a DC 16 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be <STATBLOCK-WIKI-LINK>Dazed (FM)|dazed<STATBLOCK-WIKI-LINK> until the start of the amalgam's next turn."
+          },
+          {
+            "name": "Pull:",
+            "desc": "The amalgam warps reality around up to three creatures they can see within 60 feet of them. Each target must succeed on a DC 16 Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be pulled up to 30 feet directly toward the amalgam."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Amalgamation",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Amalgamation BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Amalgamation",
+        "size": "Gargantuan",
+        "type": "Aberration",
+        "subtype": "(Epic Boss)",
+        "ac": 18,
+        "hp": "175 (10d20 + 70) plus 175 (10d20 + 70) per <STATBLOCK-WIKI-LINK>player character<STATBLOCK-WIKI-LINK>",
+        "speed": "5 ft.",
+        "stats": [
+          30,
+          11,
+          27,
+          22,
+          18,
+          20
+        ],
+        "saves": [
+          {
+            "STR": 17
+          },
+          {
+            "DEC": 7
+          },
+          {
+            "CON": 14
+          },
+          {
+            "INT": 13
+          },
+          {
+            "WIS": 11
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 13
+          },
+          {
+            "Deception": 12
+          },
+          {
+            "Insight": 11
+          },
+          {
+            "Perception": 11
+          }
+        ],
+        "damage_immunities": "Psychic",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Stunned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Truesight<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 21, Passive Insight 21, Passive Stealth 10",
+        "languages": "All; telepathy 1 mile",
+        "cr": 23,
+        "traits": [
+          {
+            "name": "Contaminating Presence:",
+            "desc": "A creature that starts its turn within 120 feet of the Amalgamation is subjected to the following effect. *Constitution <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 20. *Failure:* The target gains a <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK> level. *Failure or Success:* 14 (4d6) Necrotic damage."
+          },
+          {
+            "name": "Immutable Form:",
+            "desc": "The Amalgamation has <STATBLOCK-WIKI-LINK>Immunity<STATBLOCK-WIKI-LINK> to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Malignancy:",
+            "desc": "The Amalgamation can't be teleported or travel to another plane against its will."
+          },
+          {
+            "name": "Rejuvenation:",
+            "desc": "If the Amalgamation is destroyed in the Mortal World, it reappears 1d10 days later with all of its <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> unless its roots in the Space Between Worlds are also destroyed."
+          },
+          {
+            "name": "Ultimate Corruption:",
+            "desc": "Necrotic damage dealt by the Amalgamation ignores *<STATBLOCK-WIKI-LINK>Resistance<STATBLOCK-WIKI-LINK>* and treats <STATBLOCK-WIKI-LINK>Immunity<STATBLOCK-WIKI-LINK> as <STATBLOCK-WIKI-LINK>Resistance<STATBLOCK-WIKI-LINK> instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "The Amalgamation always takes its turn on <STATBLOCK-WIKI-LINK>Initiative<STATBLOCK-WIKI-LINK> count 20:",
+            "desc": "On its turn, the Amalgamation can use its movement and interaction as normal. However, it does not take an <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>Bonus Action<STATBLOCK-WIKI-LINK> on its turn unless forced to do so by a spell or other effect. Instead, the Amalgamation takes one of the following Epic Actions at the end of each <STATBLOCK-WIKI-LINK>player character<STATBLOCK-WIKI-LINK>'s turn."
+          },
+          {
+            "name": "Bite:",
+            "desc": "*Melee Attack Roll:*  +17, reach 10 ft. *Hit:* 36 (4d12 + 10) Force damage. If the target is a Large or smaller creature <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK> by the Amalgamation, the <STATBLOCK-WIKI-LINK>Grapple Action|grapple<STATBLOCK-WIKI-LINK> ends and the target is swallowed. While swallowed, the target has the <STATBLOCK-WIKI-LINK>Blinded<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK> conditions, has <STATBLOCK-WIKI-LINK>Total Cover<STATBLOCK-WIKI-LINK> from effects originating from outside the Amalgamation, and takes 42 (12d6) Necrotic damage and gains a <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK> level at the start of each of the Amalgamation's turns. <P>If the Amalgamation takes 50+ damage in a single turn from a creature inside it, it must succeed on a DC 25 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> at the end of that turn or regurgitate all swallowed creatures, which land in spaces within 10 feet of the Amalgamation and have the <STATBLOCK-WIKI-LINK>Prone|Prone condition<STATBLOCK-WIKI-LINK>. If the Amalgamation dies, a swallowed creature no longer has the <STATBLOCK-WIKI-LINK>Restrained|Restrained condition<STATBLOCK-WIKI-LINK> and can escape the corpse using 15 feet of its movement, exiting with the <STATBLOCK-WIKI-LINK>Prone|Prone condition<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Tentacle:",
+            "desc": "*Melee Attack Roll:*  +17, reach 60 ft. *Hit:* 28 (4d8 + 10) Force damage, and the target has the <STATBLOCK-WIKI-LINK>Grappled|Grappled condition<STATBLOCK-WIKI-LINK> (escape DC 25). While <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, the target has the <STATBLOCK-WIKI-LINK>Restrained|Restrained condition<STATBLOCK-WIKI-LINK>. The Amalgamation has twelve tentacles, each of which can <STATBLOCK-WIKI-LINK>Grapple Action|grapple<STATBLOCK-WIKI-LINK> one target. Fling. One Large or smaller object held or creature <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK> by the Amalgamation is thrown up to 60 feet, landing with the <STATBLOCK-WIKI-LINK>Prone|Prone condition<STATBLOCK-WIKI-LINK>. If the target strikes a solid surface, it takes 35 (10d6) Force damage. If the target is thrown at another creature, that creature must succeed on a DC 25 Dexterity <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or take the same damage and have the <STATBLOCK-WIKI-LINK>Prone|Prone condition<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Mind-Breaking Whispers (Recharge 5–6):",
+            "desc": "*Intelligence <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 25, one creature within 120 feet of the Amalgamation. *Failure:* The target becomes insane until it finishes a <STATBLOCK-WIKI-LINK>Long Rest<STATBLOCK-WIKI-LINK>. While insane, the target can't take <STATBLOCK-WIKI-LINK>Action|actions<STATBLOCK-WIKI-LINK>, understand other creatures, read, or speak anything but gibberish. A <STATBLOCK-WIKI-LINK>Greater Restoration<STATBLOCK-WIKI-LINK> or *<STATBLOCK-WIKI-LINK>Heal<STATBLOCK-WIKI-LINK>* spell ends the effect early. *Failure or Success:* 70 (20d6) Psychic damage."
+          },
+          {
+            "name": "Forced Mutation (1/Round):",
+            "desc": "Each creature within 120 feet of the Amalgamation with one or more <STATBLOCK-WIKI-LINK>Contamination<STATBLOCK-WIKI-LINK> levels takes 10 (3d6) Necrotic damage and gains a randomly determined mutation."
+          },
+          {
+            "name": "Piper at the Gate (1/Round):",
+            "desc": "A <STATBLOCK-WIKI-LINK>Pyknic Maunder<STATBLOCK-WIKI-LINK> appears in an unoccupied space within 30 feet of the Amalgamation, acting after the Amalgamation on <STATBLOCK-WIKI-LINK>Initiative<STATBLOCK-WIKI-LINK> count 20 and under the Amalgamation's direct control. The Amalgamation can have up to ten Pyknic Maunders under its control at a time."
+          },
+          {
+            "name": "Epic Resistance:",
+            "desc": "The Amalgamation chooses one <STATBLOCK-WIKI-LINK>condition<STATBLOCK-WIKI-LINK>, spell, or other effect currently affecting them and rolls 1d20. On an 11+, the effect ends on it. The Amalgamation can use this Epic Action even if it would otherwise be unable to take <STATBLOCK-WIKI-LINK>Action|actions<STATBLOCK-WIKI-LINK>, its <STATBLOCK-WIKI-LINK>Action|actions<STATBLOCK-WIKI-LINK> are being controlled by another creature, or if a spell or effect alters its game statistics."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
