@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Human (Innistrad; Gavony)
 

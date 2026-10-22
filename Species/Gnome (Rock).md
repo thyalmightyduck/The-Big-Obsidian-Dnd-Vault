@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits PHB’14
 - Ability Scores: Intelligence +2; Constitution +1

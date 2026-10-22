@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits: BoET
 - Ability Scores: Wisdom +1; Choose any +2; choose any other +1

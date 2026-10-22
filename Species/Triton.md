@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits: MOT
 - Ability Scores: Strength +1; Constitution +1; Charisma +1

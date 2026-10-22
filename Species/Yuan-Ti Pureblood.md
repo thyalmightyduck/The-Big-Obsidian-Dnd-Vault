@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits: VGM
 - Ability Scores: Charisma +2; Intelligence +1

@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Pictures
 ![[Elf OTTG BGR PNG.png]]

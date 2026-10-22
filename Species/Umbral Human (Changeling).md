@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits: BoET
 - Ability Scores: Charisma +1; Choose any +2; choose any other +1

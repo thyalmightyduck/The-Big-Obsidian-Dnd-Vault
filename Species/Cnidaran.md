@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Traits
 ## Heliana’s Guide to Monster Hunting:

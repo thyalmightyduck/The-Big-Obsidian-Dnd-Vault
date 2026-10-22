@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Traits
 ## Guildmasters’ Guide to Ravnica:

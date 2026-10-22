@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Info
 ## The Lord of the Ring Roleplaying

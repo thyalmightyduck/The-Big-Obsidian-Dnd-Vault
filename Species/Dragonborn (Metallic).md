@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Traits
 ## Fizban’s Treasury of Dragons:

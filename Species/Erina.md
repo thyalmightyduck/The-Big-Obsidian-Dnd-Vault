@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits BoET
 - Ability Scores: Dexterity +2; Choose Wisdom or Charisma +1

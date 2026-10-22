@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Traits:
 ## The Lord of the Rings Roleplaying

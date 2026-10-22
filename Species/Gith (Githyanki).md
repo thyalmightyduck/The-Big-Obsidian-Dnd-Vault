@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits MTF
 - Ability Scores: Strength +2; Intelligence +1

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Gargoyle
+---
 ___
 >## Gargoyle
 >*Medium Elemental, Chaotic Evil*

@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Ashborn
 ## The Crooked Moon 2024 (TCM25):

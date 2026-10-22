@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits (PHB’24)
 **Creature Type:** [[Humanoid]]

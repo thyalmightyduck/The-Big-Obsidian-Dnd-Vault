@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Traits
 ## Explorer’s Guide to Wildemount:

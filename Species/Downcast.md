@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Triats
 ## Grim Hallow: Players Guide (2024)

@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Worg Traits:
 ## Frontiers of Eberron: Quickstone:

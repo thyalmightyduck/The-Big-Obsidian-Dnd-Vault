@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sage
+---
 ___
 >## Sage
 >*Medium Humanoid (Any Race)*

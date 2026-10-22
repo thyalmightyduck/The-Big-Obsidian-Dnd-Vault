@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits: GGR
 - Ability Scores: Strength +2; Constitution +1

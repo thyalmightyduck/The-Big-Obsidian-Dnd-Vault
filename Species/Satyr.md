@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Satyr: MOT
 - Ability Scores: Charisma +2; Dexterity +1

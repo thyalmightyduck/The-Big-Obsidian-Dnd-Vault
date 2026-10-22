@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Dhampire
 ## Grim Hallow: Player’s Guide 2024 (GHPG24):

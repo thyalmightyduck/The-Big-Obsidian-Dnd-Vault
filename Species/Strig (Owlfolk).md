@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits: HWCS
 - Ability Scores: Strength +2

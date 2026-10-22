@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Goliath (Variant: Desert Born)
 

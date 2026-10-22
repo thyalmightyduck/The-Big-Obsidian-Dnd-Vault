@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits HWCS
 - Ability Scores: Wisdom +2; Dexterity +1

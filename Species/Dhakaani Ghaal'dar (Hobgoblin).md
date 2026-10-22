@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Dhakaani Ghaal'dar (Hobgoblin)
 

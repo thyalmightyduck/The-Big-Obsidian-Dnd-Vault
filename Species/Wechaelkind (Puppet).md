@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits: GH:PP
 - Ability Scores: Constitution +2; Charisma +1

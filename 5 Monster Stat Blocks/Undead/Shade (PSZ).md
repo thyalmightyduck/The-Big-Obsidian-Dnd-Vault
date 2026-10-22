@@ -1,3 +1,7 @@
+---
+aliases:
+  - Shade
+---
 ___
 >## Shade
 >*Medium Undead, Chaotic Evil*

@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 - Ability Scores: Dexterity +2; Constitution +1; Strength −2
     

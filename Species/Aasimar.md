@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # ## Dungeon Master’s Guide 2014
 ## Traits:

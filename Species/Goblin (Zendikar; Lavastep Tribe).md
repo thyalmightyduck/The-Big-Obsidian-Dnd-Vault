@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Goblin (Zendikar; Lavastep Tribe)
 

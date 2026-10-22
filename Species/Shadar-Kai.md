@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Shadar-Kai
 

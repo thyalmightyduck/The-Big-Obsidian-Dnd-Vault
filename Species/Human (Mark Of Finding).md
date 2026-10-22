@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits ERLW
 - Ability Scores: Wisdom +2; Constitution +1

@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Gnome (Forest Variant: Lorghalan)
 

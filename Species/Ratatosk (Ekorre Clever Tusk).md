@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 - Ability Scores: Dexterity +2; Strength −2; Choose Intelligence or Charisma +1
     

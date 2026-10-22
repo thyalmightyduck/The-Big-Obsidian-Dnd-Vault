@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits
 **Ability Scores:** Constitution +2; Strength +1

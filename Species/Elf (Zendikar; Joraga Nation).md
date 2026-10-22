@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Elf (Zendikar; Joraga Nation)
 

@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits PHB’14
 - Ability Scores: Intelligence +2

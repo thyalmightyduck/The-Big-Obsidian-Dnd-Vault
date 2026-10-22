@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits SCAG
 - Ability Scores: Intelligence +2; Dexterity +1

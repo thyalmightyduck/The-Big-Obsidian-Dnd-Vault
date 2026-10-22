@@ -19,6 +19,6 @@ As a [[Bonus Action]] on your later turns, you can change the direction in whi
 
 **Classes:** [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]]
 **Subclasses:** [[Arcane Trickster Rogue]], [[Circle of the Sea Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Leyline Magic Wizard]], [[Occultist Guild Monster Hunter]], [[Rocborne Ranger]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Tempest Domain Cleric]], [[The Fathomless Warlock]], [[The Genie Warlock]], [[Way of the Arcane Hand Monk]]
-**Species:** [[AArakocra]], [[Half-Elf (Mark Of Storm)]], [[Triton]]
+**Species:** [[Aarakocra (DMG14)]], [[Half-Elf (Mark Of Storm)]], [[Triton]]
 **Feats:** [[Boon of Siberys]], [[Mark of Storm]]
 **Other Options/Features:** [[Rush of the Gale Spirits]]

@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Kalamer Landwalker (Merfolk)
 

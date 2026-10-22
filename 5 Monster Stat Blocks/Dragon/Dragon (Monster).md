@@ -1,3 +1,7 @@
+---
+aliases:
+  - Dragon
+---
 ___
 >## Dragon
 >*Huge Dragon, Chaotic Evil*

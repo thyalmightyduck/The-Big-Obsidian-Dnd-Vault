@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species: ERLW
 - Ability Scores: Constitution +2; Strength +1

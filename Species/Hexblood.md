@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits VRGR
 **Ability Scores:** Choose one of the following:

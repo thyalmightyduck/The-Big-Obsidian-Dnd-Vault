@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Info
 ## Plane Shift: Amonkhet

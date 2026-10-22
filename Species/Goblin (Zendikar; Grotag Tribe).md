@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ## Goblin (Zendikar; Grotag Tribe)
 

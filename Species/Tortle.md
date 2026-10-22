@@ -1,8 +1,5 @@
 ---
-tags:
-  - species
-  - MPMM
-  - TTP
+{}
 ---
 # Mordenkainen Presents: Monsters of the Multiverse (MPMM)
 ## Species Traits:

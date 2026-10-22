@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Traits HWCS
 - Ability Scores: Charisma +2; Wisdom +1

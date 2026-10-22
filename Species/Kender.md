@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 ### Species Traits Dragonlance: Shadow of the Dragon Queen
 **Ability Scores:** Choose one of the following:

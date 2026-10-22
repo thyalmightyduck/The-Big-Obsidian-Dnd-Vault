@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 - Ability Scores: Wisdom +2; Charisma +1
     

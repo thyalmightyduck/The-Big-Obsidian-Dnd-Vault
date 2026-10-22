@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Traits
 ## Mordenkainen Presents: Monsters of the Multiverse:

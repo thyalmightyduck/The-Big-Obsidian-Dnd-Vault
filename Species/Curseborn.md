@@ -1,6 +1,5 @@
 ---
-tags:
-  - species
+{}
 ---
 # Species Info
 ## The Crooked Moon (2014):
