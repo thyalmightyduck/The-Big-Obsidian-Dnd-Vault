@@ -25,10 +25,8 @@ Here are the transformation options:
 - **Heavenly Wings.** Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your Speed.
 - **Inner Radiance.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes Radiant damage equal to your Proficiency Bonus.
 - **Necrotic Shroud.** Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus) or have the Frightened condition until the end of your next turn.
-# Info
-## Exploring Eberron 2024:
+## Info
 If your Aasimar's powers flow from Fernia, you are infused with otherworldly fire.
 
-# Pictures
-## Exploring Eberron 2024:
+## Images
 ![[Aasimar Fernian PNG.png]]
