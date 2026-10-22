@@ -1,3 +1,9 @@
+---
+tags:
+  - AdvancedEquipment
+  - Poison
+  - Items
+---
 ## Grim Hallow Player’s Guide 2024 (GHPG24)
 #### Breath of Beleth
 
