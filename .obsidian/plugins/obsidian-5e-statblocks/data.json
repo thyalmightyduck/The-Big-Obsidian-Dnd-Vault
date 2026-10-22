@@ -4391,6 +4391,97 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Alyxian Aboleth",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Alyxian Aboleth BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Alyxian Aboleth",
+        "size": "Large",
+        "type": "Aberration",
+        "alignment": "Lawful Evil",
+        "ac": "17 (natural armor)",
+        "hp": 135,
+        "hit_dice": "18d10 + 36",
+        "speed": "10 ft., Swim 30 ft.",
+        "stats": [
+          21,
+          9,
+          15,
+          18,
+          18,
+          18
+        ],
+        "saves": [
+          {
+            "CON": 6
+          },
+          {
+            "INT": 8
+          },
+          {
+            "WIS": 8
+          }
+        ],
+        "skillsaves": [
+          {
+            "History": 12
+          },
+          {
+            "Perception": 12
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 22, Passive Insight 14, Passive Stealth 9",
+        "languages": "Deep Speech, telepathy 120 ft.",
+        "cr": 12,
+        "legendary_description": "*Legendary Action Uses: 3. Immediately after another creature's turn, the alyxian aboleth can expend a use to take one of the following actions. The alyxian aboleth regains all expended uses at the start of each of its turns.*",
+        "traits": [
+          {
+            "name": "Amphibious:",
+            "desc": "The aboleth can breathe air and water."
+          },
+          {
+            "name": "Mucous Cloud:",
+            "desc": "While underwater, the aboleth is surrounded by a cloud of sticky mucus. A creature that touches the aboleth or hits it with a melee attack while within 5 feet of it must succeed on a DC 14 Strength <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK> until the end of the aboleth's next turn."
+          },
+          {
+            "name": "Probing Telepathy:",
+            "desc": "If a creature the aboleth can see communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The aboleth makes two Tentacle attacks."
+          },
+          {
+            "name": "Tentacle:",
+            "desc": "*Melee Weapon Attack:*  +9 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage plus 3 (1d6) psychic damage."
+          },
+          {
+            "name": "Tail:",
+            "desc": "*Melee Weapon Attack:*  +9 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Enslave (Recharge 4–6):",
+            "desc": "The aboleth targets one creature it can see within 30 feet of itself. The target must succeed on a DC 14 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or be magically <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance. <P>The <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> target can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> whenever it takes damage, ending the effect on itself on a success. No more than once every 24 hours, the target can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> when it is at least 1 mile away from the aboleth. "
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Tail Swipe:",
+            "desc": "The aboleth makes one Tail attack."
+          },
+          {
+            "name": "Psychic Drain (Costs 2 Actions):",
+            "desc": "One creature <STATBLOCK-WIKI-LINK>charmed<STATBLOCK-WIKI-LINK> by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> equal to the damage dealt."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
