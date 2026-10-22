@@ -1,6 +1,7 @@
 {
   "showChangelogOnUpdate": true,
   "changelogMajorUpdatesOnly": false,
+  "checkForUpdates": true,
   "hotkeys": {},
   "onboarding": {
     "enabled": true,
@@ -23,6 +24,12 @@
   "detectGridOnNewScenes": true,
   "diceColour": "light",
   "diceFont": "medieval",
+  "initiativeNames": false,
+  "initiativeFromTurn": true,
+  "initiativeDock": "right",
+  "initiativeBanner": true,
+  "initiativeFollowTurn": false,
+  "initiativeMovesOnTurn": false,
   "experimental": {
     "dynamicLighting": true,
     "statblockEditor": true,
