@@ -2,8 +2,8 @@
 tags:
   - species
 ---
-# Species Traits 
-## Dungeon Master’s Guide 2014:
+# Dungeon Master’s Guide 2014
+## Traits
 **Ability Scores:** Dexterity +2; Wisdom +2
 **Creature Type:** [[Humanoid]]
 **Size:** Medium
@@ -11,10 +11,11 @@ tags:
 
 **Dive Attack:** If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra 1d6 damage to the target.
 **Talons:** You are proficient with your [[Unarmed Strike]]s, which deal 1d4 slashing damage on a hit.
-**Language:** You can speak, read, and write [[Auran]]
+**Language:** You can speak, read, and write Auran
 
 _Note: This race is listed in the _Dungeon Master's Guide_ as an option for creating NPCs. It is not designed for use as a playable race._
-## Elemental Evil Player’s Companion:
+# Elemental Evil Player’s Companion:
+## Traits
 **Ability Scores:** Dexterity +2; Wisdom +1
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -26,21 +27,8 @@ _Note: This race is listed in the _Dungeon Master's Guide_ as an option for cr
 **Flight:** You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor.
 **Talons:** Your talons are natural weapons, which you can use to make [[Unarmed Strike]]s. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an [[Unarmed Strike]].
 **Language:** You can speak, read, and write [[Common]], Aarakocra, and [[Auran]].
-## Mordenkainen Presents: Monsters of the Multiverse:
-**Ability Scores:** Choose one of the following:
-- Increase one ability by +2 and one ability by +1
-- Increase three abilities by +1 by +1
-**Creature Type:** [[Humanoid]]
-**Size:** Medium
-**Speed:** 30 Feet, Fly; 30 Feet
 
-**Flight:** Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or [[Heavy Armor]].
-**Talons:** You have talons that you can use to make [[Unarmed Strike]]. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an [[Unarmed Strike]]
-**Wind Caller:** Starting at 3rd level, you can cast the [[Gust Of Wind]] spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a [[Long Rest]]. You can also cast the spell using any spell slots you have of 2nd level or higher.
-Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [[Gust Of Wind]] with this trait (choose when you select this race).
-**Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character
-# Info:
-## Elemental Evil Player’s Companio:
+## Info:
 Sequestered in high mountains atop tall trees, the aarakocra, sometimes called birdfolk, evoke fear and wonder. Many aarakocra aren't even native to the Material Plane. They hail from a world beyond-from the boundless vistas of the Elemental Plane of Air. They are immigrants, refugees, scouts, and explorers, their outposts functioning as footholds in a world both strange and alien.
 
 **Beak and Feather.** From below, aarakocra look much like large birds. Only when they descend to roost on a branch or walk across the ground does their humanoid appearance reveal itself. Standing upright, aarakocra might reach 5 feet tall, and they have long, narrow legs that taper to sharp talons.
@@ -94,6 +82,21 @@ An aarakocra of either gender may have one of these short names: Aera, Aial, Aur
 Backgrounds that are most appropriate for aarakocra include the outlander, the hermit, and the sage.
 
 The small colonies of aarakocra are insular and remote, and few aarakocra live away from their roosts. In the Star Mounts of the High Forest in the Forgotten Realms, no more than a few dozen aarakocra live away from the nests of their families. Those that do are usually rangers or fighters, constantly patrolling for outside threats.
+# Mordenkainen Presents: Monsters of the Multiverse:
+## Traits
+**Ability Scores:** Choose one of the following:
+- Increase one ability by +2 and one ability by +1
+- Increase three abilities by +1 by +1
+**Creature Type:** [[Humanoid]]
+**Size:** Medium
+**Speed:** 30 Feet, Fly; 30 Feet
+
+**Flight:** Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or [[Heavy Armor]].
+**Talons:** You have talons that you can use to make [[Unarmed Strike]]. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an [[Unarmed Strike]]
+**Wind Caller:** Starting at 3rd level, you can cast the [[Gust Of Wind]] spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a [[Long Rest]]. You can also cast the spell using any spell slots you have of 2nd level or higher.
+Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [[Gust Of Wind]] with this trait (choose when you select this race).
+**Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character
+## Info:
 
 ## Mordenkainen Presents: Monsters of the Multiverse 
 A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa—mighty beings of air—and were imbued with a measure of their masters' power over winds. Their descendants still command echoes of that power.
