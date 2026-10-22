@@ -1,3 +1,7 @@
 views:
   - type: table
     name: Table
+    filters:
+      or:
+        - file.path.startsWith("7 Magic Items")
+        - file.path.startsWith("Items")
