@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Amorphous Horror",
+    "imagePath": "atlas-vtt/assets/Amorphous_Horror_1792652389832_hykj4i.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Amorphous Horror.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Amorphous_Horror_1792652389832_hykj4i-b8cca55c.webp",
+    "id": "token-1792652389865-e9m8w0",
+    "createdAt": 1792652389865,
+    "modifiedAt": 1792652389865
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Anguisher",
+    "imagePath": "atlas-vtt/assets/Anguisher_1792653402157_0rntca.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Anguisher.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Anguisher_1792653402157_0rntca-0d34e7fa.webp",
+    "id": "token-1792653402188-dhs6sk",
+    "createdAt": 1792653402188,
+    "modifiedAt": 1792653402188
+  }
+}

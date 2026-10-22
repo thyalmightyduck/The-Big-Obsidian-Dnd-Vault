@@ -4720,6 +4720,83 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Anguisher",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Anguisher BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Anguisher",
+        "size": "Medium",
+        "type": "Aberration",
+        "alignment": "Chaotic Evil",
+        "ac": 13,
+        "hp": 65,
+        "hit_dice": "10d8 + 20",
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          16,
+          15,
+          8,
+          10,
+          17
+        ],
+        "saves": [
+          {
+            "DEX": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Insight": 2
+          },
+          {
+            "Perception": 2
+          },
+          {
+            "Stealth": 5
+          }
+        ],
+        "damage_resistances": "Psychic",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prone<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Unconscious<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12, Passive Insight 12, Passive Stealth 13",
+        "languages": "v",
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Amorphous:",
+            "desc": "The anguisher can move through a space as narrow as 1 inch without without expending extra movement to do so."
+          },
+          {
+            "name": "Continued Suffering:",
+            "desc": "A creature with an Intelligence score of 4 or higher that dies from the anguisher's attacks spawns a new anguisher in 3 days. Any effect that prevents the target's body from becoming Undead also prevents the emergence of the new anguisher."
+          },
+          {
+            "name": "Frightening Advantage:",
+            "desc": "The anguisher has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>attack rolls<STATBLOCK-WIKI-LINK> against creatures that have the <STATBLOCK-WIKI-LINK>Frightened|Frightened condition<STATBLOCK-WIKI-LINK>. Against such targets, the anguisher scores a <STATBLOCK-WIKI-LINK>Critical Hit<STATBLOCK-WIKI-LINK> on a roll of 18 to 20 on the d20."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The anguisher makes two Anguish attacks."
+          },
+          {
+            "name": "Anguish:",
+            "desc": "*Melee  or Ranged Spell Attack Roll:*  +5 to hit, reach 5 ft. or range 60 ft. *Hit:* 13 (3d6 + 3) Psychic damage, and the target has the <STATBLOCK-WIKI-LINK>Frightened|Frightened condition<STATBLOCK-WIKI-LINK> until the end of its next turn. The target must use its <STATBLOCK-WIKI-LINK>Reaction<STATBLOCK-WIKI-LINK> to move up to its <STATBLOCK-WIKI-LINK>Speed<STATBLOCK-WIKI-LINK> away from the anguisher by the safest route. Movement used during this <STATBLOCK-WIKI-LINK>Reaction<STATBLOCK-WIKI-LINK> can't be used during the target's next turn."
+          },
+          {
+            "name": "Harrow (Recharge 6):",
+            "desc": "*Wisdom <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 13, each creature of the anguisher's choice within 60 feet that is aware of the anguisher. *Failure:* 17 (5d6) Psychic damage, and the target has the <STATBLOCK-WIKI-LINK>Frightened|Frightened condition<STATBLOCK-WIKI-LINK>. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
+          },
+          {
+            "name": "Invisibility:",
+            "desc": "The anguisher casts *<STATBLOCK-WIKI-LINK>Invisibility<STATBLOCK-WIKI-LINK>* on itself, requiring no spell components and using Charisma as the spellcasting ability."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
