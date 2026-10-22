@@ -1,6 +1,7 @@
 ---
 tags:
 ---
+## Grim Hallow Player’s Guide 2024 (GHPG24)
 #### Blessed Stake
 
 Advanced Equipment, 250 GP, 1.6 oz.
