@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Asanbosam",
+    "imagePath": "atlas-vtt/assets/Asanbosam_1792655656653_o5vzd1.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Asanbosam.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Asanbosam_1792655656653_o5vzd1-324a7ba4.webp",
+    "id": "token-1792655656698-d82vu8",
+    "createdAt": 1792655656698,
+    "modifiedAt": 1792655656698
+  }
+}

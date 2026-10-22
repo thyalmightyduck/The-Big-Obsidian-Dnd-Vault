@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Arboreal Grappler",
+    "imagePath": "atlas-vtt/assets/Arboreal_Grappler_1792655656617_osv9qp.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Arboreal Grappler.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Arboreal_Grappler_1792655656617_osv9qp-d59c4f47.webp",
+    "id": "token-1792655656698-lqdew4",
+    "createdAt": 1792655656698,
+    "modifiedAt": 1792655656698
+  }
+}
