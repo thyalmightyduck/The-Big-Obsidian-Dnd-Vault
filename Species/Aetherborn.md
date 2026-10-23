@@ -41,5 +41,3 @@ The relationship between aetherborn and the Consulate is complicated. On the one
 ## Images:
 ![[Aetherborn PNG 1.png]]
 ![[Aetherborn PNG 2.png]]
-##### Traits:
-#Species #PSK 

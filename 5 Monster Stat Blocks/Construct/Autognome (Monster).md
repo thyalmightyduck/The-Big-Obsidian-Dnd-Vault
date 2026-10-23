@@ -1,3 +1,7 @@
+---
+aliases:
+  - Autognome
+---
 ___
 >## Autognome
 >*Small Construct, Any Alignment*
