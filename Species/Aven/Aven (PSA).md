@@ -4,6 +4,7 @@ tags:
   - PSA
 aliases:
   - Aven
+picture: Aven PSA 2 BGR PNG.png
 ---
 # Plane Shift: Amonkhet (PSA)
 ## Traits
