@@ -4,6 +4,7 @@ aliases:
 tags:
   - Species
   - MPMM
+picture: "[[AArakocra BGR PNG.png]]"
 ---
 # Mordenkainen Presents: Monsters of the Multiverse (MPMM)
 ## Traits

@@ -2,6 +2,7 @@
 tags:
   - Species
   - VGM
+picture: Aasimar VGM BGR PNG.png
 ---
 # Volo’s Guide to Monsters
 ## Traits:

@@ -1,6 +1,7 @@
 ---
 tags:
   - ExE24
+picture: Aasimar Fernian PNG.png
 ---
 # Species Traits
 ## Exploring Eberron (2024):

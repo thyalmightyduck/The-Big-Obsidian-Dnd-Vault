@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("Species")
+    order:
+      - file.name
+    cardSize: 180
+    image: note.picture
+    imageFit: contain
+    imageAspectRatio: 1.25
+  - type: table
+    name: View

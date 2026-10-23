@@ -4,6 +4,7 @@ aliases:
 tags:
   - Species
   - EEPC
+picture: "[[Aarakocra EEPC BGR PNG.png]]"
 ---
 # Elemental Evil Player’s Companion (EEPC)
 
