@@ -1,5 +1,8 @@
 ---
-{}
+picture: Cervan BGR PNG.png
+tags:
+  - Species
+  - HWCS
 ---
 # Species Traits
 ## Humblewood Campaign Setting:
@@ -39,5 +42,3 @@ While it's not unusual for some cervans to have small antlers or buds visible on
 # Pictures
 ## HWCS
 ![[Cervan BGR PNG.png]]
-##### Tags:
-#Species #HWCS 

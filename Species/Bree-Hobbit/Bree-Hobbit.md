@@ -9,15 +9,15 @@ tags:
 **Ability Scores:** Dexterity +2
 **Creature Type:** [[Humanoid]]
 **Size:** Small
-**Speed:** 25 Feet
+**[[Speed]]:** 25 Feet
 This Race Has Multiple Subraces, As Listed Below:
 - [[Bree-Hobbit (Fallohide)]]
 - [[Bree-Hobbit (Harfoot)]]
 - [[Bree-Hobbit (Stoor)]]
 
 **Adventuring Age:** Between 25–60 years of age. Hobbits do not abandon their comfortable lives easily, but when they do they usually wait for their coming of age at 33. A particularly reckless fellow might feel the call to adventure when in their tweens, as Hobbits call their twenties.
-**Bree-Hobbit Curiosity:** You have proficiency in the [[Insight]] skill.
-**Hobbit-Sense:** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against Shadow.
+**Bree-Hobbit Curiosity:** You have [[proficiency]] in the [[Insight]] [[skill]].
+**Hobbit-Sense:** You have [[advantage]] on all Intelligence, Wisdom, and Charisma [[Saving Throw|saving throws]] against Shadow.
 **Pipe-Weed Lore:** You have [[Proficiency]] with [[Pipes]].
 **Unobtrusive:** You can move through the space of any creature that is of a size larger than yours.
 **Languages:** You speak, read and write Westron, preserving the use of a few words and names of your own forgotten tongue.
@@ -64,9 +64,9 @@ When pushed to resort to weapons, Hobbits choose short swords and hunting bows, 
 Hobbit names are composed of a first name and a family name. First names for men are usually simple and short, with women being often given names of flowers or precious stones, but among the older families a custom survives of giving more heroic and high-sounding names, whose origin can be traced back to a time before the Shire.
 
 - Sample Female Names. Adaldrida, Amaranth, Asphodel, Belba, Bell, Berylla, Camellia, Daisy, Eglantine, Estella, Gilly, Hanna, Lily, Malva, Marigold, May, Melilot, Menegilda, Mentha, Mirabella, Myrtle, Pearl, Peony, Pervinca, Pimpernel, Primrose, Primula, Prisca, Rosamunda, Ruby, Salvia.
-    
+
 - Sample Male Names. Andwise, Berilac, Bungo, Cottar, Doderic, Dudo, Erling, Fastred, Ferumbras, Folco, Gorhendad, Griffo, Halfred, Hamson, Ilberic, Isembold, Isengar, Longo, Marmadas, Marroc, Mungo, Odo, Orgulas, Otho, Posco, Reginard, Robin, Rudigar, Sadoc, Saradas, Tobold, Tolman.
-    
+   
 - Sample Family Names. Baggins, Boffin, Bolger, Bracegirdle, Brandybuck, Brown, Brownlock, Bunce, Burrows, Cotton, Gamgee, Gardner, Goldworthy, Goodbody, Goodchild, Grubb, Headstrong, Hornblower, Maggot, Noakes, North-Tooks, Proudfoot, Puddifoot, Roper, Rumble, Sackville, Smallburrow, Took, Twofoot, Whitfoot.
 ## Images
 ![[Bree-Hobbit BGR PNG.png]]
