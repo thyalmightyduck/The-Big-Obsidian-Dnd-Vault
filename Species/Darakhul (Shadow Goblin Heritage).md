@@ -1,8 +1,11 @@
 ---
-{}
+picture: Darakhul BGR PNG.png
+tags:
+  - Species
+  - BoET
 ---
-# Species Info
-## Book of Ebon Times:
+# Book of Ebon Tides (BoET)
+## Traits
 **Ability Scores:** Constitution +1; Dexterity +2
 **Creature Type:** [[Humanoid]]
 **Size:** Small
@@ -19,7 +22,7 @@
 **Undead Vitality:** You don't need to breathe, and you don't sleep the way most creatures do. Instead, you enter a dormant state that resembles death, remaining semiconscious, for 6 hours a day. While dormant, you have disadvantage on Wisdom ([[Perception]]) checks. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 **Dark Deed:** Your fascination with humor has not gone away, but you've had to adopt more macabre tactics. As an action, you can perform a combination of rude gestures and sounds to attempt to scare one creature you can see within 30 feet. If the target can see and hear you, it must succeed on a Wisdom saving throw or become [[Frightened]] of you until the end of its turn. The DC for this saving throw is equal to 10 plus your Charisma modifier.
 **Language:** You can speak, read, and write [[Goblin]].
-# Info 
+
 ## Book of Ebon Tides:
 Your darakhul character was a shadow goblin before transforming into a darakhul.
 The darakhul are no strangers to darkness, and over the years, the members of the Twilight Empire deftly adapted to their new home and carved out a thriving civilization in the Shadow Realm. They have grown into a powerful force.
@@ -42,8 +45,6 @@ There is a great deal of narrative, dramatic, and roleplaying potential in that 
 ##### Heritage Subraces
 Before the terrible scourge of darakhul fever transformed you into an undead creature, you belonged to another race. Although your undead self now rules you, some remnant of your past form clings to you, making you different from the darakhul created from other races. Sometimes you retain a trait, but more likely, you now have a trait that is a corruption of one you once possessed. For example, the elemental spark in a dragonborn is perverted into one of a more necrotic bent. The luck inherent in a halfling's spirit twists into a power that brings ill fortune to their enemies.
 You were something else before you became a darakhul. This heritage determines some of your traits.
-# Pictures
+
 ## BoET:
 ![[Darakhul BGR PNG.png]]
-##### Tags:
-#Species #BoET 

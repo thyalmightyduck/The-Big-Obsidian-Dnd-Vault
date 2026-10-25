@@ -1,3 +1,7 @@
+---
+aliases:
+  - Darakhul
+---
 ___
 >## Darakhul
 >*Medium Undead, Neutral Evil*

@@ -1,8 +1,11 @@
 ---
-{}
+picture: Downcast BGR PNG.png
+tags:
+  - Species
+  - GHPG24
 ---
-# Species Triats
-## Grim Hallow: Players Guide (2024)
+# Grim Hallow: Players Guide (2024)
+## Traits
 **Creature Type:** Humanoid 
 **Size:** Medium (Downcast generally range from 5 to 6 feet tall and have a wide range of body types.)
 **Speed:** 30 Feet
@@ -22,16 +25,16 @@ Many Downcast channel magic driven by the vestiges of celestial power that still
 - [[Moved By Faith]] 
 ##### Trait Selection
 Selecting the traditional traits noted for your heritage is quick and easy, and creates a character who feels like a solid archetype within your chosen heritage. But you can swap any of those suggested traditional heritage traits for any of the traits provided, building your character around any eight traits. This can include taking the traditional traits presented for any other heritage, taking one of your traditional traits again to gain its secondary effect, or taking any of the many traits that aren't part of any heritage's default presentation.
-# Info
-## Grim Hallow: Players Guide (2024):
+
+## Info
 At the conclusion of the Gods' End, a thousand souls fell to Etharis like burning stars from the sky. The downcast had once been part of the celestial legions, but the death of the gods sent shockwaves through the heavens. Cast down to the mortal realm, these former angels found themselves bereft of power and left to live out their now-mortal existence among the people of the world.
 In the absence of the gods, the Arch Seraphs of each deity descended upon the mortal realm, taking upon themselves the burden of imposing order on a world cast into disarray. The Arch Seraphs were the most powerful lieutenants among the angelic hosts, strong enough to retain a semblance of their divine power following the tragedy. But an angel is not a god. An Arch Seraph cannot embody every aspect of a divine domain. Some became consumed with enforcing narrow virtues. Others have turned from grace entirely, choosing to embody vice rather than virtue, and becoming feared as Arch Daemons.
 The downcast, are far fewer in number than when they first arrived. Many succumbed to despair and sickness after their fall from grace. Of those who remain, some still serve the Arch Seraphs in their twisted crusades, hoping to reclaim what they have lost. Others have turned their backs on their former comrades to seek their own goals, fully embracing mortal life. And more than a few feel embittered enough by their fall that they have been gleefully accepted by the Arch Daemons as agents to spread fear and destruction in the world.
 Physically, the downcast still possess the beauty of their angelic forms, although they no longer shine as brightly as before. For most, the mark of the divine still lingers as a visible glow within their eyes, or faintly glowing Celestial runes on their otherwise unblemished skin. Others have been marked by their shift in morality, manifesting cracked skin or devilish horns.
 ##### Eldritch Heritages
 Folk of the rare heritages of Etharis have dwelled long in isolation or on the fringes between the lands and cultures of more populous folk. Characters of these heritages face the same struggles as all people, but often possess unique views of the world that others struggle to understand.
-# Pictures
-## GH:PG’24:
+
+## Images
 ![[Downcast BGR PNG.png]]
 ##### Tags:
 #Species #GHPG24 

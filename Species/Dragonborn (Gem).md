@@ -1,8 +1,11 @@
 ---
-{}
+picture: Gem Dragonborn PNG.png
+tags:
+  - Species
+  - FTD
 ---
-# Species Traits
-## Fizban’s Treasury of Dragons
+# Fizban’s Treasury of Dragons
+## Traits
 **Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -23,9 +26,9 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
 **Psionic Mind:** You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
 **Gem Flight:** Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest.
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
-# Info
-## Fizban’s Treasury of Dragons:
+
+## Info
 Gem dragonborn partake of the heritage of gem dragons, who claim to be heirs of Sardior, the Ruby Dragon. The colors and mysterious powers of gem dragons—amethyst, crystal, emerald, sapphire, and topaz—gleam in these dragonborn's scaled skin and course through their veins. Theirs are the wonders of the mind, the force of will, the brilliant light of insight, and the resounding echo of discovery—but also the desiccation of despair.
-# Pictures
-## FTD:
+
+## Images
 ![[Gem Dragonborn PNG.png]]

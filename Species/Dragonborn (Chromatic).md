@@ -1,8 +1,11 @@
 ---
-{}
+picture: Dragonborn Chromatic BGR PNG.png
+tags:
+  - Species
+  - FTD
 ---
-# Species Traits
-## Fizban’s Treasury of Dragons
+# Fizban’s Treasury of Dragons (FTD)
+## Traits
 **Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -22,11 +25,9 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
 **Draconic Resistance:** You have resistance to the damage type associated with your Chromatic Ancestry.
 **Chromatic Warding:** Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can't do so again until you finish a long rest.
 **Languages:** You can speak, read, and write [[Common]] and one other language that you and your DM agree is appropriate for your character.
-# Info 
-## Fizban’s Treasury of Dragons:
+
+## Info
 Dragonborn with chromatic ancestry claim the raw elemental power of chromatic dragons. The vibrant colors of black, blue, green, red, and white dragons gleam in those dragonborn's scaled skin and in the deadly energy of their breath weapons. Theirs is the raw elemental fury of the volcano, of biting arctic winds, and of raging lightning storms, as well as the subtle whisper of swamp and forest, toxic and corrosive.
-# Pictures
-## FTD:
+
+## Images
 ![[Dragonborn Chromatic BGR PNG.png]]
-##### Tags:
-#Species #FTD 

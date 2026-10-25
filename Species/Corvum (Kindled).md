@@ -1,8 +1,8 @@
 ---
 {}
 ---
-# Species Info
-## Humblewood Campaign Setting:
+# Humblewood Campaign Setting (HWCS)
+## Traits:
 **Ability Scores:** Intelligence +1; Charisma +1
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -19,8 +19,8 @@
 **Languages:** You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally.
 **Convincing:** Kindled corvums have a way with words, and are accomplished at saying what someone wants or needs to hear. You have proficiency in either the [[Deception]] or [[Persuasion]] skill. Additionally, you have advantage on all Charisma checks made to convince someone of your exceptional knowledge on any topic related to the skill you selected with your learned trait ([[Arcana]], [[History]], [[Nature]], or [[Religion]]).
 **Sharp Mind:** You learn one additional language of your choice, gain proficiency in a tool of your choice, and are able to accurately recall with perfect clarity anything you have seen or heard within the past month.
-# Info
-## Humblewood Campaign Setting:
+
+## Info
 As a kindled corvum, you know implicitly that you are the smartest in the room. Your ability to utilize your knowledge to your advantage, along with your deep understanding of others motivations, makes you a formidable opponent.
 ##### Hungry for Knowledge
 Corvums are a crow-like race with dark feathers and sharp minds. Their reputation in birdfolk society is nothing short of villainous, and they are regularly cast as the antagonists of any given situation. It's hard to say whether the corvums are distrusted because they behave the way they do, or if they behave the way they do because they are distrusted.
@@ -29,8 +29,8 @@ It is widely believed that corvums only look out for themselves. Sometimes this 
 Corvums are typically found in positions with a modicum of power, such as advisors or minor officials. The stigma they face usually prevents them from attaining too prominent a position in birdfolk society, but corvums are adept at working behind the scenes, spreading their influence subtly and to great effect.
 ##### Too Smart
 Corvums are commonly accepted, sometimes begrudgingly, to be among the smartest of birdfolk. Keen observers, they trade in information the way others trade goods. They are hungry for knowledge and leverage it to further their goals whenever possible. Their undeniable skill in matters of logistics and planning make them valuable to councils and powerful individuals alike.
-# Pictures
-## HWCS
+
+## Images
 ![[Corvum BGR PNG.png]]
 ##### Tags:
 #Species #HWCS 

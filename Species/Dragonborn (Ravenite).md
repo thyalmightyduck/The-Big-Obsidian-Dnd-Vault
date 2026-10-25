@@ -1,8 +1,11 @@
 ---
-{}
+picture: Dragonborn Ravenite BGR PNG.png
+tags:
+  - Species
+  - EGW
 ---
-# Species Traits
-## Explorer’s Guide to Wildemount:
+# Explorer’s Guide to Wildemount
+## Traits
 **Ability Scores:** Strength +2; Constitution +1
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -30,8 +33,8 @@ After you use your breath weapon, you can't use it again until you complete a sh
 **Vengeful Assault:** When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can't do so again until you finish a short or long rest.
 **Languages:** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
 **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-# Info
-## Explorer’s Guide to Wildemount:
+
+## Info
 Ravenites have no tails and a hearty physique. They remember the days when they were slaves to the draconblood, as well as the day when they overthrew their masters.
 Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
 ##### Proud Dragon Kin
@@ -52,8 +55,8 @@ In the Dragonlance setting, the followers of the evil goddess Takhisis learned a
 ##### Uncommon Races
 This race, and those listed below, are uncommon. They don't exist in every world of D&D, and even where they are found, they are less widespread than dwarves, elves, halflings, and humans. In the cosmopolitan cities of the D&D multiverse, most people hardly look twice at members of even the most exotic races. But the small towns and villages that dot the countryside are different. The common folk aren't accustomed to seeing members of these races, and they react accordingly.
 **Dragonborn:** It's easy to assume that a dragonborn is a monster, especially if his or her scales betray a chromatic heritage. Unless the dragonborn starts breathing fire and causing destruction, though, people are likely to respond with caution rather than outright fear.
-# Pictures
-## EGW:
+
+## Images
 ![[Dragonborn Ravenite BGR PNG.png]]
 ##### Tags:
 #Species #EGW 

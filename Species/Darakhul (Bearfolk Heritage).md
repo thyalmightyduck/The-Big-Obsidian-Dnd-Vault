@@ -1,26 +1,29 @@
 ---
-{}
+picture: Darakhul BGR PNG.png
+tags:
+  - BoET
+  - Species
 ---
-# Species Info
-## Book of Ebon Tides:
+# Book of Ebon Tides (BoET)
+## Traits
 **Ability Scores:** Constitution +1; Strength +2
 **Creature Type:** [[Humanoid]]
 **Size:** Meduim
-**Speed:** 30 Feet
+**[[Speed]]:** 30 Feet
 
 **Age:** An upper limit of darakhul age has never been discovered; most darakhul die violently.
 **Alignment:** Your alignment does not change when you become a darakhul, but most darakhul have a strong draw toward evil.
-**Darkvision:** You can see in [[Dim Light]] within 60 feet as though it were [[Bright Light]] and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
-**Hunger For Flesh:** You must consume 1 pound of raw meat each day or suffer the effects of starvation. If you go 24 hours without such a meal, you gain one level of [[exhaustion]]. While you have any levels of [[Exhaustion]] from this trait, you can't regain hit points or remove levels of [[Exhaustion]] until you spend at least 1 hour consuming 10 pounds of raw meat.
-**Imperfect Undeath:** You transitioned into undeath, but your transition was imperfect. Though you are a humanoid, you are susceptible to effects that target undead. You can regain hit points from spells like cure wounds, but you can also be affected by game effects that specifically target undead, such as a [[Cleric]]'s Turn Undead feature. Game effects that raise a creature from the dead work on you as normal, but they return you to life as a darakhul. A true resurrection or wish spell can restore you to life as a fully living member of your original race.
-**Powerful Jaw:** Your heavy jaw is powerful enough to crush bones to powder. Your bite is a natural melee weapon, which you can use to make unarmed strikes. When you hit with it, your bite deals piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-**Sunlight Sensitivity:** You have disadvantage on [[attack rolls]] and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
-**Undead Resilience:** You are infused with the dark energy of undeath, which frees you from some frailties that plague most creatures. You have resistance to necrotic damage and poison damage, you are immune to disease, and you have advantage on saving throws against being [[Charmed]] or [[Poisoned]]. When you finish a short rest, you can reduce your [[Exhaustion]] level by 1, provided you have ingested at least 1 pound of raw meat in the last 24 hours (see Hunger for Flesh feature).
-**Undead Vitality:** You don't need to breathe, and you don't sleep the way most creatures do. Instead, you enter a dormant state that resembles death, remaining semiconscious, for 6 hours a day. While dormant, you have disadvantage on Wisdom ([[Perception]]) checks. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-**Jaws Of Death:** Your powerful jaws serve you well as a darakhul. When you use your bite attack to make an unarmed strike, you deal piercing damage equal to 1d6 + your Strength modifier.
-**Undead Fortitude:** Your tenacity in life has followed you into undeath. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+**Darkvision:** You can see in [[Dim Light]] within 60 feet as though it were [[Bright Light]] and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in [[darkness]], only shades of gray.
+**Hunger For Flesh:** You must consume 1 pound of raw meat each day or suffer the effects of starvation. If you go 24 hours without such a meal, you gain one level of [[exhaustion]]. While you have any levels of [[Exhaustion]] from this trait, you can't regain [[Hit Point|hit points]] or remove levels of [[Exhaustion]] until you spend at least 1 hour consuming 10 pounds of raw meat.
+**Imperfect Undeath:** You transitioned into undeath, but your transition was imperfect. Though you are a humanoid, you are susceptible to effects that target undead. You can regain [[Hit Point|hit points]] from spells like [[cure wounds]], but you can also be affected by game effects that specifically target undead, such as a [[Cleric]]'s Turn Undead feature. Game effects that raise a creature from the [[dead]] work on you as normal, but they return you to life as a darakhul. A [[true resurrection]] or [[wish]] spell can restore you to life as a fully living member of your original race.
+**Powerful Jaw:** Your heavy jaw is powerful enough to crush bones to powder. Your bite is a natural [[Melee Weapons|melee weapon]], which you can use to make [[Unarmed Strike|unarmed strikes]]. When you hit with it, your bite deals piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an [[unarmed strike]].
+**Sunlight Sensitivity:** You have [[disadvantage]] on [[attack rolls]] and on Wisdom ([[Perception]]) checks that rely on sight when you, the target of your [[Attack Action|attack]], or whatever you are trying to perceive is in direct sunlight.
+**Undead Resilience:** You are infused with the dark energy of undeath, which frees you from some frailties that plague most creatures. You have [[resistance]] to necrotic damage and poison damage, you are immune to disease, and you have [[advantage]] on [[Saving Throw|saving throws]] against being [[Charmed]] or [[Poisoned]]. When you finish a [[short rest]], you can reduce your [[Exhaustion]] level by 1, provided you have ingested at least 1 pound of raw meat in the last 24 hours (see Hunger for Flesh feature).
+**Undead Vitality:** You don't need to breathe, and you don't sleep the way most creatures do. Instead, you enter a dormant state that resembles death, remaining semiconscious, for 6 hours a day. While dormant, you have [[disadvantage]] on Wisdom ([[Perception]]) checks. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+**Jaws Of Death:** Your powerful jaws serve you well as a darakhul. When you use your bite [[Attack Action|attack]] to make an [[unarmed strike]], you deal piercing damage equal to 1d6 + your Strength modifier.
+**Undead Fortitude:** Your tenacity in life has followed you into undeath. When you are reduced to 0 [[Hit Point|hit points]] but not killed outright, you can drop to 1 [[hit point]] instead. You can't use this feature again until you finish a long rest.
 **Language:** You can speak, read, and write Common (if you hail from mortal lands) or Umbral (if native to the Shadow Realm).
-# Info
+
 ## Book of Ebon Tides:
 Your darakhul character was a bearfolk before transforming into a darakhul. While your allegiance has changed, your mission to create order amid the darkness has not. The strength and tenacity of the darakhul are comfortingly familiar.
 The darakhul are no strangers to darkness, and over the years, the members of the Twilight Empire deftly adapted to their new home and carved out a thriving civilization in the Shadow Realm. They have grown into a powerful force.
@@ -43,8 +46,6 @@ There is a great deal of narrative, dramatic, and roleplaying potential in that 
 ##### Heritage Subraces
 Before the terrible scourge of darakhul fever transformed you into an undead creature, you belonged to another race. Although your undead self now rules you, some remnant of your past form clings to you, making you different from the darakhul created from other races. Sometimes you retain a trait, but more likely, you now have a trait that is a corruption of one you once possessed. For example, the elemental spark in a dragonborn is perverted into one of a more necrotic bent. The luck inherent in a halfling's spirit twists into a power that brings ill fortune to their enemies.
 You were something else before you became a darakhul. This heritage determines some of your traits.
-# Pictures
+
 ## Book of Ebon Times:
 ![[Darakhul BGR PNG.png]]
-##### Tags:
-#Species #BoET 

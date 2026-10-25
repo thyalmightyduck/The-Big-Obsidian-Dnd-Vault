@@ -1,8 +1,11 @@
 ---
-{}
+picture: Dragonborn Draconblood BGR PNG.png
+tags:
+  - Species
+  - EGW
 ---
-# Species Traits
-## Explorer’s Guide to Wildemount
+# Explorer’s Guide to Wildemount (EGW)
+## Traits
 **Ability Scores:** Intelligence +2; Charisma +1
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -30,8 +33,8 @@ After you use your breath weapon, you can't use it again until you complete a sh
 **Forceful Presence:** You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest.
 **Languages:** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
 **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-# Info
-## Explorer’s Guide to Wildemount:
+
+## Info
 Draconbloods possess long tails and a knack for social manipulation. They remember the days when they were once mighty conquerors.
 Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
 ##### Proud Dragon Kin
@@ -56,8 +59,6 @@ This race, and those listed below, are uncommon. They don't exist in every world
 **Half-Elf:** Although many people have never seen a half-elf, virtually everyone knows they exist. A half-elf stranger's arrival is followed by gossip behind the half-elf's back and stolen glances across the common room, rather than any confrontation or open curiosity.
 **Half-Orc:** It's usually safe to assume that a half-orc is belligerent and quick to anger, so people watch themselves around an unfamiliar half-orc. Shopkeepers might surreptitiously hide valuable or fragile goods when a half-orc comes in, and people slowly clear out of a tavern, assuming a fight will break out soon.
 **Tiefling:** Half-orcs are greeted with a practical caution, but tieflings are the subject of supernatural fear. The evil of their heritage is plainly visible in their features, and as far as most people are concerned, a tiefling could very well be a devil straight from the Nine Hells. People might make warding signs as a tiefling approaches, cross the street to avoid passing near, or bar shop doors before a tiefling can enter.
-# Pictures
-## EGW:
+
+## Images
 ![[Dragonborn Draconblood BGR PNG.png]]
-##### Tags:
-#Species #EGW 

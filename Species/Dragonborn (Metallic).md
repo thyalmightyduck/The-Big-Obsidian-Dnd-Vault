@@ -1,8 +1,11 @@
 ---
-{}
+picture: Dragonborn Metallic BGR PNG.png
+tags:
+  - Species
+  - FTD
 ---
-# Species Traits
-## Fizban’s Treasury of Dragons:
+# Fizban’s Treasury of Dragons (FTD)
+## Traits
 **Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -25,11 +28,11 @@ You can use your Breath Weapon a number of times equal to your proficiency bonus
 - Repulsion Breath. Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked [[Prone]].
 Once you use your Metallic Breath Weapon, you can't do so again until you finish a long rest.
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
-# Info
-## Fizban’s Treasury of Dragons:
+
+## Info
 Dragonborn with metallic ancestry lay claim to the tenacity of metallic dragons—brass, bronze, copper, gold, and silver—whose hues glint in their scales. Theirs is the fire of hearth and forge, the cold of high mountain air, the spark of inspiration, and the scouring touch of acid that purifies.
-# Pictures:
-## FTD:
+
+## Images
 ![[Dragonborn Metallic BGR PNG.png]]
 ##### Tags:
 #Species #FTD 
