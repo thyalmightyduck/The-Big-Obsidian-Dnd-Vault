@@ -1,7 +1,11 @@
 ---
-{}
+picture: Duskling PNG.png
+tags:
+  - Species
+  - DndD
 ---
-## Duskling
+# D&D Beyond Drops (DndD)
+## Traits
 
 - **Creature Type:** Fey
 - **Size:** Medium (about 4–7 feet tall)
@@ -18,3 +22,11 @@ As a Bonus Action, you can switch to a different benefit. You can switch the ben
 - **Ardor.** You have Advantage on Charisma ability checks and on saving throws to avoid or end the Frightened condition.
 - **Mobility.** Your Speed increases by 10 feet, and climbing and swimming don't cost you extra movement.
 - **Vigor.** You gain a number of Temporary Hit Points equal to your Proficiency Bonus, and you have Advantage on Strength (Athletics) and Dexterity (Acrobatics) checks.
+
+## Info
+Dusklings are a people who've left the Feywild to settle in forested lands of both the Outer Planes and the Material Plane. The inherent magic of the Feywild still runs through them, giving dusklings the ability to suffuse themselves with magical effects.
+
+Dusklings that travel the planes often live in migratory communities that follow livestock herds they tend. When the resources run out in one place, they move to another. Young dusklings play daring games that encourage them to harness and utilize their inner powers.
+
+## Images
+![[Duskling PNG.png]]

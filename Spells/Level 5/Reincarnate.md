@@ -16,7 +16,7 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 | ---- | -------------- |
 | 1    | [[Aasimar]]    |
 | 2    | [[Dragonborn]] |
-| 3    | [[Species/Dwarf]]      |
+| 3    | [[Dwarf (PHB14)]]      |
 | 4    | [[Elf]]        |
 | 5    | [[Gnome]]      |
 | 6    | [[Goliath]]    |
