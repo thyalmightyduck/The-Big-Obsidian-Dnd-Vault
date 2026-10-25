@@ -1,7 +1,11 @@
 ---
-{}
+picture: Eladrin BGR PNG.png
+tags:
+  - Species
+  - MPMM
 ---
-### Species Traits
+# Mordenkainen Presents: Monsters of the Multiverse (MPMM)
+## Species Traits
 **Ability Scores:** Choose one of the following:
 - Increase one ability by +2 and one ability by +1
 - Increase three abilities by +1 by +1
@@ -26,7 +30,7 @@ _Choose your eladrin's season: autumn, winter, spring, or summer. When finishing
 	Whenever you finish this trance, you can change your season, and you can gain two proficiencies that you don't have, each one with a weapon or a Tool of your choice selected from the Player's Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next [[Long Rest]].
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character
 
-### Info:
+## Info:
 Eladrin are elves of the Feywild, a realm of perilous beauty and boundless magic. Using that magic, eladrin can step from one place to another in the blink of an eye, and each eladrin resonates with emotions captured in the Feywild in the form of seasons—affinities that affect the eladrin's mood and appearance. An eladrin's season can change, though some remain in one season forever. Choose your season or roll on the Eladrin Seasons table. Your Trance trait lets you change your season.
 
 Like other elves, eladrin can live to be over 750 years old.
@@ -40,8 +44,5 @@ Eladrin Seasons
 |3|Spring: cheerfulness and celebration, marked by merriment and hope as winter's sorrow passes.|
 |4|Summer: boldness and aggression, a time of unfettered energy and calls to action.|
 
-##### Credit
-Mordenkainen Presents: Monsters of the Multiverse
-
-# Pictures
+## Images
 ![[Eladrin BGR PNG.png]]
