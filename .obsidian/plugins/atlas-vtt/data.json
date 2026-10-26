@@ -36,6 +36,23 @@
     "onlinePlay": true
   },
   "toolbar": {},
+  "dungeonGenerator": {
+    "style": "parchment",
+    "view": {
+      "grid": "dotted",
+      "smallTiles": false,
+      "water": true,
+      "props": true,
+      "shadow": true,
+      "secrets": true,
+      "monochrome": false
+    },
+    "theme": "any",
+    "tags": [],
+    "floors": 1,
+    "bossRoom": true,
+    "fiveRoom": false
+  },
   "localPlayerView": {
     "showToolbar": false,
     "showTokenNameplates": true,
