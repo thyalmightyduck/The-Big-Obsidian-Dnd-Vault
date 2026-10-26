@@ -1,7 +1,11 @@
 ---
-{}
+picture: Elf Kaladesh 1 BGR PNG.png
+tags:
+  - Species
+  - PSK
 ---
-## Elf (Kaladesh)
+# Plane Shift: Kaladesh (PSK)
+## Traits
 
 - **Ability Scores:** Dexterity +2; Wisdom +1
 - **Creature Type:** Humanoid
@@ -14,7 +18,6 @@ This race has multiple subraces, as listed below:
 - Elf (Kaladesh; Vahadar)
 
 #### Traits
-
 ***Age.*** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
 ***Alignment.*** Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.
@@ -36,3 +39,16 @@ This race has multiple subraces, as listed below:
 ***Languages.*** You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
 
 ***Elf Culture.*** The elves of Kaladesh don't organize themselves into nations or tribes. Still, they recognize three distinct cultural groups among their kind—though in truth these groupings are more like attitudes or alignments with regard to the rest of society and the use of technology. Choose one of these cultures.
+
+## Info
+“_Everything is connected, and aether flows through it all._”
+
+The movement of aether through the world is visible and obvious where it courses in glowing rivers across the sky, sweeps across sculpted plains, or pours through great urban pipelines. But the elves of Kaladesh are uniquely in tune with the flow of aether throughout the plane, both seen and unseen, and with the subtle ways it suffuses and influences all life. They call this flow the Great Conduit, and they believe that the only way to truly grasp it is to be a part of it, simultaneously shaping it and being shaped in return.
+
+Thanks to this sensitivity, elves feel a deep connection to other living things. They engage deeply with the world around them, delighting in natural systems and social interactions alike. They revel in exploring the interconnectedness of nature and society, seeing the flow of aether from nature to invention, from person to person, from body to mind and heart.
+
+Elves live in harmony with both nature and technology. They believe that nature inspires technology: each piece of artifice is an expression of natural laws and principles, and captures one element of aether's flow in a sort of microcosmic system. Technology, in turn, can nurture the natural world, helping life grow and flourish in places and ways that would otherwise be impossible.
+
+## Images
+![[Elf Kaladesh 1 BGR PNG.png]]
+![[Elf Kaladesh 2 BGR PNG.png]]

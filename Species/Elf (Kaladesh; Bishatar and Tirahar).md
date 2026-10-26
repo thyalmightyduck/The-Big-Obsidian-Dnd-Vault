@@ -1,7 +1,11 @@
 ---
-{}
+picture: Elf Kaladesh 1 BGR PNG.png
+tags:
+  - Species
+  - PSK
 ---
-## Elf (Kaladesh; Bishatar and Tirahar)
+# Plane Shift: Kaladesh (PSK)
+## Traits
 
 - **Ability Scores:** Dexterity +2; Wisdom +1
 - **Creature Type:** Humanoid
@@ -31,3 +35,23 @@
 ***Fleet of Foot.*** Your ground speed increases to 35 feet.
 
 ***Mask of the Wild.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+
+## Info
+“_Everything is connected, and aether flows through it all._”
+
+The movement of aether through the world is visible and obvious where it courses in glowing rivers across the sky, sweeps across sculpted plains, or pours through great urban pipelines. But the elves of Kaladesh are uniquely in tune with the flow of aether throughout the plane, both seen and unseen, and with the subtle ways it suffuses and influences all life. They call this flow the Great Conduit, and they believe that the only way to truly grasp it is to be a part of it, simultaneously shaping it and being shaped in return.
+
+Thanks to this sensitivity, elves feel a deep connection to other living things. They engage deeply with the world around them, delighting in natural systems and social interactions alike. They revel in exploring the interconnectedness of nature and society, seeing the flow of aether from nature to invention, from person to person, from body to mind and heart.
+
+Elves live in harmony with both nature and technology. They believe that nature inspires technology: each piece of artifice is an expression of natural laws and principles, and captures one element of aether's flow in a sort of microcosmic system. Technology, in turn, can nurture the natural world, helping life grow and flourish in places and ways that would otherwise be impossible.
+
+### Bishtahar and Tirahar
+Elves who dwell in the forest and countryside are known as the Bishtahar. Most live in isolated communities away from other races, though they still trade with them. In fact, much of Kaladesh's food supply is grown by elves. Bishtahar cultivators grow food, decorative flowers, wood for building, and elaborate living sculptures in their meandering gardens and fields. They use the plane's ubiquitous technology to foster the growth of plants and animals, utilizing automatons as gardeners and herders, and employing elaborate, nearly invisible systems controlling heat, water, and nutrients.
+
+A garden tended by elves seems to grow naturally in an aesthetically pleasing fashion. In fact, many of the forests and plains of Kaladesh are planted and tended by elves as well. What might appear at first to be wild countryside is more likely a carefully planned landscape designed to meet the needs of the people and animals that live there.
+
+Elves who forsake technology entirely are called the Tirahar. Some elves with Tirahar sympathies live within cities or farms, but most simply withdraw to the wilder areas of Kaladesh. No more than one in a hundred elves is counted among the Tirahar, and many members of other races are unaware that these reclusive elves even exist.
+
+## Images
+![[Elf Kaladesh 1 BGR PNG.png]]
+![[Elf Kaladesh 2 BGR PNG.png]]

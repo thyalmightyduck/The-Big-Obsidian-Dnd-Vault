@@ -1,3 +1,11 @@
+---
+aliases:
+  - Elf
+picture: Elf PHB14 BGR PNG.png
+tags:
+  - Species
+  - PHB14
+---
 # Player’s Handbook 2014 (PHB14)
 ## Traits
 
@@ -79,4 +87,4 @@ On declaring adulthood, an elf selects an adult name, although those who knew hi
 - **Family Names (Common Translations):** Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
 
 ## Images
-![[Elf]]
+![[Elf PHB14 BGR PNG.png]]
