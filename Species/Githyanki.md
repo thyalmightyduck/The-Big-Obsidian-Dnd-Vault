@@ -1,5 +1,8 @@
 ---
-{}
+picture: Githyanki BGR PNG.png
+tags:
+  - Species
+  - MPMM
 ---
 # Mordenkainen Presents: Monsters of the Multiverse (MPMM)
 ## Traits
@@ -22,3 +25,5 @@ A lanky people with skin tones of yellows, greens, and browns, githyanki complem
 
 Githyanki who reside in the Astral Plane can live indefinitely.
 
+## Images
+![[Githyanki BGR PNG.png]]

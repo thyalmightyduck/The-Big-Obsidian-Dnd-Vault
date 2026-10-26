@@ -1,10 +1,12 @@
 ---
-{}
+picture: Githzerai BGR PNG.png
+tags:
+  - Species
+  - MPMM
 ---
-### Species Traits
-**Ability Scores:** Choose one of the following:
-- Increase one ability by +2 and one ability by +1
-- Increase three abilities by +1 by +1
+# Mordenkainen Presents: Monsters of the Multiverse
+## Traits
+**Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** [[Humanoid]]
 **Size:** Medium
 **Speed:** 30 feet
@@ -16,12 +18,12 @@
 **Psychic Resilience:** You have [[Resistance (Damage)]] to psychic damage.
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
-### Info:
+## Info
 Githzerai migrated to the Everchanging Chaos of Limbo after the ancient schism that split their ancestors from their cousins, [[Githyanki]]. Limbo is a roiling maelstrom of matter and energy, collapsing and reforming without purpose or direction, until a creature exerts deliberate will to stabilize it. Through their potent psionic power, githzerai carved a home for themselves amid the chaos. As the ages passed, githzerai explorers ranged out to other planes and worlds of the multiverse.
 
 Githzerai are generally slender, with speckled skin in shades of yellow, green, or brown. Eons of cultivating their mental powers within the endless chaos of Limbo have imbued githzerai with the ability to shape psionic energy to protect themselves and probe minds.
 
-### Pictures
+## Images
 ![[Githzerai BGR PNG.png]]
 ### Credit
 Mordenkainen Presents: Monsters of the Multiverse

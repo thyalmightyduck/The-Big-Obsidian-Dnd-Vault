@@ -1,49 +1,31 @@
 ---
-{}
+picture: Gnarlborn BGR PNG.png
+tags:
+  - Species
+  - TCM24
 ---
-### Traits TCM’14
-- Ability Scores: Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
-    
-- Creature Type: Plant
-    
-- Size: Medium
-    
-- Speed: 30 feet
-    
+# The Crooked Moon 2024 (TCM24)
+## Traits 
+- **Creature Type:** Plant
+- **Size:** Medium (about 5-8 feet tall)
+- **Speed:** 30 feet
 
-Creature Type. You are a Plant.
+**Deep Roots.** You have Advantage on Ability Check and saving throws against being moved against your will or to avoid the Prone condition.
 
-Deep Roots. You have advantage on [[Ability Check]] and saving throws against being moved against your will or to avoid being knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
+**Elderwood Whispers.** You can draw on the memory of the Elderwood spirits. When you finish a Long Rest, you gain proficiency with a skill, a tool, or learn one language of your choice until you next finish a Long Rest.
 
-Elderwood Whispers. You can draw on the memory of the Elderwood spirits. When you finish a long rest, you gain proficiency with a skill, a tool, or learn one language of your choice until you next finish a long rest.
+**Grasping Branches.** As a Bonus Action, you can magically unleash the binding power of the dark wood. Choose a Large or smaller creature within 30 feet of yourself. The creature must make a Strength saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, the target has the Restrained condition for 1 minute as branches appear and ensnare it. On a successful save, its Speed is halved until the end of its next turn. A Restrained creature repeats the save at the end of each of its turns, ending the effect on itself on a success. The branches vanish when the condition ends.
 
-Grasping Branches. As a bonus action, you can magically unleash the binding power of the dark wood. Choose a Large or smaller creature within 30 feet of yourself. The creature must make a Strength saving throw (DC 8 plus your Constitution modifier and proficiency bonus). On a failed save, the target is [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb) for 1 minute as branches appear and ensnare it. On a successful save, its speed is halved until the end of its next turn. A [restrained](https://5e.tools/conditionsdiseases.html#restrained_phb) creature repeats the save at the end of each of its turns, ending the effect on itself on a success. The branches vanish when the condition ends.
+Once you use this trait, you can't do so again until you finish a Short or Long Rest.
 
-Once you use this trait, you can't do so again until you finish a short or long rest.
+**Root Sense.** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. Once you use this trait, you can't do so again until you finish a Short or Long Rest.
 
-Root Sense. As a bonus action, you gain tremorsense with a range of 60 feet for 10 minutes. Once you use this trait, you can't do so again until you finish a short or long rest.
+**Towering Size.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
-Towering Size. You have advantage on any [[ability check]] you make to escape a grapple. You also count as one size larger when determining your carrying capacity.
+## Info
+Gnarlborn (_NAR-ull-born_) are a tree-like species native to Ardengloom, usually sprouting up from the soil of the twisted, dark forest. Their home is forever haunted by the souls of long-dead Fey, which inhabit the enormous, face-bearing trees known as Elderwoods. These folk commune with these beings to receive primordial wisdom.
 
-Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
-### Traits TCM’24
-- Creature Type: Plant
-    
-- Size: Medium (about 5-8 feet tall)
-    
-- Speed: 30 feet
-    
+Resembling gnarled trees with glowing faces hollowed into the bark, their individual patterns of branches, moss, and lichen can result in a wide diversity of appearances. Most gnarlborn live for over 500 years, but those with the strongest connection to the Elderwoods have been said to live to be thousands of years old.
 
-Deep Roots. You have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on [[Ability Check]] and saving throws against being moved against your will or to avoid the [Prone](https://5e.tools/conditionsdiseases.html#prone_xphb) condition.
-
-Elderwood Whispers. You can draw on the memory of the Elderwood spirits. When you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you gain proficiency with a skill, a tool, or learn one language of your choice until you next finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
-
-Grasping Branches. As a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb), you can magically unleash the binding power of the dark wood. Choose a Large or smaller creature within 30 feet of yourself. The creature must make a Strength saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb)). On a failed save, the target has the [Restrained](https://5e.tools/conditionsdiseases.html#restrained_xphb) condition for 1 minute as branches appear and ensnare it. On a successful save, its [Speed](https://5e.tools/variantrules.html#speed_xphb) is halved until the end of its next turn. A [Restrained](https://5e.tools/conditionsdiseases.html#restrained_xphb) creature repeats the save at the end of each of its turns, ending the effect on itself on a success. The branches vanish when the condition ends.
-
-Once you use this trait, you can't do so again until you finish a [Short](https://5e.tools/variantrules.html#short%20rest_xphb) or [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
-
-Root Sense. As a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb), you gain Tremorsense with a range of 60 feet for 10 minutes. Once you use this trait, you can't do so again until you finish a [Short](https://5e.tools/variantrules.html#short%20rest_xphb) or [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
-
-Towering Size. You have [Advantage](https://5e.tools/variantrules.html#advantage_xphb) on any [[ability check]] you make to end the [Grappled](https://5e.tools/conditionsdiseases.html#grappled_xphb) condition. You also count as one size larger when determining your carrying capacity.
-### Pictures
+## Images
 ![[Gnarlborn BGR PNG.png]]
