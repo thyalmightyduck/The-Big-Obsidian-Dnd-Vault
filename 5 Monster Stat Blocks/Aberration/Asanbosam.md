@@ -5,7 +5,7 @@ tags:
   - CR5
   - TOB123
 ---
-# Tome of Beats 1 2023 Edition (ToB123)
+# Tome of Beasts 1 2023 Edition (ToB123)
 ___
 ## Asanbosam
 *Large Aberration, Chaotic Evil*
