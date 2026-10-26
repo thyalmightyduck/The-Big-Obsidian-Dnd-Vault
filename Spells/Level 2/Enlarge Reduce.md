@@ -19,6 +19,6 @@ Reduce. The target's size decreases by one category—from Medium to Small, for
 
 **Classes:** [[Apothecary]], [[Artificer]], [[Bard]], [[Druid]], [[Sorcerer]], [[Tamer]], [[Wizard]]
 **Subclasses:** [[Arcane Trickster Rogue]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Flesh Patron Warlock]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[The Parasite Warlock]], [[Way of the Arcane Hand Monk]]
-**Species:** [[Duergar]], [[Dwarf (Duergar)]], [[Faerie]], [[Fairy]], [[Fairy]]
+**Species:** [[Duergar]], [[Dwarf (Duergar)]], [[Faerie]], [[Fairy (MPMM)]], [[Fairy (MPMM)]]
 **Backgrounds:** [[Quandrix Student]], [[Simic Scientist]]
 **Feats:** [[Adept of the Red Robes]], [[Boon of Siberys]]

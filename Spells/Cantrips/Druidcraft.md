@@ -20,7 +20,7 @@ Fire Play. You light or snuff out a candle, a [[Torch]], or a campfire.
 
 **Classes:** [[Druid]]
 **Subclasses:** [[Arcane Archer Fighter]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[College of the Moon Bard]], [[Harvest Domain Cleric]], [[Path of the Giant Barbarian]], [[Strength Domain Cleric]]
-**Species:** [[Elf]], [[Elf (Kaladesh Vahadar)]], [[Faerie]], [[Fairy]], [[Fairy]], [[Halfling (Lotusden)]], [[Khoravar]], [[Merfolk (Ixalan Green)]], [[Merfolk (Zendikar Emeria Creed)]]
+**Species:** [[Elf]], [[Elf (Kaladesh Vahadar)]], [[Faerie]], [[Fairy (MPMM)]], [[Fairy (MPMM)]], [[Halfling (Lotusden)]], [[Khoravar]], [[Merfolk (Ixalan Green)]], [[Merfolk (Zendikar Emeria Creed)]]
 **Backgrounds:** [[Selesnya Initiate]], [[Simic Scientist]]
 **Feats:** [[Druidic Warrior]], [[Magic Initiate]], [[Strixhaven Initiate]], [[Wood Elf Magic]]
 **Other Options/Features:** [[Druidic Warrior]], [[Pact of the Tome]]

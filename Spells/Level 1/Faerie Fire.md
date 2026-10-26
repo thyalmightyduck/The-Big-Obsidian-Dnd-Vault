@@ -16,5 +16,5 @@ Attack rolls against an affected creature or object have [[Advantage]] if the
 
 **Classes:** [[Artificer]], [[Bard]], [[Druid]], [[Tamer]]
 **Subclasses:** [[Archfey Patron Warlock]], [[Cartographer Artificer]], [[College of Lore Bard]], [[Cosmic Patron Warlock]], [[Delerium Soul Sorcerer]], [[Light Domain Cleric]], [[Swarmkeeper Ranger]], [[The Archfey Warlock]], [[Twilight Domain Cleric]]
-**Species:** [[Elf]], [[Elf (Drow)]], [[Faerie]], [[Fairy]], [[Fairy]], [[Half-Elf (Drow Descent)]], [[Half-Orc (Mark Of Finding)]], [[Human (Mark Of Finding)]]
+**Species:** [[Elf]], [[Elf (Drow)]], [[Faerie]], [[Fairy (MPMM)]], [[Fairy (MPMM)]], [[Half-Elf (Drow Descent)]], [[Half-Orc (Mark Of Finding)]], [[Human (Mark Of Finding)]]
 **Feats:** [[Artificer Initiate]], [[Child of the Sun]], [[Divinely Favored]], [[Magic Initiate]], [[Magic Initiate]], [[Mark of Finding]], [[Strixhaven Initiate]]
