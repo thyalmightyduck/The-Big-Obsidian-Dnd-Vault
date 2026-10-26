@@ -19,5 +19,5 @@ The flaming blade sheds [[Bright Light]] in a 10-foot radius and [[Dim Light]]
 
 **Classes:** [[Druid]], [[Sorcerer]]
 **Subclasses:** [[College of Lore Bard]], [[Purification Domain Cleric]]
-**Species:** [[Flamekin]], [[Genasi (Fire)]], [[Rimekin]], [[Tiefling (Mephistopheles)]]
+**Species:** [[Flamekin]], [[Genasi (Fire) (MPMM)]], [[Rimekin]], [[Tiefling (Mephistopheles)]]
 **Feats:** [[Boon of Siberys]]

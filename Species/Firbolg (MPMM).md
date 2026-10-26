@@ -1,10 +1,14 @@
 ---
-{}
+aliases:
+  - Firbolg
+picture: Firbolg BGR PNG.png
+tags:
+  - Species
+  - MPMM
 ---
-### Species Traits
-**Ability Scores:** Choose one of the following:
-- Increase one ability by +2 and one ability by +1
-- Increase three abilities by +1 by +1
+# Mordenkainen Presents: Monsters of the Multiverse (MPMM)
+## Traits
+**Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** [[Humanoid]]
 **Size:** Medium
 **Speed:** 30 feet
@@ -16,15 +20,12 @@
 **Speech of Beast and Leaf:** You have the ability to communicate in a limited manner with Beasts, Plants, and vegetation. They can understand the meaning of your words, though you have no special ability to understand them in return. You have [[Advantage]] on all Charisma checks you make to influence them.
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character
 
-### Info:
+## Info
 Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs' souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest.
 
 A firbolg's magic is an obscuring sort, which allowed their ancestors to pass through a forest without disturbing it. So deep is the connection between a firbolg and the wild places of the world that they can communicate with flora and fauna.
 
 Firbolgs can live up to 500 years.
 
-##### Credit
-Mordenkainen Presents: Monsters of the Multiverse
-
-# Pictures
+## Images
 ![[Firbolg BGR PNG.png]]

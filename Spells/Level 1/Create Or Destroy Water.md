@@ -16,6 +16,6 @@ You do one of the following:
 
 **Classes:** [[Apothecary]], [[Cleric]], [[Druid]]
 **Subclasses:** [[College of Lore Bard]], [[Divine Soul Sorcerer]], [[The Fathomless Warlock]]
-**Species:** [[Genasi (Water)]]
+**Species:** [[Genasi (Water) (MPMM)]]
 **Backgrounds:** [[Izzet Engineer]]
 **Feats:**  [[Divinely Favored]], [[Magic Initiate]], [[Strixhaven Initiate]]

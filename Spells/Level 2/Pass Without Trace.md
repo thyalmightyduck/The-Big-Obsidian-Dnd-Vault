@@ -13,6 +13,6 @@ You radiate a concealing aura in a 30-foot [[Emanation]] for the duration. Whi
 
 **Classes:** [[Druid]], [[Ranger]], [[Tamer]]
 **Subclasses:** [[Circle of the Land Druid]], [[College of Lore Bard]], [[Hunt Domain Cleric]], [[Shadow Domain Cleric]], [[Shadow Sorcery Sorcerer]], [[Trail Warden Ranger]], [[Trickery Domain Cleric]], [[Way of Shadow Monk]]
-**Species:** [[Elf]], [[Elf (Mark Of Shadow)]], [[Genasi (Earth)]], [[Genasi (Earth)]], [[Human (Mark Of Passage)]]
+**Species:** [[Elf]], [[Elf (Mark Of Shadow)]], [[Genasi (Earth) (MPMM)]], [[Genasi (Earth) (MPMM)]], [[Human (Mark Of Passage)]]
 **Backgrounds:** [[Dimir Operative]]
 **Feats:** [[Adept of the White Robes]], [[Mark of Passage]], [[Mark of Shadow]], [[Wood Elf Magic]]

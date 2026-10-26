@@ -1,10 +1,14 @@
 ---
-{}
+aliases:
+  - Genasi (Fire)
+picture: Fire Genasi BGR PNG.png
+tags:
+  - Species
+  - MPMM
 ---
-### Species Traits
-**Ability Scores:** Choose one of the following:
-- Increase one ability by +2 and one ability by +1
-- Increase three abilities by +1 by +1
+# Mordenkainen Presents: Monsters of the Multiverse (MPMM)
+## Traits
+**Ability Scores:**  Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** [[Humanoid]]
 **Size:** Small or Medium
 **Speed:** 30 feet
@@ -16,13 +20,15 @@
 **Reach to the Blaze:** You know the [[Produce Flame]] cantrip. Starting at 3rd level, you can cast the [[Burning Hands]] spell with this trait. Starting at 5th level, you can also cast the [[Flame Blade]] spell with this trait, without a material component. Once you cast [[Burning Hands]] or [[Flame Blade]] with this trait, you can't cast that spell with it again until you finish a [[Long Rest]]. You can also cast either of those spells using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
-### Info:
+## Info
+Descended from efreet, the genies of the Elemental Plane of Fire, fire genasi channel the flamboyant and often destructive nature of flame. They show their heritage in their skin tones, which can range from deep charcoal to shades of red and orange. Some bear skin tones common to humanity but with fiery marks, such as slowly swirling lights under their skin that resemble embers or glowing red lines tracing over their bodies like cracks. Fire genasi hair can resemble threads of fire or sooty smoke.
+
+---
+
+### Genasi
 Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.
 
-A typical genasi has a life span of 120 years
+A typical genasi has a life span of 120 years.
 
-### Credit
-Mordenkainen Presents: Monsters of the Multiverse
-
-# Pictures
+## Image
 ![[Fire Genasi BGR PNG.png]]

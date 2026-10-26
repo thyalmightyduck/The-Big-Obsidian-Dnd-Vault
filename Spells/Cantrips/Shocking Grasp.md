@@ -15,7 +15,7 @@ Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 1
 
 **Classes:** [[Apothecary]], [[Artificer]], [[Sorcerer]], [[Wizard]]
 **Subclasses:** [[Arcana Domain Cleric]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
-**Species:** [[Elf]], [[Elf (High)]], [[Genasi (Air)]], [[Half-Elf (Moon Or Sun Elf Descent)]], [[Khoravar]], [[Kobold]], [[Merfolk (Ixalan Blue)]], [[Merfolk (Zendikar Ula Creed)]]
+**Species:** [[Elf]], [[Elf (High)]], [[Genasi (Air) (MPMM)]], [[Half-Elf (Moon Or Sun Elf Descent)]], [[Khoravar]], [[Kobold]], [[Merfolk (Ixalan Blue)]], [[Merfolk (Zendikar Ula Creed)]]
 **Backgrounds:** [[Izzet Engineer]]
 **Feats:** [[Aberrant Dragonmark]], [[Artificer Initiate]], [[Cold Caster]], [[Initiate of High Sorcery]], [[Magic Initiate]], [[Magic Initiate]], [[Spell Sniper]]
 **Other Options/Features:** [[Pact of the Tome]]

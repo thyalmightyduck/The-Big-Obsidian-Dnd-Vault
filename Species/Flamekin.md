@@ -1,10 +1,11 @@
 ---
-{}
+picture: Flamekin BGR PNG.png
+tags:
+  - Species
+  - LFL
 ---
-### Species Traits
-**Ability Scores:** Choose one of the following:
-- Increase one ability by +2 and one ability by +1
-- Increase three abilities by +1 by +1
+# Lorwyn: First Light (LFL)
+## Traits
 **Creature Type:** [[Humanoid]]
 **Size:** Small or Medium
 **Speed:** 30 feet
@@ -16,7 +17,7 @@
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
-### Info:
+## Info
 Flamekin are people made from two key elements of creation: fire and stone. As a result, many flamekin feel a strong connection to the natural world. Flamekin's bodies radiate harmless magical flames, though they possess innate magic that allows them to create burning flames in a multitude of forms.
 
 Flamekin view self-discovery and self-expression the noblest of aspirations and believe that self-realization is the most important thing an individual can do with their life. Flamekin call this lifelong pursuit the Path of Flame.
@@ -24,11 +25,7 @@ Flamekin view self-discovery and self-expression the noblest of aspirations and 
 Flamekin dwell in either Lorwyn or Shadowmoor. Physically and culturally, they are similar in both lands.
 
 #### Cinders
-
 In Shadowmoor, some flamekin who have stifled their heated emotions are known as Cinders because their magical flames have dampened. Though they still have fiery abilities, these Cinders are visually distinct from other flamekin. While some eventually regain their blazing flames, others turn into [[Rimekin]], explained later in this chapter.
 
-### Credit
-Lorwyn: First Light
-
-# Pictures
+## Images
 ![[Flamekin BGR PNG.png]]

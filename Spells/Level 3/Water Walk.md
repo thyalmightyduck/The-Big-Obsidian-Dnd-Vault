@@ -15,7 +15,7 @@ An affected target must take a [[Bonus Action]] to pass from the liquid's surf
 
 **Classes:** [[Artificer]], [[Cleric]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Tamer]]
 **Subclasses:** [[Circle of the Land Druid]], [[College of Lore Bard]], [[Divine Soul Sorcerer]]
-**Species:** [[Genasi (Water)]], [[Triton]]
+**Species:** [[Genasi (Water) (MPMM)]], [[Triton]]
 **Backgrounds:** [[Prismari Student]]
 **Feats:** [[Boon of Siberys]]
 

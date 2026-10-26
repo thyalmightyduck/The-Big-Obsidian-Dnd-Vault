@@ -9,7 +9,7 @@ Traveling Merchant for [[The Silversmiths Union of Oskana]]
 #### Fahds Crew
 **Tends The Horses:**
 Name: Sophia dos Reis
-Description: Middle-aged, Female, [[Gallus (Bright) Chicken Folk]], A bun, Tall, Muscular build, Their have a slight tremor in their hands
+Description: Middle-aged, Female, [[Gallus (Bright)]], A bun, Tall, Muscular build, Their have a slight tremor in their hands
 Voice: Deep, Soft-spoken, Fast, Says "um" a lot
 Mannerism: They are always early
 PlotHook: Has been cursed to never speak again

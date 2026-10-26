@@ -17,7 +17,7 @@ Until the spell ends, you can take a [[Magic Action]] to hurl fire at a creatu
 
 **Classes:** [[Druid]]
 **Subclasses:** [[Circle of the Land Druid]], [[College of Lore Bard]], [[College of the Moon Bard]], [[Nature Domain Cleric]], [[Waxwork Rogue Rogue]], [[Strength Domain Cleric]]
-**Species:** [[Elf]], [[Elf (Kaladesh Vahadar)]], [[Flamekin]], [[Genasi (Fire)]], [[Genasi (Fire)]], [[Khoravar]], [[Merfolk (Ixalan Green)]], [[Merfolk (Zendikar Emeria Creed)]] 
+**Species:** [[Elf]], [[Elf (Kaladesh Vahadar)]], [[Flamekin]], [[Genasi (Fire) (MPMM)]], [[Genasi (Fire) (MPMM)]], [[Khoravar]], [[Merfolk (Ixalan Green)]], [[Merfolk (Zendikar Emeria Creed)]] 
 **Backgrounds:** [[Gruul Anarch]], [[Izzet Engineer]]
 **Feats:** [[Druidic Warrior]], [[Magic Initiate]], [[Magic Initiate]], [[Spell Sniper]], [[Wood Elf Magic]]
 **Other Options/Features:** [[Druidic Warrior]], [[Pact of the Tome]], [[Pact of the Tome]]
