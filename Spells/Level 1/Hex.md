@@ -17,5 +17,5 @@ If the target drops to 0 [[Hit Point]] before this spell ends, you can take a�
 
 **Classes:** [[Warlock]]
 **Subclasses:** [[Great Old One Patron Warlock]], [[Hand of Dread Pugilist]], [[Primordial Archer Ranger]]
-**Species:** [[Elf (Zendikar Mul Daya Nation)]], [[Hexblood]]
+**Species:** [[Elf (Zendikar; Mul Daya Nation)]], [[Hexblood]]
 **Feats:** [[Divinely Favored]], [[Fey Touched]], [[Fey-Touched]], [[Initiate of High Sorcery]], [[Magic Initiate]], [[Shadowmoor Hexer]], [[Vampire Touched]]

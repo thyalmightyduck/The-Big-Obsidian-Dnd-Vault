@@ -17,6 +17,6 @@ If any of this spell's area overlaps with an area of Bright Light or Dim Ligh
 
 **Classes:** [[Sorcerer]], [[Warlock]], [[Wizard]]
 **Subclasses:** [[Apocalypse Domain Cleric]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Circle of the Land Druid]], [[College of Lore Bard]], [[Eldritch Knight Fighter]], [[Evoker Wizard]], [[Hand of Dread Pugilist]], [[Hungering Dark Sorcerer]], [[Oathbreaker Paladin]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Shadow Domain Cleric]], [[Shadow Sorcery Sorcerer]], [[Spellslinger Gunslinger]], [[Warrior of Shadow Monk]], [[Way of Shadow Monk]], [[Way of the Arcane Hand Monk]]
-**Species:** [[Elf]], [[Elf (Drow)]], [[Elf (Mark Of Shadow)]], [[Elf (Zendikar Mul Daya Nation)]], [[Half-Elf (Drow Descent)]], [[Tiefling]], [[Tiefling]], [[Tiefling (Asmodeus)]], [[Tiefling (Levistus)]], [[Tiefling (Hellfire)]], [[Tiefling (Infernal Legacy)]]
+**Species:** [[Elf]], [[Elf (Drow)]], [[Elf (Mark Of Shadow)]], [[Elf (Zendikar; Mul Daya Nation)]], [[Half-Elf (Drow Descent)]], [[Tiefling]], [[Tiefling]], [[Tiefling (Asmodeus)]], [[Tiefling (Levistus)]], [[Tiefling (Hellfire)]], [[Tiefling (Infernal Legacy)]]
 **Backgrounds:** [[Silverquill Student]]
 **Feats:** [[Boon of Siberys]], [[Mark of Shadow]]

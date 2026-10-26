@@ -1,3 +1,9 @@
+---
+picture: Elf Pallid BGR PNG.png
+tags:
+  - Species
+  - EGW
+---
 # Explorer’s Guide to Wildemount
 ## Traits
 
@@ -79,4 +85,4 @@ On declaring adulthood, an elf selects an adult name, although those who knew hi
 
 - **Family Names (Common Translations):** Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
 
-![[elf]]
+![[Elf Pallid BGR PNG.png]]

@@ -17,6 +17,6 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th leve
 
 **Classes:** [[Apothecary]], [[Sorcerer]], [[Warlock]], [[Wizard]]
 **Subclasses:** [[Arcana Domain Cleric]], [[Arcane Trickster Rogue]], [[Architect of Ruin Illrigger]], [[Circle of Contamination Druid]], [[Circle of Spores Druid]], [[College of Lore Bard]], [[Death Domain Cleric]], [[Eldritch Knight Fighter]], [[Hand of Dread Pugilist]], [[Harvest Domain Cleric]], [[Haunted Sorcery Sorcerer]], [[Occultist Guild Monster Hunter]], [[Sanguine Thief Rogue]], [[Scion of the Three Rogue]], [[Shadow Domain Cleric]], [[Spellslinger Gunslinger]], [[Way of the Arcane Hand Monk]]
-**Species:** [[Elf]], [[Elf (High)]], [[Elf (Zendikar Mul Daya Nation)]], [[Half-Elf (Moon Or Sun Elf Descent)]], [[Khoravar]], [[Kobold]], [[Merfolk (Ixalan Blue)]], [[Merfolk (Zendikar Ula Creed)]], [[Tiefling]]
+**Species:** [[Elf]], [[Elf (High)]], [[Elf (Zendikar; Mul Daya Nation)]], [[Half-Elf (Moon Or Sun Elf Descent)]], [[Khoravar]], [[Kobold]], [[Merfolk (Ixalan Blue)]], [[Merfolk (Zendikar Ula Creed)]], [[Tiefling]]
 **Feats:** [[Aberrant Dragonmark]], [[Aberrant Dragonmark]], [[Cold Caster]], [[Initiate of High Sorcery]], [[Magic Initiate]], [[Magic Initiate]], [[Scion of the Outer Planes]], [[Spell Sniper]], [[Strixhaven Initiate]], [[Touch of Death]]
 **Other Options/Features:** [[Pact of the Tome]]

@@ -1,7 +1,11 @@
 ---
-{}
+picture: Elf PSZ 1 PNG.png
+tags:
+  - Species
+  - PSZ
 ---
-## Elf (Zendikar; Joraga Nation)
+# Plane Shift: Zendikar (PSZ)
+## Traits
 
 - **Ability Scores:** Wisdom +2; Dexterity +1
 - **Creature Type:** Humanoid
@@ -27,3 +31,17 @@
 ***Elf Weapon Training.*** You have proficiency with the *longsword*, *shortsword*, *shortbow*, and *longbow*.
 
 ***Fleet of Foot.*** Your ground speed increases to 35 feet.
+
+## Info
+The elves of the imperious Joraga nation of Bala Ged have little respect for any other race of Zendikar—or even for other elves. The survival of their nation and its traditions is the Joraga elves' only goal, and they view the influence of others as a weakness. The Joraga eschew the goods and habits of others, even avoiding the pathways blazed by the Tajuru when possible. Many view the nomadic Joraga clans as little more than bands of roving murderers, but a complex culture hides behind those clans' aggressive exterior.
+
+Elves are a fearless and adaptable people. They have fared better than most in the tumultuous environment of Zendikar, and many have reacted to the reappearance of the Eldrazi with resilience and courage. They remain the most prevalent race on Murasa, and have a strong presence in other regions as well. Their treetop villages seem to regrow almost as soon as they are destroyed—much like the Murasan jungles where they are found.
+
+Elves are strongly associated with green mana, the magic that flows through their forest homes. Their shamans and druids channel this magic of life and growth, communing with the land or the spirits of the departed. Striving to live in harmony with nature, they celebrate the ties between their communities and their connection with the broader world around them.
+
+### Wildly Elegant
+Elves are about as tall as humans, but are more slender. Their legs are long, and their pointed ears sweep back from their heads. They move gracefully and hold themselves with elegant poise, but they are a people of the woodlands, and their life in the wilds is manifested in the practical simplicity of their clothes and equipment. Never ones to waste anything that can be reused, elves stitch torn garments together into new ones, and transform broken sword blades into useful gear. They prefer leather for protection rather than metal, which they use to craft swords, spears, arrowheads, and climbing hooks.
+
+## Images
+![[Elf PSZ 1 PNG.png]]
+![[Elf PSZ 2 PNG.png]]
