@@ -1,10 +1,9 @@
 ---
 {}
 ---
-### Species Traits
-**Ability Scores:** Choose one of the following:
-- Increase one ability by +2 and one ability by +1
-- Increase three abilities by +1 by +1
+# Mordenkainen Presents: Monsters of the Multiverse (MPMM)
+## Traits
+**Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** [[Humanoid]]
 **Size:** Medium
 **Speed:** 30 feet
@@ -16,12 +15,10 @@
 **Psychic Resilience:** You have [[Resistance (Damage)]] to psychic damage.
 **Languages:** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
-### Info:
+## Info
 Once members of a people who escaped servitude to mind flayers, githyanki split from their cousins, [[Githzerai]], and fled to the Astral Plane. In that timeless, silvery realm, githyanki honed their psionic powers and built a great city called Tu'narath. They have since spread throughout the multiverse, starting in outposts outside the Astral Plane, called creches, where time passes and their children can reach adulthood.
 
 A lanky people with skin tones of yellows, greens, and browns, githyanki complement their physical prowess with psionic might, instilled in them by mind flayers and cultivated over eons in the Astral Plane. Now all githyanki can use their psychic bond with that plane to access splinters of knowledge left behind by beings who travel, live, and die among the silver astral clouds.
 
 Githyanki who reside in the Astral Plane can live indefinitely.
 
-### Credit
-Mordenkainen Presents: Monsters of the Multiverse

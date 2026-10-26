@@ -1,8 +1,11 @@
 ---
-{}
+picture: Giantkin PNG.png
+tags:
+  - Species
+  - NWB
 ---
-## Giantkin
-
+# Northlands Worldbook (NWB)
+## Traits
 - **Creature Type:** Humanoid
 - **Size:** Medium (height varies)
 - **Speed:** 30 feet 
@@ -26,3 +29,21 @@ If a benefit of your ancestry requires a saving throw, the DC is 8 + your Intell
 |   Hill   | You have Advantage on saves against the Poisoned and Stunned conditions.                                 | ***Bulky.*** You have Advantage on saves vs. the Grappled condition, and if you succeed on such a save, you can push the creature initiating the grapple 10 feet.<br>***Iron Stomach.*** You can ingest nearly any organic matter, treating 2 pounds of matter as equal to a day's worth of rations.                                                                                                                                                                                                                                                               |
 |   Stone  | You have Advantage on saves against the Prone and Petrified conditions.                                  | ***Stonepulse.*** Your ability to feel tremors in the ground gives you Advantage on Initiative rolls if you and all your foes are touching solid ground.<br>***Darkvision.*** You also have Darkvision with a range of 60 feet.                                                                                                                                                                                                                                                                                                                                    |
 |   Storm  | You have Advantage on saves against Lightning damage. You have Immunity to the effects of high altitude. | ***Crackling Personality.*** While in an area open to the sky, you can cast *Levitate* (self only) at will.<br>***Stormsight.*** You can see through areas obscured by clouds, fog, rain, and storms without penalty. You also have Immunity to snow-blindness.                                                                                                                                                                                                                                                                                                    |
+## Info
+The skalds don't admit to knowing stories of the first giantkin, but few giantkin care about or dwell on their origin. Descended from giants and smaller species in equal measure, they know they must walk their own path in lands where some look upon their ancestry with disfavor. Actions alone will forge their legacy.
+
+Giantkin primarily inhabit communities on the fringes of giant-held territories like The Bleak Expanse, Thursrike, and Jotunheim, or else in and around human or dwarf settlements such as Bjornrike or Jomsborg. True giants place giantkin at the bottom of their social structure, viewing them as only a slight step above the smaller species. Human and dwarven communities make use of giantkin's great strength and other advantages, but many distrust them and their obvious connection to giants. These conflicting attitudes ironically mean giantkin spread throughout the Northlands, even in frigid regions they would otherwise find distasteful, to find their place in the world.
+
+Today, giantkin are a true species, producing children of their own who take on traits from either parent. Culturally, giantkin generally draw more from the society they are raised in than from their ancestry, forging relationships and identities among from the other species of the Northlands.
+
+### Hill Giantkin
+Hill giantkin have the hulking and often unsophisticated hill giants in their ancestry. Often believed to have quick tempers and voracious appetites, hill giantkin are individually quite varied. At about 6 ½ feet tall, they are the smallest of the giantkin, a fact some are sensitive about. They tend to be a sturdy species, with tanned skin and brown or black hair.
+
+### Stone Giantkin
+Descended from their ascetic giant forebears, stone giantkin tend toward thin, angular builds and skin that resembles rough, gray stone. Stone giantkin are often bald, either naturally or by choice, and rarely grow beards, but some have short, dark hair. They occasionally adorn their faces and scalps with intricate woad designs. Stone giantkin are generally reserved and slow to anger. They typically stand 6 ½ to 7 feet tall.
+
+### Storm Giantkin
+Storm giantkin descend from the temperamental and reflective storm giants. They are the tallest of the giantkin, standing nearly 8 feet high, with skin tones ranging from the deepest blues to regal purples, stark white hair, and eyes of white or violet. Many storm giantkin struggle with their moods, with small sparks of the innate lightning of their ancestry emerging in moments of stress or high emotion.
+
+## Images
+![[Giantkin PNG.png]]
