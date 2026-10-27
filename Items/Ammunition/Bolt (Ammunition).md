@@ -1,3 +1,7 @@
+---
+aliases:
+  - Bolt
+---
 #### Bolt
 
 Ammunition, 5 CP, 1.2 oz.

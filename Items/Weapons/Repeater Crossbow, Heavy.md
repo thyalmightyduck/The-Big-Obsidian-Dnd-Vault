@@ -2,7 +2,7 @@
 {}
 ---
 **Weapon:** 1d10 Piercing, Advanced Weapon, Ranged Weapon
-**Properties:** Ammunition (Range 100/400 ft.; [[Bolt]]), Heavy, Magazine (9), Repeater, Two‑Handed
+**Properties:** Ammunition (Range 100/400 ft.; [[Bolt (Ammunition)]]), Heavy, Magazine (9), Repeater, Two‑Handed
 1,000 GP, 20 lb.
 **Mastery:** Push
 

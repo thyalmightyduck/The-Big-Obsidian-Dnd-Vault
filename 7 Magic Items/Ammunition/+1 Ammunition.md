@@ -18,7 +18,7 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 - *[[Arrow, Silver]]* (*[[+1 Arrow, Silver]]*)
 - *[[Arrow, Wooden]]* (*[[+1 Arrow, Wooden]]*)
 - *[[Bellows Cannister]]* (*[[+1 Bellows Cannister]]*)
-- *[[Bolt]]* (*[[+1 Bolt]]*)
+- *[[Bolt (Ammunition)]]* (*[[+1 Bolt]]*)
 - *[[Bolt, Silver]]* (*[[+1 Bolt, Silver]]*)
 - *[[Bolt, Wooden]]* (*[[+1 Bolt, Wooden]]*)
 - *[[Bullet]]* (*[[+1 Bullet]]*)

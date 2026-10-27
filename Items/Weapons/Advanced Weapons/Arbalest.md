@@ -4,7 +4,7 @@ Weapon, Advanced Weapon, Ranged Weapon, 750 GP, 20 lb.
 
 2d6 Piercing
 
-Ammunition (Range 80/300 ft.; *[[Bolt]]*), Heavy, Loading, Two‑Handed
+Ammunition (Range 80/300 ft.; *[[Bolt (Ammunition)]]*), Heavy, Loading, Two‑Handed
 
 Mastery:  Strong-Draw
 

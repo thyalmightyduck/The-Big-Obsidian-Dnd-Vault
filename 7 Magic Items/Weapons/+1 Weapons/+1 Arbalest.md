@@ -5,7 +5,7 @@ tags:
 
 *Weapon ([[Arbalest]]), Uncommon*
 **Weapon:** 2d6 Piercing Advanced Weapon, Ranged Weapon
-**Properties:** Ammunition (Range 80/300 ft.; [[Bolt]]), Heavy, Loading, Two‑Handed
+**Properties:** Ammunition (Range 80/300 ft.; [[Bolt (Ammunition)]]), Heavy, Loading, Two‑Handed
 750 GP, 20 lb.
 **Mastery:** Strong-Draw
 
