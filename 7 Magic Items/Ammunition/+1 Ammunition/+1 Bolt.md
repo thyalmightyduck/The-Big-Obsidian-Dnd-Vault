@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Bolt
 
 Ammunition (*Bolt*), Uncommon, 1.2 oz.

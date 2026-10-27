@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Cannonball
 
 Ammunition (*Cannonball*), Uncommon, 10 lb.

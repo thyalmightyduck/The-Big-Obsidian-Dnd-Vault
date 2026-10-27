@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Sling Bullet
 
 Ammunition (*Sling Bullet*), Uncommon, 1.2 oz.

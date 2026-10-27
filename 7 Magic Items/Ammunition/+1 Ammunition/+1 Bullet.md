@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Bullet
 
 Ammunition (*Bullet*), Uncommon, 2.4 oz.

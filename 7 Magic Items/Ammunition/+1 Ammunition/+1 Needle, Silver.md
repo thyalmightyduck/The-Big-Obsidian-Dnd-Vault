@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Needle, Silver
 
 Ammunition (*Needle, Silver*), Uncommon, 0.32 oz.

@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Energy Cell
 
 Ammunition (*Energy Cell*), Uncommon, Futuristic, ½ lb.

@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Shell
 
 Ammunition (*Shell*), Uncommon, 2.4 oz.

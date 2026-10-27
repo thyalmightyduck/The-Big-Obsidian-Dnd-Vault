@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Dragon Shot
 
 Ammunition (*Dragon Shot*), Uncommon, 1.6 oz.

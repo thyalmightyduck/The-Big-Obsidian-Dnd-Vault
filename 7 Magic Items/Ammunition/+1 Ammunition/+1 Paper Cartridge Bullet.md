@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Paper Cartridge Bullet
 
 Ammunition (*Paper Cartridge Bullet*), Uncommon, 1.6 oz.

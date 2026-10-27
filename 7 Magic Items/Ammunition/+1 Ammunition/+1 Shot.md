@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Shot
 
 Ammunition (*Shot*), Uncommon, ⅕ lb.

@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Bullet, Wooden
 
 Ammunition (*Bullet, Wooden*), Uncommon, 1.6 oz.

@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Flare
 
 Ammunition (*Flare*), Uncommon, 1 lb.

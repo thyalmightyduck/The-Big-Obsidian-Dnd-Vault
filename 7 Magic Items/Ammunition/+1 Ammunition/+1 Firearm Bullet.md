@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Firearm Bullet
 
 Ammunition (*Firearm Bullet*), Uncommon, ⅕ lb.

@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Bolt, Silver
 
 Ammunition (*Bolt, Silver*), Uncommon, 1.2 oz.

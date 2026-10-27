@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem
+  - Ammunition
+---
 #### +1 Bullet, Silver
 
 Ammunition (*Bullet, Silver*), Uncommon, ⅕ lb.
