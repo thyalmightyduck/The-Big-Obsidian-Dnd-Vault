@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Chapped Brute Armor
 
 Generic Variant, Rare, Major Tier

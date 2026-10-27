@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Fire Resistance
 
 Generic Variant, Rare (Requires Attunement)

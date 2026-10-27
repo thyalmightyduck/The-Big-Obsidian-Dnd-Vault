@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Webgrip Bow
 
 Generic Variant, Rare (Requires Attunement), Major Tier

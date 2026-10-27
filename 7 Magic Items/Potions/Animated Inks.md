@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Animated Inks
 
 Potion (Requires Attunement)

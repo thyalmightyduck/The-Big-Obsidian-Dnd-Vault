@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Winter's Embrace
 
 Medium Armor (*Breastplate*), Very Rare (Requires Attunement), 20 lb.

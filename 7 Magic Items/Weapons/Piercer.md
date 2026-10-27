@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Piercer
 
 Weapon (*Shortsword*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

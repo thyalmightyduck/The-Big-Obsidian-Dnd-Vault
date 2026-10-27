@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### War's Wager
 
 Weapon (*Greataxe*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 7 lb.

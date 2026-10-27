@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ballista Prosthesis
 
 Weapon (*Hand Crossbow*), Uncommon (Requires Attunement By a Creature Missing an Arm, Forearm, or Hand), Martial Weapon, Ranged Weapon, Major Tier, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Talon Tincture
 
 Potion, Very Rare

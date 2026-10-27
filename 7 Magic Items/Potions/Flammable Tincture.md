@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flammable Tincture
 
 Potion, Uncommon

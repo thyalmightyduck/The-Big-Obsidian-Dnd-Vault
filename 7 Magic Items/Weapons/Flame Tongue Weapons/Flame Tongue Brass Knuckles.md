@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Brass Knuckles]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon

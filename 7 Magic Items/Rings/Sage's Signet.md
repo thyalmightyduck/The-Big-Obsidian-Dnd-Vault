@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sage's Signet
 
 Ring (Requires Attunement By a Spellcaster)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Pyrotechnics
 
 Wand, Common, 1 lb.

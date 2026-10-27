@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of Retribution
 
 Generic Variant, Rare (Requires Attunement By a Paladin)

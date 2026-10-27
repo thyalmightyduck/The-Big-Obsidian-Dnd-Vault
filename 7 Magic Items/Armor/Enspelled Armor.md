@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Armor
 
 Generic Variant (Requires Attunement)

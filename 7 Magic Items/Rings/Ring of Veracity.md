@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Veracity
 
 Ring, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Feather Token
 
 Generic Variant

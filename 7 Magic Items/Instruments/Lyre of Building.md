@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lyre of Building
 
 Wondrous Item, Instrument (*Lyre*), Rare (Requires Attunement By a Bard), 2 lb.

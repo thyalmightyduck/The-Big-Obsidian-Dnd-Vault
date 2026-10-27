@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Quarterstaff]], Uncommon*
 **Weapon:** 1d6 Bludgeoning Simple Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stormstruck Staff
 
 Weapon (*Quarterstaff*), Rare, Simple Weapon, Melee Weapon, 4 lb.

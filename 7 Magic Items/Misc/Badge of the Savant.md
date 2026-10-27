@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Badge of the Savant
 
 Wondrous Item, Generic Variant, Uncommon, Major Tier

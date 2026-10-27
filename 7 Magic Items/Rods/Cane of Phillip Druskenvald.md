@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cane of Phillip Druskenvald
 
 Generic Variant (Requires Attunement)

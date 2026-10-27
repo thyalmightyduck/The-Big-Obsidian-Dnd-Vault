@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dusk Cleaver
 
 Weapon (*Handaxe*), Rare, Simple Weapon, Melee Weapon, Major Tier, 2 lb.

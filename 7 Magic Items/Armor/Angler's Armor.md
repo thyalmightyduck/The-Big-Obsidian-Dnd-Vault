@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Angler's Armor
 
 Medium Armor (*Scale Mail*), Uncommon (Requires Attunement), Major Tier, 45 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shadowscale Shroud
 
 Medium Armor (*Scale Mail*), Legendary (Requires Attunement), Major Tier, 45 lb.

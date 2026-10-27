@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Condemner (Dormant)
 
 Weapon (*Heavy Crossbow*), Legendary (Requires Attunement), Martial Weapon, Ranged Weapon, 18 lb.

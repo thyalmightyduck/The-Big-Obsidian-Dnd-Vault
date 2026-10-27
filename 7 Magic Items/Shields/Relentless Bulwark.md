@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Relentless Bulwark
 
 Shield (*Shield*), Uncommon (Requires Attunement By a Cleric or Paladin), 6 lb.

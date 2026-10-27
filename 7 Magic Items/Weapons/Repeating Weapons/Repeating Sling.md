@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning, Simple Weapon, Ranged Weapon

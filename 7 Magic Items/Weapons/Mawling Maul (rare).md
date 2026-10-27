@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mawling Maul (rare)
 
 Melee Weapon, Rare

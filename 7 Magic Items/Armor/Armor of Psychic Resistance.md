@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Psychic Resistance
 
 Generic Variant, Rare (Requires Attunement)

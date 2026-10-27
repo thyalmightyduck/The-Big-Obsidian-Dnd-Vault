@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Hungerer Poison
 
 Potion, Uncommon, Minor Tier

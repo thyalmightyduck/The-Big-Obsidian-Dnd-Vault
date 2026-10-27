@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scale of Kethelrax
 
 Weapon (*Dagger*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

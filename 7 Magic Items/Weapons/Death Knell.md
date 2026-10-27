@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Death Knell
 
 Weapon (*Halberd*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

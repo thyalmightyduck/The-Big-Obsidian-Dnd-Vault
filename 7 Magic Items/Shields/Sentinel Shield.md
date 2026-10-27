@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sentinel Shield
 
 Shield (*Shield*), Uncommon, 6 lb.

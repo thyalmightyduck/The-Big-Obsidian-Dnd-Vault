@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Split Mind
 
 Ring, Very Rare (Requires Attunement By a Spellcaster), Major Tier

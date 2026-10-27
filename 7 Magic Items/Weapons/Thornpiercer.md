@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Thornpiercer
 
 Generic Variant, Legendary (Requires Attunement)

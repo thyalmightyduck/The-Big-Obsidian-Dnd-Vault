@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Portable Cannonballs
 
 Ammunition (*Firearm Bullet*), Uncommon, 4 lb.

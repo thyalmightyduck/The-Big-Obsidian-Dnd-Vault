@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stirring Dragon-Touched Focus
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Spellcaster)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sir Varion's Shield
 
 Armor (*Shield*), Uncommon (Requires Attunement), Major Tier, 6 lb.

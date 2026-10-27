@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hearthfire Breastplate (Master)
 
 Medium Armor (*Breastplate*), Artifact (Requires Attunement)

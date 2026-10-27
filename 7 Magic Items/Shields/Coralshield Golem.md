@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Coralshield Golem
 
 Shield (*Shield*), Uncommon (Requires Attunement), 6 lb.

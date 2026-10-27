@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horn of the Endless Maze
 
 Wondrous Item, Instrument (*Horn*), Rare, 2 lb.

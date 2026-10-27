@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Silence
 
 Wand, Uncommon (Requires Attunement By a Spellcaster)

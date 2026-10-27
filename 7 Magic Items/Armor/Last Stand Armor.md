@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Last Stand Armor
 
 Generic Variant, Very Rare

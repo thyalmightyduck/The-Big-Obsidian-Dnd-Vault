@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Anchoring
 
 Ring, Rare (Requires Attunement)

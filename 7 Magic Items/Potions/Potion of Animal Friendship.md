@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Animal Friendship
 
 Potion, Uncommon, ½ lb.

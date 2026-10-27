@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blightscale Dragon Scale Mail
 
 Medium Armor, Very Rare (Requires Attunement), Major Tier, 45 lb.

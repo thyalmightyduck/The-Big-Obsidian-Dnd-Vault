@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lantern of the Chained Reaper
 
 Wondrous Item, Generic Variant (Requires Attunement)

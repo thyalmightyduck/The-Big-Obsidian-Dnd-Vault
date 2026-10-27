@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Splintershot
 
 Weapon (*Shortbow*), Rare, Simple Weapon, Ranged Weapon, 2 lb.

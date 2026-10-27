@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rumbling Hammer
 
 Generic Variant, Common (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lightning Pylons
 
 Rod, Rare

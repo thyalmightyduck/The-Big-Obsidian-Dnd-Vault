@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Oil of Slipperiness
 
 Potion, Uncommon, ½ lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Arcane Berserker
 
 Ring, Rare (Requires Attunement By a Barbarian), Major Tier

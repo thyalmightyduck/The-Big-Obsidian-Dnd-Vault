@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shifter's Shine (Common)
 
 Potion, Common, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wave-Swept Weapon
 
 Generic Variant (Requires Attunement)

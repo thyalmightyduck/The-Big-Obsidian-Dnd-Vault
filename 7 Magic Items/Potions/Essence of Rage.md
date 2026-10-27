@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Essence of Rage
 
 Potion, Rare

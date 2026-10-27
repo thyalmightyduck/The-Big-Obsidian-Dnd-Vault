@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Drow +1 Weapon
 
 Generic Variant

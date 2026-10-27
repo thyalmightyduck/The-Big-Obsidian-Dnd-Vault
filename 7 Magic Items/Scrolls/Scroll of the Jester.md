@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scroll of the Jester
 
 Scroll, Rare, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hat of Many Spells
 
 Wondrous Item, Spellcasting Focus, Very Rare (Requires Attunement By a Wizard)

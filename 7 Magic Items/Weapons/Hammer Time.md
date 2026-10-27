@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hammer Time
 
 Melee Weapon

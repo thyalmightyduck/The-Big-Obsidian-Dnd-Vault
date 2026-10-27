@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon Turtle Barding
 
 Tack and Harness, Very Rare, Major Tier, base weight ×2

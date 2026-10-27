@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Failed Purity Spear
 
 Weapon (*Spear*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 3 lb.

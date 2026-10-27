@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Jarlpact
 
 Generic Variant

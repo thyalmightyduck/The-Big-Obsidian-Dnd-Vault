@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Euryale's Aegis
 
 Shield (*Shield*), Legendary (Requires Attunement), 6 lb.

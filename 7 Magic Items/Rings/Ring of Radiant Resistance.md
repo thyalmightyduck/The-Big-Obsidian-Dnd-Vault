@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Radiant Resistance
 
 Ring, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Phasing Bow
 
 Generic Variant, Very Rare (Requires Attunement), Major Tier

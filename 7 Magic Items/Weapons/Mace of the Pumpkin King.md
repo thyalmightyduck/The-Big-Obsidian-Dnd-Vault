@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mace of the Pumpkin King
 
 Weapon (*Mace*), Uncommon, Simple Weapon, Melee Weapon, Major Tier, 4 lb.

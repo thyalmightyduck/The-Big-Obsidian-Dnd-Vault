@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Road Warden Shield
 
 Shield (*Shield*), Common, 6 lb.

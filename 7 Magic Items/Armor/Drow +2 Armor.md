@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Drow +2 Armor
 
 Generic Variant

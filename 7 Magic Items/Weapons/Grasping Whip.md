@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Grasping Whip
 
 Weapon (*Whip*), Rare, Martial Weapon, Melee Weapon, 3 lb.

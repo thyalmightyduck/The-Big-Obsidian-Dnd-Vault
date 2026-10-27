@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Slumber
 
 Wand, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flooze (uncommon)
 
 Weapon (*Flail*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ectoplasmic Whip
 
 Weapon (*Whip*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

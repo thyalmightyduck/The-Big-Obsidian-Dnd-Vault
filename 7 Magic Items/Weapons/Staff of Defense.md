@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Defense
 
 Staff, Weapon, Rare (Requires Attunement By a Bard, Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, 3 lb.

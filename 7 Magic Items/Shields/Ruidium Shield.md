@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruidium Shield
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

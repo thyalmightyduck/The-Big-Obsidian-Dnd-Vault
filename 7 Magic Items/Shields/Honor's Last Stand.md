@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Honor's Last Stand
 
 Shield (*Shield*), Legendary (Requires Attunement By a Creature of Non-Evil Alignment), 6 lb.

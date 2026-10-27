@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 > [!infobox]
 > # Rope Of Climbing

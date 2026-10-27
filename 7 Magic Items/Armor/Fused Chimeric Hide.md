@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fused Chimeric Hide
 
 Medium Armor (*Hide Armor*), Rare (Requires Attunement By a Barbarian or Druid), Major Tier, 12 lb.

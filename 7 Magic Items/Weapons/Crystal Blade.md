@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Crystal Blade
 
 Generic Variant, Rare (Requires Attunement)

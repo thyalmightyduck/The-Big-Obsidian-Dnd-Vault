@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragonlance
 
 Generic Variant, Legendary (Requires Attunement)

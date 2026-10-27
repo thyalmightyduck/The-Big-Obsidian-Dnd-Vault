@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Web
 
 Wand, Uncommon (Requires Attunement By a Spellcaster), 1 lb.

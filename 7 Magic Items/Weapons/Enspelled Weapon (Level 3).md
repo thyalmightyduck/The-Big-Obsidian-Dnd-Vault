@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Weapon (Level 3)
 
 Generic Variant, Rare (Requires Attunement)

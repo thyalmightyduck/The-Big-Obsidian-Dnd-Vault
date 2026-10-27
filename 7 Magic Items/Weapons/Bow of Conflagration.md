@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bow of Conflagration
 
 Generic Variant, Rare (Requires Attunement)

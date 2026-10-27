@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Military Fork]], Uncommon*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pollinator Carapace
 
 Generic Variant, Uncommon (Requires Attunement By a Druid or Ranger), Major Tier

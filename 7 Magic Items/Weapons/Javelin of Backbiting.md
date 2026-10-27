@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Javelin of Backbiting
 
 Weapon (*Javelin*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

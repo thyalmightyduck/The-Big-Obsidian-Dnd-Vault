@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nimbus, First Staff of the Thunderbirds
 
 Staff, Weapon (*Quarterstaff*), Spellcasting Focus, Artifact (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

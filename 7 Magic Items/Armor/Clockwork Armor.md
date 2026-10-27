@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Clockwork Armor
 
 Generic Variant, Very Rare (Requires Attunement)

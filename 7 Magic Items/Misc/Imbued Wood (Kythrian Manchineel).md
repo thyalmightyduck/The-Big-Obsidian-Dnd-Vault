@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Kythrian Manchineel)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

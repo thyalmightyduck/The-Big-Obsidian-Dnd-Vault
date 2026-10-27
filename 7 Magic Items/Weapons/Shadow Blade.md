@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shadow Blade
 
 Generic Variant, Rare (Requires Attunement)

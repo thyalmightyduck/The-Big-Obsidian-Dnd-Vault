@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Izzet Guild Signet
 
 Ring, Uncommon (Requires Attunement)

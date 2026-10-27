@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Defender Honey
 
 Potion, Uncommon

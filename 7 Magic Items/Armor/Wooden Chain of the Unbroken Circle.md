@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wooden Chain of the Unbroken Circle
 
 Medium Armor (*Chain Shirt*), Rare (Requires Attunement By a Druid or Ranger), 20 lb.

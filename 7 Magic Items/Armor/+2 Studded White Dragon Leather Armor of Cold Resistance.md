@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Studded White Dragon Leather Armor of Cold Resistance
 
 Light Armor (Requires Attunement), Major Tier, 13 lb.

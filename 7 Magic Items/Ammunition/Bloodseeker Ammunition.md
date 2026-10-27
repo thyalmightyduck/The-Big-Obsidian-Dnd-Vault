@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodseeker Ammunition
 
 Ammunition, Generic Variant, Very Rare

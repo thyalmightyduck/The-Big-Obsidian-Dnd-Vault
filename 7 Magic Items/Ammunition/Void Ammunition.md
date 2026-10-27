@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Void Ammunition
 
 Ammunition, Generic Variant, Uncommon

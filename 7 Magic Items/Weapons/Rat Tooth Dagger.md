@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rat Tooth Dagger
 
 Weapon (*Dagger*), Rare (Requires Attunement By a Rogue), Simple Weapon, Melee Weapon, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Monster Hunter's Weapon +3
 
 Ranged Weapon, Legendary (Requires Attunement By a Ranger)

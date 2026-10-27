@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sage's Signet (Wolf)
 
 Ring, Very Rare (Requires Attunement By a Spellcaster)

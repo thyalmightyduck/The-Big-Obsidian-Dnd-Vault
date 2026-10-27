@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horn of Valhalla, Iron
 
 Wondrous Item, Instrument (*Horn*), Legendary

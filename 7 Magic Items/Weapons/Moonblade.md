@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Moonblade
 
 Generic Variant, Legendary (Requires Attunement By a Creature of the Weapon's Choice)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Vigilant Rod of the Honed Mind
 
 Rod, Rare (Requires Attunement By a Warlock), 2 lb.

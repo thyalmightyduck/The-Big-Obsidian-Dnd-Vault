@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mind Sharpener
 
 Ring, Uncommon (Requires Attunement)

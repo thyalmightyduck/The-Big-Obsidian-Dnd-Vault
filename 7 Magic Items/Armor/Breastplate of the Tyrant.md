@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Breastplate of the Tyrant
 
 Medium Armor (*Breastplate*) (Requires Attunement), 20 lb.

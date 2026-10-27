@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Powered Armor
 
 Heavy Armor (*Plate Armor*), Legendary (Requires Attunement), Futuristic, 65 lb.

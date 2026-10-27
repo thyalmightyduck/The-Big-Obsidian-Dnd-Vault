@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Plate of Knight's Fellowship
 
 Heavy Armor (*Plate Armor*), Uncommon (Requires Attunement), 65 lb.

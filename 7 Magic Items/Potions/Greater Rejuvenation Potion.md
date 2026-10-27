@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Greater Rejuvenation Potion
 
 Potion, Legendary

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Animated Inks (Uncommon)
 
 Potion, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hook of the Tall Man
 
 Weapon (*War Pick*), Generic Variant (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

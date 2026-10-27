@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Halberd of the Peacock
 
 Weapon (*Halberd*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

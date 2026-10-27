@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weapon of Mooring
 
 Generic Variant, Rare (Requires Attunement)

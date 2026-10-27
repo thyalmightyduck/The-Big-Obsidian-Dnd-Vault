@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Longevity
 
 Potion, Very Rare, ½ lb.

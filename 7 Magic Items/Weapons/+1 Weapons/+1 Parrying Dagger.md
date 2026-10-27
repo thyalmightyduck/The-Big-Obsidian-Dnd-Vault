@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Parrying Dagger]], Uncommon*
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon

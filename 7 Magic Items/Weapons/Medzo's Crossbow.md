@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Medzo's Crossbow
 
 Weapon (*Hand Crossbow*), Rare, Martial Weapon, Ranged Weapon, Major Tier, 3 lb.

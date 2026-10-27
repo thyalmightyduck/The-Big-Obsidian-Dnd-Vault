@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lindwyrm Venom
 
 Wondrous Item, Poison, Very Rare

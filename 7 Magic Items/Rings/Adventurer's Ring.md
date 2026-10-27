@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Adventurer's Ring
 
 Ring, Common

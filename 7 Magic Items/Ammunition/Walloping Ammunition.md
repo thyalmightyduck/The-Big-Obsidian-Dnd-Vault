@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Walloping Ammunition
 
 Ammunition, Generic Variant, Common

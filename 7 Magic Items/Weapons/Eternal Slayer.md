@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Eternal Slayer
 
 Generic Variant, Legendary (Requires Attunement), Major Tier

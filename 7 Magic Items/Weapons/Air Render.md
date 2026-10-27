@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Air Render
 
 Weapon (*Shortbow*), Rare (Requires Attunement), Simple Weapon, Ranged Weapon, Major Tier, 2 lb.

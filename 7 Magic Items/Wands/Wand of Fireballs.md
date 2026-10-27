@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Fireballs
 
 Wand, Rare (Requires Attunement By a Spellcaster), 1 lb.

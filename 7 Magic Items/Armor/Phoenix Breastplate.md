@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Phoenix Breastplate
 
 Medium Armor (*Breastplate*), Very Rare (Requires Attunement), Major Tier, 20 lb.

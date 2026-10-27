@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodbonded Blood
 
 Potion

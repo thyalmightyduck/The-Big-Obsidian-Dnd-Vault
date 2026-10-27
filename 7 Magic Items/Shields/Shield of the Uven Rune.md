@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of the Uven Rune
 
 Armor (*Shield*), Very Rare (Requires Attunement), 6 lb.

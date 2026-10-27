@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Repeater Needler]], Uncommon*
 **Weapon:** 1 Piercing, Advanced Weapon, Ranged Weapon

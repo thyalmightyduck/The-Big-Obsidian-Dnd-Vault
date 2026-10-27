@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rakdos Riteknife
 
 Weapon (*Dagger*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

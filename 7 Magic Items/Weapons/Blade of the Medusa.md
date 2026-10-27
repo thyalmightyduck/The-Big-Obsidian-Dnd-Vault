@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of the Medusa
 
 Generic Variant, Very Rare (Requires Attunement)

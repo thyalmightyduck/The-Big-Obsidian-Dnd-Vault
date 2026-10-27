@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cast-Off Armor
 
 Generic Variant, Common

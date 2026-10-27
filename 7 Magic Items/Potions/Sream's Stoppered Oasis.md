@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sream's Stoppered Oasis
 
 Potion, Rare, Minor Tier

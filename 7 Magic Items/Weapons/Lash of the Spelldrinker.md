@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lash of the Spelldrinker
 
 Weapon (*Whip*), Rare (Requires Attunement By a Spellcaster), Martial Weapon, Melee Weapon, Major Tier, 3 lb.

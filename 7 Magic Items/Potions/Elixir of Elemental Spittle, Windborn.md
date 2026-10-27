@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elixir of Elemental Spittle, Windborn
 
 Potion, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### The Sword in/out of the Stone
 
 Melee Weapon (*Any Sword*) (Requires Attunement By a Creature with a Strength Score of 16 or Higher)

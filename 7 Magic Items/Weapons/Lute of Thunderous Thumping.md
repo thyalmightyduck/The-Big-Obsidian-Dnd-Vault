@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lute of Thunderous Thumping
 
 Weapon (*Club*), Very Rare, Simple Weapon, Melee Weapon, 2 lb.

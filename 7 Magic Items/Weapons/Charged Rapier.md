@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Charged Rapier
 
 Weapon (*Rapier*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

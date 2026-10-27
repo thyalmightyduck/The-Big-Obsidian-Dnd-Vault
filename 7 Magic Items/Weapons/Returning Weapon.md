@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Returning Weapon
 
 Generic Variant, Uncommon

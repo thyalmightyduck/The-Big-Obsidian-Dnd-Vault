@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spirit Sheath
 
 Weapon (*Scimitar*), Rare (Requires Attunement By a Creature with a Wisdom Score of 13 or Higher), Martial Weapon, Melee Weapon, Major Tier, 3 lb.

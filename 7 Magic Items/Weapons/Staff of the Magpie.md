@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Magpie
 
 Staff, Weapon, Rare (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 10 lb.

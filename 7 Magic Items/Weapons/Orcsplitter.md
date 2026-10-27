@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orcsplitter
 
 Weapon (*Greataxe*), Legendary (Requires Attunement By a Dwarf, Fighter, or Paladin of Good Alignment), Martial Weapon, Melee Weapon, 7 lb.

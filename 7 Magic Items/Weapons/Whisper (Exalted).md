@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Whisper (Exalted)
 
 Weapon (*Dagger*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

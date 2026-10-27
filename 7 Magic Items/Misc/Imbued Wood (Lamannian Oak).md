@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Lamannian Oak)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

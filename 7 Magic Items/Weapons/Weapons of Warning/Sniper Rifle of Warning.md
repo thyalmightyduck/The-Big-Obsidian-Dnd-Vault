@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Sniper Rifle]], Uncommon (Requires Attunement)*
 **Weapon:** 2d8 Piercing Martial Weapon, Ranged Weapon, Firearm

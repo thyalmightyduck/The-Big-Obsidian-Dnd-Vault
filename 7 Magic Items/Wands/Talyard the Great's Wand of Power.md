@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Talyard the Great's Wand of Power
 
 Wand, Uncommon

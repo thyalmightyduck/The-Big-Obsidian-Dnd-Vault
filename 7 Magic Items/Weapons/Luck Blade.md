@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Luck Blade
 
 Generic Variant, Legendary (Requires Attunement)

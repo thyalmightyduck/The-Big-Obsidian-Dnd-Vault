@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Warmind Wand
 
 Wand, Rare (Requires Attunement By an Orc)

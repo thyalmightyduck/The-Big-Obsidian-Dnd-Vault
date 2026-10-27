@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Injector's Crossbow
 
 Generic Variant, Rare (Requires Attunement)

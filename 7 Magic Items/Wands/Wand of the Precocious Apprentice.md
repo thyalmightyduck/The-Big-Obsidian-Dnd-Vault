@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of the Precocious Apprentice
 
 Wand, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Rulership
 
 Rod, Rare (Requires Attunement), 2 lb.

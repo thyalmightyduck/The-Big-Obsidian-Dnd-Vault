@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +1 Chain Shirt of Acid Resistance
 
 Medium Armor, Rare (Requires Attunement), Major Tier, 20 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +1 Rod of the Pact Keeper
 
 Rod, Uncommon (Requires Attunement By a Warlock), 2 lb.

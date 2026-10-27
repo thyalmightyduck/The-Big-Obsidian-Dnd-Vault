@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Seraphim's Stiletto
 
 Weapon (*Dagger*), Rare (Requires Attunement By a Creature of Good Alignment), Simple Weapon, Melee Weapon, Major Tier, 1 lb.

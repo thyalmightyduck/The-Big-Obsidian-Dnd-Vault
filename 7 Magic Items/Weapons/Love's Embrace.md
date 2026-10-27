@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Love's Embrace
 
 Weapon (*Greatsword*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

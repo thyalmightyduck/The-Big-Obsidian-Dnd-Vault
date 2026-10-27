@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Seeker Dart
 
 Weapon (*Dart*), Uncommon, Simple Weapon, Ranged Weapon, ¼ lb.

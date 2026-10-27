@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 All-Purpose Tool
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By an Artificer)

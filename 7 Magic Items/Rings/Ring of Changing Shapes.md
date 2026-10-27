@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Changing Shapes
 
 Ring, Rare (Requires Attunement By a Sorcerer), Major Tier

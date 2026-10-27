@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodshard Trident
 
 Weapon (*Trident*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier

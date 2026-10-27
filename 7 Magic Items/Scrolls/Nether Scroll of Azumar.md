@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nether Scroll of Azumar
 
 Scroll, Legendary

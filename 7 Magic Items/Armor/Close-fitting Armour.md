@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Close-fitting Armour
 
 Generic Variant

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Venombane Armor
 
 Generic Variant, Uncommon (Requires Attunement)

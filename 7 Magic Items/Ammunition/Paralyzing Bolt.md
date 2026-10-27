@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Paralyzing Bolt
 
 Ammunition (*Crossbow Bolt*), Uncommon, 0.8 oz.

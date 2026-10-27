@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lunar Wand of Celestial Prowess
 
 Wand, Very Rare (Requires Attunement By a Spellcaster), 1 lb.

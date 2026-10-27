@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mace of Disruption
 
 Weapon (*Mace*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

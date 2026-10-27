@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hide of the Feral Guardian (Dormant)
 
 Light Armor (*Studded Leather Armor*), Legendary (Requires Attunement), 13 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Instrument of the Bards, Fochlucan Bandore
 
 Wondrous Item, Instrument, Uncommon (Requires Attunement By a Bard)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Storms
 
 Rod, Rare (Requires Attunement By a Spellcaster), Major Tier

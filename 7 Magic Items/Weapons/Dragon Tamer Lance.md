@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon Tamer Lance
 
 Weapon (*Lance*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

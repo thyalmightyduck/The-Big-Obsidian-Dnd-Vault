@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hydrangea Dragon Antidote
 
 Potion, Rare

@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Lance]], Uncommon*
 **Weapon:** 1d10 Piercing, Martial Weapon, Melee Weapon

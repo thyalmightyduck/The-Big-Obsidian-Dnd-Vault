@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Sabre]], Uncommon*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon

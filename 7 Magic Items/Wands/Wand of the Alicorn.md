@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of the Alicorn
 
 Wand, Legendary (Requires Attunement By a Good-Aligned Spellcaster), Major Tier

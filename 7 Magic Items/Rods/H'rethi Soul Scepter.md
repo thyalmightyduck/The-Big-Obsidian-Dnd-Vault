@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### H'rethi Soul Scepter
 
 Rod, Legendary (Requires Attunement By a Spellcaster), Major Tier

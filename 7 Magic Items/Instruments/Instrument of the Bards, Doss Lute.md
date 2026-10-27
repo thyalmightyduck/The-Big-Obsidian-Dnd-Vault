@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Instrument of the Bards, Doss Lute
 
 Wondrous Item, Instrument (*Lute*), Uncommon (Requires Attunement By a Bard)

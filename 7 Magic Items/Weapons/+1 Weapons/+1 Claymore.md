@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon ([[Items/Weapons/Claymore]]), Uncommon*
 **Weapon:** 1d8 Piercing Advanced Weapon, Melee Weapon

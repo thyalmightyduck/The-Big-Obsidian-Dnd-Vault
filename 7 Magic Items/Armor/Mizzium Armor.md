@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mizzium Armor
 
 Generic Variant, Rare

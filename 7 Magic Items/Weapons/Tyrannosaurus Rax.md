@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tyrannosaurus Rax
 
 Weapon (*Greataxe*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 7 lb.

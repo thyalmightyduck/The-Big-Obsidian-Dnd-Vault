@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Brutal Macuahuitl
 
 Weapon (*Longsword*), Uncommon, Martial Weapon, Melee Weapon, Major Tier, 3 lb.

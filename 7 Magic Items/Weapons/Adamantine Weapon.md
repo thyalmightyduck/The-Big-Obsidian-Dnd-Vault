@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Adamantine Weapon
 
 Generic Variant, Uncommon

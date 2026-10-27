@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Metronome Drum
 
 Wondrous Item, Instrument, Uncommon

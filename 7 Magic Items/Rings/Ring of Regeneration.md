@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Regeneration
 
 Ring, Very Rare (Requires Attunement)

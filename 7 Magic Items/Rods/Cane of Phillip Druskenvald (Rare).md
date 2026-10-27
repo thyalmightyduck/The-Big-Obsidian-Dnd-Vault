@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cane of Phillip Druskenvald (Rare)
 
 Rod, Rare (Requires Attunement)

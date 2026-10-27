@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aquatic Wave-Swept Weapon
 
 Generic Variant, Rare (Requires Attunement)

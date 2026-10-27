@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bonze's Bokken, Wind Ripper (legendary)
 
 Generic Variant, Legendary (Requires Attunement)

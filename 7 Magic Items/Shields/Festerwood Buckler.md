@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Festerwood Buckler
 
 Shield (*Shield*), Uncommon, 6 lb.

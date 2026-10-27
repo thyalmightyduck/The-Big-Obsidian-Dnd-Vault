@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heliana's Guide to Monster Hunting
 
 Wondrous Item, Weapon, Simple Weapon

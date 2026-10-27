@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dagger of Guitar Solos
 
 Weapon (*Dagger*), Simple Weapon, Melee Weapon, 750 GP, 1 lb.

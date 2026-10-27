@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Woodcutter's Axe
 
 Weapon (*Greataxe*), Rare, Martial Weapon, Melee Weapon, 7 lb.

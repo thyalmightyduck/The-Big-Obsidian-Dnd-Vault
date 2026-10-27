@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Conch of Safe Rest
 
 2 lb.

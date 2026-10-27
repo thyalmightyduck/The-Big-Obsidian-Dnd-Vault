@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Harvest Brew
 
 Potion, Rare

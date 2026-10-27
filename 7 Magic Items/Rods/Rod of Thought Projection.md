@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Thought Projection
 
 Rod, Uncommon, Minor Tier

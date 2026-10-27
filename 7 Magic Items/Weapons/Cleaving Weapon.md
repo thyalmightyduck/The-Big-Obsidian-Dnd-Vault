@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cleaving Weapon
 
 Generic Variant

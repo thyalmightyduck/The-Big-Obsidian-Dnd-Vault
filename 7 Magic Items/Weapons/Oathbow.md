@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Oathbow
 
 Generic Variant, Very Rare (Requires Attunement)

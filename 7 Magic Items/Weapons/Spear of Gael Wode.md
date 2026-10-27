@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spear of Gael Wode
 
 Weapon (*Spear*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 3 lb.

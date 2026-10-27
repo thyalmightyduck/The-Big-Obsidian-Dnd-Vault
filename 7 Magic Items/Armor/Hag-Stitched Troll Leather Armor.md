@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hag-Stitched Troll Leather Armor
 
 Generic Variant, Rare (Requires Attunement)

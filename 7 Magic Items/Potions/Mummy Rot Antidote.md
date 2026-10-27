@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mummy Rot Antidote
 
 Potion, Uncommon

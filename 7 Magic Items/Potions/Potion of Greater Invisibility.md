@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Greater Invisibility
 
 Potion, Very Rare, ½ lb.

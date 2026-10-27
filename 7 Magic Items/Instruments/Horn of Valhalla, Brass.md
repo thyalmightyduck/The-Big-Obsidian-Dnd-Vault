@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horn of Valhalla, Brass
 
 Wondrous Item, Instrument (*Horn*), Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Rituals
 
 Ring, Uncommon, Minor Tier

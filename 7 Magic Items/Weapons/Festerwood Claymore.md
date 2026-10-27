@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Festerwood Claymore
 
 Weapon (*Greatsword*), Rare, Martial Weapon, Melee Weapon, 6 lb.

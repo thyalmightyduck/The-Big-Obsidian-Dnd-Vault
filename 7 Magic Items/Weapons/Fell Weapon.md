@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fell Weapon
 
 Generic Variant

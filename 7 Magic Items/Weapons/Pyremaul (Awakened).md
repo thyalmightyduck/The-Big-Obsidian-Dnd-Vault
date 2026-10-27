@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pyremaul (Awakened)
 
 Weapon (*Maul*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 10 lb.

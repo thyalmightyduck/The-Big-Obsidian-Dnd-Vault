@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scepter Weapon
 
 Generic Variant, Rare (Requires Attunement)

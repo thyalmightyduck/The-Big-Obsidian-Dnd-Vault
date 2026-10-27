@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Icarus
 
 Medium Armor (*Breastplate*), Rare (Requires Attunement), Major Tier, 20 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Jinxes
 
 Wand, Rare (Requires Attunement By a Warlock)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Signet Rings of Blindness, Deafness, and Silence
 
 Ring, Rare

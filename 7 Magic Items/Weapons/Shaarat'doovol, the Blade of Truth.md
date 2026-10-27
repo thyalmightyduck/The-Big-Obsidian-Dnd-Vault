@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shaarat'doovol, the Blade of Truth
 
 Weapon (*Longsword*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

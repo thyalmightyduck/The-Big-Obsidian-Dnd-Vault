@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Philter of Waking Dreams
 
 Potion, Uncommon

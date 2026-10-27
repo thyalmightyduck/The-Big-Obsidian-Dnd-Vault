@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blackrazor
 
 Weapon (*Greatsword*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

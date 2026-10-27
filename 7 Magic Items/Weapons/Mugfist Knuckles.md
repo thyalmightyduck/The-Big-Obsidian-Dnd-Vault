@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mugfist Knuckles
 
 Weapon (*Brass Knuckles*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon

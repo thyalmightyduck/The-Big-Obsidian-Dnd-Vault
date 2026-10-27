@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Windswept Wyvernplate
 
 Medium Armor (*Half Plate Armor*), Rare (Requires Attunement), 40 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Iron Ring
 
 Ring, Rare (Requires Attunement)

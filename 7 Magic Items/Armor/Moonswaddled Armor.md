@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Moonswaddled Armor
 
 Generic Variant, Rare

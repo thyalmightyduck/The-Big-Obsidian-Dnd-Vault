@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
   - rare
   - variant
   - attunement

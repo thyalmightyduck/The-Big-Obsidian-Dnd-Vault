@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gladius of the Everfighter
 
 Weapon (*Shortsword*), Legendary (Requires Attunement By a Fighter), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

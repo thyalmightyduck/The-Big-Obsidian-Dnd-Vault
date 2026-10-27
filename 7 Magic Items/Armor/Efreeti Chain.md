@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Efreeti Chain
 
 Generic Variant, Legendary (Requires Attunement)

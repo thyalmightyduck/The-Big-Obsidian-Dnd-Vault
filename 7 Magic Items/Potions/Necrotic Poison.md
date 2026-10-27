@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Necrotic Poison
 
 Potion, Uncommon, Minor Tier

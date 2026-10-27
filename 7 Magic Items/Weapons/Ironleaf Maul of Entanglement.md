@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ironleaf Maul of Entanglement
 
 Weapon (*Maul*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 10 lb.

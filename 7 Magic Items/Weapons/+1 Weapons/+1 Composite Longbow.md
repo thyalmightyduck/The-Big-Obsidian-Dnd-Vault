@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon ([[Items/Weapons/Composite Longbow]]), Uncommon*
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon

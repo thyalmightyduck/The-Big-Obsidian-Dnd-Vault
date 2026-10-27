@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Warp Anchor
 
 Rod, Rare, Major Tier

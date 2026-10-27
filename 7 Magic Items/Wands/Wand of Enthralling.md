@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Enthralling
 
 Wand, Uncommon (Requires Attunement By a Spellcaster)

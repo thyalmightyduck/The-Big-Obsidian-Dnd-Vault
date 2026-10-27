@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Reszur
 
 Weapon (*Dagger*), Uncommon, Simple Weapon, Melee Weapon, 1 lb.

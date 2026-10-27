@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Living Stoneskin
 
 Heavy Armor (*Plate Armor*), Symbiont (*Plate Armor*), Very Rare (Requires Attunement)

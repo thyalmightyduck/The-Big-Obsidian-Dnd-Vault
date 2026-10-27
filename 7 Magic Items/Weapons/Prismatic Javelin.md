@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Prismatic Javelin
 
 Weapon (*Javelin*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

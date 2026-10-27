@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Infernal Aegis
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

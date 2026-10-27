@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elven Thrower
 
 Weapon (*Spear*), Very Rare (Requires Attunement By a Elf), Simple Weapon, Melee Weapon, 3 lb.

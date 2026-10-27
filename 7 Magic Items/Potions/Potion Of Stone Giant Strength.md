@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Stone Giant Strength
 
 Potion, Rare, ½ lb.

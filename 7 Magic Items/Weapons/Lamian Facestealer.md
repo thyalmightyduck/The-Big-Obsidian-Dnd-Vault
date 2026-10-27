@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lamian Facestealer
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, Major Tier, 1 lb.

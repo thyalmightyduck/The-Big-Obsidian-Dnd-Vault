@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Giant Femur Club
 
 Weapon (*Greatclub*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 10 lb.

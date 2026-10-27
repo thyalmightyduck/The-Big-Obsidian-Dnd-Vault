@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ephixis, Bow of Nylea
 
 Weapon (*Shortbow*), Artifact (Requires Attunement), Simple Weapon, Ranged Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spellguard Shield
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Water Absorption
 
 Rod, Rare, Major Tier, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wispy Sour (Common)
 
 Potion, Common, Minor Tier

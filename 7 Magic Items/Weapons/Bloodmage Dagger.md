@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodmage Dagger
 
 Weapon (*Dagger*), Very Rare (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 1 lb.

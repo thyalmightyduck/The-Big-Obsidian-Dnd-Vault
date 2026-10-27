@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horn of Beckoning Death
 
 Wondrous Item, Instrument (*Horn*), Legendary (Requires Attunement By a Sorcerer, Warlock, or Wizard)

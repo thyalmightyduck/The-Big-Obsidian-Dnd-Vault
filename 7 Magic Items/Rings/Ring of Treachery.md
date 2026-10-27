@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Treachery
 
 Ring, Very Rare (Requires Attunement)

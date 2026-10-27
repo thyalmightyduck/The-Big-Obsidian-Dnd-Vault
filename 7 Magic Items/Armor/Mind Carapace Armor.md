@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mind Carapace Armor
 
 Generic Variant, Uncommon (Requires Attunement By a Specific Individual)

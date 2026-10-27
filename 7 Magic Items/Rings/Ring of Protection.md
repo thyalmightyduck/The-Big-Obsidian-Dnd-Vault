@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Protection
 
 Ring, Rare (Requires Attunement)

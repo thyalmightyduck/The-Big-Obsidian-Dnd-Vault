@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Thayan Sword
 
 Generic Variant, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Knight's Standard of Valor
 
 Weapon (*Halberd*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

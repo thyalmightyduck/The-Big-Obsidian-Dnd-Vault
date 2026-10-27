@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Half Plate of the Blind Martyr
 
 Medium Armor (*Half Plate Armor*), Legendary (Requires Attunement), Major Tier, 40 lb.

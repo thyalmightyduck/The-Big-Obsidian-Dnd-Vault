@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Regal Breastplate of the Tyrant (*)
 
 Generic Variant, Very Rare (Requires Attunement)

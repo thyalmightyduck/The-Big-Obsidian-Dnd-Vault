@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Cold Resistance
 
 Potion, Uncommon, ½ lb.

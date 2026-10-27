@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Berserker's Mead
 
 Potion, Rare

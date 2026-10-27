@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Axe Beak Tomahawk
 
 Weapon (*Handaxe*), Uncommon, Simple Weapon, Melee Weapon, 2 lb.

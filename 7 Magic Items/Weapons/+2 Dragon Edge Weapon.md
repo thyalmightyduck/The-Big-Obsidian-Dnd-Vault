@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Dragon Edge Weapon
 
 Generic Variant, Very Rare

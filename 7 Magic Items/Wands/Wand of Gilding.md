@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Gilding
 
 Wand, Rare (Requires Attunement By a Bard, Sorcerer, or Wizard), Major Tier

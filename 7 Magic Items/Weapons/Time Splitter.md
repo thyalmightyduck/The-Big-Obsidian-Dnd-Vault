@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Time Splitter
 
 Melee Weapon (Requires Attunement)

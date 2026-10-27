@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ebonbane
 
 Weapon (*Longsword*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

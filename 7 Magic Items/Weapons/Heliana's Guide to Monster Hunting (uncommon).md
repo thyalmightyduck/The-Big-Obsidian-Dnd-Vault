@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heliana's Guide to Monster Hunting (uncommon)
 
 Wondrous Item, Weapon, Uncommon, Simple Weapon

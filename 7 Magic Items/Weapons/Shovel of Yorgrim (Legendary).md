@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shovel of Yorgrim (Legendary)
 
 Weapon (*Greatclub*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 10 lb.

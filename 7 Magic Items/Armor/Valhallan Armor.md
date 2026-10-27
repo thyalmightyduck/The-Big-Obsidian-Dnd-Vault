@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Valhallan Armor
 
 Generic Variant, Rare (Requires Attunement)

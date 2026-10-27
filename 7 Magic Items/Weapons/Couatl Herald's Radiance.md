@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Couatl Herald's Radiance
 
 Staff, Weapon, Rare (Requires Attunement By a Creature of Good Alignment), Simple Weapon, Melee Weapon, 4 lb.

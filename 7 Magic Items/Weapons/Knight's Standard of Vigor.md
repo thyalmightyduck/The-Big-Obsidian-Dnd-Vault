@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Knight's Standard of Vigor
 
 Weapon (*Pike*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 18 lb.

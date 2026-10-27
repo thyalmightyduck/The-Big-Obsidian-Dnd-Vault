@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Paralysis
 
 Wand, Rare (Requires Attunement By a Spellcaster), 1 lb.

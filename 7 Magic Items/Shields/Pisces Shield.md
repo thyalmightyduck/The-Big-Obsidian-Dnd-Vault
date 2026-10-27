@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pisces Shield
 
 Armor (*Shield*), Uncommon, Major Tier, 6 lb.

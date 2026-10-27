@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Reaper's Scream
 
 Weapon (*Morningstar*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

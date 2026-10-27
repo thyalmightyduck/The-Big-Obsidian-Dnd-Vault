@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon Sensing Longsword
 
 Weapon (*Longsword*), Martial Weapon, Melee Weapon, 3 lb.

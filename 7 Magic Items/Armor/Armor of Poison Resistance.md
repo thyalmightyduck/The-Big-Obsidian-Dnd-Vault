@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Poison Resistance
 
 Generic Variant, Rare (Requires Attunement)

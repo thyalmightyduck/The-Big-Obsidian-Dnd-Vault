@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Unstable Crumbler
 
 Trick Weapon, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Topaz Annihilator
 
 Ranged Weapon, Legendary (Requires Attunement), Firearm

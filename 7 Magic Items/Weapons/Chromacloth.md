@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Chromacloth
 
 Weapon (*Sling*), Uncommon, Simple Weapon, Ranged Weapon

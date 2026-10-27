@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ravenous Gazer
 
 Trick Weapon, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Torrent Taiaha
 
 Staff, Weapon, Rare, Simple Weapon, Melee Weapon, 4 lb.

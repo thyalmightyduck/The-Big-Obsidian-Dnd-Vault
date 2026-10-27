@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Answering
 
 Weapon (*Longsword*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

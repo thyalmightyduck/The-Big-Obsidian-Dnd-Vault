@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pathfinder's Greataxe
 
 Weapon (*Greataxe*), Martial Weapon, Melee Weapon, 7 lb.

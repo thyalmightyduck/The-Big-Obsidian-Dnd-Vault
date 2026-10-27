@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Liar's Lyre
 
 Wondrous Item, Instrument (*Lyre*), Uncommon (Requires Attunement By a Bard)

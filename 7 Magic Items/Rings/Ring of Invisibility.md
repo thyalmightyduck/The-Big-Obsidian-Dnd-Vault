@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Invisibility
 
 Ring, Legendary (Requires Attunement)

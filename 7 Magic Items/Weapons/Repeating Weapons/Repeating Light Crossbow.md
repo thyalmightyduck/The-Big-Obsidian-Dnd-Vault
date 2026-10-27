@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Piercing, [[Simple Weapons]], [[Ranged Weapons]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Torchbearer's Reach
 
 Weapon (*Whip*), Uncommon, Martial Weapon, Melee Weapon, 3 lb.

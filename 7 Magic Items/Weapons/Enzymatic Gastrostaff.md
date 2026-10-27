@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enzymatic Gastrostaff
 
 Staff, Weapon (*Quarterstaff*), Spellcasting Focus, Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

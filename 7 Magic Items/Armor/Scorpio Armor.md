@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scorpio Armor
 
 Generic Variant, Uncommon (Requires Attunement), Major Tier

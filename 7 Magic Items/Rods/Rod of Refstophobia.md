@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Refstophobia
 
 Rod, Rare, Minor Tier

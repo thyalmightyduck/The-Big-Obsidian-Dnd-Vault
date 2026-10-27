@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Acid Resistance
 
 Potion, Uncommon, ½ lb.

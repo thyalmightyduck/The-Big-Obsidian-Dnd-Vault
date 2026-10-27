@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Clairvoyance
 
 Potion, Rare, ½ lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Shadow Form
 
 Shield (*Shield*), Rare (Requires Attunement), 6 lb.

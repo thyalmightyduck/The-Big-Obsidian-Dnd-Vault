@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bow of the Spelldrinker
 
 Generic Variant, Very Rare (Requires Attunement), Major Tier

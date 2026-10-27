@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sir Varion's Lance
 
 Weapon (*Lance*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

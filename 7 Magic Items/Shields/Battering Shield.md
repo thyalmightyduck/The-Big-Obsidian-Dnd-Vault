@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Battering Shield
 
 Shield (*Shield*), Rare (Requires Attunement), 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ramuh's Katar
 
 Weapon (*Punch Knife*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Visage of the Old Ways
 
 Wondrous Item, Generic Variant (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Living Armor
 
 Generic Variant, Very Rare (Requires Attunement)

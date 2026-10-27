@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Festerwood Masher
 
 Generic Variant, Very Rare (Requires Attunement)

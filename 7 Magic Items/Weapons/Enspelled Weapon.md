@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Weapon
 
 Generic Variant (Requires Attunement)

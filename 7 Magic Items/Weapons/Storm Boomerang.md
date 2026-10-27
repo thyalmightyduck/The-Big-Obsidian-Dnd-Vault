@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Storm Boomerang
 
 Weapon, Uncommon, Simple Weapon, Ranged Weapon

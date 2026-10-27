@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Mind Reading
 
 Potion, Rare, ½ lb.

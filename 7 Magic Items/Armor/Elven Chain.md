@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elven Chain
 
 Generic Variant, Rare

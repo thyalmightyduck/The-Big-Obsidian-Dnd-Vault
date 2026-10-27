@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Resurrection
 
 Rod, Legendary (Requires Attunement), 2 lb.

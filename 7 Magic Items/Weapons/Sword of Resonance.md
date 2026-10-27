@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Resonance
 
 Weapon (*Longsword*), Rare (Requires Attunement By a Bard), Martial Weapon, Melee Weapon, 3 lb.

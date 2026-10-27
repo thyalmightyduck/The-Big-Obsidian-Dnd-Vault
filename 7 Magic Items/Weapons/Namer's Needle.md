@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Namer's Needle
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

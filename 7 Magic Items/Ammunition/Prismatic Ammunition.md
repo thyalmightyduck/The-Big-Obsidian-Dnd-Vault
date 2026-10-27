@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Prismatic Ammunition
 
 Generic Variant, Uncommon

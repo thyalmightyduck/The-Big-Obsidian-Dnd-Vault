@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Retribution
 
 Generic Variant, Very Rare (Requires Attunement)

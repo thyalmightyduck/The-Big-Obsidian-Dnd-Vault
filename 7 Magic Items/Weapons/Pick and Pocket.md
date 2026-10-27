@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pick and Pocket
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, Major Tier, 1 lb.

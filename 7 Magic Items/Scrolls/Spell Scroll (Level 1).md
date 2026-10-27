@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spell Scroll (Level 1)
 
 Scroll, Common, 50 GP

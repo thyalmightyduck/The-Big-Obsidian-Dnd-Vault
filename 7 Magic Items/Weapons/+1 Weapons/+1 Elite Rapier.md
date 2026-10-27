@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Elite Rapier]], Uncommon*
 **Weapon:** 1d8 Piercing, Advanced Weapon, Melee Weapon

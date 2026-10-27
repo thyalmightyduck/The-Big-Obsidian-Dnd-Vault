@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rejuvenating Draft (Rare)
 
 Potion, Rare, Minor Tier

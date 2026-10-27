@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruin's Wake
 
 Weapon (*Spear*), Artifact (Requires Attunement), Simple Weapon, Melee Weapon, 3 lb.

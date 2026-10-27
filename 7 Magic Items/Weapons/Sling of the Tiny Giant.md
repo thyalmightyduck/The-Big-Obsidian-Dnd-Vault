@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sling of the Tiny Giant
 
 Weapon (*Sling*), Rare (Requires Attunement), Simple Weapon, Ranged Weapon

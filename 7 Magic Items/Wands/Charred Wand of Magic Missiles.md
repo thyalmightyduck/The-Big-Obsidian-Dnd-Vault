@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Charred Wand of Magic Missiles
 
 Wand, Uncommon, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silver Sword
 
 Weapon (Requires Attunement By a Creature That Has Psionic Ability), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rust Arrow
 
 Ammunition (*Arrow*), Uncommon, Minor Tier, 0.8 oz.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spelleater Tome (uncommon)
 
 Wondrous Item, Spellcasting Focus, Uncommon (Requires Attunement)

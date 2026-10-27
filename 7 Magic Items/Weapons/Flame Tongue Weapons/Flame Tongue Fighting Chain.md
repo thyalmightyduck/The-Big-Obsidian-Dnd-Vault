@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Fighting Chain]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon

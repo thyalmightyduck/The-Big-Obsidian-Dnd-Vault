@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Smiles
 
 Wand, Common, Minor Tier, 1 lb.

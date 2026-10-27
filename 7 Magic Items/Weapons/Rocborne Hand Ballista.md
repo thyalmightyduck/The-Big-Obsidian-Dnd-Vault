@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rocborne Hand Ballista
 
 Weapon (*Heavy Crossbow*), Very Rare (Requires Attunement), Martial Weapon, Ranged Weapon, 18 lb.

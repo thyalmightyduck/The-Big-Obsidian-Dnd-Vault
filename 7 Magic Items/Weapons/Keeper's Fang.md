@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Keeper's Fang
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

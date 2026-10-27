@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Free Action
 
 Ring, Rare (Requires Attunement)

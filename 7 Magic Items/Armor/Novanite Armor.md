@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Novanite Armor
 
 Generic Variant, Very Rare (Requires Attunement), Major Tier

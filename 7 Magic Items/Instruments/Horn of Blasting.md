@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horn of Blasting
 
 Wondrous Item, Instrument (*Horn*), Rare

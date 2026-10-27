@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silver Star Cane
 
 Weapon (*Rapier*), Common, Martial Weapon, Melee Weapon, Minor Tier, 2 lb.

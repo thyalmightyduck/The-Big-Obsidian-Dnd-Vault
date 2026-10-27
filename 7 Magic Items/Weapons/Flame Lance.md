@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flame Lance
 
 Weapon (*Lance*), Uncommon, Martial Weapon, Melee Weapon, 6 lb.

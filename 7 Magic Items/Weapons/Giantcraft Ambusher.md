@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Giantcraft Ambusher
 
 Weapon (*Greataxe*), Rare, Martial Weapon, Melee Weapon, Major Tier, 7 lb.

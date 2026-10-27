@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Polymorph
 
 Wand, Very Rare (Requires Attunement By a Spellcaster), 1 lb.

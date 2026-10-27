@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Painblinder Mycaxe
 
 Melee Weapon

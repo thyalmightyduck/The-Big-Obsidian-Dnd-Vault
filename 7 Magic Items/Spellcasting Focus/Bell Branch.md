@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bell Branch
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Druid or Warlock)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Candle Mace
 
 Weapon (*Mace*), Simple Weapon, Melee Weapon, 4 lb.

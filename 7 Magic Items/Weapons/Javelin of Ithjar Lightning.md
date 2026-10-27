@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Javelin of Ithjar Lightning
 
 Weapon (*Javelin*), Uncommon, Simple Weapon, Melee Weapon, Major Tier, 2 lb.

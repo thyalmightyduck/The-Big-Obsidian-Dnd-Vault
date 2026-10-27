@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
   - Homebrew
 ---
 # Elegant-Resilience

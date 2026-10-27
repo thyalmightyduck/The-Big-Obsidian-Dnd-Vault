@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Oceanic Weapon
 
 Generic Variant, Rare (Requires Attunement)

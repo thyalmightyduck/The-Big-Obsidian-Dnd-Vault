@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bottled Abyss
 
 Potion, Very Rare

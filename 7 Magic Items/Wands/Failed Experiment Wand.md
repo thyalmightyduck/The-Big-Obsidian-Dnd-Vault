@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Failed Experiment Wand
 
 Wand, Rare (Requires Attunement By a Spellcaster), 1 lb.

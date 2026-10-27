@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stonemaker War Pick
 
 Weapon (*War Pick*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

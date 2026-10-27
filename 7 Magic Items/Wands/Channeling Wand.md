@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Channeling Wand
 
 Generic Variant, Rare (Requires Attunement By a Creature with a Specific Dragonmark)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ironleaf Impaler
 
 Generic Variant, Rare (Requires Attunement), Major Tier

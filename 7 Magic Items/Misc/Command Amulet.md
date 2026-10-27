@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Command Amulet
 
 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Candleflame Bow
 
 Generic Variant, Uncommon (Requires Attunement), Major Tier

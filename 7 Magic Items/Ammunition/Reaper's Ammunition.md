@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Reaper's Ammunition
 
 Ammunition, Legendary

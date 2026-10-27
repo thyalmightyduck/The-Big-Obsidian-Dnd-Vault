@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trident of Henchantment
 
 Weapon (*Trident*), Rare, Martial Weapon, Melee Weapon, 4 lb.

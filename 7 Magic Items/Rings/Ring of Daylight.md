@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Daylight
 
 Ring, Rare (Requires Attunement)

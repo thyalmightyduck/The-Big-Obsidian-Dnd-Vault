@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Molten Bronze Skin
 
 Generic Variant, Rare (Requires Attunement)

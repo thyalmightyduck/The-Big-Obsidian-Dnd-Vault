@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Knightly Sword]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon

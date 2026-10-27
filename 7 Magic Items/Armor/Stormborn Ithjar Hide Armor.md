@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stormborn Ithjar Hide Armor
 
 Medium Armor (Requires Attunement), Major Tier, 12 lb.

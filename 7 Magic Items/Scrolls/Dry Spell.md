@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dry Spell
 
 Scroll, Rare

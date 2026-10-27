@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Feywild Shard
 
 Wondrous Item, Spellcasting Focus, Uncommon (Requires Attunement By a Sorcerer), 1 lb.

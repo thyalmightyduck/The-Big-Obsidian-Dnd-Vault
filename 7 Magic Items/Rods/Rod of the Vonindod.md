@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of the Vonindod
 
 Rod, Rare (Requires Attunement), 100 lb.

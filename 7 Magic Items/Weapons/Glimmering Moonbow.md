@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Glimmering Moonbow
 
 Generic Variant, Rare (Requires Attunement)

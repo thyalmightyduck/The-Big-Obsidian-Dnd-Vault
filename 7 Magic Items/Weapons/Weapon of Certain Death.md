@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weapon of Certain Death
 
 Generic Variant, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pariah's Shield
 
 Armor (*Shield*), Rare (Requires Attunement), 6 lb.

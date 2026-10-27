@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cauchemange Drug
 
 Poison (Inhaled)

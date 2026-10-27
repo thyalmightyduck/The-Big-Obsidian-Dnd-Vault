@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Grasping Staff
 
 Staff, Weapon (*Quarterstaff*), Spellcasting Focus, Very Rare (Requires Attunement By a Warlock or Wizard), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

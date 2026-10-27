@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Truth Telling
 
 Ring, Uncommon (Requires Attunement)

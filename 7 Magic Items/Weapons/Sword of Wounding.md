@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Wounding
 
 Generic Variant, Rare (Requires Attunement)

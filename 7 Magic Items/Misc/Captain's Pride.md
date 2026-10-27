@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Captain's Pride
 
 Generic Variant, Rare (Requires Attunement), Major Tier

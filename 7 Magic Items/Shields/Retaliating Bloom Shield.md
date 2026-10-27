@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Retaliating Bloom Shield
 
 Shield (*Shield*), Rare, 6 lb.

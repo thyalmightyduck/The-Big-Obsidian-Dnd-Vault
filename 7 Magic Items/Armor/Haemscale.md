@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Haemscale
 
 Generic Variant (Requires Attunement)

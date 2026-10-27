@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bramble Buckler
 
 Shield (*Shield*), Uncommon (Requires Attunement By a Druid or Ranger), Major Tier, 6 lb.

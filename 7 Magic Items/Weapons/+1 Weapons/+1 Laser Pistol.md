@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Laser Pistol]], Uncommon*
 **Weapon:** 3d6 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm

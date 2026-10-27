@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Berserker Axe
 
 Generic Variant, Rare (Requires Attunement)

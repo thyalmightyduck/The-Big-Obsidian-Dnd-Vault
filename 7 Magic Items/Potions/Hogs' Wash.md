@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hogs' Wash
 
 Potion, Rare

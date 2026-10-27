@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Steam Harpoon
 
 Weapon (*Spear*), Rare, Simple Weapon, Melee Weapon, Major Tier, 3 lb.

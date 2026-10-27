@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starmetal Nova Armor
 
 Generic Variant, Legendary (Requires Attunement), Major Tier

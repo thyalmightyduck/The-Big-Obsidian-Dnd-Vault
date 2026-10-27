@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Suude (Brown)
 
 Illegal Drug

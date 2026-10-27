@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Viper Khopesh
 
 Weapon (*Scimitar*), Rare, Martial Weapon, Melee Weapon, Major Tier, 25 GP, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wildfire Ammunition
 
 Generic Variant, Rare, Minor Tier

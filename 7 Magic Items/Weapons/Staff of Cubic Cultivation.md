@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Cubic Cultivation
 
 Staff, Weapon (*Quarterstaff*), Uncommon, Simple Weapon, Melee Weapon, Minor Tier, 4 lb.

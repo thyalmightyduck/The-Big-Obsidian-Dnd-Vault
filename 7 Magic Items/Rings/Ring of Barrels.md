@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Barrels
 
 Ring, Uncommon (Requires Attunement)

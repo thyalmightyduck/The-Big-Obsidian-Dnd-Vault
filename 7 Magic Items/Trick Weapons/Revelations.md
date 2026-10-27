@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Revelations
 
 Trick Weapon, Very Rare (Requires Attunement By a Creature with a Strength of 15 or Higher)

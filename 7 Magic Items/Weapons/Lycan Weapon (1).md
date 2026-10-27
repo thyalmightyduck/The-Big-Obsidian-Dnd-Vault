@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lycan Weapon
 
 Generic Variant, Rare

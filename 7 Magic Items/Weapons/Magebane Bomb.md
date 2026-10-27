@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Magebane Bomb
 
 Wondrous Item, Explosive, Rare

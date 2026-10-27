@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Skyglider Shield
 
 Armor (*Shield*), Rare, Major Tier, 6 lb.

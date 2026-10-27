@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weapon of Spite
 
 Generic Variant, Uncommon (Requires Attunement)

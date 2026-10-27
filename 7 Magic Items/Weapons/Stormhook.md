@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stormhook
 
 Generic Variant, Rare (Requires Attunement)

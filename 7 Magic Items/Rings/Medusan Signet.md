@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Medusan Signet
 
 Ring, Uncommon (Requires Attunement), Minor Tier

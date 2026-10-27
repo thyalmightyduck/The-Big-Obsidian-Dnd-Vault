@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Mute Mage
 
 Ring, Uncommon (Requires Attunement By a Spellcaster), Major Tier

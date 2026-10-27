@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Draconic Longsword
 
 Weapon (*Longsword*), Martial Weapon, Melee Weapon, 3 lb.

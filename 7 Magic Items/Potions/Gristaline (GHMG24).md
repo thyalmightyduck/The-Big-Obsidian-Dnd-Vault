@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gristaline
 
 Potion, Uncommon

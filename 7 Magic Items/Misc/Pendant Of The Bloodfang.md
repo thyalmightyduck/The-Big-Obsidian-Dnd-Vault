@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Wonderous Item, Rare, Requires [[Attunement]]* 
 > [!infobox]

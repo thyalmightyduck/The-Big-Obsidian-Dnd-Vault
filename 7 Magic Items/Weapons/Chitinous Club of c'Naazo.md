@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Chitinous Club of c'Naazo
 
 Weapon (*Maul*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, 10 lb.

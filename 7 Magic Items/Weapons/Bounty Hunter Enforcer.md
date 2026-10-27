@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bounty Hunter Enforcer
 
 Weapon (*Spear*), Uncommon, Simple Weapon, Melee Weapon, 3 lb.

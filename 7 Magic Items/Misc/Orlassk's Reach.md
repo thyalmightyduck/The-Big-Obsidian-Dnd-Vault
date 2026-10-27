@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orlassk's Reach
 
 Wondrous Item, Symbiont, Artifact (Requires Attunement)

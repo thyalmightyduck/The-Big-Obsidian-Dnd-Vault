@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Fate
 
 Staff, Weapon (*Quarterstaff*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

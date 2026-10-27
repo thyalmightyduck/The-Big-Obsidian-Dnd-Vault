@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mask of Lethica Nightborne
 
 Wondrous Item, Generic Variant (Requires Attunement)

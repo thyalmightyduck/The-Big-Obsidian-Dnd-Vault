@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Djinn and Tonic (Common)
 
 Potion, Common, Minor Tier

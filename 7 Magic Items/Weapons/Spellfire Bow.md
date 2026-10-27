@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spellfire Bow
 
 Weapon (*Longbow*), Legendary (Requires Attunement By a Spellcaster), Martial Weapon, Ranged Weapon, Major Tier, 2 lb.

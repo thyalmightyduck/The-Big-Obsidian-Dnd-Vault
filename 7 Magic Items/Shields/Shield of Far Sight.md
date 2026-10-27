@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Far Sight
 
 Armor (*Shield*), Rare, 6 lb.

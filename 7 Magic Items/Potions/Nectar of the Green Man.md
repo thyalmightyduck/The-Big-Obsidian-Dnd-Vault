@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nectar of the Green Man
 
 Potion, Very Rare

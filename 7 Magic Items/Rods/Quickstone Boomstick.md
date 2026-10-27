@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quickstone Boomstick
 
 Rod, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starmetal Sliver
 
 Weapon (*Dagger*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 1 lb.

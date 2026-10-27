@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cauldron of the Vermintoll Coven
 
 Wondrous Item, Generic Variant (Requires Attunement), 1 lb.

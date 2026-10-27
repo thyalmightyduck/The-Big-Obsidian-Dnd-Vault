@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ferguson's Talons
 
 Weapon (*Hand Claws*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon

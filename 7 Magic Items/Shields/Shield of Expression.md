@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Expression
 
 Shield (*Shield*), Common, 6 lb.

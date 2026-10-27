@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Deathwalker's Ward (Exalted)
 
 Light Armor (*Studded Leather Armor*), Legendary (Requires Attunement), 13 lb.

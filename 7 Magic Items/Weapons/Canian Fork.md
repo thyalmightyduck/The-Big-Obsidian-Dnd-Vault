@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Canian Fork
 
 Weapon (*Trident*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

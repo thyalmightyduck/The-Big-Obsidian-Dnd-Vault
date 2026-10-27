@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mooncatcher's Net
 
 Weapon (*Net*), Rare (Requires Attunement), Martial Weapon, Ranged Weapon, 3 lb.

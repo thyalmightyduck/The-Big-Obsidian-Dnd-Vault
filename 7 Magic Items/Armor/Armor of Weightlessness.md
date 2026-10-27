@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Weightlessness
 
 Generic Variant, Uncommon (Requires Attunement)

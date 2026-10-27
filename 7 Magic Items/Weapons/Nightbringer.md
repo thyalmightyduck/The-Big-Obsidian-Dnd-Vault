@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nightbringer
 
 Weapon (*Mace*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

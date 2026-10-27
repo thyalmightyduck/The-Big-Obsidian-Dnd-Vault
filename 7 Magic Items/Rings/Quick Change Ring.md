@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quick Change Ring
 
 Ring, Rare, Minor Tier

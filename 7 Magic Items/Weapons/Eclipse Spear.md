@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Eclipse Spear
 
 Weapon (*Spear*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 3 lb.

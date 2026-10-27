@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Barrier Tattoo (Medium)
 
 Wondrous Item (Tattoo), Rare (Requires Attunement)

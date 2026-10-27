@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Scowls
 
 Wand, Common, Minor Tier, 1 lb.

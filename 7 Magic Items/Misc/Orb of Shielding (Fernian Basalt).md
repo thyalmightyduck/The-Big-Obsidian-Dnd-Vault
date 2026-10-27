@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Fernian Basalt)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

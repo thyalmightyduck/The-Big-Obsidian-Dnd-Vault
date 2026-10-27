@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Punch Knife]], Uncommon*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon

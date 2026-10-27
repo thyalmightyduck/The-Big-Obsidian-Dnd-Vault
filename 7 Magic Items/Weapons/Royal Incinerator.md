@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Royal Incinerator
 
 Staff, Weapon (*Quarterstaff*), Legendary (Requires Attunement By a Druid, Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

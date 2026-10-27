@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gambler's Blade
 
 Generic Variant, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Storm Thrower Harpoon
 
 Weapon (*Trident*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gentleman's Saber
 
 Generic Variant, Rare (Requires Attunement), Major Tier

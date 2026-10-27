@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cunning-make Armour
 
 Generic Variant, base weight ×0.5

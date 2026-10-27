@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Battle Rod
 
 Rod, Common

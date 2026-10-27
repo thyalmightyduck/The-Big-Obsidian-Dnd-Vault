@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Superior Healing
 
 Potion, Rare, ½ lb.

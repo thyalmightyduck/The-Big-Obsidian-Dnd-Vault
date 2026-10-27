@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bow of Mind Thievery
 
 Weapon (*Shortbow*), Rare (Requires Attunement), Simple Weapon, Ranged Weapon, 2 lb.

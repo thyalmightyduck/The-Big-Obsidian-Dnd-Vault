@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wildman's Spinning Cleaver
 
 Weapon (*Handaxe*), Very Rare (Requires Attunement By a Barbarian), Simple Weapon, Melee Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Temporal Salvation
 
 Ring, Rare (Requires Attunement)

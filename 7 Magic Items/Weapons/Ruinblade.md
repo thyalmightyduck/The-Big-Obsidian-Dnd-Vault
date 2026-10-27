@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruinblade
 
 Weapon (*Greatsword*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

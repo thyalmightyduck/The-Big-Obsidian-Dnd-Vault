@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of the Vampire Lily Dragon
 
 Generic Variant, Very Rare

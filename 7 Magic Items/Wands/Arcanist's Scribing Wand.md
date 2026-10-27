@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arcanist's Scribing Wand
 
 Wand, Rare (Requires Attunement By a Wizard), Major Tier

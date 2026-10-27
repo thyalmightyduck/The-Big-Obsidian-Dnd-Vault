@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mithril Mail-shirt
 
 Medium Armor (*Chain Shirt*), 10 lb.

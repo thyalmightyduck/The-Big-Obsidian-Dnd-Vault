@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Mind Shielding
 
 Ring, Uncommon (Requires Attunement)

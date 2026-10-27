@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Side-handle Baton]], Uncommon*
 **Weapon:** 1d4 Bludgeoning, Advanced Weapon, Melee Weapon

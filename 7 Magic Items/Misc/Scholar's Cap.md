@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scholar's Cap
 
 Wondrous Item, Generic Variant

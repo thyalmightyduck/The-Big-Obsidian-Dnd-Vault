@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Songsteel Weapon
 
 Generic Variant, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Comet Ballista
 
 Weapon (*Heavy Crossbow*), Rare (Requires Attunement), Martial Weapon, Ranged Weapon, Major Tier, 18 lb.

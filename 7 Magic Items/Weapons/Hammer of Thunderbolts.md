@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hammer of Thunderbolts
 
 Generic Variant, Legendary (Requires Attunement)

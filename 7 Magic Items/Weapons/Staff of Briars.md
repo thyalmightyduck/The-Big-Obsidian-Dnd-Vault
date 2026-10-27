@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Briars
 
 Staff, Weapon, Uncommon, Simple Weapon, Melee Weapon

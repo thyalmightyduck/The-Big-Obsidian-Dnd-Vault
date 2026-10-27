@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dark Shard Amulet
 
 Wondrous Item, Spellcasting Focus, Common (Requires Attunement By a Warlock), 1 lb.

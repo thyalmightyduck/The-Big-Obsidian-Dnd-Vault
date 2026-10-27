@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spell Scroll (Level 2)
 
 Scroll, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dagger of Denial
 
 Weapon (*Dagger*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

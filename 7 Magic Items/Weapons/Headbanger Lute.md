@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Headbanger Lute
 
 Melee Weapon (Requires Attunement)

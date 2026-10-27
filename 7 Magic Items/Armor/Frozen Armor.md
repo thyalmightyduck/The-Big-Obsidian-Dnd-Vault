@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Frozen Armor
 
 Generic Variant, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Circlet of Human Perfection
 
 Uncommon (Requires Attunement By a Humanoid)

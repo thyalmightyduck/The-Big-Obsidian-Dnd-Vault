@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rune-Scored Shield (*)
 
 Generic Variant

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Coldrazor
 
 Weapon (*Handaxe*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

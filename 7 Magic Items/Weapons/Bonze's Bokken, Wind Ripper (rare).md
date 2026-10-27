@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bonze's Bokken, Wind Ripper (rare)
 
 Generic Variant, Rare (Requires Attunement)

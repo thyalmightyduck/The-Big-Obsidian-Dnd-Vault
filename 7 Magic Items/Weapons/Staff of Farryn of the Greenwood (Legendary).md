@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Farryn of the Greenwood (Legendary)
 
 Staff, Weapon, Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

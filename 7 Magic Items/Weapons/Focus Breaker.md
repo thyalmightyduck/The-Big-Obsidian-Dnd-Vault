@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Focus Breaker
 
 Weapon (*Maul*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 10 lb.

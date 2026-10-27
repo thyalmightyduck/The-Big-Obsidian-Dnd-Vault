@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Phial of Stoutmilk
 
 Potion, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hadiya's Handy Quill
 
 Weapon (*Dart*), Uncommon (Requires Attunement), Simple Weapon, Ranged Weapon, Minor Tier, ¼ lb.

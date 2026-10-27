@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Snicker-Snack
 
 Weapon (*Greatsword*), Legendary (Requires Attunement By a Non-Evil Creature), Martial Weapon, Melee Weapon, 6 lb.

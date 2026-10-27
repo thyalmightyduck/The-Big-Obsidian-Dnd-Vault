@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nightwatcher Potion
 
 Potion, Rare

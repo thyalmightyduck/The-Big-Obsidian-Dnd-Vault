@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Oil of Sharpness
 
 Potion, Very Rare, ½ lb.

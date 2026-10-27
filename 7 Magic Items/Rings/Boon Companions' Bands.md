@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Boon Companions' Bands
 
 Ring, Uncommon

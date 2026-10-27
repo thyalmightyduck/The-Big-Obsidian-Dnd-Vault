@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bow of Four
 
 Weapon (*Longbow*), Very Rare (Requires Attunement), Martial Weapon, Ranged Weapon, 2 lb.

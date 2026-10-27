@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Djinni Summoning
 
 Ring, Legendary (Requires Attunement)

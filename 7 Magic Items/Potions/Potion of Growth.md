@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Growth
 
 Potion, Uncommon, ½ lb.

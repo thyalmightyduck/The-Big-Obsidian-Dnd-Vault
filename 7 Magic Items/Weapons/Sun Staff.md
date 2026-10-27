@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sun Staff
 
 Staff, Weapon, Rare (Requires Attunement By a Cleric, Druid, or Wizard), Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tinderstrike
 
 Weapon (*Dagger*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

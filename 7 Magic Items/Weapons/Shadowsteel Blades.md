@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shadowsteel Blades
 
 Generic Variant, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Crystalline Chronicle
 
 Wondrous Item, Spellcasting Focus, Very Rare (Requires Attunement By a Wizard), 3 lb.

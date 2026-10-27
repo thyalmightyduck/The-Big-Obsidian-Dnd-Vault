@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Glamoured Studded Leather
 
 Light Armor (*Studded Leather Armor*), Rare, 13 lb.

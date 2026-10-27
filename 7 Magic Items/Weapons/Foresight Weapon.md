@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Foresight Weapon
 
 Generic Variant, Very Rare (Requires Attunement)

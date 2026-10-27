@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arborguard Shield
 
 Shield (*Shield*), Very Rare (Requires Attunement), Major Tier, 6 lb.

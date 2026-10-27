@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Entangle
 
 Wand, Uncommon (Requires Attunement By a Spellcaster), 1 lb.

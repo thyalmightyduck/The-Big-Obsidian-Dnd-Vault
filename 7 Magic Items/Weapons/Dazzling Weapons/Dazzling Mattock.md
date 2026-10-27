@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Mattock]], Rare (Requires Attunement)*
 **Weapon:** 1d12 Piercing, Martial Weapon, Melee Weapon

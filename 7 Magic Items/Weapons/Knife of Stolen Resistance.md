@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Knife of Stolen Resistance
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

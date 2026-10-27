@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Keen Weapon
 
 Generic Variant

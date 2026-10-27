@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dreams Leaves
 
 Potion, Uncommon

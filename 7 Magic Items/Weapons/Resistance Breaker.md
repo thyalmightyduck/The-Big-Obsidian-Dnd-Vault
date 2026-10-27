@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Resistance Breaker
 
 Generic Variant, Rare

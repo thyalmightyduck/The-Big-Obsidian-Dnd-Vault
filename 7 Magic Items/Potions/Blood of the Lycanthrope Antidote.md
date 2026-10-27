@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blood of the Lycanthrope Antidote
 
 Potion, Uncommon

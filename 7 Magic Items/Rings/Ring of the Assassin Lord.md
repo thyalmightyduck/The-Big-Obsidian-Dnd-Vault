@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Assassin Lord
 
 Ring, Legendary (Requires Attunement By a Rogue), Major Tier

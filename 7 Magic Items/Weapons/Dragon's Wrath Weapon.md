@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon's Wrath Weapon
 
 Generic Variant (Requires Attunement)

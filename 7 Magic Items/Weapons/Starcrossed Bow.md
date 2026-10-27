@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starcrossed Bow
 
 Generic Variant, Rare (Requires Attunement)

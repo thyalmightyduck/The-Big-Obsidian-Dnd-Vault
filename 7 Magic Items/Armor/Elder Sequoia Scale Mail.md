@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elder Sequoia Scale Mail
 
 Medium Armor (*Scale Mail*), Rare (Requires Attunement By a Druid), Major Tier, 45 lb.

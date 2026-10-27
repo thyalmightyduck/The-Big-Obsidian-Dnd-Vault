@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hungry Weapon
 
 Generic Variant, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hraptnon Weapon
 
 Generic Variant, Very Rare, Major Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hedonic Motivator
 
 Weapon (*Whip*), Uncommon, Martial Weapon, Melee Weapon, Major Tier, 3 lb.

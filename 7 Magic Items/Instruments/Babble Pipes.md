@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Babble Pipes
 
 Wondrous Item, Instrument, Uncommon

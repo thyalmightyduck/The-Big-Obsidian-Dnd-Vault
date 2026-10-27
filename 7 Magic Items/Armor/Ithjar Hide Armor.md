@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ithjar Hide Armor
 
 Medium Armor, 12 lb.

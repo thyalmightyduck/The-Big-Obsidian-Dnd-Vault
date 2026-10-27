@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Heroism
 
 Potion, Rare, ½ lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Ring of Protection
 
 Ring, Rare (Requires Attunement), Major Tier

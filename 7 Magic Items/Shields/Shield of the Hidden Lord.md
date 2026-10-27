@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of the Hidden Lord
 
 Armor (*Shield*), Legendary (Requires Attunement), 6 lb.

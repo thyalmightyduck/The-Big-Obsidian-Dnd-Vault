@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fane-Eater
 
 Weapon (*Battleaxe*), Legendary (Requires Attunement By an Evil Cleric or Paladin), Martial Weapon, Melee Weapon, 4 lb.

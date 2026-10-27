@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Haint Hooch
 
 Potion, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shifter's Shine (Uncommon)
 
 Potion, Uncommon, Minor Tier

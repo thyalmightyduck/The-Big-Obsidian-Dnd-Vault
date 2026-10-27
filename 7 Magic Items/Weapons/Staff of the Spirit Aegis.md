@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Spirit Aegis
 
 Staff, Weapon, Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

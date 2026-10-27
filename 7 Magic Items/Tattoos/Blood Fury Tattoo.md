@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blood Fury Tattoo
 
 Wondrous Item (Tattoo), Legendary (Requires Attunement)

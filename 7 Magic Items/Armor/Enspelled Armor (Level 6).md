@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Armor (Level 6)
 
 Generic Variant, Legendary (Requires Attunement)

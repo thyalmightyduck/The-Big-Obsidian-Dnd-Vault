@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Radiant Resistance
 
 Potion, Uncommon, ½ lb.

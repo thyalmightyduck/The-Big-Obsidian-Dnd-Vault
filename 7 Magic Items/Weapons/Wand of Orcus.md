@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Orcus
 
 Weapon (*Mace*), Wand, Artifact (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

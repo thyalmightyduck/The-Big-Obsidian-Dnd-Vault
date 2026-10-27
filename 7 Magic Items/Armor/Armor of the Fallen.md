@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of the Fallen
 
 Generic Variant, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Azorius Guild Signet
 
 Ring, Uncommon (Requires Attunement)

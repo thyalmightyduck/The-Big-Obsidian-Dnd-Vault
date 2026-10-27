@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shock and Ore
 
 Weapon (*War Pick*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

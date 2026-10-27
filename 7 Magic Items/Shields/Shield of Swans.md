@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Swans
 
 Shield (*Shield*), Common, 6 lb.

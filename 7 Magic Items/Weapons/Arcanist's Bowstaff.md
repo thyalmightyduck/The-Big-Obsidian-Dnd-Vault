@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arcanist's Bowstaff
 
 Weapon (*Quarterstaff*), Very Rare (Requires Attunement By a Creature with an Intelligence of 17+), Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aciurgist's Blade
 
 Weapon (*Glaive*), Very Rare (Requires Attunement By a Paladin), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

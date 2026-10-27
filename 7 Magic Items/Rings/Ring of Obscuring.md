@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Obscuring
 
 Ring, Uncommon (Requires Attunement)

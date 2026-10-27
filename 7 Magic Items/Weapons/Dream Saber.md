@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dream Saber
 
 Weapon (*Scimitar*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 3 lb.

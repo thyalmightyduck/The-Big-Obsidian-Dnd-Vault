@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hide of the Brimstone Behemoth
 
 Wondrous Item, Generic Variant (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Moon Sickle
 
 Weapon (*Sickle*), Very Rare (Requires Attunement By a Druid or Ranger), Simple Weapon, Melee Weapon, 2 lb.

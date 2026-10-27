@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Star of Iron
 
 Weapon (*Maul*), Very Rare, Martial Weapon, Melee Weapon, 10 lb.

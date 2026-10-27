@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Celestial Prowess
 
 Wand (Requires Attunement By a Spellcaster)

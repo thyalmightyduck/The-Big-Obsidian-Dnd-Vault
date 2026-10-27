@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Breastplate of Kamvuul Norek
 
 Medium Armor (*Breastplate*), Legendary (Requires Attunement), 20 lb.

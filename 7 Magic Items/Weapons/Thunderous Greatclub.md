@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Thunderous Greatclub
 
 Weapon (*Greatclub*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 10 lb.

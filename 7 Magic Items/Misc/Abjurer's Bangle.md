@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Abjurer's Bangle
 
 Wondrous Item, Generic Variant, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Steel
 
 Weapon (*Longsword*), Very Rare (Requires Attunement By a Good-Aligned Creature), Martial Weapon, Melee Weapon, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Breastplate of the Morning Light
 
 Medium Armor (*Breastplate*), Rare (Requires Attunement By a Cleric or Paladin), 20 lb.

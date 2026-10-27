@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Honey of the Hive Warden
 
 Potion, Very Rare

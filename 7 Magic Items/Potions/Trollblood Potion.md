@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trollblood Potion
 
 Potion, Rare

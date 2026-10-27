@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Whelm
 
 Weapon (*Warhammer*), Artifact (Requires Attunement By a Dwarf or a Creature Attuned to a Belt of Dwarvenkind), Martial Weapon, Melee Weapon, 5 lb.

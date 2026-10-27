@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blackthorn Spear of the Moonless Hunter
 
 Weapon (*Spear*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 3 lb.

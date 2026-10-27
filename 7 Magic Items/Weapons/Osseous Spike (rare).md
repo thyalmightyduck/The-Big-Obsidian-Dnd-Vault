@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Osseous Spike (rare)
 
 Weapon (*Lance*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

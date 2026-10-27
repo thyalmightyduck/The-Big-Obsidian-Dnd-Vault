@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Pugilism
 
 Potion, Uncommon, ½ lb.

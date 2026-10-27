@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Risian Shale)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

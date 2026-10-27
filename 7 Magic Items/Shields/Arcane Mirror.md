@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arcane Mirror
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Tools of the Master
 
 Artisan's Tools, Rare (Requires Attunement By a Character Proficient with the Tool)

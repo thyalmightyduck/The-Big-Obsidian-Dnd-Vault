@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Glass Carver
 
 Weapon (*Dagger*), Uncommon, Simple Weapon, Melee Weapon, Minor Tier, 1 lb.

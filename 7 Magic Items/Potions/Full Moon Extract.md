@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Full Moon Extract
 
 Potion, Uncommon

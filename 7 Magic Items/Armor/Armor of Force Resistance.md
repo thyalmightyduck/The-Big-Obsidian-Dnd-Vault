@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Force Resistance
 
 Generic Variant, Rare (Requires Attunement)

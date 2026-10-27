@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Climbing
 
 Potion, Common, ½ lb.

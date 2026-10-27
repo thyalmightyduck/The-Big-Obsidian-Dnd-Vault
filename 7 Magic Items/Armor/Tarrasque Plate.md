@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tarrasque Plate
 
 Heavy Armor (*Plate Armor*), Legendary (Requires Attunement), Major Tier, 65 lb.

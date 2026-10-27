@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gunnspier (very rare)
 
 Potion, Very Rare

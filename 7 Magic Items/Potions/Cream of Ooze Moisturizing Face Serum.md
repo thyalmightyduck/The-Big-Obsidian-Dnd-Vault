@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cream of Ooze Moisturizing Face Serum
 
 Potion, Common

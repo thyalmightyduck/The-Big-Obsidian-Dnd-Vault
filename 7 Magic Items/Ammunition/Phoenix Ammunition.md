@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Phoenix Ammunition
 
 Ammunition, Generic Variant, Rare

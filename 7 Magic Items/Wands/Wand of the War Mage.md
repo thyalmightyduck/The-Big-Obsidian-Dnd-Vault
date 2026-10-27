@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of the War Mage
 
 Wand (Requires Attunement By a Spellcaster), 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Healing Ammunition
 
 Ammunition, Generic Variant, Uncommon

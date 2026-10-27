@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Hill Giant Strength
 
 Potion, Uncommon, ½ lb.

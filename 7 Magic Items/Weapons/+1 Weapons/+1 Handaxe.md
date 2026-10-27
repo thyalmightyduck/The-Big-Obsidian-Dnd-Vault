@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Handaxe]], Uncommon*
 **Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon

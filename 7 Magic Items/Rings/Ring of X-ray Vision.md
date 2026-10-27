@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of X-ray Vision
 
 Ring, Rare (Requires Attunement)

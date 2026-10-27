@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruby Rod of Asmodeus
 
 Rod, Artifact (Requires Attunement)

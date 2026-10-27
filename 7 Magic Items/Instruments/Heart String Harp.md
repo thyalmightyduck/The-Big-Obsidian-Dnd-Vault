@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heart String Harp
 
 Generic Variant, Rare (Requires Attunement By a Bard)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Reveler's Concertina
 
 Wondrous Item, Instrument, Rare (Requires Attunement By a Bard)

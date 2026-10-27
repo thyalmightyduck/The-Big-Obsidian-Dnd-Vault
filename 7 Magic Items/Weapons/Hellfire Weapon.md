@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hellfire Weapon
 
 Generic Variant, Uncommon

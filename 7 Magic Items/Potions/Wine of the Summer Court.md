@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wine of the Summer Court
 
 Potion, Rare

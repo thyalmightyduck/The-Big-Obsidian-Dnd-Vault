@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Ammunition
 
 Ammunition, Generic Variant, Very Rare

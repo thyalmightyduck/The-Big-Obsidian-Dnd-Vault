@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Champion's Greatbow
 
 Weapon (*Longbow*), Rare, Martial Weapon, Ranged Weapon, Major Tier, 2 lb.

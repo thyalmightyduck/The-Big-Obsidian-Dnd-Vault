@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elemental Essence Shard (Water)
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Sorcerer), 1 lb.

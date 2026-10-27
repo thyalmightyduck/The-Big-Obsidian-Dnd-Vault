@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flamebreather Staff
 
 Weapon (*Quarterstaff*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

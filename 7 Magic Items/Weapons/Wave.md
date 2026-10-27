@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wave
 
 Weapon (*Trident*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

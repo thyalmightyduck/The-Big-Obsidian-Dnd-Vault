@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Barnacled Wave-Swept Weapon
 
 Generic Variant, Uncommon (Requires Attunement)

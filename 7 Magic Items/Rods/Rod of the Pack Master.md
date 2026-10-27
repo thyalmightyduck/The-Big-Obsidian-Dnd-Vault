@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of the Pack Master
 
 Rod, Very Rare (Requires Attunement)

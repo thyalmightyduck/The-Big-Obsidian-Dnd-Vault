@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Deni Shield
 
 Shield (*Shield*), Common, 6 lb.

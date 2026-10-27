@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Paragon's Plate
 
 Heavy Armor (*Plate Armor*), Legendary (Requires Attunement), 65 lb.

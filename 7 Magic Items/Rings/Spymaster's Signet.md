@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spymaster's Signet
 
 Ring, Legendary (Requires Attunement)

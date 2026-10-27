@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flashdraw Wand
 
 Wand, Uncommon (Requires Attunement)

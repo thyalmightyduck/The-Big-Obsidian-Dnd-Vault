@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shadow Portal Scroll
 
 Scroll, Rare

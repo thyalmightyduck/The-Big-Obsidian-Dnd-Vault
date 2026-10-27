@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Heavy Tommybow (3)]], Uncommon (Requires Attunement)*
 **Weapon:** 1d10 Piercing Martial Weapon, Ranged Weapon

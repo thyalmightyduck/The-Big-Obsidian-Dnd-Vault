@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gusting Blowgun
 
 Weapon (*Blowgun*), Uncommon (Requires Attunement), Martial Weapon, Ranged Weapon, Major Tier, 1 lb.

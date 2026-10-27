@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dark Fathom Armor
 
 Light Armor (*Studded Leather Armor*), Very Rare (Requires Attunement), 13 lb.

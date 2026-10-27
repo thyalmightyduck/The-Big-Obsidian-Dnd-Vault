@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Breastplank
 
 Medium Armor (Requires Attunement)

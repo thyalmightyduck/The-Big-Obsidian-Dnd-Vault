@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Couatl Herald's Guard
 
 Shield (*Shield*), Uncommon (Requires Attunement By a Creature of Good Alignment), 6 lb.

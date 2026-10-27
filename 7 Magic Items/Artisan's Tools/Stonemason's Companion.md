@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stonemason's Companion
 
 Wondrous Item, Artisan's Tools (*Mason's Tools*), Uncommon, Major Tier

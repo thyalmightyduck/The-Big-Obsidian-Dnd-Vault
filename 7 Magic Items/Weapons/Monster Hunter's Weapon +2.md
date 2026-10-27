@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Monster Hunter's Weapon +2
 
 Ranged Weapon, Very Rare (Requires Attunement By a Ranger)

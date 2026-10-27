@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Star Metal Ring
 
 Ring, Rare

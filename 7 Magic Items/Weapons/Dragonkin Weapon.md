@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragonkin Weapon
 
 Generic Variant

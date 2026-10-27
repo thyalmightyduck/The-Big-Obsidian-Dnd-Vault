@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wildskin Armor
 
 Medium Armor (*Hide Armor*), Uncommon (Requires Attunement By a Druid), Major Tier, 12 lb.

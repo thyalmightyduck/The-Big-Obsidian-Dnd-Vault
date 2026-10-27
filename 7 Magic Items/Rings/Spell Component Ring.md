@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spell Component Ring
 
 Ring, Common

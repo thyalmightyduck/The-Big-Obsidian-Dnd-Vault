@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Warding Staff
 
 Staff, Weapon (*Quarterstaff*), Very Rare (Requires Attunement By a Cleric or Paladin), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

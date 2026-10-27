@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Feywrought Armor
 
 Generic Variant, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starbreaker
 
 Weapon (*Morningstar*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

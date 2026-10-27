@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Delerium-Forged Blade
 
 Generic Variant, Rare

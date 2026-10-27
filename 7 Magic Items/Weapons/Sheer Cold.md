@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sheer Cold
 
 Weapon (*Battleaxe*), Rare, Martial Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Magentan Sun-Saw (Uncommon)
 
 Weapon (*Scimitar*), Uncommon, Martial Weapon, Melee Weapon, Major Tier, 3 lb.

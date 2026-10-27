@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Band of Mirrored Essence
 
 Ring, Rare (Requires Attunement)

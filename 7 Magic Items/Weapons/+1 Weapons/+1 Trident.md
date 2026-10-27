@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Trident]], Uncommon*
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon

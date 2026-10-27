@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silvered Weapon
 
 Generic Variant, Common

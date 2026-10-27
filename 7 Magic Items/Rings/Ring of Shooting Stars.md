@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Shooting Stars
 
 Ring, Very Rare (Requires Attunement)

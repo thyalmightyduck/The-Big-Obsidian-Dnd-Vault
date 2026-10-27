@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Coat of Many Eyes (Rare)
 
 Light Armor (*Studded Leather Armor*), Rare (Requires Attunement , Evolves with Service to Belashyrra), 13 lb.

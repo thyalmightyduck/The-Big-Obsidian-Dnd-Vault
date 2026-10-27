@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spindle of Fate
 
 Wand, Legendary (Requires Attunement)

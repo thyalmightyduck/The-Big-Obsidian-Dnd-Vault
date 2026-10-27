@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Otters
 
 Shield (*Shield*), Uncommon, 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arrow-Catching Shield
 
 Shield (*Shield*), Rare (Requires Attunement), 6 lb.

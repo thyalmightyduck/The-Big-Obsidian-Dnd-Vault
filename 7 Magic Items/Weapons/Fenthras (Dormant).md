@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fenthras (Dormant)
 
 Weapon (*Longbow*), Legendary (Requires Attunement), Martial Weapon, Ranged Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Xibalban Blade
 
 Weapon (*Longsword*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Mabaran Ebony)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

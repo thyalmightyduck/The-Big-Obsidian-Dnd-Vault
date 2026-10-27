@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horned Ring
 
 Ring, Very Rare (Requires Attunement)

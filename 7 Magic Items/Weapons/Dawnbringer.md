@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dawnbringer
 
 Weapon (*Longsword*), Legendary (Requires Attunement By a Creature of Non-Evil Alignment), Martial Weapon, Melee Weapon, 3 lb.

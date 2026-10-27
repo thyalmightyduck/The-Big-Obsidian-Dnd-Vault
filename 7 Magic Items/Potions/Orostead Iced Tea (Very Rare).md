@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orostead Iced Tea (Very Rare)
 
 Potion, Very Rare, Minor Tier

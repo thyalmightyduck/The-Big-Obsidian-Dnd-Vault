@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Contingency Band
 
 Ring, Rare, Major Tier

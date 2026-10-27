@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Glacial Jarl
 
 Ring, Very Rare (Requires Attunement)

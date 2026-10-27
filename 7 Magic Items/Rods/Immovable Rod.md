@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Immovable Rod
 
 Rod, Uncommon, 2 lb.

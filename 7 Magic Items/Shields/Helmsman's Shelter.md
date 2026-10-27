@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Helmsman's Shelter
 
 Shield (*Shield*), Rare (Requires Attunement), 6 lb.

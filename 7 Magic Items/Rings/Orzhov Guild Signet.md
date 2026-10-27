@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orzhov Guild Signet
 
 Ring, Uncommon (Requires Attunement)

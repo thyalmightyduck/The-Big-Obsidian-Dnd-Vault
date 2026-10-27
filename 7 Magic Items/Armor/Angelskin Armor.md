@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Angelskin Armor
 
 Light Armor (*Leather Armor*), Legendary (Requires Attunement), 10 lb.

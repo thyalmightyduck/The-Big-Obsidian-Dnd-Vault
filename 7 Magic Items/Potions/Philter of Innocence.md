@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Philter of Innocence
 
 Potion, Rare

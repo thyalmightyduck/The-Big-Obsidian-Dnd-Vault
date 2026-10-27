@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Slaying Longbow
 
 Weapon (*Longbow*), Legendary (Requires Attunement By a Good-Aligned Creature), Martial Weapon, Ranged Weapon, Major Tier, 2 lb.

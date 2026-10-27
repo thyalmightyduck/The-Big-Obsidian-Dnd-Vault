@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Prismatic Steel Weapon
 
 Generic Variant, Very Rare (Requires Attunement)

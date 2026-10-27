@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silent Weapon
 
 Generic Variant, Uncommon

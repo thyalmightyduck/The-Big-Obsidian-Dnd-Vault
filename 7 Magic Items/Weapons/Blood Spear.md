@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blood Spear
 
 Weapon (*Spear*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, 3 lb.

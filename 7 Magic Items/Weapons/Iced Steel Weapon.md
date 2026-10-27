@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Iced Steel Weapon
 
 Generic Variant, Common

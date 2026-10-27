@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tail's End
 
 Melee Weapon

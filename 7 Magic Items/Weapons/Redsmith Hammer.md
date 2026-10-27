@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Redsmith Hammer
 
 Weapon (*Light Hammer*), Common, Simple Weapon, Melee Weapon, Minor Tier, 2 lb.

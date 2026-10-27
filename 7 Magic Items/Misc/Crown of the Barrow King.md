@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Crown of the Barrow King
 
 Wondrous Item, Generic Variant (Requires Attunement)

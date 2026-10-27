@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orphan's Cradle
 
 Trick Weapon, Very Rare (Requires Attunement)

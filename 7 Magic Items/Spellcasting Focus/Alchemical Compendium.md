@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Alchemical Compendium
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Wizard), 3 lb.

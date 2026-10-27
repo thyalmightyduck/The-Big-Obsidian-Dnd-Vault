@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Thurimbar Rod
 
 Instrument, Common

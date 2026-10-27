@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mortal Coil
 
 Ring, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Vorpal Sword
 
 Generic Variant, Legendary (Requires Attunement)

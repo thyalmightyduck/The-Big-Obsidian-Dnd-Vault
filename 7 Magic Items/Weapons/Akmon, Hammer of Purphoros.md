@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Akmon, Hammer of Purphoros
 
 Weapon (*Warhammer*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

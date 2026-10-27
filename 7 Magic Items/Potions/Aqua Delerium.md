@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aqua Delerium
 
 Potion, Rare

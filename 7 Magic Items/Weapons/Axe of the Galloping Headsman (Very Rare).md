@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Axe of the Galloping Headsman (Very Rare)
 
 Weapon (*Battleaxe*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

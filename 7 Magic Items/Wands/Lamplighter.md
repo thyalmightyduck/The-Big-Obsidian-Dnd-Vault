@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lamplighter
 
 Wand, Common

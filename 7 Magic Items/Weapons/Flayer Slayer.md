@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flayer Slayer
 
 Weapon (*Greataxe*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 7 lb.

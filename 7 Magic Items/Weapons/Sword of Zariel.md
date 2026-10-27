@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Zariel
 
 Weapon (*Longsword*), Artifact (Requires Attunement By a Creature the Sword Deems Worthy), Martial Weapon, Melee Weapon, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Torpedo Ammunition
 
 Ammunition, Generic Variant, Common

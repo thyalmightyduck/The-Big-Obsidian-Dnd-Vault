@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ranseur of Torture
 
 Weapon (*Pike*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 18 lb.

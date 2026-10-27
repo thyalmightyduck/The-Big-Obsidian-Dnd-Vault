@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Junky +1 Dagger
 
 Weapon (*Dagger*), Simple Weapon, Melee Weapon, 1 lb.

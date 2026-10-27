@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Giant Slayer
 
 Generic Variant, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Signet Rings of the Fey Court
 
 Ring, Very Rare (Requires Attunement By an Elf or Fey Creature)

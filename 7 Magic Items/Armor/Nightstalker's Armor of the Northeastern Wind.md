@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nightstalker's Armor of the Northeastern Wind
 
 Heavy Armor (*Plate Armor*), Rare (Requires Attunement), Major Tier, 65 lb.

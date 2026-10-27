@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Splinterspray Tommybow (very rare)
 
 Ranged Weapon, Very Rare

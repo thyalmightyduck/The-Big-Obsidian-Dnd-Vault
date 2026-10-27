@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Eldritch Ire
 
 Ring, Rare (Requires Attunement By a Warlock)

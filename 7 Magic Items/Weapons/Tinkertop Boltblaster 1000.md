@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tinkertop Boltblaster 1000
 
 Weapon (*Hand Crossbow*), Very Rare (Requires Attunement), Martial Weapon, Ranged Weapon, 3 lb.

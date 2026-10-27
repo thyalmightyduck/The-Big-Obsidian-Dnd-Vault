@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dried Leech
 
 Ammunition, Generic Variant, Uncommon

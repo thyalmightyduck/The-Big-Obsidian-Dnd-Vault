@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Storm Sickle
 
 Weapon (*Sickle*), Rare, Simple Weapon, Melee Weapon, 2 lb.

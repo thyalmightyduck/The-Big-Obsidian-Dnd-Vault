@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Budding Blossom Rod
 
 Rod, Uncommon (Requires Attunement By a Spellcaster)

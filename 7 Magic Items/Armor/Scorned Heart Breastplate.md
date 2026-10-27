@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scorned Heart Breastplate
 
 Medium Armor (*Breastplate*), Rare (Requires Attunement), Major Tier, 20 lb.

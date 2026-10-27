@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Infernal Chain
 
 Weapon (*Flail*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 10 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Eldritch Claw Tattoo
 
 Wondrous Item (Tattoo), Uncommon (Requires Attunement)

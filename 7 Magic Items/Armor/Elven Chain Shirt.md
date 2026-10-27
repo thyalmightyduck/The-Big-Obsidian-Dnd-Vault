@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
   - DMG24
 ---
 [[Heavy Armor]] ([[Chain Mail]]), Rare

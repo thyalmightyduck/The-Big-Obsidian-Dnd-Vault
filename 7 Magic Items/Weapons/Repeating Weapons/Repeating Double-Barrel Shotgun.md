@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 _Uncommon (Requires [[Attunement]])_
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm

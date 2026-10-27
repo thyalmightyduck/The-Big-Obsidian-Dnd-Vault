@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Yellow Harbinger's Path
 
 Generic Variant, Very Rare (Requires Attunement By a Creature with a Dexterity Score of 17 or Higher), Major Tier

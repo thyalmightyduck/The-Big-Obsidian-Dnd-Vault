@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Light Tommybow (4)]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing Simple Weapon, Ranged Weapon

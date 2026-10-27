@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of the Crimson Abbot (Rare)
 
 Weapon (*Longsword*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

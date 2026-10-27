@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Absorption
 
 Rod, Very Rare (Requires Attunement), 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imp Potion of Fire Resistance
 
 Potion, Uncommon, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Direstone Runic Wand
 
 Wand, Rare (Requires Attunement By a Spellcaster), Major Tier, 1 lb.

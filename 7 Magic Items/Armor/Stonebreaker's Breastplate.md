@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stonebreaker's Breastplate
 
 Medium Armor (*Breastplate*), Legendary (Requires Attunement), 20 lb.

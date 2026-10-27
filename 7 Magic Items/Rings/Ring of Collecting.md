@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Collecting
 
 Ring, Very Rare (Requires Attunement)

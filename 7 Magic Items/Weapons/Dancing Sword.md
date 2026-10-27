@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dancing Sword
 
 Generic Variant, Very Rare (Requires Attunement)

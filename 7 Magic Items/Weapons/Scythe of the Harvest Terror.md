@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scythe of the Harvest Terror
 
 Weapon (*Halberd*), Generic Variant (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

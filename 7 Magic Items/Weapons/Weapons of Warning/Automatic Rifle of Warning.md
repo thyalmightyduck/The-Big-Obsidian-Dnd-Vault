@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Automatic Rifle]], Uncommon (Requires Attunement)*
 **Weapon:** 2d8 Piercing Modern, Martial Weapon, Ranged Weapon, Firearm

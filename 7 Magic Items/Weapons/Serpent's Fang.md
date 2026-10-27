@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Serpent's Fang
 
 Weapon (*Longsword*), Rare, Martial Weapon, Melee Weapon, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rocborne Rod
 
 Rod, Rare (Requires Attunement)

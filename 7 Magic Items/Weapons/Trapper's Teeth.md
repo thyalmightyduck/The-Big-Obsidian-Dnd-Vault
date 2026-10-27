@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trapper's Teeth
 
 Weapon (*Steel Jaws*), Rare (Requires Attunement By a Worg), Martial Weapon, Melee Weapon, 2 lb.

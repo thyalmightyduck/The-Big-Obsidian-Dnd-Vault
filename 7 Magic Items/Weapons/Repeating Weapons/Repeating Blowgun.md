@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 _Uncommon (Requires [[Attunement]])_
 **Weapon:** 1 Piercing Martial Weapon, Ranged Weapon

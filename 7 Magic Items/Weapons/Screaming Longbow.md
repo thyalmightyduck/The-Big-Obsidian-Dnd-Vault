@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Screaming Longbow
 
 Weapon (*Longbow*), Rare (Requires Attunement), Martial Weapon, Ranged Weapon, 2 lb.

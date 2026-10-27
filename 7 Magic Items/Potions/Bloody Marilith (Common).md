@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloody Marilith (Common)
 
 Potion, Common, Minor Tier

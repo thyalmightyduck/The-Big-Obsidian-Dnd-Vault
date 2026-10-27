@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Longspike
 
 Weapon (*Rapier*) (Attunement Optional), Martial Weapon, Melee Weapon, 2 lb.

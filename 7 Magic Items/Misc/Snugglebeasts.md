@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Snugglebeasts
 
 Wondrous Item, Generic Variant

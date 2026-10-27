@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### True-Ice Shards (Rapier)
 
 Weapon, Artifact (Requires Attunement), Martial Weapon, Melee Weapon

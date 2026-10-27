@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bird's-Eye Bolt
 
 Generic Variant, Common, Minor Tier

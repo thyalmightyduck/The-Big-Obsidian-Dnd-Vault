@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Inexhaustible Armor
 
 Generic Variant, Very Rare (Requires Attunement By a Fighter)

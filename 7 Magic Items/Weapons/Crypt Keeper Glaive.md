@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Crypt Keeper Glaive
 
 Weapon (*Glaive*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

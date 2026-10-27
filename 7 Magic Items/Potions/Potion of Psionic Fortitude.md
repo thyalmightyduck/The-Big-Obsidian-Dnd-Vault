@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Psionic Fortitude
 
 Potion, Uncommon

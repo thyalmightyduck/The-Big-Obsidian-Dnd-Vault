@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloody Marilith
 
 Potion, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Runestone of the Wild Titan
 
 Wondrous Item, Generic Variant (Requires Attunement), 50 lb.

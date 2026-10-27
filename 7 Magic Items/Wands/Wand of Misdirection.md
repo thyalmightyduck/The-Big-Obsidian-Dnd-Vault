@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Misdirection
 
 Wand, Rare (Requires Attunement By a Spellcaster)

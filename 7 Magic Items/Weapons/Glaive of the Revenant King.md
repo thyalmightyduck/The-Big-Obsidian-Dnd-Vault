@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Glaive of the Revenant King
 
 Weapon (*Glaive*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

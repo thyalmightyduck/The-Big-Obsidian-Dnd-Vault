@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Paralyzing Bolt
 
 Ammunition, Generic Variant, Uncommon

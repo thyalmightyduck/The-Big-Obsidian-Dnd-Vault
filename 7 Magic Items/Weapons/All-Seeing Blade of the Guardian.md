@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### All-Seeing Blade of the Guardian
 
 Generic Variant, Legendary (Requires Attunement)

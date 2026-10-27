@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Prototype Thunderberd
 
 Weapon (*Halberd*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

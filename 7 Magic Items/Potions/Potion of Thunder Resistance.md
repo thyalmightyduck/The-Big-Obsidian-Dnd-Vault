@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Thunder Resistance
 
 Potion, Uncommon, ½ lb.

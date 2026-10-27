@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Defender
 
 Generic Variant, Legendary (Requires Attunement)

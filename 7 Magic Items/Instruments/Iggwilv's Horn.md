@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Iggwilv's Horn
 
 Wondrous Item, Instrument (*Horn*), Rare (Requires Attunement)

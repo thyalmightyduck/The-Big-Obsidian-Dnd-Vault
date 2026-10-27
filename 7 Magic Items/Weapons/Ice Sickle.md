@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ice Sickle
 
 Weapon (*Sickle*), Uncommon, Simple Weapon, Melee Weapon, 2 lb.

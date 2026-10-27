@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Siege Staff
 
 Staff, Weapon (*Quarterstaff*), Rare (Requires Attunement By a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

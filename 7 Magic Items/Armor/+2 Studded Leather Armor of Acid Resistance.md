@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Studded Leather Armor of Acid Resistance
 
 Light Armor (Requires Attunement), Major Tier, 13 lb.

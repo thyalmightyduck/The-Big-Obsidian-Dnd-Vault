@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Hidden Desire
 
 Ring, Uncommon

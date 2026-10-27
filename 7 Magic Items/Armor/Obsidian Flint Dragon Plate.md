@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Obsidian Flint Dragon Plate
 
 Heavy Armor (*Plate Armor*), Legendary, 65 lb.

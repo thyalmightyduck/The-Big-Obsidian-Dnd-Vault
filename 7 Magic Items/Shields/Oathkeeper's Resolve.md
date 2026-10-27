@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Oathkeeper's Resolve
 
 Armor (*Shield*), Very Rare (Requires Attunement By a Paladin), Major Tier, 2 lb.

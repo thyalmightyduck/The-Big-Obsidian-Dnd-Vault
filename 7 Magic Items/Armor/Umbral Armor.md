@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Umbral Armor
 
 Generic Variant, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Camper's Respite
 
 Rod, Uncommon, Minor Tier, 3 lb.

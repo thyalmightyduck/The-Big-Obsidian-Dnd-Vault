@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Suncatcher
 
 Generic Variant (Requires Attunement By a Spellcaster)

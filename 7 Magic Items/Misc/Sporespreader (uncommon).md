@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sporespreader (uncommon)
 
 Generic Variant, Uncommon (Requires Attunement By a Spellcaster)

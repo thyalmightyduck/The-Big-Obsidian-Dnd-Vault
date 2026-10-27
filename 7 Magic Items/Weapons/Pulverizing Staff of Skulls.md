@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pulverizing Staff of Skulls
 
 Staff, Weapon (*Quarterstaff*), Very Rare (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 4 lb.

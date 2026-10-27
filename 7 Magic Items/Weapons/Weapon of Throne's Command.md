@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weapon of Throne's Command
 
 Generic Variant, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Demon Armor
 
 Generic Variant, Very Rare (Requires Attunement)

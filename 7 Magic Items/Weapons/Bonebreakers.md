@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bonebreakers
 
 Weapon (*Brass Knuckles*), Legendary (Requires Attunement By a Pugilist), Simple Weapon, Melee Weapon

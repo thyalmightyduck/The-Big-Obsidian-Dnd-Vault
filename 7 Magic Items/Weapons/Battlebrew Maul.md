@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Battlebrew Maul
 
 Weapon (*Maul*), Rare, Martial Weapon, Melee Weapon, 10 lb.

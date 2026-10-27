@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starshot Crossbow
 
 Generic Variant, Rare (Requires Attunement)

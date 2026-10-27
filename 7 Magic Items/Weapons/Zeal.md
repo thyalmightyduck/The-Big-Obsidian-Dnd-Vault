@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Zeal
 
 Melee Weapon (*Warhammer*), Artifact (Requires Attunement)

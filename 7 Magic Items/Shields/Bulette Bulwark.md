@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bulette Bulwark
 
 Shield (*Shield*), Uncommon (Requires Attunement), Major Tier, 6 lb.

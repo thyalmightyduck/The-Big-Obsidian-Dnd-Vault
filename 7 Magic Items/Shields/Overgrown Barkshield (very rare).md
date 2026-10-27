@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Overgrown Barkshield (very rare)
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

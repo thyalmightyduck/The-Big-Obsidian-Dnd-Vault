@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Freerunner's Armor
 
 Generic Variant, Common, Minor Tier

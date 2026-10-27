@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spider Staff
 
 Staff, Weapon, Rare (Requires Attunement By a Bard, Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, 4 lb.

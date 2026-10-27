@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shatterspike
 
 Weapon (*Longsword*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

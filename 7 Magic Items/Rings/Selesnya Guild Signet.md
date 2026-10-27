@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Selesnya Guild Signet
 
 Ring, Uncommon (Requires Attunement)

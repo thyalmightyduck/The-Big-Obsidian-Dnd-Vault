@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### True-Ice Shards
 
 Melee Weapon, Artifact (Requires Attunement)

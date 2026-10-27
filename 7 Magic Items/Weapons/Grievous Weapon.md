@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Grievous Weapon
 
 Generic Variant

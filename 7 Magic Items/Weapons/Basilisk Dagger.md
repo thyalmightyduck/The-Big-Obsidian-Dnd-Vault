@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Basilisk Dagger
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

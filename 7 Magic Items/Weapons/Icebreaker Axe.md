@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Icebreaker Axe
 
 Generic Variant, Rare

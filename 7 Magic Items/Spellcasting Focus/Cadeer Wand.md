@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cadeer Wand
 
 Spellcasting Focus, 75 GP

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sunforger
 
 Weapon (*Warhammer*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

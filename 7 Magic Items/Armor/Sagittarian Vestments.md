@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sagittarian Vestments
 
 Generic Variant, Uncommon (Requires Attunement By a Cleric or Paladin), Major Tier

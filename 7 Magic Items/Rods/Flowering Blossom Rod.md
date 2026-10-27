@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flowering Blossom Rod
 
 Rod, Rare (Requires Attunement By a Spellcaster)

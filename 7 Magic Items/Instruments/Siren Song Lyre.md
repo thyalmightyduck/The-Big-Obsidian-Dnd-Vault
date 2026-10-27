@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Siren Song Lyre
 
 Wondrous Item, Instrument (*Lyre*), Rare (Requires Attunement)

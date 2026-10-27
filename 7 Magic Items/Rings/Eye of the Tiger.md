@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Eye of the Tiger
 
 Ring

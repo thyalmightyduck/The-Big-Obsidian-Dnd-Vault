@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 Generic Variant, Uncommon (Requires Attunement)
 - - - 

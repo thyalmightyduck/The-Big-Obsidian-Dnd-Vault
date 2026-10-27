@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Mind Control (humanoid)
 
 Potion, Rare

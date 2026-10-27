@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Snaerispear]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Piercing Simple Weapon, Melee Weapon

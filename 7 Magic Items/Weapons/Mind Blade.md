@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mind Blade
 
 Generic Variant, Rare (Requires Attunement By a Specific Individual)

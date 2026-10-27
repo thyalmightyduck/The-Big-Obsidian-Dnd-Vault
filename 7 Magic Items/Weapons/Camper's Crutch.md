@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Camper's Crutch
 
 Weapon (*Mace*), Common, Simple Weapon, Melee Weapon, Minor Tier, 4 lb.

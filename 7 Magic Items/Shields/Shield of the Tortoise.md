@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of the Tortoise
 
 Shield (*Shield*), Uncommon (Requires Attunement), 6 lb.

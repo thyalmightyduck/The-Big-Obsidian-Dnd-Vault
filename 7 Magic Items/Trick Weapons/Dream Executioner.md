@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dream Executioner
 
 Trick Weapon, Rare (Requires Attunement)

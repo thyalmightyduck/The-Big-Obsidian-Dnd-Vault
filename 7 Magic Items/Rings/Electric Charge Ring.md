@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Electric Charge Ring
 
 Ring, Rare

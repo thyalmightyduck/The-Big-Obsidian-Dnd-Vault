@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hour and Minute
 
 Melee Weapon (*Dagger*), Very Rare (Requires Attunement), Major Tier

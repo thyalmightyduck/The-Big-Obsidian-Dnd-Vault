@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Fernian Ash)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

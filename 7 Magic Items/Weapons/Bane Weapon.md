@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bane Weapon
 
 Generic Variant, Rare (Requires Attunement)

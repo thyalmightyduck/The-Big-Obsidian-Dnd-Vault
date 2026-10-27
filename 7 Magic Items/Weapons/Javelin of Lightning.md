@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Javelin of Lightning
 
 Weapon (*Javelin*), Uncommon, Simple Weapon, Melee Weapon, 2 lb.

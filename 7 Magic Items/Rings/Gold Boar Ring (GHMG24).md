@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gold Boar Ring
 
 Ring, Uncommon

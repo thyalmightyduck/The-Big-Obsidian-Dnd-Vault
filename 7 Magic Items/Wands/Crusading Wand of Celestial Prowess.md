@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Crusading Wand of Celestial Prowess
 
 Wand, Rare (Requires Attunement By a Spellcaster), 1 lb.

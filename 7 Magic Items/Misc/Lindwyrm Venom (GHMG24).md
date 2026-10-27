@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lindwyrm Venom
 
 Potion, Poison (Ingested or Injury), Very Rare

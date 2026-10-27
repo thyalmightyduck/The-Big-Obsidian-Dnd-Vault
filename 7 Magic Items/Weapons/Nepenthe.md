@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nepenthe
 
 Weapon (*Longsword*), Legendary (Requires Attunement By a Paladin), Martial Weapon, Melee Weapon, 3 lb.

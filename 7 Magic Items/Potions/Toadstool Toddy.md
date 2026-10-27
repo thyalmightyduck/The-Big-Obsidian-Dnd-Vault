@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Toadstool Toddy
 
 Potion, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Retribution
 
 Rod, Uncommon (Requires Attunement), 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wakened Dragon's Wrath Weapon
 
 Generic Variant, Very Rare (Requires Attunement)

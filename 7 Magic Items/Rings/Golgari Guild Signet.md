@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Golgari Guild Signet
 
 Ring, Uncommon (Requires Attunement)

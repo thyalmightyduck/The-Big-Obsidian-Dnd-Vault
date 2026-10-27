@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Moonsteel Weapon
 
 Generic Variant, Rare

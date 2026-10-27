@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Yggdrasil's Tap
 
 Weapon (*Punch Knife*), Rare, Simple Weapon, Melee Weapon

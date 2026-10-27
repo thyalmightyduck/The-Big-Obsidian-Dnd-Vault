@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hammer of Chaos
 
 Generic Variant, Legendary (Requires Attunement)

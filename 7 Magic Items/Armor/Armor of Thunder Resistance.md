@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Thunder Resistance
 
 Generic Variant, Rare (Requires Attunement)

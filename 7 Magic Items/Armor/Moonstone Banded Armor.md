@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Moonstone Banded Armor
 
 Generic Variant, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of Grass
 
 Generic Variant, Uncommon (Requires Attunement By a Druid or Cleric)

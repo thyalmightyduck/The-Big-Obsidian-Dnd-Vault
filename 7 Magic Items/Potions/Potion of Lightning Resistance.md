@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Lightning Resistance
 
 Potion, Uncommon, ½ lb.

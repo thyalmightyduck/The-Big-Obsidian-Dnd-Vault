@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wind and Whirl
 
 Weapon (*Scimitar*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 3 lb.

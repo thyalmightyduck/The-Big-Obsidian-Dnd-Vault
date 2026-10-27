@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Red Wizard Blade
 
 Weapon (*Dagger*), Legendary, Simple Weapon, Melee Weapon, 1 lb.

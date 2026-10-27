@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pair of Tiny Violin Rings
 
 Ring, Common

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruidium Armor
 
 Generic Variant, Very Rare (Requires Attunement)

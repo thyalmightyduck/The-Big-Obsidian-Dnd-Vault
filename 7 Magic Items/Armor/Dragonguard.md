@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragonguard
 
 Medium Armor (*Breastplate*), Rare, 20 lb.

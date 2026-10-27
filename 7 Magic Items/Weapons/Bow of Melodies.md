@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bow of Melodies
 
 Generic Variant, Very Rare (Requires Attunement)

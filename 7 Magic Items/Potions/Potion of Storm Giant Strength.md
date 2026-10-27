@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Storm Giant Strength
 
 Potion, Legendary, ½ lb.

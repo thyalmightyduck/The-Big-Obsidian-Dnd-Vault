@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blunderbuss of the Grinning Sinner (Rare)
 
 Weapon (*Musket*), Rare (Requires Attunement), Martial Weapon, Ranged Weapon, Firearm, 10 lb.

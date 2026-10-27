@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Yklwa]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Simple Weapon, Melee Weapon

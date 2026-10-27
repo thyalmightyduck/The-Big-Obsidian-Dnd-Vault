@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gloomwrought Armor
 
 Generic Variant, Rare (Requires Attunement)

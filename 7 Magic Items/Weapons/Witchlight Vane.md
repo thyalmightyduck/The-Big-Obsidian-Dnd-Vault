@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Witchlight Vane
 
 Melee Weapon (*Mace*), Legendary (Requires Attunement By a Mister Light or His Handpicked Successor), 3 lb.

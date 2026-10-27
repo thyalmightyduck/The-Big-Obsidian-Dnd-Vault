@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Corrupted Tusk-Dagger
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

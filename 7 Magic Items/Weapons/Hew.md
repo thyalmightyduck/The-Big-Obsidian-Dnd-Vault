@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hew
 
 Weapon (*Battleaxe*), Uncommon, Martial Weapon, Melee Weapon, 4 lb.

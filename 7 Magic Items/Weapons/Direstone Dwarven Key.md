@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Direstone Dwarven Key
 
 Weapon (*Handaxe*), Uncommon (Requires Attunement By a Dwarf), Simple Weapon, Melee Weapon, Major Tier, 2 lb.

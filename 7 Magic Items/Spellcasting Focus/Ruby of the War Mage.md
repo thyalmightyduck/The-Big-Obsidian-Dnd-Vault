@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruby of the War Mage
 
 Wondrous Item, Spellcasting Focus, Common (Requires Attunement By a Spellcaster)

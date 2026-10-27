@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Malleus Macabre
 
 Weapon (*Greatclub*), Very Rare (Requires Attunement By a Fighter or Barbarian), Simple Weapon, Melee Weapon, 10 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Solar's Sight
 
 Ring, Rare (Requires Attunement), Major Tier

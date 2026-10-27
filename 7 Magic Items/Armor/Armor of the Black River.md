@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of the Black River
 
 Generic Variant, Rare (Requires Attunement)

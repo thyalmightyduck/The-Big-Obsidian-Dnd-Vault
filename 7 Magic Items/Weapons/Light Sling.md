@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Light Sling
 
 Weapon (*Sling*), Common, Simple Weapon, Ranged Weapon, Minor Tier

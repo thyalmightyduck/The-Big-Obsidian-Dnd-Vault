@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scepter of Faith
 
 Rod, Very Rare (Requires Attunement By a Cleric), Major Tier

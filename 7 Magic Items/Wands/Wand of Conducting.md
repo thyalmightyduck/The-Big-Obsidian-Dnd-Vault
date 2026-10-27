@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Conducting
 
 Wand, Common, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Magic Detection
 
 Wand, Uncommon, 1 lb.

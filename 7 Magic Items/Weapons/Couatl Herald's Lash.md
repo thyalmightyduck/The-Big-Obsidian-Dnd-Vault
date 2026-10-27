@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Couatl Herald's Lash
 
 Weapon (*Whip*), Rare (Requires Attunement By a Creature of Good Alignment), Martial Weapon, Melee Weapon, 3 lb.

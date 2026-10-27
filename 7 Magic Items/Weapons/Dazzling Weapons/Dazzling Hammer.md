@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Hammer]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning [[Simple Weapon]], [[Melee Weapon]]

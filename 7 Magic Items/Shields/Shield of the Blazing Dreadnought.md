@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of the Blazing Dreadnought
 
 Shield (*Shield*), Legendary (Requires Attunement), 6 lb.

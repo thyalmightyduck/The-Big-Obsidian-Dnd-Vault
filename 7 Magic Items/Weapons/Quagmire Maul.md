@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quagmire Maul
 
 Weapon (*Maul*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 10 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Orator
 
 Ring, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Honey of the Sacred Bear
 
 Potion, Rare

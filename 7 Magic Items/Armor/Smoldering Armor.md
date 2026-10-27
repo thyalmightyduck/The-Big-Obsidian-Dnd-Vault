@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Smoldering Armor
 
 Generic Variant, Common

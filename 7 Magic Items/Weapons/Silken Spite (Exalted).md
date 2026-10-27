@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silken Spite (Exalted)
 
 Weapon (*Rapier*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

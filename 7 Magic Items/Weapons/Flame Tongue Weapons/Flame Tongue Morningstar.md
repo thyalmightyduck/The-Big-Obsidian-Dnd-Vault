@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 **Weapon:** 1d8 Piercing, Martial Weapon, Melee Weapon
 15 GP, 4 lb.

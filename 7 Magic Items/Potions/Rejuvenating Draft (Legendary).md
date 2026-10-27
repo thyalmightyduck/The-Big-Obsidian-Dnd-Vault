@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rejuvenating Draft (Legendary)
 
 Potion, Legendary, Minor Tier

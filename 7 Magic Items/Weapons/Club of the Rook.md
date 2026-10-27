@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Club of the Rook
 
 Weapon (*Club*), Uncommon, Simple Weapon, Melee Weapon, Major Tier, 2 lb.

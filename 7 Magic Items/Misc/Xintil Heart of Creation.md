@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 # Xintil Heart of Creation
 > [!infobox]

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tools of the Master
 
 Artisan's Tools (Requires Attunement By a Character Proficient with the Tool)

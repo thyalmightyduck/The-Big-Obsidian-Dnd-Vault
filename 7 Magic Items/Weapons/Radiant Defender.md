@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Radiant Defender
 
 Weapon (*Maul*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 10 lb.

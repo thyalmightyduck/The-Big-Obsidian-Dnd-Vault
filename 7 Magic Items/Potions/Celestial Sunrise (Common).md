@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Celestial Sunrise (Common)
 
 Potion, Common, Minor Tier

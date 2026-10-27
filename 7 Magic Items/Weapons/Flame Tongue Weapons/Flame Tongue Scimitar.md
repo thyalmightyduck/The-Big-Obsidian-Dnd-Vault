@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Scimitar]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing Martial Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Feywatch Shield
 
 Shield (*Shield*), Uncommon, Major Tier, 6 lb.

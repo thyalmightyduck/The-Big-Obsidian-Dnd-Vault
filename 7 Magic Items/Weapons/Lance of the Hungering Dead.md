@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lance of the Hungering Dead
 
 Weapon (*Lance*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

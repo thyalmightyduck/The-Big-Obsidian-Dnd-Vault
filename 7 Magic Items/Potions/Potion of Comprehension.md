@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Comprehension
 
 Potion, Common, ½ lb.

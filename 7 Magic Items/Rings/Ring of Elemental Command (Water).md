@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Elemental Command (Water)
 
 Ring, Legendary (Requires Attunement)

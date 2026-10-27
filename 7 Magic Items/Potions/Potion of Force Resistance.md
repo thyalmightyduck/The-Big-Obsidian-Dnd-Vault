@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Force Resistance
 
 Potion, Uncommon, ½ lb.

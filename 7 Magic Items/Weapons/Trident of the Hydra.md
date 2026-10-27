@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trident of the Hydra
 
 Weapon (*Trident*), Rare, Martial Weapon, Melee Weapon, 4 lb.

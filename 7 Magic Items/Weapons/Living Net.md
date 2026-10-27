@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Living Net
 
 Weapon (*Net*), Uncommon, Martial Weapon, Ranged Weapon, 3 lb.

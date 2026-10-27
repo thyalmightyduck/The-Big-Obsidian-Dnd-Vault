@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Plate Armor of Etherealness (*)
 
 Generic Variant, Legendary (Requires Attunement)

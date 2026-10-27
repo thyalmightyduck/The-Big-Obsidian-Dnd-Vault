@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Windvane
 
 Weapon (*Spear*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 3 lb.

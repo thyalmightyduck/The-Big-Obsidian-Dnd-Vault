@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weapon of Verdict
 
 Generic Variant, Uncommon (Requires Attunement By a Creature of Good Alignment), Major Tier

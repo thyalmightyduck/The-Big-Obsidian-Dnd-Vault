@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gurt's Greataxe
 
 Weapon (*Greataxe*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 325 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Fungal Spores
 
 Generic Variant, Uncommon

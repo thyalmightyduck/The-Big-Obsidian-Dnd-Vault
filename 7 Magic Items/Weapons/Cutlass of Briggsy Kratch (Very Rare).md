@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cutlass of Briggsy Kratch (Very Rare)
 
 Weapon (*Scimitar*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

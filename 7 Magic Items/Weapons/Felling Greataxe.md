@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Felling Greataxe
 
 Weapon (*Greataxe*), Uncommon, Martial Weapon, Melee Weapon, Major Tier, 7 lb.

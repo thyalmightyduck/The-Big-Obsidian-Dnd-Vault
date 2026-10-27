@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orostead Iced Tea (Common)
 
 Potion, Common, Minor Tier

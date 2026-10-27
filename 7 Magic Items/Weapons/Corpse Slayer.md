@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Corpse Slayer
 
 Generic Variant, Rare (Requires Attunement)

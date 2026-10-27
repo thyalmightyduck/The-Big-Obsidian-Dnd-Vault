@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ink's Aide
 
 Wondrous Item, Symbiont, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wing Crest Shield
 
 Wondrous Item, Armor (*Shield*), Uncommon (Requires Attunement)

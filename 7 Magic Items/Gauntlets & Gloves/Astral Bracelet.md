@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Astral Bracelet
 
 Wondrous Item, Generic Variant, Very Rare

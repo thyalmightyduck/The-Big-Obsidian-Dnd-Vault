@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +1 Chain Mail of Acid Resistance
 
 Heavy Armor, Rare (Requires Attunement), Major Tier, 55 lb.

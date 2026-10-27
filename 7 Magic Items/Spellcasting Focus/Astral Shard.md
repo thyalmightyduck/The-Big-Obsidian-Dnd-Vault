@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Astral Shard
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Sorcerer), 1 lb.

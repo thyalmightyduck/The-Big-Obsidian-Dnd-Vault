@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Uncommon*
 **Weapon:** 1d6 Piercing [[Simple Weapons]], [[Melee Weapons]]

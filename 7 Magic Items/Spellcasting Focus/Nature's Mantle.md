@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nature's Mantle
 
 Wondrous Item, Spellcasting Focus, Uncommon (Requires Attunement By a Druid or Ranger)

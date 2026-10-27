@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Laekning Shield
 
 Shield (*Shield*), Uncommon, 6 lb.

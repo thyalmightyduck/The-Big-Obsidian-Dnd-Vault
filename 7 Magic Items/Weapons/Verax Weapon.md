@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Verax Weapon
 
 Generic Variant, Rare, Major Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Slimeforged Blade
 
 Weapon (*Greatsword*), Very Rare, Martial Weapon, Melee Weapon, 6 lb.

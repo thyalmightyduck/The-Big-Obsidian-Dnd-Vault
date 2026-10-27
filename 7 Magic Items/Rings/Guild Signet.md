@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Guild Signet
 
 Ring, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Honey of the Skald's Tongue
 
 Potion, Rare

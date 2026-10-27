@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ravenflight Axe
 
 Weapon (*Handaxe*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

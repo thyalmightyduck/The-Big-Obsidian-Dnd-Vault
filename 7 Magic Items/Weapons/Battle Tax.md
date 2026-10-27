@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Battle Tax
 
 Weapon (*Battleaxe*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

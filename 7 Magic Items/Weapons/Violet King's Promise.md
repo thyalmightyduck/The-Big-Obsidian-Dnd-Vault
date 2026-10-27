@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Violet King's Promise
 
 Weapon (*Rapier*), Legendary (Requires Attunement By a Bard, Cleric, Paladin, or Ranger), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

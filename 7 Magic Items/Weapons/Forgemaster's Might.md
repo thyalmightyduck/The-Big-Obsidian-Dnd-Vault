@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Forgemaster's Might
 
 Generic Variant, Legendary (Requires Attunement)

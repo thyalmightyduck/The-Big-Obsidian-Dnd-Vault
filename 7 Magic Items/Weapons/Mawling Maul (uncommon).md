@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mawling Maul (uncommon)
 
 Melee Weapon, Uncommon

@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Double Bladed Scimitar]], Uncommon*
 **Weapon:** 2d4 Slashing, Martial Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding
 
 Wondrous Item, Spellcasting Focus, Common (Requires Attunement), 3 lb.

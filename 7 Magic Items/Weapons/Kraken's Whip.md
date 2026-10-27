@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Kraken's Whip
 
 Weapon (*Whip*), Uncommon, Martial Weapon, Melee Weapon, 3 lb.

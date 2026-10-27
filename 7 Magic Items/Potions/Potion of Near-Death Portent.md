@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Near-Death Portent
 
 Potion, Very Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trident of the Dryad
 
 Weapon (*Trident*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

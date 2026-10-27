@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tramontane Armor
 
 Generic Variant, Very Rare (Requires Attunement)

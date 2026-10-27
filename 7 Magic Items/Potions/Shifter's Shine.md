@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shifter's Shine
 
 Potion, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Purging Rod
 
 Rod, Uncommon

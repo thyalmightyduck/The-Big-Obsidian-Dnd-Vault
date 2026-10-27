@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Gladiator Net]], Uncommon*
 **Weapon:** 1d6 Bludgeoning, Advanced Weapon, Melee Weapon

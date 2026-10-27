@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wine of the Winter Court
 
 Potion, Uncommon

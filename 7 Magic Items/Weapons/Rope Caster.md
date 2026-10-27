@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rope Caster
 
 Weapon (*Hand Crossbow*), Common, Martial Weapon, Ranged Weapon, Minor Tier, 3 lb.

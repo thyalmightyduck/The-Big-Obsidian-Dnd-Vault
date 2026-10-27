@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Soul-Searing Scythe
 
 Weapon (*Halberd*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

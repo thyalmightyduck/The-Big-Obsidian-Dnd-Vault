@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Greatsword]], Uncommon*
 **Weapon:** 2d6 Slashing, [[Martial Weapons]], [[Melee Weapons]] 

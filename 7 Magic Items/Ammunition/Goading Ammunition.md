@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Goading Ammunition
 
 Ammunition, Generic Variant, Uncommon

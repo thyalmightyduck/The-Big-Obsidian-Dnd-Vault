@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Baton of Many Sizes
 
 Rod, Uncommon

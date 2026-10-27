@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heaven's Edge
 
 Weapon (*Dagger*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 1 lb.

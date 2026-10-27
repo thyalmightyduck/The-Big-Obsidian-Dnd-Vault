@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Honey of Robust Health
 
 Potion, Common

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tooth of the Jinxed Leviathan (Very Rare)
 
 Weapon (*Dagger*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

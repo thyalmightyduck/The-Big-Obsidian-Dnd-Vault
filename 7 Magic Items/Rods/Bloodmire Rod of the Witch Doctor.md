@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodmire Rod of the Witch Doctor
 
 Rod, Rare (Requires Attunement By a Cleric, Druid, Paladin, or Warlock), Major Tier

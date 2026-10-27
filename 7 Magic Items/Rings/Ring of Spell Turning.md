@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Spell Turning
 
 Ring, Legendary (Requires Attunement)

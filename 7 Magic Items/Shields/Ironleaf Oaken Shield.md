@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ironleaf Oaken Shield
 
 Shield (*Shield*), Uncommon (Requires Attunement By a Druid), 6 lb.

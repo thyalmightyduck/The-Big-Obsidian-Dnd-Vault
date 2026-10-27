@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gleam of Terror Weapon
 
 Generic Variant

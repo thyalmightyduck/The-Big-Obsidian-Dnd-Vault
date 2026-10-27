@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Astromancy Archive
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Wizard), 3 lb.

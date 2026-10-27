@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Skysail
 
 Wondrous Item, Weapon (*Quarterstaff*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

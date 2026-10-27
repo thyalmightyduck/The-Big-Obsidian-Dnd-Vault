@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arrow of Ice-Trapping
 
 Ammunition (*Arrow*), Rare, 0.8 oz.

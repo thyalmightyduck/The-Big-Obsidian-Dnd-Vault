@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hellfire Pitchfork
 
 Weapon (*Trident*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 10 lb.

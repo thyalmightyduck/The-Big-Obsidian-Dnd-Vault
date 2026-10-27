@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scorpion Armor
 
 Heavy Armor, Rare (Requires Attunement), 65 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dämglesvir (Adept)
 
 Melee Weapon (*Longsword*), Artifact (Requires Attunement)

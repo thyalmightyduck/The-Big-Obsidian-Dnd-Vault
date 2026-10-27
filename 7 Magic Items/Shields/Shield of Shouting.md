@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Shouting
 
 Armor (*Shield*), 6 lb.

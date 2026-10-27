@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Warmth
 
 Ring, Uncommon (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fire Fire!
 
 Weapon (*Light Crossbow*), Rare (Requires Attunement), Simple Weapon, Ranged Weapon, 5 lb.

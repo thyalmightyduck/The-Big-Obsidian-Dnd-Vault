@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bow of the Cobra
 
 Generic Variant, Rare (Requires Attunement), Major Tier

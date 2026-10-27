@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Condemner (Exalted)
 
 Weapon (*Heavy Crossbow*), Legendary (Requires Attunement), Martial Weapon, Ranged Weapon, 18 lb.

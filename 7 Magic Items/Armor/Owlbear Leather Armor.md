@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Owlbear Leather Armor
 
 Light Armor (*Leather Armor*), Uncommon (Requires Attunement), Major Tier, 10 lb.

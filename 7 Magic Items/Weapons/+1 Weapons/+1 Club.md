@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon ([[Club]]), Uncommon*
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon

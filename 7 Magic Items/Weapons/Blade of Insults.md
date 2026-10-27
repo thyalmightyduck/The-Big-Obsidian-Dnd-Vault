@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of Insults
 
 Generic Variant, Rare (Requires Attunement By a Bard)

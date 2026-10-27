@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### War Horn of Valor
 
 Wondrous Item, Instrument (*Horn*), Rare

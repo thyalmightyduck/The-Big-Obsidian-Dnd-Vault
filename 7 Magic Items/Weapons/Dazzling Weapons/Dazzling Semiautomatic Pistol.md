@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Semiautomatic Pistol]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Modern, Martial Weapon, Ranged Weapon, Firearm

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruidium Weapon
 
 Generic Variant, Very Rare (Requires Attunement)

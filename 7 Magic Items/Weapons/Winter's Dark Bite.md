@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Winter's Dark Bite
 
 Weapon (*Greatsword*), Uncommon, Martial Weapon, Melee Weapon, 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Talking Wand
 
 Wand, Common

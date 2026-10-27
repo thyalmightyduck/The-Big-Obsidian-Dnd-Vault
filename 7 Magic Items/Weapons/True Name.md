@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### True Name
 
 Generic Variant, Uncommon (Requires Attunement By a Illrigger)

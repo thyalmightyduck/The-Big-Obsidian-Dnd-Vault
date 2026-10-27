@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blight Armor
 
 Generic Variant

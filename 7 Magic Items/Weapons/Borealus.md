@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Borealus
 
 Staff, Weapon, Artifact (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier

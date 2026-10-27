@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Demonbone Polearm
 
 Generic Variant, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gelatinous Whip
 
 Weapon (*Whip*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 3 lb.

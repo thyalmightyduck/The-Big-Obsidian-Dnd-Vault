@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Charming
 
 Staff, Weapon, Rare (Requires Attunement By a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, 4 lb.

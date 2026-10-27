@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silver Eagle Studded Cuirass
 
 Light Armor (*Studded Leather Armor*), Uncommon (Requires Attunement), Major Tier, 13 lb.

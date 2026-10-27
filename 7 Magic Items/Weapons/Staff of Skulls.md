@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Skulls
 
 Staff, Weapon (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 4 lb.

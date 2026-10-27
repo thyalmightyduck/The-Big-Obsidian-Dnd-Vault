@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mind Lash
 
 Melee Weapon, Rare (Requires Attunement By a Mind Flayer), 3 lb.

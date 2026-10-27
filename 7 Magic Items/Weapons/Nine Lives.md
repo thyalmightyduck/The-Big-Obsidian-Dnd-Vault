@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nine Lives
 
 Weapon (*Longsword*), Rare (Requires Attunement True), Martial Weapon, Melee Weapon, 3 lb.

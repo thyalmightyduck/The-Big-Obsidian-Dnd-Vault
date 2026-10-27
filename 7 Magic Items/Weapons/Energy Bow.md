@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Energy Bow
 
 Generic Variant, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Macuahuitl
 
 Weapon (*Longsword*), Martial Weapon, Melee Weapon, 3 lb.

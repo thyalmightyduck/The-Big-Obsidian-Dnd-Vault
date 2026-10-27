@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silverwind, the Cleansing Breeze
 
 Weapon (*Longsword*), Artifact, Martial Weapon, Melee Weapon, Major Tier, 3 lb.

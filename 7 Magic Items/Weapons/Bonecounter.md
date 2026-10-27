@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bonecounter
 
 Weapon (*Mace*), Rare, Simple Weapon, Melee Weapon, 4 lb.

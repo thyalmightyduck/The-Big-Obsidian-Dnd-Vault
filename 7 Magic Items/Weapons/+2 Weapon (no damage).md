@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Weapon (no damage)
 
 Generic Variant, Rare, Major Tier

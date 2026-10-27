@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Haemstrike
 
 Melee Weapon (Attunement Optional)

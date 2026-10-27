@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Leather Golem Armor
 
 Light Armor (*Leather Armor*), Rare (Requires Attunement), 10 lb.

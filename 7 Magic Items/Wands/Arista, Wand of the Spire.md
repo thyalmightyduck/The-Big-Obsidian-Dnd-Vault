@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arista, Wand of the Spire
 
 Wand, Artifact (Requires Attunement By a Spellcaster), Major Tier

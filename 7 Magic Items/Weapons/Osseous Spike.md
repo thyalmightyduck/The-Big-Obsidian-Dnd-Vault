@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Osseous Spike
 
 Weapon (*Lance*) (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

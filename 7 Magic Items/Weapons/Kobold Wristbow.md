@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Kobold Wristbow
 
 Weapon (*Hand Crossbow*), Common (Requires Attunement), Martial Weapon, Ranged Weapon, 3 lb.

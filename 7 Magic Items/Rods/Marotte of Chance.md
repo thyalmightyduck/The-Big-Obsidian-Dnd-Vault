@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Marotte of Chance
 
 Rod, Spellcasting Focus, Uncommon (Requires Attunement By a Luma)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Jaw Breakers (rare)
 
 Melee Weapon, Rare (Attunement Optional)

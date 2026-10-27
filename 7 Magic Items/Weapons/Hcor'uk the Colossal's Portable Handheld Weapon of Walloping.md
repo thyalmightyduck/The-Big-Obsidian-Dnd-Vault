@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hcor'uk the Colossal's Portable Handheld Weapon of Walloping
 
 Weapon (*Flail*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 200 lb.

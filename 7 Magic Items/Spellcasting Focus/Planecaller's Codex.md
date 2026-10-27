@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Planecaller's Codex
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Wizard), 3 lb.

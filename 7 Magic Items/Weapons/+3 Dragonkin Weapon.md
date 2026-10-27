@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Dragonkin Weapon
 
 Generic Variant, Legendary (Requires Attunement By a Dragonborn)

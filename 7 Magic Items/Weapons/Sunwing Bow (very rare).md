@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sunwing Bow (very rare)
 
 Ranged Weapon, Very Rare (Attunement Optional)

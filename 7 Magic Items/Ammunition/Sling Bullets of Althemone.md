@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sling Bullets of Althemone
 
 Ammunition, Very Rare

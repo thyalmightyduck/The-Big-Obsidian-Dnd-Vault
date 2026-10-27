@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Crimson Blade
 
 Generic Variant, Very Rare (Requires Attunement)

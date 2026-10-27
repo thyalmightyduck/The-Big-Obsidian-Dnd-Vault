@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Resistant Blade of the Guardian
 
 Generic Variant, Very Rare (Requires Attunement)

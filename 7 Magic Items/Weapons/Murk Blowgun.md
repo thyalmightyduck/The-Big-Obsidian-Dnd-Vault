@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Murk Blowgun
 
 Weapon (*Blowgun*), Uncommon, Martial Weapon, Ranged Weapon, Major Tier, 1 lb.

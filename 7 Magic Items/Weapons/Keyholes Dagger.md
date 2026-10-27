@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Keyholes Dagger
 
 Weapon (*Dagger*) (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Succulent Water of Life
 
 Potion, Rare

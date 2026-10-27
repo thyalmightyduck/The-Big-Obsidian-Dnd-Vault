@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ghost Armor
 
 Generic Variant, Rare (Requires Attunement)

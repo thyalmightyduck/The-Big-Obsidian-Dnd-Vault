@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Hooked Shortspear]], Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Piercing, Martial Weapon, Melee Weapon

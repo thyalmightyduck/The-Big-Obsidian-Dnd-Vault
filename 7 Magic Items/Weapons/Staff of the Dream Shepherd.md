@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Dream Shepherd
 
 Staff, Weapon (*Quarterstaff*), Uncommon (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Zephyr Armor
 
 Generic Variant, Rare (Requires Attunement)

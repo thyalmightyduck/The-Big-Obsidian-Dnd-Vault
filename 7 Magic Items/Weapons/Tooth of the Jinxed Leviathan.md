@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tooth of the Jinxed Leviathan
 
 Weapon (*Dagger*), Generic Variant (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

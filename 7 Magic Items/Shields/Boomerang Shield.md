@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Boomerang Shield
 
 Shield (*Shield*), Uncommon (Requires Attunement), 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Battlement Bow
 
 Generic Variant, Uncommon (Requires Attunement)

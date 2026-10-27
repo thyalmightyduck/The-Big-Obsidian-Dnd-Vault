@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Frostbite
 
 Wand, Rare (Requires Attunement By a Spellcaster)

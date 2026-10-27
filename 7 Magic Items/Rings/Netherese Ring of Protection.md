@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Netherese Ring of Protection
 
 Ring, Rare (Requires Attunement)

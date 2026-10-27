@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Armor
 
 Generic Variant, Very Rare

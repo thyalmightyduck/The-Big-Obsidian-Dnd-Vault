@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Club of Unconsciousness
 
 Generic Variant, Rare (Requires Attunement)

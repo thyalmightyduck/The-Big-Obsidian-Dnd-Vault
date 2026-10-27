@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Necrotic Resistance
 
 Generic Variant, Rare (Requires Attunement)

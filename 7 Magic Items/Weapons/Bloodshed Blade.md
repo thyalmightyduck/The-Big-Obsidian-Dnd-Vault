@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodshed Blade
 
 Generic Variant, Very Rare (Requires Attunement)

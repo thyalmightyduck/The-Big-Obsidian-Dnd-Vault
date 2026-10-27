@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Devotee's Censer
 
 Weapon (*Flail*), Rare (Requires Attunement By a Cleric or Paladin), Martial Weapon, Melee Weapon, 2 lb.

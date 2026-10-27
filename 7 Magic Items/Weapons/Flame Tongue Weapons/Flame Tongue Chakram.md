@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Chakram]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing Advanced Weapon, Melee Weapon

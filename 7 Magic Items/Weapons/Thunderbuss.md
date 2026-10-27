@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Thunderbuss
 
 Weapon (*Pistol*), Very Rare, Renaissance, Martial Weapon, Ranged Weapon, Firearm, 3 lb.

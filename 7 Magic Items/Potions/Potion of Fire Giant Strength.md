@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Fire Giant Strength
 
 Potion, Rare, ½ lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hushed Ring
 
 Ring, Uncommon (Requires Attunement), Major Tier

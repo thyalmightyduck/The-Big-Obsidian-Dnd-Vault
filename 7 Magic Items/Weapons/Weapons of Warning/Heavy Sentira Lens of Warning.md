@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Heavy Sentira Lens]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Psychic Martial Weapon, Ranged Weapon

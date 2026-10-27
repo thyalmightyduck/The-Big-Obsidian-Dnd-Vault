@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Monsterbane Lasher
 
 Weapon (*Whip*), Very Rare, Martial Weapon, Melee Weapon, 3 lb.

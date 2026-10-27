@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of Broken Mirrors (Awakened)
 
 Weapon (*Dagger*), Artifact (Requires Attunement By a Humanoid), Simple Weapon, Melee Weapon, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Plate of the Dawnmartyr (Awakened)
 
 Heavy Armor (*Plate Armor*), Legendary (Requires Attunement), 65 lb.

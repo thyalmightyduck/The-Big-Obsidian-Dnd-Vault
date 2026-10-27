@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of the Poltergeist
 
 Wand, Very Rare (Requires Attunement By a Spellcaster)

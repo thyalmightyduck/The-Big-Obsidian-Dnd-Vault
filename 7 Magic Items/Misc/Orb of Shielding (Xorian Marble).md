@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Xorian Marble)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

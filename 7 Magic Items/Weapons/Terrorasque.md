@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Terrorasque
 
 Melee Weapon (Requires Attunement)

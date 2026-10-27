@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sun Blade
 
 Weapon (*Longsword*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

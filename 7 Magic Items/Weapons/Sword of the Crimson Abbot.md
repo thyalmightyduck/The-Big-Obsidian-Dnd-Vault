@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of the Crimson Abbot
 
 Weapon (*Longsword*), Generic Variant (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

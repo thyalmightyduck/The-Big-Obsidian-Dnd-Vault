@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Studious Blade of the Guardian
 
 Generic Variant, Rare (Requires Attunement)

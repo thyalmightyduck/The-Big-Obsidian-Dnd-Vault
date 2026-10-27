@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of the Wood
 
 Generic Variant, Rare (Requires Attunement)

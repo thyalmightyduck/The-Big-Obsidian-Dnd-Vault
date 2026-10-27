@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lash of Shadows (Exalted)
 
 Weapon (*Whip*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

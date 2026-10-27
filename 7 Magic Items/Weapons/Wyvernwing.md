@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wyvernwing
 
 Weapon (*Greatsword*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

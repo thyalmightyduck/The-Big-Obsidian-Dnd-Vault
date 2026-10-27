@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sylvan Talon
 
 Generic Variant, Common (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Luminescence Weapon
 
 Generic Variant

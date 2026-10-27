@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Dart]], Uncommon*
 **Weapon:** 1d4 Piercing Simple Weapon, Ranged Weapon

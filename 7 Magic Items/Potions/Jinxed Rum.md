@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Jinxed Rum
 
 Potion, Uncommon

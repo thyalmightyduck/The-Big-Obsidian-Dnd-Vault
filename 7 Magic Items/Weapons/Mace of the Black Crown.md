@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mace of the Black Crown
 
 Weapon (*Mace*), Artifact (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

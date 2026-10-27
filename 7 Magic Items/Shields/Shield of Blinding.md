@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Blinding
 
 Shield (*Shield*), Uncommon, 6 lb.

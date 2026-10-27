@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Hand Tommybow (6)]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Piercing Martial Weapon, Ranged Weapon

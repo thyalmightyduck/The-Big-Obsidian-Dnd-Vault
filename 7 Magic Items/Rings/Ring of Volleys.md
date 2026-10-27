@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Volleys
 
 Ring, Uncommon, Major Tier

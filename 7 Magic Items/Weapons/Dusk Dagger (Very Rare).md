@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dusk Dagger (Very Rare)
 
 Weapon (*Dagger*), Very Rare, Simple Weapon, Melee Weapon, Major Tier, 1 lb.

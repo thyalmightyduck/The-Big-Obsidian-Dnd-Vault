@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Voltedge
 
 Generic Variant, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Philter of Righteous Anger
 
 Potion, Uncommon

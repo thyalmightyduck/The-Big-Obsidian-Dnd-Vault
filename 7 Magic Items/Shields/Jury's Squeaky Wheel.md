@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Jury's Squeaky Wheel
 
 Shield (*Shield*), Uncommon (Requires Attunement), 6 lb.

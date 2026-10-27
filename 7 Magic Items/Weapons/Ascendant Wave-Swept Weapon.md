@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ascendant Wave-Swept Weapon
 
 Generic Variant, Very Rare (Requires Attunement)

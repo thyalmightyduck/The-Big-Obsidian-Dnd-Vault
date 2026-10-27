@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dispelling Ammunition
 
 Ammunition, Generic Variant, Uncommon

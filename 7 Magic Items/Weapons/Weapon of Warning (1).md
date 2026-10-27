@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weapon of Warning
 
 Generic Variant, Uncommon (Requires Attunement)

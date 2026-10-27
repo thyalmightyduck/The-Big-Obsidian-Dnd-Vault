@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ornithogalum Dragon Elixir
 
 Potion, Rare

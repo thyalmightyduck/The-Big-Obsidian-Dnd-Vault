@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wavebender's Leiomano
 
 Weapon (*Glaive*), Rare, Martial Weapon, Melee Weapon, 6 lb.

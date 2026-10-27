@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Puzzle Ring of Vitality, Life, and Power
 
 Ring, Legendary (Requires Attunement By a Paladin)

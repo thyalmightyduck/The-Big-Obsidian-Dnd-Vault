@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Shavarran Chert)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

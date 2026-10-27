@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Moonbeam Chain Mail
 
 Heavy Armor (*Chain Mail*), Very Rare (Requires Attunement By a Druid), 55 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Myceliaweave Armor
 
 Generic Variant, Rare (Requires Attunement), Major Tier

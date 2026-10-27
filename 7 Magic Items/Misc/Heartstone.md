@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heartstone
 
 Very Rare

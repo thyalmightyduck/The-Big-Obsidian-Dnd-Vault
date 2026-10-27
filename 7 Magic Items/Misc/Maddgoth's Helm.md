@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Maddgoth's Helm
 
 Very Rare (Requires Attunement By a Humanoid)

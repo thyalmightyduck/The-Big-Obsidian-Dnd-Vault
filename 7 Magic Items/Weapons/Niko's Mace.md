@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Niko's Mace
 
 Weapon (*Mace*), Very Rare (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 4 lb.

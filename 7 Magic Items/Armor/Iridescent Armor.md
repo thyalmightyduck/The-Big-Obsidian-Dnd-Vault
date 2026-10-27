@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Iridescent Armor
 
 Medium Armor (*Breastplate*), Rare (Requires Attunement), 20 lb.

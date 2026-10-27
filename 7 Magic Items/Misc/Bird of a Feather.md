@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bird of a Feather
 
 Wondrous Item, Generic Variant

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hatred, the Wrathful Edge
 
 Weapon (*Greataxe*), Artifact (Requires Attunement By a Creature the Axe Deems Worthy), Martial Weapon, Melee Weapon, Major Tier, 7 lb.

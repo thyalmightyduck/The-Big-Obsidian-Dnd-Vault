@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Elemental Command
 
 Ring, Legendary (Requires Attunement)

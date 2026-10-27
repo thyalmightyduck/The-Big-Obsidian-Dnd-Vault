@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weaving Wasp Needles
 
 Weapon (*Dart*), Uncommon, Simple Weapon, Ranged Weapon, Major Tier, ¼ lb.

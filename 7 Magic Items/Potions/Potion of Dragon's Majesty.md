@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Dragon's Majesty
 
 Potion, Legendary

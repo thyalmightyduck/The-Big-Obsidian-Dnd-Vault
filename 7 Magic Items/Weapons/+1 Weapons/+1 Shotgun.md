@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Shotgun]], Uncommon*
 **Weapon:** 2d8 Piercing, Modern, Martial Weapon, Ranged Weapon, Firearm

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stonky's ring
 
 Ring (Requires Attunement)

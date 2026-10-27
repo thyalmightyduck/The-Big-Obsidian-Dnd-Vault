@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Champion's Weapon
 
 Generic Variant, Uncommon

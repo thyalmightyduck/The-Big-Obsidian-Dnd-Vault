@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ascendant Dragon-Touched Focus
 
 Wondrous Item, Spellcasting Focus, Legendary (Requires Attunement By a Spellcaster)

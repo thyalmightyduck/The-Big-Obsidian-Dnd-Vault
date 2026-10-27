@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Eye of the White Worm
 
 Wondrous Item, Generic Variant (Requires Attunement)

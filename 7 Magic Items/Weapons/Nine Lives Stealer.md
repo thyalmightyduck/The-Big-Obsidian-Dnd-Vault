@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nine Lives Stealer
 
 Generic Variant, Very Rare (Requires Attunement)

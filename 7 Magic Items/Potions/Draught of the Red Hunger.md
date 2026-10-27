@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Draught of the Red Hunger
 
 Potion, Legendary

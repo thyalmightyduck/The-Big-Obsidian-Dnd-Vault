@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Furious Flail
 
 Weapon (*Flail*), Very Rare (Requires Attunement By a Barbarian), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

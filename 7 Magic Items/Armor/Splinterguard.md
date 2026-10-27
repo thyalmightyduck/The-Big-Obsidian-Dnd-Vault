@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Splinterguard
 
 Heavy Armor (*Splint Armor*), Rare (Requires Attunement By a Druid or Ranger), Major Tier, 60 lb.

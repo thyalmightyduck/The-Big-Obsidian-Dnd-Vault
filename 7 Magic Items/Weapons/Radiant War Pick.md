@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Radiant War Pick
 
 Weapon (*War Pick*), Very Rare (Requires Attunement By a Cleric or Paladin), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

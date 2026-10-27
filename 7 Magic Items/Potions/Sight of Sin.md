@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sight of Sin
 
 Potion, Rare

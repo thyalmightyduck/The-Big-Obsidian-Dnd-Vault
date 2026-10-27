@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sling of Giant Felling
 
 Weapon (*Sling*), Uncommon, Simple Weapon, Ranged Weapon

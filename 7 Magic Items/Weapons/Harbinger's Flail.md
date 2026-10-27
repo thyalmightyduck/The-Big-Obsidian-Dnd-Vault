@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Harbinger's Flail
 
 Weapon (*Flail*), Rare, Martial Weapon, Melee Weapon, Major Tier, 2 lb.

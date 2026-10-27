@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Flail]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Bludgeoning, [[Martial Weapons]], [[Melee Weapons]] 

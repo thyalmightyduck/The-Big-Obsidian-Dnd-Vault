@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood Focus
 
 Wondrous Item, Spellcasting Focus, Common (Requires Attunement)

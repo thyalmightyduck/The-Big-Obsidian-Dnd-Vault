@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Speed
 
 Potion, Very Rare, ½ lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Illuminator's Tattoo
 
 Wondrous Item (Tattoo), Common (Requires Attunement)

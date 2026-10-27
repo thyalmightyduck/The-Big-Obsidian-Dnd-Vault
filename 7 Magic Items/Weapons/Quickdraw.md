@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quickdraw
 
 Weapon (*Hand Crossbow*), Rare, Martial Weapon, Ranged Weapon, 3 lb.

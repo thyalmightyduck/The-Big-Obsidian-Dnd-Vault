@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Jaw Breakers
 
 Melee Weapon (Attunement Optional)

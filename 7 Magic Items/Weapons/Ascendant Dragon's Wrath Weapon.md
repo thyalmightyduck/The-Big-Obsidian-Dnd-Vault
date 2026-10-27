@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ascendant Dragon's Wrath Weapon
 
 Generic Variant, Legendary (Requires Attunement)

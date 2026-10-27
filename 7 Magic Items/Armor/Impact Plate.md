@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Impact Plate
 
 Heavy Armor (*Plate Armor*), Very Rare (Requires Attunement), Major Tier, 65 lb.

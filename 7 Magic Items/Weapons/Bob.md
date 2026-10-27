@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bob
 
 Weapon (*Battleaxe*), Martial Weapon, Melee Weapon, 4 lb.

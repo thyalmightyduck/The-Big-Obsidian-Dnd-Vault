@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Vitality
 
 Potion, Very Rare, ½ lb.

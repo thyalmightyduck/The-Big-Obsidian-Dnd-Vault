@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mariner's Armor
 
 Generic Variant, Uncommon

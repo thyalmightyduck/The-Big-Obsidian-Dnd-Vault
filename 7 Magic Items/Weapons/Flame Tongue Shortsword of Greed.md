@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flame Tongue Shortsword of Greed
 
 Weapon (*Shortsword*) (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

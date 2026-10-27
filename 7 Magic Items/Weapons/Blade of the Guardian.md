@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of the Guardian
 
 Weapon (*Greatsword*) (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

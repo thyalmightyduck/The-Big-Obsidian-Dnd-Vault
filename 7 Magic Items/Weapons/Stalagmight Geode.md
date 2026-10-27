@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stalagmight Geode
 
 Weapon (*Greatclub*), Rare, Simple Weapon, Melee Weapon, Major Tier, 10 lb.

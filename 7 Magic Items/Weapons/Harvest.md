@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Harvest
 
 Weapon (*Sickle*), Uncommon, Simple Weapon, Melee Weapon, Major Tier, 2 lb.

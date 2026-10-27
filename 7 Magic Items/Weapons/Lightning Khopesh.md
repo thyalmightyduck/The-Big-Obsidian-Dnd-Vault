@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lightning Khopesh
 
 Weapon (*Scimitar*), Rare, Martial Weapon, Melee Weapon, Major Tier, 3 lb.

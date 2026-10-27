@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hazewalker Plate
 
 Heavy Armor (*Plate Armor*), Very Rare, 65 lb.

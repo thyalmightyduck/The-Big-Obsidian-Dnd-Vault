@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Marotte of the Lord of Fools (Very Rare)
 
 Rod, Very Rare (Requires Attunement)

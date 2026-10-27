@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Acidlight Ammunition
 
 Ammunition, Generic Variant, Rare

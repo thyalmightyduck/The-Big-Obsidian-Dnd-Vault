@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mage Breaker
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

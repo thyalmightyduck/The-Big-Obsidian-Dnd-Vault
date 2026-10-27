@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Harp of Gilded Plenty
 
 Wondrous Item, Instrument, Legendary (Requires Attunement)

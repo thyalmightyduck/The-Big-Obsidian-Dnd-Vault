@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Life-Sapping Blade
 
 Generic Variant, Rare (Requires Attunement)

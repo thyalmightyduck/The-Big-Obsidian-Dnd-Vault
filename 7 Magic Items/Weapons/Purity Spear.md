@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Purity Spear
 
 Weapon (*Spear*), Legendary (Requires Attunement By a Creature of Good Alignment), Simple Weapon, Melee Weapon, 3 lb.

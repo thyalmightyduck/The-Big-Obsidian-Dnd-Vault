@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mizzium Apparatus
 
 Wondrous Item, Spellcasting Focus, Uncommon (Requires Attunement By a Sorcerer, Warlock, or Wizard), 8 lb.

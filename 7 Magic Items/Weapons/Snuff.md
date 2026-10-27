@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Snuff
 
 Weapon (*Sickle*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

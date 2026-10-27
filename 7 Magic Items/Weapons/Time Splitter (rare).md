@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Time Splitter (rare)
 
 Melee Weapon, Rare (Requires Attunement)

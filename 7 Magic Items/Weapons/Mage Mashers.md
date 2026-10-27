@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mage Mashers
 
 Weapon (*Brass Knuckles*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon

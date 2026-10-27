@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Bloodwell Vial
 
 Wondrous Item, Spellcasting Focus, Very Rare (Requires Attunement By a Sorcerer)

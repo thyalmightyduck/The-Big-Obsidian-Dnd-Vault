@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Feather Falling
 
 Ring, Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of Avernus
 
 Weapon (*Longsword*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

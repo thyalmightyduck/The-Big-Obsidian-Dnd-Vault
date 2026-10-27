@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Polymorph Blade
 
 Generic Variant, Very Rare (Requires Attunement)

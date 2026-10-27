@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bulette Torpedo
 
 Weapon (*Javelin*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 2 lb.

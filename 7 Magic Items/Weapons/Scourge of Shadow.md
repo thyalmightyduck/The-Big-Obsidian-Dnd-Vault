@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scourge of Shadow
 
 Weapon (*Whip*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

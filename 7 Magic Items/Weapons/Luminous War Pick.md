@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Luminous War Pick
 
 Weapon (*War Pick*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

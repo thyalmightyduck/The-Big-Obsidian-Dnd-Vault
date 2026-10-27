@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Snake Charmer's Flute
 
 Wondrous Item, Instrument, Uncommon (Requires Attunement), Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gateway Ring
 
 Ring, Very Rare, Major Tier

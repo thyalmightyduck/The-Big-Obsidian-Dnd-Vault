@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bow of the Twilight Valkyrie
 
 Generic Variant, Rare, Major Tier

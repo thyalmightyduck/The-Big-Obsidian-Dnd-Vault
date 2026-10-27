@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Repulsion Shield
 
 Shield (*Shield*), Uncommon, 6 lb.

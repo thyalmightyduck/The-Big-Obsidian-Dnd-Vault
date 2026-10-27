@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Black Dragon Scale Mail
 
 Medium Armor (*Scale Mail*), Very Rare (Requires Attunement), 45 lb.

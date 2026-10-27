@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Water Breathing
 
 Potion, Uncommon, ½ lb.

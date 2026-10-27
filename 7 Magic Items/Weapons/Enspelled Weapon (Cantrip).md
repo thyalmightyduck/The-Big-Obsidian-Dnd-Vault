@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Weapon (Cantrip)
 
 Generic Variant, Uncommon (Requires Attunement)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Double-Barrel Shotgun]], Uncommon*
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm

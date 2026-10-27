@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Demon Skin
 
 Generic Variant, Rare (Requires Attunement)

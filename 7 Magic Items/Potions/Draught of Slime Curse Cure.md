@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Draught of Slime Curse Cure
 
 Potion, Rare

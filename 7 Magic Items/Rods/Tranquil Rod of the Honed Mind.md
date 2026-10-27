@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tranquil Rod of the Honed Mind
 
 Rod, Legendary (Requires Attunement By a Warlock), 2 lb.

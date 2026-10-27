@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +1 Rhythm-Maker's Drum
 
 Wondrous Item, Instrument (*Drum*), Uncommon (Requires Attunement By a Bard), 3 lb.

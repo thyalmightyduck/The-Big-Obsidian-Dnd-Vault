@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Covolt Scythe
 
 Weapon (*Glaive*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

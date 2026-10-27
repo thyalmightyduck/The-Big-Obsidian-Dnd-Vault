@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Adornment
 
 Staff, Weapon, Common, Simple Weapon, Melee Weapon, 4 lb.

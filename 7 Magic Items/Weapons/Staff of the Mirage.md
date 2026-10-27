@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Mirage
 
 Staff, Weapon, Rare (Requires Attunement By a Wizard), Simple Weapon, Melee Weapon, 4 lb.

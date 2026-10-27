@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Iced Steel Armor
 
 Generic Variant, Uncommon

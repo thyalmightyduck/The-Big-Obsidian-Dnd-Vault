@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Agony (Dormant)
 
 Weapon (*Flail*), Legendary (Requires Attunement By a Creature of Non-Good Alignment), Martial Weapon, Melee Weapon, 2 lb.

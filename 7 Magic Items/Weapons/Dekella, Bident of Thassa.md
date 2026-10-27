@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dekella, Bident of Thassa
 
 Weapon (*Trident*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

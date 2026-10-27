@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Retaliating Shield of Ink
 
 Shield (*Shield*), Uncommon, 6 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sunwing Bow (uncommon)
 
 Ranged Weapon, Uncommon

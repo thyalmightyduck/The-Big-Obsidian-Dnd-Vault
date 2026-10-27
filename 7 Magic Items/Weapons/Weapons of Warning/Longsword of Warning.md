@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Longsword]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Magentan Sun-Saw (Very Rare)
 
 Weapon (*Scimitar*), Very Rare, Martial Weapon, Melee Weapon, Major Tier, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Morath, Scepter of the Soul Vortex
 
 Rod, Artifact (Requires Attunement By a Sorcerer, Warlock, or Wizard), Major Tier

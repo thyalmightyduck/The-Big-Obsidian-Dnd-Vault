@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 > [!infobox]
 > # Potion Of Greater Healing

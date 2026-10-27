@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Ram
 
 Ring, Rare (Requires Attunement)

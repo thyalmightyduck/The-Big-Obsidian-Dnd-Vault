@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Bearded Axe]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing Martial Weapon, Melee Weapon

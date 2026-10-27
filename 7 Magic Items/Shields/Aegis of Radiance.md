@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aegis of Radiance
 
 Shield (*Shield*), Rare (Requires Attunement By a Cleric), 6 lb.

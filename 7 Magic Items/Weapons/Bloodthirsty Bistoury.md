@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodthirsty Bistoury
 
 Weapon (*Dagger*), Uncommon, Simple Weapon, Melee Weapon, Major Tier, 1 lb.

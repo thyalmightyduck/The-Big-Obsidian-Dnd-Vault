@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shooting Star
 
 Weapon (*Longbow*), Very Rare (Requires Attunement), Martial Weapon, Ranged Weapon, Major Tier, 2 lb.

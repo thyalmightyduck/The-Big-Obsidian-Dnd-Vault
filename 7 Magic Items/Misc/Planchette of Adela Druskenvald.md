@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Planchette of Adela Druskenvald
 
 Wondrous Item, Generic Variant (Requires Attunement)

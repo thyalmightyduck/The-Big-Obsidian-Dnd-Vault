@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Adze of Annam
 
 Weapon (*Greataxe*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 7 lb.

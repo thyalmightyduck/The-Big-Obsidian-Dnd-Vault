@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hoarder's Haul (Uncommon)
 
 Wondrous Item, Vehicle (Land), Uncommon, Major Tier

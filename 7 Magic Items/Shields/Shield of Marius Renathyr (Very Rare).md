@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Marius Renathyr (Very Rare)
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

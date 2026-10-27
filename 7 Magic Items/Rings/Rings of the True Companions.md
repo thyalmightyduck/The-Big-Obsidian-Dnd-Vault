@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rings of the True Companions
 
 Ring, Rare (Requires Attunement), Major Tier

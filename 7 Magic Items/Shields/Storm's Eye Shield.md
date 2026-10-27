@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Storm's Eye Shield
 
 Armor (*Shield*), Rare (Requires Attunement), Major Tier, 6 lb.

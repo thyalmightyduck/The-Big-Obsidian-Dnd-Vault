@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 # Swindler’s Shoe
 > [!infobox]

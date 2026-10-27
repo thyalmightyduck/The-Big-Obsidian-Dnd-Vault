@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trick Weapon
 
 Generic Variant, Common

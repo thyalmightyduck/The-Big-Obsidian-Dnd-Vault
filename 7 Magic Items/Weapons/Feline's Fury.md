@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Feline's Fury
 
 Ranged Weapon, Rare (Requires Attunement)

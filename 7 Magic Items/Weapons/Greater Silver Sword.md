@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Greater Silver Sword
 
 Weapon (*Greatsword*), Legendary (Requires Attunement By a Creature That Has Psionic Ability), Martial Weapon, Melee Weapon, 6 lb.

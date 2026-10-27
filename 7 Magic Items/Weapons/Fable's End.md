@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fable's End
 
 Weapon (*Mace*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

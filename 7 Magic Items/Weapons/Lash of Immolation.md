@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lash of Immolation
 
 Weapon (*Whip*), Rare, Martial Weapon, Melee Weapon, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Irian Quartz)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

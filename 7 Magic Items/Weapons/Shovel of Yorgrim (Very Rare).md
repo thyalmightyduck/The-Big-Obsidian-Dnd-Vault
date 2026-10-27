@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shovel of Yorgrim (Very Rare)
 
 Weapon (*Greatclub*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 10 lb.

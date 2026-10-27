@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quickstone Whisperer
 
 Wondrous Item, Symbiont, Uncommon (Requires Attunement)

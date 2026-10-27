@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sizzling Serum
 
 Potion, Uncommon

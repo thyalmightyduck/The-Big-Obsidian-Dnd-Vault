@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dimir Guild Signet
 
 Ring, Uncommon (Requires Attunement)

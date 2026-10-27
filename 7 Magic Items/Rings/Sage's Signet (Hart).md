@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sage's Signet (Hart)
 
 Ring, Very Rare (Requires Attunement By a Spellcaster)

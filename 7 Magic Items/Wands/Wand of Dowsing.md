@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Dowsing
 
 Wand, Uncommon (Requires Attunement), Major Tier

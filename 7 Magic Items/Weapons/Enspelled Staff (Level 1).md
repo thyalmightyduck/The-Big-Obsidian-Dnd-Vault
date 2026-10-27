@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Staff (Level 1)
 
 Staff, Weapon, Uncommon (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stirring Dragon's Wrath Weapon
 
 Generic Variant, Rare (Requires Attunement)

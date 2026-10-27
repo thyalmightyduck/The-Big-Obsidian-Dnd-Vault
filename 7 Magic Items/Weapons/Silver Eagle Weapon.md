@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silver Eagle Weapon
 
 Generic Variant, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Boros Guild Signet
 
 Ring, Uncommon (Requires Attunement)

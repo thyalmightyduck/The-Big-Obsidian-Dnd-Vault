@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Yggdrasil
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

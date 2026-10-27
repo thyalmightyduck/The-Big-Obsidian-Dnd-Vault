@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Medani Dowser
 
 Wand, Common, 1 lb.

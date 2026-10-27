@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spellsword
 
 Weapon (*Shortsword*), Rare, Martial Weapon, Melee Weapon, Major Tier, 2 lb.

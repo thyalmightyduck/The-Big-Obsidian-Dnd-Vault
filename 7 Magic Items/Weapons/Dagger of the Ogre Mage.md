@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dagger of the Ogre Mage
 
 Weapon (*Shortsword*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

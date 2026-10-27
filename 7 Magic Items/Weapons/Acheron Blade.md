@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Acheron Blade
 
 Generic Variant, Rare (Requires Attunement)

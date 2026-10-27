@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ratbite
 
 Weapon (*Hand Claws*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon

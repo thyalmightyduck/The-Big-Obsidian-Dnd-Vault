@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Spell Storing
 
 Ring, Rare (Requires Attunement)

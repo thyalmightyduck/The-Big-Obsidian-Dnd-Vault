@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orner's Venomous Crossbow
 
 Weapon (*Hand Crossbow*), Uncommon (Requires Attunement), Martial Weapon, Ranged Weapon, Major Tier, 3 lb.

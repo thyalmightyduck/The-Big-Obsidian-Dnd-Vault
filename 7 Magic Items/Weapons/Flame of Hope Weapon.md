@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flame of Hope Weapon
 
 Generic Variant

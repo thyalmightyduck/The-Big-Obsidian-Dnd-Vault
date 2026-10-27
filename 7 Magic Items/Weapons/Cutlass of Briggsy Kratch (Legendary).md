@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cutlass of Briggsy Kratch (Legendary)
 
 Weapon (*Scimitar*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

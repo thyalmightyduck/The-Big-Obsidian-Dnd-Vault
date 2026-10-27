@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Simic Guild Signet
 
 Ring, Uncommon (Requires Attunement)

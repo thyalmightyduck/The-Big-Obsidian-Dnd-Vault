@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Whispers
 
 Wand, Rare (Requires Attunement By a Spellcaster)

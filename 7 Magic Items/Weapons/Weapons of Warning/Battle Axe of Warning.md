@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Battle Axe]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon

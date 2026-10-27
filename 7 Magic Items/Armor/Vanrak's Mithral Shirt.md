@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Vanrak's Mithral Shirt
 
 Medium Armor (*Chain Shirt*), Uncommon, 20 lb.

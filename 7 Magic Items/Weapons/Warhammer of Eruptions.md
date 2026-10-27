@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Warhammer of Eruptions
 
 Weapon (*Warhammer*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

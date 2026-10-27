@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Vineyard
 
 Staff, Weapon (*Quarterstaff*), Uncommon (Requires Attunement By a Cleric, Druid, Monk, or Ranger), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trollkin Unguent
 
 Potion, Rare

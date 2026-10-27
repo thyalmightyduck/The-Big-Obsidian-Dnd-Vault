@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Voidwalker Armor
 
 Light Armor (*Studded Leather Armor*), Rare (Requires Attunement), 13 lb.

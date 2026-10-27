@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Knifetooth Studded Leather Armor
 
 Light Armor, Rare (Requires Attunement), Major Tier, 13 lb.

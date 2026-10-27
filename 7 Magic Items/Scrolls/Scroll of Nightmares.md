@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scroll of Nightmares
 
 Scroll, Rare, Minor Tier

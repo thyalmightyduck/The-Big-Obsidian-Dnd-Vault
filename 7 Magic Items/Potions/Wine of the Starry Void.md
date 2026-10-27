@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wine of the Starry Void
 
 Potion, Rare

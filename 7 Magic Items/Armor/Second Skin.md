@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Second Skin
 
 Light Armor (*Hide Armor*), Very Rare (Requires Attunement)

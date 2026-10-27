@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of the Silver Dragon
 
 Armor (*Shield*), Rare, Major Tier, 6 lb.

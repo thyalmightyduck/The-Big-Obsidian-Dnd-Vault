@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Barricade Shield
 
 Shield (*Shield*), Uncommon, 6 lb.

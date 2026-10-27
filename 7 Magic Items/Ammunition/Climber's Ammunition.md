@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Climber's Ammunition
 
 Ammunition, Generic Variant, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Brawler's Ring
 
 Ring, Uncommon, Minor Tier

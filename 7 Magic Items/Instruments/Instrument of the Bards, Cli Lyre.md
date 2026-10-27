@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Instrument of the Bards, Cli Lyre
 
 Wondrous Item, Instrument (*Lyre*), Rare (Requires Attunement By a Bard)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon Turtle Shield
 
 Shield (*Shield*), Rare, 6 lb.

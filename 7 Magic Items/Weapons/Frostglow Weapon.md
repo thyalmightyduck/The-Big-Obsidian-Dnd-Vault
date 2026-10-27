@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Frostglow Weapon
 
 Generic Variant, Rare (Requires Attunement)

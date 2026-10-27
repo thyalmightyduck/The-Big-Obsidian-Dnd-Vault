@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heliacal Wand of Celestial Prowess
 
 Wand, Legendary (Requires Attunement By a Spellcaster), 1 lb.

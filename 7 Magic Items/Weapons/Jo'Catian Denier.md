@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Jo'Catian Denier
 
 Generic Variant, Uncommon (Requires Attunement By a Creature of Neutral Alignment), Major Tier

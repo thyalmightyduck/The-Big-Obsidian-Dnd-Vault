@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Trampling Crossbow
 
 Weapon (*Heavy Crossbow*), Uncommon, Martial Weapon, Ranged Weapon, Major Tier, 18 lb.

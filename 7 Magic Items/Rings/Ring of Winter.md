@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Winter
 
 Ring, Artifact (Requires Attunement), 1 lb.

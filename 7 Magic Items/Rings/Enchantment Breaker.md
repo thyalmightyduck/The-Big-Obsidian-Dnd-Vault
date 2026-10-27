@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enchantment Breaker
 
 Ring, Rare

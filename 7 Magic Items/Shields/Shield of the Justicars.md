@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of the Justicars
 
 Armor (*Shield*), Rare, Major Tier, 6 lb.

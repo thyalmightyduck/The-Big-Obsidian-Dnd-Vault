@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spirit Cleaver
 
 Weapon (*Dagger*), Legendary (Requires Attunement By a Rogue), Simple Weapon, Melee Weapon, Major Tier, 2 GP, 1 lb.

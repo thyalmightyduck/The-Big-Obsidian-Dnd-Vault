@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Reinforced Shield (*)
 
 Generic Variant

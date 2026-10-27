@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blossom Rod
 
 Rod (Requires Attunement By a Spellcaster)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Timber
 
 Weapon (*Handaxe*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

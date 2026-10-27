@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Penitent Pummelers
 
 Weapon (*Brass Knuckles*), Rare, Simple Weapon, Melee Weapon

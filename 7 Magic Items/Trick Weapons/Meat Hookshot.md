@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Meat Hookshot
 
 Trick Weapon, Uncommon

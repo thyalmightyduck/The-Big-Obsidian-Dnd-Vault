@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tormach's Blessed Weapon
 
 Generic Variant, Common

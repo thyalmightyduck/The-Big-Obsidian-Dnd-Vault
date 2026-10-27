@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Two-Birds Sling
 
 Weapon (*Sling*), Rare, Simple Weapon, Ranged Weapon

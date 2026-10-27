@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Idol of the Beast of Blight
 
 Wondrous Item, Generic Variant (Requires Attunement)

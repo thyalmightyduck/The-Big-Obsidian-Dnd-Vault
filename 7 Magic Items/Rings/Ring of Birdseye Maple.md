@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Birdseye Maple
 
 Ring, Uncommon (Attunement Optional)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fell-Rider Chariot
 
 Wondrous Item, Vehicle (Land), Legendary, Major Tier, 300 lb.

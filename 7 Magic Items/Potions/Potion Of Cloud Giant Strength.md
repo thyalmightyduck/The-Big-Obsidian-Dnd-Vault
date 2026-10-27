@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Cloud Giant Strength
 
 Potion, Very Rare, ½ lb.

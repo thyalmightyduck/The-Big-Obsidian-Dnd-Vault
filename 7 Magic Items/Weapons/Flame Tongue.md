@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flame Tongue
 
 Generic Variant, Rare (Requires Attunement)

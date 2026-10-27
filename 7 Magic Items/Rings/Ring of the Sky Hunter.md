@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Sky Hunter
 
 Ring, Rare (Requires Attunement)

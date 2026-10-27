@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Carvaloth Scale Armor
 
 Medium Armor (*Scale Mail*), Uncommon, 45 lb.

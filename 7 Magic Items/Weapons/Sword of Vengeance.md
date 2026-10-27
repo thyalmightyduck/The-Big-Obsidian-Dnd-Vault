@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Vengeance
 
 Generic Variant, Uncommon (Requires Attunement)

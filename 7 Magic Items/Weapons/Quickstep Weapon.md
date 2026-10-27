@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quickstep Weapon
 
 Generic Variant, Uncommon (Requires Attunement)

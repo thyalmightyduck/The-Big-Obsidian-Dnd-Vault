@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Hand Claws]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Slashing, Simple Weapon, Melee Weapon

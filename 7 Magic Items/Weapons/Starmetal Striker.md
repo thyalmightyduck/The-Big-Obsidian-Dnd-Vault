@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starmetal Striker
 
 Weapon (*Light Hammer*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

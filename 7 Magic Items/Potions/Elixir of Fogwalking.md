@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elixir of Fogwalking
 
 Potion, Rare

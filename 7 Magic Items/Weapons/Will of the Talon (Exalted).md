@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Will of the Talon (Exalted)
 
 Weapon (*War Pick*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

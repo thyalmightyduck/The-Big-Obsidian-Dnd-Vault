@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Eldritch Bident
 
 Weapon (*Trident*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 4 lb.

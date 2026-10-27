@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Splinterspray Tommybow
 
 Ranged Weapon

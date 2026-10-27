@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scroll of Titan Summoning (Blob of Annihilation)
 
 Scroll, Legendary

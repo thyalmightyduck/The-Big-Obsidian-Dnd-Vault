@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spell-Fueling Armor
 
 Generic Variant, Very Rare (Requires Attunement By a Spellcaster)

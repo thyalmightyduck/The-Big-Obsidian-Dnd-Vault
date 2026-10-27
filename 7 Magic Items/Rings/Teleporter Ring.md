@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Teleporter Ring
 
 Ring

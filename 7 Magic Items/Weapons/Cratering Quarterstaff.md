@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cratering Quarterstaff
 
 Weapon (*Quarterstaff*), Very Rare, Simple Weapon, Melee Weapon, 4 lb.

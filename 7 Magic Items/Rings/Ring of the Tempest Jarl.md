@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Tempest Jarl
 
 Ring, Legendary (Requires Attunement)

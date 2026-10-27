@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dawn and Dusk
 
 Weapon (*Mace*), Rare, Simple Weapon, Melee Weapon, Major Tier

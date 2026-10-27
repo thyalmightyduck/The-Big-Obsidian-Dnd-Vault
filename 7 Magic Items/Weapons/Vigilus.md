@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Vigilus
 
 Weapon (*Hand Crossbow*), Rare (Requires Attunement), Martial Weapon, Ranged Weapon, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Serpent Hide
 
 Medium Armor (*Hide Armor*), Rare (Requires Attunement), 12 lb.

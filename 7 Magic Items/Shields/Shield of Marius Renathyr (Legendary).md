@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Marius Renathyr (Legendary)
 
 Shield (*Shield*), Legendary (Requires Attunement), 6 lb.

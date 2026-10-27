@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Giant Strength
 
 Potion, ½ lb.

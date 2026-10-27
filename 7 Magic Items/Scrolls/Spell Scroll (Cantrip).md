@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spell Scroll (Cantrip)
 
 Scroll, Common, 30 GP

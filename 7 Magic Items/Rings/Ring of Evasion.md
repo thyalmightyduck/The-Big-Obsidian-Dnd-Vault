@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Evasion
 
 Ring, Rare (Requires Attunement)

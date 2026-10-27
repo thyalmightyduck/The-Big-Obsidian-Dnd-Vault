@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Merriment
 
 Wand, Very Rare (Requires Attunement), Major Tier

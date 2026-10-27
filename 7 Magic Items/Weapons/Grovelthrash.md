@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Grovelthrash
 
 Weapon (*Warhammer*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

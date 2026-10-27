@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Kythrian Skarn)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

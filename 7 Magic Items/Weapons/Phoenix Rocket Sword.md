@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Phoenix Rocket Sword
 
 Weapon (*Greatsword*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

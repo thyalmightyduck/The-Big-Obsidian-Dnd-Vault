@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### True-Ice Shards (Dagger)
 
 Weapon (*Dagger*), Artifact (Requires Attunement), Simple Weapon, Melee Weapon

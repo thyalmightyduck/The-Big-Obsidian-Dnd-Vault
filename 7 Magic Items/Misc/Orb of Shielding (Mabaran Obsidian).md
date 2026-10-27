@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Mabaran Obsidian)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

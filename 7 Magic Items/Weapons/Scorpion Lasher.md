@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scorpion Lasher
 
 Weapon (*Whip*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 2 GP, 3 lb.

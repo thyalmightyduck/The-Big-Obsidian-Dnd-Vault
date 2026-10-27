@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Winged Ammunition
 
 Ammunition, Generic Variant, Uncommon

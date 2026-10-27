@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Holy Avenger
 
 Generic Variant, Legendary (Requires Attunement By a Paladin)

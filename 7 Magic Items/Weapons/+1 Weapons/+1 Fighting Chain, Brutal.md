@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Fighting Chain, Brutal]], Uncommon*
 **Weapon:** 1d6 Slashing, Advanced Weapon, Melee Weapon

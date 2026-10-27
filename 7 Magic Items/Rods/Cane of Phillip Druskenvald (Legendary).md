@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cane of Phillip Druskenvald (Legendary)
 
 Rod, Legendary (Requires Attunement)

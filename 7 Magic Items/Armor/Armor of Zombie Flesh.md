@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Zombie Flesh
 
 Light Armor (*Hide Armor*), Rare (Requires Attunement), 12 lb.

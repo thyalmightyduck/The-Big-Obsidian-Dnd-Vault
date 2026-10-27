@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tremor Spike
 
 Rod, Rare, Major Tier, 15 lb.

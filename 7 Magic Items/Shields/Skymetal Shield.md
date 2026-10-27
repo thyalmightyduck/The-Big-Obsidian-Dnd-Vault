@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Skymetal Shield
 
 Shield (*Shield*), Uncommon (Requires Attunement), 6 lb.

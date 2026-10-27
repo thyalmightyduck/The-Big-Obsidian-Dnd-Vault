@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Whirling Weapons
 
 Generic Variant, Rare, Major Tier

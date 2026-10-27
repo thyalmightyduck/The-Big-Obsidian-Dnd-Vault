@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Armor (Cantrip)
 
 Generic Variant, Uncommon (Requires Attunement)

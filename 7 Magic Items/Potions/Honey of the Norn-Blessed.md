@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Honey of the Norn-Blessed
 
 Potion, Rare

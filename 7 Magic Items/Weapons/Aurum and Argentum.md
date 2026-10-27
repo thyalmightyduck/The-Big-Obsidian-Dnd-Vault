@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aurum and Argentum
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

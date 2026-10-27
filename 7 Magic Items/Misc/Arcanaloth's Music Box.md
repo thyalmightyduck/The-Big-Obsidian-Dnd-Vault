@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Arcanaloth's Music Box
 
 750 GP

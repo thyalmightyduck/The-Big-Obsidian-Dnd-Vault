@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Dedicated Focus
 
 Ring, Uncommon (Requires Attunement)

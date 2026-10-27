@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Antimagic Armor
 
 Generic Variant, Very Rare (Requires Attunement)

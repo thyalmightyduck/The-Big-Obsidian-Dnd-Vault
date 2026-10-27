@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elixir of Life Protection
 
 Potion, Rare

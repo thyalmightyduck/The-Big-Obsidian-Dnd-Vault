@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Jo'Catian Rebuker
 
 Shield (*Shield*), Uncommon (Requires Attunement By a Creature of Neutral Alignment), Major Tier, 6 lb.

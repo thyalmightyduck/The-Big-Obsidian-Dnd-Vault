@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Secrets
 
 Wand, Uncommon, 1 lb.

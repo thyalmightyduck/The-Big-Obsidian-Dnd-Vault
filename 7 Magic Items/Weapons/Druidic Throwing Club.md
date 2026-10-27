@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Druidic Throwing Club
 
 Weapon (*Club*), Rare (Requires Attunement By a Druid or Ranger), Simple Weapon, Melee Weapon, 2 lb.

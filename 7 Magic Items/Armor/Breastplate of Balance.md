@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Breastplate of Balance
 
 Medium Armor (*Breastplate*), Rare (Requires Attunement), 20 lb.

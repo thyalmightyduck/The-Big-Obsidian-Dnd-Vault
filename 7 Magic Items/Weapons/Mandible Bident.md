@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mandible Bident
 
 Weapon (*Trident*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 4 lb.

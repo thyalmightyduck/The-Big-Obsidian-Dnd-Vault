@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Duster
 
 Wand, Common

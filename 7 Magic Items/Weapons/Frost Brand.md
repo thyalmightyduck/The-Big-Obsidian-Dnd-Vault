@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Frost Brand
 
 Generic Variant, Very Rare (Requires Attunement)

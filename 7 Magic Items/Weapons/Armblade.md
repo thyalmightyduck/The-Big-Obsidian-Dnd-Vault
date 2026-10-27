@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armblade
 
 Generic Variant, Common (Requires Attunement By a Warforged)

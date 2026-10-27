@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cataclysm Bolts
 
 Ammunition, Very Rare, 1.2 oz.

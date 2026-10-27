@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ao Hai's Fang
 
 Weapon (*Longsword*), Legendary (Requires Attunement By a Monk), Martial Weapon, Melee Weapon, Major Tier, 3 lb.

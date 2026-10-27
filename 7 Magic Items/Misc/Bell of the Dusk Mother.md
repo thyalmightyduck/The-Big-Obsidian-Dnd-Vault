@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bell of the Dusk Mother
 
 Wondrous Item, Generic Variant (Requires Attunement)

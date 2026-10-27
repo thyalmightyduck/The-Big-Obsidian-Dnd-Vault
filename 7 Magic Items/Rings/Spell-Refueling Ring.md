@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spell-Refueling Ring
 
 Ring, Uncommon (Requires Attunement By a Spellcaster)

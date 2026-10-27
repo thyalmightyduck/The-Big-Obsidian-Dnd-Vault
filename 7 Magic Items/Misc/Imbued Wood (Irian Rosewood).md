@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Irian Rosewood)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

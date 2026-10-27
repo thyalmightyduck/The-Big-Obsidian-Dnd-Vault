@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stalwart Staff
 
 Staff, Weapon (*Quarterstaff*), Common, Simple Weapon, Melee Weapon, Minor Tier, 4 lb.

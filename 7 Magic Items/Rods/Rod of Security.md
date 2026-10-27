@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Security
 
 Rod, Very Rare, 2 lb.

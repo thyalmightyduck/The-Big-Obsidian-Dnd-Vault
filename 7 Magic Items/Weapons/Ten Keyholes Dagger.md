@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ten Keyholes Dagger
 
 Weapon (*Dagger*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sage's Signet (Songbird)
 
 Ring, Rare (Requires Attunement By a Spellcaster)

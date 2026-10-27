@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cinnabar Rapier
 
 Weapon (*Rapier*), Rare, Martial Weapon, Melee Weapon, 2 lb.

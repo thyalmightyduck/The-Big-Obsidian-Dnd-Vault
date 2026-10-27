@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fife of Dragonsong
 
 Weapon (*Blowgun*), Rare (Requires Attunement By a Bard), Martial Weapon, Ranged Weapon, 1 lb.

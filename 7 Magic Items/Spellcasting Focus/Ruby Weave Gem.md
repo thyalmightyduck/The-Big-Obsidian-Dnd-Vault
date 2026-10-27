@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ruby Weave Gem
 
 Wondrous Item, Spellcasting Focus, Legendary (Requires Attunement By a Spellcaster)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Fungal Symbiosis (uncommon)
 
 Ring, Uncommon (Attunement Optional)

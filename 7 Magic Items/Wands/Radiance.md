@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Radiance
 
 Wand (Requires Attunement By a Spellcaster)

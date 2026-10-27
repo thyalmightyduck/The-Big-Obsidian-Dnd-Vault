@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Weapon
 
 Generic Variant, Very Rare

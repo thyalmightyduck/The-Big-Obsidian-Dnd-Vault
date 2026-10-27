@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Jade Serpent Staff
 
 This staff is broken into five pieces, each worth 100 gp for the jade alone. The entire staff can be restored with *mending* cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an animated jade serpent that has the statistics of a **giant poisonous snake**, with these changes:

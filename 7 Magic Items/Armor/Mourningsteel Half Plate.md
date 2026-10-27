@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mourningsteel Half Plate
 
 Medium Armor (*Half Plate Armor*), Legendary (Requires Attunement), Major Tier, 40 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ardor
 
 Weapon (*Battleaxe*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Foe-Slaying Weapon
 
 Generic Variant

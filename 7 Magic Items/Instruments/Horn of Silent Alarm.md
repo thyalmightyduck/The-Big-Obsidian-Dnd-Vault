@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horn of Silent Alarm
 
 Wondrous Item, Instrument (*Horn*), Common

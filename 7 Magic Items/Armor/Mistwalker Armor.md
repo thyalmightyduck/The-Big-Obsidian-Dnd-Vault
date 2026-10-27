@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mistwalker Armor
 
 Light Armor (*Leather Armor*), Rare (Requires Attunement), Major Tier, 10 lb.

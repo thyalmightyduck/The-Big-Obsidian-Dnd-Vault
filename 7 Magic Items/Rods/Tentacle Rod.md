@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tentacle Rod
 
 Rod, Rare (Requires Attunement), 2 lb.

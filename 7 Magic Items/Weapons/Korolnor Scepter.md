@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Korolnor Scepter
 
 Weapon (*Club*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

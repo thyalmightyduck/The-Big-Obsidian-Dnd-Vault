@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rattling Armor
 
 Heavy Armor (*Splint Armor*), Rare (Requires Attunement), 60 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Coiling Grasp Tattoo
 
 Wondrous Item (Tattoo), Uncommon (Requires Attunement)

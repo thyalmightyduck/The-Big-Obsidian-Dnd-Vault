@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Revelry Suit
 
 Medium Armor (*Hide Armor*), Rare (Requires Attunement), 12 lb.

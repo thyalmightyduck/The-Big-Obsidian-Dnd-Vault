@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Marlin Lunger
 
 Weapon (*Rapier*), Uncommon (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

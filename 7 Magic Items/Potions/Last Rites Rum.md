@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Last Rites Rum
 
 Potion, Uncommon

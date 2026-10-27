@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Salamander Sauce
 
 Potion, Uncommon

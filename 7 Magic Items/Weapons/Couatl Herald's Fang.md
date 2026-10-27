@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Couatl Herald's Fang
 
 Generic Variant, Rare (Requires Attunement By a Creature of Good Alignment)

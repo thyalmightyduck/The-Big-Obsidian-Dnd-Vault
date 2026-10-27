@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pigskin Armor
 
 Light Armor (*Hide Armor*), Uncommon, 12 lb.

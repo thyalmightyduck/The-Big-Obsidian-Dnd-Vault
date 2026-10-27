@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Witchlight Scimitar
 
 Weapon (*Scimitar*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

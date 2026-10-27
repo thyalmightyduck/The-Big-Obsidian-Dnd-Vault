@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scythe of the Harvest Terror (Very Rare)
 
 Weapon (*Halberd*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

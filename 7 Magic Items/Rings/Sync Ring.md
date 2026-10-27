@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sync Ring
 
 Ring, Uncommon (Requires Attunement)

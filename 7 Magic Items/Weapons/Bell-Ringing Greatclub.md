@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bell-Ringing Greatclub
 
 Weapon (*Greatclub*), Uncommon, Simple Weapon, Melee Weapon, 10 lb.

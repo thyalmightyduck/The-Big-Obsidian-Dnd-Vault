@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Oil of Etherealness
 
 Potion, Rare, ½ lb.

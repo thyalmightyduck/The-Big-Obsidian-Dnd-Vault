@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Redeemer's Regards
 
 Weapon (*Longbow*), Rare (Requires Attunement By a Paladin), Martial Weapon, Ranged Weapon, Major Tier, 2 lb.

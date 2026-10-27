@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wakened Dragon-Touched Focus
 
 Wondrous Item, Spellcasting Focus, Very Rare (Requires Attunement By a Spellcaster)

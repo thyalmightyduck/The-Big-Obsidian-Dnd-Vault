@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sporespreader (rare)
 
 Generic Variant, Rare (Requires Attunement By a Spellcaster)

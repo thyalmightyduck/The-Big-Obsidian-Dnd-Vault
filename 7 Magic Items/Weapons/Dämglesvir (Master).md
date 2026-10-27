@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dämglesvir (Master)
 
 Melee Weapon (*Longsword*), Artifact (Requires Attunement)

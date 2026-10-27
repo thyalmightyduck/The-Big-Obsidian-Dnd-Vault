@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Seven Parts
 
 Weapon (*Quarterstaff*), Rod, Artifact (Requires Attunement), Simple Weapon, 4 lb.

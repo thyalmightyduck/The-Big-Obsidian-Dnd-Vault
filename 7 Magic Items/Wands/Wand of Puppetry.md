@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Puppetry
 
 Wand, Very Rare (Requires Attunement By a Spellcaster), Major Tier

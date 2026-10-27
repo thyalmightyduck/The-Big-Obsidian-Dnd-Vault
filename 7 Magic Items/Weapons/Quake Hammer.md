@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quake Hammer
 
 Weapon (*Light Hammer*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

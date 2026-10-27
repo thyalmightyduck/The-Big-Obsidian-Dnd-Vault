@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Prismatic Steel Armor
 
 Generic Variant, Uncommon (Requires Attunement)

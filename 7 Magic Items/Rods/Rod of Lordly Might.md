@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Lordly Might
 
 Rod, Legendary (Requires Attunement), 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Cold Resistance
 
 Generic Variant, Rare (Requires Attunement)

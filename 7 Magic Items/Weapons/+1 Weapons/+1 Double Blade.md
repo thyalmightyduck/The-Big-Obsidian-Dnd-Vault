@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Double Blade]], Uncommon*
 **Weapon:** 1d6 Slashing, Advanced Weapon, Melee Weapon

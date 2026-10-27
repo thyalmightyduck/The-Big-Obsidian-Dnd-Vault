@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of the Forgefire Jarl
 
 Ring, Very Rare (Requires Attunement)

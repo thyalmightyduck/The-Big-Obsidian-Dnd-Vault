@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Songsteel Shield
 
 Shield (*Shield*), Uncommon, 6 lb.

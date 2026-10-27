@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Red Queen's Burden
 
 Weapon (*Glaive*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 6 lb.

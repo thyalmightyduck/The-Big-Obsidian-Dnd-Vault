@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragonmaw Shield
 
 Shield (*Shield*), Rare (Requires Attunement), 6 lb.

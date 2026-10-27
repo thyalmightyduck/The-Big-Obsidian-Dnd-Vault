@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Infernal Plate Armor
 
 Heavy Armor (*Plate Armor*), Very Rare (Requires Attunement), 65 lb.

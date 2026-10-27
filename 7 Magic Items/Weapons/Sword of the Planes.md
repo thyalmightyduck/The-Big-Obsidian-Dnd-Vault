@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of the Planes
 
 Generic Variant, Legendary (Requires Attunement)

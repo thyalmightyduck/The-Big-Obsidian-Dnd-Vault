@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Four Seasons
 
 Staff, Weapon, Very Rare (Requires Attunement By a Druid, Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, 4 lb.

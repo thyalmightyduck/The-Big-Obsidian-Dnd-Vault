@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hedgewitch's Gardening Cane
 
 Staff, Weapon (*Quarterstaff*), Spellcasting Focus, Common, Simple Weapon, Melee Weapon, Minor Tier, 4 lb.

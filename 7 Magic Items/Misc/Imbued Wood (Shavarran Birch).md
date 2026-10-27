@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Shavarran Birch)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

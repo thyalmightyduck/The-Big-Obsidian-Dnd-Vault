@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Forcebreaker Weapon
 
 Generic Variant, Very Rare

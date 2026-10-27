@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dissuader
 
 Staff, Weapon, Rare (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

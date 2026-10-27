@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Splitter
 
 Weapon (*Halberd*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

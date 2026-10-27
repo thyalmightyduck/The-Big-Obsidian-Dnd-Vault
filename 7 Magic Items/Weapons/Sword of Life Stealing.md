@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Life Stealing
 
 Generic Variant, Rare (Requires Attunement)

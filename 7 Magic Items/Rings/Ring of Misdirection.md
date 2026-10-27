@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Misdirection
 
 Ring, Rare, Minor Tier

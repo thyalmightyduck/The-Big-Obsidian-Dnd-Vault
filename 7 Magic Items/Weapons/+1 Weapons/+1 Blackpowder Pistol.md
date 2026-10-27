@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon ([[Blackpowder Pistol]]), Uncommon*
 **Weapon:** 2d4 Piercing Advanced Weapon, Ranged Weapon

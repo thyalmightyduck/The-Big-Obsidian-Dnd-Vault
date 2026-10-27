@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flail of Tiamat
 
 Weapon (*Flail*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

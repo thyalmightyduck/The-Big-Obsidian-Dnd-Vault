@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Magician's Judge
 
 Weapon (*Greatsword*), Rare, Martial Weapon, Melee Weapon, 6 lb.

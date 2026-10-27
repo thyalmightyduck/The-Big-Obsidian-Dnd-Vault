@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blade of Forlorn Hope
 
 Weapon (*Scimitar*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

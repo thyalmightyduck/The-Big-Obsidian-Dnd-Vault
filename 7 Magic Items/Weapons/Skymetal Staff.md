@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Skymetal Staff
 
 Staff, Weapon (*Quarterstaff*), Rare (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tordalfr's Rebuttal
 
 Weapon (*Javelin*), Armor (*Shield*) (Requires Attunement By a 5th-Level or Higher Character), Simple Weapon, 2 lb.

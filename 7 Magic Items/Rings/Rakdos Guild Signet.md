@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rakdos Guild Signet
 
 Ring, Uncommon (Requires Attunement)

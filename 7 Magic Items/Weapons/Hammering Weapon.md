@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hammering Weapon
 
 Generic Variant

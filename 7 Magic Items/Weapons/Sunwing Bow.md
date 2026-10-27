@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sunwing Bow
 
 Ranged Weapon (Attunement Optional)

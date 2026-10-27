@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fire Wand of the Unbroken Circle
 
 Wand, Rare (Requires Attunement By a Druid)

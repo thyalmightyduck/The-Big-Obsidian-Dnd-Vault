@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tyr's Blade
 
 Weapon (*Longsword*), Rare, Martial Weapon, Melee Weapon, 3 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Prying Mace
 
 Weapon (*Mace*), Uncommon, Simple Weapon, Melee Weapon, Major Tier, 4 lb.

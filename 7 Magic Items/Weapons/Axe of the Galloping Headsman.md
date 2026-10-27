@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Axe of the Galloping Headsman
 
 Weapon (*Battleaxe*), Generic Variant (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heward's Hireling Armor
 
 Light Armor (*Leather Armor*), Very Rare (Requires Attunement), 10 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Marotte of the Lord of Fools (Legendary)
 
 Rod, Legendary (Requires Attunement)

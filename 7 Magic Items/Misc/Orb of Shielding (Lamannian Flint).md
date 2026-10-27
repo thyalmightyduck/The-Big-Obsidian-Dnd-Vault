@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orb of Shielding (Lamannian Flint)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

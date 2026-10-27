@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Veil of the Weeping Widow
 
 Wondrous Item, Generic Variant (Requires Attunement)

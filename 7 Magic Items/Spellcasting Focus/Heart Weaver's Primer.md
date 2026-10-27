@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heart Weaver's Primer
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement By a Wizard), 3 lb.

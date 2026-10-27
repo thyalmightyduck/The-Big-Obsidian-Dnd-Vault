@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tome of Living Memories (rare)
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement Optional by a Wizard)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Slumbering Dragon-Touched Focus
 
 Wondrous Item, Spellcasting Focus, Uncommon (Requires Attunement By a Spellcaster)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Philter of Love
 
 Potion, Uncommon, ½ lb.

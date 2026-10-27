@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bane Shield
 
 Armor (*Shield*), Uncommon (Requires Attunement), Major Tier, 6 lb.

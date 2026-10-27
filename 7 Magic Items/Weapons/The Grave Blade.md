@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### The Grave Blade
 
 Weapon (*Longsword*) (Requires Attunement By a 5th-Level or Higher Character), Martial Weapon, Melee Weapon, 3 lb.

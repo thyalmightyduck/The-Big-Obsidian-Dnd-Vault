@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pennypuncher Slingshot
 
 Weapon (*Sling*), Rare, Simple Weapon, Ranged Weapon, Major Tier

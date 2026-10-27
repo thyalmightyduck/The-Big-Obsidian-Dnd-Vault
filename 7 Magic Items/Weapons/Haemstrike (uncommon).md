@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Haemstrike (uncommon)
 
 Melee Weapon, Uncommon (Attunement Optional)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aether Blood
 
 Potion, Rare

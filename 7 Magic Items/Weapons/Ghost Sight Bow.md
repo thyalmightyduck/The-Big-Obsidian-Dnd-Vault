@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ghost Sight Bow
 
 Weapon (*Longbow*), Very Rare (Requires Attunement), Martial Weapon, Ranged Weapon, 2 lb.

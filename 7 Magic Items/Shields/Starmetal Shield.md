@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starmetal Shield
 
 Shield (*Shield*), Legendary (Requires Attunement), 6 lb.

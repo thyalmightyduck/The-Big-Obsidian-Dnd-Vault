@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Biting Dart Weapon
 
 Generic Variant

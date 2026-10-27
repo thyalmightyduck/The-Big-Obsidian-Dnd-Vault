@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Catchpole]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Piercing Advanced Weapon, Melee Weapon

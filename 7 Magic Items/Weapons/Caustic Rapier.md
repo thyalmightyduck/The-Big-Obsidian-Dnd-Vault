@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Caustic Rapier
 
 Weapon (*Rapier*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

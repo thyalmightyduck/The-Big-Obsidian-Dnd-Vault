@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Hand Crossbow]], Requires Attunement)*
 **Weapon:** 1d6 Piercing Martial Weapon, Ranged Weapon

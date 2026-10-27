@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Chi-Balancing Tea
 
 Potion, Rare, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dazing Hammer
 
 Generic Variant, Uncommon

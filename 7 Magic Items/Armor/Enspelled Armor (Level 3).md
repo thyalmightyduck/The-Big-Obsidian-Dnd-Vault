@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Armor (Level 3)
 
 Generic Variant, Rare (Requires Attunement)

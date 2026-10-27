@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Executioner's Axe
 
 Generic Variant, Very Rare

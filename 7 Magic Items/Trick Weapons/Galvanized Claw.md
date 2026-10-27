@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Galvanized Claw
 
 Trick Weapon, Very Rare (Requires Attunement)

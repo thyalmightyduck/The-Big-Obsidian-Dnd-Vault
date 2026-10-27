@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Elemental Command (Air)
 
 Ring, Legendary (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mithral +1 Armor
 
 Generic Variant, Rare

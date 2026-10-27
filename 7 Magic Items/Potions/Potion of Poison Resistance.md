@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Poison Resistance
 
 Potion, Uncommon, ½ lb.

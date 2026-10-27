@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Moon-Touched Sword
 
 Generic Variant, Common

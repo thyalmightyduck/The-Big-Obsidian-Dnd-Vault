@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Forgework Dragon Shield
 
 Shield (*Shield*), Rare, Major Tier, 6 lb.

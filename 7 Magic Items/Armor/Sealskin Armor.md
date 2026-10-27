@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sealskin Armor
 
 Generic Variant, Uncommon (Requires Attunement)

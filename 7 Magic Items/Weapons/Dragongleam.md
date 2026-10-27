@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragongleam
 
 Weapon (*Spear*), Simple Weapon, Melee Weapon, 3 lb.

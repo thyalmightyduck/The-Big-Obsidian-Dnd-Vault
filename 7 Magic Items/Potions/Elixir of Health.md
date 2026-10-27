@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Elixir of Health
 
 Potion, Rare, ½ lb.

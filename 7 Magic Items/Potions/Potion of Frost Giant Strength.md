@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Frost Giant Strength
 
 Potion, Rare, ½ lb.

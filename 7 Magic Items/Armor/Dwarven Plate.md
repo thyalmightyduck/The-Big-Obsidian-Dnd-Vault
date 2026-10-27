@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dwarven Plate
 
 Generic Variant, Very Rare

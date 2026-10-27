@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Turtle Dove Dagger
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

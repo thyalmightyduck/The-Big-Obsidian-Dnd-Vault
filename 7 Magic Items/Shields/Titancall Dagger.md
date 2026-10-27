@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Titancall Dagger
 
 Weapon (*Dagger*), Armor (*Shield*), Legendary (Requires Attunement), Simple Weapon, 1 lb.

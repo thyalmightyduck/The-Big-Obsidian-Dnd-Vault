@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mace of Smiting
 
 Weapon (*Mace*), Rare, Simple Weapon, Melee Weapon, 4 lb.

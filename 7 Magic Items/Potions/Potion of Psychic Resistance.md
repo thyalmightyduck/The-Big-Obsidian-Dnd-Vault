@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Psychic Resistance
 
 Potion, Uncommon, ½ lb.

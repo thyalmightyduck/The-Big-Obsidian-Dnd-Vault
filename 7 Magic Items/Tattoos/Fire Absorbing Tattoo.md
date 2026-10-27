@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fire Absorbing Tattoo
 
 Wondrous Item (Tattoo), Very Rare (Requires Attunement)

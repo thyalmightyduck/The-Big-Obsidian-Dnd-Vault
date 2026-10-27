@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mockingblade
 
 Weapon (*Shortsword*), Uncommon (Requires Attunement By a Bard), Martial Weapon, Melee Weapon, 2 lb.

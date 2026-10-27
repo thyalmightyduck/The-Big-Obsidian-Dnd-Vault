@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Greater Healing
 
 Potion, Uncommon, ½ lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Reverberation
 
 Rod, Rare (Requires Attunement), Major Tier

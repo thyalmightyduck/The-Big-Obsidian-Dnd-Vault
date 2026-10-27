@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hunter's Coat
 
 Light Armor (*Leather Armor*), Very Rare (Requires Attunement), 10 lb.

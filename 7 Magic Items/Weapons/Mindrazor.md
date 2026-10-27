@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mindrazor
 
 Weapon (*Rapier*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

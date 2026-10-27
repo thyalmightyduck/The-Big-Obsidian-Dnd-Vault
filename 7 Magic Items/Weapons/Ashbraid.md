@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ashbraid
 
 Generic Variant, Very Rare (Requires Attunement)

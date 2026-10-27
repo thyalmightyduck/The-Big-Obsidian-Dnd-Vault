@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scroll of Mapping (Uncommon)
 
 Scroll, Uncommon, Minor Tier

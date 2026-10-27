@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hunter's Zeal
 
 Potion, Rare

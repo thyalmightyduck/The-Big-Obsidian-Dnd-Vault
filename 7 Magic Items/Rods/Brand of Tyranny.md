@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Brand of Tyranny
 
 Rod, Very Rare (Requires Attunement)

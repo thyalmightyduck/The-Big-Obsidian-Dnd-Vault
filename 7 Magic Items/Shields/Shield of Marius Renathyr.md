@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shield of Marius Renathyr
 
 Shield (*Shield*), Generic Variant (*Shield*) (Requires Attunement), 6 lb.

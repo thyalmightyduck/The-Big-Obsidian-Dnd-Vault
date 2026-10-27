@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Daff's Wonderful Draught
 
 Potion, Uncommon

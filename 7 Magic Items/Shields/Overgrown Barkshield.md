@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Overgrown Barkshield
 
 Shield (*Shield*) (Requires Attunement), 6 lb.

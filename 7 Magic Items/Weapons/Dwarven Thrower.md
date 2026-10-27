@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dwarven Thrower
 
 Weapon (*Warhammer*), Very Rare (Requires Attunement By a Dwarf or a Creature Attuned to a <a href="items.html#belt%20of%20dwarvenkind_xdmg"  onmouseover="Renderer.hover.pHandleLinkMouseOver(event, this)" onmouseleave="Renderer.hover.handleLinkMouseLeave(event, this)" onmousemove="Renderer.hover.handleLinkMouseMove(event, this)" onclick="Renderer.hover.handleLinkClick(event, this)" onwheel="Renderer.hover.handleLinkWheel(event, this)" ondragstart="Renderer.hover.handleLinkDragStart(event, this)" data-vet-page="items.html" data-vet-source="Xdmg" data-vet-hash="belt%20of%20dwarvenkind_xdmg" ontouchstart="Renderer.hover.handleTouchStart(event, this)" >Belt of Dwarvenkind</a>), Martial Weapon, Melee Weapon, 5 lb.

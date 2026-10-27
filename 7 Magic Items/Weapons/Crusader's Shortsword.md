@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Crusader's Shortsword
 
 Weapon (*Shortsword*) (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Partridge Armor
 
 Generic Variant, Uncommon (Requires Attunement)

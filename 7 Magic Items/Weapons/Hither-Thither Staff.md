@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hither-Thither Staff
 
 Staff, Weapon, Legendary, Simple Weapon, Melee Weapon, 4 lb.

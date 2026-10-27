@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Azuredge
 
 Weapon (*Battleaxe*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

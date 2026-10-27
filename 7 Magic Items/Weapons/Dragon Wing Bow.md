@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon Wing Bow
 
 Generic Variant, Rare (Requires Attunement)

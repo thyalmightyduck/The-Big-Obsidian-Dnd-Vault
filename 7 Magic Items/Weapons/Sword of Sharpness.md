@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sword of Sharpness
 
 Generic Variant, Very Rare (Requires Attunement)

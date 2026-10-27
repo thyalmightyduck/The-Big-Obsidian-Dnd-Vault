@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Haemscale (legendary)
 
 Generic Variant, Legendary (Requires Attunement)

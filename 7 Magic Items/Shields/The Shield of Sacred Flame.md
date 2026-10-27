@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### The Shield of Sacred Flame
 
 Shield (*Shield*), Rare (Requires Attunement), 6 lb.

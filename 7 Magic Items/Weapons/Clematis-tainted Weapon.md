@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Clematis-tainted Weapon
 
 Generic Variant, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Baleful Talon
 
 Weapon (*Dagger*), Very Rare, Simple Weapon, Melee Weapon, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Axe of the Dwarvish Lords
 
 Weapon (*Battleaxe*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

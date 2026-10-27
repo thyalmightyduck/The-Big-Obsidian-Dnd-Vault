@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Necrosis
 
 Wand, Very Rare (Requires Attunement By a Sorcerer, Warlock, or Wizard), Major Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Whirlpool Dart
 
 Weapon (*Dart*), Uncommon, Simple Weapon, Ranged Weapon, Major Tier, ¼ lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Discordant Thunderstave
 
 Weapon (*Quarterstaff*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

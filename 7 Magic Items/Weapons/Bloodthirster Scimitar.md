@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodthirster Scimitar
 
 Weapon (*Scimitar*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier

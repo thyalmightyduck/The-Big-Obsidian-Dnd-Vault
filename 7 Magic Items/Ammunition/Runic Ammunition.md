@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Runic Ammunition
 
 Ammunition, Generic Variant, Rare

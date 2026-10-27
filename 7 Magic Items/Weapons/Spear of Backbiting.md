@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spear of Backbiting
 
 Weapon (*Spear*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 3 lb.

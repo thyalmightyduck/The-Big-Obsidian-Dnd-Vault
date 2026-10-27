@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
   - DMG24
 ---
 [[Medium Armor]] ([[Chain Shirt]]), Rare

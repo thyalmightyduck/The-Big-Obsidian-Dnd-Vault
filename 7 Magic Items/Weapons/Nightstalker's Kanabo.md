@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nightstalker's Kanabo
 
 Weapon (*Greatclub*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 10 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Realmswarden Greataxe
 
 Weapon (*Greataxe*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 7 lb.

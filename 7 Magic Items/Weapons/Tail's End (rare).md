@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tail's End (rare)
 
 Melee Weapon, Rare

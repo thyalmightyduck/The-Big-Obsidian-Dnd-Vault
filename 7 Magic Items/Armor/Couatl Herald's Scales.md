@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Couatl Herald's Scales
 
 Medium Armor (*Scale Mail*), Rare (Requires Attunement By a Creature of Good Alignment), 45 lb.

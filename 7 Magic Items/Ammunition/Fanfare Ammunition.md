@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fanfare Ammunition
 
 Ammunition, Generic Variant, Common

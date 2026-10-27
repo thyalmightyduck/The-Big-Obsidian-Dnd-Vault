@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Saber of Unity
 
 Generic Variant, Very Rare (Requires Attunement)

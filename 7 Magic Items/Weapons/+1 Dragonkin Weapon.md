@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +1 Dragonkin Weapon
 
 Generic Variant, Rare (Requires Attunement By a Dragonborn)

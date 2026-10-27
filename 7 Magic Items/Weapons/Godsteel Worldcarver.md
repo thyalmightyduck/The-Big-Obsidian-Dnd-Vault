@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Godsteel Worldcarver
 
 Generic Variant, Legendary (Requires Attunement), Major Tier

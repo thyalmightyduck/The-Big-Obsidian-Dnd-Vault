@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Claymore of the Great Badger
 
 Weapon (*Greatsword*), Uncommon, Martial Weapon, Melee Weapon, Major Tier, 6 lb.

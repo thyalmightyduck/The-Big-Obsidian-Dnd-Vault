@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Adamantine Armor
 
 Generic Variant, Uncommon

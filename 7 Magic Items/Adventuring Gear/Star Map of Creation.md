@@ -1,11 +1,16 @@
+---
+tags:
+  - MagicItem
+  - AdventuringGear
+  - WEL
+---
 # Where Evil Lives: The MCDM Book of Boss Battles (WEL)
 #### Star Map of Creation
-
-Adventuring Gear
+***Adventuring Gear***
 
 ---
 
-This scroll displays what the night sky looked like at the creation of the Mundane World. If you have proficiency with the Arcana or Nature skill, you can spend 1 minute holding and studying the map and search it for an omen about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible outcomes:
+This scroll displays what the night sky looked like at the creation of the Mundane World. If you have [[proficiency]] with the [[Arcana]] or [[Nature]] [[skill]], you can spend 1 minute holding and studying the map and search it for an omen about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible outcomes:
 
 - Good omen
 - Bad omen
@@ -23,7 +28,7 @@ rarity: ""
 attunement: "False"
 text_align: "center"
 description: |
-  This scroll displays what the night sky looked like at the creation of the Mundane World. If you have proficiency with the Arcana or Nature skill, you can spend 1 minute holding and studying the map and search it for an omen about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible outcomes:
+  This scroll displays what the night sky looked like at the creation of the Mundane World. If you have [[proficiency]] with the [[Arcana]] or [[Nature]] [[skill]], you can spend 1 minute holding and studying the map and search it for an omen about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible outcomes:
 
   - Good omen
   - Bad omen
@@ -33,5 +38,5 @@ description: |
   The omen doesn't take into account any possible circumstances that might change the outcome, such as the loss or gain of equipment or a companion.
 
   If the map is used two or more times in 24 hours, there is a cumulative 25 percent chance for each reading after the first that you get a random reading. The GM makes this roll in secret.
-  ***Credit:*** Credit Here
+  ***Credit:*** Where Evil Lives: The MCDM Book of Boss Battles (WEL)
 ```

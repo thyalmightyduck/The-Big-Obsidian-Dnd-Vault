@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Astral Sea Piercer
 
 Weapon (*War Pick*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rostungr Armor
 
 Generic Variant, Very Rare

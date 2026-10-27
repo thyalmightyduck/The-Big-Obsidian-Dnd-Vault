@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Kempdomr Axe
 
 Generic Variant, Rare (Requires Attunement)

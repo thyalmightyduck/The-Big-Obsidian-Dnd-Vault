@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Risian Pine)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

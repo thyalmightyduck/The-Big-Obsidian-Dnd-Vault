@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Cold Absorbing Tattoo
 
 Wondrous Item (Tattoo), Very Rare (Requires Attunement)

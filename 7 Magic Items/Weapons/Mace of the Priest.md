@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mace of the Priest
 
 Weapon (*Mace*), Rare (Requires Attunement By a Cleric), Simple Weapon, Melee Weapon, Major Tier, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heaven's Gavel
 
 Weapon (*Maul*), Legendary (Requires Attunement By a Creature of Good Alignment), Martial Weapon, Melee Weapon, Major Tier, 10 lb.

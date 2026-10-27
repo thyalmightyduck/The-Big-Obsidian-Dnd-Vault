@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Claws of Corruption
 
 Weapon (*Claw*) (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

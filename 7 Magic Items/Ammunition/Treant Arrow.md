@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Treant Arrow
 
 Ammunition (*Arrow*), Uncommon, 0.8 oz.

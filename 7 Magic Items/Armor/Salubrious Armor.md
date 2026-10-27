@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Salubrious Armor
 
 Generic Variant, Rare (Requires Attunement)

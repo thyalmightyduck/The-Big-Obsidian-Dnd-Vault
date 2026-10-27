@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fool's Blade
 
 Generic Variant, Very Rare (Requires Attunement)

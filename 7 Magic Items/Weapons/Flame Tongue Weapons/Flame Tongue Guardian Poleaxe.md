@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Guardian Poleaxe]], Rare (Requires Attunement)*
 **Weapon:** 1d10 Slashing Advanced Weapon, Melee Weapon

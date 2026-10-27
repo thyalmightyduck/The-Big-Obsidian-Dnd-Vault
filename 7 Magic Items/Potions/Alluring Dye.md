@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Alluring Dye
 
 Potion, Common

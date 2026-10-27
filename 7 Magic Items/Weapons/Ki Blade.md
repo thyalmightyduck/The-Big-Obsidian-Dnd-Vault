@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ki Blade
 
 Weapon (*Shortsword*), Very Rare (Requires Attunement By a Monk), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

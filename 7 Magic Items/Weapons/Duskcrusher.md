@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Duskcrusher
 
 Weapon (*Warhammer*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

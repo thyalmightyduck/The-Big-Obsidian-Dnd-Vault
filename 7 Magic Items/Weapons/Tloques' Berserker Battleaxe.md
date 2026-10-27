@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tloques' Berserker Battleaxe
 
 Weapon (*Battleaxe*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blackstaff
 
 Staff, Weapon, Legendary (Requires Attunement By the Blackstaff Heir, Who Must Be a Wizard), Simple Weapon, Melee Weapon, 4 lb.

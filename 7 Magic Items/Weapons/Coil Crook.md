@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Coil Crook
 
 Staff, Weapon, Uncommon, Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Titan's Tooth Claymore
 
 Weapon (*Greatsword*), Very Rare, Martial Weapon, Melee Weapon, Major Tier, 6 lb.

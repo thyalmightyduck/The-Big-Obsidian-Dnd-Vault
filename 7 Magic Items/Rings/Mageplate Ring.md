@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mageplate Ring
 
 Ring, Rare (Requires Attunement), Major Tier

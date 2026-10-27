@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Blast Scepter
 
 Rod, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Starmetal Solar Axe
 
 Weapon (*Greataxe*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 7 lb.

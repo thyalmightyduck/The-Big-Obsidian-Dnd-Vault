@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Matalotok
 
 Weapon (*Warhammer*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

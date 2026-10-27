@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Thunderous Flail
 
 Weapon (*Flail*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

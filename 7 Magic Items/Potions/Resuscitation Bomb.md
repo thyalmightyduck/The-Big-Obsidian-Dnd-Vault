@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Resuscitation Bomb
 
 Potion, Rare

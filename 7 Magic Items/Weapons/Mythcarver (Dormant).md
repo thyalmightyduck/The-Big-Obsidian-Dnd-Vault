@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Mythcarver (Dormant)
 
 Weapon (*Longsword*), Legendary (Requires Attunement By a Bard), Martial Weapon, Melee Weapon, 3 lb.

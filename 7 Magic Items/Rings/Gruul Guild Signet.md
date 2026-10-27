@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gruul Guild Signet
 
 Ring, Uncommon (Requires Attunement)

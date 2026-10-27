@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragonbreath Ammunition
 
 Generic Variant, Rare, Minor Tier

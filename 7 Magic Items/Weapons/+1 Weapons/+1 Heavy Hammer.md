@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Heavy Hammer]], Uncommon*
 **Weapon:** 1d8 Bludgeoning, Martial Weapon, Melee Weapon

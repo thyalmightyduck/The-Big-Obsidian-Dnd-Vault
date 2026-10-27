@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Axe]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon

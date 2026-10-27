@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Safeguarding
 
 Generic Variant, Very Rare (Requires Attunement)

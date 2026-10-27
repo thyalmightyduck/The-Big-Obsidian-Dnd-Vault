@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Red Fury
 
 Ring, Very Rare (Requires Attunement)

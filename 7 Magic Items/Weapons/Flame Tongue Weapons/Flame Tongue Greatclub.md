@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Greatclub]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Bludgeoning, [[Simple Weapons]], [[Melee Weapons]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Psionic Rod of the Honed Mind
 
 Rod, Very Rare (Requires Attunement By a Warlock), 2 lb.

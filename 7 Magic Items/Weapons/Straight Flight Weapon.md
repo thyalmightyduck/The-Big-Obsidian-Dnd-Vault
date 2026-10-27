@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Straight Flight Weapon
 
 Generic Variant

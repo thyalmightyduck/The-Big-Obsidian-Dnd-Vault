@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Poison Armor of Amphibios
 
 Generic Variant, Rare (Requires Attunement), Major Tier

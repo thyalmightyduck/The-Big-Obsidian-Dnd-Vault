@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Flooze (very rare)
 
 Weapon (*Flail*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

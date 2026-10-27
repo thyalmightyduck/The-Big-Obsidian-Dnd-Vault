@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Vampire Climbing
 
 Potion, Minor Tier

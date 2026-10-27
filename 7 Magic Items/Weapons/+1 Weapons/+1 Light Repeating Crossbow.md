@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Light Repeating Crossbow]], Uncommon*
 **Weapon:** 1d8 Piercing, Simple Weapon, Ranged Weapon

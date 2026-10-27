@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scroll of Protection (Monstrosities)
 
 Scroll, Rare

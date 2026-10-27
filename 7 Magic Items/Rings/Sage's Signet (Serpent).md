@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sage's Signet (Serpent)
 
 Ring, Rare (Requires Attunement By a Spellcaster)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Direstone Dwarven Pick
 
 Weapon (*War Pick*), Rare (Requires Attunement By a Dwarf), Martial Weapon, Melee Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sapphire Buckler
 
 Shield (*Shield*), Very Rare (Requires Attunement), 6 lb.

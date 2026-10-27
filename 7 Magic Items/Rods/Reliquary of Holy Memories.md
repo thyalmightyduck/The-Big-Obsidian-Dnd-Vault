@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Reliquary of Holy Memories
 
 Weapon (*Mace*), Rod (Requires Attunement By a Cleric or Paladin), Simple Weapon, Major Tier

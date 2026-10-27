@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shaedenstaff
 
 Staff, Weapon, Very Rare (Requires Attunement By a Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, 4 lb.

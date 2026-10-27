@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Saint Markovia's Thighbone
 
 Melee Weapon, Rare (Requires Attunement), 4 lb.

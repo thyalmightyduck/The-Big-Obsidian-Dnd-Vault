@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lightbringer
 
 Weapon (*Mace*), Uncommon, Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Climbing Ivy
 
 Staff, Weapon, Uncommon (Requires Attunement By a Bard, Druid, Sorcerer, or Warlock), Simple Weapon, Melee Weapon, 4 lb.

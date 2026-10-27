@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Stonebane Weapon
 
 Generic Variant, Uncommon

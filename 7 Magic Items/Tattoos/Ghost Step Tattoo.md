@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ghost Step Tattoo
 
 Wondrous Item (Tattoo), Very Rare (Requires Attunement)

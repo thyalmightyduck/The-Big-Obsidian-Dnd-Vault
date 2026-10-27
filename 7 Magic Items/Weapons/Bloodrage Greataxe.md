@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloodrage Greataxe
 
 Weapon (*Greataxe*), Uncommon, Martial Weapon, Melee Weapon, 7 lb.

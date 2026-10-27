@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Vicious Weapon
 
 Generic Variant, Rare

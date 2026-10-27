@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sage's Signet (Bear)
 
 Ring, Very Rare (Requires Attunement By a Spellcaster)

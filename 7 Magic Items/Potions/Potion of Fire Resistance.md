@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Fire Resistance
 
 Potion, Uncommon, ½ lb.

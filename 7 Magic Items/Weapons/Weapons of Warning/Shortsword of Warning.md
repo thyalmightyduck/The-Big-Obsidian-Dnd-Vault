@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 **Weapon:** 1d6 Piercing Martial Weapon, Melee Weapon
 **Properties:** Finesse, Light

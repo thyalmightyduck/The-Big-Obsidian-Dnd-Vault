@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of the White Rose
 
 Generic Variant, Very Rare (Requires Attunement)

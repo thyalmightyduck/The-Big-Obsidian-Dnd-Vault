@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Imbued Wood (Xorian Wenge)
 
 Wondrous Item, Generic Variant, Common (Requires Attunement)

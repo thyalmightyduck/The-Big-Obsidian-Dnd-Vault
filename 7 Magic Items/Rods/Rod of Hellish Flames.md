@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Hellish Flames
 
 Rod, Very Rare (Requires Attunement By a Spellcaster)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Pneuma Blade (very rare)
 
 Melee Weapon, Very Rare

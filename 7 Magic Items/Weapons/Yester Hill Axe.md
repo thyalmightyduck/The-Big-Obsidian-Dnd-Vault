@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Yester Hill Axe
 
 Weapon (*Battleaxe*), Martial Weapon, Melee Weapon, 2 lb.

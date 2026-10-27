@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Heavy Golem Armor
 
 Heavy Armor (*Plate Armor*), Rare (Requires Attunement By a Small Humanoid), Major Tier, 65 lb.

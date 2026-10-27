@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Lilypad Tonic
 
 Potion, Common

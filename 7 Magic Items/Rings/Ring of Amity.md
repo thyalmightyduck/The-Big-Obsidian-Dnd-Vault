@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Amity
 
 Ring, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Club of Dancing
 
 Weapon (*Club*), Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, Major Tier, 2 lb.

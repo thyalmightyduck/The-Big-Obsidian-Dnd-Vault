@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Storrbani
 
 Weapon (*Longsword*) (Requires Attunement By a 5th-Level or Higher Character), Martial Weapon, Melee Weapon, 1 lb.

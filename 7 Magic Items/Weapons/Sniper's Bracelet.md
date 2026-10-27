@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sniper's Bracelet
 
 Generic Variant, Common (Requires Attunement)

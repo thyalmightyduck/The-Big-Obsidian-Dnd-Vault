@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Davy Jones's Key
 
 Weapon (*Trident*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, Major Tier, 4 lb.

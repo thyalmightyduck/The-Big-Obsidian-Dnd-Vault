@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Bloody Marilith (Very Rare)
 
 Potion, Very Rare, Minor Tier

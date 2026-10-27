@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Sorcerer King
 
 Staff, Melee Weapon (*Spear*), Legendary (Requires Attunement)

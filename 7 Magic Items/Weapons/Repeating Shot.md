@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Repeating Shot
 
 Generic Variant, Uncommon (Requires Attunement)

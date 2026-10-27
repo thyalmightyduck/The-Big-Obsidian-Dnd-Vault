@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Puzzler's Wit
 
 Ring, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Ruin
 
 Rod, Rare (Requires Attunement)

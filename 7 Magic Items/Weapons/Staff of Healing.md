@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Healing
 
 Staff, Weapon, Rare (Requires Attunement By a Bard, Cleric, or Druid), Simple Weapon, Melee Weapon, 4 lb.

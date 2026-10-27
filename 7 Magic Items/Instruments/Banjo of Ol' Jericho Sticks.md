@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Banjo of Ol' Jericho Sticks
 
 Wondrous Item, Generic Variant (Requires Attunement)

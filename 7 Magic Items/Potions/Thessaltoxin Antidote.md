@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Thessaltoxin Antidote
 
 Potion, Uncommon

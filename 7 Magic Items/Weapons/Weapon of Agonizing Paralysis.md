@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Weapon of Agonizing Paralysis
 
 Generic Variant, Very Rare (Requires Attunement)

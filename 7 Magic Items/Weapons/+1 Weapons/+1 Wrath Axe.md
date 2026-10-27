@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Items/Weapons/Wrath Axe]], Uncommon*
 **Weapon:** 2d6 Slashing, Advanced Weapon, Melee Weapon

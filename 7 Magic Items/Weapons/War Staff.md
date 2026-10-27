@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### War Staff
 
 Staff, Weapon, Common (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 4 lb.

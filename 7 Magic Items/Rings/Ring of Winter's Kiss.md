@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Winter's Kiss
 
 Ring, Rare (Requires Attunement)

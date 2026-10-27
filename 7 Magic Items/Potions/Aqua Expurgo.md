@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aqua Expurgo
 
 Potion, Rare

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Necrotic Resistance
 
 Potion, Uncommon, ½ lb.

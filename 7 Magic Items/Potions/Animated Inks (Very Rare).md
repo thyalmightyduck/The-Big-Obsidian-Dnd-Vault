@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Animated Inks (Very Rare)
 
 Potion, Very Rare (Requires Attunement)

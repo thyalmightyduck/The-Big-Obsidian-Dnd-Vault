@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scroll of Mapping (Very Rare)
 
 Scroll, Very Rare, Minor Tier

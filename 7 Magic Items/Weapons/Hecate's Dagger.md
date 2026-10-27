@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hecate's Dagger
 
 Weapon (*Dagger*), Legendary (Requires Attunement By a Cleric or Wizard), Simple Weapon, Melee Weapon, 1 lb.

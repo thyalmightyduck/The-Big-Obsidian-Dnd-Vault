@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Philter of Enchanted Fortune
 
 Potion, Rare

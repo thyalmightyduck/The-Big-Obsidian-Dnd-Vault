@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tireless Armor
 
 Generic Variant, Rare (Requires Attunement)

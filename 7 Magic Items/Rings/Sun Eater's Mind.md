@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sun Eater's Mind
 
 Ring, Very Rare (Requires Attunement)

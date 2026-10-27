@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Archet Hunting Bow
 
 Generic Variant

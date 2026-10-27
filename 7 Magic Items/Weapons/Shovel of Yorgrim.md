@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shovel of Yorgrim
 
 Weapon (*Greatclub*), Generic Variant (Requires Attunement), Simple Weapon, Melee Weapon, 10 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gorgon Hide Mail
 
 Medium Armor (*Scale Mail*), Uncommon (Requires Attunement), 45 lb.

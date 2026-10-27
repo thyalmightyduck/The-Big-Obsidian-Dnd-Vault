@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Nightmares
 
 Ring, Rare (Requires Attunement By Spellcaster)

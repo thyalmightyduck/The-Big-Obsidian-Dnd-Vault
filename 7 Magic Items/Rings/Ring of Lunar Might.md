@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Lunar Might
 
 Ring, Very Rare (Requires Attunement), Major Tier

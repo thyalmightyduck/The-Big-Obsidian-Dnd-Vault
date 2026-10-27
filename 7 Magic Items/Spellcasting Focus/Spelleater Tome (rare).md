@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spelleater Tome (rare)
 
 Wondrous Item, Spellcasting Focus, Rare (Requires Attunement)

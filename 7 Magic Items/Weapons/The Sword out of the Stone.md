@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### The Sword out of the Stone
 
 Melee Weapon, Legendary (Requires Attunement By a Creature with a Strength Score of 16 or Higher)

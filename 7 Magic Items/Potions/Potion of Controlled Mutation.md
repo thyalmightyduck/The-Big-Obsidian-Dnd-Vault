@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Controlled Mutation
 
 Potion, Uncommon

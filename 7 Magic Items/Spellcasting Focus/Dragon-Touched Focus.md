@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon-Touched Focus
 
 Wondrous Item, Spellcasting Focus (Requires Attunement By a Spellcaster)

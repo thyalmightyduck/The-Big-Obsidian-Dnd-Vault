@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Armor
 
 Generic Variant, Legendary

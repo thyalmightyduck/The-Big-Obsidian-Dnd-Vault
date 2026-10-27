@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wavecutter
 
 Generic Variant, Rare, Major Tier

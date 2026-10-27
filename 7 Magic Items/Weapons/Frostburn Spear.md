@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Frostburn Spear
 
 Weapon (*Spear*), Very Rare, Simple Weapon, Melee Weapon, Major Tier, 2 lb.

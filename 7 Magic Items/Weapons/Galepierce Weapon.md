@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Galepierce Weapon
 
 Generic Variant, Uncommon

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of Lightning Resistance
 
 Generic Variant, Rare (Requires Attunement)

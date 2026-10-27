@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dazzling Weapon
 
 Generic Variant, Rare (Requires Attunement)

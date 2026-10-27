@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spirit Pike
 
 Weapon (*Pike*), Rare (Requires Attunement By a Cleric), Martial Weapon, Melee Weapon, 18 lb.

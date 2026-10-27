@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Stolen Alacrity
 
 Ring, Uncommon, Minor Tier

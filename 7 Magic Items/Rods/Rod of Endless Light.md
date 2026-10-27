@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of Endless Light
 
 Rod, Common, Minor Tier

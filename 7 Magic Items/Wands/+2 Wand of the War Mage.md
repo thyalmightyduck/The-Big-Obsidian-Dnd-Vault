@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +2 Wand of the War Mage
 
 Wand, Rare (Requires Attunement By a Spellcaster), 1 lb.

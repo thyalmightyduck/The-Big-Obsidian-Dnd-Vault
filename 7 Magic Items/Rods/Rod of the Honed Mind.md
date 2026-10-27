@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of the Honed Mind
 
 Rod (Requires Attunement By a Warlock)

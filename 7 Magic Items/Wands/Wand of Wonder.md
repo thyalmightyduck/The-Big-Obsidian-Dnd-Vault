@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Wonder
 
 Wand, Rare (Requires Attunement), 1 lb.

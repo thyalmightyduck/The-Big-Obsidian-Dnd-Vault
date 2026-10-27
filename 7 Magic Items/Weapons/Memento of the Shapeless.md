@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Memento of the Shapeless
 
 Generic Variant, Legendary (Requires Attunement)

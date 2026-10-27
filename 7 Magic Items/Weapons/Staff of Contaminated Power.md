@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of Contaminated Power
 
 Staff, Weapon, Legendary (Requires Attunement By a Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, 4 lb.

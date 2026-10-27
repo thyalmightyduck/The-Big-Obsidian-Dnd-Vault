@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hat of Wizardry
 
 Wondrous Item, Spellcasting Focus, Common (Requires Attunement By a Wizard)

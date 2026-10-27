@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tearulai
 
 Weapon (*Longsword*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 3 lb.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Shortbow]], Uncommon*
 **Weapon:** 1d6 Piercing Simple Weapon, Ranged Weapon

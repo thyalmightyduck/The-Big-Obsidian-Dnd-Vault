@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.path.startsWith("7 Magic Items")
+    image: note.picture

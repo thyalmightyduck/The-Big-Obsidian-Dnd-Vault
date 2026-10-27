@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Shard of Moonlight
 
 Trick Weapon, Artifact (Requires Attunement)

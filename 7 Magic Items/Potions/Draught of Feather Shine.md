@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Draught of Feather Shine
 
 Potion, Very Rare

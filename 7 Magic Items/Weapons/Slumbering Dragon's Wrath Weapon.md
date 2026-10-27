@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Slumbering Dragon's Wrath Weapon
 
 Generic Variant, Uncommon (Requires Attunement)

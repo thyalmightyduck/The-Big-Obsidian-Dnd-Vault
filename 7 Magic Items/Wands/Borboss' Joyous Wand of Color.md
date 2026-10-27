@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Borboss' Joyous Wand of Color
 
 Wand, Common

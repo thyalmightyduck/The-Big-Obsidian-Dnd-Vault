@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Drown
 
 Weapon (*Trident*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

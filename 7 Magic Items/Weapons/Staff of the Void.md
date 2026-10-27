@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Staff of the Void
 
 Staff, Weapon, Very Rare (Requires Attunement By a Cleric, Sorcerer, Warlock, or Wizard), Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rune-Scored Armour
 
 Generic Variant

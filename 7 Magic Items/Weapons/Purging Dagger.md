@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Purging Dagger
 
 Weapon (*Dagger*), Very Rare (Requires Attunement), Simple Weapon, Melee Weapon, 1 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wyllow's Staff of Flowers
 
 Staff, Weapon, Common (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

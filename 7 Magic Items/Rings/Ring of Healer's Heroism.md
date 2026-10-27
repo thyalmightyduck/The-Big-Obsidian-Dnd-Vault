@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Healer's Heroism
 
 Ring, Uncommon (Requires Attunement By a Spellcaster), Major Tier

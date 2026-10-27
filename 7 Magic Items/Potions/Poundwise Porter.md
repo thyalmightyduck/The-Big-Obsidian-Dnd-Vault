@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Poundwise Porter
 
 Potion, Very Rare

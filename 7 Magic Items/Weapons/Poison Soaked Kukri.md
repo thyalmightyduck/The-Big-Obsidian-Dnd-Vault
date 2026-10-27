@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Poison Soaked Kukri
 
 Weapon, Uncommon (Requires Attunement), Simple Weapon, Melee Weapon

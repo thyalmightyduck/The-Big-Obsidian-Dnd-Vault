@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Potion of Gaseous Form
 
 Potion, Rare, ½ lb.

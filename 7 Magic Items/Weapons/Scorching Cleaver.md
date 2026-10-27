@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Scorching Cleaver
 
 Weapon (*Battleaxe*), Very Rare (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

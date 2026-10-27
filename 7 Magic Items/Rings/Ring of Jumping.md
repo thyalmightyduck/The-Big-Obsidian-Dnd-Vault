@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Jumping
 
 Ring, Uncommon (Requires Attunement)

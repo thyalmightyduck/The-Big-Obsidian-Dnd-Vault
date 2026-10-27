@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Battlechef Buckler
 
 Shield (*Shield*), Uncommon, 6 lb.

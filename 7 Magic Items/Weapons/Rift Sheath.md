@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rift Sheath
 
 Melee Weapon (*Quarterstaff*), Rare (Requires Attunement), Major Tier

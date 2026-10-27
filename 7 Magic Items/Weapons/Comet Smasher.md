@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Comet Smasher
 
 Generic Variant, Very Rare (Requires Attunement)

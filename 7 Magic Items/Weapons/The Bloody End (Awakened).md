@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### The Bloody End (Awakened)
 
 Weapon (*Morningstar*), Artifact (Requires Attunement), Martial Weapon, Melee Weapon, 4 lb.

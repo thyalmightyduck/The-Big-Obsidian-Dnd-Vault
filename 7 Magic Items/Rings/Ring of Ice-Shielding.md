@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Ice-Shielding
 
 Ring, Rare (Requires Attunement)

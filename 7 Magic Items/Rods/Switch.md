@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Switch
 
 Rod, Very Rare (Requires Attunement By a Druid)

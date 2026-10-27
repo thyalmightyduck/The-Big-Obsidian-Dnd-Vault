@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Grave Reaper
 
 Weapon (*Sickle*), Legendary (Requires Attunement), Simple Weapon, Melee Weapon, 2 lb.

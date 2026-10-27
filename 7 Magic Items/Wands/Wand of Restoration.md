@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of Restoration
 
 Wand, Rare (Requires Attunement)

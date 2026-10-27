@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Chillspike
 
 Weapon (*Pike*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 18 lb.

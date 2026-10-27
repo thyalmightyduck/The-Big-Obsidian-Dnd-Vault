@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Unbreakable Arrow
 
 Ammunition, Common, Minor Tier

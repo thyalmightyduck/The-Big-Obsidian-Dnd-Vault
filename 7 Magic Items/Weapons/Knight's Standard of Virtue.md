@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Knight's Standard of Virtue
 
 Weapon (*Glaive*), Rare (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

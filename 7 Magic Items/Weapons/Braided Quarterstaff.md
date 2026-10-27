@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Braided Quarterstaff
 
 Weapon (*Quarterstaff*), Uncommon, Simple Weapon, Melee Weapon, 4 lb.

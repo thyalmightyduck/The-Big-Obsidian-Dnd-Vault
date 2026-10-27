@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ionbreaker, the Tempest's Reach
 
 Weapon (*Longbow*), Artifact (Requires Attunement), Martial Weapon, Ranged Weapon, 2 lb.

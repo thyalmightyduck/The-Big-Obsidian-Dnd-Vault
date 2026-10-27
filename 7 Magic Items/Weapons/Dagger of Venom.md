@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dagger of Venom
 
 Weapon (*Dagger*), Rare, Simple Weapon, Melee Weapon, 1 lb.

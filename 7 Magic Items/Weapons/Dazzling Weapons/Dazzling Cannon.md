@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Cannon]], Rare (Requires Attunement)*
 **Weapon:** 2d8 Fire Martial Weapon, Ranged Weapon, Firearm

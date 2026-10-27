@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Red-Feather Bow
 
 Generic Variant, Uncommon (Requires Attunement)

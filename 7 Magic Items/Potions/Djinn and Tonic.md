@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Djinn and Tonic
 
 Potion, Minor Tier

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Terrorasque (rare)
 
 Melee Weapon, Rare (Requires Attunement)

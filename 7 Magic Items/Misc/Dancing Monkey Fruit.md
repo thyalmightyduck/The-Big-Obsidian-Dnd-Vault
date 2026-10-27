@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dancing Monkey Fruit
 
 5 GP

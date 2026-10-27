@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Wonderous Item, Legendary (Requires [[Attunement]])*
 > [!infobox]

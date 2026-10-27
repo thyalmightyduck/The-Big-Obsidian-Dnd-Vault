@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Wand of the Frostrose
 
 Wand, Rare (Requires Attunement By a Spellcaster), Major Tier

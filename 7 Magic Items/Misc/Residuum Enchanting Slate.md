@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Residuum Enchanting Slate
 
 Wondrous Item, Tool, 20,000 GP

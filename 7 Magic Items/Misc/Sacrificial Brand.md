@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sacrificial Brand
 
 Generic Variant

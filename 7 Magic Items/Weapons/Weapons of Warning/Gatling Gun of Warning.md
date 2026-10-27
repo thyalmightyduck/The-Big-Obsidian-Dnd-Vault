@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Gatling Gun]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Piercing Martial Weapon, Ranged Weapon, Firearm

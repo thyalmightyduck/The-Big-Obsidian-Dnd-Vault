@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Periscope Rod
 
 Rod, Common, Minor Tier

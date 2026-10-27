@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Harp of Valor
 
 Weapon (*Shortbow*), Very Rare (Requires Attunement By a Bard), Simple Weapon, Ranged Weapon, 2 lb.

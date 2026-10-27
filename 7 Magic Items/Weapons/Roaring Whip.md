@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Roaring Whip
 
 Weapon (*Whip*), Uncommon, Martial Weapon, Melee Weapon, Major Tier, 3 lb.

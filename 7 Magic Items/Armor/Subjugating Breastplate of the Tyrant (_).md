@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Subjugating Breastplate of the Tyrant (*)
 
 Generic Variant, Legendary (Requires Attunement)

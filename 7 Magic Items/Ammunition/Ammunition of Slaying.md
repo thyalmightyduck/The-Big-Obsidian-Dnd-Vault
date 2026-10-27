@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ammunition of Slaying
 
 Ammunition, Generic Variant, Very Rare

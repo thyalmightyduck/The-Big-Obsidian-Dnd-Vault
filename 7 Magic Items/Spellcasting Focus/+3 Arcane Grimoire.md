@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Arcane Grimoire
 
 Wondrous Item, Spellcasting Focus, Very Rare (Requires Attunement By a Wizard), 3 lb.

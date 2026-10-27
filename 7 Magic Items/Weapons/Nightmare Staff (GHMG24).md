@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Nightmare Staff
 
 Staff, Weapon, Uncommon (Requires Attunement), Simple Weapon, Melee Weapon, 4 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Haemscale (rare)
 
 Generic Variant, Rare (Requires Attunement)

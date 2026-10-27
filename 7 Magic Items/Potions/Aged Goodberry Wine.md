@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Aged Goodberry Wine
 
 Potion, Rare, Minor Tier

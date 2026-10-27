@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tincture of Mourning
 
 Potion, Rare

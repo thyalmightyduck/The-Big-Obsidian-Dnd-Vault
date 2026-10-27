@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Dragon Thighbone Club
 
 Weapon (*Greatclub*) (Attunement Optional), Simple Weapon, Melee Weapon, 250 lb.

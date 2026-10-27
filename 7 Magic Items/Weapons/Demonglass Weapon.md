@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Demonglass Weapon
 
 Generic Variant, Rare (Requires Attunement)

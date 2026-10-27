@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Weapon (Level 6)
 
 Generic Variant, Legendary (Requires Attunement)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Seax]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon

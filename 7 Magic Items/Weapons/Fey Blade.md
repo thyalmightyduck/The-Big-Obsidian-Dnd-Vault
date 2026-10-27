@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Fey Blade
 
 Generic Variant, Uncommon

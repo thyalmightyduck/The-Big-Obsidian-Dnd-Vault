@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Gnoll Ammunition
 
 Ammunition, Generic Variant, Uncommon, Minor Tier

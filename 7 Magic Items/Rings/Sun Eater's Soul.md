@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Sun Eater's Soul
 
 Ring, Very Rare (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Silence of the Drowned
 
 Potion, Uncommon

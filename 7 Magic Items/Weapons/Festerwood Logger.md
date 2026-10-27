@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Festerwood Logger
 
 Weapon (*Handaxe*), Uncommon, Simple Weapon, Melee Weapon, 2 lb.

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hazirawn
 
 Weapon (*Greatsword*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 6 lb.

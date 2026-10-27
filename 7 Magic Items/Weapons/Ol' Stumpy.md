@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ol' Stumpy
 
 Weapon (*Maul*), Uncommon, Martial Weapon, Melee Weapon, Major Tier, 10 lb.

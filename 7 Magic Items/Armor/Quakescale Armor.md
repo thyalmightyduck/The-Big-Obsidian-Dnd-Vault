@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Quakescale Armor
 
 Medium Armor (*Scale Mail*), Uncommon, 45 lb.

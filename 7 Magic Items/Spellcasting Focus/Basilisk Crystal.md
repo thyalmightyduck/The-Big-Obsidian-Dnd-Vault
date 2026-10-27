@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Basilisk Crystal
 
 Wondrous Item, Spellcasting Focus, Common

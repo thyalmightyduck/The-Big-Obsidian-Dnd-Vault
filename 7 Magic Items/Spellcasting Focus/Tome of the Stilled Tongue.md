@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Tome of the Stilled Tongue
 
 Wondrous Item, Spellcasting Focus, Legendary (Requires Attunement By a Wizard), 5 lb.

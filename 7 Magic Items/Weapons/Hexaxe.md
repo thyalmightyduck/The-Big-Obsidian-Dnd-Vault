@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hexaxe
 
 Weapon (*Handaxe*), Uncommon (Requires Attunement By a Warlock), Simple Weapon, Melee Weapon, 2 lb.

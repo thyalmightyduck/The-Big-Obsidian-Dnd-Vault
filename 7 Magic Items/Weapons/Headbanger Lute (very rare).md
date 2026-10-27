@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Headbanger Lute (very rare)
 
 Melee Weapon, Very Rare (Requires Attunement)

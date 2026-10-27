@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Magnum]], Uncommon*
 **Weapon:** 2d8 Piercing Martial Weapon, Ranged Weapon, Firearm

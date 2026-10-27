@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hollow Steel Weapon
 
 Generic Variant

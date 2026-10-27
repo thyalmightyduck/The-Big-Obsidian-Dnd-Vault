@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rage Hammer
 
 Generic Variant, Uncommon (Requires Attunement By a Barbarian)

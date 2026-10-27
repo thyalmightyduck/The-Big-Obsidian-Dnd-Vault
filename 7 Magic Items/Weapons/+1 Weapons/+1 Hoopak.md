@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Hoopak]], Uncommon*
 **Weapon:** 1d6 Piercing, Martial Weapon, Melee Weapon

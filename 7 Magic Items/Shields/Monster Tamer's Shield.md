@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Monster Tamer's Shield
 
 Armor (*Shield*), Rare (Requires Attunement), Major Tier, 6 lb.

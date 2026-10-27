@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Serpent Scale Armor
 
 Medium Armor (*Scale Mail*), Uncommon, 45 lb.

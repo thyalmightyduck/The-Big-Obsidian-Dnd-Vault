@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Warhammer of Giant Felling
 
 Weapon (*Warhammer*), Very Rare, Martial Weapon, Melee Weapon, 2 lb.

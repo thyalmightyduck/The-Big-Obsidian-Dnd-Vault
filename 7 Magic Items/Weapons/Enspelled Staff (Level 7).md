@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Enspelled Staff (Level 7)
 
 Staff, Weapon, Legendary (Requires Attunement By a Spellcaster), Simple Weapon, Melee Weapon, 4 lb.

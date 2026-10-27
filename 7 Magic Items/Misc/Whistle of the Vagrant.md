@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Whistle of the Vagrant
 
 Wondrous Item, Generic Variant (Requires Attunement)

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Orostead Iced Tea
 
 Potion, Minor Tier

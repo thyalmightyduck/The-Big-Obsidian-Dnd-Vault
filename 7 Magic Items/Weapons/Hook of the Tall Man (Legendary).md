@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Hook of the Tall Man (Legendary)
 
 Weapon (*War Pick*), Legendary (Requires Attunement), Martial Weapon, Melee Weapon, 2 lb.

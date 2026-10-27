@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Vilesmog Bomb
 
 Wondrous Item, Explosive, Uncommon

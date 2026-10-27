@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Rod of the Magicycle
 
 Rod, Rare, Major Tier

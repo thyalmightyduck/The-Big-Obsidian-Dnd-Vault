@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Octavius's Saber
 
 Weapon (*Rapier*), Legendary (Requires Attunement By a Rogue), Martial Weapon, Melee Weapon, Major Tier, 2 lb.

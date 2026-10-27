@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Necromancer's Armor
 
 Generic Variant, Rare (Requires Attunement By a Spellcaster)

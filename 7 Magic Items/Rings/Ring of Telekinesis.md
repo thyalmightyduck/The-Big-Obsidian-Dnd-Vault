@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Telekinesis
 
 Ring, Very Rare (Requires Attunement)

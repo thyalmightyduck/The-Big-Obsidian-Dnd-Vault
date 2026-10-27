@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### +3 Shield (*)
 
 Generic Variant, Very Rare

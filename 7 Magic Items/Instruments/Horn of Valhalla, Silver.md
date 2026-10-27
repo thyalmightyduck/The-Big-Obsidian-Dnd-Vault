@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Horn of Valhalla, Silver
 
 Wondrous Item, Instrument (*Horn*), Rare

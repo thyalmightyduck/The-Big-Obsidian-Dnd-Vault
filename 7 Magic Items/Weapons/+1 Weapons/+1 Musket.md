@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Musket]], Uncommon*
 **Weapon:** 1d12 Piercing, [[Martial Weapons]], [[Ranged Weapons]], [[Firearms]]

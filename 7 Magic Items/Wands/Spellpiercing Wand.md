@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Spellpiercing Wand
 
 Wand, Uncommon (Requires Attunement By a Spellcaster)

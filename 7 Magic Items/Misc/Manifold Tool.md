@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 Wondrous Item, [[Common]] (Requires [[Attunement]])
 - - - 

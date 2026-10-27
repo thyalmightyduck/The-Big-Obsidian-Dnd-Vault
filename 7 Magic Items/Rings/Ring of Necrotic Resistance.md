@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ring of Necrotic Resistance
 
 Ring, Rare

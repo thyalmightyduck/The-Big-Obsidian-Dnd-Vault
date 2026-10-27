@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Vampire Blood Potion
 
 Potion, Very Rare

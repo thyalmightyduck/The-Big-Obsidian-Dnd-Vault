@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem
+  - MagicItem
 ---
 *Weapon [[Handgun]], Uncommon*
 **Weapon:** 2d4 Piercing Martial Weapon, Ranged Weapon, Firearm

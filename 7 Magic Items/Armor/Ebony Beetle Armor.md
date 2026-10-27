@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Ebony Beetle Armor
 
 Generic Variant, Rare

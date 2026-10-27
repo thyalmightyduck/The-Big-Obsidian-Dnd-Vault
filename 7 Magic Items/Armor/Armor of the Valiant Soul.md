@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Armor of the Valiant Soul
 
 Medium Armor (*Scale Mail*), Legendary (Requires Attunement), 45 lb.

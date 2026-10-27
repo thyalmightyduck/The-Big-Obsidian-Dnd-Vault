@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem
+---
 #### Somniferous Blossom Rod
 
 Rod, Very Rare (Requires Attunement By a Spellcaster)
