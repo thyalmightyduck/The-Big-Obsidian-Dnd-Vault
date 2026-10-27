@@ -2,10 +2,12 @@
 tags:
   - MagicItem
   - Ammunition
+  - Uncommon
+  - DMG24
 ---
+# Dungeon Master’s Guide (DMG24)
 #### +1 Bolt
-
-Ammunition (*Bolt*), Uncommon, 1.2 oz.
+***Ammunition ([[Items/Ammunition/Bolt|Bolt]]), Uncommon, 1.2 oz.***
 
 ---
 
