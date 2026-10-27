@@ -1,3 +1,7 @@
+---
+aliases:
+  - Flare
+---
 #### Flare
 
 Ammunition, 1 GP, 1 lb.
