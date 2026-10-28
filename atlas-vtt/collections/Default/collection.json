@@ -403,9 +403,10 @@
         "field": "stats.1",
         "abilityScore": true
       },
-      "firstSide": "players"
+      "firstSide": "players",
+      "rollHitPoints": true
     }
   },
   "createdAt": 1790659852594,
-  "modifiedAt": 1792722824144
+  "modifiedAt": 1793219431486
 }
