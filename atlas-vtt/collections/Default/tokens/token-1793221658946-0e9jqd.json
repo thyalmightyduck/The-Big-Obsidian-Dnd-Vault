@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Mechanical Bird",
+    "imagePath": "atlas-vtt/assets/Mechanical_Bird_1793221658445_aex0v7.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Construct/Mechanical Bird.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Mechanical_Bird_1793221658445_aex0v7-c332172c.webp",
+    "id": "token-1793221658946-0e9jqd",
+    "createdAt": 1793221658946,
+    "modifiedAt": 1793221658946
+  }
+}
