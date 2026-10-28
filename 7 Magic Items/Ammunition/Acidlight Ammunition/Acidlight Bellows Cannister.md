@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Bellows Cannister
 
 Ammunition (*Bellows Cannister*), Rare, ⅕ lb.

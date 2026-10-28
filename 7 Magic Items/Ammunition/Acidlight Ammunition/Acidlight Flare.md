@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Flare
 
 Ammunition (*Flare*), Rare, 1 lb.

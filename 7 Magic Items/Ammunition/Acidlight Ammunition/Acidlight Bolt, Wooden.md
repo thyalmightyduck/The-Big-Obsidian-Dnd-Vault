@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Bolt, Wooden
 
 Ammunition (*Bolt, Wooden*), Rare, 0.8 oz.

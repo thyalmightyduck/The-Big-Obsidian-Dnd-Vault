@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Firearm Bullet
 
 Ammunition (*Firearm Bullet*), Rare, ⅕ lb.

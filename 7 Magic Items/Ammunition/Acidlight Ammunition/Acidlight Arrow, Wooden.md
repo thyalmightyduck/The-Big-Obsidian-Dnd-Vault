@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Arrow, Wooden
 
 Ammunition (*Arrow, Wooden*), Rare, 0.4 oz.

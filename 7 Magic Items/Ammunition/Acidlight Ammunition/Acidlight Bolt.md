@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Bolt
 
 Ammunition (*Bolt*), Rare, 1.2 oz.

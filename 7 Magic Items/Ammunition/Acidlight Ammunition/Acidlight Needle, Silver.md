@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Needle, Silver
 
 Ammunition (*Needle, Silver*), Rare, 0.32 oz.

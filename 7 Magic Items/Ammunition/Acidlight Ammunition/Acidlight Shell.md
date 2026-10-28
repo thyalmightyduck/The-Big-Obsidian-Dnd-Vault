@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Shell
 
 Ammunition (*Shell*), Rare, 2.4 oz.

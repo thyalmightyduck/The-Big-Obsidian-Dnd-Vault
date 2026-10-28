@@ -15,3 +15,16 @@ When you make your character, you may roll once on the Prismari Trinkets table, 
 |  4  | A bandolier of watercolor paints                                            |
 |  5  | A tiara capped with a crystal that crackles with harmless lightning         |
 |  6  | An iridescent quill                                                         |
+```itemcard
+name: "Magic Item Name Here"
+image: "Chthonian Chains BGR PNG.png"
+type: "Mundane"
+subtype: "Subtype Here"
+rarity: "Rarity Here"
+attunement: "True"
+price: "000"
+text_align: "center"
+description: |
+  Magic Item Description Here
+  ***Credit:*** Credit Here
+```

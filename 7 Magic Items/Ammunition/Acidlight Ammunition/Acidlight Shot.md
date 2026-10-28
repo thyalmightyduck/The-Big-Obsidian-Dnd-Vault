@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Shot
 
 Ammunition (*Shot*), Rare, ⅕ lb.

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Energy Cell
 
 Ammunition (*Energy Cell*), Rare, Futuristic, ½ lb.

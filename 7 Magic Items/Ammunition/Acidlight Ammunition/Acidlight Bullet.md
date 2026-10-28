@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Bullet
 
 Ammunition (*Bullet*), Rare, 2.4 oz.

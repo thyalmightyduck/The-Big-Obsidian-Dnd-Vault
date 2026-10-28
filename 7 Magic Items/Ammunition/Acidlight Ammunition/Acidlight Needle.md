@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Needle
 
 Ammunition (*Needle*), Rare, 0.32 oz.

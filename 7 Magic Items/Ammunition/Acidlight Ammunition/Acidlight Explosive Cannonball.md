@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Explosive Cannonball
 
 Ammunition (*Explosive Cannonball*), Rare, 12 lb.

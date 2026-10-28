@@ -42,8 +42,8 @@
     flex-shrink: 0;
 }
 
-.wc-rarity--default .wc-card-accent  { background: #7c3aed; }
-.wc-rarity--common .wc-card-accent   { background: #9ca3af; }
+.wc-rarity--default .wc-card-accent  { background: #8876a7; }
+.wc-rarity--common .wc-card-accent   { background: #ff5cf1; }
 .wc-rarity--uncommon .wc-card-accent { background: #34d399; }
 .wc-rarity--rare .wc-card-accent     { background: #60a5fa; }
 .wc-rarity--veryrare .wc-card-accent { background: #a78bfa; }
@@ -51,8 +51,8 @@
 .wc-rarity--artifact .wc-card-accent { background: #f87171; }
 
 /* ═══ Meta line — rarity-colored text ═══ */
-.wc-rarity--default .wc-card-meta  { color: #a78bfa; }
-.wc-rarity--common .wc-card-meta   { color: #9ca3af; }
+.wc-rarity--default .wc-card-meta  { color: #8876a7; }
+.wc-rarity--common .wc-card-meta   { color: #ff5cf1; }
 .wc-rarity--uncommon .wc-card-meta { color: #34d399; }
 .wc-rarity--rare .wc-card-meta     { color: #60a5fa; }
 .wc-rarity--veryrare .wc-card-meta { color: #a78bfa; }

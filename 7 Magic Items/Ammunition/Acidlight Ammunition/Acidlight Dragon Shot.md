@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Dragon Shot
 
 Ammunition (*Dragon Shot*), Rare, 1.6 oz.

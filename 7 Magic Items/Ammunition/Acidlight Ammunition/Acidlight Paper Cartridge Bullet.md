@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Paper Cartridge Bullet
 
 Ammunition (*Paper Cartridge Bullet*), Rare, 1.6 oz.

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Arrow, Silver
 
 Ammunition (*Arrow, Silver*), Rare, 0.8 oz.

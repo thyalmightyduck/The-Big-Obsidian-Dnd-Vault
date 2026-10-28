@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Bullet, Silver
 
 Ammunition (*Bullet, Silver*), Rare, ⅕ lb.

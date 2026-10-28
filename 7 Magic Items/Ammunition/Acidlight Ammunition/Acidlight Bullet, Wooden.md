@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Bullet, Wooden
 
 Ammunition (*Bullet, Wooden*), Rare, 1.6 oz.

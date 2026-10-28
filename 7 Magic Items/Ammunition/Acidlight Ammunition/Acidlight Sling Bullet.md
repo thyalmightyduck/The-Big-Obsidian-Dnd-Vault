@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Sling Bullet
 
 Ammunition (*Sling Bullet*), Rare, 1.2 oz.

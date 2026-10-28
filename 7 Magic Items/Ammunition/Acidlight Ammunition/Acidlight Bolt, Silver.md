@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 #### Acidlight Bolt, Silver
 
 Ammunition (*Bolt, Silver*), Rare, 1.2 oz.
