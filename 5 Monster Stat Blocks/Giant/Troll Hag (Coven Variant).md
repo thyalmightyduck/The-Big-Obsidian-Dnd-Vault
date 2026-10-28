@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Troll Hag (Coven Variant)
 >*Large Giant*

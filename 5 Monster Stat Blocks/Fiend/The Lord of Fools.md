@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Lord of Fools
 >*Huge Fiend, Chaotic Evil*

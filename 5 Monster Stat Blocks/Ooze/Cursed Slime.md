@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cursed Slime
 >*Medium Ooze, Neutral Evil*

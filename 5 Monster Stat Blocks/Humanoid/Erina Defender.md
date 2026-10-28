@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Erina Defender
 >*Small Humanoid (Erina), Neutral*

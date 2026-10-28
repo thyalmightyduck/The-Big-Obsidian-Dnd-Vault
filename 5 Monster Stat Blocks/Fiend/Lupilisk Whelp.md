@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lupilisk Whelp
 >*Medium Fiend, Neutral Evil*

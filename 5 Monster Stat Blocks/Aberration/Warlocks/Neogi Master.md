@@ -4,6 +4,7 @@ tags:
   - Aberration
   - MPMM
   - CR4
+Progress: Game Ready
 ---
 # Mordenkainen Presents: Monster of the Multiverse (MPMM)
 ___

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tasloi Sniper
 >*Small Humanoid, Chaotic Evil*

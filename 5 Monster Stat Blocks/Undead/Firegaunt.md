@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Firegaunt
 >*Huge Undead, typically Lawful Evil*

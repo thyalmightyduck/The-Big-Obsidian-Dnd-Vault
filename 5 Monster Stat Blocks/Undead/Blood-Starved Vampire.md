@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blood-Starved Vampire
 >*Medium Undead (Minion), typically Neutral Evil*

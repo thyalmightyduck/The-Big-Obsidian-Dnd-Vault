@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Yeti Tyke
 >*Small Monstrosity, Chaotic Evil*

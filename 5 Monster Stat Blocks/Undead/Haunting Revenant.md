@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Haunting Revenant
 >*Gargantuan Undead, Neutral*

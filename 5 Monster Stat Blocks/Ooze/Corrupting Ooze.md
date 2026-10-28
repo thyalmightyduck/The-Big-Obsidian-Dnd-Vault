@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Corrupting Ooze
 >*Large Ooze, Neutral Evil*

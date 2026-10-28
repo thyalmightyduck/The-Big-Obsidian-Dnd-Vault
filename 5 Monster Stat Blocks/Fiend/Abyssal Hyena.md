@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Abyssal Hyena
 >*Medium Fiend (Minion), typically Chaotic Evil*

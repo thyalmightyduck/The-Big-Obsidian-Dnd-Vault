@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Core Spawn Seer
 >*Medium Aberration, Chaotic Evil*

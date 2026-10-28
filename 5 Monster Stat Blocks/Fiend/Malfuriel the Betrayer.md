@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Malfuriel the Betrayer
 >*Large Fiend (Devil), Lawful Evil*

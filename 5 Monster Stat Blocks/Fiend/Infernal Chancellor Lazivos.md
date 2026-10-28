@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Infernal Chancellor Lazivos
 >*Medium Fiend (Devil, Leader); Lawful Evil*

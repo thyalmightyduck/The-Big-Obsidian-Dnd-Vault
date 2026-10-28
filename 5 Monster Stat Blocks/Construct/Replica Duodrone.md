@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Replica Duodrone
 >*Medium Construct, Lawful Neutral*

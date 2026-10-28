@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Harengon Brigand
 >*Medium Humanoid, Any Alignment*

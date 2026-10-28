@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Hezrou
 >*Large Fiend (Demon), Chaotic Evil*

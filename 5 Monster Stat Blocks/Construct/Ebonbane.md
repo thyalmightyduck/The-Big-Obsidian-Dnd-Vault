@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ebonbane
 >*Small Construct, Chaotic Evil*

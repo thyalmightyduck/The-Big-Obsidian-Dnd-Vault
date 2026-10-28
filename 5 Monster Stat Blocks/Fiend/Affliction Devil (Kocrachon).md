@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Affliction Devil (Kocrachon)
 >*Medium Fiend (Devil), Lawful Evil*

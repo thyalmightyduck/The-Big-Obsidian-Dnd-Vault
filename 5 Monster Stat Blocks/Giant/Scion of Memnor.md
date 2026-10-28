@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scion of Memnor
 >*Gargantuan Giant (Titan), typically Chaotic Neutral*

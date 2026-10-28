@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Soman Vampire Noble
 >*Medium Undead, Any Alignment*

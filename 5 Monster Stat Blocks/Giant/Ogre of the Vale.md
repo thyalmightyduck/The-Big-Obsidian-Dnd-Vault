@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre of the Vale
 >*Large Giant, Neutral Evil*

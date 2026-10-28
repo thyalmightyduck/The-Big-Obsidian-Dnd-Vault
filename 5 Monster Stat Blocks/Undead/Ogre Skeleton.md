@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre Skeleton
 >*Large Undead, Chaotic Evil*

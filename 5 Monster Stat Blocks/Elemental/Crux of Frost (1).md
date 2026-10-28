@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crux of Frost
 >*Medium Elemental (Water, Controller); Any Alignment*

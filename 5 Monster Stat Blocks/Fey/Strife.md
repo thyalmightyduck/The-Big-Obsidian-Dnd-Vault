@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Strife
 >*Small Fey, Chaotic Evil*

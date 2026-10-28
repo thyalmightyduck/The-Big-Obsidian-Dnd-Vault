@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nycaloth
 >*Large Fiend (Yugoloth), Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warrior
 >*1st-level Medium Humanoid*

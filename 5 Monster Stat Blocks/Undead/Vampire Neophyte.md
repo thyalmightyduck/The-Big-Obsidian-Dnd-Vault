@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire Neophyte
 >*Medium Undead (Undead, Retainer); Any Alignment*

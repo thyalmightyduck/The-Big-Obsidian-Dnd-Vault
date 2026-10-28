@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Coldfire Ooze
 >*Large Ooze, Unaligned*

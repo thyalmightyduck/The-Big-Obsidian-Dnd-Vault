@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amethyst Dragon Wyrmling
 >*Medium Dragon (Gem), typically Neutral*

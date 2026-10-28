@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blue Slaad
 >*Large Aberration, Chaotic Neutral*

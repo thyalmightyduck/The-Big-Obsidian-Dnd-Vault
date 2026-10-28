@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Centurion
 >*Small Humanoid (Kobold, Controller); Any Alignment*

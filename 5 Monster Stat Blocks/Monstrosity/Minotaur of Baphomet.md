@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Minotaur of Baphomet
 >*Large Monstrosity, Chaotic Evil*

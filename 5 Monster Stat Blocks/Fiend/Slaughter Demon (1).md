@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Slaughter Demon
 >*Huge Fiend (Demon, Category 3, Brute); typically Chaotic Evil*

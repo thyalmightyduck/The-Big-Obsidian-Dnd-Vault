@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## White Quoxxarie
 >*Large Fiend, Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Living Lightning Bolt
 >*Large Construct, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spellcaster (Mage)
 >*9th-level Medium Humanoid (Mage)*

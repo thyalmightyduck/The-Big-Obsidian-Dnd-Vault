@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Loup Garou
 >*Small or Medium Monstrosity (Lycanthrope), Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Slimesworn Cultist
 >*Medium Ooze, Chaotic Evil*

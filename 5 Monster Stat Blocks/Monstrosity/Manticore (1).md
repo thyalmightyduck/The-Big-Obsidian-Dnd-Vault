@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Manticore
 >*Large Monstrosity (Skirmisher), typically Neutral*

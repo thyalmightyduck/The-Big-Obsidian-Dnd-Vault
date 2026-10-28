@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Lackey
 >*Small Humanoid (Goblin, Minion); Any Alignment*

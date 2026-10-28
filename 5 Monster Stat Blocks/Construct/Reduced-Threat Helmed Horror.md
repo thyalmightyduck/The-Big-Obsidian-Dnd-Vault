@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Helmed Horror
 >*Medium Construct, Neutral*

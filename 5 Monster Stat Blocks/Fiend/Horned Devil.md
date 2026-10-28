@@ -3,6 +3,7 @@ tags:
   - Monster
   - Fiend
   - MM14
+Progress: In Progress
 ---
 # Horned Devil 
 ## Monster Manuel 2014 (MM14):

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Avatar of Baalzebul
 >*Medium Fiend (Devil), Lawful Evil*

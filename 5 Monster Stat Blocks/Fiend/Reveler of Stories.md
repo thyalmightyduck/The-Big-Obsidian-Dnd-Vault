@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reveler of Stories
 >*Large Fiend, Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Chief
 >*Medium Humanoid (Goblinoid), Chaotic Evil*

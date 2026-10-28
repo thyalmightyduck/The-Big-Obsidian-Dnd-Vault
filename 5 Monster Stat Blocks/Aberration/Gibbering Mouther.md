@@ -40,6 +40,7 @@ image: atlas-vtt/assets/Gibbering_Mouther_1790817400794_tsl6um.webp
 tags:
   - monster
   - MM25
+Progress: In Progress
 ---
 
 # Gibbering Mouther

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Empyrean Knight
 >*Medium Celestial, Lawful Good*

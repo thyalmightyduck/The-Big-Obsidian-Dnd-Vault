@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Redtooth Werefox
 >*Medium Monstrosity (Elf), Any Alignment*

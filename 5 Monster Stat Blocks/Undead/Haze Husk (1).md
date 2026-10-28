@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Haze Husk
 >*Medium Undead*

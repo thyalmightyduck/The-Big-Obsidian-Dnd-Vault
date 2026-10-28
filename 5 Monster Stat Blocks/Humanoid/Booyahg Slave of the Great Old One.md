@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Booyahg Slave of the Great Old One
 >*Small Humanoid (Goblinoid), Any Alignment*

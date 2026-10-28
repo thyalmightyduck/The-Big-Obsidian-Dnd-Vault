@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bloodfray Giant
 >*Huge Giant, Chaotic Evil*

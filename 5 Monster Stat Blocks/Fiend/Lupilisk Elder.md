@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lupilisk Elder
 >*Large Fiend, Neutral Evil*

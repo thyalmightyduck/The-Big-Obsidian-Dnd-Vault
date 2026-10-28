@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hazeblood Vampire
 >*Medium Undead*

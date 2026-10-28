@@ -5,6 +5,7 @@ tags:
   - CR5
   - MPP
   - Monster
+Progress: Game Ready
 ---
 # Morte’s Planar Parade (MPP)
 ___

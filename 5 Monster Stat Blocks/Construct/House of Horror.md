@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## House of Horror
 >*Gargantuan Construct, Neutral Evil*

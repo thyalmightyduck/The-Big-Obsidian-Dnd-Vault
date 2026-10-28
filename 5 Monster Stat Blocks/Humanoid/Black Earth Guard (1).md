@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Black Earth Guard
 >*Medium Humanoid (Human), Neutral Evil*

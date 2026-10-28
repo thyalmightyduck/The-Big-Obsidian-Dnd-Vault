@@ -4,6 +4,8 @@ tags:
   - Aberration
   - CR5
   - TOB123
+Progress:
+  - Game Ready
 ---
 # Tome of Beasts 1 2023 Edition (ToB123)
 ___

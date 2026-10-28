@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cosmotronic Blastseeker
 >*Medium Humanoid (Any Race), Chaotic Neutral*

@@ -4,6 +4,8 @@ tags:
   - Aberration
   - CRCotN
   - CR5
+Progress:
+  - Game Ready
 ---
 # Critical Roll: Call of the Netherdeep (CRCotN)
 ___

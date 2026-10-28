@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mirror Shade
 >*Medium Undead, typically Chaotic Evil*

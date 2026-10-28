@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Triton Master of Waves
 >*Medium Humanoid (Triton), Neutral*

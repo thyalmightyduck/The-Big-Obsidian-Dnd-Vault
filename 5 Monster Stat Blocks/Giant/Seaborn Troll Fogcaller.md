@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Seaborn Troll Fogcaller
 >*Large Giant, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: Game Ready
+---
 # Tome of Beasts 1 2023 Edition (ToB123)
 ___
 ## Oculo Swarm

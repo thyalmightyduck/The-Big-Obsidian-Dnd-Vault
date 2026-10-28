@@ -3,6 +3,8 @@ tags:
   - AdventuringGear
   - WEL
   - MagicItem
+Progress:
+  - Game Ready
 ---
 # Where Evil Lives: The MCDM Book of Boss Battles (WEL)
 #### Soulstone Grimoire

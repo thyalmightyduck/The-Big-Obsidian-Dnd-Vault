@@ -3,6 +3,7 @@ tags:
   - Monster
   - Humanoid
   - MPMM
+Progress: In Progress
 ---
 # Abjurer Wizard 
 ## Mordenkainen Presents: Monsters of the Multiverse (MPMM): 

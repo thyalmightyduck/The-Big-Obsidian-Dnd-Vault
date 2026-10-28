@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Predator
 >*Medium Humanoid (Bugbear, Ambusher); Any Alignment*

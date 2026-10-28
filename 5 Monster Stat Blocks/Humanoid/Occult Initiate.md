@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Occult Initiate
 >*Small or Medium Humanoid (Sorcerer), Any Alignment*

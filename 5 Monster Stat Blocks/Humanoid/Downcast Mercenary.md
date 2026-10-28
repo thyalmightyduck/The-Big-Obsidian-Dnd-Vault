@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Downcast Mercenary
 >*Medium Humanoid (Downcast), Any Alignment*

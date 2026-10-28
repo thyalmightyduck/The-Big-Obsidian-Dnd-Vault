@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogresh Champion
 >*Medium Humanoid (Ogresh), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ether Fish
 >*Tiny Monstrosity, Unaligned*

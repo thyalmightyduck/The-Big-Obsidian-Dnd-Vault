@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Eldritch Eddy
 >*Large Construct, Chaotic Neutral*

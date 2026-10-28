@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Emerald Dragon
 >*Large Dragon (Gem), typically Lawful Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Vampire
 >*Medium Undead, Any Evil Alignment*

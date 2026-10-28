@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Jack of Strings
 >*Medium Fey, Chaotic Neutral*

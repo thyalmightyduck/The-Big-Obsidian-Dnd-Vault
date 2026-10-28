@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Plague Doctor
 >*Medium Humanoid, Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wight Deathguard
 >*Medium Undead (Undead, Retainer); Any Alignment*

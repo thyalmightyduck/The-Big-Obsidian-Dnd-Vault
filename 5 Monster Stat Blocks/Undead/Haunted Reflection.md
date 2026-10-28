@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Haunted Reflection
 >*Medium Undead, Chaotic Evil*

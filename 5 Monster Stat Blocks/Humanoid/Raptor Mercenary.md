@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Raptor Mercenary
 >*Small Humanoid (Raptor), Any Neutral Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Transcendent Order Instinct
 >*Small or Medium Humanoid, Any Alignment*

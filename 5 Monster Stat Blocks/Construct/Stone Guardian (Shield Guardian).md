@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Guardian (Shield Guardian)
 >*Large Construct, Unaligned*

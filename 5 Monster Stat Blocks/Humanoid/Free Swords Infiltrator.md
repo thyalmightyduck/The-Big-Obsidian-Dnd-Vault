@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Free Swords Infiltrator
 >*Small or Medium Humanoid, Lawful Neutral*

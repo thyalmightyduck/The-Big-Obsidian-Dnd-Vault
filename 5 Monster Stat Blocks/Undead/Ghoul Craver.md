@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ghoul Craver
 >*Medium Undead (Minion), typically Chaotic Evil*

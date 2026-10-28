@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amaranth Dragon
 >*Medium Dragon, Any Neutral Alignment*

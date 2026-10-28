@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sphinx of Secrets
 >*Large Celestial, Lawful Neutral*

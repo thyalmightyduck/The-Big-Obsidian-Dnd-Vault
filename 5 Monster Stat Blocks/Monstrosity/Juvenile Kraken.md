@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Juvenile Kraken
 >*Huge Monstrosity (Titan), Chaotic Evil*

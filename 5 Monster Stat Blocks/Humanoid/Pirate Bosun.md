@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pirate Bosun
 >*Medium Humanoid (Any Race), Any Alignment*

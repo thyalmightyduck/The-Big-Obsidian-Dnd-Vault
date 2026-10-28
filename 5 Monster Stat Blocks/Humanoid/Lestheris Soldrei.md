@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lestheris Soldrei
 >*Medium Humanoid (Half-Elf, Artillery); Neutral Evil*

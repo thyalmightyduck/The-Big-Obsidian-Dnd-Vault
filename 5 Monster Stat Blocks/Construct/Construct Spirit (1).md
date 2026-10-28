@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Construct Spirit
 >*Medium Construct, Neutral*

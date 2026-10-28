@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mind Flayer Clairvoyant
 >*Medium Aberration, typically Lawful Evil*

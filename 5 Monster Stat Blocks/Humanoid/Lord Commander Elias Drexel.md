@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lord Commander Elias Drexel
 >*Medium Humanoid (Human, Epic Boss)*

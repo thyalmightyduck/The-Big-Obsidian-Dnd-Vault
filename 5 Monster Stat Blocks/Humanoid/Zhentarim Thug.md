@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zhentarim Thug
 >*Medium Humanoid (Human), Neutral*

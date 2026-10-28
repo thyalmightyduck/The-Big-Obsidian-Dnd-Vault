@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Bonesplitter
 >*Medium Fiend (Gnoll, Brute); typically Chaotic Evil*

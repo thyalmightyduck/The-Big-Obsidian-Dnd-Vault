@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Avatar of Slaughter
 >*Large Fiend (Shadowsteel Curse), Chaotic Evil*

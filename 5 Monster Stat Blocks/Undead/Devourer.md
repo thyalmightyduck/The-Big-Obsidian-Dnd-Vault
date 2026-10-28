@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devourer
 >*Large Undead, Typically Chaotic Evil*

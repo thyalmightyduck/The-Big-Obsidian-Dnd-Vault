@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blue Dragon Wyrmling
 >*Medium Dragon (Chromatic), Lawful Evil*

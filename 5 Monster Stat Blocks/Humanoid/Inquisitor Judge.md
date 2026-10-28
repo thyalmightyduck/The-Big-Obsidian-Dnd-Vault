@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Inquisitor Judge
 >*Small or Medium Humanoid, Any Lawful Alignment*

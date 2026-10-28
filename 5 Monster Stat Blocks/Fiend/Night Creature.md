@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Night Creature
 >*Large Fiend, Neutral Evil*

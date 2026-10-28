@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Beast of Malar
 >*Medium Monstrosity, Chaotic Evil*

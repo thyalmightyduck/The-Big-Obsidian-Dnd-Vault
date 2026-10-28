@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire Familiar
 >*Small or Medium Humanoid, Neutral Evil*

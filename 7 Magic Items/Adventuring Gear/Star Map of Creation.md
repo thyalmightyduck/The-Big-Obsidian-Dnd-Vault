@@ -3,6 +3,8 @@ tags:
   - MagicItem
   - AdventuringGear
   - WEL
+Progress:
+  - Game Ready
 ---
 # Where Evil Lives: The MCDM Book of Boss Battles (WEL)
 #### Star Map of Creation

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Downcast Vampire (Adult)
 >*Medium Undead, Any Evil Alignment*

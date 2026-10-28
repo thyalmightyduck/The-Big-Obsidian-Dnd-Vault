@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Spirit Dragon
 >*Gargantuan Dragon, Neutral*

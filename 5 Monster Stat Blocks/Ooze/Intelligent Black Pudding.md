@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Intelligent Black Pudding
 >*Large Ooze, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Living Blade of Disaster
 >*Small Construct, Chaotic Evil*

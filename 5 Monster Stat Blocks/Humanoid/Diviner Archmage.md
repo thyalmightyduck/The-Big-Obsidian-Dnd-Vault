@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Diviner Archmage
 >*Medium Humanoid (Wizard), Neutral*

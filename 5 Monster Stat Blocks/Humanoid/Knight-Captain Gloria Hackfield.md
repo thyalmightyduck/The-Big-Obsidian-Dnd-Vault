@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Knight-Captain Gloria Hackfield
 >*Medium Humanoid (Human), Any Alignment*

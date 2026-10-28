@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gem Jelly
 >*Large Ooze (Brute), Unaligned*

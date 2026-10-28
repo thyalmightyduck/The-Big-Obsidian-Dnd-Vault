@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wraith
 >*Medium Undead (Incorporeal, Controller); typically Chaotic Evil*

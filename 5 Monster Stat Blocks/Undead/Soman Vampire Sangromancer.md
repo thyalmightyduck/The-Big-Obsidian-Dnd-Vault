@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Soman Vampire Sangromancer
 >*Medium Undead, Any Alignment*

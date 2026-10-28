@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Sea Serpent
 >*Huge Dragon, typically Neutral*

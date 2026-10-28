@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Foresworn
 >*Medium Undead, typically Lawful Good*

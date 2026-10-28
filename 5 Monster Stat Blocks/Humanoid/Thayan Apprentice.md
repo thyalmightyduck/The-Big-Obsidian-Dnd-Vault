@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Thayan Apprentice
 >*Medium Humanoid (Human), Any Non-Good Alignment*

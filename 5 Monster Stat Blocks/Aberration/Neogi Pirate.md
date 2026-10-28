@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Neogi Pirate
 >*Small Aberration, typically Lawful Evil*

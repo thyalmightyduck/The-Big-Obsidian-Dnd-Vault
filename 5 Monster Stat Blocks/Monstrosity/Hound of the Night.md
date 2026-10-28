@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hound of the Night
 >*Large Monstrosity, Neutral*

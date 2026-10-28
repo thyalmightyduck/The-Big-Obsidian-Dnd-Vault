@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Whispered Promise
 >*Large Fiend (Demon, Epic Boss)*

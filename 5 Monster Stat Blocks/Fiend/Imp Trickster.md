@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Imp Trickster
 >*Tiny Fiend (Devil), Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cradle of the Fire Scion
 >*Gargantuan Elemental, typically Lawful Evil*

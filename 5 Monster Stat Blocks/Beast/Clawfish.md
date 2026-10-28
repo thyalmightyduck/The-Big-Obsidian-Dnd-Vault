@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Clawfish
 >*Small Beast (Brute), Unaligned*

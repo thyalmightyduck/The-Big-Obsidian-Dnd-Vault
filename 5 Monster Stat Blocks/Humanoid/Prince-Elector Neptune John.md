@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Prince-Elector Neptune John
 >*Medium Humanoid (Human), Any Alignment*

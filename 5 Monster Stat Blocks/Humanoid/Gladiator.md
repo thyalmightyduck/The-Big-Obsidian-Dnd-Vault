@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gladiator
 >*Small or Medium Humanoid, Neutral*

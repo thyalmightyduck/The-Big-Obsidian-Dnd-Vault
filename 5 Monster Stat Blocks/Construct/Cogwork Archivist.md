@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cogwork Archivist
 >*Large Construct, typically Lawful Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Blue Dragon
 >*Large Dragon (Chromatic), Lawful Evil*

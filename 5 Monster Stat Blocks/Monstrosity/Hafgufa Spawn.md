@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hafgufa Spawn
 >*Large Monstrosity, Neutral Evil*

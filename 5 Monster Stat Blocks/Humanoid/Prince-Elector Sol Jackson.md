@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Prince-Elector Sol Jackson
 >*Medium Humanoid (Human), Any Alignment*

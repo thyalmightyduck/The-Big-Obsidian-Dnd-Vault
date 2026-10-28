@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wildfire Spirit
 >*Small Elemental, Unaligned*

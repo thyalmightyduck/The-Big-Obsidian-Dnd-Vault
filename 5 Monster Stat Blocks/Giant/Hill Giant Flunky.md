@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hill Giant Flunky
 >*Huge Giant (Minion), Any Alignment*

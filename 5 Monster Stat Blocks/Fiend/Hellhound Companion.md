@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hellhound Companion
 >*Medium Fiend (Companion), Unaligned*

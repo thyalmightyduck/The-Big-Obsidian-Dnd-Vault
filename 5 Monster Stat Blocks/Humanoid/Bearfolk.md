@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bearfolk
 >*Medium Humanoid (Bearfolk), Chaotic Good*

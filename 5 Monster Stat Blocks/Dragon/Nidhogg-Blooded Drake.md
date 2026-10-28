@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nidhogg-Blooded Drake
 >*Medium Dragon, Chaotic Evil*

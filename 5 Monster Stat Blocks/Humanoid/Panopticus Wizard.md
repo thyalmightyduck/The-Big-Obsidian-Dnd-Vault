@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Panopticus Wizard
 >*Medium Humanoid (Dwarf), Neutral*

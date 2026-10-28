@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sapphire Dragon Wyrmling
 >*Medium Dragon (Gem), typically Lawful Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lonely Sorrowsworn
 >*Medium Monstrosity, Typically Neutral Evil*

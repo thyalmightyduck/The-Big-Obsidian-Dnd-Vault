@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Booyahg Slave of the Fiend
 >*Small Humanoid (Goblinoid), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zodar
 >*Medium Aberration, typically Neutral*

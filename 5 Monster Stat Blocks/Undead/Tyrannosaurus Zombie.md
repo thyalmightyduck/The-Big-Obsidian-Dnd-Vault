@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tyrannosaurus Zombie
 >*Huge Undead, Unaligned*

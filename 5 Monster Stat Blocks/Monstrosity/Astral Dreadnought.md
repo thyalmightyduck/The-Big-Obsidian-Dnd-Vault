@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Astral Dreadnought
 >*Gargantuan Monstrosity (Titan), Unaligned*

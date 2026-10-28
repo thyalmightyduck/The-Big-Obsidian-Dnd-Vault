@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre Goon
 >*Large Giant (Minion), typically Chaotic Evil*

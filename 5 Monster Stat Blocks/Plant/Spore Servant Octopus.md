@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spore Servant Octopus
 >*Large Plant, Unaligned*

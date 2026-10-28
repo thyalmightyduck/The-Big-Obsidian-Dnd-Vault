@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mage
 >*Small or Medium Humanoid (Wizard), Neutral*

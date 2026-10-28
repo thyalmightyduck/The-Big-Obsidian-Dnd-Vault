@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ghost Mustang
 >*Large Undead, Neutral Evil*

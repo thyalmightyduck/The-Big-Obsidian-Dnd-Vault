@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Allowak Yeti
 >*Large Monstrosity, Neutral*

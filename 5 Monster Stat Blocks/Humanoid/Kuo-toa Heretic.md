@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kuo-toa Heretic
 >*Medium Humanoid (Kuo-toa), Neutral Evil*

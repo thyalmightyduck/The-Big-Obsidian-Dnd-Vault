@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hound of Ill Omen
 >*Medium Monstrosity, Unaligned*

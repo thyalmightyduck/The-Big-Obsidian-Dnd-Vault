@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Birdfolk Skirmisher
 >*Medium Humanoid (Any Birdfolk), Any Lawful Alignment*

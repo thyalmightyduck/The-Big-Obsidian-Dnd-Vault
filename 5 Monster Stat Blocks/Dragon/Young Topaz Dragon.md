@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Topaz Dragon
 >*Large Dragon (Gem), typically Chaotic Neutral*

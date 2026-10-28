@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cinder Hulk
 >*Large Elemental, typically Chaotic Evil*

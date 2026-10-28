@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Minotaur Lackey Slime Servant
 >*Medium Monstrosity (Minion), typically Chaotic Neutral*

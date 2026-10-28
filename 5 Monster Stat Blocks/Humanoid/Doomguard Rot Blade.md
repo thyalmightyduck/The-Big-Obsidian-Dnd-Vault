@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Doomguard Rot Blade
 >*Small or Medium Humanoid, Any Alignment*

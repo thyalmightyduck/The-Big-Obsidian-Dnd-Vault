@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone-troll Robber
 >*Large Giant*

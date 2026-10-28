@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Magewright
 >*Medium Humanoid (Any Race), Any Alignment*

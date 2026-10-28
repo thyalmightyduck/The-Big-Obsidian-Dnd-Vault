@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Edimmu
 >*Medium Undead, Chaotic Evil*

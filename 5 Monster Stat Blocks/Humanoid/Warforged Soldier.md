@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warforged Soldier
 >*Medium Humanoid (Warforged), Any Alignment*

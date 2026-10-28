@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Voiceless Talker Artillerist
 >*Medium Aberration (Artillery), typically Lawful Evil*

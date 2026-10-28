@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Time Raider Freebooter
 >*Medium Humanoid (Time Raider, Retainer); Any Alignment*

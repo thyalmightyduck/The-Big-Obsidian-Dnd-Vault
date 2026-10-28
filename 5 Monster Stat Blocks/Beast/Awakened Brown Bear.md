@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Awakened Brown Bear
 >*Large Beast, Unaligned*

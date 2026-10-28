@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Thrudgelmir Giant
 >*Huge Giant, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Entropic Watcher
 >*Large Aberration (Epic Boss)*

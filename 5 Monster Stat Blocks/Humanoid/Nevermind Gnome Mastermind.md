@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nevermind Gnome Mastermind
 >*Small Humanoid, Any Alignment*

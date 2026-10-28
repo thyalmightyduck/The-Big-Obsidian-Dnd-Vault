@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Inspired
 >*Medium Humanoid (Human), Lawful Evil*

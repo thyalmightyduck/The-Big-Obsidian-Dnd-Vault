@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ebon Syndicate Enforcer
 >*Small or Medium Humanoid, Neutral*

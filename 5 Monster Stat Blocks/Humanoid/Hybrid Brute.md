@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hybrid Brute
 >*Medium Humanoid (Simic Hybrid), Neutral Good*

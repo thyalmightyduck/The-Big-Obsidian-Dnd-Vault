@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## White Abishai
 >*Medium Fiend (Devil), Typically Lawful Evil*

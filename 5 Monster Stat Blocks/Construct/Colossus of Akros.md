@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Colossus of Akros
 >*Gargantuan Construct, Unaligned*

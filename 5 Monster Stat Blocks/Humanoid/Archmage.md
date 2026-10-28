@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Archmage
 >*Small or Medium Humanoid (Wizard), Neutral*

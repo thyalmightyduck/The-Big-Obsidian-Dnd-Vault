@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pirate First Mate
 >*Medium Humanoid (Any Race), Any Alignment*

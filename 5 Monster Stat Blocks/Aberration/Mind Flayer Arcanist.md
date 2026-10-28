@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mind Flayer Arcanist
 >*Medium Aberration, Lawful Evil*

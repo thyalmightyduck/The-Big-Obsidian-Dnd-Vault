@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wolf-chieftain
 >*Large Beast*

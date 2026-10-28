@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ghost Sycophant
 >*Medium Undead (Undead, Retainer); Any Alignment*

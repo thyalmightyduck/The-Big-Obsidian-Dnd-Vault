@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giff Shock Trooper
 >*Medium Humanoid, Any Alignment*

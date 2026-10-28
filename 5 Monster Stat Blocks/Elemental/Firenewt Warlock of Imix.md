@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Firenewt Warlock of Imix
 >*Medium Elemental, Typically Neutral Evil*

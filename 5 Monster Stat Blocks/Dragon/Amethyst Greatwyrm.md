@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amethyst Greatwyrm
 >*Gargantuan Dragon (Gem), typically Neutral*

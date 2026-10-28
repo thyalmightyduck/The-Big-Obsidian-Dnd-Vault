@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadar-kai Gloom Weaver
 >*Medium Humanoid (Elf), Typically Neutral Evil*

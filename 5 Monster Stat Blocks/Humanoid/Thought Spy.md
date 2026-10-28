@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Thought Spy
 >*Medium Humanoid (Any Race), Neutral Evil*

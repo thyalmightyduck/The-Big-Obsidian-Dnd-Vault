@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Monastic High Curator
 >*Small or Medium Humanoid (Monk, Wizard); Any Alignment*

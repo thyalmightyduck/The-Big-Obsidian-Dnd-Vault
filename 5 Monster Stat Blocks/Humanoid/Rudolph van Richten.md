@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rudolph van Richten
 >*Medium Humanoid (Human), Lawful Good*

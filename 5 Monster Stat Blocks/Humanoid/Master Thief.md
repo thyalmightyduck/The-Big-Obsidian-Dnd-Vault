@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Master Thief
 >*Medium Humanoid, Any Alignment*

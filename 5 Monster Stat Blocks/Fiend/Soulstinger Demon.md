@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Soulstinger Demon
 >*Large Fiend (Demon), Lawful Evil*

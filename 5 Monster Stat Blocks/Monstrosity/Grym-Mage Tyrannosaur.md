@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grym-Mage Tyrannosaur
 >*Huge Monstrosity, Neutral Evil*

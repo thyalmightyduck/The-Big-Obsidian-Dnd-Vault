@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Gray Ooze
 >*Medium Ooze, Unaligned*

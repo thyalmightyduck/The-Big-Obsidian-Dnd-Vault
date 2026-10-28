@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dolphin Delighter
 >*Medium Fey, Typically Chaotic Good*

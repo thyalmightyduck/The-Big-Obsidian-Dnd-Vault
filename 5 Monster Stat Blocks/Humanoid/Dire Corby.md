@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dire Corby
 >*Medium Humanoid (Dire Corby), Neutral Evil*

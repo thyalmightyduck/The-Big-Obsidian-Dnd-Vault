@@ -5,6 +5,7 @@ tags:
   - Wooden
   - Rare
   - DMG24
+Progress: Game Ready
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +2 Arrow, Wooden

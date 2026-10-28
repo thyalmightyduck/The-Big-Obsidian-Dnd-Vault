@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Master Plague Doctor
 >*Small or Medium Humanoid (Wizard), Any Alignment*

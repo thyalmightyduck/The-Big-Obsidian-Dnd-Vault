@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Styx Giant
 >*Large Giant, Neutral*

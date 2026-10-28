@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Flitterstep Eidolon
 >*Medium Undead, Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wayward Haint
 >*Medium Undead, Neutral*

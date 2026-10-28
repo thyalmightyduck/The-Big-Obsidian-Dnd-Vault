@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kakkuu Spyder-Fiend
 >*Medium Fiend (Demon), typically Chaotic Evil*

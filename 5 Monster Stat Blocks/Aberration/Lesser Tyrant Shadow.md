@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lesser Tyrant Shadow
 >*Medium Aberration, Lawful Evil*

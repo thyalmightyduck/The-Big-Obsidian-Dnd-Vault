@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadow Mastiff Alpha
 >*Medium Monstrosity, Typically Neutral Evil*

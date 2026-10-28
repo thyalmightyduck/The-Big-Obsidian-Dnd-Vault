@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zombie
 >*Medium Undead (Brute), typically Lawful Evil*

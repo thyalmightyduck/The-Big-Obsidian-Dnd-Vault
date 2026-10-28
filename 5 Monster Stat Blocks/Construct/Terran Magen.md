@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Terran Magen
 >*Medium Construct, Unaligned*

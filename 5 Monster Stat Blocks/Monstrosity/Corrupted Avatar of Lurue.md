@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Corrupted Avatar of Lurue
 >*Large Monstrosity*

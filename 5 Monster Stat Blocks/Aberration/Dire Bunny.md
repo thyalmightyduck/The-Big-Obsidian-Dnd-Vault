@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dire Bunny
 >*Tiny Aberration (Bespoke Companion, Crafted Familiar); Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Object
 >*Tiny, Small, Medium, Large, or Huge Construct, Unaligned*

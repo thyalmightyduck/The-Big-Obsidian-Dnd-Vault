@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Aurumvas
 >*Huge Fiend (Demon, Category 6, Leader); Chaotic Evil*

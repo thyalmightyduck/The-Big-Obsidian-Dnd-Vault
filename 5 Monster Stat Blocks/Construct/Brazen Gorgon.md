@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Brazen Gorgon
 >*Large Construct, Unaligned*

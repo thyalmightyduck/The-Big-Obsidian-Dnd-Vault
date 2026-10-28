@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Diseased Grick
 >*Medium Monstrosity, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Verminous Abomination
 >*Large Monstrosity (Shadowsteel Curse), Chaotic Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Golden Stag
 >*Large Beast, Unaligned*

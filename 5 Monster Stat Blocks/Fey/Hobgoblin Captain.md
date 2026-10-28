@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Captain
 >*Medium Fey (Goblinoid), Lawful Evil*

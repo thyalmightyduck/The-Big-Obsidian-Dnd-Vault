@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Salamander Inferno Master
 >*Large Elemental, Neutral Evil*

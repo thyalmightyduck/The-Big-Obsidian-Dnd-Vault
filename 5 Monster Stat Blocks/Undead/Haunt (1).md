@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Haunt
 >*Huge Undead (Skirmisher), typically Chaotic Evil*

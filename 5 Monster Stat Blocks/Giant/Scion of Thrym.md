@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scion of Thrym
 >*Gargantuan Giant (Titan), typically Neutral Evil*

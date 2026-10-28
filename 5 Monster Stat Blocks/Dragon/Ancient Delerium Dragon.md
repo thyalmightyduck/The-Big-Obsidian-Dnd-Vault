@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Delerium Dragon
 >*Gargantuan Dragon (Epic Boss)*

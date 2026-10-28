@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Quandrix Professor of Theory
 >*Small or Medium Humanoid (Wizard), Any Alignment*

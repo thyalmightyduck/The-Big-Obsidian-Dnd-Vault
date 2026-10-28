@@ -4,6 +4,8 @@ tags:
   - Aberration
   - CR5
   - WEL
+Progress:
+  - Game Ready
 ---
 # Where Evil Lives: The MCDM Book of Boss Battles (WEL)
 ___

@@ -4,6 +4,8 @@ tags:
   - Aberration
   - CR5
   - GHMG24
+Progress:
+  - Game Ready
 ---
 # Grim Hallow: Monster Grimoire 2024 (GHMG24)
 ___

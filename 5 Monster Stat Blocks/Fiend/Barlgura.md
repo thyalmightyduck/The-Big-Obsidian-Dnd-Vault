@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Barlgura
 >*Large Fiend (Demon), Chaotic Evil*

@@ -4,6 +4,8 @@ tags:
   - Aberration
   - CR9
   - MoDk
+Progress:
+  - Game Ready
 ---
 # Monsters of Drakkenheim (MoDk)
 ___

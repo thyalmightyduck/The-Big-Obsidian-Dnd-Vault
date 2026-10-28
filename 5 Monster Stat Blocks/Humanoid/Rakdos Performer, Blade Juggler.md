@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rakdos Performer, Blade Juggler
 >*Medium Humanoid (Any Race), Chaotic Evil*

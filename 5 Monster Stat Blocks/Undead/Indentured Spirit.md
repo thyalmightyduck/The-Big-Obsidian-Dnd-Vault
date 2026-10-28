@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Indentured Spirit
 >*Medium Undead, Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Oinoloth
 >*Medium Fiend (Yugoloth), Typically Neutral Evil*

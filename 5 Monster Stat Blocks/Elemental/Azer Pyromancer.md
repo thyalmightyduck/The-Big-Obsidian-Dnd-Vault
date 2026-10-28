@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Azer Pyromancer
 >*Medium Elemental, Lawful Neutral*

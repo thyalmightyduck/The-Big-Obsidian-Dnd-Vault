@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Atæshia
 >*Medium Elemental (Air, Earth, Fire, Leader); Neutral*

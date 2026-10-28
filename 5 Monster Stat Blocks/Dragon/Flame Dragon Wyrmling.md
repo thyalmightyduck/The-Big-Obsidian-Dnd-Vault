@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Flame Dragon Wyrmling
 >*Medium Dragon, Chaotic Evil*

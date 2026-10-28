@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crimson Stallion
 >*Large Fiend, Lawful Evil*

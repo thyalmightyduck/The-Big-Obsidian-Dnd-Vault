@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Solar Dragon
 >*Large Dragon, typically Neutral*

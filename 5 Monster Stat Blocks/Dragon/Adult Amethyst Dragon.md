@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Amethyst Dragon
 >*Huge Dragon (Gem), typically Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Phoenix
 >*Gargantuan Elemental, Typically Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sea Elf Scout
 >*Medium Humanoid (Elf), Any Alignment*

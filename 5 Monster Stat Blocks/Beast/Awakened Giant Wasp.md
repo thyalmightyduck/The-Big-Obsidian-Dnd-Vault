@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Awakened Giant Wasp
 >*Medium Beast, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Boss
 >*Small Fey (Goblinoid), Chaotic Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Champion of Madarua
 >*Medium Humanoid, typically Chaotic Good*

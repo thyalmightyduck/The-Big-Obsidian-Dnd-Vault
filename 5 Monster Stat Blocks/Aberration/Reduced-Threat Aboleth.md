@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Aboleth
 >*Large Aberration, Lawful Evil*

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gargoyle
+Progress: In Progress
 ---
 ___
 >## Gargoyle

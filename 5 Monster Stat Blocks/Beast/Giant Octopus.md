@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Octopus
 >*Large Beast, Unaligned*

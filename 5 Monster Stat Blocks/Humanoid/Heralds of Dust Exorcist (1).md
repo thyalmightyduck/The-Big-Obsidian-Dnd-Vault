@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Heralds of Dust Exorcist
 >*Small or Medium Humanoid, Any Alignment*

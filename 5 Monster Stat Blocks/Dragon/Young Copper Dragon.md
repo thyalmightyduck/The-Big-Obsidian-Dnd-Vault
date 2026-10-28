@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Copper Dragon
 >*Large Dragon (Metallic), Chaotic Good*

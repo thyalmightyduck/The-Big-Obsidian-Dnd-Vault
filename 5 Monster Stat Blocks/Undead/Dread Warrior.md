@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dread Warrior
 >*Medium Undead, Neutral Evil*

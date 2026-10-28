@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Channeler
 >*Medium Humanoid (Bugbear, Controller); Any Alignment*

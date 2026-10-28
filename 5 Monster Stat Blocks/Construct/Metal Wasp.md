@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Metal Wasp
 >*Medium Construct, Unaligned*

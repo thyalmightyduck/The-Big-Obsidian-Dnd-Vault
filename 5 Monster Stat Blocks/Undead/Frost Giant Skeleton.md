@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Frost Giant Skeleton
 >*Huge Undead, Lawful Evil*

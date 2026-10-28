@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hashalaq Quori
 >*Medium Aberration, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Duchess
 >*Gargantuan Aberration (Epic Boss)*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scarlet Sentinel
 >*Medium Construct, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Horned Devil
 >*Large Fiend (Devil), Lawful Evil*

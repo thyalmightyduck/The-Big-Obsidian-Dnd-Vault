@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bone Devil
 >*Large Fiend (Devil), Lawful Evil*

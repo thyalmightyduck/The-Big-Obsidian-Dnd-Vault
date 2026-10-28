@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scholarly Excavator
 >*Small or Medium Humanoid, Any Alignment*

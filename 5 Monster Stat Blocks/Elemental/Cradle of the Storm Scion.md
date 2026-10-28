@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cradle of the Storm Scion
 >*Gargantuan Elemental, typically Chaotic Good*

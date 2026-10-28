@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sea Drake
 >*Medium Dragon, Neutral Evil*

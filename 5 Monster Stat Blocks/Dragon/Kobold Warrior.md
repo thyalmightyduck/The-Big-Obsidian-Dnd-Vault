@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Warrior
 >*Small Dragon, Neutral*

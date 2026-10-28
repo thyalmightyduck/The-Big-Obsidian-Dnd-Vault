@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Griffon
 >*Large Beast (Controller), Unaligned*

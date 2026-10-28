@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wastrilith
 >*Large Fiend (Demon), Typically Chaotic Evil*

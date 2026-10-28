@@ -4,6 +4,7 @@ tags:
   - Construct
   - Summon
   - SCGTD
+Progress: In Progress
 ---
 # Corpsewrought Creature:
 ## Sebastian Crowe’s Guide to Drakkenheim (SCGTD):

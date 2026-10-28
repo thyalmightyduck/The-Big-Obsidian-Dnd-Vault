@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Awakened White Moose
 >*Large Beast, Neutral Evil*

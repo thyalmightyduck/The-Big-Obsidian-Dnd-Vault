@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Purple Worm
 >*Gargantuan Monstrosity, Unaligned*

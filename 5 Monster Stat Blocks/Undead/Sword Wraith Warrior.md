@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sword Wraith Warrior
 >*Medium Undead, Typically Lawful Evil*

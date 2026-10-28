@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire Nightbringer
 >*Small or Medium Undead, Neutral Evil*

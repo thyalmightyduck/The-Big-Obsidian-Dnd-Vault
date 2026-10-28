@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dinosaur Spirit
 >*Huge Beast (Dinosaur), Neutral*

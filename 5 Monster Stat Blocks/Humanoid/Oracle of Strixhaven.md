@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Oracle of Strixhaven
 >*Medium Humanoid (Human, Wizard); Neutral Good*

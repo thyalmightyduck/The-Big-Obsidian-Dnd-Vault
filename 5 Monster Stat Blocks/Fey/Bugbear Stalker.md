@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Stalker
 >*Medium Fey (Goblinoid), Chaotic Evil*

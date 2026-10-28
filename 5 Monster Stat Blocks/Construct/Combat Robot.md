@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Combat Robot
 >*Medium Construct, typically Lawful Neutral*

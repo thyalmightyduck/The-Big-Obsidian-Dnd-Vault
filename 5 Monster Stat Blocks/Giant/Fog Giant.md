@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fog Giant
 >*Huge Giant, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Entropic Flame
 >*Large Elemental*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devilbound Gnome
 >*Small Humanoid (Gnome), Any Evil Alignment*

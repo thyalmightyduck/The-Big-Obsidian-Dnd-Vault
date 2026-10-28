@@ -3,6 +3,7 @@ tags:
   - Monster
   - Monstrosity
   - MM25
+Progress: In Progress
 ---
 # Basilisk
 ## Monster Manuel 2025 (MM25):

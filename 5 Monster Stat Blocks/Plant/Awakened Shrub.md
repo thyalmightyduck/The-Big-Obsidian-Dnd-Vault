@@ -3,6 +3,7 @@ tags:
   - Monster
   - Plant
   - MM25
+Progress: In Progress
 ---
 # Awakened Shrub
 ## Monster Manuel 2025 (MM25):

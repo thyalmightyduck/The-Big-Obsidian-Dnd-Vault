@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre Basher
 >*Large Giant (Ogre, Retainer); Any Alignment*

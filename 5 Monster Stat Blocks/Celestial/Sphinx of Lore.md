@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sphinx of Lore
 >*Large Celestial, Lawful Neutral*

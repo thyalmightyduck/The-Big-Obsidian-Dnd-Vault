@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Deadstone Cleft Stone Giant
 >*Huge Giant, Neutral*

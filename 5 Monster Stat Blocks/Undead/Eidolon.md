@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Eidolon
 >*Medium Undead, Any Alignment*

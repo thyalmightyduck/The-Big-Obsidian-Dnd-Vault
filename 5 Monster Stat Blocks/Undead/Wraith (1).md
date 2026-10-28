@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wraith
 >*Small or Medium Undead, Neutral Evil*

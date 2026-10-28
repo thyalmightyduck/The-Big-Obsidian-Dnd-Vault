@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cloud Giant Destiny Gambler
 >*Huge Giant (Bard), Any Alignment*

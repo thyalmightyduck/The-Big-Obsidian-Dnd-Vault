@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Troglodyte Champion of Laogzed
 >*Medium Humanoid (Troglodyte), Chaotic Evil*

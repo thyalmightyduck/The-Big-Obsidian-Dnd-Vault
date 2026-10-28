@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Werebear Ascetic
 >*Small or Medium Monstrosity (Lycanthrope), Neutral*

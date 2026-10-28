@@ -3,6 +3,7 @@ tags:
   - Monster
   - Beast
   - Homebrew
+Progress: In Progress
 ---
 # Vampster Swarm:
 ```statblock

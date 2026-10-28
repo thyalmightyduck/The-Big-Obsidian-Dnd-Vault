@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Frost Giant Everlasting One
 >*Huge Giant, Typically Chaotic Evil*

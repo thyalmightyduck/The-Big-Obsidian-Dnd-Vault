@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Slime Familiar
 >*Small Ooze, Chaotic Good*

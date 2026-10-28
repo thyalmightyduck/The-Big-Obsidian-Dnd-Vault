@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ambush Drake
 >*Medium Dragon, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Solar Bastion Knight
 >*Medium Humanoid (Paladin), typically Neutral Good*

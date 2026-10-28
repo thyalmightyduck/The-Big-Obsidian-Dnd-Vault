@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scholarly Agent
 >*Small or Medium Humanoid (Wizard), Any Alignment*

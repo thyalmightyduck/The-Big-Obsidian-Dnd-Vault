@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Manes
 >*Small Fiend (Demon), Chaotic Evil*

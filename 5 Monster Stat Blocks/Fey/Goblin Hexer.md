@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Hexer
 >*Small Fey (Goblinoid), Chaotic Neutral*

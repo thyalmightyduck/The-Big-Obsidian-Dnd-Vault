@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Frost-Afflicted
 >*Small or Medium Humanoid, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Red Dragon
 >*Large Dragon (Chromatic), Chaotic Evil*

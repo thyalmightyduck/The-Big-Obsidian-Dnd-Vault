@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spined Devil
 >*Small Fiend (Devil), Lawful Evil*

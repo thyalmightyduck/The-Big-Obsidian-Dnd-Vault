@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lizardfolk Grunt
 >*Medium Humanoid (Lizardfolk, Minion); Any Alignment*

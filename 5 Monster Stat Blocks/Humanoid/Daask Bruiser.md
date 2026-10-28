@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Daask Bruiser
 >*Medium Humanoid (Gnoll), Neutral Evil*

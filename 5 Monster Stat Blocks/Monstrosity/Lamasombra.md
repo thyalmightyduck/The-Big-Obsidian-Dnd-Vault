@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lamasombra
 >*Medium Monstrosity (Ambusher), Unaligned*

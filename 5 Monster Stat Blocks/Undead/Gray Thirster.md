@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gray Thirster
 >*Medium Undead, Neutral Evil*

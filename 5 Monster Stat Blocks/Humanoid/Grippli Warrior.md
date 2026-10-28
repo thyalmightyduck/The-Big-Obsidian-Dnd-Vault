@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grippli Warrior
 >*Small Humanoid (Grippli)*

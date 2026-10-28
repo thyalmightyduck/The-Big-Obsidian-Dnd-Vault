@@ -4,6 +4,7 @@ tags:
   - Elemental
   - SCGTD
   - Summon
+Progress: In Progress
 ---
 # Delerium Elemental
 ## Sebastian Crowe’s Guide to Drakkenheim (SCGTD):

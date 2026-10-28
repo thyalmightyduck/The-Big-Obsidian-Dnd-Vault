@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Centaur Trooper
 >*Large Fey, Neutral Good*

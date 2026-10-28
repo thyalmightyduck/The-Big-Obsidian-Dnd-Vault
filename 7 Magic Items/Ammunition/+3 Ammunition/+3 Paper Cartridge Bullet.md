@@ -4,6 +4,7 @@ tags:
   - Ammunition
   - VeryRare
   - DMG24
+Progress: Game Ready
 ---
 # Dungeon Maser’s Guide 2024 (DMG24)
 #### +3 Paper Cartridge Bullet

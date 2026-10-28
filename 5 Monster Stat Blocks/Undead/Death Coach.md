@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Death Coach
 >*Huge Undead, Neutral Evil*

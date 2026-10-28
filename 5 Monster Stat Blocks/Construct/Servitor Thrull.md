@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Servitor Thrull
 >*Small Construct, Unaligned*

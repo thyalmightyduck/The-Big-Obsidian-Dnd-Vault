@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Trooper
 >*Medium Humanoid (Hobgoblin, Soldier); Any Alignment*

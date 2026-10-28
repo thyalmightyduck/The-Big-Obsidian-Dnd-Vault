@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Canopic Golem
 >*Large Construct*

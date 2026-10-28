@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Galazeth Prismari
 >*Gargantuan Dragon (Sorcerer), Chaotic Neutral*

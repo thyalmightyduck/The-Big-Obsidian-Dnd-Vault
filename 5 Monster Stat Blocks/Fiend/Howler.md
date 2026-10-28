@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Howler
 >*Large Fiend, Typically Chaotic Evil*

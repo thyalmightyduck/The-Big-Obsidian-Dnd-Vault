@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wild Dog
 >*Small Beast, Unaligned*

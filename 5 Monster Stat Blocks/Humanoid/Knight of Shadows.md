@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Knight of Shadows
 >*Medium Humanoid (Any Race), Any Lawful Alignment*

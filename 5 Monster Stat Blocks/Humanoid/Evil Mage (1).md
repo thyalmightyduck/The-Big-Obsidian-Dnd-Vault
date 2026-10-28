@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Evil Mage
 >*Medium Humanoid (Human), Lawful Evil*

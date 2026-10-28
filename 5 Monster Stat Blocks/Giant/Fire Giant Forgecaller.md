@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fire Giant Forgecaller
 >*Huge Giant (Cleric), Any Alignment*

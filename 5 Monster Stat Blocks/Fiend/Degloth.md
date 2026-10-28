@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Degloth
 >*Large Fiend (Demon), typically Chaotic Evil*

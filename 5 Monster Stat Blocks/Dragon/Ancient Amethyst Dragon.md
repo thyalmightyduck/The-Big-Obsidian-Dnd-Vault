@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Amethyst Dragon
 >*Gargantuan Dragon (Gem), typically Neutral*

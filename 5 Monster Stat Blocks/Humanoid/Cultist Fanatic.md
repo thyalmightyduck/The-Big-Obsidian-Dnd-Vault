@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cultist Fanatic
 >*Small or Medium Humanoid, Neutral*

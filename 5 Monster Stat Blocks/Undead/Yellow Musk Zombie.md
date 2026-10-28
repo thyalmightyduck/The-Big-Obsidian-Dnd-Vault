@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Yellow Musk Zombie
 >*Medium Undead, Unaligned*

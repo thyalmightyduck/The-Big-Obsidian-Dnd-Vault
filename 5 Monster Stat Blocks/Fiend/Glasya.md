@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Glasya
 >*Medium Fiend (Devil), Lawful Evil*

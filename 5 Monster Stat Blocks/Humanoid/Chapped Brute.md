@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Chapped Brute
 >*Medium Humanoid, Any Non-Good Alignment*

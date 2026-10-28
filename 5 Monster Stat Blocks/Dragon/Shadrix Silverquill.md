@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadrix Silverquill
 >*Gargantuan Dragon (Bard), Neutral*

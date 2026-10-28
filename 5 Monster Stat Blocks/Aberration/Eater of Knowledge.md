@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Eater of Knowledge
 >*Large Aberration, typically Neutral Evil*

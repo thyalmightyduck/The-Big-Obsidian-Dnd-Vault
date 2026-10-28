@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sacred Statue
 >*Large Construct, As the Eidolon's Alignment*

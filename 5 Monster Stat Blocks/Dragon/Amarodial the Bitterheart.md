@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amarodial the Bitterheart
 >*Gargantuan Dragon, Chaotic Evil*

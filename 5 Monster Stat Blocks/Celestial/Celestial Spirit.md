@@ -3,6 +3,7 @@ tags:
   - Monster
   - Celestial
   - PHB24
+Progress: In Progress
 ---
 # Celestial Spirit:
 ## Player’s Handbook 2024 (PHB24):

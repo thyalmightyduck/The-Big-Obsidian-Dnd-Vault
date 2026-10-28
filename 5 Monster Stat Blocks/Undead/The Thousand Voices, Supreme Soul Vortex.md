@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Thousand Voices, Supreme Soul Vortex
 >*Gargantuan Undead, Chaotic Evil*

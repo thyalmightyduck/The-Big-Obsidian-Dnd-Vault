@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Coldlight Walker
 >*Medium Undead, Chaotic Evil*

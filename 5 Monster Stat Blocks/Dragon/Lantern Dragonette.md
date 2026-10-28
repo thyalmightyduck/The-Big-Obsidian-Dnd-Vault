@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lantern Dragonette
 >*Tiny Dragon, Lawful Neutral*

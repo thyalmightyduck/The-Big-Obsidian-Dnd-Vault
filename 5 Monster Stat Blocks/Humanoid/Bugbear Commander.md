@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Commander
 >*Medium Humanoid (Bugbear, Support); Any Alignment*

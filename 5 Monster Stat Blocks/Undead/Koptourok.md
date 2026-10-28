@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Koptourok
 >*Medium Undead (Controller), typically Chaotic Evil*

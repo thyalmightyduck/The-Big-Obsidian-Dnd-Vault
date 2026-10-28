@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lemurfolk
 >*Small Humanoid (Lemurfolk), Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shieldscale Drangolin
 >*Large Dragon (Brute), Unaligned*

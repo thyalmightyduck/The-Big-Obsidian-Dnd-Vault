@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Feral Ashenwight
 >*Medium Undead, typically Neutral Evil*

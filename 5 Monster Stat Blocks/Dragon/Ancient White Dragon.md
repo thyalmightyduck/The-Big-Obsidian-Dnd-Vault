@@ -3,6 +3,7 @@ tags:
   - Monster
   - Dragon
   - MM25
+Progress: In Progress
 ---
 # Ancient White Dragon
 ## Monster Manual (2025):

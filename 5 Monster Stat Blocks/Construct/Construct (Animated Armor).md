@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Construct (Animated Armor)
 >*Medium Construct, Unaligned*

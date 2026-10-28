@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mindkiller Whelp
 >*Small Aberration (Minion), typically Lawful Evil*

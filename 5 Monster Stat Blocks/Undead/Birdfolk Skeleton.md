@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Birdfolk Skeleton
 >*Medium Undead, Lawful Evil*

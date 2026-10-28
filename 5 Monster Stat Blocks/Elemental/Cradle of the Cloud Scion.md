@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cradle of the Cloud Scion
 >*Gargantuan Elemental, typically Chaotic Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Deathless Rider
 >*Medium Undead, typically Lawful Evil*

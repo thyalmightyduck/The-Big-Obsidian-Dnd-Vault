@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire
 >*Small or Medium Undead, Lawful Evil*

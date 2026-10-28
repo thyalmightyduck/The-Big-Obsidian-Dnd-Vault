@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Awakened Shrub Totem Elemental
 >*Small Plant, Unaligned*

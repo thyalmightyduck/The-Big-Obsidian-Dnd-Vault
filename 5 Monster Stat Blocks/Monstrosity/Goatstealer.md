@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goatstealer
 >*Small Monstrosity, Unaligned*

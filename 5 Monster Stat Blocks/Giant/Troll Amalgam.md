@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Troll Amalgam
 >*Gargantuan Giant, typically Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Corrupted Ushabti
 >*Medium Undead, Neutral Evil*

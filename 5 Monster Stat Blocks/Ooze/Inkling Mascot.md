@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Inkling Mascot
 >*Tiny Ooze, typically Neutral*

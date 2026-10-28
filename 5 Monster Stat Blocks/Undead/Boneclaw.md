@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Boneclaw
 >*Large Undead, Typically Chaotic Evil*

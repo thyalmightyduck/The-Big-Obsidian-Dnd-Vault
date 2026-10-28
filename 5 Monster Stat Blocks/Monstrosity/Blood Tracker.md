@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blood Tracker
 >*Large Monstrosity, Lawful Evil*

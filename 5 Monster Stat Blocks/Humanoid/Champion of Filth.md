@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Champion of Filth
 >*Small or Medium Humanoid (Any Race), Any Non-Good Alignment*

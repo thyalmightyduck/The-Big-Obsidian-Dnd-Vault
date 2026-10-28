@@ -3,6 +3,7 @@ tags:
   - Monster
   - Construct
   - TOB123
+Progress: In Progress
 ---
 # Ushabti Royal Guard:
 ## Tome of Beasts 1 2023 Edition (TOB123):

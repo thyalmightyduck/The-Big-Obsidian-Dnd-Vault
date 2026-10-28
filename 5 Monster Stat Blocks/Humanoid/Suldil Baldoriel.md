@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Suldil Baldoriel
 >*Medium Humanoid (Half-Elf), Chaotic Good*

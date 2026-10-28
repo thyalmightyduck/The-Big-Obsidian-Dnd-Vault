@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Force of Earth
 >*Large Elemental (Earth, Soldier); Any Alignment*

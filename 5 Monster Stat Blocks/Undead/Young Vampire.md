@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Vampire
 >*Medium Undead, Any Evil Alignment*

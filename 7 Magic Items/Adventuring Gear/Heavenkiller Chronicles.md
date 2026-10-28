@@ -3,6 +3,8 @@ tags:
   - WEL
   - AdventuringGear
   - MagicItem
+Progress:
+  - Game Ready
 ---
 # Where Evil Lives: The MCDM Book of Boss Battles (WEL)
 #### Heavenkiller Chronicles

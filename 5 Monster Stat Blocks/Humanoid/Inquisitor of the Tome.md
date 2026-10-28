@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Inquisitor of the Tome
 >*Small or Medium Humanoid, Lawful Neutral*

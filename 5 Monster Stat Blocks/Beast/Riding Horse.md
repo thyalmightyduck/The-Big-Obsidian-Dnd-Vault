@@ -3,6 +3,7 @@ tags:
   - Monster
   - Beast
   - MM25
+Progress: In Progress
 ---
 # Riding Horse:
 ## Monster Manuel 2025 (MM25):

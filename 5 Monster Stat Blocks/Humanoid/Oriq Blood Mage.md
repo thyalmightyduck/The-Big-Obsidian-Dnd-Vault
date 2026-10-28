@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Oriq Blood Mage
 >*Medium Humanoid (Warlock), typically Neutral Evil*

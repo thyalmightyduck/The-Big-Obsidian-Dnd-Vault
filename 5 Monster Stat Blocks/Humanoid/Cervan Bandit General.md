@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cervan Bandit General
 >*Medium Humanoid (Cervan), Neutral Evil*

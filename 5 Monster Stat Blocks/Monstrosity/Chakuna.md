@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Chakuna
 >*Medium Monstrosity (Lycanthrope), Neutral*

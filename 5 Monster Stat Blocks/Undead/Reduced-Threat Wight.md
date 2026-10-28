@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Wight
 >*Medium Undead, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gem Stalker
 >*Large Monstrosity, typically Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stirge Companion
 >*Tiny Monstrosity (Companion), Unaligned*

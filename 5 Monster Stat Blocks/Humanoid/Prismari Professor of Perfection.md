@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Prismari Professor of Perfection
 >*Small or Medium Humanoid (Sorcerer), Any Alignment*

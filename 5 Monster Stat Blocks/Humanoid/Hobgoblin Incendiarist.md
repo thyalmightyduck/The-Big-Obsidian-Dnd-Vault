@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Incendiarist
 >*Medium Humanoid (Hobgoblin, Artillery); Any Alignment*

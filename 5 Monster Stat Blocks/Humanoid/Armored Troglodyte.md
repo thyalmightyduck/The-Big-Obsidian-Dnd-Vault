@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Armored Troglodyte
 >*Medium Humanoid (Troglodyte), Chaotic Evil*

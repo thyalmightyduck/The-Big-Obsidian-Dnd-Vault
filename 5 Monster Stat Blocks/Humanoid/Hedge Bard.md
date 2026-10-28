@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hedge Bard
 >*Small Humanoid (Hedge), Any Alignment*

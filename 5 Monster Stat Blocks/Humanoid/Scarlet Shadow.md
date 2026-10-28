@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scarlet Shadow
 >*Medium Humanoid (Dragonborn, Ambusher); Neutral Evil*

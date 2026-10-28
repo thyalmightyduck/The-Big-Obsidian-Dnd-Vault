@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ankylosaurus Zombie
 >*Huge Undead, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nathaniel Flint, Pilgrimage Leader
 >*Medium Humanoid*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kraken
 >*Huge Monstrosity, Chaotic Evil*

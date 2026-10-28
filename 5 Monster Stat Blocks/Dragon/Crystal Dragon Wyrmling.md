@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crystal Dragon Wyrmling
 >*Medium Dragon (Gem), typically Chaotic Neutral*

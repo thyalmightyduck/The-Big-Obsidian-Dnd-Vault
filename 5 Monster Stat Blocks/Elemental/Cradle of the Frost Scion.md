@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cradle of the Frost Scion
 >*Gargantuan Elemental, typically Neutral Evil*

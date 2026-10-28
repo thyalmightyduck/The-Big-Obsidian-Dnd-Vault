@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blightwalker
 >*Small or Medium Humanoid (Any Race), Any Non-Good Alignment*

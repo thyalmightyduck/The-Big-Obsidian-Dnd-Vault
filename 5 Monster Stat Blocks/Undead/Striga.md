@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Striga
 >*Large Undead (Epic Boss)*

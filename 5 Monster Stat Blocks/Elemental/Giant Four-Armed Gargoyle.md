@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Four-Armed Gargoyle
 >*Large Elemental, Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Stone Guard
 >*Medium Humanoid (Dwarf), Any Alignment*

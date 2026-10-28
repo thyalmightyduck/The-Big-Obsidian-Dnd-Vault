@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Princess-Elector Persephone Joyce
 >*Medium Humanoid (Human), Any Alignment*

@@ -17,7 +17,7 @@ stats:
   - 10
   - 4
 saves:
-  - dexterity: +5
+  - dexterity: 5
 senses: Darkvision 60Ft, Passive Perception 12
 cr: 1/8
 traits:
@@ -25,7 +25,7 @@ traits:
     desc: The rat has Advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 actions:
   - name: Bite
-    desc: '*Melee Attack Roll:* +5, reach 5 feet. _Hit:_ 5 (1d4 + 3) Piercing damage'
+    desc: "*Melee Attack Roll:* +5, reach 5 feet. _Hit:_ 5 (1d4 + 3) Piercing damage"
 statblock: true
 atlas-type: statblock
 image:
@@ -34,6 +34,7 @@ tags:
   - monster
   - beast
   - MM25
+Progress: In Progress
 ---
 
 # Giant Rat:

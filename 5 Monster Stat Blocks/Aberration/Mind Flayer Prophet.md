@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mind Flayer Prophet
 >*Medium Aberration, typically Lawful Evil*

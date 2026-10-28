@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Solar Dragon
 >*Huge Dragon, typically Neutral*

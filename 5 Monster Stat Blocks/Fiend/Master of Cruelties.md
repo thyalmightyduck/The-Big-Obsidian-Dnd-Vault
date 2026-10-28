@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Master of Cruelties
 >*Large Fiend (Demon), Chaotic Evil*

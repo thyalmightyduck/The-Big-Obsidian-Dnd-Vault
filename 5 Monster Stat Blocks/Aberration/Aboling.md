@@ -5,6 +5,8 @@ tags:
   - CR-1
   - HGtMH
   - Summon
+Progress:
+  - Game Ready
 ---
 # Heliana’s Guide to Monster Hunting
 ___

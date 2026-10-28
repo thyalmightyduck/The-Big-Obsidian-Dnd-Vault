@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Yakfolk Warrior
 >*Large Monstrosity, Neutral Evil*

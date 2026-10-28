@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Copper Dragon
 >*Gargantuan Dragon (Metallic), Chaotic Good*

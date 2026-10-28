@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sea Hag Apprentice
 >*Medium Fey (Hag, Retainer); Any Alignment*

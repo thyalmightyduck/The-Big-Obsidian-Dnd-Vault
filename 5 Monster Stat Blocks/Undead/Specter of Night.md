@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Specter of Night
 >*Huge Undead, typically Neutral Evil*

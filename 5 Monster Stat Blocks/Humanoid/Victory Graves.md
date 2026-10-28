@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Victory Graves
 >*Medium Humanoid (Human, Skirmisher); Neutral Evil*

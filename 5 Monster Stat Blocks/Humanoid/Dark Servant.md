@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dark Servant
 >*Medium Humanoid (Dark Folk), Neutral Evil*

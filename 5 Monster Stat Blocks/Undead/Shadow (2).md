@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadow
 >*Medium Undead (Incorporeal, Ambusher); typically Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kingfissure Worm Companion
 >*Large Monstrosity (Companion), Unaligned*

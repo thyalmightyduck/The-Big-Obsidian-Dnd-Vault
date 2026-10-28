@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bandit Captain
 >*Small or Medium Humanoid, Neutral*

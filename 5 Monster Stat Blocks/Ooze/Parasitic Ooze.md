@@ -4,6 +4,7 @@ tags:
   - Ooze
   - HGtMH
   - Summon
+Progress: In Progress
 ---
 # Parasitic Ooze 
 ## Heliana’s Guide to Monster Hunting (HGTMH):

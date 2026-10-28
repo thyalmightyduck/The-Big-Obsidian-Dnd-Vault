@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Construct (Shield Guardian)
 >*Large Construct, Unaligned*

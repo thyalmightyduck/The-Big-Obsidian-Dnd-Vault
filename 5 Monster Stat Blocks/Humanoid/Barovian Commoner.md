@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Barovian Commoner
 >*Medium Humanoid (Any Race), Any Alignment*

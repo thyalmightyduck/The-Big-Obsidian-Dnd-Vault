@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tuned Koboldzilla
 >*Gargantuan Construct, Unaligned*

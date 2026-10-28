@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sword Wraith Commander
 >*Medium Undead, Typically Lawful Evil*

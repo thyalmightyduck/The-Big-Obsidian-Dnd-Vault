@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crystal Battleaxe
 >*Small Construct, Unaligned*

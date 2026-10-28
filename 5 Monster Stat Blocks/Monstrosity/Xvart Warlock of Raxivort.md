@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Xvart Warlock of Raxivort
 >*Small Monstrosity, Typically Chaotic Evil*

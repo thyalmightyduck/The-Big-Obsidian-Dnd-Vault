@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Demonglass Gargoyle
 >*Medium Fiend, Lawful Evil*

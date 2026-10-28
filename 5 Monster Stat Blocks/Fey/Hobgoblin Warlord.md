@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Warlord
 >*Medium Fey (Goblinoid), Lawful Evil*

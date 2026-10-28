@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Humongous Fungus Troll
 >*Huge Giant (Epic Boss)*

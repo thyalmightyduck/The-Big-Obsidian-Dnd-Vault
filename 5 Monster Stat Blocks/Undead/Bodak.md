@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bodak
 >*Medium Undead, Typically Chaotic Evil*

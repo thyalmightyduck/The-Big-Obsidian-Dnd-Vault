@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Guard Captain
 >*Small or Medium Humanoid, Neutral*

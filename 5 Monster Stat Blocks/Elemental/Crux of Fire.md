@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crux of Fire
 >*Medium Elemental (Fire, Artillery); Any Alignment*

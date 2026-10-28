@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bakunawa
 >*Gargantuan Dragon, typically Neutral*

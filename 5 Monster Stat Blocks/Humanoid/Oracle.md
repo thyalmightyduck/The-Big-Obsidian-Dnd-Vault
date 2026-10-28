@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Oracle
 >*Medium Humanoid, Any Alignment*

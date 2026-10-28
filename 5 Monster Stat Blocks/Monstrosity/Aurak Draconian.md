@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Aurak Draconian
 >*Medium Monstrosity (Sorcerer), typically Lawful Evil*

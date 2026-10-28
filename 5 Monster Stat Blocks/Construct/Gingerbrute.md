@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gingerbrute
 >*Tiny Construct, typically Chaotic Neutral*

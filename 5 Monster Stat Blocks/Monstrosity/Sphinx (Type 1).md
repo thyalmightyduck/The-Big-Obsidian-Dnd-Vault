@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sphinx (Type 1)
 >*Large Monstrosity, Lawful Neutral*

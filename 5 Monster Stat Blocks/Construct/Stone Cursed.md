@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Cursed
 >*Medium Construct, Typically Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Helmed Horror Detention Drone
 >*Medium Construct, Neutral*

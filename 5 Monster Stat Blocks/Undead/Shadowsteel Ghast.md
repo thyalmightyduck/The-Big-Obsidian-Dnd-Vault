@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadowsteel Ghast
 >*Medium Undead, Chaotic Evil*

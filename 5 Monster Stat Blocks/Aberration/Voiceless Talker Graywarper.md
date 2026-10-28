@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Voiceless Talker Graywarper
 >*Medium Aberration (Minion), typically Lawful Evil*

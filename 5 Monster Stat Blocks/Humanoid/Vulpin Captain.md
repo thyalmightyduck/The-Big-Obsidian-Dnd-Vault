@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vulpin Captain
 >*Medium Humanoid (Vulpin), Neutral Evil*

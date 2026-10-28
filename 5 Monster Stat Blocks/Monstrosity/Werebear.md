@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Werebear
 >*Small or Medium Monstrosity (Lycanthrope), Neutral Good*

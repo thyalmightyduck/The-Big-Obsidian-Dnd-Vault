@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Strig Berserker
 >*Medium Humanoid (Strig), Any Chaotic Alignment*

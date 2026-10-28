@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amnizu
 >*Medium Fiend (Devil), Typically Lawful Evil*

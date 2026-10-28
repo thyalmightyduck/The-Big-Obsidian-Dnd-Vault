@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Belligerent Brawler
 >*Small or Medium Humanoid, Neutral*

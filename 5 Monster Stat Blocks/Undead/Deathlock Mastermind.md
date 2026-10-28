@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Deathlock Mastermind
 >*Medium Undead (Warlock), Typically Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rust Drake
 >*Medium Dragon, Chaotic Evil*

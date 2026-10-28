@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Precognitive Mage
 >*Medium Humanoid (Any Race), Lawful Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lesser Lunar Devil
 >*Medium Fiend (Devil), Lawful Evil*

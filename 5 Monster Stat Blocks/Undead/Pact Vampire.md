@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pact Vampire
 >*Medium Undead, Any Evil Alignment*

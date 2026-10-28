@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Earth Elemental Myrmidon
 >*Medium Elemental, Typically Neutral*

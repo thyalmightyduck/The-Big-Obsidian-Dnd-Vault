@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Horror
 >*Large Undead (Brute), Neutral Evil*

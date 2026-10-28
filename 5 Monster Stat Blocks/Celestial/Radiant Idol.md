@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Radiant Idol
 >*Large Celestial, Lawful Evil*

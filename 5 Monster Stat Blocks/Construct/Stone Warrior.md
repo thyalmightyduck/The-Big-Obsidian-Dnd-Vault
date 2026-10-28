@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Warrior
 >*Large Construct, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bloodlord Varrox
 >*Medium Humanoid (Hobgoblin, Leader); Lawful Evil*

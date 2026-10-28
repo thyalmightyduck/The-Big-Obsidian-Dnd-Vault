@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Draegloth
 >*Large Fiend (Demon), Typically Chaotic Evil*

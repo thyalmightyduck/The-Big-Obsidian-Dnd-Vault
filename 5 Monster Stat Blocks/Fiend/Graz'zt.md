@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Graz'zt
 >*Large Fiend (Demon), Chaotic Evil*

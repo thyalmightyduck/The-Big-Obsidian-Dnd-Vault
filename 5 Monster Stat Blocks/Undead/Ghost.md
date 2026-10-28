@@ -3,6 +3,7 @@ tags:
   - Monster
   - Undead
   - MM25
+Progress: In Progress
 ---
 # Ghost
 ## Monster Manual (2025):

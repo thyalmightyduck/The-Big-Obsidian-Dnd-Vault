@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Displacer Beast
 >*Large Monstrosity, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ghostblade Eidolon
 >*Medium Undead, Any Alignment*

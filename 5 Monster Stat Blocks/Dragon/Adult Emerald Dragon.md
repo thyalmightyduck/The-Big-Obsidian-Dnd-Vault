@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Emerald Dragon
 >*Huge Dragon (Gem), typically Lawful Neutral*

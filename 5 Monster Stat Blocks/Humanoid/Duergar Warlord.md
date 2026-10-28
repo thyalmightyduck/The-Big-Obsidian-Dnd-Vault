@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Warlord
 >*Medium Humanoid (Dwarf), Any Alignment*

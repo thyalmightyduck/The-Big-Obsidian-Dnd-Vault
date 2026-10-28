@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Chimera (Protector Variant)
 >*Large Monstrosity (Skirmisher), typically Neutral*

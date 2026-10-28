@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Wildling
 >*Medium Fiend (Gnoll, Minion); typically Chaotic Evil*

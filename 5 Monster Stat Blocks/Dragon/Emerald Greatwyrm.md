@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Emerald Greatwyrm
 >*Gargantuan Dragon (Gem), typically Neutral*

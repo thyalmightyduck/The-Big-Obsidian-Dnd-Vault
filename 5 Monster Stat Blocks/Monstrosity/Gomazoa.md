@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gomazoa
 >*Large Monstrosity, Neutral Evil*

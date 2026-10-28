@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Equinal Guardinal
 >*Large Celestial, typically Neutral Good*

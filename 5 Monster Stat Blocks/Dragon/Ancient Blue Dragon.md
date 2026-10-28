@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Blue Dragon
 >*Gargantuan Dragon (Chromatic), Lawful Evil*

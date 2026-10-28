@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Chimeron
 >*Huge Fiend (Demon, Category 5, Brute); typically Chaotic Evil*

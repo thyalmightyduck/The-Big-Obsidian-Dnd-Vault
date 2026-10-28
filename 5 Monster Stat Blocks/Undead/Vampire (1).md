@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire
 >*Medium Undead (Skirmisher), typically Neutral Evil*

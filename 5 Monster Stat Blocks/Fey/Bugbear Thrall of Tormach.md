@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Thrall of Tormach
 >*Medium Fey (Goblinoid), Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stoneborn Hobgoblin
 >*Medium Humanoid (Goblinoid), Lawful Evil*

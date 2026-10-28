@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Magnetite Dragon
 >*Gargantuan Dragon, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cloud Giant Noble
 >*Huge Giant, Neutral Good (50%) or Neutral Evil (50%)*

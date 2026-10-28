@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reanimated Companion
 >*Medium Undead, Neutral*

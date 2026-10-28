@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hulgaz
 >*Large Fiend (Devil), Lawful Evil*

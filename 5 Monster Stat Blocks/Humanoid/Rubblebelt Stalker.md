@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rubblebelt Stalker
 >*Medium Humanoid (Any Race), Chaotic Neutral*

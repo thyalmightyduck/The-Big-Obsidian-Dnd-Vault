@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Huge Ochre Jelly
 >*Huge Ooze, Unaligned*

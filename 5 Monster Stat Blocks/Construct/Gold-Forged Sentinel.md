@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gold-Forged Sentinel
 >*Large Construct, Unaligned*

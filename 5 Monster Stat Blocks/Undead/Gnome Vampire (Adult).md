@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnome Vampire (Adult)
 >*Small Undead, Any Evil Alignment*

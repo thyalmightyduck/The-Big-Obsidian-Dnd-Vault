@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Living Portent
 >*Small or Medium Celestial, typically Lawful Neutral*

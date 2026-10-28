@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gold Dragon Wyrmling
 >*Medium Dragon (Metallic), Lawful Good*

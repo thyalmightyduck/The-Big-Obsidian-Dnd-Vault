@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Oriq Recruiter
 >*Medium Humanoid (Warlock), typically Lawful Evil*

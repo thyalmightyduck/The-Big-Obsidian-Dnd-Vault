@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampiric Jade Statue
 >*Large Construct, Unaligned*

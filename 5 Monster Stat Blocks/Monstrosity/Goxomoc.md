@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goxomoc
 >*Gargantuan Monstrosity (Titan, Solo); Neutral*

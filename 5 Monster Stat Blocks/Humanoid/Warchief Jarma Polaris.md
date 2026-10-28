@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warchief Jarma Polaris
 >*Medium Humanoid (Half-Giant), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Southerner Raider
 >*Medium Humanoid (Evil Man)*

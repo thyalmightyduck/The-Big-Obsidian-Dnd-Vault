@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kishi Demon
 >*Medium Fiend (Demon), Chaotic Evil*

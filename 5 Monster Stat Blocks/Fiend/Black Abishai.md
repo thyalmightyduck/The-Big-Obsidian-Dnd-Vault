@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Black Abishai
 >*Medium Fiend (Devil), Typically Lawful Evil*

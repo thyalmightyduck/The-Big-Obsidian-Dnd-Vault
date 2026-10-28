@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Djinni
 >*Large Elemental (Genie), Chaotic Good*

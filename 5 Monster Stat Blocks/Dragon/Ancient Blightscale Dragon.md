@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Blightscale Dragon
 >*Gargantuan Dragon (Cursed), Neutral Evil*

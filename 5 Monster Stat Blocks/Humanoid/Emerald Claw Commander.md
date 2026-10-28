@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Emerald Claw Commander
 >*Small or Medium Humanoid, Lawful Evil*

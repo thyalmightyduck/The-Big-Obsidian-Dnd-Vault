@@ -4,6 +4,7 @@ tags:
   - Beast
   - Summon
   - GHPG24
+Progress: In Progress
 ---
 # Swarm of Vermin
 ## Grim Hallow: Player’s Guide 2024 (GHPG24):

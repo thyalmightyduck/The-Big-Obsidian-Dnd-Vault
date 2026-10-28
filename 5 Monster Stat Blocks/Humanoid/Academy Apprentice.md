@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Academy Apprentice
 >*Medium Humanoid*

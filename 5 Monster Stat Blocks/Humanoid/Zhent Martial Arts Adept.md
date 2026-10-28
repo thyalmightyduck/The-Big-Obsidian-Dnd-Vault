@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zhent Martial Arts Adept
 >*Small Humanoid (Halfling), Lawful Evil*

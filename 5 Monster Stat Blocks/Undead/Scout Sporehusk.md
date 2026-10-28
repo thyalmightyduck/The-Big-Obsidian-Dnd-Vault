@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scout Sporehusk
 >*Small or Medium Undead, Neutral Evil*

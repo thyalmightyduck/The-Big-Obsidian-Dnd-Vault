@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bronze Greatwyrm
 >*Gargantuan Dragon (Metallic), typically Lawful Good*

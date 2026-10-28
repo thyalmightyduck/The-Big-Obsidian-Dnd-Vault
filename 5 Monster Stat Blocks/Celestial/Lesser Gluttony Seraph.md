@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lesser Gluttony Seraph
 >*Large Celestial, Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Brandbearer
 >*Medium Humanoid (Hobgoblin, Minion); Any Alignment*

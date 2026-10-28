@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ebon Syndicate Elite Assassin
 >*Small or Medium Humanoid, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Algorithm
 >*Gargantuan Construct (Epic Boss)*

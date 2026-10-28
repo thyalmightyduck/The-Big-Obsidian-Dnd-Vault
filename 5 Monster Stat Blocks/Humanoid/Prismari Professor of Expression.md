@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Prismari Professor of Expression
 >*Small or Medium Humanoid (Sorcerer), Any Alignment*

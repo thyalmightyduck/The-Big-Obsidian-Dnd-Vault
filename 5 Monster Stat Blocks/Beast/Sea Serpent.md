@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sea Serpent
 >*Huge Beast, Unaligned*

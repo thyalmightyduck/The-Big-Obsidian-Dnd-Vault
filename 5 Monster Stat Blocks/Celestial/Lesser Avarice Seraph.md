@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lesser Avarice Seraph
 >*Medium Celestial, Neutral Evil*

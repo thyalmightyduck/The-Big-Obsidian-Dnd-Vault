@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blood Drinker Vampire
 >*Medium Undead, Lawful Evil*

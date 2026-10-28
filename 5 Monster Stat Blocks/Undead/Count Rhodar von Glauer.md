@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Count Rhodar von Glauer
 >*Medium Undead (Solo), Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Quandrix Pledgemage
 >*Small or Medium Humanoid (Wizard), Any Alignment*

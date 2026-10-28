@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Recruit
 >*Medium Humanoid (Hobgoblin, Minion); Any Alignment*

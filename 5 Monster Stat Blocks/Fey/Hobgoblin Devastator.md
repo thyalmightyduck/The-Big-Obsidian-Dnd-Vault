@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Devastator
 >*Medium Fey (Goblinoid), Typically Lawful Neutral*

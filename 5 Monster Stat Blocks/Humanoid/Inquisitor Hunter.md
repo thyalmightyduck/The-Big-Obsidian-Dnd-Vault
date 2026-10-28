@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Inquisitor Hunter
 >*Small or Medium Humanoid, Any Alignment*

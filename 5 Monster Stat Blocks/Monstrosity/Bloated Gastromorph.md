@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bloated Gastromorph
 >*Gargantuan Monstrosity (Shadowsteel Curse), Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sofina
 >*Medium Humanoid (Wizard), Neutral Evil*

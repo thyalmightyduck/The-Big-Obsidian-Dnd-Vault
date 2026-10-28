@@ -3,6 +3,7 @@ tags:
   - Monster
   - Fiend
   - FM
+Progress: In Progress
 ---
 # Devil Jurist 
 ## Flee, Mortals! (FM!)

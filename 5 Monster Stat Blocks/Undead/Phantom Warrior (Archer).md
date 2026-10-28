@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Phantom Warrior (Archer)
 >*Medium Undead, Any Alignment*

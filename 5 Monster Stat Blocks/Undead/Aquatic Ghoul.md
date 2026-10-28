@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Aquatic Ghoul
 >*Medium Undead, Chaotic Evil*

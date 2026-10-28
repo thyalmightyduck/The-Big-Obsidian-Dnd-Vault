@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Queen Bargnot
 >*Small Humanoid (Goblin, Leader); Neutral Evil*

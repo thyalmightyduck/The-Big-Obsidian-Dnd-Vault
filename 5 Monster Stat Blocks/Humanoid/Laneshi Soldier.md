@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Laneshi Soldier
 >*Medium Humanoid (Laneshi), Any Alignment*

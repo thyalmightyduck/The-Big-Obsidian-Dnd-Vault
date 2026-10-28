@@ -4,6 +4,7 @@ tags:
   - Elemental
   - PHB24
   - Summon
+Progress: In Progress
 ---
 # Elemental Spirit
 ## Players Handbook 2024 (PHB24):

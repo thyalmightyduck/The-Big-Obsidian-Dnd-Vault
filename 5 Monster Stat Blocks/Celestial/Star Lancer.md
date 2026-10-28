@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Star Lancer
 >*Large Celestial, typically Neutral*

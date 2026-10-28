@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sentient Gray Ooze
 >*Medium Ooze, Unaligned*

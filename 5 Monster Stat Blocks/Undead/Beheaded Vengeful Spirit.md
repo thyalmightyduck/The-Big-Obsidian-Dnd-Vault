@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Beheaded Vengeful Spirit
 >*Medium Undead, Any Alignment*

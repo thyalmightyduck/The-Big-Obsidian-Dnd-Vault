@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Blightscale Dragon
 >*Large Dragon (Cursed), Neutral Evil*

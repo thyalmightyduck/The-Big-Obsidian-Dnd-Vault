@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mage Hunter
 >*Large Monstrosity, typically Lawful Evil*

@@ -3,6 +3,7 @@ tags:
   - Monster
   - Construct
   - PHB24
+Progress: In Progress
 ---
 # Construct Spirt :
 ## Player’s Handbook 2024 (PHB24):

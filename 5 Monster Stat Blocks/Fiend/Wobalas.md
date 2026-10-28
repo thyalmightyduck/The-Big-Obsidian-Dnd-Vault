@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wobalas
 >*Medium Fiend (Demon, Category 4, Artillery); typically Chaotic Evil*

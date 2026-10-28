@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Curate
 >*Medium Humanoid, Lawful Good*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fraternity of Order Law Bender
 >*Small or Medium Humanoid, Any Alignment*

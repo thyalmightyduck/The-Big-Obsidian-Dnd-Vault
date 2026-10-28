@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Statue
 >*Medium Construct, Unaligned*

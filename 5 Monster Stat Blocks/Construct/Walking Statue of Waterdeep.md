@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Walking Statue of Waterdeep
 >*Gargantuan Construct, Unaligned*

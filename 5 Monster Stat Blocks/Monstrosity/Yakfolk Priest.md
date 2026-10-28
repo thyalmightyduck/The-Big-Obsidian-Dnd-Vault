@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Yakfolk Priest
 >*Large Monstrosity, Neutral Evil*

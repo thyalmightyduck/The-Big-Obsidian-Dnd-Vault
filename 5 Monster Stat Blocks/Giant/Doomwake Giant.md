@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Doomwake Giant
 >*Huge Giant, Lawful Evil*

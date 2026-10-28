@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nightmare Beast
 >*Gargantuan Monstrosity, typically Chaotic Evil*

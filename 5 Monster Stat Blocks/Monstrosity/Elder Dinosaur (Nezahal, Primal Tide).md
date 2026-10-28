@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Elder Dinosaur (Nezahal, Primal Tide)
 >*Gargantuan Monstrosity (Titan), Unaligned*

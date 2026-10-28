@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Succubus
 >*Medium Fiend, Neutral Evil*

@@ -5,6 +5,7 @@ tags:
   - Silvered
   - VeryRare
   - DMG24
+Progress: Game Ready
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +3 Bullet, Silver

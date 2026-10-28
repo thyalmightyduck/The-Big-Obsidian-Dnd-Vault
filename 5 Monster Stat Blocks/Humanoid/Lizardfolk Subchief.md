@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lizardfolk Subchief
 >*Medium Humanoid (Lizardfolk), Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mask Wight
 >*Medium Undead, Neutral Evil*

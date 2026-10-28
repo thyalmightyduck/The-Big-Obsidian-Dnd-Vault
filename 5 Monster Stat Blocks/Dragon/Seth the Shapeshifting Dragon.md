@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Seth the Shapeshifting Dragon
 >*Medium Dragon, Neutral*

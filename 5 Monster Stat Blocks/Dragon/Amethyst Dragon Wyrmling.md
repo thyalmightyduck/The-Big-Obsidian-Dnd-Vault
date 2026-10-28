@@ -3,6 +3,7 @@ tags:
   - Monster
   - Dragon
   - FTD
+Progress: In Progress
 ---
 # Amethyst Dragon Wyrmling
 ## Fizban's Treasury of Dragons (FTD):

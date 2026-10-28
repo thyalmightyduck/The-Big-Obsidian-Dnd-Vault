@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tanazir Quandrix
 >*Gargantuan Dragon (Wizard), Lawful Neutral*

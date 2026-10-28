@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dogmole Juggernaut
 >*Large Monstrosity, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rakdos Lampooner
 >*Medium Humanoid (Any Race), Chaotic Evil*

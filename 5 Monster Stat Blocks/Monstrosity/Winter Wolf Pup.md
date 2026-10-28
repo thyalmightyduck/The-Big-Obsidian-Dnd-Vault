@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Winter Wolf Pup
 >*Small Monstrosity, Neutral Evil*

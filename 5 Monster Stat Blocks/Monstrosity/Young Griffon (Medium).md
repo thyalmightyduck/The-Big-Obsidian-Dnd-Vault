@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Griffon (Medium)
 >*Medium Monstrosity, Unaligned*

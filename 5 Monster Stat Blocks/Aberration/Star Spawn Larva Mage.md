@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Star Spawn Larva Mage
 >*Medium Aberration, Typically Chaotic Evil*

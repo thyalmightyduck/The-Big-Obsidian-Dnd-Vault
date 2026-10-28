@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wretched Master of Ceremonies
 >*Medium Undead, Chaotic Neutral*

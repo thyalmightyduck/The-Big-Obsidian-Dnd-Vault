@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lizardfolk Bloodeye Slime Servant
 >*Medium Humanoid (Lizardfolk, Controller); Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blue Abishai
 >*Medium Fiend (Devil, Wizard); Typically Lawful Evil*

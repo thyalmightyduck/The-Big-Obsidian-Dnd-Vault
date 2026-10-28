@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gazer
 >*Tiny Aberration (Beholder), Typically Neutral Evil*

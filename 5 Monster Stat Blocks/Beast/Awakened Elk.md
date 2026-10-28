@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Awakened Elk
 >*Large Beast, Unaligned*

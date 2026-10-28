@@ -1,6 +1,7 @@
 ---
 aliases:
   - Shade
+Progress: In Progress
 ---
 ___
 >## Shade

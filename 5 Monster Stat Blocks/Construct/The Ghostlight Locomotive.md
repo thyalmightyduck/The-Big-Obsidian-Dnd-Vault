@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Ghostlight Locomotive
 >*Gargantuan Construct, Neutral*

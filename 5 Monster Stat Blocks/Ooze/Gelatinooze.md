@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gelatinooze
 >*Tiny Ooze (Bespoke Companion, Crafted Familiar); Unaligned*

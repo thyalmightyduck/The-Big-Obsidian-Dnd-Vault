@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warrior Commander
 >*Small or Medium Humanoid, Neutral*

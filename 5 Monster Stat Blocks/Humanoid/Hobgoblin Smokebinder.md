@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Smokebinder
 >*Medium Humanoid (Hobgoblin, Ambusher); Any Alignment*

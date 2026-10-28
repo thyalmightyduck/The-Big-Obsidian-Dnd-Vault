@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spitting Mimic
 >*Large Monstrosity (Shapechanger), Neutral*

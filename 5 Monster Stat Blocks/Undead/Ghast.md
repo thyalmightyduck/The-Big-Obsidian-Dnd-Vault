@@ -28,7 +28,7 @@ traits:
     desc: _Constitution Saving Throw:_ DC 10, any creature that starts its turn in a 5-foot Emanation originating from the ghast. _Failure:_ The target has the Poisoned condition until the start of its next turn. _Success:_ The target is immune to this ghast's Stench for 24 hours.
 actions:
   - name: Bite.
-    desc: "_Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage plus 9 (2d8) Necrotic damage."
+    desc: _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage plus 9 (2d8) Necrotic damage.
   - name: Claw.
     desc: "_Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Slashing damage. If the target is a non-Undead creature, it is subjected to the following effect. _Constitution Saving Throw:_ DC 10. _Failure:_ The target has the Paralyzed condition until the end of its next turn. "
 statblock: true
@@ -39,6 +39,7 @@ tags:
   - monster
   - undead
   - MM25
+Progress: In Progress
 ---
 
 # Ghast

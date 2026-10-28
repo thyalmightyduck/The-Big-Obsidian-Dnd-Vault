@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Eagle
 >*Large Celestial, Neutral Good*

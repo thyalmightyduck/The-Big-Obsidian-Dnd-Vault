@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Asteria
 >*Medium Humanoid (Human, Paladin); Chaotic Good*

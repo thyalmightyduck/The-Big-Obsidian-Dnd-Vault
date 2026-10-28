@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blight Totem Elemental
 >*Medium Plant, Neutral Evil*

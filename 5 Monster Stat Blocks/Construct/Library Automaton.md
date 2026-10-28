@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Library Automaton
 >*Small Construct, Lawful Neutral*

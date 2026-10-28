@@ -3,6 +3,7 @@ tags:
   - Monster
   - Undead
   - MM25
+Progress: In Progress
 ---
 # Minotaur Skeleton
 ## Monster Manual 2025 (MM25):

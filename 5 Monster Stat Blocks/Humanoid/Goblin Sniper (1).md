@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Sniper
 >*Small Humanoid (Goblin, Artillery); Any Alignment*

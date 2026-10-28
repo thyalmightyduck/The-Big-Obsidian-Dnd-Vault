@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Troll Whelp
 >*Medium Giant (Minion), typically Chaotic Evil*

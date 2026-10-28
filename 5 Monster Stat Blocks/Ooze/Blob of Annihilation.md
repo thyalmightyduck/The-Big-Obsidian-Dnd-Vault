@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blob of Annihilation
 >*Gargantuan Ooze (Titan), Neutral Evil*

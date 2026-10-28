@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Ox
 >*Huge Fey, Unaligned*

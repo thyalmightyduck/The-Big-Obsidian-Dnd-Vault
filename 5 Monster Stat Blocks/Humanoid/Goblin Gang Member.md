@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Gang Member
 >*Small Humanoid (Goblinoid), Neutral Evil*

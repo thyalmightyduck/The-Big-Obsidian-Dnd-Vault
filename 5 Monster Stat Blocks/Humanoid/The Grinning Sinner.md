@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Grinning Sinner
 >*Large Humanoid (Lizardfolk, Warlock); Neutral Evil*

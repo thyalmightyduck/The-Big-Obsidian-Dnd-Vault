@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Goose
 >*Large Fey, typically Neutral*

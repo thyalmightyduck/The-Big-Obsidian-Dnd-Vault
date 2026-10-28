@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Splugoth the Returned
 >*Small Humanoid (Goblinoid), Neutral Evil*

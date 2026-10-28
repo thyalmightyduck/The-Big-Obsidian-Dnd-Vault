@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Oracle of the Rat God
 >*Small Monstrosity*

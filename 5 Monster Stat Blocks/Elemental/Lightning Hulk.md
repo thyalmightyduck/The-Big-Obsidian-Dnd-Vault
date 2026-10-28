@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lightning Hulk
 >*Large Elemental, typically Chaotic Neutral*

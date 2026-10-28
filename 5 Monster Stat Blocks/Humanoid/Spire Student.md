@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spire Student
 >*Medium Humanoid (Any Race), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre
 >*Large Giant (Brute), typically Chaotic Evil*

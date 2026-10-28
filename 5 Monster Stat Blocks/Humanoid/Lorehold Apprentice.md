@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lorehold Apprentice
 >*Small or Medium Humanoid (Wizard), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lava Bastion
 >*Large Elemental (Earth, Fire, Retainer); Any Alignment*

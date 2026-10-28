@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nergaliid
 >*Large Fiend (Devil), Lawful Evil*

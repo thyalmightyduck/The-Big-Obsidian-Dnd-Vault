@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vestige Companion
 >*Small Celestial, Fiend, or Undead; Neutral*

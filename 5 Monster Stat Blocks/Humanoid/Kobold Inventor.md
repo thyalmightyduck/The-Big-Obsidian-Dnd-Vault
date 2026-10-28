@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Inventor
 >*Small Humanoid, Any Alignment*

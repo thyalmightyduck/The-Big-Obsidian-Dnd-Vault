@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Waxwork
 >*Small or Medium Construct, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Brass Dragon
 >*Huge Dragon (Metallic), Chaotic Good*

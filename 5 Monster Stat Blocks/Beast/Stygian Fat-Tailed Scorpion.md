@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stygian Fat-Tailed Scorpion
 >*Tiny Beast, Unaligned*

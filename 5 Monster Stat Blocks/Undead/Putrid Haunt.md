@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Putrid Haunt
 >*Medium Undead, Neutral Evil*

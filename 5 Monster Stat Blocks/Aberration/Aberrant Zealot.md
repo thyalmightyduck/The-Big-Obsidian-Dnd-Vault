@@ -4,6 +4,8 @@ tags:
   - Aberration
   - CR8
   - PaBTSO
+Progress:
+  - Game Ready
 ---
 # Phandelver and Below: Shattered Obelisk (PaBTSO)
 ___

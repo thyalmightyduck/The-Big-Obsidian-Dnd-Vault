@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vulpin Cult Fanatic
 >*Medium Humanoid (Vulpin), Any Non-Good Alignment*

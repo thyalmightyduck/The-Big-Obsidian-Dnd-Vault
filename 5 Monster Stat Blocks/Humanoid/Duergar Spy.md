@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Spy
 >*Medium Humanoid (Dwarf), Lawful Evil*

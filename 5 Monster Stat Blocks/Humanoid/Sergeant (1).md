@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sergeant
 >*Medium Humanoid (Any Race), Any Alignment*

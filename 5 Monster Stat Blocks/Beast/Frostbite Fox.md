@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Frostbite Fox
 >*Tiny Beast, Unaligned*

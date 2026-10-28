@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Glabrezu
 >*Large Fiend (Demon), Chaotic Evil*

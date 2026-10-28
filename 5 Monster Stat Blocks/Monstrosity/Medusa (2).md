@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Medusa
 >*Medium Monstrosity (Controller), Any Alignment*

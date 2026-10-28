@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spire Walker
 >*Tiny Fey, Chaotic Neutral*

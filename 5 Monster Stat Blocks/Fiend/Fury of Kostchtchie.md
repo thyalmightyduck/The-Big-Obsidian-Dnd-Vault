@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fury of Kostchtchie
 >*Huge Fiend (Demon), typically Chaotic Evil*

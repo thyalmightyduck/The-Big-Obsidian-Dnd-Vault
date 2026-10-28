@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Armanite
 >*Large Fiend (Demon), Typically Chaotic Evil*

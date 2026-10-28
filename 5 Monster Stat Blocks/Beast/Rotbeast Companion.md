@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rotbeast Companion
 >*Large Beast (Companion), Unaligned*

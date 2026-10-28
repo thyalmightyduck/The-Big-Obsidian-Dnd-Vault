@@ -3,6 +3,7 @@ tags:
   - Monster
   - Undead
   - MM25
+Progress: In Progress
 ---
 # Death Knight
 ## Monster Manuel 2025 (MM25): 

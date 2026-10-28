@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ghast Gravecaller
 >*Medium Undead, Chaotic Evil*

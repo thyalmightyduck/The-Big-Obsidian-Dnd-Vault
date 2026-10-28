@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kozilek
 >*Gargantuan Monstrosity (Titan), Chaotic Evil*

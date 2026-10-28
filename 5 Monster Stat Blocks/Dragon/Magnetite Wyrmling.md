@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Magnetite Wyrmling
 >*Medium Dragon, Neutral*

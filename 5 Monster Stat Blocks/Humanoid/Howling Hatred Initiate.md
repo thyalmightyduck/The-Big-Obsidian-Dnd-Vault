@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Howling Hatred Initiate
 >*Medium Humanoid (Human), Neutral Evil*

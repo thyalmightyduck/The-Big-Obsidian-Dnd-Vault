@@ -3,6 +3,7 @@ tags:
   - Monster
   - Undead
   - MM25
+Progress: In Progress
 ---
 # Shadow
 ## Monster Manuel 2025 (MM25):

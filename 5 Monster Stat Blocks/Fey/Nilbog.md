@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nilbog
 >*Small Fey (Goblinoid), Typically Chaotic Neutral*

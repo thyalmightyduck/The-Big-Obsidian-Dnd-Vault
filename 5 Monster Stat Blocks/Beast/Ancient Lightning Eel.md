@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Lightning Eel
 >*Gargantuan Beast (Leader), Unaligned*

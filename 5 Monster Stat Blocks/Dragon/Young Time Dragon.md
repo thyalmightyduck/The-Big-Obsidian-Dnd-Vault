@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Time Dragon
 >*Large Dragon, typically Neutral*

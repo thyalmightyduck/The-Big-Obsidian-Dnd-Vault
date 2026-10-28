@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scion of Surtur
 >*Gargantuan Giant (Titan), typically Lawful Evil*

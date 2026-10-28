@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stygian Bat
 >*Large Monstrosity, Neutral Evil*

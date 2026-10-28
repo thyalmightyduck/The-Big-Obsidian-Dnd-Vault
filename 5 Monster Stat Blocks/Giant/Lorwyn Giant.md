@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lorwyn Giant
 >*Huge Giant, Chaotic Neutral*

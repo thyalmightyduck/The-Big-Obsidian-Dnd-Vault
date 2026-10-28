@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bone Collective
 >*Small swarm of Tiny Undead, Chaotic Evil*

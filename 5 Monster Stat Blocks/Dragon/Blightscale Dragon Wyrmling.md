@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blightscale Dragon Wyrmling
 >*Medium Dragon (Cursed), Neutral Evil*

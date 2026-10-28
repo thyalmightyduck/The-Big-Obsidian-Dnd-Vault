@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spirit Troll
 >*Large Giant, Typically Chaotic Evil*

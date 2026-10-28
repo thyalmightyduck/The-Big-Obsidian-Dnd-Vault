@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Tactician
 >*Medium Humanoid (Hobgoblin, Retainer); Any Alignment*

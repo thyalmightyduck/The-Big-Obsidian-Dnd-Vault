@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Angel of Slaughter
 >*Huge Celestial, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pale Man
 >*Medium Aberration (Epic Boss)*

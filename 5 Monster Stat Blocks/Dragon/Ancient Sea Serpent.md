@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Sea Serpent
 >*Gargantuan Dragon, typically Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Winter Wolf
 >*Large Monstrosity, Neutral Evil*

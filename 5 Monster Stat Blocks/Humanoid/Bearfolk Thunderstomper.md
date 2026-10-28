@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bearfolk Thunderstomper
 >*Medium Humanoid (Bearfolk), Chaotic Neutral*

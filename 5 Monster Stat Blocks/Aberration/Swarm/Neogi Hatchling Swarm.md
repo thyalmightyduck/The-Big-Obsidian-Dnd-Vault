@@ -4,6 +4,7 @@ tags:
   - Aberration
   - swarm
   - BAM
+Progress: Game Ready
 ---
 # Boo’s Astral Menagerie (BAM)
 ___

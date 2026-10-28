@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Illusionist Archmage
 >*Medium Humanoid (Wizard), Neutral*

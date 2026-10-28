@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blue Greatwyrm
 >*Gargantuan Dragon (Chromatic), typically Chaotic Evil*

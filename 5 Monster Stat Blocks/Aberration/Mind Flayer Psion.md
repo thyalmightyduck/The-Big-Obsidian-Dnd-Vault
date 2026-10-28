@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mind Flayer Psion
 >*Medium Aberration, Lawful Evil*

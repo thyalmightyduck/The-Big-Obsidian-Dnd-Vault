@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warpriest
 >*Small or Medium Humanoid, Any Alignment*

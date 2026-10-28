@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Black Bear
 >*Medium Beast, Unaligned*

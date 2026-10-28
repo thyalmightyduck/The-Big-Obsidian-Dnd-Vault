@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Orc Red Fang of Shargaas
 >*Medium Humanoid (Orc), Chaotic Evil*

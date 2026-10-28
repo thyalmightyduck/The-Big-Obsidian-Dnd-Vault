@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zaratan
 >*Gargantuan Elemental, Typically Neutral*

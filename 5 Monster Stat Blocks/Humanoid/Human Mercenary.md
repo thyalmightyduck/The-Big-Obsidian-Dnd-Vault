@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Human Mercenary
 >*Medium Humanoid (Human, Retainer); Any Alignment*

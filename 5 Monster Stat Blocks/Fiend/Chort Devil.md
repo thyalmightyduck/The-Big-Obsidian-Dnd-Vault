@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Chort Devil
 >*Medium Fiend, Lawful Evil*

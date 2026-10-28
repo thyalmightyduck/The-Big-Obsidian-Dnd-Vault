@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin War Mage
 >*Medium Humanoid (Hobgoblin, Controller); Any Alignment*

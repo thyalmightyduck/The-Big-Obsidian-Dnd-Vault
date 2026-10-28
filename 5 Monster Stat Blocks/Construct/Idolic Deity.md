@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Idolic Deity
 >*Small Construct, Neutral Evil*

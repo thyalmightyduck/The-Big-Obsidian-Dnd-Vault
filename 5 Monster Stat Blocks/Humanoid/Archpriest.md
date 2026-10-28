@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Archpriest
 >*Small or Medium Humanoid (Cleric), Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Wyvern
 >*Large Dragon, Unaligned*

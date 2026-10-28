@@ -23,16 +23,17 @@ traits:
   - name: Amphibious.
     desc: The beast can breathe both air and water.
   - name: Primal Bond.
-    desc: You can add your proficiency bonus to any ability check or saving throw that the beast makes.  
+    desc: You can add your proficiency bonus to any ability check or saving throw that the beast makes.
 actions:
   - name: Binding Strike.
-    desc: '*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) + PB piercing damage or 5 (1d6+2) + PB bludgeoning damage (your choice), and the target is grappled (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast cant use this attack on another target.'
+    desc: "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) + PB piercing damage or 5 (1d6+2) + PB bludgeoning damage (your choice), and the target is grappled (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast cant use this attack on another target."
 statblock: true
 atlas-type: statblock
 image:
   - - Beast of the Sea BGR PNG.png
 tags:
   - monster
+Progress: In Progress
 ---
 
 # Beast of the Sea

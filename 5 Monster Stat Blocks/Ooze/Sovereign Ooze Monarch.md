@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sovereign Ooze Monarch
 >*Huge Ooze, Chaotic Evil*

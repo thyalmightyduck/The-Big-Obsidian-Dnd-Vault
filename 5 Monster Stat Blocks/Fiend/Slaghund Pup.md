@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Slaghund Pup
 >*Tiny Fiend (Bespoke Companion, Crafted Familiar); Chaotic Neutral*

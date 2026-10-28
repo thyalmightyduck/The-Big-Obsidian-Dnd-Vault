@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blight Drake
 >*Medium Dragon, Neutral Evil*

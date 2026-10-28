@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Werewolf Ravager
 >*Small or Medium Monstrosity (Lycanthrope), Neutral*

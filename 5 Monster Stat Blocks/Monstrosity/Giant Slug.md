@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Slug
 >*Large Monstrosity, Unaligned*

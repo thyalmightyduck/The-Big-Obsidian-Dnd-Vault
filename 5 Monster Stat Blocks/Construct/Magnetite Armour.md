@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Magnetite Armour
 >*Medium Construct, Unaligned*

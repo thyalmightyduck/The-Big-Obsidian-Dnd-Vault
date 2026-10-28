@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Night Scorpion
 >*Large Beast, Unaligned*

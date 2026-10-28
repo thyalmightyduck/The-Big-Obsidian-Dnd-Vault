@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Belial
 >*Medium Fiend (Devil), Lawful Evil*

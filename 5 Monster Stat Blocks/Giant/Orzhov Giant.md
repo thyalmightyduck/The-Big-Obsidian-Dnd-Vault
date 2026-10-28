@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Orzhov Giant
 >*Large Giant, Lawful Evil*

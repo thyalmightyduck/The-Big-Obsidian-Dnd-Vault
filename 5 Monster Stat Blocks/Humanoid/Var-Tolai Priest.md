@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Var-Tolai Priest
 >*Medium Humanoid (Elf), Lawful Neutral*

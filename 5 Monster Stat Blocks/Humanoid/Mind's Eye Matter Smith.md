@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mind's Eye Matter Smith
 >*Small or Medium Humanoid, Any Alignment*

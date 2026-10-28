@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amethyst Academy Wizard
 >*Medium Humanoid, Any Alignment*

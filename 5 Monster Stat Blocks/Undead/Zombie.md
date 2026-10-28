@@ -27,7 +27,7 @@ traits:
     desc: If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
 actions:
   - name: Slam.
-    desc: "_Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 5 (1d8 + 1) Bludgeoning damage."
+    desc: _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 5 (1d8 + 1) Bludgeoning damage.
 statblock: true
 atlas-type: statblock
 image:
@@ -36,6 +36,7 @@ tags:
   - monster
   - undead
   - MM25
+Progress: In Progress
 ---
 
 # Zombie

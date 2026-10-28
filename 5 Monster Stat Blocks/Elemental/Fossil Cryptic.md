@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fossil Cryptic
 >*Medium Elemental (Earth, Skirmisher); typically Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blazebear
 >*Large Monstrosity, Unaligned*

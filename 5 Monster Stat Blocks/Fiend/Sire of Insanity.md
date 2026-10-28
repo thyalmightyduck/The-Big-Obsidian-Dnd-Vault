@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sire of Insanity
 >*Huge Fiend (Demon), Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lantern Archon
 >*Small Celestial, typically Lawful Good*

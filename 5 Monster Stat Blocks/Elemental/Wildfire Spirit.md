@@ -4,6 +4,7 @@ tags:
   - Elemental
   - TCE
   - Summon
+Progress: In Progress
 ---
 # Wildfire Spirit 
 ## Tasha’s Cauldron of Everything (TCE):

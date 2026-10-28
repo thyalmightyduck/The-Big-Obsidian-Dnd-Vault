@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cyclops Oracle
 >*Huge Giant, Chaotic Neutral*

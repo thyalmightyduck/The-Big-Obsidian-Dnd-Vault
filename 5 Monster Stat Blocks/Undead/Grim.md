@@ -4,6 +4,7 @@ tags:
   - Undead
   - TCM24
   - Summon
+Progress: In Progress
 ---
 # Grim
 ## The Crooked Moon 2024 (TCM24):

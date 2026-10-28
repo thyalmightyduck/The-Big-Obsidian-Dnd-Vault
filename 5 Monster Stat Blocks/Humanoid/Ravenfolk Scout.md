@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ravenfolk Scout
 >*Medium Humanoid (Ravenfolk), Neutral*

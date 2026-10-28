@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stoneback Isopod
 >*Medium Beast (Brute), Unaligned*

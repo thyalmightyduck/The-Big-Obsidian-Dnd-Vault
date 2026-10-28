@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shator Demodand
 >*Large Fiend, typically Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Aspirant of the Comet
 >*Medium Humanoid, Any Alignment*

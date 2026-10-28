@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mummy Rotwrap
 >*Medium Undead (Minion), typically Lawful Evil*

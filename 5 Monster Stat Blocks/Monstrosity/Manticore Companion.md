@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Manticore Companion
 >*Large Monstrosity (Companion), Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Strahd Skeleton
 >*Medium Undead, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampirate
 >*Medium Undead, typically Lawful Evil*

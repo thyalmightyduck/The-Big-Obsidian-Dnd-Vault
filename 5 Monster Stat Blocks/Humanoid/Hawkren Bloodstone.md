@@ -3,6 +3,7 @@ tags:
   - Monster
   - Humanoid
   - TGS2
+Progress: In Progress
 ---
 # Hawkren Bloodstone
 ## The Griffon’s Saddlebag, Book 2 (TGS2):

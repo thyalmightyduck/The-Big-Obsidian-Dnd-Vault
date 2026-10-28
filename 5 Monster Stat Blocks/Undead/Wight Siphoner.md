@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wight Siphoner
 >*Medium Undead (Minion), typically Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crushing Wave Priest
 >*Medium Humanoid (Human), Neutral Evil*

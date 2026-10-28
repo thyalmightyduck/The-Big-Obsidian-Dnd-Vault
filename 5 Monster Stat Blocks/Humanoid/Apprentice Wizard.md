@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Apprentice Wizard
 >*Medium Humanoid, Any Alignment*

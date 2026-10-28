@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Elder Dinosaur (Ghalta, Primal Hunger)
 >*Gargantuan Monstrosity (Titan), Unaligned*

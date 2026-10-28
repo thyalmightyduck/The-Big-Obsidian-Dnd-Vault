@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hill Giant Sergeant
 >*Huge Giant, Chaotic Evil*

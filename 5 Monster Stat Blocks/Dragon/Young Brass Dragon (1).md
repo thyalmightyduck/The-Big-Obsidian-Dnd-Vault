@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Brass Dragon
 >*Large Dragon (Metallic), Chaotic Good*

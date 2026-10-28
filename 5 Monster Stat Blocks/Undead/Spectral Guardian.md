@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spectral Guardian
 >*Medium Undead, Neutral Evil*

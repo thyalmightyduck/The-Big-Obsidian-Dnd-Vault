@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Sling Bullets of Althemone
 

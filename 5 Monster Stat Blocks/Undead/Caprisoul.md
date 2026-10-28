@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Caprisoul
 >*Tiny Undead (Bespoke Companion, Crafted Familiar); Neutral*

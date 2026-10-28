@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Azer Sentinel
 >*Medium Elemental, Lawful Neutral*

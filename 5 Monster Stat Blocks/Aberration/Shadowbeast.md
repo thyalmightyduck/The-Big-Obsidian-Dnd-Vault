@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadowbeast
 >*Large Aberration, Chaotic Evil*

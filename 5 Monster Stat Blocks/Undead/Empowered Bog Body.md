@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Empowered Bog Body
 >*Medium Undead (Ambusher), typically Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampirate Captain
 >*Medium Undead, typically Lawful Evil*

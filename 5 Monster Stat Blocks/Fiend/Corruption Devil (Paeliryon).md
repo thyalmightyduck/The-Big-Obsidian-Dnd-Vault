@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Corruption Devil (Paeliryon)
 >*Large Fiend (Devil), Lawful Evil*

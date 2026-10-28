@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Strig Tracker
 >*Medium Humanoid (Strig), Lawful Good*

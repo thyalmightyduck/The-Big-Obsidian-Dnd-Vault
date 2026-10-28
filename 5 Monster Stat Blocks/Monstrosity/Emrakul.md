@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Emrakul
 >*Gargantuan Monstrosity (Titan), Unaligned*

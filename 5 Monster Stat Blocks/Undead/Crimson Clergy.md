@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crimson Clergy
 >*Small or Medium Undead (Cleric, Vampire); Lawful Evil*

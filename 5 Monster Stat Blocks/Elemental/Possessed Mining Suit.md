@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Possessed Mining Suit
 >*Huge Elemental, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Battle Familiar
 >*Medium Celestial, Fey, or Fiend; Neutral*

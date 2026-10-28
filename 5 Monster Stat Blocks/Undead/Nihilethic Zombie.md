@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nihilethic Zombie
 >*Medium Undead, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scholarly Mastermind
 >*Small or Medium Humanoid (Wizard), Any Alignment*

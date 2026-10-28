@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zabrielite Truthseeker
 >*Large Celestial, Lawful Neutral*

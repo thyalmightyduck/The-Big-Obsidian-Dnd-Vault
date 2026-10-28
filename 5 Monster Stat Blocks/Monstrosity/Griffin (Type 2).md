@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Griffin (Type 2)
 >*Large Monstrosity, Unaligned*

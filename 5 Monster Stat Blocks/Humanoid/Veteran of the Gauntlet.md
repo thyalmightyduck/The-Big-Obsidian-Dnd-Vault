@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Veteran of the Gauntlet
 >*Medium Humanoid (Human), Lawful Good*

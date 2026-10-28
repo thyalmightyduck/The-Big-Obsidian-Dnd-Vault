@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scion of Grolantor
 >*Gargantuan Giant (Titan), typically Chaotic Evil*

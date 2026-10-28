@@ -21,10 +21,10 @@ traits:
   - name: Charge.
     desc: If the beast moves at least 20 feet straight toward a target and then hits it with a maul attack on the same turn, the target takes an extra 1d6 slashing damage. If the target is a creature, it must succeed on a Strength saving throw against your spell save DC or be knocked prone.
   - name: Primal Bond.
-    desc: You can add your proficiency bonus to any ability check or saving throw that the beast makes.   
+    desc: You can add your proficiency bonus to any ability check or saving throw that the beast makes.
 actions:
   - name: Maul.
-    desc: '*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) + PB slashing damage.'
+    desc: "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) + PB slashing damage."
 statblock: true
 atlas-type: statblock
 image:
@@ -33,6 +33,7 @@ tags:
   - monster
   - TCE
   - Beast
+Progress: In Progress
 ---
 
 # Beast of the Land

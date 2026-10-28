@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Accursed Defiler
 >*Medium Undead, Neutral Evil*

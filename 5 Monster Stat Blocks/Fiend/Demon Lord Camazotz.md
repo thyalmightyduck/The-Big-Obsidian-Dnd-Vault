@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Demon Lord Camazotz
 >*Large Fiend (Demon), Chaotic Evil*

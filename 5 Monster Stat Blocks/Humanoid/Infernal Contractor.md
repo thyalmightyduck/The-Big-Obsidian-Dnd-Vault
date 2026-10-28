@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Infernal Contractor
 >*Small or Medium Humanoid, Any Evil Alignment*

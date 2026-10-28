@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Society of Sensation Muse
 >*Small or Medium Humanoid, Any Alignment*

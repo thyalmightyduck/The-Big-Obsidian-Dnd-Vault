@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Strider
 >*Large Elemental, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Elder Oblex
 >*Huge Ooze, Typically Lawful Evil*

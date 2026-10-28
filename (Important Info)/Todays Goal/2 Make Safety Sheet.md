@@ -1,4 +1,0 @@
----
-Progress:
-  - In Progress
----

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Howling Hatred Priest
 >*Medium Humanoid (Human), Neutral Evil*

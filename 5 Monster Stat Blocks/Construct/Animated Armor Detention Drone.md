@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Armor Detention Drone
 >*Medium Construct, Unaligned*

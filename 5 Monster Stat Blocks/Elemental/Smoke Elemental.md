@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Smoke Elemental
 >*Large Elemental, Neutral*

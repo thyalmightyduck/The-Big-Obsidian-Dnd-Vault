@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Carrion Crawler
 >*Large Monstrosity, Unaligned*

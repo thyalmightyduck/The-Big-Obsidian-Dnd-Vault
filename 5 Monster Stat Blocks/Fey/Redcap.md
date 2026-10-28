@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Redcap
 >*Small Fey, Typically Chaotic Evil*

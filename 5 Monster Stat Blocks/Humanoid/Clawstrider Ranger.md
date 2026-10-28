@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Clawstrider Ranger
 >*Medium Humanoid, Any Alignment*

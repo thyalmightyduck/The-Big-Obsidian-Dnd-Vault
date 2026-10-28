@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Brute
 >*Medium Humanoid (Gnoll), Chaotic Evil*

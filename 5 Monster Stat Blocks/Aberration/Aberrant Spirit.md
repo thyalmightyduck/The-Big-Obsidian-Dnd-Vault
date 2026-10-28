@@ -3,6 +3,8 @@ tags:
   - monster
   - TCE
   - Summon
+Progress:
+  - Game Ready
 ---
 
 # Aberrant Spirit

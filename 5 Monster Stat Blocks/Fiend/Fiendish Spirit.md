@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fiendish Spirit
 >*Large Fiend, Neutral*

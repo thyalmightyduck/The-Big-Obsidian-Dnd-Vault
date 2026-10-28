@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cultist Hierophant
 >*Small or Medium Humanoid, Neutral*

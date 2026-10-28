@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lightbender Companion
 >*Large Monstrosity (Companion), Unaligned*

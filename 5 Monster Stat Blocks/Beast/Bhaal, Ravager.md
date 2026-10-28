@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bhaal, Ravager
 >*Huge Beast, Lawful Evil*

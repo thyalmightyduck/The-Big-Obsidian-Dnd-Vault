@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Basilisk
 >*Small Monstrosity, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Thing with the Writhing Tail
 >*Huge Aberration (Epic Boss)*

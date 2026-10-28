@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Yeti Leader
 >*Large Monstrosity, Chaotic Evil*

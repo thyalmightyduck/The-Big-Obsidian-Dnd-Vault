@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Death Tyrant
 >*Large Undead (Beholder), Lawful Evil*

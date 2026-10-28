@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Far Dweller Mastermind
 >*Medium Aberration (Epic Boss)*

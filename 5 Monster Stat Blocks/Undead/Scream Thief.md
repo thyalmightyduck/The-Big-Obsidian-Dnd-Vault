@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scream Thief
 >*Medium Undead, Chaotic Evil*

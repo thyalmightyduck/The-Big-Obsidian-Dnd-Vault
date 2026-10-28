@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Marble Stone Giant
 >*Huge Giant (Artillery), Any Alignment*

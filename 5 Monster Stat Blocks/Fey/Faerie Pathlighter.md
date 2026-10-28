@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Faerie Pathlighter
 >*Medium Fey, typically Chaotic Good*

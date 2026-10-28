@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Argan Rael
 >*Medium Humanoid (Tiefling, Artillery); Chaotic Evil*

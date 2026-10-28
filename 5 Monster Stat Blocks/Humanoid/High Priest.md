@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## High Priest
 >*Medium Humanoid, Lawful Neutral*

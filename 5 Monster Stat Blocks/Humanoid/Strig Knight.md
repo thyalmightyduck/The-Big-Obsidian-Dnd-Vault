@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Strig Knight
 >*Medium Humanoid (Strig), Any Lawful Alignment*

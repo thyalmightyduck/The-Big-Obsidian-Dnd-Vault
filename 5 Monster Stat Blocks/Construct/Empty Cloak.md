@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Empty Cloak
 >*Medium Construct, Neutral*

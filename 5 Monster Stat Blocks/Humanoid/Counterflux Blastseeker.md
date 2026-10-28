@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Counterflux Blastseeker
 >*Medium Humanoid (Any Race), Chaotic Neutral*

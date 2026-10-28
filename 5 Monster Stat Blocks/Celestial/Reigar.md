@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reigar
 >*Medium Celestial, typically Chaotic Neutral*

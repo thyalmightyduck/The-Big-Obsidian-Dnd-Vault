@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadowghast
 >*Medium Undead, Chaotic Evil*

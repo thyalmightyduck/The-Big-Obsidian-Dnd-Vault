@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Firerunner
 >*Medium Humanoid (Hobgoblin, Skirmisher); Any Alignment*

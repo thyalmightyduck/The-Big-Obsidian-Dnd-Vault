@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mighty Servant of Leuk-o
 >*Huge Construct, Unaligned*

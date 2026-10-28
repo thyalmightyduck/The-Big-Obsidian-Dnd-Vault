@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## He Who Laughs Last
 >*Gargantuan Fiend (Demon, Epic Boss)*

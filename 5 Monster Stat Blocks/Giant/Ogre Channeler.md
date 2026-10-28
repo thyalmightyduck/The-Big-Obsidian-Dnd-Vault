@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre Channeler
 >*Large Giant, Lawful Evil*

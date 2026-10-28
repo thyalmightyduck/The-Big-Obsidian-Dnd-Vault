@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Huskarl
 >*Small or Medium Humanoid, Neutral*

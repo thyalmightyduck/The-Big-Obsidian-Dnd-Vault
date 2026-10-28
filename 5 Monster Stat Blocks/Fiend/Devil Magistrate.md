@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devil Magistrate
 >*Medium Fiend (Devil, Skirmisher); typically Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Giant
 >*Huge Giant, Neutral*

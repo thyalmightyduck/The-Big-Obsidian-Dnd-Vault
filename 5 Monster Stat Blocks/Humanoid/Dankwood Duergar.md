@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dankwood Duergar
 >*Medium Humanoid (Dwarf), Lawful Grumpy*

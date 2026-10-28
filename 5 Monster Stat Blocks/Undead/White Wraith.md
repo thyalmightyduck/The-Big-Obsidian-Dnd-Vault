@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## White Wraith
 >*Medium Undead, Neutral Evil*

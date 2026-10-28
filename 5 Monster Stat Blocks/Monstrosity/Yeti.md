@@ -3,6 +3,7 @@ tags:
   - Monster
   - Monstrosity
   - MM25
+Progress: In Progress
 ---
 # Yeti
 ## Monster Manual (2025):

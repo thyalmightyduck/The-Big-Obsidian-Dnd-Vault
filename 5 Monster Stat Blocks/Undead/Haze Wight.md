@@ -3,6 +3,7 @@ tags:
   - Monster
   - Undead
   - MoDk
+Progress: In Progress
 ---
 # Haze Wight
 ## Monsters of Drakkenheim (MODK):

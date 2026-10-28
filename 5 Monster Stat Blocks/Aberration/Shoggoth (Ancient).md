@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shoggoth (Ancient)
 >*Huge Aberration (Mythos), Chaotic Evil*

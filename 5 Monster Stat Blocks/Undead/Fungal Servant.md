@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fungal Servant
 >*Medium Undead, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Undead Cockatrice
 >*Small Undead, Unaligned*

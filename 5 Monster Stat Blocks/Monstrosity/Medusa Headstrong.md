@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Medusa Headstrong
 >*Medium Monstrosity (Medusa, Retainer); Any Alignment*

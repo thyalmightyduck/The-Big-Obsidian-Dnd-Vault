@@ -4,6 +4,7 @@ tags:
   - Aberration
   - FM
   - CR15
+Progress: Game Ready
 ---
 # Flee Mortals! (FM)
 ___

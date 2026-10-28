@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Forgotten Prince
 >*Medium Fey, Chaotic Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Serum Brute
 >*Large Giant, Neutral*

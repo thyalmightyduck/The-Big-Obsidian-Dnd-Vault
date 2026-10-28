@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blood Seneschal
 >*Medium Elemental (Earth, Fire, Water, Retainer); Any Alignment*

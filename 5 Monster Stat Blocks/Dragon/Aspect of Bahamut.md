@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Aspect of Bahamut
 >*Gargantuan Dragon (Metallic), Lawful Good*

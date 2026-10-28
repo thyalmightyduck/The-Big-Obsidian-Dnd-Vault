@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animatronic Allosaurus
 >*Large Construct, Unaligned*

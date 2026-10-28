@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dreaming Dark Mindkiller
 >*Small or Medium Humanoid, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grim Champion of Bloodshed
 >*Medium Undead, Chaotic Evil*

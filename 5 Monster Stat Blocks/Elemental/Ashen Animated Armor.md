@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ashen Animated Armor
 >*Medium Elemental, Lawful Evil*

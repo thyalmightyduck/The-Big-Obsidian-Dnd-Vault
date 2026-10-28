@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Booyahg Whip
 >*Small Humanoid (Goblinoid), Neutral Evil*

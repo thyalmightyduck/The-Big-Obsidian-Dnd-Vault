@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Husk Zombie
 >*Medium Undead, Neutral Evil*

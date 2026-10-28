@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Stone Golem
 >*Large Construct, Unaligned*

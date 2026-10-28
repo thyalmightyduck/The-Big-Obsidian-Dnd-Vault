@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Xzar the Chaos Clone
 >*Medium Humanoid (Human), Chaotic Evil*

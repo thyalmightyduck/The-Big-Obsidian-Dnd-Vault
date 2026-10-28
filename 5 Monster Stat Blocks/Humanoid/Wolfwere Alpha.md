@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wolfwere Alpha
 >*Medium Humanoid, Chaotic Evil*

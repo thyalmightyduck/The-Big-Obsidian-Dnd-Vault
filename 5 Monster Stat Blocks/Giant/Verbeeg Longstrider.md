@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Verbeeg Longstrider
 >*Large Giant, Neutral*

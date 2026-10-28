@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ghoul
 >*Medium Undead (Skirmisher), typically Chaotic Evil*

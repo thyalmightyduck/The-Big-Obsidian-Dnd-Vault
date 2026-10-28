@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Spore Servant
 >*Medium Plant, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pirate Deck Wizard
 >*Medium Humanoid (Any Race), Any Alignment*

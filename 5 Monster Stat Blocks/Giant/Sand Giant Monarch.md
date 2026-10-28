@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sand Giant Monarch
 >*Huge Giant, Lawful Evil*

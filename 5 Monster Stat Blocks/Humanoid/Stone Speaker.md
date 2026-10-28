@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Speaker
 >*Medium Humanoid (Warlock, Any); Neutral Evil*

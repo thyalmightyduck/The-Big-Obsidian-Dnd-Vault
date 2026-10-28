@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Warrior
 >*Medium Fey (Goblinoid), Chaotic Evil*

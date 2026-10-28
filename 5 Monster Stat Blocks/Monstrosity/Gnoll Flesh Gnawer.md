@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Flesh Gnawer
 >*Medium Monstrosity, Typically Chaotic Evil*

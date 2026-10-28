@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Bronze Dragon
 >*Huge Dragon (Metallic), Lawful Good*

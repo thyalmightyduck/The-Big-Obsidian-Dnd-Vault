@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cacophonous Chimera
 >*Huge Monstrosity (Epic Boss)*

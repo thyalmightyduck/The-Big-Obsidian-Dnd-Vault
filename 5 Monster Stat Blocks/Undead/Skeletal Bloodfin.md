@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Skeletal Bloodfin
 >*Large Undead, Unaligned*

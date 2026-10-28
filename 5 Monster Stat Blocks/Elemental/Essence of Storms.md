@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Essence of Storms
 >*Medium Elemental (Air, Controller); Any Alignment*

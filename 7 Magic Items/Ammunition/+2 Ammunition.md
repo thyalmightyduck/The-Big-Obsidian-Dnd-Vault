@@ -4,6 +4,8 @@ tags:
   - Ammunition
   - GenericVariant
   - Rare
+Progress:
+  - Game Ready
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +2 Ammunition

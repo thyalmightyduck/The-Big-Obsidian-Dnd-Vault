@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goliath Werebear
 >*Medium Humanoid (Goliath, Shapechanger); Neutral Good*

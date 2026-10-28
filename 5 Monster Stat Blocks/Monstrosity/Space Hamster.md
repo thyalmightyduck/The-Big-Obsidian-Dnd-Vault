@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Space Hamster
 >*Tiny Monstrosity, typically Neutral Good*

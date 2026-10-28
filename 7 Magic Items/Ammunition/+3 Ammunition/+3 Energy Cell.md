@@ -5,6 +5,7 @@ tags:
   - VeryRare
   - Futuristic
   - DMG24
+Progress: Game Ready
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +3 Energy Cell

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Regular
 >*Medium Humanoid (Bugbear, Minion); Any Alignment*

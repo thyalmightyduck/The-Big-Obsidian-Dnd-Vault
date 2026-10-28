@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Decanus
 >*Small Humanoid (Kobold, Retainer); Any Alignment*

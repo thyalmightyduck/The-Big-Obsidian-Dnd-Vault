@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Plasmoid Boss
 >*Large Ooze, Any Alignment*

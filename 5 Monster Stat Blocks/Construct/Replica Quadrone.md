@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Replica Quadrone
 >*Medium Construct, Lawful Neutral*

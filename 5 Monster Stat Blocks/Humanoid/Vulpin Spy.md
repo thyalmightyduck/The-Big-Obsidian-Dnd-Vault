@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vulpin Spy
 >*Medium Humanoid (Vulpin), Any Alignment*

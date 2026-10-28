@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Elder Dinosaur (Zetalpa, Primal Dawn)
 >*Gargantuan Monstrosity (Titan), Unaligned*

@@ -44,6 +44,7 @@ image:
 tags:
   - monster
 statblock: true
+Progress: In Progress
 ---
 
 ___

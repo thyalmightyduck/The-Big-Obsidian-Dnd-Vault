@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Angel of Empyreus
 >*Large Celestial, Lawful Neutral*

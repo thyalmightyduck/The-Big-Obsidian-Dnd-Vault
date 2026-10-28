@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lurker in the Dark
 >*Medium Fey, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Juvenile Giant Antlion
 >*Large Monstrosity, Unaligned*

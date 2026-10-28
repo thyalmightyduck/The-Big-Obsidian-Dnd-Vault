@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Silverquill Professor of Radiance
 >*Small or Medium Humanoid (Bard), Any Alignment*

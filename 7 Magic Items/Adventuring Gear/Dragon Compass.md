@@ -4,6 +4,8 @@ tags:
   - WEL
   - MagicItem
   - AdventuringGear
+Progress:
+  - Game Ready
 ---
 # Where Evil Lies: The MCDM Book of Boss Battles (WEL) 
 #### Dragon Compass

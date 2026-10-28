@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amonkhet Sphinx
 >*Large Monstrosity, Lawful Neutral*

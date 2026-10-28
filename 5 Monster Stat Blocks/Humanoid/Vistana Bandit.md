@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vistana Bandit
 >*Medium Humanoid (Any Race), Any Non-Lawful Alignment*

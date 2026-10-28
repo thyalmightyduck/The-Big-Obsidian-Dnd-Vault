@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Ochre Jelly
 >*Large Ooze, Unaligned*

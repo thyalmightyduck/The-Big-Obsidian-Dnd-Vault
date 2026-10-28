@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dragon Army Soldier
 >*Medium Humanoid, typically Lawful Evil*

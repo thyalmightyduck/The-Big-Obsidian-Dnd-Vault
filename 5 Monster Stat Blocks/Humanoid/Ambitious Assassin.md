@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ambitious Assassin
 >*Small or Medium Humanoid, typically Neutral Evil*

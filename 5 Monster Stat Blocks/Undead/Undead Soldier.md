@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Undead Soldier
 >*Medium Undead, Neutral Evil*

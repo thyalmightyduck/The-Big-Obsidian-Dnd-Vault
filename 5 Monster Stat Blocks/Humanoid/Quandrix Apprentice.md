@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Quandrix Apprentice
 >*Small or Medium Humanoid (Wizard), Any Alignment*

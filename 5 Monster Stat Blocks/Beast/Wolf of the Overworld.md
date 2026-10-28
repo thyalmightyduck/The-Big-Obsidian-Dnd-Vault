@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wolf of the Overworld
 >*Medium Beast, Unaligned*

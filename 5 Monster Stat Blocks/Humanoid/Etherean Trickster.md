@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Etherean Trickster
 >*Medium Humanoid (Etherean), Chaotic Neutral*

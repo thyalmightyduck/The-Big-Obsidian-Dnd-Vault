@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Werewolf (Krallenhorde)
 >*Medium Humanoid (Human, Shapechanger); Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Braxat
 >*Huge Giant, typically Neutral*

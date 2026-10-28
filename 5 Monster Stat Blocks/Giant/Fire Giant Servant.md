@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fire Giant Servant
 >*Huge Giant, Chaotic Evil*

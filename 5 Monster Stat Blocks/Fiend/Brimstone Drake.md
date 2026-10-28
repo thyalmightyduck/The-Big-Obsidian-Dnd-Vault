@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Brimstone Drake
 >*Large Fiend, Neutral Evil*

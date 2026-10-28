@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Yagnoloth
 >*Large Fiend (Yugoloth), Typically Neutral Evil*

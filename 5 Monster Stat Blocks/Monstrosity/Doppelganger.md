@@ -3,6 +3,7 @@ tags:
   - Monster
   - Monstrosity
   - MM25
+Progress: In Progress
 ---
 # Doppelganger
 ## Monster Manuel 2025 (MM25):

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Queen of Night and Magic
 >*Medium Fey, Neutral Evil*

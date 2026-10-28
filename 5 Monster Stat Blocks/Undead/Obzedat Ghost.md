@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Obzedat Ghost
 >*Medium Undead, Lawful Evil*

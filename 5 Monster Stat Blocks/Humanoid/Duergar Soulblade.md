@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Soulblade
 >*Medium Humanoid (Dwarf), Any Alignment*

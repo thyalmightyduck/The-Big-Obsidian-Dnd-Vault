@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Soman Vampire Berserker
 >*Medium Undead, Any Alignment*

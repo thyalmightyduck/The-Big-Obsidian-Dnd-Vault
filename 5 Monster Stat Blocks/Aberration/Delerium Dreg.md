@@ -29,6 +29,7 @@ atlas-type: statblock
 tags:
   - monster
   - MoDk
+Progress: In Progress
 ---
 
 # Delerium Dreg

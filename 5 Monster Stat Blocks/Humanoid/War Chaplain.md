@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## War Chaplain
 >*Small or Medium Humanoid, Neutral*

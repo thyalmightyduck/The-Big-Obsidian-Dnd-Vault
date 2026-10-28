@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devil Notary
 >*Medium Fiend (Devil, Minion); typically Lawful Evil*

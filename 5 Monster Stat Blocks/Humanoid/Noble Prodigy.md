@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Noble Prodigy
 >*Small or Medium Humanoid, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Blightscale Dragon
 >*Huge Dragon (Cursed), Neutral Evil*

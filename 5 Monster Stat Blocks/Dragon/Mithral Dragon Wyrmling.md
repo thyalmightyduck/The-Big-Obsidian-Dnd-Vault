@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mithral Dragon Wyrmling
 >*Medium Dragon, Neutral*

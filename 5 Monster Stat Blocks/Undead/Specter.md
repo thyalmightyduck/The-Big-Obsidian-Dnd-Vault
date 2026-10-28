@@ -3,6 +3,7 @@ tags:
   - Monster
   - Undead
   - MM25
+Progress: In Progress
 ---
 # Specter
 ## Monster Manual (2025):

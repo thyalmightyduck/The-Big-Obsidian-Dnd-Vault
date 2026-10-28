@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fafnir
 >*Huge Dragon, Neutral Evil*

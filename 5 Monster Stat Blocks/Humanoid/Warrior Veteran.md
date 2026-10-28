@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warrior Veteran
 >*Small or Medium Humanoid, Neutral*

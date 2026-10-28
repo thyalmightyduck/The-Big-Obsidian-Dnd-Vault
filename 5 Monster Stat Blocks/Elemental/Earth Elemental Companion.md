@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Earth Elemental Companion
 >*Large Elemental (Companion), Unaligned*

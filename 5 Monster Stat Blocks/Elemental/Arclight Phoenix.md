@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Arclight Phoenix
 >*Medium Elemental, Chaotic Neutral*

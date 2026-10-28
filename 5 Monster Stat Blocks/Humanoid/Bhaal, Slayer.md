@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bhaal, Slayer
 >*Medium Humanoid, Lawful Evil*

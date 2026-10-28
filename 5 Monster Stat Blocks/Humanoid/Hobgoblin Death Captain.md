@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hobgoblin Death Captain
 >*Medium Humanoid (Hobgoblin, Support); Any Alignment*

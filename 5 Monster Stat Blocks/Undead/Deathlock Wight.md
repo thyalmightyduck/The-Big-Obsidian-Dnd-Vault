@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Deathlock Wight
 >*Medium Undead (Warlock), Typically Neutral Evil*

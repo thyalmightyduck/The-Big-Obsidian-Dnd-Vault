@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devil Legate
 >*Medium Fiend (Devil, Soldier); typically Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Vampire
 >*Medium Undead, Any Evil Alignment*

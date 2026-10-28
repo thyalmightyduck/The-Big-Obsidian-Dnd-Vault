@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sky Whale
 >*Huge Beast, Unaligned*

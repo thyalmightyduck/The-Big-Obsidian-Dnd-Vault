@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Oblex Spawn
 >*Tiny Ooze, Typically Lawful Evil*

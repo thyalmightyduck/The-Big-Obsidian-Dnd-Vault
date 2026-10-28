@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ascendant Vladimir von Drakken
 >*Large Undead (Epic Boss)*

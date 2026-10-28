@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Trench Giant
 >*Huge Giant, Chaotic Evil*

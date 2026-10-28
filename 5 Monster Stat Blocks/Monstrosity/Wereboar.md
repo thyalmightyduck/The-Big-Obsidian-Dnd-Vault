@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wereboar
 >*Small or Medium Monstrosity (Lycanthrope), Neutral Evil*

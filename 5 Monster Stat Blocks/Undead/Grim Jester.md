@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grim Jester
 >*Medium Undead, Chaotic Evil*

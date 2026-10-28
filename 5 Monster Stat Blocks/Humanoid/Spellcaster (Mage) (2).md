@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spellcaster (Mage)
 >*7th-level Medium Humanoid (Mage)*

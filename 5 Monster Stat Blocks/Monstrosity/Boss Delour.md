@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Boss Delour
 >*Small Monstrosity, Lawful Evil*

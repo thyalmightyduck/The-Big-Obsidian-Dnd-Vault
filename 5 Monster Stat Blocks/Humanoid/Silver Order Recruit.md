@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Silver Order Recruit
 >*Medium Humanoid*

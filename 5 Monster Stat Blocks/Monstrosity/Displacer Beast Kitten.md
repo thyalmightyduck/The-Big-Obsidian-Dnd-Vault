@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Displacer Beast Kitten
 >*Small Monstrosity, Unaligned*

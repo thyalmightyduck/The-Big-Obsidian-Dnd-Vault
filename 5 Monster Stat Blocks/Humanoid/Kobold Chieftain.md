@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Chieftain
 >*Small Humanoid (Kobold), Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Brimstone Behemoth
 >*Gargantuan Fiend, Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Downcast Sangromancer
 >*Medium Humanoid (Downcast, Wizard); Any Alignment*

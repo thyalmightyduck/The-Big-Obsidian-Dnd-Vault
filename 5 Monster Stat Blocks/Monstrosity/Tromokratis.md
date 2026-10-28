@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tromokratis
 >*Gargantuan Monstrosity (Titan), Any Alignment*

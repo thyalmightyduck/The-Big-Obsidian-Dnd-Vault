@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Beggar Ghoul
 >*Medium Undead, Chaotic Evil*

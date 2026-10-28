@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vlazok
 >*Large Fiend (Demon), typically Chaotic Evil*

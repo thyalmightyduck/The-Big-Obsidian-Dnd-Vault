@@ -3,6 +3,7 @@ tags:
   - Monster
   - Monstrosity
   - IDROTF
+Progress: In Progress
 ---
 # Auril (First Form)
 ## Icewind Dale: Rime of the Frostmaiden (IDROTF):

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Awakened Chapped Brute
 >*Large Monstrosity, Neutral Evil*

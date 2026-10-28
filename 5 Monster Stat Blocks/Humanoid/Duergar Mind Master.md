@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Mind Master
 >*Medium Humanoid (Dwarf), Any Alignment*

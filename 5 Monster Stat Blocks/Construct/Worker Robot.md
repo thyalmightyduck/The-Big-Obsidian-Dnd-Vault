@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Worker Robot
 >*Medium Construct, typically Neutral*

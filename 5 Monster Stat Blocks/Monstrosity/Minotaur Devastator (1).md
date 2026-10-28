@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Minotaur Devastator
 >*Medium Monstrosity (Minotaur, Retainer); Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Daemogoth Titan
 >*Gargantuan Fiend, typically Chaotic Evil*

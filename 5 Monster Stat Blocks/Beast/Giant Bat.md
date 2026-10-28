@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Bat
 >*Large Beast, Unaligned*

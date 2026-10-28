@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Highland Wolf
 >*Medium Beast, Neutral*

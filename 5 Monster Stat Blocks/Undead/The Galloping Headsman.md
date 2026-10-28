@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Galloping Headsman
 >*Large Undead, Lawful Evil*

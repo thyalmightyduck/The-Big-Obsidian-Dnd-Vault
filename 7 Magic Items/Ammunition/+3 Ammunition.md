@@ -5,6 +5,8 @@ tags:
   - GenericVariant
   - VeryRare
   - DMG24
+Progress:
+  - Game Ready
 ---
 # Dungeon Master’s Guild 2024 (DMG24)
 #### +3 Ammunition

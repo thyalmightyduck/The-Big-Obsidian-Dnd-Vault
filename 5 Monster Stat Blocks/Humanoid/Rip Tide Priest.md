@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rip Tide Priest
 >*Medium Humanoid (Human), Neutral Evil*

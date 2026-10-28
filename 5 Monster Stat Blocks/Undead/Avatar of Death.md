@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Avatar of Death
 >*Medium Undead, Neutral Evil*

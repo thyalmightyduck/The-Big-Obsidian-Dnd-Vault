@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Emerald Dragon
 >*Gargantuan Dragon (Gem), typically Lawful Neutral*

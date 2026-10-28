@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scyza
 >*Gargantuan Monstrosity (Brute), Unaligned*

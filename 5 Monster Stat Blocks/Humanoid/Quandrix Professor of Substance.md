@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Quandrix Professor of Substance
 >*Small or Medium Humanoid (Wizard), Any Alignment*

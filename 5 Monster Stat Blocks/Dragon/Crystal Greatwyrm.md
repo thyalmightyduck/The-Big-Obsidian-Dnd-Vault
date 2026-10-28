@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crystal Greatwyrm
 >*Gargantuan Dragon (Gem), typically Neutral*

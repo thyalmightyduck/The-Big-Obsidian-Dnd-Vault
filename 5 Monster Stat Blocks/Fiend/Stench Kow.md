@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stench Kow
 >*Large Fiend (Cattle), Unaligned*

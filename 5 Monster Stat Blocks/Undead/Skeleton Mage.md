@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Skeleton Mage
 >*Medium Undead*

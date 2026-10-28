@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Human Trickshot Slime Servant
 >*Medium Humanoid (Human, Artillery); Any Alignment*

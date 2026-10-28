@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadow Fey Duelist
 >*Medium Humanoid (Elf), Lawful Evil*

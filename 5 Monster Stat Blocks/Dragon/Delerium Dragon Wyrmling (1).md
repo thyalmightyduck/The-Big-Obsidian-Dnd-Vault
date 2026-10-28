@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Delerium Dragon Wyrmling
 >*Medium Dragon*

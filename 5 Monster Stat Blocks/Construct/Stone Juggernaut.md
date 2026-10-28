@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Juggernaut
 >*Large Construct, Unaligned*

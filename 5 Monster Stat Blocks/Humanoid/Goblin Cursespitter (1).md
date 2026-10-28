@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Cursespitter
 >*Small Humanoid (Goblin, Controller); Any Alignment*

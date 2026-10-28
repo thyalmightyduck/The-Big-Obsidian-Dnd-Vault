@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vargouille Reflection
 >*Tiny Fiend, typically Chaotic Evil*

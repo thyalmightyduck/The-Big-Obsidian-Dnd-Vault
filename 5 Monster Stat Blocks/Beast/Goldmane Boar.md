@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goldmane Boar
 >*Medium Beast, Unaligned*

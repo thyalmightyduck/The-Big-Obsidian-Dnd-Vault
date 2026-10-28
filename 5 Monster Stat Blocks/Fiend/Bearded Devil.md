@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bearded Devil
 >*Medium Fiend (Devil), Lawful Evil*

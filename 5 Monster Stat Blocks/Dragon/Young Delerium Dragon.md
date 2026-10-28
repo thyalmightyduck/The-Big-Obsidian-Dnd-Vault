@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Delerium Dragon
 >*Large Dragon (Epic Boss)*

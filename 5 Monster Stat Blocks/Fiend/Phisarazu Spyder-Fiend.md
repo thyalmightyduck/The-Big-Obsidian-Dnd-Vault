@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Phisarazu Spyder-Fiend
 >*Large Fiend (Demon), typically Chaotic Evil*

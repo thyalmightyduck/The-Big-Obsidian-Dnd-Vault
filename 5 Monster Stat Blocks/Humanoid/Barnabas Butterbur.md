@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Barnabas Butterbur
 >*Medium Humanoid (Man of Bree)*

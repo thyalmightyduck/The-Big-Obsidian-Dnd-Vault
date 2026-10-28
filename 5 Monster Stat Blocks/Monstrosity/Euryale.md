@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Euryale
 >*Medium Monstrosity (Druid, Medusa); Neutral Good*

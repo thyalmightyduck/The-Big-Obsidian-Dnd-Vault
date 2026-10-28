@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Noggle Wild Mage
 >*Small Fey, Chaotic Neutral*

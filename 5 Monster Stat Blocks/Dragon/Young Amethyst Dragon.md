@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Amethyst Dragon
 >*Large Dragon (Gem), typically Neutral*

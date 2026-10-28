@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ebon Knight
 >*Medium Undead, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hellhound Cur
 >*Small Fiend (Minion), typically Neutral Evil*

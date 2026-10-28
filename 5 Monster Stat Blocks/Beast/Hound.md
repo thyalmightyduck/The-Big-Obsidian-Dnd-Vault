@@ -4,6 +4,7 @@ tags:
   - Beast
   - Summon
   - TPC24
+Progress: In Progress
 ---
 # Hound:
 ## The Pugilist Class 2024 (TPC24):

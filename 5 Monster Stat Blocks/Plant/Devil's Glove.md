@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devil's Glove
 >*Tiny Plant, Unaligned*

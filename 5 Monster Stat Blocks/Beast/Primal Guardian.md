@@ -4,6 +4,7 @@ tags:
   - Beast
   - Summon
   - GHPG24
+Progress: In Progress
 ---
 # Primal Guardian
 ## Grim Hallow” Player’s Guide 2024 (GHPG24):

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Griffon Companion
 >*Large Beast (Companion), Unaligned*

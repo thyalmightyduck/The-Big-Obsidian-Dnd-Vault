@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Jade Serpent
 >*Medium Construct, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Advanced Detention Drone
 >*Large Construct, Unaligned*

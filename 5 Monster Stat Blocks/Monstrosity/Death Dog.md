@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Death Dog
 >*Medium Monstrosity, Neutral Evil*

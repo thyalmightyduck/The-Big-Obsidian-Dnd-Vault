@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zhentilar Paladin of Bane
 >*Small or Medium Humanoid, Lawful Evil*

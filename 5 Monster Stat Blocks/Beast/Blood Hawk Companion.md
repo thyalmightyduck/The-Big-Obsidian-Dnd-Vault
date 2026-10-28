@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blood Hawk Companion
 >*Small Beast (Companion), Unaligned*

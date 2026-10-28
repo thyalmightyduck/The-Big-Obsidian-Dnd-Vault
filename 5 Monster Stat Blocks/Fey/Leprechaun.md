@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Leprechaun
 >*Small Fey, typically Neutral*

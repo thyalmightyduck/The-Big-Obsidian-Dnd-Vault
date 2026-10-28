@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Night Serpent
 >*Tiny Fiend, Chaotic Evil*

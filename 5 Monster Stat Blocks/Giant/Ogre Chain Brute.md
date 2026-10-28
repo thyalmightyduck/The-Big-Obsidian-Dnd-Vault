@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre Chain Brute
 >*Large Giant, Typically Chaotic Evil*

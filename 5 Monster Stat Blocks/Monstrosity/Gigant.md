@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gigant
 >*Gargantuan Monstrosity, Unaligned*

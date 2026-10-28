@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bandit Deceiver
 >*Small or Medium Humanoid, Neutral*

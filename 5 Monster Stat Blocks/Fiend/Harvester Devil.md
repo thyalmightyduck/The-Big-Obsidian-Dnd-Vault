@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Harvester Devil
 >*Medium Fiend (Devil), Lawful Evil*

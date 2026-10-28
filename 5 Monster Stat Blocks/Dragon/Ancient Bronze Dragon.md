@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Bronze Dragon
 >*Gargantuan Dragon (Metallic), Lawful Good*

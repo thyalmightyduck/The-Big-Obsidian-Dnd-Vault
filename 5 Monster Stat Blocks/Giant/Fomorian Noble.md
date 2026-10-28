@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fomorian Noble
 >*Huge Giant (Wizard), typically Chaotic Evil*

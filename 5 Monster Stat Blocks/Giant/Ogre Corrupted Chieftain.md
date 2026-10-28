@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogre Corrupted Chieftain
 >*Large Giant, Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Norker War Leader
 >*Small Humanoid (Goblinoid), Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Skeleton
 >*Huge Undead, Neutral Evil*

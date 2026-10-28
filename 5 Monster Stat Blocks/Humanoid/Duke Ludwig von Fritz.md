@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duke Ludwig von Fritz
 >*Medium Humanoid (Human), Any Alignment*

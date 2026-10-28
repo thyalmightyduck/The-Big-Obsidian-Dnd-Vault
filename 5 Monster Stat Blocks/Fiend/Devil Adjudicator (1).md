@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devil Adjudicator
 >*Medium Fiend (Devil, Controller); typically Lawful Evil*

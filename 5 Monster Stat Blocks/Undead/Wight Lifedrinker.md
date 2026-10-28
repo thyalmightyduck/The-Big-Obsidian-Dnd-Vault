@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wight Lifedrinker
 >*Medium Undead, Neutral Evil*

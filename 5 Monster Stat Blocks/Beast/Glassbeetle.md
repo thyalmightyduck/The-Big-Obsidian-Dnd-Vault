@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Glassbeetle
 >*Tiny Beast, Unaligned*

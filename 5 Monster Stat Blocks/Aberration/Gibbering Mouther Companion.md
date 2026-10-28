@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gibbering Mouther Companion
 >*Medium Aberration (Companion), typically Chaotic Neutral*

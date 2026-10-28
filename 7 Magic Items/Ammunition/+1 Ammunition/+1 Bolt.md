@@ -4,6 +4,7 @@ tags:
   - Ammunition
   - Uncommon
   - DMG24
+Progress: Game Ready
 ---
 # Dungeon Master’s Guide (DMG24)
 #### +1 Bolt

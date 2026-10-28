@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Staff
 >*Medium Construct, Neutral Evil*

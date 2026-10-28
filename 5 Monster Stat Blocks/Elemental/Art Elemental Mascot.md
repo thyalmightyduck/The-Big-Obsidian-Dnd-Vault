@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Art Elemental Mascot
 >*Small Elemental, typically Neutral*

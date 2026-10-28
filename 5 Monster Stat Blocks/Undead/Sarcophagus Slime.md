@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sarcophagus Slime
 >*Medium Undead, Neutral Evil*

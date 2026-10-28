@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Speaker Devil
 >*Large Fiend (Devil), Lawful Evil*

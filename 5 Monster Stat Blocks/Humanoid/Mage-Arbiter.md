@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mage-Arbiter
 >*Medium Humanoid (Any Race), Lawful Evil*

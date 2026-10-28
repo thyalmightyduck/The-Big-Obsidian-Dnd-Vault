@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kraken Priest
 >*Medium Monstrosity, Typically Chaotic Evil*

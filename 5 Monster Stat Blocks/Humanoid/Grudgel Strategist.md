@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grudgel Strategist
 >*Medium Humanoid (Grudgel), Any Alignment*

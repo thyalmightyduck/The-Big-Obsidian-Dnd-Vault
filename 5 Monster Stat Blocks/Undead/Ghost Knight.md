@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ghost Knight
 >*Medium Undead, Lawful Evil*

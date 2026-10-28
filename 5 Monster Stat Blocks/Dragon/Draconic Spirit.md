@@ -3,6 +3,7 @@ tags:
   - Monster
   - Dragon
   - PHB24
+Progress: In Progress
 ---
 # Draconic Spirit
 ## Player’s Handbook 2024 (PHB24):

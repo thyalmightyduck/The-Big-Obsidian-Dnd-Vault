@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Champion of Usamigaras
 >*Medium Humanoid, typically Chaotic Neutral*

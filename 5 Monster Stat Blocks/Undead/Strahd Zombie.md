@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Strahd Zombie
 >*Medium Undead, Unaligned*

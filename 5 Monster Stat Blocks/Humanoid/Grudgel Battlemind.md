@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grudgel Battlemind
 >*Medium Humanoid (Grudgel), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Box-Bound Jack
 >*Small Construct, Chaotic Evil*

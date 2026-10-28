@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Empyrean Stag
 >*Large Celestial (Support), typically Neutral Good*

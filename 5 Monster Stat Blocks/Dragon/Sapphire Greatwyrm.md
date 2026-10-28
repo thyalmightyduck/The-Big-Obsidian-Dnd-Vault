@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sapphire Greatwyrm
 >*Gargantuan Dragon (Gem), typically Neutral*

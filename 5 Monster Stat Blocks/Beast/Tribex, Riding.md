@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tribex, Riding
 >*Large Beast, Unaligned*

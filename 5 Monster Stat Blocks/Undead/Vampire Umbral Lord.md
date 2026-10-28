@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire Umbral Lord
 >*Small or Medium Undead, Lawful Evil*

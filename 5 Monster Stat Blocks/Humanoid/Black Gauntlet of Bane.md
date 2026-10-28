@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Black Gauntlet of Bane
 >*Medium Humanoid (Human), Lawful Evil*

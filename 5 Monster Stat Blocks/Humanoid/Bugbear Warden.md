@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bugbear Warden
 >*Medium Humanoid (Bugbear, Retainer); Any Alignment*

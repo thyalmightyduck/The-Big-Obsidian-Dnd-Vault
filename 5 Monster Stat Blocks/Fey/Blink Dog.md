@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blink Dog
 >*Medium Fey, Lawful Good*

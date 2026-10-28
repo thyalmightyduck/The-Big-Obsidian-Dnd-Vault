@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Phantom Warrior
 >*Medium Undead, Any Alignment*

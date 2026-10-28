@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grilp
 >*Tiny Fiend (Devil, Ambusher); typically Lawful Evil*

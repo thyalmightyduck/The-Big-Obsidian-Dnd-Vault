@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cradle of the Hill Scion
 >*Gargantuan Elemental, typically Chaotic Evil*

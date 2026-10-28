@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Star Spawn Seer
 >*Medium Aberration, Typically Neutral Evil*

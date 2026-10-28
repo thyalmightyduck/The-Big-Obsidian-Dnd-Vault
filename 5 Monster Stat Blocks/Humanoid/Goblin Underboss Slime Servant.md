@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Underboss Slime Servant
 >*Small Humanoid (Goblin, Support); Any Alignment*

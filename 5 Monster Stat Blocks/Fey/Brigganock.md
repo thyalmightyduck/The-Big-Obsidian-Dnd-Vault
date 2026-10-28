@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Brigganock
 >*Tiny Fey, typically Neutral Good*

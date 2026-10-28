@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ushabti Royal Guard
 >*Large Construct, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ice Devil
 >*Large Fiend (Devil), Lawful Evil*

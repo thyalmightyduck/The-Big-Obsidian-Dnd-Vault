@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Strixhaven Campus Guide
 >*Small Construct, typically Lawful Good*

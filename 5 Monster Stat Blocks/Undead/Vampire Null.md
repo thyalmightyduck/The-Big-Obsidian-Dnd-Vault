@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire Null
 >*Medium Undead, Neutral Evil*

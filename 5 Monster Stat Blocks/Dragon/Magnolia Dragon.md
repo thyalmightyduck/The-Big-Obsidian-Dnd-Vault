@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Magnolia Dragon
 >*Gargantuan Dragon, typically Neutral Good*

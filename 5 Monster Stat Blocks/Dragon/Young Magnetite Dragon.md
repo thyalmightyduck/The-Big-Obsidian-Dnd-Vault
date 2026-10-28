@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Magnetite Dragon
 >*Large Dragon, Neutral*

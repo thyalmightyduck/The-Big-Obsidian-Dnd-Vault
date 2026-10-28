@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amaranthyst the Ultraviolet
 >*Gargantuan Dragon, Chaotic Neutral*

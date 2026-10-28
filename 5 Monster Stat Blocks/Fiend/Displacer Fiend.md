@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Displacer Fiend
 >*Large Fiend, Neutral Evil*

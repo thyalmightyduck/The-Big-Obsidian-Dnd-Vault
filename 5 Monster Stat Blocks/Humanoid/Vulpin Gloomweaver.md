@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vulpin Gloomweaver
 >*Medium Humanoid (Vulpin), Neutral Evil*

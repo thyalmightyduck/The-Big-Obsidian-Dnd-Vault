@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Refuse Golem
 >*Large Construct, Unaligned*

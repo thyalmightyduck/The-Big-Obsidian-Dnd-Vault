@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bear King
 >*Medium Fey (Shapechanger), Lawful Neutral*

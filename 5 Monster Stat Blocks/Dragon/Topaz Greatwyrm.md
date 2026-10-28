@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Topaz Greatwyrm
 >*Gargantuan Dragon (Gem), typically Neutral*

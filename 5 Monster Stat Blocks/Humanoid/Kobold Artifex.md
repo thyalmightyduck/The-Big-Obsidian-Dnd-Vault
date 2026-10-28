@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Artifex
 >*Small Humanoid (Kobold, Controller); Any Alignment*

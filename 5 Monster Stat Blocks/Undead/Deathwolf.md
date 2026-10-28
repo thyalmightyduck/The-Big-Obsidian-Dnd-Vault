@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Deathwolf
 >*Medium Undead, typically Chaotic Evil*

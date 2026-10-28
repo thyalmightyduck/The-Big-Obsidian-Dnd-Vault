@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Otherworldly Corrupter
 >*Small or Medium Aberration, typically Chaotic Evil*

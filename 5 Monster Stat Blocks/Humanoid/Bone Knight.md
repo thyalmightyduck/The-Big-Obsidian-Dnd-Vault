@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bone Knight
 >*Medium Humanoid (Any Race), Any Non-Good Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Radlee Thugram
 >*Medium Humanoid (Human, Soldier); Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Abyssal Hyena Companion
 >*Medium Fiend (Companion), Unaligned*

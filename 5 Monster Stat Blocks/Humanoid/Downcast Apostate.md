@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Downcast Apostate
 >*Medium Humanoid (Downcast, Cleric); Any Alignment*

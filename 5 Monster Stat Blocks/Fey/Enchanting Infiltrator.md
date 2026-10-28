@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Enchanting Infiltrator
 >*Small or Medium Fey, typically Neutral Evil*

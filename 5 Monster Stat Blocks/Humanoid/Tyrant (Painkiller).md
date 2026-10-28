@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tyrant (Painkiller)
 >*Medium Humanoid (Retainer), Any Alignment*

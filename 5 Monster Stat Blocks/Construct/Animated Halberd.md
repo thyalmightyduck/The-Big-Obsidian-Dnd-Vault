@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Halberd
 >*Small Construct, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire Neonate
 >*Medium Undead, Neutral Evil*

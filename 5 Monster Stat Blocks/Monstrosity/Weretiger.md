@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Weretiger
 >*Small or Medium Monstrosity (Lycanthrope), Neutral*

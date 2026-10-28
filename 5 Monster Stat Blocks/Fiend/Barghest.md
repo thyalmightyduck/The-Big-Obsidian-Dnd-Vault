@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Barghest
 >*Large Fiend, Typically Neutral Evil*

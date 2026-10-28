@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadow Goblin Scribe
 >*Small Humanoid (Goblinoid), Any Non-Chaotic Alignment*

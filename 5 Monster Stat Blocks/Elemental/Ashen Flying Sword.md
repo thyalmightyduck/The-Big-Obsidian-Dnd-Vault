@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ashen Flying Sword
 >*Small Elemental, Lawful Evil*

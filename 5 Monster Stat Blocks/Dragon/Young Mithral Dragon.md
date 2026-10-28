@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Mithral Dragon
 >*Large Dragon, Neutral*

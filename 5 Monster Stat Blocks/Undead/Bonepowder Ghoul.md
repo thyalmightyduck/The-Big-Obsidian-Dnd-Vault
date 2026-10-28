@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bonepowder Ghoul
 >*Small Undead, Neutral Evil*

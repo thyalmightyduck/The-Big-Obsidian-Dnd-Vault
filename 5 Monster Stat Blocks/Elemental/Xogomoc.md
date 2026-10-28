@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Xogomoc
 >*Gargantuan Elemental (Titan, Solo); Neutral*

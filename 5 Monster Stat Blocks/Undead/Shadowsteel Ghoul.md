@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Shadowsteel Ghoul
 >*Medium Undead, Chaotic Evil*

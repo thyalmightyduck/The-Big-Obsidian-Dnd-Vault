@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crypt-Starved Vladimir von Drakken
 >*Medium Undead (Epic Boss)*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Half-Red Dragon Gladiator
 >*Medium Humanoid (Any Race), Any Alignment*

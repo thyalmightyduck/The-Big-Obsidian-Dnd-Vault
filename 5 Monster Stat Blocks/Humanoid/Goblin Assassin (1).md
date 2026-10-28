@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Assassin
 >*Small Humanoid (Goblin, Ambusher); Any Alignment*

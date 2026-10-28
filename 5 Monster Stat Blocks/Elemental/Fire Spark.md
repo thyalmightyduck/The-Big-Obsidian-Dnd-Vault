@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fire Spark
 >*Medium Elemental (Fire, Minion); Any Alignment*

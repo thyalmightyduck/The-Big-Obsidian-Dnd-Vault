@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fafnir
 >*Large Dragon (Chromatic), Chaotic Evil*

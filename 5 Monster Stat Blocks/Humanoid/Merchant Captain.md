@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Merchant Captain
 >*Small or Medium Humanoid, Neutral*

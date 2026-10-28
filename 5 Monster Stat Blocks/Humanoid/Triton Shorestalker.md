@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Triton Shorestalker
 >*Medium Humanoid (Triton), Neutral Evil*

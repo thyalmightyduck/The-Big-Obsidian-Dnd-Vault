@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Human Scoundrel
 >*Medium Humanoid (Human, Ambusher); Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Clockwork Bronze Scout
 >*Medium Construct, Unaligned*

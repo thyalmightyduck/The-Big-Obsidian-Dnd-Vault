@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Four-Armed Gargoyle
 >*Medium Elemental, Chaotic Evil*

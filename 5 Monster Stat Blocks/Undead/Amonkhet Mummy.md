@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Amonkhet Mummy
 >*Medium Undead, Lawful Evil*

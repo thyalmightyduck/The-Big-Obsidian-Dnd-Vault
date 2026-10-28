@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Beholder
 >*Large Aberration, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Leyleech Companion
 >*Small Monstrosity (Companion), Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Skeletal Juggernaut
 >*Large Undead, Lawful Evil*

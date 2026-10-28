@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Avarice Seraph
 >*Large Celestial, Neutral Evil*

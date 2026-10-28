@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lesser Star Spawn Emissary
 >*Small or Medium Aberration, Chaotic Evil*

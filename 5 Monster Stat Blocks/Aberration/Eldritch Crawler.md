@@ -42,6 +42,7 @@ image: atlas-vtt/assets/Eldritch_Crawler_1790816656949_gm1onb.webp
 tags:
   - monster
   - MoDk
+Progress: In Progress
 ---
 
 # Eldritch Crawler

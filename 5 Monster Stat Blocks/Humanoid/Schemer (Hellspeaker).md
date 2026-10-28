@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Schemer (Hellspeaker)
 >*Medium Humanoid (Retainer), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cradle of the Stone Scion
 >*Gargantuan Elemental, typically Neutral*

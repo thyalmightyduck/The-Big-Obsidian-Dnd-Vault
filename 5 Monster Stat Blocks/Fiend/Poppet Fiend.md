@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Poppet Fiend
 >*Tiny Fiend (Devil, Shapechanger); Lawful Evil*

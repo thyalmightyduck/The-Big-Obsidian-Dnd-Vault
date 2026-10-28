@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Abyssal Summoner
 >*Medium Fiend (Gnoll, Support); typically Chaotic Evil*

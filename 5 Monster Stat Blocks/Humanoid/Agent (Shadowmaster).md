@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Agent (Shadowmaster)
 >*Medium Humanoid (Retainer), Any Alignment*

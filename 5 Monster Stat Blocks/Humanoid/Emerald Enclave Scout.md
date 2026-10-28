@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Emerald Enclave Scout
 >*Medium Humanoid (Dwarf), Lawful Neutral*

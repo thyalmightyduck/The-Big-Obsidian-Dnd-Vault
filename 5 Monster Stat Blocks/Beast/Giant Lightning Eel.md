@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Lightning Eel
 >*Large Beast, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lesser Lunar Devil (Devil Summoning Variant)
 >*Medium Fiend (Devil), Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Statue of Talos
 >*Large Elemental, Chaotic Evil*

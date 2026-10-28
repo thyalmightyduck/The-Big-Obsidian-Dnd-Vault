@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Colossus
 >*Gargantuan Construct (Titan), Unaligned*

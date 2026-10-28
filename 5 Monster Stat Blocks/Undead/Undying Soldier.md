@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Undying Soldier
 >*Medium Undead, Neutral Good*

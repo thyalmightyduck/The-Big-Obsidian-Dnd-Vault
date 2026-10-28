@@ -3,6 +3,7 @@ tags:
   - Monster
   - Elemental
   - MM25
+Progress: In Progress
 ---
 # Marid
 ## Monster Manual 2025 (MM25):

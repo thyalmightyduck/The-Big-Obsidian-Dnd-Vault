@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Archon of the Triumvirate
 >*Medium Celestial, Lawful Neutral*

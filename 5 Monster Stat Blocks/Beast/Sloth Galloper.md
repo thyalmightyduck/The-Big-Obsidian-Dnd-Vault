@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sloth Galloper
 >*Large Beast, Unaligned*

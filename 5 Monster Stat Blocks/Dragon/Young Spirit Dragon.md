@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Spirit Dragon
 >*Large Dragon, Neutral*

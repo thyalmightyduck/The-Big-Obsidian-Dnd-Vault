@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sea Serpent Spirit
 >*Large Monstrosity, Neutral*

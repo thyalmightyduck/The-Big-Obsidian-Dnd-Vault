@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Sneak
 >*Small Humanoid (Goblin, Retainer); Any Alignment*

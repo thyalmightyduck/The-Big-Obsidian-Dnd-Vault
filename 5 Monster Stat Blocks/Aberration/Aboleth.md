@@ -4,6 +4,8 @@ tags:
   - Aberration
   - CR10
   - MM25
+Progress:
+  - Game Ready
 ---
 # Monster Manual 2025 (MM25)
 ___

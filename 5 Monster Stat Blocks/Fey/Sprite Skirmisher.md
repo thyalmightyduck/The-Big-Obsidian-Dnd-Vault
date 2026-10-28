@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sprite Skirmisher
 >*Tiny Fey, Neutral Good*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Basalt Stone Giant
 >*Huge Giant (Controller), Any Alignment*

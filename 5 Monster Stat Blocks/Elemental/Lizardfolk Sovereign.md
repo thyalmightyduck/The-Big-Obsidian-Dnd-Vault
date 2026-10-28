@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lizardfolk Sovereign
 >*Medium Elemental, Neutral*

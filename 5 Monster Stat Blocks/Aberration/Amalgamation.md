@@ -5,6 +5,8 @@ tags:
   - EpicBoss
   - CR23
   - MoDk
+Progress:
+  - Game Ready
 ---
 # Monsters of Drakkenheim (MoDk)
 ___

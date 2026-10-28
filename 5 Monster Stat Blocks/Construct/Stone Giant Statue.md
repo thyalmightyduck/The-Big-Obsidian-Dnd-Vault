@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Giant Statue
 >*Huge Construct, Unaligned*

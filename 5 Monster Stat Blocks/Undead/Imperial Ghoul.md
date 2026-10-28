@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Imperial Ghoul
 >*Medium Undead, Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mage of Usamigaras
 >*Medium Humanoid, typically Chaotic Neutral*

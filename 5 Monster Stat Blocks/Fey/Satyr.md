@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Satyr
 >*Medium Fey, Chaotic Neutral*

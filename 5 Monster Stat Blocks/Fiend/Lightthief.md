@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lightthief
 >*Tiny Fiend (Ambusher), typically Chaotic Evil*

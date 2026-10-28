@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fright
 >*Small Undead, Chaotic Evil*

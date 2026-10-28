@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Koralk Devil
 >*Large Fiend (Devil), Lawful Evil*

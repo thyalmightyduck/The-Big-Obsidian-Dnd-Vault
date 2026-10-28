@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Arcane Amalgam
 >*Tiny or Large Ooze (Controller), Unaligned*

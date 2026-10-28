@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Earth Spark
 >*Large Elemental (Earth, Minion); Any Alignment*

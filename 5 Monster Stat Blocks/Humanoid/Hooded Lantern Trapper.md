@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hooded Lantern Trapper
 >*Medium Humanoid*

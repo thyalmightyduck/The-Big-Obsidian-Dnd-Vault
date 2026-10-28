@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bandit Lord
 >*Medium Humanoid (Any Race), Any Non-Lawful Alignment*

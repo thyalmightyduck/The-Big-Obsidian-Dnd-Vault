@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blood-Borne Ooze Companion
 >*Tiny Ooze (Companion), Unaligned*

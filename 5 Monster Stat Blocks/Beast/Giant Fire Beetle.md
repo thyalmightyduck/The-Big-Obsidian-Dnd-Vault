@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Fire Beetle
 >*Small Beast, Unaligned*

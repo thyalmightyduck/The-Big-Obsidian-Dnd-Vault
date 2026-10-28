@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Walking Delerium Geode
 >*Large Elemental*

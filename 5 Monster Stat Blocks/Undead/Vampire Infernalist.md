@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampire Infernalist
 >*Small or Medium Undead (Wizard), Lawful Evil*

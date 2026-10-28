@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rotting Zombie
 >*Medium Undead (Minion), typically Neutral Evil*

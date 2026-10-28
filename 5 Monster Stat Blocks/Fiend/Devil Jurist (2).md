@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devil Jurist
 >*Medium Fiend (Devil, Artillery); typically Lawful Evil*

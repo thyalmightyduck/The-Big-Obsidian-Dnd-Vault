@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Black Rose Bearer
 >*Medium Undead, typically Neutral Evil*

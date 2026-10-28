@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Valkyrie
 >*Medium Celestial, Neutral*

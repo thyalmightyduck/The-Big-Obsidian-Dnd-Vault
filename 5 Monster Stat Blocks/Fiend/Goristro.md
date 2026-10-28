@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goristro
 >*Huge Fiend (Demon), Chaotic Evil*

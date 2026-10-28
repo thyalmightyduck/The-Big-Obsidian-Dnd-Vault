@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hill Giant Avalancher
 >*Huge Giant (Druid), Any Alignment*

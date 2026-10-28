@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Blue Dragon
 >*Huge Dragon (Chromatic), Lawful Evil*

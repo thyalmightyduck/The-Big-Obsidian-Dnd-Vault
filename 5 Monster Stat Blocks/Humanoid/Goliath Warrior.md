@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goliath Warrior
 >*Medium Humanoid (Goliath), Any Alignment*

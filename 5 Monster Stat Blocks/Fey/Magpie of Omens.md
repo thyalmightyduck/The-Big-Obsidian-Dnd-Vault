@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Magpie of Omens
 >*Tiny Fey, Neutral*

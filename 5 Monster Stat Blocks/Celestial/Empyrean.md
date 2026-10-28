@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Empyrean
 >*Huge Celestial or Fiend (Titan), Neutral*

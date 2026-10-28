@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Risen Sporehusk
 >*Medium Undead, Neutral Evil*

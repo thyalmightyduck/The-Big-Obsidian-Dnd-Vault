@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sovereign Ooze Vassal
 >*Medium Ooze, Neutral*

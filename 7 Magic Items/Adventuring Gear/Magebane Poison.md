@@ -7,6 +7,8 @@ tags:
   - MinorTier
   - TGS2
   - MagicItem
+Progress:
+  - Game Ready
 ---
 # The Griffon’s Saddlebag, Book 2 (TGS2)
 #### Magebane Poison

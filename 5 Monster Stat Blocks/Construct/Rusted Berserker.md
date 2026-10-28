@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rusted Berserker
 >*Medium Construct, Neutral*

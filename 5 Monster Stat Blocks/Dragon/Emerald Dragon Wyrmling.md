@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Emerald Dragon Wyrmling
 >*Medium Dragon (Gem), typically Lawful Neutral*

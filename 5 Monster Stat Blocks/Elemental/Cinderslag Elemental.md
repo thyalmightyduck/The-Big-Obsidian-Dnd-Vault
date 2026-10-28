@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cinderslag Elemental
 >*Large Elemental*

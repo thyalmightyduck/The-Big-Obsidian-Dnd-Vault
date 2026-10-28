@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Thunderbeast Skeleton
 >*Huge Undead, Unaligned*

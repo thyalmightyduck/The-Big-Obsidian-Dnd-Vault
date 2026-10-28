@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Granite Stone Giant
 >*Huge Giant (Soldier), Any Alignment*

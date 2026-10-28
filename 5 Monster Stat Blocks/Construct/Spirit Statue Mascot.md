@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spirit Statue Mascot
 >*Medium Construct, Any Alignment*

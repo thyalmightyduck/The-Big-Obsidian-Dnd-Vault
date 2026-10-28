@@ -3,6 +3,7 @@ tags:
   - Monster
   - Elemental
   - IDROTF
+Progress: In Progress
 ---
 # Auril Second Form
 ## Icewind Dale: Rime of the Frostmaiden (IDROTF):

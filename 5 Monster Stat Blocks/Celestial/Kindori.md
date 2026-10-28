@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kindori
 >*Gargantuan Celestial, Unaligned*

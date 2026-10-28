@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Minotaur Infiltrator
 >*Medium Humanoid, typically Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Little Bear
 >*Small or Medium Beast (Brute), Unaligned*

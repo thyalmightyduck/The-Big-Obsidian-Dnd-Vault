@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Warrior
 >*Small Humanoid (Goblin, Skirmisher); Any Alignment*

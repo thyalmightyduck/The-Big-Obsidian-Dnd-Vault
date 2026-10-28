@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ogresh Vampire (Adult)
 >*Medium Undead, Any Evil Alignment*

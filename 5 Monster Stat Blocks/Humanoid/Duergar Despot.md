@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Despot
 >*Medium Humanoid (Dwarf), Any Alignment*

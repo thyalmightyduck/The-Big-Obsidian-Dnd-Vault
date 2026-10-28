@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Black Quoxxarie
 >*Medium Fiend, Chaotic Evil*

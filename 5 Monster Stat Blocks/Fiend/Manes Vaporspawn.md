@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Manes Vaporspawn
 >*Medium Fiend (Demon), Chaotic Evil*

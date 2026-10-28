@@ -8,7 +8,7 @@ ac: 11 + the spell's level
 modifier:
 hp: 30 + 10 for each spell level above 4
 hit_dice:
-speed: 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only) 
+speed: 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
 stats:
   - 17
   - 13
@@ -23,14 +23,14 @@ traits:
     desc: The insect can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 actions:
   - name: Multiattack
-    desc: 'The insect makes a number of attacks equal to half this spells level (round down).'
+    desc: The insect makes a number of attacks equal to half this spells level (round down).
   - name: Poison Jab.
-    desc: '*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit:* 1d6 + 3 + the spells level Piercing damage plus 1d4 Poison damage.'
+    desc: "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit:* 1d6 + 3 + the spells level Piercing damage plus 1d4 Poison damage."
   - name: Web Bolt (Spider Only).
-    desc: '*Ranged Attack Roll:* Bonus equals your spell attack modifier, range 60 ft. _Hit:_ 1d10 + 3 + the spells level Bludgeoning damage, and the targets Speed is reduced to 0 until the start of the insects next turn.'
+    desc: "*Ranged Attack Roll:* Bonus equals your spell attack modifier, range 60 ft. _Hit:_ 1d10 + 3 + the spells level Bludgeoning damage, and the targets Speed is reduced to 0 until the start of the insects next turn."
 bonus_action:
   - name: Venomous Spew (Centipede Only).
-    desc: '*Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the Poisoned condition until the start of the insects next turn.'
+    desc: "*Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the Poisoned condition until the start of the insects next turn."
 statblock: true
 atlas-type: statblock
 image:
@@ -39,6 +39,7 @@ tags:
   - monster
   - beast
   - PHB24
+Progress: In Progress
 ---
 
 # Giant Insect:

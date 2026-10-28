@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Flying Magnetite Weapon
 >*Small Construct, Unaligned*

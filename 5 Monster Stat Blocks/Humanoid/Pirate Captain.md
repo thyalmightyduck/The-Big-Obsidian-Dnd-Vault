@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pirate Captain
 >*Small or Medium Humanoid, Neutral*

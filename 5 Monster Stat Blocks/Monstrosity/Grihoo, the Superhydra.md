@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Grihoo, the Superhydra
 >*Gargantuan Monstrosity, Neutral*

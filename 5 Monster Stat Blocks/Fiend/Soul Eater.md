@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Soul Eater
 >*Medium Fiend, Neutral Evil*

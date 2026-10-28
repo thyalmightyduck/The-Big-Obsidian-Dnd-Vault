@@ -5,6 +5,7 @@ tags:
   - CR16
   - Solo
   - FM
+Progress: Game Ready
 ---
 # Fear Mortals! (FM)
 ___

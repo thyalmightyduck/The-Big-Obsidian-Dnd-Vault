@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fractal Mascot
 >*Small Construct, typically Neutral*

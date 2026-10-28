@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## War Ostrich
 >*Large Beast, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fear Smith
 >*Medium Fey, Chaotic Neutral*

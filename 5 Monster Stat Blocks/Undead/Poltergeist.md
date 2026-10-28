@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Poltergeist
 >*Small or Medium Undead, Chaotic Neutral*

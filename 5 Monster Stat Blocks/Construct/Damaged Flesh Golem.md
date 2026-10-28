@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Damaged Flesh Golem
 >*Medium Construct, Neutral*

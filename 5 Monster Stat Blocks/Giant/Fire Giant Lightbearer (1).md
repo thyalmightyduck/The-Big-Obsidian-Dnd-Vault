@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fire Giant Lightbearer
 >*Huge Giant (Support), Any Alignment*

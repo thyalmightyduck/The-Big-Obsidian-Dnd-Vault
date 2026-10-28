@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## War Spider
 >*Huge Beast (Brute), Unaligned*

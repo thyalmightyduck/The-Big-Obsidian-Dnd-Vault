@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Veiled Presence
 >*Small or Medium Celestial, typically Lawful Evil*

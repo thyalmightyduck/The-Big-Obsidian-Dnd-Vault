@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Specter
 >*Medium Undead, Chaotic Evil*

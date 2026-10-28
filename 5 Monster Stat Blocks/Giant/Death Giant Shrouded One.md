@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Death Giant Shrouded One
 >*Huge Giant (Wizard), Any Alignment*

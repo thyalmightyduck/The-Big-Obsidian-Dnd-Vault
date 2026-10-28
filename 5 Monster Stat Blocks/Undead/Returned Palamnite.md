@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Returned Palamnite
 >*Medium Undead, Chaotic Evil*

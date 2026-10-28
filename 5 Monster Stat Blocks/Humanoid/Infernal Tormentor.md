@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Infernal Tormentor
 >*Small or Medium Humanoid, Any Evil Alignment*

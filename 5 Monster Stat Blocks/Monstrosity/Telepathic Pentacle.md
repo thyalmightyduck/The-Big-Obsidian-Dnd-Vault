@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Telepathic Pentacle
 >*Huge Monstrosity, Unaligned*

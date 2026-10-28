@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pirate
 >*Small or Medium Humanoid, Neutral*

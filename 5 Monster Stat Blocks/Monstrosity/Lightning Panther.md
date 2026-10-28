@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lightning Panther
 >*Large Monstrosity, Chaotic Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Human Death Acolyte
 >*Medium Humanoid (Human, Minion); Any Alignment*

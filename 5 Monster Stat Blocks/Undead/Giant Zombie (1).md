@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Giant Zombie
 >*Huge Undead (Brute), typically Neutral Evil*

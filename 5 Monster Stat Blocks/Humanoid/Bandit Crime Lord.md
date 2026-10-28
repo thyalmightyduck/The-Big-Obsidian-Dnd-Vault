@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bandit Crime Lord
 >*Small or Medium Humanoid, Neutral*

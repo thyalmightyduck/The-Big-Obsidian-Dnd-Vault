@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Minsc and Boo!
 >*Medium Humanoid (Human), Neutral Good*

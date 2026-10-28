@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scion of Stronmaus
 >*Gargantuan Giant (Titan), typically Chaotic Good*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gelatinous Cube
 >*Large Ooze, Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Red Dragon Wyrmling
 >*Medium Dragon (Chromatic), Chaotic Evil*

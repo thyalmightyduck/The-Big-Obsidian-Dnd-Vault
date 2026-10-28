@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blackguard
 >*Medium Humanoid (Paladin), Typically Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tribal Warrior Spore Servant
 >*Medium Plant, Unaligned*

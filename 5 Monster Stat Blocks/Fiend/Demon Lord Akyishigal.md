@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Demon Lord Akyishigal
 >*Large Fiend (Demon), Chaotic Evil*

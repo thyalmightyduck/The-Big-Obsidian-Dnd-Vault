@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Silverquill Pledgemage
 >*Small or Medium Humanoid (Bard), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fire Giant of Evil Fire
 >*Huge Giant, typically Lawful Evil*

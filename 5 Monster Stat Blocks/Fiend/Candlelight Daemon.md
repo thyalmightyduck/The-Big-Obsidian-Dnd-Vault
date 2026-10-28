@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Candlelight Daemon
 >*Medium Fiend, Neutral Evil*

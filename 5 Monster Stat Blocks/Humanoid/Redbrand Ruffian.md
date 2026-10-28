@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Redbrand Ruffian
 >*Medium Humanoid, typically Neutral Evil*

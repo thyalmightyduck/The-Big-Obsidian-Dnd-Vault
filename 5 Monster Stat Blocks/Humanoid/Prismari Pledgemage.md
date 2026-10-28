@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Prismari Pledgemage
 >*Small or Medium Humanoid (Sorcerer), Any Alignment*

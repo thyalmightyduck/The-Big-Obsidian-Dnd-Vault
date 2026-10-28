@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Topaz Dragon
 >*Gargantuan Dragon (Gem), typically Chaotic Neutral*

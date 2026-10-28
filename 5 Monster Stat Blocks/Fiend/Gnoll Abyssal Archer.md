@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Abyssal Archer
 >*Medium Fiend (Gnoll, Artillery); typically Chaotic Evil*

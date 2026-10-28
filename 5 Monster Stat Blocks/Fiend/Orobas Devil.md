@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Orobas Devil
 >*Large Fiend (Devil), Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Bariaur Wanderer
 >*Medium Celestial, typically Chaotic Good*

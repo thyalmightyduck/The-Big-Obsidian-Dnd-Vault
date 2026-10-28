@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Body Snatcher
 >*Medium Monstrosity (Shadowsteel Curse), Neutral Evil*

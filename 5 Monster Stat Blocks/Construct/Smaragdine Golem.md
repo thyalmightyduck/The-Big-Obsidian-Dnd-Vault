@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Smaragdine Golem
 >*Large Construct, Unaligned*

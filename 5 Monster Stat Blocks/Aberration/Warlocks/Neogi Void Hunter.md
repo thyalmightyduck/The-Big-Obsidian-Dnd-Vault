@@ -4,6 +4,7 @@ tags:
   - Aberration
   - BAM
   - CR4
+Progress: Game Ready
 ---
 # Boo’s Astral Menagerie (BAM)
 ___

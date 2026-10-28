@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hierophant of the Comet
 >*Medium Humanoid (Warlock), typically Chaotic Evil*

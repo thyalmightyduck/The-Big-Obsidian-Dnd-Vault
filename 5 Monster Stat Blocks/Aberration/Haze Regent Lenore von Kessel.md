@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Haze Regent Lenore von Kessel
 >*Medium Aberration (Epic Boss)*

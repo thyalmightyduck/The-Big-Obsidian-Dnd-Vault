@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gray Quoxxarie
 >*Large Fiend, Chaotic Evil*

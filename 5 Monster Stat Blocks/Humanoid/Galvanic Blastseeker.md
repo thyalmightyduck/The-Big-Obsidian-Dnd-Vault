@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Galvanic Blastseeker
 >*Medium Humanoid (Any Race), Chaotic Neutral*

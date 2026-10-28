@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Cackler
 >*Medium Fiend (Gnoll, Controller); typically Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Legionary
 >*Small Humanoid (Kobold, Soldier); Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warrior of Madarua
 >*Medium Humanoid, typically Chaotic Good*

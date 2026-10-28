@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Otyugh Companion
 >*Large Aberration (Companion), Unaligned*

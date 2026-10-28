@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Magnetite Dragon
 >*Huge Dragon, Neutral*

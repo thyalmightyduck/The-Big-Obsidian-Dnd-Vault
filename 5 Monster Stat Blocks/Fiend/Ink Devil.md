@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ink Devil
 >*Small Fiend (Devil), Lawful Evil*

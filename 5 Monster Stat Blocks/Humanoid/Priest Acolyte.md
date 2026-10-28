@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Priest Acolyte
 >*Small or Medium Humanoid (Cleric), Neutral*

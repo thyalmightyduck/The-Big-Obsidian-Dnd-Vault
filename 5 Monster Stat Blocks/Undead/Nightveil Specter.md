@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nightveil Specter
 >*Medium Undead, Neutral Evil*

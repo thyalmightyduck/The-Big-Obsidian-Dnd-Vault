@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Trinket
 >*Large Beast (Brown Bear)*

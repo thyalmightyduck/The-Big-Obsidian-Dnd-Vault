@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Avoral Guardinal
 >*Medium Celestial, typically Neutral Good*

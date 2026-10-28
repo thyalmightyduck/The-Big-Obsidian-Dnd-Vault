@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fire Giant Red Fist
 >*Huge Giant (Soldier), Any Alignment*

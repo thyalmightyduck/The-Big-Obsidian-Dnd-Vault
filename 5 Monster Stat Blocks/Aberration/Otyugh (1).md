@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Otyugh
 >*Large Aberration (Controller), typically Neutral*

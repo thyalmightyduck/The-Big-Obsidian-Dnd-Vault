@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Galvanice Weird
 >*Medium Elemental, Chaotic Neutral*

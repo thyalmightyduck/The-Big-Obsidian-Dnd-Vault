@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sightless Agony
 >*Medium Monstrosity (Shadowsteel Curse), Chaotic Neutral*

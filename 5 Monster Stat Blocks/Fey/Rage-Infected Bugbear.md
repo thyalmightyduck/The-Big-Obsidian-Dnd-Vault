@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rage-Infected Bugbear
 >*Medium Fey (Goblinoid), Chaotic Evil*

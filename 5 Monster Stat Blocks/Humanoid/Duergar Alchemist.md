@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Alchemist
 >*Medium Humanoid (Dwarf), Lawful Evil*

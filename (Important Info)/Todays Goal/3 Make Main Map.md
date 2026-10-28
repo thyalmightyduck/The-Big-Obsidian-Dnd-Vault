@@ -1,4 +1,0 @@
----
-Progress:
-  - Haven't Started
----

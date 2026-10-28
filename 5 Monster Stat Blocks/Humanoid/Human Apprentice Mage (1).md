@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Human Apprentice Mage
 >*Medium Humanoid (Human, Minion); Any Alignment*

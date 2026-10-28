@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Anchorite of Talos
 >*Medium Humanoid (Half-Orc, Shapechanger); Neutral Evil*

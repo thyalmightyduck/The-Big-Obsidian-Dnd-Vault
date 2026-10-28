@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Quickstone Gargoyle
 >*Medium Elemental (Shapechanger), typically Chaotic Evil*

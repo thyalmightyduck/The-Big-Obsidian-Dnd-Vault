@@ -17,30 +17,30 @@ stats:
   - 12
   - 11
 saves:
-  - intelligence: +6
-  - wisdom: +4
+  - intelligence: 6
+  - wisdom: 4
 skillsaves:
-  - arcana: +6
-  - history: +6
-  - perception: +4
+  - arcana: 6
+  - history: 6
+  - perception: 4
 senses: Passive Perception 14
 cr: 6
 actions:
   - name: Multiattack.
     desc: The mage makes three Arcane Burst attacks.
   - name: Arcane Burst.
-    desc: "_Melee or Ranged Attack Roll:_ +6, reach 5 ft. or range 120 ft. _Hit:_ 16 (3d8 + 3) Force damage."
+    desc: _Melee or Ranged Attack Roll:_ +6, reach 5 ft. or range 120 ft. _Hit:_ 16 (3d8 + 3) Force damage.
   - name: Spellcasting.
     desc: The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14)
   - name: At will. 
-    desc: "Detect Magic, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation"
+    desc: Detect Magic, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation
   - name: 2/day each. 
-    desc: "Fireball (level 4 version), Invisibility"
+    desc: Fireball (level 4 version), Invisibility
   - name: 1/day each 
-    desc: "Cone of Cold, Fly"
+    desc: Cone of Cold, Fly
 bonus_actions:
   - name: Misty Step (3/Day).
-    desc: The mage casts Misty Step, using the same spellcasting ability as Spellcasting.  
+    desc: The mage casts Misty Step, using the same spellcasting ability as Spellcasting.
 reaction:
   - name: Protective Magic (3/Day).
     desc: The mage casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
@@ -52,6 +52,7 @@ tags:
   - monster
   - humanoid
   - MM25
+Progress: In Progress
 ---
 
 ___

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Daemogoth
 >*Huge Fiend, typically Lawful Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Warhorse Skeleton
 >*Large Undead, Lawful Evil*

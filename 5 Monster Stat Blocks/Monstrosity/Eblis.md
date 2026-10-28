@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Eblis
 >*Large Monstrosity, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Returned Sentry
 >*Medium Undead, Lawful Evil*

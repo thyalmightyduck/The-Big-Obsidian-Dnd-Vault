@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Baphomet
 >*Huge Fiend (Demon), Chaotic Evil*

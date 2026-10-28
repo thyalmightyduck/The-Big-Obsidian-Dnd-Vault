@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pteranodon
 >*Medium Beast (Dinosaur), Unaligned*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Deceiver (Architect of Ruin)
 >*Medium Humanoid (Retainer), Any Alignment*

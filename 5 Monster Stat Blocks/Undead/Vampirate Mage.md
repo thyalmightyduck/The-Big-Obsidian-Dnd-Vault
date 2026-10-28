@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampirate Mage
 >*Medium Undead, typically Lawful Evil*

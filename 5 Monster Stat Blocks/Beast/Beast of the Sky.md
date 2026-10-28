@@ -22,10 +22,10 @@ traits:
   - name: Flyby.
     desc: The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.
   - name: Primal Bond.
-    desc: You can add your proficiency bonus to any ability check or saving throw that the beast makes.  
+    desc: You can add your proficiency bonus to any ability check or saving throw that the beast makes.
 actions:
   - name: Shred.
-    desc: '*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) + PB slashing damage.'
+    desc: "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) + PB slashing damage."
 statblock: true
 atlas-type: statblock
 image:
@@ -34,6 +34,7 @@ tags:
   - monster
   - TCE
   - beast
+Progress: In Progress
 ---
 
 # Beast of the Sky

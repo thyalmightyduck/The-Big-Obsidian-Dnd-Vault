@@ -4,6 +4,7 @@ tags:
   - Construct
   - TCE
   - Summon
+Progress: In Progress
 ---
 # Steel Defender:
 ## Tasha’s Cauldron of Everything (TCE):

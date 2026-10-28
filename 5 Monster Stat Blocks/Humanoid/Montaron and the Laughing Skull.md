@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Montaron and the Laughing Skull
 >*Small Humanoid (Halfling), Neutral Evil*

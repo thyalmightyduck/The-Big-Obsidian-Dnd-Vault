@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Wererat
 >*Small or Medium Monstrosity (Lycanthrope), Lawful Evil*

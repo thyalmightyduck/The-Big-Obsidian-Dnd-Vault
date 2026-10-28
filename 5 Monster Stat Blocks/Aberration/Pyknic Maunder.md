@@ -21,16 +21,16 @@ senses: Darkvision 60Ft, Passive Perception 9, Passive Insight 9, Passive Stealt
 cr: 3
 actions:
   - name: Multiattack
-    desc: 'The maunder makes one Grasp or Bite attack against each creature within its reach. Alternatively, it makes two Eye Beam attacks.'
+    desc: The maunder makes one Grasp or Bite attack against each creature within its reach. Alternatively, it makes two Eye Beam attacks.
   - name: Grasp.
-    desc: 'Melee Attack Roll: +6, reach 5 ft. Hit:* 11 (2d6 + 4) Bludgeoning damage, and if the target is Medium or smaller, it has the Grappled condition (escape DC 13). The maunder has countless hands and can grapple any number of creatures.' 
+    desc: Melee Attack Roll: +6, reach 5 ft. Hit:* 11 (2d6 + 4) Bludgeoning damage, and if the target is Medium or smaller, it has the Grappled condition (escape DC 13). The maunder has countless hands and can grapple any number of creatures.
   - name: Bite.
-    desc: '*Melee Attack Roll:* +6, reach 5 ft., one creature Grappled by the maunder. *Hit:* 15 (2d10 + 4) Piercing damage. A Dazed target that is Grappled by the maunder is Helpless against this attack.' 
+    desc: "*Melee Attack Roll:* +6, reach 5 ft., one creature Grappled by the maunder. *Hit:* 15 (2d10 + 4) Piercing damage. A Dazed target that is Grappled by the maunder is Helpless against this attack."
   - name: Eye Beam.
-    desc: '*Ranged Attack Roll:* +6, range 60 ft. *Hit:* 13 (2d8 + 4) Radiant damage.'
-bonus_actions: 
+    desc: "*Ranged Attack Roll:* +6, range 60 ft. *Hit:* 13 (2d8 + 4) Radiant damage."
+bonus_actions:
   - name: Babble.
-    desc: '*Wisdom Saving Throw:* DC 10, each creature in a 30-foot Emanation originating from the maunder that can hear it. *Failure:* 7 (2d6) Psychic damage, and the target has the Dazed condition until the start of its next turn.'
+    desc: "*Wisdom Saving Throw:* DC 10, each creature in a 30-foot Emanation originating from the maunder that can hear it. *Failure:* 7 (2d6) Psychic damage, and the target has the Dazed condition until the start of its next turn."
 statblock: true
 atlas-type: statblock
 image:
@@ -38,6 +38,7 @@ image:
 tags:
   - monster
   - MoDk
+Progress: In Progress
 ---
 
 # Pyknic Maunder

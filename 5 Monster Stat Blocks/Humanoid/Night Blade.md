@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Night Blade
 >*Medium Humanoid (Human), Chaotic Evil*

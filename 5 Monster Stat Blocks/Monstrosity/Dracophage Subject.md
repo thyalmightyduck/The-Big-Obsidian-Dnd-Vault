@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dracophage Subject
 >*Medium Monstrosity, typically Lawful Evil*

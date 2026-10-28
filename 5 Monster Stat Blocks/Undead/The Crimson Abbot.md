@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Crimson Abbot
 >*Large Undead (Paladin, Vampire); Lawful Evil*

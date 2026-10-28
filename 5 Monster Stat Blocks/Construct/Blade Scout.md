@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blade Scout
 >*Medium Construct (Warforged), typically Lawful Evil*

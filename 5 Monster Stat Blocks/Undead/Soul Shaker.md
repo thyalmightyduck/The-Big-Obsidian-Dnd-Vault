@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Soul Shaker
 >*Large Undead, typically Chaotic Evil*

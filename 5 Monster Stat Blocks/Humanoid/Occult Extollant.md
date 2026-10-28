@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Occult Extollant
 >*Small or Medium Humanoid (Sorcerer), Any Alignment*

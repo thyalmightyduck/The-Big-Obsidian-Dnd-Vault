@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Boss Archer
 >*Small Humanoid (Goblinoid), Neutral Evil*

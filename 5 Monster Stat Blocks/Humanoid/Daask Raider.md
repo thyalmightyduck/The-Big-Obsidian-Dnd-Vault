@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Daask Raider
 >*Medium Humanoid (Gnoll), Neutral Evil*

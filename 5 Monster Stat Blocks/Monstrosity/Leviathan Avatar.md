@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Leviathan Avatar
 >*Huge Monstrosity, Neutral*

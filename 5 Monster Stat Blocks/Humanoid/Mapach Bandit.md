@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mapach Bandit
 >*Medium Humanoid (Mapach), Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Tusker Demon
 >*Huge Fiend (Demon, Category 2, Skirmisher); typically Chaotic Evil*

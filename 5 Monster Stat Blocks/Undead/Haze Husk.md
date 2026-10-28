@@ -17,7 +17,7 @@ stats:
   - 6
   - 5
 saves:
-  - wisdom: +0
+  - wisdom: 0
 senses: Darkvision 60Ft, Passive Perception 8, Passive Insight 8, Passive Stealth, 10
 damage_immunities: Poison
 condition_immunities: Poisoned
@@ -25,10 +25,10 @@ languages: Understands the languages it knew in life but can't speak
 cr: 1/4
 actions:
   - name: Slam.
-    desc: '*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Bludgeoning damage.'
+    desc: "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Bludgeoning damage."
 reactions:
   - name: Death Burst.
-    desc: '*Trigger* The haze husk is reduced to 0 Hit Points by damage that isnt Radiant or from a Critical Hit. *Response—**Constitution Saving Throw* DC 10, each creature in a 5-foot Emanation originating from the haze husk. *Failure* 7 (2d6) Necrotic damage. Failure by 5 or More The target gains one Contamination level.'
+    desc: "*Trigger* The haze husk is reduced to 0 Hit Points by damage that isnt Radiant or from a Critical Hit. *Response—**Constitution Saving Throw* DC 10, each creature in a 5-foot Emanation originating from the haze husk. *Failure* 7 (2d6) Necrotic damage. Failure by 5 or More The target gains one Contamination level."
 statblock: true
 atlas-type: statblock
 image:
@@ -37,6 +37,7 @@ tags:
   - monster
   - MODK
   - Undead
+Progress: In Progress
 ---
 # Monsters of Drakkenheim (MODK):
 ## Haze Husk

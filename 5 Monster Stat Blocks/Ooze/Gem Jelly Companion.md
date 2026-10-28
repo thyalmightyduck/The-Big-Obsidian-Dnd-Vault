@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gem Jelly Companion
 >*Large Ooze (Companion), Unaligned*

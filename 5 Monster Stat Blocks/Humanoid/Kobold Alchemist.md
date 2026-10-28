@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Alchemist
 >*Small Humanoid (Kobold), Lawful Neutral*

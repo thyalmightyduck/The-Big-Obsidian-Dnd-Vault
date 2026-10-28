@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Climber's Ammunition
 

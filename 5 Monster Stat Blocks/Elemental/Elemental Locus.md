@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Elemental Locus
 >*Gargantuan Elemental, Neutral*

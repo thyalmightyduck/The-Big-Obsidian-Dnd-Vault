@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Ancient Brass Dragon
 >*Gargantuan Dragon (Metallic), Chaotic Good*

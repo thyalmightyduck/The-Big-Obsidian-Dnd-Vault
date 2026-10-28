@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Azalin Rex
 >*Medium Undead (Wizard), Neutral Evil*

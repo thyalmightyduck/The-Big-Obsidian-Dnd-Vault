@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Demonglass Goblin
 >*Small Humanoid (Goblinoid), Neutral Evil*

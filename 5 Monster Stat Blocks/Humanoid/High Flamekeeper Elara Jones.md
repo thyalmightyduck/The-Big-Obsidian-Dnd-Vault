@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## High Flamekeeper Elara Jones
 >*Medium Humanoid (Human), Any Alignment*

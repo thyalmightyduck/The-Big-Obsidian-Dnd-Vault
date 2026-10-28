@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vulpin Berserker
 >*Medium Humanoid (Vulpin), Any Chaotic Alignment*

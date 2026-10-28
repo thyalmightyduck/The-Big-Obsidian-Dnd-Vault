@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Reduced-Threat Dragon Turtle
 >*Large Dragon, Neutral*

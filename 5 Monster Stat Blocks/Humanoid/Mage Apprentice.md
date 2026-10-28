@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mage Apprentice
 >*Small or Medium Humanoid (Wizard), Neutral*

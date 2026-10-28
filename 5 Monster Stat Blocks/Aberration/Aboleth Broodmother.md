@@ -4,6 +4,8 @@ tags:
   - Aberration
   - HGtMH
   - CR16
+Progress:
+  - Game Ready
 ---
 # Heliana’s Guide to Monster Hunting (HGtMH)
 ___

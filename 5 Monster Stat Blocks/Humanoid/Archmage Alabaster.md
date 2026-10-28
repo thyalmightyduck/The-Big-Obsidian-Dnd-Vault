@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Archmage Alabaster
 >*Medium Humanoid (Aasimar), Lawful Neutral*

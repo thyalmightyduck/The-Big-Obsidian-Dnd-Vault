@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Initiate of the Comet
 >*Medium Humanoid (Warlock), Any Alignment*

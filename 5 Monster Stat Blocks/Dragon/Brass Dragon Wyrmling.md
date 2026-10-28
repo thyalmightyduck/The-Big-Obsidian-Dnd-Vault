@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Brass Dragon Wyrmling
 >*Medium Dragon (Metallic), Chaotic Good*

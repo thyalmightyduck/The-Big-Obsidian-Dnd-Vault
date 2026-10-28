@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cockatrice Regent
 >*Large Monstrosity, Unaligned*

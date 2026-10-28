@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nagpa
 >*Medium Monstrosity (Wizard), Typically Neutral Evil*

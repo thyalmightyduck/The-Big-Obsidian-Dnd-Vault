@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Quaggoth
 >*Medium Monstrosity, Chaotic Neutral*

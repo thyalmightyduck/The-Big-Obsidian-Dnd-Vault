@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Construct (Helmed Horror)
 >*Medium Construct, Neutral*

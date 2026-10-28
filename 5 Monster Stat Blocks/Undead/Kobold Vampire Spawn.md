@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Vampire Spawn
 >*Small Undead, Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sticky Slime
 >*Medium Ooze, Unaligned*

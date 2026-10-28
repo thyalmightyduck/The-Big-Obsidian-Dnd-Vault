@@ -5,6 +5,7 @@ tags:
   - TOB123
   - swarm
   - CR6
+Progress: In Progress
 ---
 # Tome of Beasts 1 2023 Edition (ToB123)
 ___

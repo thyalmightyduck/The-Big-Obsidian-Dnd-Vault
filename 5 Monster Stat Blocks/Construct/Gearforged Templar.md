@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gearforged Templar
 >*Medium Construct, Lawful Neutral*

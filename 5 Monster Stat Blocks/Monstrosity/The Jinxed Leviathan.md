@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Jinxed Leviathan
 >*Gargantuan Monstrosity, Unaligned*

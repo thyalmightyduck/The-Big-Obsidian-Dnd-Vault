@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kingkiller Hydra
 >*Gargantuan Construct (Epic Boss)*

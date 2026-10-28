@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Sweettooth Horror
 >*Large Fiend, typically Neutral Evil*

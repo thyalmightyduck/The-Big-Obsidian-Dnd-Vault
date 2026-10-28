@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Albino Dwarf Spirit Warrior
 >*Medium Humanoid (Dwarf), Any Alignment*

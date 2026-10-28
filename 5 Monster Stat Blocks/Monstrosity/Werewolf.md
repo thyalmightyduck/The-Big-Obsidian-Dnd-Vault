@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Werewolf
 >*Small or Medium Monstrosity (Lycanthrope), Chaotic Evil*

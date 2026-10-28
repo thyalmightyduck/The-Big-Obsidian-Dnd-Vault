@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Gold Dragon
 >*Large Dragon (Metallic), Lawful Good*

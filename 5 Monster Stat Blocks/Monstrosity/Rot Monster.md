@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Rot Monster
 >*Medium Monstrosity, Unaligned*

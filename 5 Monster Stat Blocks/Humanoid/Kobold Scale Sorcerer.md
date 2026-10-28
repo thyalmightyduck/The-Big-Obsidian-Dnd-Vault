@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Kobold Scale Sorcerer
 >*Small Humanoid, Any Alignment*

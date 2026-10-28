@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Eldrick Runeweaver
 >*Medium Humanoid (Human, Epic Boss)*

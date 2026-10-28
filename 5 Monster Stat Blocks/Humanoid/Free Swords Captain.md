@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Free Swords Captain
 >*Small or Medium Humanoid, Neutral*

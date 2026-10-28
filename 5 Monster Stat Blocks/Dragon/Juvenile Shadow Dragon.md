@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Juvenile Shadow Dragon
 >*Medium Dragon, Chaotic Evil*

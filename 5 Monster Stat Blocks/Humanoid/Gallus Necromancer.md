@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gallus Necromancer
 >*Medium Humanoid (Gallus), Any Non-Lawful Alignment*

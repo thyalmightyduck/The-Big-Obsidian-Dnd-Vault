@@ -5,6 +5,8 @@ tags:
   - Uncommon
   - Silvered
   - DMG24
+Progress:
+  - Game Ready
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +1 Arrow, Silver

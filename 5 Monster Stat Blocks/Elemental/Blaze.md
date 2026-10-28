@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blaze
 >*Medium Elemental, typically Neutral Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Edgin Darvis
 >*Medium Humanoid (Bard), Chaotic Good*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## The Beast of Blight
 >*Gargantuan Fey, Neutral Evil*

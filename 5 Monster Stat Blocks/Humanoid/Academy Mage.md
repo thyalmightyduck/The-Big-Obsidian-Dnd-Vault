@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Academy Mage
 >*Medium Humanoid*

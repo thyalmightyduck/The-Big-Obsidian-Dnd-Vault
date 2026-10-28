@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Adult Delerium Dragon
 >*Huge Dragon (Epic Boss)*

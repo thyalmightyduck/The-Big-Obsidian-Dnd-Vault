@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Nightmare Haunt
 >*Medium Aberration, typically Neutral Evil*

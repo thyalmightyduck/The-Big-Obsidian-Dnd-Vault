@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dead Three Scion
 >*Small or Medium Humanoid, Neutral Evil*

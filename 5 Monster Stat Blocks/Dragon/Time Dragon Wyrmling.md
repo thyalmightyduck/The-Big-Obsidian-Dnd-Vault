@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Time Dragon Wyrmling
 >*Medium Dragon, typically Neutral*

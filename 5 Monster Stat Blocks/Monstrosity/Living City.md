@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Living City
 >*Gargantuan Monstrosity (Epic Boss)*

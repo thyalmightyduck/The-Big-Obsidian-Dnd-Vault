@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Birdfolk Thug
 >*Medium Humanoid (Any Birdfolk), Any Non-Good Alignment*

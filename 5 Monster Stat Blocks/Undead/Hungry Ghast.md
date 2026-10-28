@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Hungry Ghast
 >*Medium Undead, Chaotic Evil*

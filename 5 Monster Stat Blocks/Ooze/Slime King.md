@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Slime King
 >*Large Ooze, Chaotic Evil*

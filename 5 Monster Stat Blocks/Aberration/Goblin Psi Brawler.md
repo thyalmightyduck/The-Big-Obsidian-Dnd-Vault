@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Psi Brawler
 >*Small Aberration (Goblinoid), Any Alignment*

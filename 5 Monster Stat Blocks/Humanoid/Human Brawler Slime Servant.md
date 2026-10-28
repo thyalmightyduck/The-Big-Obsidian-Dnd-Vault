@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Human Brawler Slime Servant
 >*Medium Humanoid (Human, Brute); Any Alignment*

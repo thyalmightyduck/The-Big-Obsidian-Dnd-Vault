@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Lightning Giant
 >*Large Giant, Chaotic Neutral*

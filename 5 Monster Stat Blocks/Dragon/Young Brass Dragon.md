@@ -3,6 +3,7 @@ tags:
   - Monster
   - Dragon
   - MM25
+Progress: In Progress
 ---
 # Young Brass Dragon
 ## Monster Manuel 2025 (MM25):

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Centaur Skeleton
 >*Large Undead, Neutral Evil*

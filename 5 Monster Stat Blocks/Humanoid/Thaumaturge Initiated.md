@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Thaumaturge Initiated
 >*Small or Medium Humanoid, Neutral*

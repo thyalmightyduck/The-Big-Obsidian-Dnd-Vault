@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Buried Lord Vaettir
 >*Medium Undead, Lawful Evil*

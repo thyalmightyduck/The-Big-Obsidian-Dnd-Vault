@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crimson Drake
 >*Tiny Dragon, Chaotic Evil*

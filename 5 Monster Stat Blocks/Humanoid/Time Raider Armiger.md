@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Time Raider Armiger
 >*Medium Humanoid (Time Raider, Soldier); Any Alignment*

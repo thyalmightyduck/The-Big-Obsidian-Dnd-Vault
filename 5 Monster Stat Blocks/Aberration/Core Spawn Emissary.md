@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Core Spawn Emissary
 >*Medium Aberration, Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Cadaver Collector
 >*Large Construct, Typically Lawful Evil*

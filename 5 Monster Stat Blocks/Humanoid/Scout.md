@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Scout
 >*Small or Medium Humanoid, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Black Crown Spellsword
 >*Medium Humanoid (Human), Neutral Evil*

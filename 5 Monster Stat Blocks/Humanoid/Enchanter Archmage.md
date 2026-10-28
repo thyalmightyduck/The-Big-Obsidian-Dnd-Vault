@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Enchanter Archmage
 >*Medium Humanoid (Wizard), Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Dhergoloth
 >*Medium Fiend (Yugoloth), Typically Neutral Evil*

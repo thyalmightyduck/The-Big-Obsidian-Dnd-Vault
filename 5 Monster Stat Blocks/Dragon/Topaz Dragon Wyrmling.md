@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Topaz Dragon Wyrmling
 >*Medium Dragon (Gem), typically Chaotic Neutral*

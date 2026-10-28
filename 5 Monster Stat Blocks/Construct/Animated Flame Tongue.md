@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Flame Tongue
 >*Small Construct, Unaligned*

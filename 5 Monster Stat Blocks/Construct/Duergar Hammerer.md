@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duergar Hammerer
 >*Medium Construct (Dwarf), Any Alignment*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Thursir Giant
 >*Large Giant, Any Evil Alignment*

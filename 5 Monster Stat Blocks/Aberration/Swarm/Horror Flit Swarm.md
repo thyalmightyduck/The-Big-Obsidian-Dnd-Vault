@@ -5,6 +5,7 @@ tags:
   - swarm
   - GHMG24
   - CR3
+Progress: Game Ready
 ---
 # Grim Hallow: Monster Grimoire 2024 (GHMG24)
 ___

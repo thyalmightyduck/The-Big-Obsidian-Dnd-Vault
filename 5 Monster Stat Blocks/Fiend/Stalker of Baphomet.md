@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stalker of Baphomet
 >*Huge Fiend (Demon), typically Chaotic Evil*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Devil Retainer
 >*Medium Fiend (Devil, Retainer); Any Alignment*

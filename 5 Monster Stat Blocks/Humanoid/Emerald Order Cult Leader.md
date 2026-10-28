@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Emerald Order Cult Leader
 >*Medium Humanoid (Any Race)*

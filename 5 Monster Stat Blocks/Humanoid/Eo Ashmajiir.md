@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Eo Ashmajiir
 >*Medium Humanoid (Tiefling), Chaotic Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Minotaur Lackey
 >*Large Monstrosity (Minion), typically Chaotic Neutral*

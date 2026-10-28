@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stoneback Isopod Companion
 >*Medium Beast (Companion), Unaligned*

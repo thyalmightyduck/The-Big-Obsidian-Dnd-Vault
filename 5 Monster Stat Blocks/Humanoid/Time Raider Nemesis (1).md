@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Time Raider Nemesis
 >*Medium Humanoid (Time Raider, Skirmisher); Any Alignment*

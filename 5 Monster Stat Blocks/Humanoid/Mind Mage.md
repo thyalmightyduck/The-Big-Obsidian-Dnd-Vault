@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mind Mage
 >*Medium Humanoid (Any Race), Neutral Evil*

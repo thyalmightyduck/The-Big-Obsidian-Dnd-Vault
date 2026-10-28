@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Time Raider Vertex
 >*Large Humanoid (Time Raider, Support); Any Alignment*

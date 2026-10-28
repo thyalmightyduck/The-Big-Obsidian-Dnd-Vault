@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Werevulture
 >*Medium Fiend, typically Chaotic Evil*

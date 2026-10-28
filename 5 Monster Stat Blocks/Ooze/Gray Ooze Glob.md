@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gray Ooze Glob
 >*Small Ooze, Unaligned*

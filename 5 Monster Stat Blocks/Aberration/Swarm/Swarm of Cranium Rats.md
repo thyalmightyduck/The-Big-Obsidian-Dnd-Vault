@@ -4,6 +4,7 @@ tags:
   - swarm
   - Aberration
   - MPMM
+Progress: Game Ready
 ---
 # Mordenkainen Presents: Monsters of the Multiverse (MPMM)
 ___

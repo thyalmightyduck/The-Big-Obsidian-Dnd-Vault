@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Spy
 >*Small or Medium Humanoid, Neutral*

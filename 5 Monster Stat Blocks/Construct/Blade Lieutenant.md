@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Blade Lieutenant
 >*Medium Construct (Warforged), typically Lawful Evil*

@@ -22,14 +22,14 @@ traits:
   - name: Flyby (Air Only).
     desc: The spirit doesn't provoke [[Opportunity Attacks]] when it flies out of an enemy's reach.
   - name: Pack Tactics (Land and Water Only).
-    desc: The spirit has Advantage on an attack roll against a creature if at least one of the spirit's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition. 
+    desc: The spirit has Advantage on an attack roll against a creature if at least one of the spirit's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
   - name: Water Breathing (Water Only).
-    desc: The spirit can breathe only underwater.   
+    desc: The spirit can breathe only underwater.
 actions:
   - name: Multiattack
-    desc: 'The spirit makes a number of Rend attacks equal to half this spells level (round down).'
+    desc: The spirit makes a number of Rend attacks equal to half this spells level (round down).
   - name: Rend.
-    desc: '*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spells level Piercing damage.' 
+    desc: "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spells level Piercing damage."
 statblock: true
 atlas-type: statblock
 image:
@@ -38,6 +38,7 @@ tags:
   - monster
   - PHB24
   - beast
+Progress: In Progress
 ---
 
 # Bestial Spirit

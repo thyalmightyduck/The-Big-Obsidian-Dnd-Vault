@@ -17,9 +17,9 @@ stats:
   - 6
   - 3
 saves:
-  - intelligence: +0
-  - wisdom: +2
-  - charisma: +0
+  - intelligence: 0
+  - wisdom: 2
+  - charisma: 0
 skillsaves:
   - perception: 6
 senses: Blindsight 120 ft., Passive Perception 16, Passive Insight 8, Passive Stealth 15
@@ -52,6 +52,7 @@ tags:
   - swarm
   - GHMG24
   - CR9
+Progress: Game Ready
 ---
 
 # Grim Hallow: Monsters Grimoire 2024 (GHMG24)

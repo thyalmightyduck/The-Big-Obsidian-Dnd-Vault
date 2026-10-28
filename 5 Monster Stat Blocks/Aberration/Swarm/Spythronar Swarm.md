@@ -4,6 +4,7 @@ tags:
   - Aberration
   - swarm
   - GHMG24
+Progress: Game Ready
 ---
 # Grim Hallow: Monster Grimoire 2024 (GHMG24)
 ___

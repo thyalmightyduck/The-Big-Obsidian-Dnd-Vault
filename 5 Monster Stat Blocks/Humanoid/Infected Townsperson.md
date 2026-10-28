@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Infected Townsperson
 >*Medium Humanoid (Any Race), Any Chaotic Alignment*

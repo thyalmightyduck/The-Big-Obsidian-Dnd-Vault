@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Goblin Minion
 >*Small Fey (Goblinoid), Chaotic Neutral*

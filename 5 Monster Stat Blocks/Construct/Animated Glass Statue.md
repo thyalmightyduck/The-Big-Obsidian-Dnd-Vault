@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Animated Glass Statue
 >*Large Construct, Neutral Evil*

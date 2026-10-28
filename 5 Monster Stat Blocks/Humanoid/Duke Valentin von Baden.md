@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Duke Valentin von Baden
 >*Medium Humanoid (Human), Any Alignment*

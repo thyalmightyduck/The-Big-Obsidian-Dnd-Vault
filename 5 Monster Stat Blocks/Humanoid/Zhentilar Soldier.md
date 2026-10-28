@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Zhentilar Soldier
 >*Small or Medium Humanoid, Lawful Evil*

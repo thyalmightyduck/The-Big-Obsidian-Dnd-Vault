@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Principle of Growth
 >*Huge Elemental (Earth, Water, Controller); Any Alignment*

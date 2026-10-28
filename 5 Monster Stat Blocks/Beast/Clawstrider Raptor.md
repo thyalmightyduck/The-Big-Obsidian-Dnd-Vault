@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Clawstrider Raptor
 >*Large Beast, Unaligned*

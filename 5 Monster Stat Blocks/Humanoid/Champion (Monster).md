@@ -1,6 +1,7 @@
 ---
 aliases:
   - Champion
+Progress: In Progress
 ---
 ___
 >## Champion

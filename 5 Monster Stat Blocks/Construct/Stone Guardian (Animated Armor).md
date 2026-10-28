@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Stone Guardian (Animated Armor)
 >*Medium Construct, Unaligned*

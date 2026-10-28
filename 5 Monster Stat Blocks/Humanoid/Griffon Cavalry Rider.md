@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Griffon Cavalry Rider
 >*Medium Humanoid (Any Race), Any Alignment*

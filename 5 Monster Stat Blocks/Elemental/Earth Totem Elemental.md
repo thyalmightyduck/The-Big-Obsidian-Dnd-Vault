@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Earth Totem Elemental
 >*Large Elemental, Neutral*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Halfling Vampire (Young)
 >*Small Undead, Any Evil Alignment*

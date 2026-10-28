@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Vampiric Mist
 >*Medium Undead, Typically Chaotic Evil*

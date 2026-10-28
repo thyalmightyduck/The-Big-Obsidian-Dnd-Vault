@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Pari
 >*Medium Celestial, typically Lawful Good*

@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Mind Drinker Vampire
 >*Medium Undead, Neutral Evil*

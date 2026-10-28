@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Gnoll Vampire
 >*Medium Undead (Shapechanger), Chaotic Evil*

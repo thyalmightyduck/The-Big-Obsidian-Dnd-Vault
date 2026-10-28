@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Elemental Cultist
 >*Small or Medium Humanoid, Chaotic Evil*

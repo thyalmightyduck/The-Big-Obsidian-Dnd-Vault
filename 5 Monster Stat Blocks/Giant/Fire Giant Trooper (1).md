@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Fire Giant Trooper
 >*Huge Giant (Minion), Any Alignment*

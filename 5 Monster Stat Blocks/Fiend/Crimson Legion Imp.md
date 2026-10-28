@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Crimson Legion Imp
 >*Small Fiend (Devil, Shapechanger); Lawful Evil*

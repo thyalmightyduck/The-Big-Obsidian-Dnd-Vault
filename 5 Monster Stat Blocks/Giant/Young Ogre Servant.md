@@ -1,3 +1,6 @@
+---
+Progress: In Progress
+---
 ___
 >## Young Ogre Servant
 >*Medium Giant, Chaotic Evil*
