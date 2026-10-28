@@ -1,0 +1,27 @@
+---
+tags:
+  - Ammunition
+  - MagicItem
+  - Rare
+  - DMG24
+---
+# Dungeon Master’s Guide 2024 (DMG24)
+#### +2 Firearm Bullet
+***Ammunition ([[Firearm Bullet]]), Rare, ⅕ lb.***
+
+---
+
+You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
+
+Firearm Bullets are destroyed upon use in a modern firearm.
+
+```itemcard
+name: "+2 Firearm Bullet"
+type: "Ammunition ([[Firearm Bullet]]), ⅕ lb."
+rarity: "Rare"
+attunement: "False"
+price: "2,000 GP x10"
+text_align: "center"
+description: |
+  You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Firearm Bullets are destroyed upon use in a modern firearm.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)
+```

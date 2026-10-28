@@ -21,13 +21,11 @@ Firearm ammunition is destroyed upon use.
 
 ```itemcard
 name: "+1 Bullet"
-type: "Type Here"
-subtype: "Ammunition"
-rarity: "Bullet"
+type: "Ammunition (Bullet)"
+rarity: "Uncommon"
 attunement: "False"
 price: ""
 text_align: "center"
 description: |
-  *The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.
-  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)
+  *The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)
 ```

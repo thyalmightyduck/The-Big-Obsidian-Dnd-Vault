@@ -14,6 +14,313 @@
         "description": "The Ever Burning Plate Armor Depicts Three Canine Heads With Serpentine Chains Draping From Their Maws Covering The Wearer’s Arms. While Wearing This Armor You Gain A +3 Bonus To Your AC And You Have [[Resistance (Damage)]] To Fire Damage. This Armor Can Hold Up To 6 Charges, Regaining 1d6+1 Charges Daily At Dusk.\n**𝙁𝙖𝙣𝙜𝙨 𝙤𝙛 𝙏𝙖𝙧𝙩𝙖𝙧𝙪𝙨:** You Can Make A Melee Weapon Attack With The Chains That Decorate This Armor Against A Target Within 10ft Of You. You Are Considered [[Proficiency]] With The Chain And This Attack Gains A +1 Bonus To Attack And Damage Rolls For Each Charge This Armor Has (Maximum Of +3). On A Hit The Target Takes An Amount Of *Piercing* Damage Equal To 1d6+ Your Strength Modifier, And You Can Attempt To [[Grapple]] The Creature With The Chain. A Creature [[Grappled]] In This Way Takes 2d8 *Fire* Damage At The Start Of Each Of Its Turns.\n**𝙋𝙪𝙩𝙧𝙚𝙛𝙮𝙞𝙣𝙜 𝘽𝙧𝙚𝙖𝙩𝙝:** As An [[Action]] You Can Spend Any Number Of To Exhale A 60ft [[Cone]] Of Sickening Flame. Each Creature In The Area Must Succeed On A Constitution [[Saving Throw]] And The Save DC Is Equal To 17+ The Number Of Charges Spent. On A Failed Save The Creature Takes 2d8 *Necrotic* Damage Per Charge Spent, Has [[Disadvantage]] On All Melee Attacks And Cannot Regain [[Hit Point]] For 1 Minute. On A Successful Save The Creature Takes Half As Much Damage, But Suffers No Other Effect.\n**𝙃𝙮𝙥𝙤𝙜𝙚𝙖𝙣 𝙂𝙪𝙖𝙧𝙙 :** As An [[Action]] You Can Spend Any Number Of Charges To Cast *Spirit Guardian* Without Expending A Spell Slot. For Each Charge Beyond The First, The Spell Is Cast At One Level Higher, And The Save DC Is Equal TO 17+ The Number Of Charges Spent. The Guardians Appear As Three Burning Canine Heads Floating Around You. When The Spell Is Cast In This Way, The Spell Deals Your Choice Of *Fire* Or *Necrotic* Damage Rather Than It’s Normal Damage.\n***Credit:*** [The Mithral Canvas Insta](https://www.instagram.com/the_mithral_canvas?) \n"
       },
       "sourceYaml": "name: \"Chthonian Chains\"\nimage: \"Chthonian Chains BGR PNG.png\"\ntype: \"Armor\"\nsubtype: \"(Half Plate Or Plate)\"\nrarity: \"Legendary\"\nattunement: \"True\"\nprice: \"600 GP\"\ntext_align: \"center\"\ndescription: |\n  The Ever Burning Plate Armor Depicts Three Canine Heads With Serpentine Chains Draping From Their Maws Covering The Wearer’s Arms. While Wearing This Armor You Gain A +3 Bonus To Your AC And You Have [[Resistance (Damage)]] To Fire Damage. This Armor Can Hold Up To 6 Charges, Regaining 1d6+1 Charges Daily At Dusk.\n  **𝙁𝙖𝙣𝙜𝙨 𝙤𝙛 𝙏𝙖𝙧𝙩𝙖𝙧𝙪𝙨:** You Can Make A Melee Weapon Attack With The Chains That Decorate This Armor Against A Target Within 10ft Of You. You Are Considered [[Proficiency]] With The Chain And This Attack Gains A +1 Bonus To Attack And Damage Rolls For Each Charge This Armor Has (Maximum Of +3). On A Hit The Target Takes An Amount Of *Piercing* Damage Equal To 1d6+ Your Strength Modifier, And You Can Attempt To [[Grapple]] The Creature With The Chain. A Creature [[Grappled]] In This Way Takes 2d8 *Fire* Damage At The Start Of Each Of Its Turns.\n  **𝙋𝙪𝙩𝙧𝙚𝙛𝙮𝙞𝙣𝙜 𝘽𝙧𝙚𝙖𝙩𝙝:** As An [[Action]] You Can Spend Any Number Of To Exhale A 60ft [[Cone]] Of Sickening Flame. Each Creature In The Area Must Succeed On A Constitution [[Saving Throw]] And The Save DC Is Equal To 17+ The Number Of Charges Spent. On A Failed Save The Creature Takes 2d8 *Necrotic* Damage Per Charge Spent, Has [[Disadvantage]] On All Melee Attacks And Cannot Regain [[Hit Point]] For 1 Minute. On A Successful Save The Creature Takes Half As Much Damage, But Suffers No Other Effect.\n  **𝙃𝙮𝙥𝙤𝙜𝙚𝙖𝙣 𝙂𝙪𝙖𝙧𝙙 :** As An [[Action]] You Can Spend Any Number Of Charges To Cast *Spirit Guardian* Without Expending A Spell Slot. For Each Charge Beyond The First, The Spell Is Cast At One Level Higher, And The Save DC Is Equal TO 17+ The Number Of Charges Spent. The Guardians Appear As Three Burning Canine Heads Floating Around You. When The Spell Is Cast In This Way, The Spell Deals Your Choice Of *Fire* Or *Necrotic* Damage Rather Than It’s Normal Damage.\n  ***Credit:*** [The Mithral Canvas Insta](https://www.instagram.com/the_mithral_canvas?) "
+    },
+    {
+      "id": "mvr2xcsjum5iune",
+      "item": {
+        "name": "+1 Arrow",
+        "type": "Ammunition (Arrow)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Arrows are typically stored in a *[[Quiver]]* (bought separately).\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Arrow\"\ntype: \"Ammunition (Arrow)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Arrows are typically stored in a *[[Quiver]]* (bought separately).\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2xgj3gu7cdvc",
+      "item": {
+        "name": "+1 Arrow, Silver",
+        "type": "Ammunition (Arrow, Silver)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Arrow, Silver\"\ntype: \"Ammunition (Arrow, Silver)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2xj35tizm0e3",
+      "item": {
+        "name": "+1 Arrow, Wooden",
+        "type": "Ammunition (Arrow, Wooden)",
+        "rarity": "Uncommon",
+        "attunement": "True",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Arrow, Wooden\"\ntype: \"Ammunition (Arrow, Wooden)\"\nrarity: \"Uncommon\"\nattunement: \"True\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2xl0478gskh9",
+      "item": {
+        "name": "+1 Bellows Cannister",
+        "type": "Ammunition (Bellows Cannister)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bellows Cannister\"\ntype: \"Ammunition (Bellows Cannister)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2xn6bt5o2o8u",
+      "item": {
+        "name": "+1 Bolt",
+        "type": "Ammunition",
+        "subtype": "Bolt",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Bolts are typically stored in a *[[Crossbow Bolt Case]]* (bought separately).\n***Credit:*** Dungeon Master’s Guide (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bolt\"\ntype: \"Ammunition\"\nsubtype: \"Bolt\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Bolts are typically stored in a *[[Crossbow Bolt Case]]* (bought separately).\n  ***Credit:*** Dungeon Master’s Guide (DMG24)"
+    },
+    {
+      "id": "mvr2xp7rrvqb4tk",
+      "item": {
+        "name": "+1 Bolt, Silver",
+        "type": "Ammunition",
+        "subtype": "Bolt, Silver",
+        "rarity": "Rarity Here",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bolt, Silver\"\ntype: \"Ammunition\"\nsubtype: \"Bolt, Silver\"\nrarity: \"Rarity Here\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2xrcshff39a7",
+      "item": {
+        "name": "+1 Bolt, Wooden",
+        "type": "Ammunition",
+        "subtype": "Bolt, Wooden",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bolt, Wooden\"\ntype: \"Ammunition\"\nsubtype: \"Bolt, Wooden\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2xtti5dv5bg9",
+      "item": {
+        "name": "+1 Bullet",
+        "type": "Type Here",
+        "subtype": "Ammunition",
+        "rarity": "Bullet",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bullet\"\ntype: \"Type Here\"\nsubtype: \"Ammunition\"\nrarity: \"Bullet\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2yvf1iul3q0d",
+      "item": {
+        "name": "+1 Bullet, Silver",
+        "type": "Ammunition",
+        "subtype": "Bullet, Silver",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a Short Rest or Long Rest.\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bullet, Silver\"\ntype: \"Ammunition\"\nsubtype: \"Bullet, Silver\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a Short Rest or Long Rest.\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2yxcu8mjxgi8",
+      "item": {
+        "name": "+1 Bullet, Wooden",
+        "type": "Ammunition",
+        "subtype": "Bullet, Wooden",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bullet, Wooden\"\ntype: \"Ammunition\"\nsubtype: \"Bullet, Wooden\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2yzls6dta1d3",
+      "item": {
+        "name": "+1 Cannonball",
+        "type": "Ammunition",
+        "subtype": "Cannonball",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Steinhardt’s Guide to the Eldritch Hunt Player Pack.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>A type of Ammunition for weapons with the Artillery property.<P>Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Cannonball\"\ntype: \"Ammunition\"\nsubtype: \"Cannonball\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Steinhardt’s Guide to the Eldritch Hunt Player Pack.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>A type of Ammunition for weapons with the Artillery property.<P>Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2z1re7f3fx7w",
+      "item": {
+        "name": "+1 Dragon Shot",
+        "type": "Ammunition",
+        "subtype": "Dragon Shot",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Dragon Shot\"\ntype: \"Ammunition\"\nsubtype: \"Dragon Shot\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2z3t4nr1w561",
+      "item": {
+        "name": "+1 Energy Cell",
+        "type": "Ammunition (Energy Cell), Futuristic",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Energy Cell\"\ntype: \"Ammunition (Energy Cell), Futuristic\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2z5xc9g39dql",
+      "item": {
+        "name": "+1 Explosive Cannonball",
+        "type": "Ammunition (Explosive Cannonball)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Steinhardt’s Guide to the Eldritch Hunt Player Pack.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>A creature hit by this ammunition takes the weapon's normal damage, and each creature within 10 feet of it must succeed on a Dexterity [[saving throw]] (DC 8 plus your Strength modifier and your [[Proficiency Bonus]]) or take 2d8 Fire damage. On a miss, the ammunition fails to detonate.<P>Once it hits a target, the ammunition is destroyed.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Explosive Cannonball\"\ntype: \"Ammunition (Explosive Cannonball)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Steinhardt’s Guide to the Eldritch Hunt Player Pack.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>A creature hit by this ammunition takes the weapon's normal damage, and each creature within 10 feet of it must succeed on a Dexterity [[saving throw]] (DC 8 plus your Strength modifier and your [[Proficiency Bonus]]) or take 2d8 Fire damage. On a miss, the ammunition fails to detonate.<P>Once it hits a target, the ammunition is destroyed.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2z7vqc2tlzip",
+      "item": {
+        "name": "+1 Firearm Bullet",
+        "type": "Ammunition (Firearm Bullet)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Firearm Bullets are destroyed upon use in a modern firearm.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Firearm Bullet\"\ntype: \"Ammunition (Firearm Bullet)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Firearm Bullets are destroyed upon use in a modern firearm.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2z9zoqvuprbj",
+      "item": {
+        "name": "+1 Flare",
+        "type": "Ammunition (Flare)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Flare\"\ntype: \"Ammunition (Flare)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2zcimxdmw746",
+      "item": {
+        "name": "+1 Needle",
+        "type": "Ammunition (Needle)",
+        "rarity": "Uncommon",
+        "attunement": "Uncommon",
+        "price": "",
+        "text_align": "center",
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>[[Blowgun]] needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Needles are typically stored in a *[[Pouch]]* (bought separately).<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Needle\"\ntype: \"Ammunition (Needle)\"\nrarity: \"Uncommon\"\nattunement: \"Uncommon\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>[[Blowgun]] needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Needles are typically stored in a *[[Pouch]]* (bought separately).<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2ze9ijmdv4fk",
+      "item": {
+        "name": "+1 Needle, Silver",
+        "type": "Ammunition (Needle, Silver),",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Needle, Silver\"\ntype: \"Ammunition (Needle, Silver),\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2zfxmtroez02",
+      "item": {
+        "name": "+1 Paper Cartridge Bullet",
+        "type": "Ammunition (Paper Cartridge Bullet)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Paper Cartridge Bullet\"\ntype: \"Ammunition (Paper Cartridge Bullet)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2zhz280k9ilq",
+      "item": {
+        "name": "+1 Shell",
+        "type": "Ammunition (Shell)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Shell\"\ntype: \"Ammunition (Shell)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2zk76h8sjixx",
+      "item": {
+        "name": "+1 Shot",
+        "type": "Ammunition (Shot), ⅕ lb.",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "False",
+        "text_align": "center",
+        "description": "*The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Shot\"\ntype: \"Ammunition (Shot), ⅕ lb.\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"False\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in The Gunslinger Class: Valda’s Spire of Secrets.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Ammunition is required by a weapon that has Ammunition. A weapon's description specifies the type of ammunition used by the weapon.<P>Firearm ammunition is destroyed upon use.<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr2zu4et8vxolq",
+      "item": {
+        "name": "+1 Sling Bullet",
+        "type": "Ammunition (Sling Bullet)",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Sling bullets are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Sling Bullets are typically stored in a *[[Pouch]]* (bought separately).<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Sling Bullet\"\ntype: \"Ammunition (Sling Bullet)\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Sling bullets are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Sling Bullets are typically stored in a *[[Pouch]]* (bought separately).<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvr3irt96znv2d3",
+      "item": {
+        "name": "+1 Ammunition",
+        "type": "Ammunition, Generic Variant",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity *(200 GP)*.<P>***Base items.*** This item variant can be applied to the following base items:<P>- *[[Arrow]]* (*[[+1 Arrow]]*)<P>- *[[Arrow, Silver]]* (*[[+1 Arrow, Silver]]*)<P>- *[[Arrow, Wooden]]* (*[[+1 Arrow, Wooden]]*)<P>- *[[Bellows Cannister]]* (*[[+1 Bellows Cannister]]*)<P>- *[[Bolt (Ammunition)]]* (*[[+1 Bolt]]*)<P>- *[[Bolt, Silver]]* (*[[+1 Bolt, Silver]]*)<P>- *[[Bolt, Wooden]]* (*[[+1 Bolt, Wooden]]*)<P>- *[[Bullet]]* (*[[+1 Bullet]]*)<P>- *[[Bullet, Silver]]* (*[[+1 Bullet, Silver]]*)<P>- *[[Bullet, Wooden]]* (*[[+1 Bullet, Wooden]]*)<P>- *[[Cannonball]]* (*[[+1 Cannonball]]*)<P>- *[[Dragon Shot]]* (*[[+1 Dragon Shot]]*)<P>- *[[Energy Cell]]* (*[[+1 Energy Cell]]*)<P>- *[[Explosive Cannonball]]* (*[[+1 Explosive Cannonball]]*)<P>- *[[Firearm Bullet]]* (*[[+1 Firearm Bullet]]*)<P>- *[[Flare]]* (*[[+1 Flare]]*)<P>- *[[Needle]]* (*[[+1 Needle]]*)<P>- *[[Needle, Silver]]* (*[[+1 Needle, Silver]]*)<P>- *[[Paper Cartridge Bullet]]* (*[[+1 Paper Cartridge Bullet]]*)<P>- *[[Shell]]* (*[[+1 Shell]]*)<P>- *[[Shot]]* (*[[+1 Shot]]*)<P>- *[[Sling Bullet]]* (*[[+1 Sling Bullet]]*)<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Ammunition\"\ntype: \"Ammunition, Generic Variant\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity *(200 GP)*.<P>***Base items.*** This item variant can be applied to the following base items:<P>- *[[Arrow]]* (*[[+1 Arrow]]*)<P>- *[[Arrow, Silver]]* (*[[+1 Arrow, Silver]]*)<P>- *[[Arrow, Wooden]]* (*[[+1 Arrow, Wooden]]*)<P>- *[[Bellows Cannister]]* (*[[+1 Bellows Cannister]]*)<P>- *[[Bolt (Ammunition)]]* (*[[+1 Bolt]]*)<P>- *[[Bolt, Silver]]* (*[[+1 Bolt, Silver]]*)<P>- *[[Bolt, Wooden]]* (*[[+1 Bolt, Wooden]]*)<P>- *[[Bullet]]* (*[[+1 Bullet]]*)<P>- *[[Bullet, Silver]]* (*[[+1 Bullet, Silver]]*)<P>- *[[Bullet, Wooden]]* (*[[+1 Bullet, Wooden]]*)<P>- *[[Cannonball]]* (*[[+1 Cannonball]]*)<P>- *[[Dragon Shot]]* (*[[+1 Dragon Shot]]*)<P>- *[[Energy Cell]]* (*[[+1 Energy Cell]]*)<P>- *[[Explosive Cannonball]]* (*[[+1 Explosive Cannonball]]*)<P>- *[[Firearm Bullet]]* (*[[+1 Firearm Bullet]]*)<P>- *[[Flare]]* (*[[+1 Flare]]*)<P>- *[[Needle]]* (*[[+1 Needle]]*)<P>- *[[Needle, Silver]]* (*[[+1 Needle, Silver]]*)<P>- *[[Paper Cartridge Bullet]]* (*[[+1 Paper Cartridge Bullet]]*)<P>- *[[Shell]]* (*[[+1 Shell]]*)<P>- *[[Shot]]* (*[[+1 Shot]]*)<P>- *[[Sling Bullet]]* (*[[+1 Sling Bullet]]*)<P>***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
     }
   ]
 }

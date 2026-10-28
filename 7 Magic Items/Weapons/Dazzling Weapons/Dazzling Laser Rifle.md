@@ -2,7 +2,7 @@
 tags:
   - MagicItem
   - variant
-  - rare
+  - Rare
   - attunement
   - EFA
 ---
