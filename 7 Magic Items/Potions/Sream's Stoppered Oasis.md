@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 #### Sream's Stoppered Oasis
 

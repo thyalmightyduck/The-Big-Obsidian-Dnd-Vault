@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 #### Potion of Vampire Climbing
 

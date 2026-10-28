@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 #### Silence of the Drowned
 

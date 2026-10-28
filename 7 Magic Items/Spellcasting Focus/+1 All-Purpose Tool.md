@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 #### +1 All-Purpose Tool
 

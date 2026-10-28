@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Yggdrasil's Tap
 

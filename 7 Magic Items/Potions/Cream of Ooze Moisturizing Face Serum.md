@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 #### Cream of Ooze Moisturizing Face Serum
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Rapier]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Martial Weapon, Melee Weapon

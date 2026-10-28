@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Military Fork]], Uncommon*
 **Weapon:** 2d6 Piercing, Advanced Weapon, Melee Weapon

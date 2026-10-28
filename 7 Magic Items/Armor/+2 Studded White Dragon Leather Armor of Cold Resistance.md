@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### +2 Studded White Dragon Leather Armor of Cold Resistance
 

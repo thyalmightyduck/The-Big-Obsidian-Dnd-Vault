@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 *Wonderous Item, Rare, Requires [[Attunement]]* 
 > [!infobox]

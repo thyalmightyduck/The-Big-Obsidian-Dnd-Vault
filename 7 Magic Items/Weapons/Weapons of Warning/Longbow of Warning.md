@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Longbow]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon

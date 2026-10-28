@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Parlor Gun]], Uncommon*
 **Weapon:** 2d4 Piercing Simple Weapon, Ranged Weapon, Firearm

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Mattock]], Uncommon*
 **Weapon:** 1d12 Piercing, Martial Weapon, Melee Weapon

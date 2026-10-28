@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Blunderbuss]], Uncommon (Requires Attunement)*
 **Weapon:** 1d12 Piercing Martial Weapon, Ranged Weapon, Firearm

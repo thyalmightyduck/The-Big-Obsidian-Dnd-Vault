@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Hcor'uk the Colossal's Portable Handheld Weapon of Walloping
 

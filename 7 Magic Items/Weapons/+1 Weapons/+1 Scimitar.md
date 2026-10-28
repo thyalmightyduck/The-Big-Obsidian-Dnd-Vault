@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Scimitar]], Uncommon*
 **Weapon:** 1d6 Slashing Martial Weapon, Melee Weapon

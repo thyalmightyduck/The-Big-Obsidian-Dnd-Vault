@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Sniper Rifle]], Rare (Requires Attunement)*
 **Weapon:** 2d8 Piercing Martial Weapon, Ranged Weapon, Firearm

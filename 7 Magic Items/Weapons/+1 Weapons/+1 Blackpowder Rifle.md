@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon ([[Blackpowder Rifle]]), Uncommon*
 **Weapon:** 2d6 Piercing Advanced Weapon, Ranged Weapon

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon ([[Battleaxe]]), Uncommon*
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon

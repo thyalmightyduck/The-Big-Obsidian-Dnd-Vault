@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Javelin]], Uncommon*
 **Weapon:** 1d6 Piercing [[Simple Weapons]], [[Melee Weapons]]

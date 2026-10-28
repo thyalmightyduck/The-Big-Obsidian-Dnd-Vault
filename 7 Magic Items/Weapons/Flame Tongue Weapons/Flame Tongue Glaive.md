@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Glaive]], Rare (Requires Attunement)*
 **Weapon:** 1d10 Slashing Martial Weapon, Melee Weapon

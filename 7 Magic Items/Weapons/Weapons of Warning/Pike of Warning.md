@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Pike]], Uncommon (Requires Attunement)*
 **Weapon:** 1d10 Piercing Martial Weapon, Melee Weapon

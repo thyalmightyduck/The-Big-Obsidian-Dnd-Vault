@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Laser Pistol]], Rare (Requires Attunement)*
 **Weapon:** 3d6 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm

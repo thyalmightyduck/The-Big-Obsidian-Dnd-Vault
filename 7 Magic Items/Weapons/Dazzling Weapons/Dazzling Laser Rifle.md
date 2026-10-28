@@ -5,6 +5,7 @@ tags:
   - Rare
   - attunement
   - EFA
+Progress: In Progress
 ---
 *Weapon [[Laser Rifle]], Rare (Requires [[Attunement]])*
 **Weapon:** 3d8 Radiant, Futuristic, [[Martial Weapons|Martial Weapon]], Ranged Weapon, Firearm

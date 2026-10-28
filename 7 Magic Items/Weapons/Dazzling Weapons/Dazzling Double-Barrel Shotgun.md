@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Double-Barrel Shotgun]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Piercing Simple Weapon, Ranged Weapon, Firearm

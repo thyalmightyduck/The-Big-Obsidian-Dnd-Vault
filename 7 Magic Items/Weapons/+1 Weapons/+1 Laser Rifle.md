@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Laser Rifle]], Uncommon*
 **Weapon:** 3d8 Radiant, Futuristic, Martial Weapon, Ranged Weapon, Firearm

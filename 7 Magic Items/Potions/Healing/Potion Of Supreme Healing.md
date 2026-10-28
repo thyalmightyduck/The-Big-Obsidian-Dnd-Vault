@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 > [!infobox]
 > # Potion Of Supreme Healing

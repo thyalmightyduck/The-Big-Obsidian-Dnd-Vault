@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Dart]], Uncommon*
 **Weapon:** 1d4 Piercing Simple Weapon, Ranged Weapon

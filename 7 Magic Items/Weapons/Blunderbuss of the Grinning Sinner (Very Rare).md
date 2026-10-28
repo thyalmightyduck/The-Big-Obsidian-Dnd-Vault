@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Blunderbuss of the Grinning Sinner (Very Rare)
 

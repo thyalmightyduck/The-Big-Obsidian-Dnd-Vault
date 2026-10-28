@@ -2,6 +2,7 @@
 tags:
   - MagicItem
   - Homebrew
+Progress: In Progress
 ---
 # Scapular of the Ankylosaur 
 ___  

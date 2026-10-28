@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Cannon]], Uncommon (Requires Attunement)*
 **Weapon:** 2d8 Fire Martial Weapon, Ranged Weapon, Firearm

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Sword]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing, Martial Weapon, Melee Weapon

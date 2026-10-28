@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Repeater Slinger]], Uncommon*
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Ranged Weapon

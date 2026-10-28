@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Heavy Crossbow]], Uncommon*
 **Weapon:** 1d10 Piercing Martial Weapon, Ranged Weapon

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Double Spear]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Piercing, Advanced Weapon, Melee Weapon

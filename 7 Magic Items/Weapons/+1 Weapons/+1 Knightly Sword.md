@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapoon [[Items/Weapons/Knightly Sword]], Uncommon*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon

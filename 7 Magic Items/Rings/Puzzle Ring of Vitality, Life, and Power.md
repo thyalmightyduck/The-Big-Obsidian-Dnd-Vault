@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 #### Puzzle Ring of Vitality, Life, and Power
 

@@ -2,6 +2,7 @@
 tags:
   - MagicItem
   - DMG24
+Progress: In Progress
 ---
 [[Medium Armor]] ([[Chain Shirt]]), Rare
 20 lb.

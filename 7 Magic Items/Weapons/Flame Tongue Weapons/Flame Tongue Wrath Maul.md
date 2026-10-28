@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Wrath Maul]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Bludgeoning, Advanced Weapon, Melee Weapon

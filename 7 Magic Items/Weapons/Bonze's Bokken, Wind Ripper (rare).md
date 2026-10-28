@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Bonze's Bokken, Wind Ripper (rare)
 

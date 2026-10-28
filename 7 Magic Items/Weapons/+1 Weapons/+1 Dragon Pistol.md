@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Dragon Pistol]], Uncommon*
 **Weapon:** 2d4 Piercing, Advanced Weapon, Ranged Weapon

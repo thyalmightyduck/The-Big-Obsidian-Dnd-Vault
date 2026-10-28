@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Punch Knife]], Uncommon*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon

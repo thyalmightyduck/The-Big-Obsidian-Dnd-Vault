@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Heliana's Guide to Monster Hunting (very rare)
 

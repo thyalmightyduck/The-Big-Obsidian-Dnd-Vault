@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Revolver]], Uncommon*
 **Weapon:** 2d6 Piercing, Simple, Ranged, Firearm

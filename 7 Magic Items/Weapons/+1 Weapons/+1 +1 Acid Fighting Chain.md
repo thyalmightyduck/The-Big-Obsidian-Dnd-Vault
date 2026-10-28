@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon ([[+1 Acid Fighting Chain]]), Uncommon*
 **Weapon:** 1d4 Bludgeoning Advanced Weapon, Melee Weapon

@@ -5,6 +5,7 @@ tags:
   - variant
   - attunement
   - EFA
+Progress: In Progress
 ---
 *Weapon [[Revolver]], Rare (Requires [[Attunement]])*
 **Weapon:** 2d6 Piercing, Simple, Ranged, Firearm

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Tooth of the Jinxed Leviathan (Rare)
 

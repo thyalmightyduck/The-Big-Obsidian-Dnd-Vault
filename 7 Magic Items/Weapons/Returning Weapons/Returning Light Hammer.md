@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Uncommon*
 **Weapon:** 1d4 Bludgeoning Simple Weapon, Melee Weapon

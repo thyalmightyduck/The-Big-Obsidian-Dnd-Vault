@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Yklwa]], Uncommon (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Simple Weapon, Melee Weapon

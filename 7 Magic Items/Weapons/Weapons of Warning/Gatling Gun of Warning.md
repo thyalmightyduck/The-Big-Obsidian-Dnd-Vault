@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Gatling Gun]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Piercing Martial Weapon, Ranged Weapon, Firearm

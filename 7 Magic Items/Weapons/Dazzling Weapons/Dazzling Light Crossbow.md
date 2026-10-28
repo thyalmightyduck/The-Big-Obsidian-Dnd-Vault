@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Light Crossbow]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing, Simple Weapons, Ranged Weapons

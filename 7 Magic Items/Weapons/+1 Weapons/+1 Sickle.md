@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Sickle]], Uncommon*
 **Weapon:** 1d4 Slashing, Simple Weapon, Melee Weapon

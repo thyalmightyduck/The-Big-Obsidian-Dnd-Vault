@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Hooked Shortspear]], Uncommon*
 **Weapon:** 1d4 Piercing, Martial Weapon, Melee Weapon

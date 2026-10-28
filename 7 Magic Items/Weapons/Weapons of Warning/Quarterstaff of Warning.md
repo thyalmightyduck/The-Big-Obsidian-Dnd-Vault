@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Quarterstaff]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning Simple Weapon, Melee Weapon

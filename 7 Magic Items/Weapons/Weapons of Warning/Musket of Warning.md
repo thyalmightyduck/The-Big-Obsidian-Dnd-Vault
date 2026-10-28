@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Musket]], Uncommon (Requires Attunement)*
 **Weapon:** 1d12 Piercing, [[Martial Weapons]], [[Ranged Weapons]], [[Firearms]]

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 #### Instrument of the Bards, Mac-Fuirmidh Cittern
 

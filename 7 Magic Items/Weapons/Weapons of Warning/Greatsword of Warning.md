@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Greatsword]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Slashing, [[Martial Weapons]], [[Melee Weapons]] 

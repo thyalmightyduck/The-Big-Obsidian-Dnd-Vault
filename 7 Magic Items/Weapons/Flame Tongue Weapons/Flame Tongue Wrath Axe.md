@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Wrath Axe]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Slashing, Advanced Weapon, Melee Weapon

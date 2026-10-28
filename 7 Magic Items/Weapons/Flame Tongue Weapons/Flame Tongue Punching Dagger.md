@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Punching Dagger]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing, Advanced Weapon, Melee Weapon

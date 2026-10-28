@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Trident]], Uncommon*
 **Weapon:** 1d8 Piercing Martial Weapon, Ranged Weapon

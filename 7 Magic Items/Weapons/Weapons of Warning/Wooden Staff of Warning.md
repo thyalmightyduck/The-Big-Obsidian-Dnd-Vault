@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Wooden Staff]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning, Simple Weapon, Spellcasting Focus

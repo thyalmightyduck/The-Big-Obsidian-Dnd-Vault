@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Repeater Crossbow, Hand]], Uncommon*
 **Weapon:** 1d6 Piercing, Advanced Weapon, Ranged Weapon

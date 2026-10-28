@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon ([[Catchpole]]), Uncommon*
 **Weapon:** 1d6 Piercing Advanced Weapon, Melee Weapon

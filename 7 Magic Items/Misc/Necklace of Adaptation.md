@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 *Wondrous Item, Uncommon (Requires [[Attunement]])*
 1 lb.

@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Whip]], Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Slashing Martial Weapon, Melee Weapon

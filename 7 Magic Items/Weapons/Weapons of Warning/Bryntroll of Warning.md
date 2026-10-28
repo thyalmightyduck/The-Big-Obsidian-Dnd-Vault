@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Bryntroll]], Uncommon (Requires Attunement)*
 **Weapon:** 1d10 Slashing Martial Weapon, Melee Weapon

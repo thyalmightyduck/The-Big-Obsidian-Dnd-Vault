@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon ([[Antimatter Rifle]]), Uncommon*
 **Weapon:** 6d8 Necrotic Futuristic, Martial Weapon, Ranged Weapon, Firearm

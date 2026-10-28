@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Handaxe]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Slashing Simple Weapon, Melee Weapon

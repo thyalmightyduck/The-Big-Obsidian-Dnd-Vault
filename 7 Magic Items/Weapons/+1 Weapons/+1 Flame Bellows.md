@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Flame Bellows]], Uncommon*
 **Weapon:** 2d6 Fire Advanced Weapon, Ranged Weapon

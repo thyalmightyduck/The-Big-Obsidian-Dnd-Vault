@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Hoopak]], Uncommon*
 **Weapon:** 1d6 Piercing, Martial Weapon, Melee Weapon

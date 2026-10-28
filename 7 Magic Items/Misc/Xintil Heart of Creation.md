@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 # Xintil Heart of Creation
 > [!infobox]

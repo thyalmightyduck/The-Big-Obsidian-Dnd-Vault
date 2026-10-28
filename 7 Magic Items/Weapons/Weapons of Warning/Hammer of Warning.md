@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Hammer]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Bludgeoning [[Simple Weapon]], [[Melee Weapon]]

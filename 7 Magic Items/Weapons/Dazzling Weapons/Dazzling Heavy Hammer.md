@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Heavy Hammer]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Bludgeoning, Martial Weapon, Melee Weapon

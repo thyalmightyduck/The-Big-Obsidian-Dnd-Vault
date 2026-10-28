@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Polearm]], Rare (Requires Attunement)*
 **Weapon:** 1d12 Piercing, Advanced Weapon, Melee Weapon

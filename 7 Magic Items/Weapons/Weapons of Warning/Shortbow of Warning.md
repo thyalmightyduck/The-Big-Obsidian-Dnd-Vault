@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Shortbow]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Piercing Simple Weapon, Ranged Weapon

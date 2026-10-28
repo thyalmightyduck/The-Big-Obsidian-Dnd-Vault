@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Staff of Farryn of the Greenwood (Very Rare)
 

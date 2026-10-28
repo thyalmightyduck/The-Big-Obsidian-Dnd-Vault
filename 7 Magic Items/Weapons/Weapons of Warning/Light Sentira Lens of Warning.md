@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Light Sentira Lens]], Uncommon (Requires Attunement)*
 **Weapon:** 1d6 Psychic, Simple Weapon, Ranged Weapon

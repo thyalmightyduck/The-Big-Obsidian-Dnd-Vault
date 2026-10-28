@@ -2,6 +2,7 @@
 tags:
   - MagicItem
   - DMG24
+Progress: In Progress
 ---
 [[Heavy Armor]] ([[Chain Mail]]), Rare
 55 lb.

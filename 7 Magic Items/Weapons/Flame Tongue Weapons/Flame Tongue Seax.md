@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Seax]], Rare (Requires Attunement)*
 **Weapon:** 1d4 Piercing Simple Weapon, Melee Weapon

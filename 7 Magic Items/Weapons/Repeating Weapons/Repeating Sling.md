@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Uncommon (Requires Attunement)*
 **Weapon:** 1d4 Bludgeoning, Simple Weapon, Ranged Weapon

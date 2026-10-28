@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon ([[Blowgun]]), Uncommon*
 **Weapon:** 1 Piercing Martial Weapon, Ranged Weapon

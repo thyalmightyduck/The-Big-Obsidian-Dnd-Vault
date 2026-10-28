@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Steel Jaws]], Rare (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Martial Weapon, Melee Weapon

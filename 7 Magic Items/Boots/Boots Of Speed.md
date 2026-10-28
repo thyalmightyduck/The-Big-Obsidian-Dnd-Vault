@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 _Wondrous Item, Rare (Requires [[Attunement]])_
 - - - 

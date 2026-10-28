@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: Progress
 ---
 Wondrous Item, [[Common]] (Requires [[Attunement]])
 - - - 

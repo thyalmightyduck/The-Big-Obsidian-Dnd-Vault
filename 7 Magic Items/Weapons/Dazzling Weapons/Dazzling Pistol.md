@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Pistol]], Rare (Requires Attunement)*
 **Weapon:** 1d10 Piercing, [[Martial Weapons]], [[Ranged Weapons]], [[Firearms]]

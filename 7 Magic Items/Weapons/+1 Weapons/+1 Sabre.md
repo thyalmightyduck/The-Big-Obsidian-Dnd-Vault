@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Sabre]], Uncommon*
 **Weapon:** 1d8 Slashing, Advanced Weapon, Melee Weapon

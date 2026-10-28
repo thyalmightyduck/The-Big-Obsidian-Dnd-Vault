@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Items/Weapons/Chakram]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Piercing Advanced Weapon, Melee Weapon

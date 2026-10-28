@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 #### Cutlass of Briggsy Kratch (Very Rare)
 

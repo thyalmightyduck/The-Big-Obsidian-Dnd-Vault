@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Battle Axe]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Slashing Martial Weapon, Melee Weapon

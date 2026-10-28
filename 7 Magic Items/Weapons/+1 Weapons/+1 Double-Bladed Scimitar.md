@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Double Bladed Scimitar]], Uncommon*
 **Weapon:** 2d4 Slashing, Martial Weapon, Melee Weapon

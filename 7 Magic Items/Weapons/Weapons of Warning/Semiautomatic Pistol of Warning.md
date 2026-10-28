@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Semiautomatic Pistol]], Uncommon (Requires Attunement)*
 **Weapon:** 2d6 Piercing, Modern, Martial Weapon, Ranged Weapon, Firearm

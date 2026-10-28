@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Heavy Sentira Lens]], Rare (Requires Attunement)*
 **Weapon:** 1d6 Psychic Martial Weapon, Ranged Weapon

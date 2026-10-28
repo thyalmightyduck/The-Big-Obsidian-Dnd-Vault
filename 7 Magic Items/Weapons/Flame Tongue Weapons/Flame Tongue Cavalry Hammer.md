@@ -1,6 +1,7 @@
 ---
 tags:
   - MagicItem
+Progress: In Progress
 ---
 *Weapon [[Cavalry Hammer]], Rare (Requires Attunement)*
 **Weapon:** 1d8 Bludgeoning, Advanced Weapon, Melee Weapon
