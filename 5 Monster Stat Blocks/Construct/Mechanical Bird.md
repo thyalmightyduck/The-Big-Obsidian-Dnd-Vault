@@ -45,34 +45,8 @@ damage_immunities: Poison
 condition_immunities: [[Poisoned]]
 senses: [[Passive Perception]] 10, Passive Insight 10, Passive Stealth 10
 languages: —
-cr: 0
-spellsNotes: "Spell Notes Here"
-spells:
-  - "Spell Level Here: Spell Names Here"
-legendary_description: "Legendary Desciption"
-traits:
-  - name: "Trait Name:"
-    desc: "Trait Descreption"  
+cr: 0 
 actions:
-  - name: "Action Name:"
-    desc: "Action Description"   
-bonus_actions:
-  - name: "Bonus Action Name:"
-    desc: "Bonus Action Desc"
-reactions:
-  - name: "Reaction Name:"
-    desc: "Reaction Description"
-legendary_actions:
-  - name: "Legendary Action Name:"
-    desc: "Legendary Action Description"  
-mythic_description: "Mythic Description"
-mythic_actions:
-  - name: "Mythic Action Name:"
-    desc: "Mythic Action Description"
-lair_actions:
-  - name: "Lair Action Name:"
-    desc: "Lair Action Desc"
-regional_effects:
-  - name: "Regional Effect Name:"
-    desc: "Regional Effect Description"
+  - name: "Slam:"
+    desc: "*Melee Weapon Attack:*  +0 to hit, reach 5 ft., one target. *Hit:* 2 (1d3) piercing damage, and the bird is destroyed by the impact."   
 ```

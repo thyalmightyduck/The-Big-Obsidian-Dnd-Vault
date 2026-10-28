@@ -4924,6 +4924,40 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Mechanical Bird",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Mechanical Bird BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Mechanical Bird",
+        "size": "Tiny",
+        "type": "Construct",
+        "alignment": "Neutral",
+        "ac": 15,
+        "hp": 1,
+        "speed": "0 ft., Fly 60 ft.",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "damage_immunities": "Poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 10",
+        "languages": "—",
+        "cr": 0,
+        "actions": [
+          {
+            "name": "Slam:",
+            "desc": "*Melee Weapon Attack:*  +0 to hit, reach 5 ft., one target. *Hit:* 2 (1d3) piercing damage, and the bird is destroyed by the impact."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
