@@ -3,8 +3,9 @@ tags:
   - Feat
   - ABH
 ---
-## Boon of Misty Escape (ABH):
-Epic Boon Feat (Prerequisite: Level 19+)
+# Astarion’s Book of Hungers (ABH)
+## Boon of Misty Escape
+*Epic Boon Feat (Prerequisite: Level 19+)*
 
 You gain the following benefits.
 
