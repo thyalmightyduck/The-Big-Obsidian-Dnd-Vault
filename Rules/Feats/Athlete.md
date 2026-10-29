@@ -3,6 +3,8 @@ tags:
   - Feat
   - PHB24
   - PHB14
+Progress:
+  - Book Ready
 ---
 # Athlete
 ## Player’s Handbook 2024 (PHB24):

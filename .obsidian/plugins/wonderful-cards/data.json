@@ -361,6 +361,19 @@
         "description": "A deep black gemstone.\n\n***Treasure (Gemstone).*** Gemstones are small, lightweight, and easily secured compared to their same value in coins.\n\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
       },
       "sourceYaml": "name: \"Jet\"\ntype: \"Treasure (Gemstone)\"\nrarity: \"Mundane\"\nattunement: \"\"\nprice: \"100 GP\"\ntext_align: \"center\"\ndescription: |\n  A deep black gemstone.\n\n  ***Treasure (Gemstone).*** Gemstones are small, lightweight, and easily secured compared to their same value in coins.\n  \n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
+    },
+    {
+      "id": "mvu2jnk5e39fq7j",
+      "item": {
+        "name": "Force Absorbing Tattoo",
+        "type": "Wondrous Item (Tattoo)",
+        "rarity": "Very Rare",
+        "attunement": "Requires Attunement",
+        "price": "40,000 GP",
+        "text_align": "center",
+        "description": "Produced by a special needle, this magic tattoo features designs that emphasize one color (white).\n\n***Tattoo Attunement.*** To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the [[attunement]] process. When the [[attunement]] is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.\n\nIf your [[attunement]] to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.\n\n***Damage Resistance.*** While the tattoo is on your skin, you have [[resistance]] to force damage.\n\n***Damage Absorption.*** When you take force damage, you can use your [[reaction]] to gain [[immunity]] against that instance of the damage, and you regain a number of [[Hit Point|hit points]] equal to half the damage you would have taken. Once this [[reaction]] is used, it can't be used again until the next dawn.\n***Credit:*** Tasha’s Cauldron of Everything (TCE)\n"
+      },
+      "sourceYaml": "name: \"Force Absorbing Tattoo\"\ntype: \"Wondrous Item (Tattoo)\"\nrarity: \"Very Rare\"\nattunement: \"Requires Attunement\"\nprice: \"40,000 GP\"\ntext_align: \"center\"\ndescription: |\n  Produced by a special needle, this magic tattoo features designs that emphasize one color (white).\n\n  ***Tattoo Attunement.*** To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the [[attunement]] process. When the [[attunement]] is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.\n\n  If your [[attunement]] to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.\n\n  ***Damage Resistance.*** While the tattoo is on your skin, you have [[resistance]] to force damage.\n\n  ***Damage Absorption.*** When you take force damage, you can use your [[reaction]] to gain [[immunity]] against that instance of the damage, and you regain a number of [[Hit Point|hit points]] equal to half the damage you would have taken. Once this [[reaction]] is used, it can't be used again until the next dawn.\n  ***Credit:*** Tasha’s Cauldron of Everything (TCE)"
     }
   ]
 }
