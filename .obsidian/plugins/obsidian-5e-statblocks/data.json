@@ -5496,7 +5496,8 @@
           "fallback": "-",
           "headingProp": false,
           "heading": "Info",
-          "hasRule": true
+          "hasRule": true,
+          "conditioned": true
         }
       ],
       "id": "basic-5e-layout",
