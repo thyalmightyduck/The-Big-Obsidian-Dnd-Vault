@@ -5,7 +5,7 @@ tags:
   - monk
   - PHB14
 Progress:
-  - Book Ready
+  - In Progress
 ---
 # Way of the Four Elements [[Monk]]
 ## Player’s Handbook 2014 (PHB14)
