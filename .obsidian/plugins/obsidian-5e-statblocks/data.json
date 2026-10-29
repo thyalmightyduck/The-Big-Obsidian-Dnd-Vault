@@ -5378,6 +5378,18 @@
           "heading": "Regional Effects",
           "conditioned": true,
           "dice": true
+        },
+        {
+          "type": "text",
+          "id": "c92ab9da3a8b",
+          "properties": [
+            "info"
+          ],
+          "text": null,
+          "fallback": "-",
+          "headingProp": false,
+          "heading": "Info",
+          "hasRule": true
         }
       ],
       "id": "basic-5e-layout",

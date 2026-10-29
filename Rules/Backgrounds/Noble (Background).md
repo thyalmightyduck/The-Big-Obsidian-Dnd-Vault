@@ -1,6 +1,8 @@
 ---
 tags:
   - backgrounds
+aliases:
+  - Noble
 ---
 ## Noble
 
