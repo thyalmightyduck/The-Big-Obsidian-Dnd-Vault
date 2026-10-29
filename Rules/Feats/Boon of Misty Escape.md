@@ -2,6 +2,10 @@
 tags:
   - Feat
   - ABH
+  - EpicBoonFeat
+Progress:
+  - Game Ready
+FeatPrerequisites: Level 19+
 ---
 # Astarion’s Book of Hungers (ABH)
 ## Boon of Misty Escape
