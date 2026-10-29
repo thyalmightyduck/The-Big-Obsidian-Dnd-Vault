@@ -1,5 +1,6 @@
 ---
-Progress: In Progress
+Progress:
+  - Game Ready
 tags:
   - Monster
   - Construct

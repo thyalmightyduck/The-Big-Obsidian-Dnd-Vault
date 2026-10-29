@@ -29,7 +29,7 @@ ___
 >
 >***Immutable Form.*** The quicksilver siege orb is immune to any spell or effect that would alter its form.  
 >
->***Slippery.*** The quicksilver siege orb has advantage on saving throws and ability checks made to escape a grapple.  
+>***Slippery.*** The quicksilver siege orb has advantage on saving throws and ability checks made to [[Escape a Grapple Action|escape a grapple]].  
 >
 >***Bludgeoning Bounce (Orb Form Only).*** Whenever the quicksilver siege orb is subjected to bludgeoning damage, it takes no damage and instead is pushed up to 15 feet away from the source of the bludgeoning damage. If the damage is from a critical hit, the orb is pushed up to 30 feet.  
 >

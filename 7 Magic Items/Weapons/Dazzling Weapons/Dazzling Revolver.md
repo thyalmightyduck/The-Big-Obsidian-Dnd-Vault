@@ -3,7 +3,7 @@ tags:
   - MagicItem
   - Rare
   - variant
-  - attunement
+  - Attunement
   - EFA
 Progress: In Progress
 ---

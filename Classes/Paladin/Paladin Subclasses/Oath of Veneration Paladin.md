@@ -171,6 +171,6 @@ You gain a feature from your Paladin Subclass.
 ### Level 20: Perfect Avatar
 As a bonus action, you reach your spiritual apotheosis and embody your patron ancestor's spirit completely. You and your Exemplar Companion creatures gain the following benefits for 1 minute:
 - You have advantage on all ability checks.
-- When you take the [[Attack action]] on your turn, you can do one of the following as part of that action: take the [[Dash Action]], [[Help Action]], or Use an Object action, or attempt to shove a creature, [[grapple]] a creature, or escape a grapple.
+- When you take the [[Attack action]] on your turn, you can do one of the following as part of that action: take the [[Dash Action]], [[Help Action]], or Use an Object action, or attempt to shove a creature, [[grapple]] a creature, or [[Escape a Grapple Action|escape a grapple]].
 - When you regain hit points, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
 Once you use this feature, you can't do so again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.

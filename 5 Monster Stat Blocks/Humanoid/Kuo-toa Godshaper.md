@@ -24,7 +24,7 @@ ___
 >___
 >***Amphibious.*** The godshaper can breathe air and water.  
 >
->***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.  
+>***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to [[Escape a Grapple Action|escape a grapple]].  
 >
 >***Sunlight Sensitivity.*** While in sunlight, the godshaper has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >

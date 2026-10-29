@@ -24,7 +24,7 @@ ___
 >
 >***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.  
 >
->***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.  
+>***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to [[Escape a Grapple Action|escape a grapple]].  
 >
 >***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.  
 >
