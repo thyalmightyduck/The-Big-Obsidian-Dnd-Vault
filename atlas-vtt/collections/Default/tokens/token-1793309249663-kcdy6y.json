@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Aspect of Tiamat",
+    "imagePath": "atlas-vtt/assets/Aspect_of_Tiamat_1793309249628_03vfxw.webp",
+    "size": 2.5,
+    "statblockPath": "5 Monster Stat Blocks/Dragon/Aspect of Tiamat.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Aspect_of_Tiamat_1793309249628_03vfxw-6480eec2.webp",
+    "id": "token-1793309249663-kcdy6y",
+    "createdAt": 1793309249663,
+    "modifiedAt": 1793309249663
+  }
+}
