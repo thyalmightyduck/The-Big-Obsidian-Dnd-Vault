@@ -1,11 +1,16 @@
 ---
 tags:
   - classes
+  - subclass
+  - monk
+  - PHB14
+Progress:
+  - Book Ready
 ---
-# Way of the Four Elements Monk
-## Player’s Handbook (2014)
+# Way of the Four Elements [[Monk]]
+## Player’s Handbook 2014 (PHB14)
 
-| Level | Proficiency Bonus | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
+| Level | [[Proficiency Bonus]] | Features                                                           | Martial Arts | Focus Points | Unarmored Movement |
 | ----- | ----------------- | ------------------------------------------------------------------ | ------------ | ------------ | ------------------ |
 | 1st   | +2                | Martial Arts,<br><br>Unarmored Defense                             | 1d6          | —            | —                  |
 | 2nd   | +2                | Monk's Focus,<br><br>Unarmored Movement,<br><br>Uncanny Metabolism | 1d6          | 2            | +10 ft.            |
@@ -30,14 +35,14 @@ tags:
 
 ##### Core Traits
 **Primary Ability:** Dexterity and Wisdom
-**Hit Point Die:** D8 per Monk level
-**Hit Points at Level 1:** 8 + Con. modifier
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Monk level
+**[[Hit Point|Hit Points]] at Level 1:** 8 + Con. modifier
 
 **Hit Points per additional Monk Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
-**Saving Throw Proficiencies:** Strength, Dexterity
+**[[Saving Throw]] Proficiencies:** Strength, Dexterity
 
-**Skill Proficiencies:** _Choose 2:_ Acrobatics, Athletics, History, Insight, Religion, or Stealth.
+**[[Skill]] Proficiencies:** _Choose 2:_ Acrobatics, Athletics, History, Insight, Religion, or Stealth.
 
 **Weapon Proficiencies:** [[Simple Weapons]] and [[Martial Weapons]] that have the Light property
 
