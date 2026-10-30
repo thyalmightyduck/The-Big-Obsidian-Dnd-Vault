@@ -1,0 +1,27 @@
+#### Heavy Tommybow (4) of Showmanship
+
+Weapon (*Heavy Tommybow (4)*), Common, Martial Weapon, Ranged Weapon, 18 lb.
+
+1d10 Piercing
+
+ammunition (100/200 ft.), heavy, Reload (4), two‑handed
+
+---
+
+*The *base item* can be found in Heliana’s Guide to Monster Hunting, page 123.*
+
+When you reduce a Small or larger creature to 0 Hit Points or score a Critical Hit against a target with this weapon, you can create a harmless sensory effect or illusion, as if by the *Prestidigitation* spell, as part of that attack. The effect can appear on the target of the attack or in the area immediately surrounding it.
+
+Tommybows are repeating crossbows that mirror the three types of normal crossbows: hand, heavy, and light. They are composed of vertically-stacked bows upon a crossbow's chassis, an unwieldy arrangement that reduces their effective range in comparison to their crossbow counterparts.
+
+***Range.*** A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+
+***Ammunition.*** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
+If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
+
+***Two-Handed.*** This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
+
+***Heavy.*** Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.
+
+**Reload.** A limited number of shots, specified by the number in parentheses after the reload property, can be made with this weapon. A character must then reload it using an action.
