@@ -387,6 +387,19 @@
         "description": "This ring's crafting requires powdered brain from a **[[Restless Lumberer]]**. It has 3 charges and regains 1d3 expended charges daily at dawn. While wearing the ring, you can take a [[Bonus Action]] to expend 1 charge to change the [[damage type]] of the next spell you cast before the end of your turn to Psychic damage.\n\nIn addition, while attuned to the ring, you're immune to spells or magical abilities that interfere with your sleep or cause nightmares while you sleep.\n\n***Credit:*** Grim Hallow: Campaign Guide 2024 (GHCG24)\n"
       },
       "sourceYaml": "name: \"Ring of Nightmares\"\ntype: \"Ring\"\nrarity: \"Rare\"\nattunement: \"Requires Attunement By Spellcaseter\"\nprice: \"4,000 GP\"\ntext_align: \"center\"\ndescription: |\n  This ring's crafting requires powdered brain from a **[[Restless Lumberer]]**. It has 3 charges and regains 1d3 expended charges daily at dawn. While wearing the ring, you can take a [[Bonus Action]] to expend 1 charge to change the [[damage type]] of the next spell you cast before the end of your turn to Psychic damage.\n\n  In addition, while attuned to the ring, you're immune to spells or magical abilities that interfere with your sleep or cause nightmares while you sleep.\n\n  ***Credit:*** Grim Hallow: Campaign Guide 2024 (GHCG24)"
+    },
+    {
+      "id": "mvuglskwq7mvtz9",
+      "item": {
+        "name": "Pair of engraved bone dice",
+        "type": "Treasure (Art Object)",
+        "rarity": "Mundane",
+        "attunement": "False",
+        "price": "25 GP",
+        "text_align": "center",
+        "description": "***Treasure (Art Object).*** Idols cast of solid gold, necklaces studded with precious stones, paintings of ancient kings, bejeweled dishes—art objects include all these and more.\n\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"Pair of engraved bone dice\"\ntype: \"Treasure (Art Object)\"\nrarity: \"Mundane\"\nattunement: \"False\"\nprice: \"25 GP\"\ntext_align: \"center\"\ndescription: |\n  ***Treasure (Art Object).*** Idols cast of solid gold, necklaces studded with precious stones, paintings of ancient kings, bejeweled dishes—art objects include all these and more.\n  \n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
     }
   ]
 }

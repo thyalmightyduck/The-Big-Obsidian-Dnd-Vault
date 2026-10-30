@@ -2,10 +2,11 @@
 tags:
   - backgrounds
   - VtMBB
+Progress:
+  - Book Ready
 ---
 # Vampire: The Masquerade - Bound by Blood (VtMBB)
 ## Touchstone
-
 - **Ability Scores:** Constitution, Intelligence, Charisma
 - **Feat:** [[Protected]]
 - **[[Skill]] Proficiencies:** [[Persuasion]] and [[Survival]]
