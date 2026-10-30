@@ -6,7 +6,8 @@ tags:
   - Attunement
   - GHCG24
 Progress:
-  - In Progress
+  - Game Ready
+Rarity: Rare
 ---
 # Grim Hallow: Campaign Guide 2024 (GHCG24)
 #### Ring of Nightmares
