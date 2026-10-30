@@ -1,7 +1,3 @@
-# Last Left Off
-Formatting Monsters [[Allopine]]
-Formatting Species [[Gnome (PHB14)]]
-Formatting Magic Items [[Acidlight Ammunition]]
 # Second Quest
 2 person dnd one shots 
 # Main Tasks
