@@ -1,7 +1,22 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       or:
         - file.path.startsWith("7 Magic Items")
         - file.path.startsWith("Items")
+    groupBy:
+      property: Progress
+      direction: ASC
+    groupOrder:
+      - - Game Ready
+      - In Progress
+      - 
+      - Progress
+    order:
+      - file.name
+      - Progress
+      - Rarity
+    image: note.picture
+    cardSize: 140
+    imageAspectRatio: 0.55

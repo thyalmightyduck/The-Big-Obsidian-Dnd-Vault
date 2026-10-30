@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Pilgrim",
+    "imagePath": "atlas-vtt/assets/Pilgrim_1793336155598_deby8g.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Pilgrim.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Pilgrim_1793336155598_deby8g-38099ffc.webp",
+    "id": "token-1793336157009-p1izhx",
+    "createdAt": 1793336157009,
+    "modifiedAt": 1793336157009
+  }
+}
