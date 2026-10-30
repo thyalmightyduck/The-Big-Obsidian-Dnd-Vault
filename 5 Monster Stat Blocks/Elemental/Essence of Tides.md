@@ -1,6 +1,6 @@
 ---
 Progress:
-  - In Progress
+  - Game Ready
 tags:
   - Monster
   - Elemental
