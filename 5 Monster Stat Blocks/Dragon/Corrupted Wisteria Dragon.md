@@ -1,5 +1,6 @@
 ---
-Progress: In Progress
+Progress:
+  - Game Ready
 tags:
   - Monster
   - Dragon
@@ -158,20 +159,20 @@ In combat, the pleurossa network is not a creature that can be attacked. It has 
 - **Destroying the Pleurossa Network.** The pleurossa network can't be attacked directly but can be destroyed. To destroy the pleurossa, it must die and be unable to regrow. Once the [[mushroom dragon]] has been defeated, the pleurossa has few defenses until it can grow a new one. During this time, it can be destroyed through any logical method with enough power and effort, such as fire, fungicide, or magic. Alternatively, if Izora's corrupting influence can be removed or calmed, the pleurossa will return to its former unthreatening state as a natural part of the ecosystem.
 
 
-“_Just a whiff of the [[mushroom dragon]]'s toxic breath is enough to make you sick with corruption. It is a cruel infection that results in a torturously slow death if left untreated._
+“_Just a whiff of the [[mushroom dragon]]'s toxic breath is enough to make you sick with [[Corruption (FGFD)|corruption]]. It is a cruel infection that results in a torturously slow death if left untreated._
 
 _I am too old to do anything about it now, but if I publish these notes, they may reach someone who can._”
 
 — Zethandriel
 
 #### Corrupted Floral Dragons
-When floral dragons and other creatures are infected by the pleurossa, they gain levels of Corruption, as detailed in the Corruption Effects table. Floral dragons have Disadvantage on all saving throws made to resist Corruption. The infection slowly takes away their sense of self as they become one with the pleurossa.
+When floral dragons and other creatures are infected by the pleurossa, they gain levels of [[Corruption (FGFD)|Corruption]], as detailed in the [[Corruption Effects]] table. Floral dragons have [[Disadvantage]] on all [[Saving Throw|saving throws]] made to resist [[Corruption (FGFD)|Corruption]]. The infection slowly takes away their sense of self as they become one with the pleurossa.
 
-Common signs of infection in floral dragons are decaying petals, visible bones, broken wings, and hollow eye sockets. Mushrooms sprout where flowers should be on an infected dragon's back, skull, and tail. If a floral dragon gains 6 levels of corruption, it becomes a **corrupted floral dragon**, as detailed in the Corrupted Floral Dragon Template. The corrupted azalea dragon, corrupted dandelion dragon, corrupted larkspur dragon, and corrupted wisteria dragon are provided as examples.
+Common signs of infection in floral dragons are decaying petals, visible bones, broken wings, and hollow eye sockets. Mushrooms sprout where flowers should be on an infected dragon's back, skull, and tail. If a floral dragon gains 6 levels of [[Corruption (FGFD)|corruption]], it becomes a **corrupted floral dragon**, as detailed in the Corrupted Floral Dragon Template. The [[corrupted azalea dragon]], [[corrupted dandelion dragon]], [[corrupted larkspur dragon]], and corrupted wisteria dragon are provided as examples.
 
-“_The changes that the corruption causes are perhaps most pronounced in the larkspur dragon. The dragon's song becomes an agonized screech, and signs of the mycelial network emerge all over its body and head._
+“_The changes that the [[Corruption (FGFD)|corruption]] causes are perhaps most pronounced in the [[larkspur dragon]]. The dragon's song becomes an agonized screech, and signs of the mycelial network emerge all over its body and head._
 
-_While we were just starting out, I was looking for the hydrangea dragon when Kaltaar found the larkspur dragon. I would have liked to have seen one in its prime._”
+_While we were just starting out, I was looking for the [[hydrangea dragon]] when Kaltaar found the [[larkspur dragon]]. I would have liked to have seen one in its prime._”
 
 — Zethandriel
 
@@ -187,38 +188,38 @@ All corrupted floral dragons share these traits:
 
 ##### Corrupted Abilities
 - **Altered Ability Scores.** The corrupted floral dragon's Intelligence becomes 3 (-4), its Wisdom becomes 12 (+1), and its Charisma becomes 4 (-3).
-- **Resistances.** The corrupted floral dragon gains Resistance to Necrotic damage.
-- **Immunities.** The corrupted floral dragon gains Immunity to Poison damage. The corrupted floral dragon can't be Blinded, Charmed, Deafened, Frightened, Petrified, or Poisoned. It also doesn't suffer from Exhaustion.
-- **Fungally Controlled.** The corrupted floral dragon is part of the pleurossa network. While it is within the pluerossa's area, it is aware of everything the pluerossa percieves. It carries out the desires of the pleurrosa without hesitation.
-- **Senses.** The corrupted floral dragon gains Blindsight out to a range of 60 feet if it didn't already have it. It is blind beyond this radius and loses any other senses it had previously.
-- **Speed.** The corrupted floral dragon gains a Burrow Speed of 30 feet. If the dragon has a Fly Speed, it is halved.
+- **[[Resistance|Resistances]].** The corrupted floral dragon gains [[Resistance]] to Necrotic damage.
+- **Immunities.** The corrupted floral dragon gains [[Immunity]] to Poison damage. The corrupted floral dragon can't be [[Blinded]], [[Charmed]], [[Deafened]], [[Frightened]], [[Petrified]], or [[Poisoned]]. It also doesn't suffer from [[Exhaustion]].
+- **Fungally Controlled.** The corrupted floral dragon is part of the pleurossa network. While it is within the pluerossa's area, it is aware of everything the pluerossa perceives. It carries out the desires of the pleurrosa without hesitation.
+- **Senses.** The corrupted floral dragon gains [[Blindsight]] out to a range of 60 feet if it didn't already have it. It is blind beyond this radius and loses any other senses it had previously.
+- **Speed.** The corrupted floral dragon gains a [[Burrow Speed]] of 30 feet. If the dragon has a [[Fly Speed]], it is halved.
 - **Languages.** The corrupted floral dragon can no longer understand or speak any language.
-- **Magic Resistance.** The corrupted floral dragon has Advantage on saving throws against spells and other magical effects.
+- **Magic Resistance.** The corrupted floral dragon has [[Advantage]] on [[Saving Throw|saving throws]] against spells and other magical effects.
 
 
 ##### Corrupted Actions
-- **Melee Weapon Spores.** If the dragon has a melee weapon attack that deals piercing or slashing damage, on a hit a target must succeed on a Constitution saving throw or gain one level of Corruption. The DC is equal to 8 + the dragon's proficiency bonus + the dragon's Constitution modifier. Floral dragons have Disadvantage on this saving throw.
-- **Weakened.** The corrupted floral dragon can't cast spells or take legendary actions.
-- **Floral Presence.** If the corrupted dragon had a Floral Presence before it was corrupted, it is replaced with the following feature with the range, damage, and saving throw determined by the original dragon's CR.
+- **Melee Weapon Spores.** If the dragon has a melee weapon attack that deals piercing or slashing damage, on a hit a target must succeed on a Constitution [[saving throw]] or gain one level of [[Corruption (FGFD)|Corruption]]. The DC is equal to 8 + the dragon's [[proficiency bonus]] + the dragon's Constitution modifier. Floral dragons have [[Disadvantage]] on this [[saving throw]].
+- **[[Weakened]].** The corrupted floral dragon can't cast spells or take legendary actions.
+- **Floral Presence.** If the corrupted dragon had a Floral Presence before it was corrupted, it is replaced with the following feature with the range, damage, and [[saving throw]] determined by the original dragon's CR.
     
-    Fungal Presence (Recharge of 5–6). The dragon exhales spores in a Cone originating from itself. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes Poison and Necrotic damage and gains a level of Corruption. On a successful save, a creature takes half as much damage. If a target's saving throw is successful, the target is immune to the dragon's Fungal Presence for the next 24 hours. The Fungal Presence Strength table shows the ability's range, damage, and saving throw DC.
+    Fungal Presence (Recharge of 5–6). The dragon exhales spores in a [[Cone]] originating from itself. Each creature in that area must make a Constitution [[saving throw]]. On a failed save, a creature takes Poison and Necrotic damage and gains a level of [[Corruption (FGFD)|Corruption]]. On a successful save, a creature takes half as much damage. If a target's [[saving throw]] is successful, the target is immune to the dragon's Fungal Presence for the next 24 hours. The Fungal Presence Strength table shows the ability's range, damage, and [[saving throw]] DC.
     
     Fungal Presence Strength
     
     |Original CR|Range|Damage|Saving throw DC|
     |---|---|---|---|
-    |0–1/2|10-foot Cone|2 (1d4) Poison and 2 (1d4) Necrotic|12|
-    |1–3|20-foot Cone|3 (1d6) Poison and 3 (1d6) Necrotic|13|
-    |4–7|30-foot Cone|7 (2d6) Poison and 7 (2d6) Necrotic|15|
-    |8–10|40-foot Cone|9 (2d8) Poison and 9 (2d8) Necrotic|16|
-    |11–16|50-foot Cone|13 (3d8) Poison and 13 (3d8) Necrotic|17|
-    |17–20|60-foot Cone|16 (3d10) Poison and 16 (3d10) Necrotic|19|
-    |21–23|70-foot Cone|22 (4d10) Poison and 22 (4d10) Necrotic|20|
-    |24–26|80-foot Cone|26 (4d12) Poison and 26 (4d12) Necrotic|21|
-    |27–30|90-foot Cone|32 (5d12) Poison and 32 (5d12) Necrotic|22|
+    |0–1/2|10-foot [[Cone]]|2 (1d4) Poison and 2 (1d4) Necrotic|12|
+    |1–3|20-foot [[Cone]]|3 (1d6) Poison and 3 (1d6) Necrotic|13|
+    |4–7|30-foot [[Cone]]|7 (2d6) Poison and 7 (2d6) Necrotic|15|
+    |8–10|40-foot [[Cone]]|9 (2d8) Poison and 9 (2d8) Necrotic|16|
+    |11–16|50-foot [[Cone]]|13 (3d8) Poison and 13 (3d8) Necrotic|17|
+    |17–20|60-foot [[Cone]]|16 (3d10) Poison and 16 (3d10) Necrotic|19|
+    |21–23|70-foot [[Cone]]|22 (4d10) Poison and 22 (4d10) Necrotic|20|
+    |24–26|80-foot [[Cone]]|26 (4d12) Poison and 26 (4d12) Necrotic|21|
+    |27–30|90-foot [[Cone]]|32 (5d12) Poison and 32 (5d12) Necrotic|22|
     
 
-“_Even the powerful, fey wisteria dragon is vulnerable to the infection. While corrupted, its luxurious mane and tail wither away, revealing the skeleton beneath, and its iridescent wings become limp and ragged._
+“_Even the powerful, fey [[wisteria dragon]] is vulnerable to the infection. While corrupted, its luxurious mane and tail wither away, revealing the skeleton beneath, and its iridescent wings become limp and ragged._
 
 _I wonder if what remains of Izora knows that she finally succeeded in punishing the dragon that destroyed her home. I doubt it._”
 

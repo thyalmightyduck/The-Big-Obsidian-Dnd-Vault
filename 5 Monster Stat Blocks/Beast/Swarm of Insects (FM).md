@@ -1,5 +1,7 @@
 ---
 Progress: In Progress
+aliases:
+  - Swarm of Insects
 ---
 ___
 >## Swarm of Insects
