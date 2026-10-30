@@ -5105,6 +5105,109 @@
         "info": "Dressed in plain gray robes tied off with a frayed rope, and wearing little else but a pair of old sandals, these pilgrims carry little on them and have given up their possessions for a simple life dedicated to the Falling Fire.",
         "source": "Homebrew"
       }
+    ],
+    [
+      "Corrupted Wisteria Dragon",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Corrupted Wisteria Dragon BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Corrupted Wisteria Dragon",
+        "size": "Huge",
+        "type": "Dragon",
+        "alignment": "Any Non-Good Alignment",
+        "ac": 19,
+        "hp": 256,
+        "hit_dice": "19d12 + 133",
+        "speed": "40 ft., Burrow 30 ft., Fly 40 ft.",
+        "stats": [
+          24,
+          13,
+          25,
+          3,
+          12,
+          4
+        ],
+        "saves": [
+          {
+            "Dex": 7
+          },
+          {
+            "Con": 13
+          },
+          {
+            "Wis": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 2
+          },
+          {
+            "Deception": 3
+          },
+          {
+            "History": 2
+          },
+          {
+            "Insight": 7
+          },
+          {
+            "Perception": 7
+          }
+        ],
+        "damage_resistances": "Necrotic",
+        "damage_immunities": "Poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Blinded<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Deafened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Exhaustion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Petrified<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poisoned<STATBLOCK-WIKI-LINK>",
+        "senses": "<STATBLOCK-WIKI-LINK>Blindsight<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 17, Passive Insight 17, Passive Stealth 11",
+        "languages": "—",
+        "cr": 17,
+        "traits": [
+          {
+            "name": "Fey Ancestry:",
+            "desc": "The dragon has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> against being <STATBLOCK-WIKI-LINK>Charmed<STATBLOCK-WIKI-LINK>, and magic can't put the dragon to sleep."
+          },
+          {
+            "name": "Fungally Controlled:",
+            "desc": "The corrupted dragon is part of the pluerossa fungus network. It is aware of everything other corrupted floral dragons and the <STATBLOCK-WIKI-LINK>mushroom dragon<STATBLOCK-WIKI-LINK> perceive at all times, and it carries out the desires of the pleurrosa fungus."
+          },
+          {
+            "name": "Magic Resistance:",
+            "desc": "The dragon has <STATBLOCK-WIKI-LINK>Advantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK> against spells and other magical effects."
+          },
+          {
+            "name": "Regeneration:",
+            "desc": "The dragon regains 10 <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> at the start of its turn. If the dragon takes Cold damage, this trait doesn't function at the start of the dragon's next turn. The dragon dies only if it starts its turn with 0 <STATBLOCK-WIKI-LINK>Hit Point|Hit Points<STATBLOCK-WIKI-LINK> and doesn't regenerate."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The dragon can use its Fungal Presence. It then makes three attacks: one with its bite and two with its stomp."
+          },
+          {
+            "name": "Bite:",
+            "desc": "*Melee Attack Roll:*  +13 to hit, reach 10 ft., one target. *Hit:* 18 (2d10 + 7) Piercing damage and the target must succeed on a DC 21 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or gain one level of <STATBLOCK-WIKI-LINK>Corruption (FGFD)|Corruption<STATBLOCK-WIKI-LINK>. Floral dragons have <STATBLOCK-WIKI-LINK>Disadvantage<STATBLOCK-WIKI-LINK> on the save."
+          },
+          {
+            "name": "Stomp:",
+            "desc": "*Melee Attack Roll:*  +13 to hit, reach 5 ft., one target. *Hit:* 14 (2d6 + 7) Bludgeoning damage."
+          },
+          {
+            "name": "Tail:",
+            "desc": "*Melee Attack Roll:*  +13 to hit, reach 15 ft., one target. *Hit:* 16 (2d8 + 7) Bludgeoning damage."
+          },
+          {
+            "name": "Grasping Vines (Recharge 5–6):",
+            "desc": "*Dexterity <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 21 Each creature of the dragon's choice within 90 feet. *Failure:* 18 (4d8) Piercing damage and the target has the <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK> conditions (escape DC 19). While <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK>, a target takes 18 (4d8) Piercing damage at the start of each of its turns. *Success:* Half damage only."
+          },
+          {
+            "name": "Fungal Presence:",
+            "desc": "*Dexterity <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 19 All creatures in a 60-foot <STATBLOCK-WIKI-LINK>Cone<STATBLOCK-WIKI-LINK>. *Failure:* 16 (3d10) Poison and 16 (3d10) Necrotic damage and gains a level of <STATBLOCK-WIKI-LINK>Corruption (FGFD)|Corruption<STATBLOCK-WIKI-LINK>. *Success:* Half damage only. If a target's <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> is successful, the target is immune to this dragon's Fungal Floral Presence for the next 24 hours."
+          }
+        ],
+        "info": "When floral dragons and other creatures are infected by the pleurossa, they gain levels of <STATBLOCK-WIKI-LINK>Corruption (FGFD)|Corruption<STATBLOCK-WIKI-LINK>, as detailed in the Corruption Effects table. Floral dragons have <STATBLOCK-WIKI-LINK>Disadvantage<STATBLOCK-WIKI-LINK> on all <STATBLOCK-WIKI-LINK>saving throws<STATBLOCK-WIKI-LINK> made to resist <STATBLOCK-WIKI-LINK>Corruption (FGFD)|Corruption<STATBLOCK-WIKI-LINK>. The infection slowly takes away their sense of self as they become one with the pleurossa.",
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
