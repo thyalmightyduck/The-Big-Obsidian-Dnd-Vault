@@ -1,3 +1,4 @@
+# The Griffon’s Saddlebag, Book 1 2024 (TGS124):
 #### Memento of the Shapeless Cavalry Hammer
 
 Weapon (*Cavalry Hammer*), Legendary (Requires Attunement), Advanced Weapon, Melee Weapon, 3 lb.
