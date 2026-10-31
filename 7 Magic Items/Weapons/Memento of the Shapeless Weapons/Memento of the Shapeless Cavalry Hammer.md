@@ -1,7 +1,17 @@
+---
+tags:
+  - MagicItem
+  - Weapon
+  - Legendary
+  - AdvancedWeapon
+  - MasterySlow
+  - ArmorPiercing
+  - Momentum
+picture:
+---
 # The Griffon’s Saddlebag, Book 1 2024 (TGS124):
 #### Memento of the Shapeless Cavalry Hammer
-
-Weapon (*Cavalry Hammer*), Legendary (Requires Attunement), Advanced Weapon, Melee Weapon, 3 lb.
+***Weapon (Cavalry Hammer), Legendary (Requires Attunement), Advanced Weapon, Melee Weapon, 3 lb.***
 
 1d8 Bludgeoning
 
@@ -26,3 +36,4 @@ When you hit a creature with this weapon, you can attempt to grapple the target 
 ***Momentum.*** Momentum weapons allow you to deliver devastating attacks as part of rapid movement. When you hit with a Momentum weapon after you moved 20 feet or more in a straight line during the same turn, upgrade the damage dice to the weapon's Momentum Dice value.
 
 ***Mastery: Slow.*** If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
+
