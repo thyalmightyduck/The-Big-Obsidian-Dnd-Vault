@@ -8,6 +8,7 @@ tags:
 Progress:
   - Game Ready
 Rarity: Legendary
+picture: Memento of the Shapeless BGR PNG.png
 ---
 # The Griffon’s Saddlebag, Book 1 2024 (TGS124)
 #### Memento of the Shapeless
