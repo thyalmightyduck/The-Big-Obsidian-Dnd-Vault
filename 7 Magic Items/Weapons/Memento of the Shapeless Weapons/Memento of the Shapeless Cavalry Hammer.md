@@ -9,6 +9,8 @@ tags:
   - Momentum
 picture: Memento of the Shapeless BGR PNG.png
 Rarity: Legendary
+Progress:
+  - Game Ready
 ---
 # The Griffon’s Saddlebag, Book 1 2024 (TGS124):
 #### Memento of the Shapeless Cavalry Hammer
