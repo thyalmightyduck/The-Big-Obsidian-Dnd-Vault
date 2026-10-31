@@ -5,7 +5,7 @@
 
 /* ── Card container ── */
 .wc-card {
-    min-width: 500px;
+    min-width: 600px;
     margin: var(--size-4-6) auto;
     background: var(--background-secondary);
     border: 1px solid var(--background-modifier-border);
