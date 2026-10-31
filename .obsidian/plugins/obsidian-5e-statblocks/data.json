@@ -5401,6 +5401,63 @@
         "info": "_The great cat pads along noiselessly, while tendrils of smoke drift off its sleek, gray coat, leaving misty whorls in its wake. Its lips curl up into a fang-revealing smile as its body fades into fog._<P>Split the Herd. Vapor lynxes are capricious hunters. Devious, manipulative, and mischievous, they toy with their prey before killing it. They rarely enjoy a stand-up fight, instead coalescing in and out of the fog to harass victims and cut large groups into smaller, more manageable morsels.",
         "source": "Homebrew"
       }
+    ],
+    [
+      "Ice Troll (RoT)",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Ice Troll (RoT) BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Ice Troll (RoT)",
+        "size": "Large",
+        "type": "Giant",
+        "alignment": "Chaotic Evil",
+        "ac": "15 (natural armor)",
+        "hp": 84,
+        "hit_dice": "8d10 + 40",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          13,
+          20,
+          7,
+          9,
+          7
+        ],
+        "skillsaves": [
+          {
+            "Perception": 2
+          }
+        ],
+        "damage_resistances": "Cold",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 12, Passive Insight 9, Passive Stealth 11",
+        "languages": "Giant",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Keen Smell:",
+            "desc": "The troll has <STATBLOCK-WIKI-LINK>advantage<STATBLOCK-WIKI-LINK> on Wisdom (<STATBLOCK-WIKI-LINK>Perception<STATBLOCK-WIKI-LINK>) checks that rely on smell."
+          },
+          {
+            "name": "Regeneration:",
+            "desc": "The troll regains 10 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> and doesn't regenerate."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The troll makes three attacks: one with its bite and two with its claws."
+          },
+          {
+            "name": "Bite:",
+            "desc": "*Melee Weapon Attack:*  +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage."
+          },
+          {
+            "name": "Claw:",
+            "desc": "*Melee Weapon Attack:*  +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
