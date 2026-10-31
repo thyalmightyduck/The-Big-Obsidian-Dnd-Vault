@@ -5,7 +5,8 @@ tags:
   - MeleeWeapon
   - Rare
   - Attunement
-Progress: In Progress
+Progress:
+  - Game Ready
 picture: Haemstrike BGR PNG.png
 Rarity: Rare
 ---
