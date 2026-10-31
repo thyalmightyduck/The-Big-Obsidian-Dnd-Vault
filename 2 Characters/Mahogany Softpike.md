@@ -237,7 +237,7 @@ Your bond with the weapon ends if you use this feature's [[Bonus Action]] agai
 | [[Travelers Clothes]]                            | 1   |        |          |        |             |     |
 | Magic Hats                                        | 2   |        |          |        |             |     |
 | [[Potion Of Fire Breath]]                         | 4   |        |          |        |             |     |
-| 8th Level [[Spell Scroll]] Of [[Antimagic Field]] | 1   |        |          |        |             |     |
+| 8th Level [[7 Magic Items/Scrolls 1/Spell Scroll]] Of [[Antimagic Field]] | 1   |        |          |        |             |     |
 | [[Cap Of Water Breathing]]                        | 1   |        |          |        |             |     |
 | [[Potion Of Stone Giant Strength]]                | 1   |        |          |        | +6 STR      |     |
 | [[Sentinel Shield]]                               | 1   |        |          |        |             |     |

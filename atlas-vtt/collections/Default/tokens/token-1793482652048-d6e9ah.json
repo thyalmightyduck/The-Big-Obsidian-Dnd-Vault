@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Gnoll Vampire",
+    "imagePath": "atlas-vtt/assets/Gnoll_Vampire_1793482652017_6x9z5m.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Undead/Gnoll Vampire.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Gnoll_Vampire_1793482652017_6x9z5m-a1dd7c36.webp",
+    "id": "token-1793482652048-d6e9ah",
+    "createdAt": 1793482652048,
+    "modifiedAt": 1793482652048
+  }
+}

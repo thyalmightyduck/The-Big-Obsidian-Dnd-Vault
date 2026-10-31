@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Elemental
-  - IDROTF
+  - IDRotF
 Progress: In Progress
 ---
 # Auril Second Form

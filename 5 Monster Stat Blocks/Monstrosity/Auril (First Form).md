@@ -2,7 +2,7 @@
 tags:
   - Monster
   - Monstrosity
-  - IDROTF
+  - IDRotF
 Progress: In Progress
 ---
 # Auril (First Form)

@@ -5458,6 +5458,92 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Gnoll Vampire",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Gnoll Vampire BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Gnoll Vampire",
+        "size": "Medium",
+        "type": "Undead",
+        "subtype": "(Shapechanger)",
+        "alignment": "Chaotic Evil",
+        "ac": "17 (natural armor)",
+        "hp": 93,
+        "hit_dice": "11d8 + 44",
+        "speed": "30 ft.",
+        "stats": [
+          20,
+          18,
+          18,
+          6,
+          12,
+          9
+        ],
+        "saves": [
+          {
+            "Dex": 7
+          },
+          {
+            "Con": 7
+          }
+        ],
+        "damage_resistances": "Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 11, Passive Insight 11, Passive Stealth 14",
+        "languages": "Abyssal, Gnoll",
+        "cr": 8,
+        "traits": [
+          {
+            "name": "Shapechanger:",
+            "desc": "If the vampire isn't in sunlight, it can use its <STATBLOCK-WIKI-LINK>action<STATBLOCK-WIKI-LINK> to polymorph into a Large hyena or a Medium cloud of mist, or back into its true form.<P>While in hyena form, the vampire can't speak, and its walking <STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK> is 50 feet. Its statistics, other than its size and <STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK>, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.<P>While in mist form, the vampire can't take any <STATBLOCK-WIKI-LINK>Action|actions<STATBLOCK-WIKI-LINK>, speak, or manipulate objects. it is weightless, has a flying speed of 20 feet, can hover, and can enter a <STATBLOCK-WIKI-LINK>hostile<STATBLOCK-WIKI-LINK> creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has <STATBLOCK-WIKI-LINK>advantage<STATBLOCK-WIKI-LINK> on Strength, Dexterity, and Constitution <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK>, and it is immune to all nonmagical damage, except the damage it takes from sunlight."
+          },
+          {
+            "name": "Keen Smell:",
+            "desc": "The vampire has <STATBLOCK-WIKI-LINK>advantage<STATBLOCK-WIKI-LINK> on Wisdom (<STATBLOCK-WIKI-LINK>Perception<STATBLOCK-WIKI-LINK>) checks that rely on smell."
+          },
+          {
+            "name": "Rampage:",
+            "desc": "When it reduces a creature to 0 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> with a melee attack on its turn, the vampire can take a <STATBLOCK-WIKI-LINK>bonus action<STATBLOCK-WIKI-LINK> to move up to half its <STATBLOCK-WIKI-LINK>speed<STATBLOCK-WIKI-LINK> and make a bite attack."
+          },
+          {
+            "name": "Regeneration:",
+            "desc": "The vampire regains 10 <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> at the start of its turn if it has at least 1 <STATBLOCK-WIKI-LINK>hit point<STATBLOCK-WIKI-LINK> and isn't in sunlight or running water. If the vampire takes radiant damage or damage from *<STATBLOCK-WIKI-LINK>holy water<STATBLOCK-WIKI-LINK>*, this trait doesn't function at the start of the vampire's next turn."
+          },
+          {
+            "name": "Unusual Nature:",
+            "desc": "The vampire doesn't require air."
+          },
+          {
+            "name": "Vampire Weaknesses:",
+            "desc": "The vampire has the following flaws:<P>- *Enraged by Celestial* If it hears words of Celestial spoken, the vampire must try to attack the source of those spoken words on its next turn. If these words come from multiple sources and from opposite directions, the vampire is <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>. Otherwise, it moves to attack what it perceives to be the closest source.<P>- *Repulsed by Perfume* The vampire has <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on melee <STATBLOCK-WIKI-LINK>attack rolls<STATBLOCK-WIKI-LINK> made against any creature wearing perfume or carrying an open container of it.<P>- *Stake to the Heart* If a piercing weapon made of wood is driven into the vampire's heart while the vampire is <STATBLOCK-WIKI-LINK>incapacitated<STATBLOCK-WIKI-LINK> in its resting place, the vampire is <STATBLOCK-WIKI-LINK>paralyzed<STATBLOCK-WIKI-LINK> until the stake is removed.<P>- *Sunlight Hypersensitivity* The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on <STATBLOCK-WIKI-LINK>attack rolls<STATBLOCK-WIKI-LINK> and ability checks."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack (Vampire Form Only):",
+            "desc": "The vampire makes two attacks: one with its bite and one with its claws."
+          },
+          {
+            "name": "Bite (Hyena or Vampire Form Only):",
+            "desc": "*Melee Weapon Attack:*  +8 to hit, reach 5 ft., one creature. *Hit:* 12 (2d6 + 5) piercing damage plus 9 (2d8) necrotic damage. The target's <STATBLOCK-WIKI-LINK>hit point<STATBLOCK-WIKI-LINK> maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains <STATBLOCK-WIKI-LINK>Hit Point|hit points<STATBLOCK-WIKI-LINK> equal to that amount. The reduction lasts until the target finishes a <STATBLOCK-WIKI-LINK>long rest<STATBLOCK-WIKI-LINK>. the target dies if its <STATBLOCK-WIKI-LINK>hit point<STATBLOCK-WIKI-LINK> maximum is reduced to 0."
+          },
+          {
+            "name": "Claws (Vampire Form Only):",
+            "desc": "*Melee Weapon Attack:*  +8 to hit, reach 5 ft., one target. *Hit:* 10 (2d4 + 5) slashing damage."
+          },
+          {
+            "name": "Frightful Cackle (Hyena or Vampire Form Only):",
+            "desc": "The vampire emits a bone-chilling cackle. Each creature of the vampire's choice that is within 120 feet of the vampire and can hear its cackle must succeed on a DC 15 Wisdom <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> or become <STATBLOCK-WIKI-LINK>frightened<STATBLOCK-WIKI-LINK> for 1 minute. A creature can repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> at the end of each of its turns, ending the effect on itself on a success. If a creature's <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> is successful or the effect ends for it, the creature is immune to the vampire's Frightful Cackle for the next 24 hours."
+          },
+          {
+            "name": "Sickening Gaze (Hyena or Vampire Form Only):",
+            "desc": "The vampire targets one <STATBLOCK-WIKI-LINK>humanoid<STATBLOCK-WIKI-LINK> it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 15 Constitution <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> against this magic or be <STATBLOCK-WIKI-LINK>poisoned<STATBLOCK-WIKI-LINK> for 24 hours. A creature whose <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK> is successful is immune to this vampire's Sickening Gaze for 24 hours."
+          }
+        ],
+        "info": "A gnoll vampire is a savage predator that feeds on the blood of the living. It cackles maniacally when it catches the scent of its prey and quickly moves in for the kill, tearing away flesh with its claws, gorging on meat and blood, and leaving nothing behind but bones, gristle, and the victim's blood-spattered belongings.",
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
