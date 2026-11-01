@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Mage",
+    "imagePath": "atlas-vtt/assets/Mage_1793562348894_q55q3n.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Mage.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Mage_1793562348894_q55q3n-159a456e.webp",
+    "id": "token-1793562348958-j7bgun",
+    "createdAt": 1793562348958,
+    "modifiedAt": 1793562348958
+  }
+}
