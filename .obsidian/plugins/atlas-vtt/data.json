@@ -21,6 +21,7 @@
     "size": 16
   },
   "diceDisplay": "full",
+  "diceVolume": 1,
   "detectGridOnNewScenes": true,
   "diceColour": "light",
   "diceFont": "medieval",
