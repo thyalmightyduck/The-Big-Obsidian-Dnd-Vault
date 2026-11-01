@@ -21,7 +21,6 @@
     "size": 16
   },
   "diceDisplay": "full",
-  "diceVolume": 1,
   "detectGridOnNewScenes": true,
   "diceColour": "light",
   "diceFont": "medieval",
@@ -68,6 +67,7 @@
     "showTokenStress": false,
     "tokenBarsCarriedOver": true
   },
+  "diceVolume": 1,
   "statblockPane": {
     "hintDismissed": false
   }
