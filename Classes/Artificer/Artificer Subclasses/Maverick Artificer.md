@@ -243,7 +243,7 @@ You learn one cantrip of your choice from the Artificer, Cleric, or Wizard spell
 In addition, any time you prepare Artificer spells, you can prepare an additional number of spells equal to your [[Proficiency Bonus]]. These additional spells can be chosen from the Artificer, Cleric, and Wizard spells lists, and the chosen spells count as Artificer spells for you.
 
 ### Level 3: Arcane Prototype
-You're always working on new projects, crafting Arcane Prototypes. You determine a prototype's appearance, but its functionality is always similar to that of a [[Spell Scroll]]—it holds the effect of a spell that can be unleashed at a later time. Only you can use a prototype to cast a spell; they're experimental creations that no one else can truly understand.
+You're always working on new projects, crafting Arcane Prototypes. You determine a prototype's appearance, but its functionality is always similar to that of a [[7 Magic Items/Scrolls 1/Spell Scroll]]—it holds the effect of a spell that can be unleashed at a later time. Only you can use a prototype to cast a spell; they're experimental creations that no one else can truly understand.
 
 Your ability to constantly come up with new ideas is represented by Arcane Charges. You have 1 Arcane Charge, and you gain more as you reach higher levels, as shown in the Arcane Charges level of the Arcane Prototypes table. You can't have more Arcane Charges than the number shown in the table for your level. You regain all expended Arcane Charges when you finish a [[Long Rest]].
 

@@ -18,4 +18,4 @@ The mushroom dragon and the pleurossa network can infect creatures with corrupti
 
 ***Temporary Immunity.*** Once a creature has removed all levels of corruption, it is immune to corruption for the next 24 hours.
 
-**Cannot render "statblock"—entity was not preloaded (Corruption Effects)!**
+![[Corruption Effects]]

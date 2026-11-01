@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Corrupted Wisteria Dragon",
+    "imagePath": "atlas-vtt/assets/Corrupted_Wisteria_Dragon_1793391834610_k6fus5.png",
+    "size": 2,
+    "statblockPath": "5 Monster Stat Blocks/Dragon/Corrupted Wisteria Dragon.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Corrupted_Wisteria_Dragon_1793391834610_k6fus5-740e3d6d.webp",
+    "id": "token-1793391834747-isnwv5",
+    "createdAt": 1793391834747,
+    "modifiedAt": 1793391834747
+  }
+}

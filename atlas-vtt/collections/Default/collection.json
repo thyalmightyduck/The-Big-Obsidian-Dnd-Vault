@@ -405,8 +405,38 @@
       },
       "firstSide": "players",
       "rollHitPoints": true
-    }
+    },
+    "itemRarities": [
+      {
+        "name": "Mundane",
+        "tone": null
+      },
+      {
+        "name": "Common",
+        "tone": "common"
+      },
+      {
+        "name": "Uncommon",
+        "tone": "uncommon"
+      },
+      {
+        "name": "Rare",
+        "tone": "rare"
+      },
+      {
+        "name": "Very rare",
+        "tone": "epic"
+      },
+      {
+        "name": "Legendary",
+        "tone": "legendary"
+      },
+      {
+        "name": "Artifact",
+        "tone": "legendary"
+      }
+    ]
   },
   "createdAt": 1790659852594,
-  "modifiedAt": 1793219431486
+  "modifiedAt": 1793332470790
 }

@@ -238,7 +238,7 @@ You gain the following benefits.
 
 Tool [[Proficiency]]. You gain [[proficiency]] with [[Calligrapher's Supplies]] and [[Cartographer's Tools]]. If you already have one of these proficiencies, you gain [[proficiency]] with one other type of [[Artisans Tools]] of your choice (or with two other types if you have both).
 
-Scroll Crafting. When you scribe a [[Spell Scroll]] using the crafting rules in the Player's Handbook, the amount of time required to craft it is halved.
+Scroll Crafting. When you scribe a [[7 Magic Items/Scrolls 1/Spell Scroll]] using the crafting rules in the Player's Handbook, the amount of time required to craft it is halved.
 
 ### Level 3: Cartographer Spells
 When you reach an Artificer level specified in the Cartographer Spells table, you thereafter always have the listed spells prepared.

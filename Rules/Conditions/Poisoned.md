@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Poisoned Condition
+  - Poisoned condition
 ---
 While you have the Poisoned condition, you experience the following effect.
 

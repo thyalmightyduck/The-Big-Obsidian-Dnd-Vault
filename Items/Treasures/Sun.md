@@ -1,3 +1,6 @@
+---
+Rarity: Rare
+---
 #### Sun
 
 Treasure (Coinage), 10 GP

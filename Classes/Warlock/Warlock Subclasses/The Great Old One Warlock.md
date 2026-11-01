@@ -1,9 +1,14 @@
 ---
 tags:
   - classes
+  - warlock
+  - subclass
+  - PHB14
+Progress:
+  - Book Ready
 ---
 # The Great Old One Warlock
-# Player’s Handbook (2014):
+# Player’s Handbook 2014 (PHB14):
 
 | Level | [[Proficiency Bonus]] | Features                                                                    | Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 | ----- | ----------------- | --------------------------------------------------------------------------- | ----------- | -------- | --------------- | ----------- | ---------- |
@@ -31,7 +36,7 @@ tags:
 ##### Core Traits
 **Primary Ability:** Charisma
 
-**Hit Point Die:** D8 per Warlock level
+**[[Hit Point Dice|Hit Point Die]]:** D8 per Warlock level
 **[[Hit Point]] at Level 1:** 8 + Con. modifier
 **[[Hit Point]] per additional Warlock Level:** D8 + your Con. modifier, or, 5 + your Con. modifier
 
@@ -87,10 +92,10 @@ Spellcasting Ability. Charisma is the spellcasting ability for your Warlock spe
 [[(Eldritch Invocation)]] options appear in alphabetical order.
 
 ### The Great Old One
-Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it. Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.
+Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely [[indifferent]] to you, but the secrets you have learned allow you to draw your magic from it. Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; [[Great Cthulhu]]; and other unfathomable beings.
 
 ### Expanded Spell List
-The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the [[warlock spell list]] for you.
 
 **Great Old One Expanded Spells:**
 
@@ -128,9 +133,9 @@ If this change makes you ineligible for any of your Eldritch Invocations, you mu
 You gain a feature from your Warlock subclass.
 
 ### Level 6: Entropic Ward
-At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.
+At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an [[Attack Rolls|attack roll]] against you, you can use your [[reaction]] to impose [[disadvantage]] on that roll. If the attack misses you, your next [[Attack Rolls|attack roll]] against the creature has [[advantage]] if you make it before the end of your next turn.
 
-Once you use this feature, you can't use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[long rest]].
 
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
@@ -144,7 +149,7 @@ Once you cast the spell with this feature, you can't do so in this way again unt
 You gain a feature from your Warlock subclass.
 
 ### Level 10: Thought Shield
-Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have [[resistance]] to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
 
 ## Level 11: Mystic Arcanum
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
@@ -165,7 +170,7 @@ You gain a level 7 Warlock Spell of your choice.
 You gain a feature from your Warlock subclass.
 
 ### Level 14: Create Thrall
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[incapacitated]] humanoid. That creature is then [[charmed]] by you until a [[Remove Curse]] spell is cast on it, the [[charmed]] condition is removed from it, or you use this feature again.
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your [[action]] to touch an [[incapacitated]] humanoid. That creature is then [[charmed]] by you until a [[Remove Curse]] spell is cast on it, the [[charmed]] condition is removed from it, or you use this feature again.
 
 You can communicate telepathically with the [[charmed]] creature as long as the two of you are on the same plane of existence.
 

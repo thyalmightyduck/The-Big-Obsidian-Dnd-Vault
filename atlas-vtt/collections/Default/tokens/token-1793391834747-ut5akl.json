@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Cultist Fanatic",
+    "imagePath": "atlas-vtt/assets/Cultist_Fanatic_1793391834678_vbt9bo.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Cultist Fanatic.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Cultist_Fanatic_1793391834678_vbt9bo-31f819b6.webp",
+    "id": "token-1793391834747-ut5akl",
+    "createdAt": 1793391834747,
+    "modifiedAt": 1793391834747
+  }
+}

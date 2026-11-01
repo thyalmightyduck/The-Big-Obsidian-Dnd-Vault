@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Vapor Lynx",
+    "imagePath": "atlas-vtt/assets/Vapor_Lynx_1793474564827_x8m0cn.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Monstrosity/Vapor Lynx.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Vapor_Lynx_1793474564827_x8m0cn-ae49b717.webp",
+    "id": "token-1793474564859-4cj08m",
+    "createdAt": 1793474564859,
+    "modifiedAt": 1793474564859
+  }
+}

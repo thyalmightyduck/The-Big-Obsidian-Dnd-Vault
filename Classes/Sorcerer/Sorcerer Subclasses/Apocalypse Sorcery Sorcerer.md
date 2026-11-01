@@ -167,9 +167,9 @@ When you reach a sorcerer level specified in the Apocalyptic Spells table, you t
 | 7              | [[Banishment]], [[Divination]]                                                                                               |
 | 9              | [[Contagion]], [[Insect Plague]] |
 ### Level 3: Unhinged Asservations
-You are obsessed with documenting your visions. You gain proficiency with [[Calligraphers Supplies]] and you can create [[Spell Scroll]]s in half the time and at half the cost in GP.
+You are obsessed with documenting your visions. You gain proficiency with [[Calligraphers Supplies]] and you can create [[7 Magic Items/Scrolls 1/Spell Scroll]]s in half the time and at half the cost in GP.
 
-In addition, when you create a [[Spell Scroll]], you can ensorcell it. When you ensorcell a [[Spell Scroll]], you must expend a spell slot equal to or greater than the spell's level and you can spend Sorcery Points to apply one of your Metamagic options. Any creature that knows at least one language can use your ensorcelled [[Spell Scroll]], which casts the spell with the benefit of the Metamagic option you chose. The [[Spell Scroll]] remains ensorcelled until it is used or you finish a [[Long Rest]].
+In addition, when you create a [[7 Magic Items/Scrolls 1/Spell Scroll]], you can ensorcell it. When you ensorcell a [[7 Magic Items/Scrolls 1/Spell Scroll]], you must expend a spell slot equal to or greater than the spell's level and you can spend Sorcery Points to apply one of your Metamagic options. Any creature that knows at least one language can use your ensorcelled [[7 Magic Items/Scrolls 1/Spell Scroll]], which casts the spell with the benefit of the Metamagic option you chose. The [[7 Magic Items/Scrolls 1/Spell Scroll]] remains ensorcelled until it is used or you finish a [[Long Rest]].
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
@@ -185,12 +185,12 @@ You have prepared your entire life for the end of the world. While your Innate S
 
 **Apocalyptic Inurement:** You have [[Resistance]] to Force damage.
 
-**Recite Scripture:** Once per active Innate Sorcery, as a [[Bonus Action]] you can use a [[Spell Scroll]] that has a spell with a casting time of Action.
+**Recite Scripture:** Once per active Innate Sorcery, as a [[Bonus Action]] you can use a [[7 Magic Items/Scrolls 1/Spell Scroll]] that has a spell with a casting time of Action.
 
 **Unflappable:** You have [[Immunity]] to the [[Frightened]] condition.
 
 ### Level 6: Arcane Apocrypha
-Your obsessive reflections on the end of existence inspire your writing. Whenever you finish a [[Long Rest]], you can create one [[Spell Scroll]] at no cost. It must be a spell of level 5 or lower that you can cast. This [[Spell Scroll]] disintegrates when you finish a [[Long Rest]].
+Your obsessive reflections on the end of existence inspire your writing. Whenever you finish a [[Long Rest]], you can create one [[7 Magic Items/Scrolls 1/Spell Scroll]] at no cost. It must be a spell of level 5 or lower that you can cast. This [[7 Magic Items/Scrolls 1/Spell Scroll]] disintegrates when you finish a [[Long Rest]].
 
 ## Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.

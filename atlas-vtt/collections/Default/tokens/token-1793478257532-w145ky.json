@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ice Troll (RoT)",
+    "imagePath": "atlas-vtt/assets/Ice_Troll__RoT__1793478257498_1xurkf.webp",
+    "size": 1.5,
+    "statblockPath": "5 Monster Stat Blocks/Giant/Ice Troll (RoT).md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ice_Troll__RoT__1793478257498_1xurkf-5cff0d54.webp",
+    "id": "token-1793478257532-w145ky",
+    "createdAt": 1793478257532,
+    "modifiedAt": 1793478257532
+  }
+}
