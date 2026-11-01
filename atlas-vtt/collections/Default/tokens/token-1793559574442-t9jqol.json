@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Broodling",
+    "imagePath": "atlas-vtt/assets/Broodling_1793559574405_vc008q.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Broodling.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Broodling_1793559574405_vc008q-74643982.webp",
+    "id": "token-1793559574442-t9jqol",
+    "createdAt": 1793559574442,
+    "modifiedAt": 1793559574442
+  }
+}
