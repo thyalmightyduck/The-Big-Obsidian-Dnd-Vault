@@ -21,6 +21,7 @@
     "size": 16
   },
   "diceDisplay": "full",
+  "diceVolume": 1,
   "detectGridOnNewScenes": true,
   "diceColour": "light",
   "diceFont": "medieval",
@@ -47,8 +48,14 @@
       "secrets": true,
       "monochrome": false
     },
-    "theme": "any",
-    "tags": [],
+    "theme": "forest",
+    "tags": [
+      "large",
+      "flooded",
+      "overgrown",
+      "crumbling",
+      "inhabited"
+    ],
     "floors": 1,
     "bossRoom": true,
     "fiveRoom": false
@@ -67,7 +74,9 @@
     "showTokenStress": false,
     "tokenBarsCarriedOver": true
   },
-  "diceVolume": 1,
+  "tableTv": {
+    "viewGlideMs": 800
+  },
   "statblockPane": {
     "hintDismissed": false
   }
