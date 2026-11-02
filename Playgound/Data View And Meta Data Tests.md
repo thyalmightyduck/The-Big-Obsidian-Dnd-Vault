@@ -10,7 +10,7 @@ componenets:
   - "-"
 exampleProperty: []
 progress_value: 0
-Name: Name
+CharacterName: Name
 ---
 School: `INPUT[inlineSelect(defaultValue(School Of Magic), option(Abjuration), option(Biomancy), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Psionic), option(Transmutation), option(null,School Of Magic)):school]`
 
@@ -43,7 +43,7 @@ INPUT[multiSelect(option(-), option(Vocal), option(Semantic), option(Material), 
 `= this.species_select`
 
 ```meta-bind
-INPUT[text(defaultValue(Name Here)):Name]
+INPUT[text(defaultValue(Name Here)):CharacterName]
 ```
 
 ```meta-bind-button
@@ -60,7 +60,7 @@ actions:
   - type: templaterCreateNote
     templateFile: Templates/Template Test.md
     folderPath: /
-    fileName: Character Maker Test
+    fileName: "= this.CharacterName"
     openNote: true
     openIfAlreadyExists: false
 
