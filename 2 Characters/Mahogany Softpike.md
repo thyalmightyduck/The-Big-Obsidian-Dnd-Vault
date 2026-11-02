@@ -320,7 +320,7 @@ bonus_actions:
 - Store House Gives 200 Every 2 Weeks
 
 ### Skeleton Army x20
-- 119/150 HP
+- 91/150 HP
 - 13 ac
 - +5 4d6+3
 - +3 Initiative
