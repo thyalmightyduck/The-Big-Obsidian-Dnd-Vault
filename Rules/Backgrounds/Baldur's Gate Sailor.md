@@ -1,25 +1,25 @@
 ---
 tags:
   - backgrounds
+  - BGDIA
+Progress:
+  - Book Ready
 ---
+# Baldur’s Gate: Descent into Avernus (BGDIA)
 ## Baldur's Gate Sailor
-
-- **Skill Proficiencies:** Athletics, Perception
-- **Tool Proficiencies:** *Navigator's tools*, vehicles (water)
-- **Equipment:** A belaying pin (*club*), *silk rope (50 feet)*, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random *trinket* on the Trinkets table in chapter 5), a set of *common clothes*, and a belt *pouch* containing 10 gp
+- **Skill Proficiencies:** [[Athletics]], [[Perception]]
+- **Tool Proficiencies:** *[[Navigator's tools]]*, vehicles (water)
+- **Equipment:** A belaying pin (*[[club]]*), *[[silk rope (50 feet)]]*, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random *[[Items/Adventuring Gear/Trinket|trinket]]* on the Trinkets table in chapter 5), a set of *[[common clothes]]*, and a belt *[[pouch]]* containing 10 gp
 
 #### Feature: Ship's Passage
-
 When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.
 
 #### Baldur's Gate Feature: Smuggler's Sense
-
 *The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.*
 
 You're familiar with the docks of Baldur's Gate, the movement of inspectors and tax collectors, the way cargo and coin flows. As a result, it's easy for you to hustle a load of cargo ashore or see such a cargo onto a cooperative ship without attracting suspicion or taxation. You also know the movements of the Gray Wavers—the Flaming Fist harbor guards—and have a sense of how to operate the city's mechanized cranes.
 
 #### Suggested Characteristics
-
 Sailors can be a rough lot, but the responsibilities of life on a ship make them generally reliable as well. Life aboard a ship shapes their outlook and forms their most important attachments.
 
 |  d8 | Personality Trait                                                           |
@@ -59,3 +59,5 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 |  4  | Once I start drinking, it's hard for me to stop.                                            |
 |  5  | I can't help but pocket loose coins and other trinkets I come across.                       |
 |  6  | My pride will probably lead to my destruction.                                              |
+### Info
+Baldur's Gate was founded by sailors, and its harbor is still the city's beating heart. Several patriars are descended from captains of yore, the commerce of the Lower City is built on the port, and even the Outer City's rhythms are dominated by the ebb and flow of river trade. Because sailors are as fundamental and ubiquitous to Baldur's Gate as the cobbles on its streets, characters with this background are common.
