@@ -35,7 +35,7 @@ actions:
   - type: templaterCreateNote
     templateFile: Templates/Template Test.md
     folderPath: /
-    fileName: "= this.CharacterName"
+    fileName: New Character
     openNote: true
     openIfAlreadyExists: false
 
