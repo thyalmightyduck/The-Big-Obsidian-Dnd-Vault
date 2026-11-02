@@ -5,6 +5,8 @@ tags:
   - Level2
   - concentration
   - GHLoE
+Progress:
+  - Book Ready
 ---
 ## Grim Hallow: Lairs of Etharis (GHLoE)
 #### Wrack
