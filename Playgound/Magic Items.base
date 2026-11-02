@@ -4,4 +4,9 @@ views:
     filters:
       and:
         - file.path.startsWith("7 Magic Items")
+    groupBy:
+      property: Progress
+      direction: ASC
+    order:
+      - file.name
     image: note.picture
