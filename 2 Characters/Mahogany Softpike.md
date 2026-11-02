@@ -222,46 +222,46 @@ Your bond with the weapon ends if you use this feature's [[Bonus Action]] agai
 
 # Inventory
 
-| Name                                                                      | QTY | Weight | Cost     | Active | Notes       |     |
-| ------------------------------------------------------------------------- | --- | ------ | -------- | ------ | ----------- | --- |
-| [[Leather Armor]]                                                         | 1   |        |          | Yes    |             |     |
-| [[Sickle]]                                                                | 1   |        |          | Yes    | _Pact_      |     |
-| [[Dagger]]                                                                | 2   |        |          | Yes    |             |     |
-| [[Orb]]                                                                   | 1   |        |          |        |             |     |
-| [[Book]]                                                                  | 1   |        |          |        |             |     |
-| [[Scholar’s Pack]]                                                        | 1   |        |          |        |             |     |
-| [[Thieves Tools]]                                                         | 1   |        |          |        |             |     |
-| [[Crowbar]]                                                               | 1   |        |          |        |             |     |
-| [[Pouch]]es                                                               | 2   |        |          |        |             |     |
-| [[Travelers Clothes]]                                                     | 1   |        |          |        |             |     |
-| Magic Hats                                                                | 2   |        |          |        |             |     |
-| [[Potion Of Fire Breath]]                                                 | 4   |        |          |        |             |     |
-| 8th Level [[7 Magic Items/Scrolls 1/Spell Scroll]] Of [[Antimagic Field]] | 1   |        |          |        |             |     |
-| [[Cap Of Water Breathing]]                                                | 1   |        |          |        |             |     |
-| [[Potion Of Stone Giant Strength]]                                        | 1   |        |          |        | +6 STR      |     |
-| [[Sentinel Shield]]                                                       | 1   |        |          |        |             |     |
-| [[Pipes Of The Sewers]]                                                   | 1   |        |          |        |             |     |
-| Horse Shoes Of A Sephyr                                                   | 1   |        |          |        |             |     |
-| 8 Gems 5,000GP ea                                                         | 1   |        |          |        |             |     |
-| [[Potion of Vitality]]                                                    | 1   |        |          |        |             |     |
-| 8th Level Scroll Of [[Feeble Mind]]                                       | 1   |        |          |        | 4d6 Psychic |     |
-| Container Of [[Oil Of Slipperiness]]                                      | 1   |        |          |        |             |     |
-| Leather Hat                                                               | 1   |        |          |        |             |     |
-| [[Helm Of Comprehend Languages]]                                          | 1   |        |          |        |             |     |
-| [[Potion Of Water Breathing]]                                             | 1   |        |          |        |             |     |
-| [[Rope of Climbing]]                                                      | 1   |        |          |        |             |     |
-| [[Sling]]                                                                 | 1   |        |          |        |             |     |
-| 10 Ft. Wooden Pole                                                        | 1   |        |          |        |             |     |
-| Orc Skull                                                                 | 1   |        |          |        |             |     |
-| Artifacts                                                                 | 5   |        | 25 GP ea |        |             |     |
-| Artifacts                                                                 | 7   |        | 25 GP ea |        |             |     |
-| 8 Gems                                                                    |     |        | 10gp ea  |        |             |     |
-| Poiton Of Flying                                                          |     |        |          |        |             |     |
-| bag of dust of dryness                                                    | 1   |        |          |        |             |     |
-| Bag of Devouring                                                          |     |        |          |        |             |     |
-| supreme potion of healing                                                 | 2   |        |          |        |             |     |
-| potion of longevity                                                       | 1   |        |          |        |             |     |
-| scroll of symbol                                                          |     |        |          |        |             |     |
+| Name                                              | QTY | Weight | Cost     | Active | Notes       |     |
+| ------------------------------------------------- | --- | ------ | -------- | ------ | ----------- | --- |
+| [[Leather Armor]]                                 | 1   |        |          | Yes    |             |     |
+| [[Sickle]]                                        | 1   |        |          | Yes    | _Pact_      |     |
+| [[Dagger]]                                        | 2   |        |          | Yes    |             |     |
+| [[Orb]]                                           | 1   |        |          |        |             |     |
+| [[Book]]                                          | 1   |        |          |        |             |     |
+| [[Scholar's Pack]]                                | 1   |        |          |        |             |     |
+| [[Thieves' Tools]]                                | 1   |        |          |        |             |     |
+| [[Crowbar]]                                       | 1   |        |          |        |             |     |
+| [[Pouch]]es                                       | 2   |        |          |        |             |     |
+| [[Traveler's Clothes]]                            | 1   |        |          |        |             |     |
+| Magic Hats                                        | 2   |        |          |        |             |     |
+| [[Potion Of Fire Breath]]                         | 4   |        |          |        |             |     |
+| [[Spell Scroll (Level 8)]] Of [[Antimagic Field]] | 1   |        |          |        |             |     |
+| [[Cap Of Water Breathing]]                        | 1   |        |          |        |             |     |
+| [[Potion Of Stone Giant Strength]]                | 1   |        |          |        | +6 STR      |     |
+| [[Sentinel Shield]]                               | 1   |        |          |        |             |     |
+| [[Pipes Of The Sewers]]                           | 1   |        |          |        |             |     |
+| Horse Shoes Of A Sephyr                           | 1   |        |          |        |             |     |
+| 8 Gems 5,000GP ea                                 | 1   |        |          |        |             |     |
+| [[Potion of Vitality]]                            | 1   |        |          |        |             |     |
+| 8th Level Scroll Of [[Feeble Mind]]               | 1   |        |          |        | 4d6 Psychic |     |
+| Container Of [[Oil Of Slipperiness]]              | 1   |        |          |        |             |     |
+| Leather Hat                                       | 1   |        |          |        |             |     |
+| [[Helm Of Comprehend Languages]]                  | 1   |        |          |        |             |     |
+| [[Potion Of Water Breathing]]                     | 1   |        |          |        |             |     |
+| [[Rope of Climbing]]                              | 1   |        |          |        |             |     |
+| [[Sling]]                                         | 1   |        |          |        |             |     |
+| 10 Ft. Wooden Pole                                | 1   |        |          |        |             |     |
+| Orc Skull                                         | 1   |        |          |        |             |     |
+| Artifacts                                         | 5   |        | 25 GP ea |        |             |     |
+| Artifacts                                         | 7   |        | 25 GP ea |        |             |     |
+| 8 Gems                                            |     |        | 10gp ea  |        |             |     |
+| Poiton Of Flying                                  |     |        |          |        |             |     |
+| bag of dust of dryness                            | 1   |        |          |        |             |     |
+| Bag of Devouring                                  |     |        |          |        |             |     |
+| [[Potion Of Supreme Healing]]                     | 1   |        |          |        |             |     |
+| potion of longevity                               | 1   |        |          |        |             |     |
+| scroll of symbol                                  |     |        |          |        |             |     |
 
 
 # Statblock
