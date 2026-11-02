@@ -13,8 +13,9 @@ hit_dice:
   used: 0
   die: d8
 hp:
-  current: 13
+  current: 0
   temp: 0
+  max: 30
 abilities:
   str: 9
   dex: 18
