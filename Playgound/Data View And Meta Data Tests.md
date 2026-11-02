@@ -19,7 +19,7 @@ Casting Time: `INPUT[inlineSelect(option(Action), option(Bonus Action), option(R
 
 Range: `INPUT[inlineSelect(option(Self), option(Touch), option(Sight), option(10 ft.), option(15 ft.), option(20 ft.), option(30 ft.), option(40 ft.), option(50 ft.), option(60 ft.), option(90 ft.), option(100 ft.), option(120 ft.), option(150 ft.), option(180 ft.), option(200 ft.), option(300 ft.), option(500 ft.), option(600 ft.), option(1000 ft.), option(1 Mile), option(5 Miles), option(10 Miles), option(500 Miles), option(unlimited), option(Special)):range]`
 
-Components: , `INPUT[inlineSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]`, `INPUT[inlineSelect(option(-), option(Vocal), option(Semantic), option(Material)):componenets]` `INPUT[text(defaultValue(Material Componenets Here))]`
+Components: , `INPUT[inlineSelect(option(-), option(Vocal), option(Semantic), option(Material), option('Vocal, Semantic'), option('Vocal, Material'), option('Semantic, Material'), option('Vocal, Semantic, Material')):componenets]`,  `INPUT[text(defaultValue(Material Componenets Here))]`
 
 # Durations
 - Instantaneous
