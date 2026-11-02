@@ -25,13 +25,13 @@ Components: , `INPUT[inlineSelect(option(-), option(Vocal), option(Semantic), op
 - Instantaneous
 
 ```meta-bind
-INPUT[suggester(optionQuery("Rules/Species"), useLinks(partial), title(Species)):species_select]
+INPUT[suggester(optionQuery("Species"), useLinks(partial), title(Species)):species_select]
 ```
 ```meta-bind
 INPUT[suggester(optionQuery("Rules/Classes"), useLinks(partial), title(Class)):class_selector]
 ```
 ```meta-bind
-INPUT[listSuggester(optionQuery("Rules/Spells/Cantrips"), useLinks(partial), title(Cantrips)):spell_select_cantrips]
+INPUT[listSuggester(optionQuery("Spells/Cantrips"), useLinks(partial), title(Cantrips)):spell_select_cantrips]
 ```
 
 ```meta-bind
