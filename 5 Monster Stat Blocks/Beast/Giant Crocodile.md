@@ -1,5 +1,6 @@
 ---
-Progress: In Progress
+Progress:
+  - Game Ready
 tags:
   - Monster
   - Beast
@@ -60,33 +61,15 @@ skillsaves:
 senses: [[Passive Perception]] 10, Passive Insight 10, Passive Stealth 15
 languages: —
 cr: 5
-spellsNotes: "Spell Notes Here"
-spells:
-  - "Spell Level Here: Spell Names Here"
-legendary_description: "Legendary Desciption"
 traits:
-  - name: "Trait Name:"
-    desc: "Trait Descreption"  
+  - name: "Hold Breath:"
+    desc: "The crocodile can hold its breath for 1 hour."  
 actions:
-  - name: "Action Name:"
-    desc: "Action Description"   
-bonus_actions:
-  - name: "Bonus Action Name:"
-    desc: "Bonus Action Desc"
-reactions:
-  - name: "Reaction Name:"
-    desc: "Reaction Description"
-legendary_actions:
-  - name: "Legendary Action Name:"
-    desc: "Legendary Action Description"  
-mythic_description: "Mythic Description"
-mythic_actions:
-  - name: "Mythic Action Name:"
-    desc: "Mythic Action Description"
-lair_actions:
-  - name: "Lair Action Name:"
-    desc: "Lair Action Desc"
-regional_effects:
-  - name: "Regional Effect Name:"
-    desc: "Regional Effect Description"
+  - name: "Multiattack:"
+    desc: "The crocodile makes one Bite attack and one Tail attack."
+  - name: "Bite:"
+    desc: "*Melee Attack Roll:*  +8, reach 5 ft. *Hit:* 21 (3d10 + 5) Piercing damage. If the target is a Large or smaller creature, it has the [[Grappled|Grappled condition]] (escape DC 15). While [[Grappled]], the target has the [[Restrained|Restrained condition]] and can't be targeted by the crocodile's Tail."
+  - name: "Tail:"
+    desc: "*Melee Attack Roll:*  +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the [[Prone|Prone condition]]."
+info: "Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[Panther]] stat block can also represent a [[mountain lion]], while the [[Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures."         
 ```

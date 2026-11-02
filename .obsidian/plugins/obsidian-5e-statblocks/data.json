@@ -5748,6 +5748,59 @@
         "info": "Fated shakers are bullies who shake down those indebted to the faction's tax collectors and evictors. These enforcers use their magic to intimidate and subjugate those who try to stand up to them.",
         "source": "Homebrew"
       }
+    ],
+    [
+      "Giant Crocodile",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Giant Crocodile BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Giant Crocodile",
+        "size": "Huge",
+        "type": "Beast",
+        "alignment": "Unaligned",
+        "ac": 14,
+        "hp": 85,
+        "hit_dice": "9d12 + 27",
+        "speed": "30 ft., Swim 50 ft.",
+        "stats": [
+          21,
+          9,
+          17,
+          2,
+          10,
+          7
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 5
+          }
+        ],
+        "senses": "<STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 10, Passive Insight 10, Passive Stealth 15",
+        "languages": "—",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Hold Breath:",
+            "desc": "The crocodile can hold its breath for 1 hour."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack:",
+            "desc": "The crocodile makes one Bite attack and one Tail attack."
+          },
+          {
+            "name": "Bite:",
+            "desc": "*Melee Attack Roll:*  +8, reach 5 ft. *Hit:* 21 (3d10 + 5) Piercing damage. If the target is a Large or smaller creature, it has the <STATBLOCK-WIKI-LINK>Grappled|Grappled condition<STATBLOCK-WIKI-LINK> (escape DC 15). While <STATBLOCK-WIKI-LINK>Grappled<STATBLOCK-WIKI-LINK>, the target has the <STATBLOCK-WIKI-LINK>Restrained|Restrained condition<STATBLOCK-WIKI-LINK> and can't be targeted by the crocodile's Tail."
+          },
+          {
+            "name": "Tail:",
+            "desc": "*Melee Attack Roll:*  +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the <STATBLOCK-WIKI-LINK>Prone|Prone condition<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "info": "Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the <STATBLOCK-WIKI-LINK>Panther<STATBLOCK-WIKI-LINK> stat block can also represent a <STATBLOCK-WIKI-LINK>mountain lion<STATBLOCK-WIKI-LINK>, while the <STATBLOCK-WIKI-LINK>Giant Goat<STATBLOCK-WIKI-LINK> stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.",
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
