@@ -33,9 +33,9 @@ id: ""
 hidden: false
 actions:
   - type: templaterCreateNote
-    templateFile: Templates/Copy Multiple Properties Template.md
+    templateFile: Templates/Template Test.md
     folderPath: /
-    fileName: Character Maker Test
+    fileName: "= this.CharacterName"
     openNote: true
     openIfAlreadyExists: false
 
