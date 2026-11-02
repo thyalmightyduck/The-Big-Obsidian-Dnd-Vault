@@ -109,7 +109,7 @@ tags:
 - [[Valkyrie's Vision]]
 - [[Warding Bond]]
 - [[Wotan's Retribution]]
-- [[Wrack]]
+- [[Wrack (GHPG)]]
 - [[Zone of Truth]]
 ## Level 3
 - [[Animate Dead]]
