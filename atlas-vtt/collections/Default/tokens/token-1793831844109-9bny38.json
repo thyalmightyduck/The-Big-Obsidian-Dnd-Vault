@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Giant Crocodile",
+    "imagePath": "atlas-vtt/assets/Giant_Crocodile_1793831844065_sa2yn8.webp",
+    "size": 2,
+    "statblockPath": "5 Monster Stat Blocks/Beast/Giant Crocodile.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Giant_Crocodile_1793831844065_sa2yn8-ed235530.webp",
+    "id": "token-1793831844109-9bny38",
+    "createdAt": 1793831844108,
+    "modifiedAt": 1793831844108
+  }
+}

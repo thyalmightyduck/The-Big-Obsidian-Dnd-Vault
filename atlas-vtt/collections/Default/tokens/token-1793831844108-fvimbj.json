@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Brainchild",
+    "imagePath": "atlas-vtt/assets/Brainchild_1793831843866_jm3e7l.webp",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Aberration/Brainchild.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Brainchild_1793831843866_jm3e7l-1339d7bd.webp",
+    "id": "token-1793831844108-fvimbj",
+    "createdAt": 1793831844108,
+    "modifiedAt": 1793831844108
+  }
+}

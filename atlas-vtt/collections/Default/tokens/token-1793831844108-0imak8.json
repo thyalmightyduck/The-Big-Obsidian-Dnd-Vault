@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Fated Shaker",
+    "imagePath": "atlas-vtt/assets/Fated_Shaker_1793831844003_6pcmbi.png",
+    "size": 1,
+    "statblockPath": "5 Monster Stat Blocks/Humanoid/Fated Shaker.md",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Fated_Shaker_1793831844003_6pcmbi-03561a36.webp",
+    "id": "token-1793831844108-0imak8",
+    "createdAt": 1793831844108,
+    "modifiedAt": 1793831844108
+  }
+}

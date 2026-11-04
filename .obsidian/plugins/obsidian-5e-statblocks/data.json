@@ -5801,6 +5801,86 @@
         "info": "Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the <STATBLOCK-WIKI-LINK>Panther<STATBLOCK-WIKI-LINK> stat block can also represent a <STATBLOCK-WIKI-LINK>mountain lion<STATBLOCK-WIKI-LINK>, while the <STATBLOCK-WIKI-LINK>Giant Goat<STATBLOCK-WIKI-LINK> stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.",
         "source": "Homebrew"
       }
+    ],
+    [
+      "Brainchild",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>Brainchild BGR PNG.png<STATBLOCK-WIKI-LINK>",
+        "name": "Brainchild",
+        "size": "Medium",
+        "type": "Aberration",
+        "alignment": "Neutral Evil",
+        "ac": "6 (19 with Psionic Field)",
+        "hp": 81,
+        "hit_dice": "18d8",
+        "speed": "0 ft., Fly 30 ft. (Hover)",
+        "stats": [
+          1,
+          3,
+          10,
+          22,
+          19,
+          17
+        ],
+        "saves": [
+          {
+            "Arcana": 9
+          },
+          {
+            "Insight": 7
+          },
+          {
+            "Perception": 7
+          }
+        ],
+        "damage_resistances": "Psychic",
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 120 ft., <STATBLOCK-WIKI-LINK>Passive Perception<STATBLOCK-WIKI-LINK> 16, Passive Insight 17, Passive Stealth 6",
+        "languages": "Telepathy 120 ft.",
+        "cr": 7,
+        "spellsNotes": "**Spellcasting:** The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17):",
+        "spells": [
+          "***At will:*** <STATBLOCK-WIKI-LINK>Detect Thoughts<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Mage Hand<STATBLOCK-WIKI-LINK> (Invisible, range increased by 30 feet)",
+          "***1/Day:*** <STATBLOCK-WIKI-LINK>Telekinesis<STATBLOCK-WIKI-LINK>"
+        ],
+        "traits": [
+          {
+            "name": "Parasitic Inception:",
+            "desc": "A creature that attempts to steal or modify the brainchild’s memories or detect or read its thoughts must make a DC 15 Intelligence <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>. On a failure, the creature takes 33 (6d8+6) Psychic damage and is afflicted with the Brainchild Notion magical contagion. If the effect is ongoing, the Brainchild can take a <STATBLOCK-WIKI-LINK>Magic Action<STATBLOCK-WIKI-LINK> on its turn to force the creature to repeat the saving throw."
+          },
+          {
+            "name": "Psionic Field:",
+            "desc": "While the brainchild is not <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK>, it uses its Intelligence when calculating its Strength and Dexterity <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK>, its AC increases to 10 + the brainchild’s Intelligence Modifier, and emits a 10-foot <STATBLOCK-WIKI-LINK>emanation<STATBLOCK-WIKI-LINK> that as <STATBLOCK-WIKI-LINK>Difficult Terrain<STATBLOCK-WIKI-LINK> to all other creatures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Psychic Fling:",
+            "desc": "*Ranged Attack Roll:* 9, range 60 ft. *Hit:* 13 (2d6+6) Bludgeoning damage."
+          },
+          {
+            "name": "Telekinetic Grasp:",
+            "desc": "*Intelligence <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 17, one creature within 20 feet of the brainchild. *Failure:* The target is <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK> until the brainchild is <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK>. The brainchild can take a <STATBLOCK-WIKI-LINK>Magic Action<STATBLOCK-WIKI-LINK> on its turn to either move a <STATBLOCK-WIKI-LINK>Restrained<STATBLOCK-WIKI-LINK> creature can take an <STATBLOCK-WIKI-LINK>Action<STATBLOCK-WIKI-LINK> to repeat the <STATBLOCK-WIKI-LINK>saving throw<STATBLOCK-WIKI-LINK>, ending the effect on a success. The brainchild can Restrain up to 3 creatures this way at a time. *Success:* No effect."
+          },
+          {
+            "name": "Brain Blast (Recharge 5-6):",
+            "desc": "*Intelligence <STATBLOCK-WIKI-LINK>Saving Throw<STATBLOCK-WIKI-LINK>:* DC 17, each creature in a 30-foot <STATBLOCK-WIKI-LINK>Emanation<STATBLOCK-WIKI-LINK>. *Failure:* 33 (6d8+6) Psychic damage, and the target has the <STATBLOCK-WIKI-LINK>Stunned|Stunned condition<STATBLOCK-WIKI-LINK> until the end of the brainchild’s next turn. *Success:* Half Damage Only."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Psychic Redirection:",
+            "desc": "*Trigger:* A ranged attack misses the brainchild while its Psionic Field is active. *Response:* The brainchild redirects the attack to another creature (Ranged Attack Roll: +9, range 60 ft."
+          }
+        ],
+        "special_abilities": [
+          {
+            "name": "**Magical Contagion Brainchild Notion:**",
+            "desc": "Brainchild Notion is a special Magical Contagion contracted when a creature attempts to read a brainchild’s mind. The thoughts of the brainchild itself infect the mind a cause it to slowly grow into another brainchild. Though the transformation in gruesome, the power it grants can be intoxicating to some.<P>**The Thought Alone.** A creature infected with a brainchild notion cannot be cured by normal means. In order to end the infection and reverse the transformation before it is complete, the creature must have their memory of the moment that triggered the infection erased by the <STATBLOCK-WIKI-LINK>Modify Memory<STATBLOCK-WIKI-LINK> spell or similar magic. <P>**Psychosomatic Metamorphosis.** The transformation into a brainchild is a slow process. Every 1d4 days, the creature's Strength score is reduced by 1, and their Intelligence score increases by 1. If the creature's Intelligence score is equal to or higher than this contagion's stages listed below, they advance one stage each time their score is increased, up to the stage with the matching score. The creature gains new features granted by their current stage: <P>- **Stage 1 (INT score 14):** The creature's cranium grows larger and its hair slowly falls out. The creature gains the <STATBLOCK-WIKI-LINK>Telekinetic<STATBLOCK-WIKI-LINK> feat, choosing Intelligence. Additionally, it gains Telepathy out to 30 feet. <P>- **Stage 2 (INT score 16):** The creature's bones become more flexible, allowing for further growth of the brain while weakening its body. The creature has <STATBLOCK-WIKI-LINK>disadvantage<STATBLOCK-WIKI-LINK> on Strength <STATBLOCK-WIKI-LINK>Saving Throw|saving throws<STATBLOCK-WIKI-LINK>. As long as the creature is not <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK>, it is under the effects of the <STATBLOCK-WIKI-LINK>Levitate<STATBLOCK-WIKI-LINK> spell (no <STATBLOCK-WIKI-LINK>concentration<STATBLOCK-WIKI-LINK> required). <P>- **Stage 3 (INT score 18):** The creature's limbs become mostly useless and its stretched skin becomes translucent. The creature's carry weight is halved. Additionally, the creature learns the <STATBLOCK-WIKI-LINK>Detect Thoughts<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Shield<STATBLOCK-WIKI-LINK>, and <STATBLOCK-WIKI-LINK>Telekinesis<STATBLOCK-WIKI-LINK> spells, using Intelligence as its Spellcasting Ability<P>- **Stage 4 (INT score 20):** The creature's body dangles from its enlarged cranium, its massive brain visible through its skull. Anyone who looks closely sees large eyes on each side of the brain, closed but ready to open as tiny limbs stir below it. The creature's <STATBLOCK-WIKI-LINK>Speed<STATBLOCK-WIKI-LINK> becomes 0. As long as the creature is not <STATBLOCK-WIKI-LINK>Incapacitated<STATBLOCK-WIKI-LINK>, it is under the effects of the Fly spell (<STATBLOCK-WIKI-LINK>Fly speed<STATBLOCK-WIKI-LINK> 30 feet, no <STATBLOCK-WIKI-LINK>concentration<STATBLOCK-WIKI-LINK> required).<P>If the contagion would reduce a creature's Strength to 0, it instead transforms into a brainchild controlled by the DM. The brainchild retains the Intelligence score of the infected creature at the time of transformation, as well as all of its memories and knowledge, including spellcasting. It can cast any spells known to it psionically, once per day each.<P>A creature cured of a brainchild loses its beneficial features, and its body and ability scores slowly return to normal. Each time the creature finishes a <STATBLOCK-WIKI-LINK>long rest<STATBLOCK-WIKI-LINK>, its Strength score increases by 1 and its Intelligence score is reduced by 1, until they return to the scores before the infection (plus any changes to the scores from leveling up or taking feats normally). The creature loses each stage's detrimental features in reverse order each time it finishes a <STATBLOCK-WIKI-LINK>long rest<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
@@ -6243,8 +6323,9 @@
           ],
           "text": null,
           "fallback": "-",
-          "headingProp": true,
-          "conditioned": true
+          "headingProp": false,
+          "conditioned": true,
+          "dice": true
         }
       ],
       "id": "basic-5e-layout",
