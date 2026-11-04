@@ -4,4 +4,5 @@
 
 - - -
 
-- Critical Hits from attacks made with Scythe of Doom deal extra 10 necrotic damge
+- Critical Hits from attacks made with Scythe of Doom deal extra 10 necrotic damage, this damage cannot be reduced in any way.
+
