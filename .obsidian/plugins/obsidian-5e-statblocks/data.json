@@ -6234,6 +6234,15 @@
           "heading": "Info",
           "hasRule": true,
           "conditioned": true
+        },
+        {
+          "type": "text",
+          "id": "1828cb796b38",
+          "properties": [
+            "special_abilities"
+          ],
+          "text": null,
+          "fallback": "-"
         }
       ],
       "id": "basic-5e-layout",
