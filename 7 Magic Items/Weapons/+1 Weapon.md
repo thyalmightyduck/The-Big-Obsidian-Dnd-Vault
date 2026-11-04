@@ -1,6 +1,8 @@
 ---
 tags:
   - MagicItem
+  - GenericVariant
+  - Uncommon
 Progress: In Progress
 ---
 *Generic Variant, Uncommon*

@@ -1,7 +1,7 @@
 ---
-species_select: "[[Bugbear]]"
-class_selector: "[[The Lantern Warlock]]"
-background_selector: "[[Athlete]]"
+species_select: "[[Goblin]]"
+class_selector: "[[Deadeye Gunslinger]]"
+background_selector: "[[A Merchant Family]]"
 Name: Name
 ---
 ```meta-bind
@@ -9,15 +9,11 @@ INPUT[suggester(optionQuery("Species"), useLinks(partial), title(Species)):speci
 ```
 
 ```meta-bind
-INPUT[suggester(optionQuery("Rules/Classes"), useLinks(partial), title(Class)):class_selector]
+INPUT[suggester(optionQuery("Classes"), useLinks(partial), title(Class)):class_selector]
 ```
 
 ```meta-bind
 INPUT[suggester(optionQuery("Rules/Backgrounds"), useLinks(partial), title(background)):background_selector]
-```
-
-```meta-bind
-INPUT[text(defaultValue(Name Here)):Name]
 ```
 
 
@@ -33,7 +29,7 @@ id: ""
 hidden: false
 actions:
   - type: templaterCreateNote
-    templateFile: Templates/Template Test.md
+    templateFile: Templates/Copy Multiple Properties Template.md
     folderPath: /
     fileName: New Character
     openNote: true
