@@ -31,4 +31,6 @@ Medium Aberration, Neutral Evil
 
 **Telekinetic Grasp:** *Intelligence Saving Throw:* DC 17, one creature within 20 feet of the brainchild. *Failure:* The target is Restrained until the brainchild is Incapacitated. The brainchild can take a Magic Action on its turn to either move a Restrained creature can take an Action to repeat the saving throw, ending the effect on a success. The brainchild can Restrain up to 3 creatures this way at a time. *Success:* No effect.
 
-**Brain Blast (Recharge 5-6):** *Intelligence Saving Throw:* DC 17, each creature in a 30-foot Emanation. *Failure:* 33 (6d8+6) Psychic damage, and the target has the Stunned condition until the end 
+**Brain Blast (Recharge 5-6):** *Intelligence Saving Throw:* DC 17, each creature in a 30-foot Emanation. *Failure:* 33 (6d8+6) Psychic damage, and the target has the Stunned condition until the end of the brainchild’s next turn. *Success:* Half Damage Only.
+
+**Spellcasting:** The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting agility
