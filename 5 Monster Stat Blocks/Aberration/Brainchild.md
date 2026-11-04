@@ -33,4 +33,14 @@ Medium Aberration, Neutral Evil
 
 **Brain Blast (Recharge 5-6):** *Intelligence Saving Throw:* DC 17, each creature in a 30-foot Emanation. *Failure:* 33 (6d8+6) Psychic damage, and the target has the Stunned condition until the end of the brainchild’s next turn. *Success:* Half Damage Only.
 
-**Spellcasting:** The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting agility
+**Spellcasting:** The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17):
+- ***At will:*** [[Detect Thoughts]], [[Mage Hand]] (Invisible, range increased by 30 feet)
+- ***1/Day:*** [[Telekinesis]]
+
+### Reaction
+**Psychic Redirection:** *Trigger:* A ranged attack misses the brainchild while its Psionic Field is active. *Response:* The brainchild redirects the attack to another creature (Ranged Attack Roll: +9, range 60 ft.)
+
+#### Magical Contagion: Brainchild Notion
+Brainchild Notion is a special Magical Contagion contracted when a creature attempts to read a brainchild’s mind. The thoughts of the brainchild itself infect the mind a cause it to slowly grow into another brainchild. Though the transformation in gruesome, the power it grants can be intoxicating to some.
+
+**The Thought Alone:** 
