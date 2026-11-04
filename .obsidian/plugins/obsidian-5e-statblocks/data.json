@@ -6242,7 +6242,8 @@
             "special_abilities"
           ],
           "text": null,
-          "fallback": "-"
+          "fallback": "-",
+          "headingProp": true
         }
       ],
       "id": "basic-5e-layout",
