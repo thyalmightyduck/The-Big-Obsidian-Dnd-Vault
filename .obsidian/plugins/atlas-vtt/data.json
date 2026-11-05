@@ -22,7 +22,19 @@
   },
   "diceDisplay": "full",
   "diceVolume": 1,
+  "sound": {
+    "musicDb": 0,
+    "ambienceDb": -6,
+    "masterDb": 0,
+    "fadeSeconds": 4,
+    "crossfadeSeconds": 4,
+    "followScenes": true
+  },
   "detectGridOnNewScenes": true,
+  "fogEdge": {
+    "style": "crackle",
+    "width": 15
+  },
   "diceColour": "light",
   "diceFont": "medieval",
   "initiativeNames": false,
@@ -34,7 +46,8 @@
   "experimental": {
     "dynamicLighting": true,
     "statblockEditor": true,
-    "onlinePlay": true
+    "onlinePlay": true,
+    "sound": true
   },
   "toolbar": {},
   "dungeonGenerator": {
