@@ -92,5 +92,11 @@
   },
   "statblockPane": {
     "hintDismissed": false
+  },
+  "soundRoots": {
+    "music": {
+      "type": "vault",
+      "path": "MP3"
+    }
   }
 }
