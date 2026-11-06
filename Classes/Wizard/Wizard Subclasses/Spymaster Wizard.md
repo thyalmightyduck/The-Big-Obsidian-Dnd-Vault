@@ -1,3 +1,12 @@
+---
+tags:
+  - Class
+  - subclass
+  - Wizard
+  - Homebrew
+Progress:
+  - Book Ready
+---
 # [the_mithral_canvas](https://www.instagram.com/the_mithral_canvas) (Homebrew)
 ## Spymaster Wizard:
 
@@ -91,8 +100,22 @@ Once you use this feature, you can't do so again until you finish a [[Long Rest
 ## Level 2: Scholar
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have [[Expertise]] in the chosen skill.
 
+### Master of Disguise
+#### 2nd Level Spymaster Feature
+When you choose this school at 2nd level, you learn the Disguise Self spell, which you have always prepared and does not count against the number of spells you have prepared. You can cast this spell without expending a spell slot a number of times per long rest equal to your Intelligence modifier. 
+
+While under the effects of Disguise Self, you gain a bonus to your Deception and Persuasion checks equal to your Intelligence modifier
+
+### Covert Casting
+#### 2nd Level Spymaster Feature
+At 2nd level, you gain the ability to conceal your magic from prying eyes and ears. You can choose to cast a Wizard spell from the Enchantment or Illusion schools without any somatic or verbal components a number of times per long rest equal to your Intelligence modifier
+
 ## Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
+
+### Spymaster
+#### Wizard - Arcane Tradition
+Most arcane practitioners take great pride in their magical abilities, reveling in the respect and envy of those around them. Spymasters, instead, keep out of the spotlight, forgoing fame and fortune in favor of secrecy and espionage. Through an arsenal of duplicitous tactics, these wizards are capable of causing more damage overnight with their silver tongues and disguises than their peers could ever hope to with simple fireballs. By the time a target becomes aware of their unfortunate situation, the Spymaster is long gone, never to be seen again.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement feat]] or another [[feat]] of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
@@ -103,17 +126,33 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace 
 ## Level 6: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Stealth Tactics
+#### 6th Level Spymaster Feature
+Few are guarded against magic they never saw coming. If you are hidden from a creature or a creature is not hostile towards you, it has a disadvantage on saving throws it makes against spells you cast.
+
 ## Level 8: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 10: Subclass Feature
 You gain a feature from your Wizard Subclass.
 
+### Fallback
+#### 10th Level Spymaster Feature
+When you take damage, you can cast a Wizard spell from the Enchantment or Illusion schools that has a casting time of 1 action or 1 bonus action as a reaction.
+
 ## Level 12: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
 
 ## Level 14: Subclass Feature
 You gain a feature from your Wizard Subclass.
+
+### Untouchable
+#### 14th Level Spymaster Feature
+Beginning at 14th level, you gain the following benefits
+
+Your shadowy magic always guards your physical form, causing attack rolls against you to have disadvantage. If you take damage, this feature ceases to function until the start of your next turn. This feature is suppressed while you are incapacitated, restrained, or unable to move.
+
+While under the effects of the Disguise Self spell, you can't be targeted by divination magic or perceived through magical scrying sensors. Additionally, you are unaffected by attempts to sense your emotions, thoughts, or memory.
 
 ## Level 16: Ability Score Improvement
 You gain the [[Ability Score Improvement Feat]] or another [[feat]] of your choice for which you qualify.
