@@ -5,6 +5,8 @@
     "tags": "tags",
     "picture": "text",
     "Progress": "multitext",
-    "BastionPrerequisites": "multitext"
+    "BastionPrerequisites": "multitext",
+    "Weapon Property": "multitext",
+    "WeaponType": "multitext"
   }
 }
