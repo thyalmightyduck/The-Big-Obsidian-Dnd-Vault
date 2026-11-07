@@ -2,5 +2,15 @@ views:
   - type: table
     name: View
     filters:
-      and:
-        - file.folder.startsWith("Items")
+      or:
+        - file.folder.startsWith("Items/Adventuring Gear")
+        - file.folder.startsWith("Items/Ammunition")
+        - file.folder.startsWith("Items/Artisan's Tools")
+        - file.folder.startsWith("Items/Gaming Set")
+        - file.folder.startsWith("Items/Instruments")
+        - file.folder.startsWith("Items/Other")
+        - file.folder.startsWith("Items/Poison")
+        - file.folder.startsWith("Items/Rings")
+        - file.folder.startsWith("Items/Tack and Harnesses")
+        - file.folder.startsWith("Items/Tools")
+        - file.folder.startsWith("Items/Trade Goods")
