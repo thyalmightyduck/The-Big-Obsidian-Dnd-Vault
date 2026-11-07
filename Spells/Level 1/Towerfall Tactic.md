@@ -10,6 +10,8 @@ componenets:
   - Semantic
   - Material
 duration: Instantaneous
+Progress:
+  - Book Ready
 ---
 # The Magus Class 2024 (TMC24)
 #### Towerfall Tactic
