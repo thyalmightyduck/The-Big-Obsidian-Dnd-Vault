@@ -1,5 +1,5 @@
 views:
-  - type: table
+  - type: atlas-loot
     name: View
     filters:
       or:
@@ -14,4 +14,3 @@ views:
         - file.folder.startsWith("Items/Tack and Harnesses")
         - file.folder.startsWith("Items/Tools")
         - file.folder.startsWith("Items/Trade Goods")
-    limit: 10

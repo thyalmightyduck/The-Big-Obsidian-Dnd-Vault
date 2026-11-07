@@ -365,7 +365,8 @@
       "traits"
     ],
     "lootBases": [
-      "Playgound/Loot Table Test.base"
+      "Playgound/Loot Table Test.base",
+      "Playgound/General Goods Inventory.base"
     ],
     "systemPresetId": "builtin:dnd5e",
     "resources": [
@@ -438,5 +439,5 @@
     ]
   },
   "createdAt": 1790659852594,
-  "modifiedAt": 1794024264148
+  "modifiedAt": 1794026542874
 }
