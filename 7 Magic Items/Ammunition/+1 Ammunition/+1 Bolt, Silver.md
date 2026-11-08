@@ -23,7 +23,7 @@ You have a +1 bonus to attack and damage rolls made with this piece of magic amm
 name: "+1 Bolt, Silver"
 type: "Ammunition"
 subtype: "Bolt, Silver"
-rarity: "Rarity Here"
+rarity: "Uncommon"
 attunement: "False"
 price: ""
 text_align: "center"

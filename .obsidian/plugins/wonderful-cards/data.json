@@ -82,20 +82,6 @@
       "sourceYaml": "name: \"+1 Bolt\"\ntype: \"Ammunition\"\nsubtype: \"Bolt\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.<P>Bolts are typically stored in a *[[Crossbow Bolt Case]]* (bought separately).\n  ***Credit:*** Dungeon Master’s Guide (DMG24)"
     },
     {
-      "id": "mvr2xp7rrvqb4tk",
-      "item": {
-        "name": "+1 Bolt, Silver",
-        "type": "Ammunition",
-        "subtype": "Bolt, Silver",
-        "rarity": "Rarity Here",
-        "attunement": "False",
-        "price": "",
-        "text_align": "center",
-        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
-      },
-      "sourceYaml": "name: \"+1 Bolt, Silver\"\ntype: \"Ammunition\"\nsubtype: \"Bolt, Silver\"\nrarity: \"Rarity Here\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
-    },
-    {
       "id": "mvr2xrcshff39a7",
       "item": {
         "name": "+1 Bolt, Wooden",
@@ -633,6 +619,20 @@
         "description": "This substance is created by distilling the jelly that encases the brain of a **[[Xakalonus]]**. You can take a [[Bonus Action]] to coat one weapon or up to 20 pieces of ammunition. If the coated objects are not magical, for the next minute, your attacks with the coated weapon or ammunition gain a +2 bonus to attack and damage rolls. If the coated objects are magical, they instead gain the ability to ignore the **[[Hraptnon]]**'s [[Immunity]] to magical weapons.\n\n***Credit:*** Grim Hallow: Monster Grimoire 2024 (GHMG24)\n"
       },
       "sourceYaml": "name: \"Arcane Oil\"\ntype: \"Potion\"\nrarity: \"Rare\"\nattunement: \"True\"\nprice: \"2,000 GP\"\ntext_align: \"center\"\ndescription: |\n  This substance is created by distilling the jelly that encases the brain of a **[[Xakalonus]]**. You can take a [[Bonus Action]] to coat one weapon or up to 20 pieces of ammunition. If the coated objects are not magical, for the next minute, your attacks with the coated weapon or ammunition gain a +2 bonus to attack and damage rolls. If the coated objects are magical, they instead gain the ability to ignore the **[[Hraptnon]]**'s [[Immunity]] to magical weapons.\n  \n  ***Credit:*** Grim Hallow: Monster Grimoire 2024 (GHMG24)"
+    },
+    {
+      "id": "mw8gfruoibduuce",
+      "item": {
+        "name": "+1 Bolt, Silver",
+        "type": "Ammunition",
+        "subtype": "Bolt, Silver",
+        "rarity": "Uncommon",
+        "attunement": "False",
+        "price": "",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n***Credit:*** Dungeon Master’s Guide 2024 (DMG24)\n"
+      },
+      "sourceYaml": "name: \"+1 Bolt, Silver\"\ntype: \"Ammunition\"\nsubtype: \"Bolt, Silver\"\nrarity: \"Uncommon\"\nattunement: \"False\"\nprice: \"\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*<P>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<P>***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to [[attack rolls]]. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *[[Mending]]* spell on the object or by succeeding on a DC 10 Dexterity check using *[[Smith's Tools]]* as part of a [[Short Rest]] or [[Long Rest]].\n  ***Credit:*** Dungeon Master’s Guide 2024 (DMG24)"
     }
   ]
 }
