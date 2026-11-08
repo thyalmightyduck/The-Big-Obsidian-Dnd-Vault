@@ -1,6 +1,7 @@
 ---
 Progress: In Progress
 ---
+# The Griffon’s Saddlebag, Book 1 2024 (TGS124)
 #### Acidlight Arrow, Silver
 
 Ammunition (*Arrow, Silver*), Rare, 0.8 oz.
