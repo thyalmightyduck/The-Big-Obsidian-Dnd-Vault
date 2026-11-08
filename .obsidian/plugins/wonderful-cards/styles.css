@@ -42,7 +42,7 @@
     flex-shrink: 0;
 }
 
-.wc-rarity--default .wc-card-accent  { background: #8876a7; }
+.wc-rarity--default .wc-card-accent  { background: #fcfcfc; }
 .wc-rarity--common .wc-card-accent   { background: #7e7586; }
 .wc-rarity--uncommon .wc-card-accent { background: #34d399; }
 .wc-rarity--rare .wc-card-accent     { background: #60a5fa; }
