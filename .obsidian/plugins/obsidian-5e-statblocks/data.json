@@ -6337,7 +6337,43 @@
       "forceColumns": true
     }
   },
-  "layouts": [],
+  "layouts": [
+    {
+      "name": "Layout",
+      "blocks": [
+        {
+          "type": "heading",
+          "id": "dbe9e89a5a3b",
+          "properties": [
+            "Name"
+          ],
+          "size": 1,
+          "fallback": "-",
+          "hasRule": true
+        },
+        {
+          "type": "property",
+          "id": "4a188b39b95a",
+          "properties": [
+            "Type"
+          ],
+          "fallback": "-",
+          "hasRule": true,
+          "dice": false
+        },
+        {
+          "type": "image",
+          "id": "087b1838ca9b",
+          "properties": [
+            "Image"
+          ],
+          "fallback": "-",
+          "conditioned": false
+        }
+      ],
+      "id": "4a093beba888"
+    }
+  ],
   "default": "basic-5e-layout",
   "useDice": true,
   "renderDice": true,
