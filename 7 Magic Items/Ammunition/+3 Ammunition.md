@@ -7,6 +7,7 @@ tags:
   - DMG24
 Progress:
   - Game Ready
+Rarity: Very Rare
 ---
 # Dungeon Master’s Guild 2024 (DMG24)
 #### +3 Ammunition

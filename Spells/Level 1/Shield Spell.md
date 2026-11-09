@@ -1,6 +1,8 @@
 ---
 tags:
   - spells
+aliases:
+  - Shield
 ---
 _Abjuration Level 1_
 

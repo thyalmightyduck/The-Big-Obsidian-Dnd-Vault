@@ -46,7 +46,7 @@ At will: *[[Detect Magic]]*, *[[Light]]*, *[[Mage Armor]]* (included in AC), *[[
 ***Misty Step (3/Day).*** The mage casts *[[Misty Step]]*, using the same spellcasting ability as Spellcasting.  
 
 ### Reactions
-***Protective Magic (3/Day).*** The mage casts *[[Counterspell]]* or *[[Shield]]* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+***Protective Magic (3/Day).*** The mage casts *[[Counterspell]]* or *[[Shield Spell|Shield]]* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 
 - - - 
 ### Info
@@ -123,6 +123,6 @@ bonus_actions:
     desc: "The mage casts *[[Misty Step]]*, using the same spellcasting ability as Spellcasting."
 reactions:
   - name: "Protective Magic (3/Day):"
-    desc: "The mage casts *[[Counterspell]]* or *[[Shield]]* in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+    desc: "The mage casts *[[Counterspell]]* or *[[Shield Spell|Shield]]* in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
 info: "Mages are accomplished spellcasters whose lives have been shaped by magic. They can use their powers to defend or dominate other creatures, or they could focus on magical research and unlocking mystical secrets."   
 ```

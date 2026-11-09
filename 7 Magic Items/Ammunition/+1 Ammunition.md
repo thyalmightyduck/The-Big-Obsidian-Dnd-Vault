@@ -6,6 +6,7 @@ tags:
   - Uncommon
 Progress:
   - Game Ready
+Rarity: Uncommon
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +1 Ammunition

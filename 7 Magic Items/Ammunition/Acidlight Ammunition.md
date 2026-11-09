@@ -7,6 +7,7 @@ tags:
   - TGS124
 Progress: In Progress
 picture: Acidlight Ammunition BGR PNG.png
+Rarity: Rare
 ---
 # The Griffon’s Saddlebag, Book 1 2024 (TGS124)
 #### Acidlight Ammunition

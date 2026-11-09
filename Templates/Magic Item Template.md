@@ -9,5 +9,6 @@ price: "000"
 text_align: "center"
 description: |
   Magic Item Description Here
+  
   ***Credit:*** Credit Here
 ```
