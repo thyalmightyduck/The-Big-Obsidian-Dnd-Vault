@@ -78,7 +78,7 @@
     "showTokenNameplates": true,
     "showNotePreviews": false,
     "showWidgets": true,
-    "showInitiative": true,
+    "showInitiative": false,
     "showDiceRolls": true,
     "showCommandPalette": false,
     "showCursors": false,
