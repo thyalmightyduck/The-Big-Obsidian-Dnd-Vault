@@ -5,6 +5,7 @@ tags:
   - Uncommon
   - DMG24
 Progress: Game Ready
+Uncommon: Rare
 ---
 # Dungeon Master’s Guide (DMG24)
 #### +1 Bolt

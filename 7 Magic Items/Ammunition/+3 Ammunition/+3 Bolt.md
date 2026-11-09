@@ -5,6 +5,7 @@ tags:
   - VeryRare
   - DMG24
 Progress: Game Ready
+Rarity: Very Rare
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +3 Bolt

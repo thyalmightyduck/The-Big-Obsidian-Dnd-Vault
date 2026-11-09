@@ -1,5 +1,12 @@
 ---
 Progress: In Progress
+Rarity: Rare
+picture: Acidlight Ammunition BGR PNG.png
+tags:
+  - MagicItem
+  - Ammunition
+  - Rare
+  - TGS124
 ---
 #### Acidlight Paper Cartridge Bullet
 

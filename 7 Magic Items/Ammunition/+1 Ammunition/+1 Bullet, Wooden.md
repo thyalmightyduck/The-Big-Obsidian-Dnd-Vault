@@ -6,6 +6,7 @@ tags:
   - Wooden
   - DMG24
 Progress: Game Ready
+Uncommon: Rare
 ---
 # Dungeon Master’s Guide 2024 (DMG24)
 #### +1 Bullet, Wooden

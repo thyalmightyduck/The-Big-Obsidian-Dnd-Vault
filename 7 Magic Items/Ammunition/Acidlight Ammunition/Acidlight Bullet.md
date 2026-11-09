@@ -1,9 +1,17 @@
 ---
 Progress: In Progress
+Rarity: Rare
+picture: Acidlight Ammunition BGR PNG.png
+tags:
+  - MagicItem
+  - Ammunition
+  - Rare
+  - TGS124
 ---
+# The Griffon’s Saddlebag, Book 1 2024 (TGS124)
 #### Acidlight Bullet
 
-Ammunition (*Bullet*), Rare, 2.4 oz.
+Ammunition (*[[Bullet]]*), Rare, 2.4 oz.
 
 ---
 
