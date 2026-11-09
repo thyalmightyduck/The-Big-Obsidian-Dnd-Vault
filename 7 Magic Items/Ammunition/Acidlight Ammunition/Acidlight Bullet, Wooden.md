@@ -1,5 +1,6 @@
 ---
-Progress: In Progress
+Progress:
+  - Game Ready
 Rarity: Rare
 picture: Acidlight Ammunition BGR PNG.png
 tags:
@@ -7,15 +8,35 @@ tags:
   - Ammunition
   - Rare
   - TGS124
+  - Wooden
 ---
+# The Griffon’s Saddlebag, Book 1 2024 (TGS124)
 #### Acidlight Bullet, Wooden
 
-Ammunition (*Bullet, Wooden*), Rare, 1.6 oz.
+Ammunition (*[[Bullet, Wooden]]*), Rare, 1.6 oz.
 
 ---
 
 *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*
 
-This ammunition is covered in an alchemical concoction that ignites upon impact, casting Bright Light in the space of the target it hits and Dim Light in a 5-foot Emanation originating from the target for 1 minute. A creature hit by the ammunition takes 1d4 Acid damage at the start of each of its turns and has Disadvantage on Dexterity (Stealth) checks while the ammunition remains lit. The ammunition remains lodged in a target it hits until a creature takes a Utilize action to remove and snuff out the ammunition. The target can't benefit from the Invisible condition while the ammunition is lodged within it. The ammunition is destroyed by the lit solution, preventing it from being recovered once fired.
+This ammunition is covered in an alchemical concoction that ignites upon impact, casting [[Bright Light]] in the space of the target it hits and [[Dim Light]] in a 5-foot [[Emanation]] originating from the target for 1 minute. A creature hit by the ammunition takes 1d4 Acid damage at the start of each of its turns and has [[Disadvantage]] on Dexterity ([[Stealth]]) checks while the ammunition remains lit. The ammunition remains lodged in a target it hits until a creature takes a [[Utilize action]] to remove and snuff out the ammunition. The target can't benefit from the [[Invisible condition]] while the ammunition is lodged within it. The ammunition is destroyed by the lit solution, preventing it from being recovered once fired.
 
 ***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.
+
+```itemcard
+name: "Acidlight Bullet, Wooden"
+image: "Acidlight Ammunition BGR PNG.png"
+type: "Ammunition (Bullet, Wooden), 1.6 oz."
+rarity: "Rare"
+attunement: "False"
+price: "2,000 GP"
+text_align: "center"
+description: |
+  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*
+
+  This ammunition is covered in an alchemical concoction that ignites upon impact, casting [[Bright Light]] in the space of the target it hits and [[Dim Light]] in a 5-foot [[Emanation]] originating from the target for 1 minute. A creature hit by the ammunition takes 1d4 Acid damage at the start of each of its turns and has [[Disadvantage]] on Dexterity ([[Stealth]]) checks while the ammunition remains lit. The ammunition remains lodged in a target it hits until a creature takes a [[Utilize action]] to remove and snuff out the ammunition. The target can't benefit from the [[Invisible condition]] while the ammunition is lodged within it. The ammunition is destroyed by the lit solution, preventing it from being recovered once fired.
+
+  ***Wooden Ammunition.*** Wooden ammunition is destroyed after hitting or missing a target.
+  
+  ***Credit:*** The Griffon’s Saddlebag, Book 1 2024 (TGS124)
+```
