@@ -1,6 +1,8 @@
 ---
 tags:
   - MagicItem
+  - Ammunition
+  - Rare
 Progress: In Progress
 ---
 #### Arrow of Ice-Trapping
