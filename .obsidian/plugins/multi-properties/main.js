@@ -5410,6 +5410,14 @@ function remove_input_defaults(input) {
   queue_micro_task(remove_defaults);
   add_form_reset_listener();
 }
+function set_checked(element2, checked) {
+  var attributes = get_attributes(element2);
+  if (attributes.checked === (attributes.checked = // treat null and undefined the same for the initial value
+  checked ?? void 0)) {
+    return;
+  }
+  element2.checked = checked;
+}
 function set_attribute2(element2, attribute, value, skip_warning) {
   var attributes = get_attributes(element2);
   if (hydrating) {
@@ -6295,6 +6303,7 @@ function AddPropInput($$anchor, $$props) {
   template_effect(() => {
     set_class(a, 1, `btn-del ${totalInputs() <= 1 ? "btn-inactive" : ""}`, "svelte-1jh3cip");
     set_attribute2(a, "tabindex", totalInputs() <= 1 ? -1 : 0);
+    set_checked(input_1, valueVal() === true);
   });
   delegated("click", a, () => {
     if (totalInputs() <= 1) return;
@@ -6767,7 +6776,7 @@ var PropModal = class extends import_obsidian2.Modal {
   }
   //Run form submission if user clicks confirm.
   onConfirm() {
-    this.submission(this.props);
+    this.submission(this.props).catch((err) => console.error(err));
     this.close();
   }
   updateSetting(value) {
@@ -7054,8 +7063,8 @@ var RemoveConfirmModal = class extends import_obsidian4.Modal {
     this.names = names;
     this.submission = submission;
   }
-  onSubmit() {
-    this.submission();
+  async onSubmit() {
+    await this.submission();
     this.close();
   }
   onCancel() {
@@ -7090,7 +7099,7 @@ var RemoveModal = class extends import_obsidian5.Modal {
     this.submission = submission;
   }
   onConfirm() {
-    this.submission(this.props);
+    this.submission(this.props).catch((err) => console.error(err));
     this.close();
   }
   onSubmit(props) {
@@ -7121,7 +7130,7 @@ async function addProperties(fileProcessor, file, props, alterProp, propCache) {
       if (alterProp === "ignore" && frontmatter[key2]) {
         continue;
       }
-      if (key2 === "tags" && !frontmatter.hasOwnProperty("tags") && !Array.isArray(value.data)) {
+      if (key2 === "tags" && !Object.hasOwn(frontmatter, "tags") && !Array.isArray(value.data)) {
         frontmatter[key2] = [value.data];
         continue;
       }
@@ -7154,7 +7163,7 @@ async function addPropToSet(fileProcessor, set2, file) {
 async function removeProperties(fileProcessor, file, props) {
   await fileProcessor(file, (frontmatter) => {
     for (const prop2 of props) {
-      frontmatter[prop2] = void 0;
+      delete frontmatter[prop2];
     }
   });
 }
@@ -7245,9 +7254,11 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
         if (node instanceof import_obsidian7.TFile) {
           obj = [node];
           title = "Add props to file.";
-        } else {
+        } else if (node instanceof import_obsidian7.TFolder) {
           obj = node;
           title = "Add props to folder.";
+        } else {
+          new import_obsidian7.Notice("Object selected is not a file, or a folder.", 5e3);
         }
         menu.addItem((item) => {
           item.setIcon("archive").setTitle(title).onClick(() => this.createPropModal(obj));
@@ -7275,10 +7286,12 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
         }
         if (node instanceof import_obsidian7.TFile) {
           obj = [node];
-          title = "Remove props from file.";
-        } else {
+          title = "Remove props to file.";
+        } else if (node instanceof import_obsidian7.TFolder) {
           obj = node;
-          title = "Remove props from folder.";
+          title = "Remove props to folder.";
+        } else {
+          new import_obsidian7.Notice("Object selected is not a file, or a folder.", 5e3);
         }
         menu.addItem((item) => {
           item.setIcon("archive").setTitle(title).onClick(() => this.createRemoveModal(obj));
@@ -7364,7 +7377,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
               new import_obsidian7.Notice("No files to add properties to.", 4e3);
               return;
             }
-            this.createPropModal(files);
+            this.createPropModal(files).catch((err) => console.error(err));
           });
         });
       })
@@ -7378,7 +7391,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
               new import_obsidian7.Notice("No files to remove properties from.", 4e3);
               return;
             }
-            this.createRemoveModal(files);
+            this.createRemoveModal(files).catch((err) => console.error(err));
           });
         });
       })
@@ -7445,13 +7458,13 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
   async createPropModal(iterable) {
     let iterateFunc;
     const allFiles = [];
-    this.searchFolders(iterable, async (f) => allFiles.push(f));
+    await this.searchFolders(iterable, async (f) => allFiles.push(f));
     iterateFunc = async (props) => this.searchFolders(
       iterable,
       await this.addPropsCallback(props, allFiles.length)
     );
     let defaultProps;
-    defaultProps = this.loadDefaultProps();
+    defaultProps = this.loadDefaultProps(this.settings.defaultPropPath);
     const allProps = this.getAllUsedProperties();
     new PropModal(
       this.app,
@@ -7460,7 +7473,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
       this.settings.delimiter,
       this.settings.autocomplete,
       defaultProps,
-      this.changeAlterProp.bind(this),
+      await this.changeAlterProp.bind(this),
       allProps
     ).open();
   }
@@ -7477,7 +7490,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
     let iterateFunc;
     names = await this.getPropsFromFolder(iterable, /* @__PURE__ */ new Set());
     const allFiles = [];
-    this.searchFolders(iterable, async (f) => allFiles.push(f));
+    await this.searchFolders(iterable, async (f) => allFiles.push(f));
     iterateFunc = (props) => this.searchFolders(
       iterable,
       this.removePropsCallback(props, allFiles.length)
@@ -7504,33 +7517,35 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
     const allPropsWithType = this.app.metadataCache.getAllPropertyInfos();
     let result = [];
     for (let [key2, value] of Object.entries(frontmatter)) {
+      console.log(value, typeof value);
       const keyLower = key2.toLowerCase();
       const obj = {
         name: key2,
         value,
         type: allPropsWithType[keyLower].widget
       };
+      console.log(obj.value);
       result.push(obj);
+      console.log(result);
     }
     return result;
   }
-  loadDefaultProps() {
-    if (this.settings.defaultPropPath) {
-      try {
-        const file = this.app.vault.getAbstractFileByPath(
-          `${this.settings.defaultPropPath}.md`
-        );
-        let tmp = this.readYamlProperties(file);
-        if (tmp === void 0) throw Error("Undefined path.");
-        return tmp;
-      } catch (e) {
-        new import_obsidian7.Notice(
-          `${e}.  Check if you entered a valid path in the Default Props File setting.`,
-          1e4
-        );
-      }
+  loadDefaultProps(path) {
+    try {
+      const file = this.app.vault.getAbstractFileByPath(
+        `${path}`
+      );
+      if (!(file instanceof import_obsidian7.TFile)) throw Error("Undefined path.");
+      let tmp = this.readYamlProperties(file);
+      if (tmp === void 0) throw Error("Undefined path.");
+      return tmp;
+    } catch (e) {
+      new import_obsidian7.Notice(
+        `${e}.  Check if you entered a valid path in the Default Props File setting.`,
+        1e4
+      );
+      return [{ name: "", value: "", type: "text" }];
     }
-    return [{ name: "", value: "", type: "text" }];
   }
   async addPropsCallback(props, totalFiles) {
     const statusBarItem = this.addStatusBarItem();
@@ -7548,7 +7563,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
         "Added props to " + count + "/" + totalFiles + " files"
       );
       if (count === totalFiles) {
-        activeWindow.setTimeout(() => {
+        window.setTimeout(() => {
           statusBarItem.remove();
         }, 5e3);
       }
@@ -7568,7 +7583,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
         "Removed props from " + count + "/" + totalFiles + " files"
       );
       if (count === totalFiles) {
-        activeWindow.setTimeout(() => {
+        window.setTimeout(() => {
           statusBarItem.remove();
         }, 5e3);
       }

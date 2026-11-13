@@ -7055,8 +7055,13 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   //   }
   //   await this.plugin.saveSettings();
   // }
-  display() {
-    let { containerEl } = this;
+  getSettingDefinitions() {
+    return [{
+      name: "Text Format settings",
+      render: (_setting, group) => this.renderSettings(group.listEl)
+    }];
+  }
+  renderSettings(containerEl) {
     let headerEl;
     containerEl.empty();
     containerEl.addClass("plugin-text-format");
@@ -7078,7 +7083,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
     this.addSettingsAboutApiRequest(containerEl);
     this.addSettingsAboutReplacement(containerEl);
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    headerEl = headerDiv.createEl("h3", { text: getString(["setting", "others"]) });
+    headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "others"])).setHeading().settingEl;
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl, true);
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "format-on-paste", "name"])).setDesc(getString(["setting", "format-on-paste", "desc"])).addToggle((toggle) => {
@@ -7209,8 +7214,8 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutWordCase(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h3", { text: getString(["setting", "word-cases"]) });
-    headerDiv.createEl("div", { text: getString(["setting", "word-cases-desc"]), cls: "setting-item-description heading-description" });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "word-cases"])).setHeading().settingEl;
+    headerDiv.createDiv({ text: getString(["setting", "word-cases-desc"]), cls: "setting-item-description heading-description" });
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl);
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "lowercase-before-capitalize"])).setDesc(getString(["setting", "lowercase-before-capitalize-desc"])).addToggle((toggle) => {
@@ -7240,7 +7245,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutParagraph(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h4", { text: getString(["setting", "paragraph", "header"]) });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "paragraph", "header"])).setHeading().settingEl;
     let contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, contentEl);
     new import_obsidian4.Setting(contentEl).setName(getString(["setting", "paragraph", "remove-redundant-blank-lines"])).setDesc(getString(["setting", "paragraph", "remove-redundant-blank-lines-desc"])).addToggle((toggle) => {
@@ -7258,8 +7263,8 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutLink(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h3", { text: getString(["setting", "link-format"]) });
-    headerDiv.createEl("div", { text: getString(["setting", "link-format-desc"]), cls: "setting-item-description heading-description" });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "link-format"])).setHeading().settingEl;
+    headerDiv.createDiv({ text: getString(["setting", "link-format-desc"]), cls: "setting-item-description heading-description" });
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl);
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "path-mode"])).addDropdown((dropDown) => dropDown.addOption("relative-obsidian" /* relativeObsidian */, getString(["setting", "Wikilink2mdPathMode-relative-obsidian"])).addOption("relative-file" /* relativeFile */, getString(["setting", "Wikilink2mdPathModerelative-file"])).addOption("absolute" /* absolute */, getString(["setting", "Wikilink2mdPathMode-absolute"])).setValue(this.plugin.settings.Wikilink2mdRelativePath || "relative-obsidian" /* relativeObsidian */).onChange(async (value) => {
@@ -7278,7 +7283,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    this.contentEl.createEl("h4", { text: "Format when removing wikiLink" });
+    new import_obsidian4.Setting(this.contentEl).setName("Format when removing wikiLink").setHeading();
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "wiki-link-format-heading"])).setDesc(getString(["setting", "wiki-link-format-heading-desc"])).addTextArea(
       (text) => text.setPlaceholder("{title} (> {heading})").setValue(this.plugin.settings.WikiLinkFormat.headingOnly).onChange(async (value) => {
         this.plugin.settings.WikiLinkFormat.headingOnly = value;
@@ -7300,8 +7305,8 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutList(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h3", { text: getString(["setting", "list-format"]) });
-    headerDiv.createEl("div", { text: getString(["setting", "list-format-desc"]), cls: "setting-item-description heading-description" });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "list-format"])).setHeading().settingEl;
+    headerDiv.createDiv({ text: getString(["setting", "list-format-desc"]), cls: "setting-item-description heading-description" });
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl);
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "bullet-point-characters"])).setDesc(getString(["setting", "bullet-point-characters-desc"])).addTextArea(
@@ -7321,14 +7326,14 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutWrapper(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h3", { text: getString(["setting", "wrapper", "header"]) });
-    headerDiv.createEl("div", { text: getString(["setting", "wrapper", "desc"]), cls: "setting-item-description heading-description" });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "wrapper", "header"])).setHeading().settingEl;
+    headerDiv.createDiv({ text: getString(["setting", "wrapper", "desc"]), cls: "setting-item-description heading-description" });
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl);
-    const wrapperRuleDesc = document.createDocumentFragment();
+    const wrapperRuleDesc = createFragment();
     wrapperRuleDesc.append(
       getString(["setting", "wrapper", "rule-desc1"]),
-      document.createDocumentFragment().createEl("br"),
+      createEl("br"),
       getString(["setting", "wrapper", "rule-desc2"])
     );
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "wrapper", "add-new-wrapper"])).setDesc(wrapperRuleDesc).addButton((button) => {
@@ -7340,7 +7345,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
           suffix: ""
         });
         await this.plugin.saveSettings();
-        this.display();
+        this.update();
       });
     });
     this.plugin.settings.WrapperList.forEach((wrapperSetting, index) => {
@@ -7366,7 +7371,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
         cb.setIcon("cross").setTooltip(getString(["setting", "delete-tooltip"])).onClick(async () => {
           this.plugin.settings.WrapperList.splice(index, 1);
           await this.plugin.saveSettings();
-          this.display();
+          this.update();
         });
       });
       s.infoEl.remove();
@@ -7375,8 +7380,8 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutApiRequest(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h3", { text: getString(["setting", "api-request"]) });
-    headerDiv.createEl("div", { text: getString(["setting", "api-request-desc"]), cls: "setting-item-description heading-description" });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "api-request"])).setHeading().settingEl;
+    headerDiv.createDiv({ text: getString(["setting", "api-request-desc"]), cls: "setting-item-description heading-description" });
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl);
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "api-request-url"])).setDesc(getString(["setting", "api-request-url-desc"])).addButton((button) => {
@@ -7387,7 +7392,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
           url: ""
         });
         await this.plugin.saveSettings();
-        this.display();
+        this.update();
       });
     });
     this.plugin.settings.RequestList.forEach((requestSetting, index) => {
@@ -7407,7 +7412,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
         cb.setIcon("cross").setTooltip(getString(["setting", "delete-tooltip"])).onClick(async () => {
           this.plugin.settings.RequestList.splice(index, 1);
           await this.plugin.saveSettings();
-          this.display();
+          this.update();
         });
       });
       s.infoEl.remove();
@@ -7416,8 +7421,8 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutReplacement(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h3", { text: getString(["setting", "custom-replacement"]) });
-    headerDiv.createEl("div", { text: getString(["setting", "custom-replacement-desc"]), cls: "setting-item-description heading-description" });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "custom-replacement"])).setHeading().settingEl;
+    headerDiv.createDiv({ text: getString(["setting", "custom-replacement-desc"]), cls: "setting-item-description heading-description" });
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl);
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "add-custom-replacement"])).setDesc(getString(["setting", "add-custom-replacement-desc"])).addButton((button) => {
@@ -7432,7 +7437,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
           }]
         });
         await this.plugin.saveSettings();
-        this.display();
+        this.update();
       });
     });
     this.plugin.settings.customReplaceList.forEach((replaceSetting, index) => {
@@ -7469,7 +7474,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
         cb.setIcon("cross").setTooltip(getString(["setting", "delete-tooltip"])).onClick(async () => {
           this.plugin.settings.customReplaceList.splice(index, 1);
           await this.plugin.saveSettings();
-          this.display();
+          this.update();
         });
       });
       s.settingEl.addClass("custom-replace");
@@ -7489,7 +7494,7 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutZotero(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h4", { text: getString(["setting", "zotero-pdf-note-format"]) });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "zotero-pdf-note-format"])).setHeading().settingEl;
     let contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, contentEl);
     const zoteroEl = new import_obsidian4.Setting(contentEl).setName(getString(["setting", "zotero-input-regexp"])).addTextArea(
@@ -7503,12 +7508,14 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
         text.inputEl.addClass("zotero-input-regexp");
       }
     );
-    zoteroEl.descEl.innerHTML = `<div>The format of note template can configured refer to <a href="https://github.com/Benature/obsidian-text-format?tab=readme-ov-file#zotero-format">document</a>.</div>
-    <ul>
-    <li><code>text</code>: highlight</li>
-    <li><code>pdf_url</code>: comment</li>
-    <li><code>item</code>: citation</li>
-    </ul>`;
+    const zoteroDesc = zoteroEl.descEl.createDiv();
+    zoteroDesc.appendText("The note template format can be configured in the ");
+    zoteroDesc.createEl("a", { text: "documentation", href: "https://github.com/Benature/obsidian-text-format?tab=readme-ov-file#zotero-format" });
+    zoteroDesc.appendText(".");
+    const zoteroList = zoteroEl.descEl.createEl("ul");
+    zoteroList.createEl("li", { text: "text: highlight" });
+    zoteroList.createEl("li", { text: "pdf_url: comment" });
+    zoteroList.createEl("li", { text: "item: citation" });
     new import_obsidian4.Setting(contentEl).setName(getString(["setting", "zotero-output-format"])).setDesc(
       getString(["setting", "zotero-output-format-desc"])
     ).addTextArea(
@@ -7522,8 +7529,8 @@ var TextFormatSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   addSettingsAboutMarkdownQuicker(containerEl) {
     let headerDiv = containerEl.createDiv({ cls: "header-div" });
-    let headerEl = headerDiv.createEl("h3", { text: getString(["setting", "markdown-quicker"]) });
-    headerDiv.createEl("div", { text: getString(["setting", "markdown-quicker-desc"]), cls: "setting-item-description heading-description" });
+    let headerEl = new import_obsidian4.Setting(headerDiv).setName(getString(["setting", "markdown-quicker"])).setHeading().settingEl;
+    headerDiv.createDiv({ text: getString(["setting", "markdown-quicker-desc"]), cls: "setting-item-description heading-description" });
     this.contentEl = containerEl.createDiv();
     this.makeCollapsible(headerEl, this.contentEl);
     new import_obsidian4.Setting(this.contentEl).setName(getString(["setting", "heading-lower-to-plain"])).setDesc(getString(["setting", "heading-lower-to-plain-desc"])).addToggle((toggle) => {
