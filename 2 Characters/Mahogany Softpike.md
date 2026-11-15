@@ -201,9 +201,6 @@ atlas-type: statblock
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 8 [[Shifter (Swiftstride)]]
 ## Actions
-**[[Eldritch Blast]]:** *Ranged Spell Attack:* +6 to hit, *Range:* 120 ft., up to 2 targets make 2 attack rolls for each target. *Hit:* `dice: 1d10` for each beam. 
-
-**[[Green-Flame Blade]]:** *Melee Attack:* Choose a melee weapon to brandish dealing the weapons normal effects plus `dice: 1d8`, on a hit green flame jumps to a target within 5 feet of the target taking `dice: 1d8 + 5` *fire* damage. 
 #### Level 1 Eldritch Invocations
  **[[Undying Servitude]]:** You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
  
@@ -296,15 +293,13 @@ cr:
 spells:
   - Spell Casting Modifier +5, Spell Save DC 16, Spell Attack Bonus +6:
   - Cantrips: [[Eldritch Blast]], [[Green-Flame Blade]], [[Lightning Lure]],
-  - 2/day: [[Hex]], [[Enthrall]], [[Hold Person]], [[Spider Climb]], [[Counterspell]], [[Remove Curse]], [[Summon Undead]], [[Zone of Amicability]], [[Blood Worm]] 
+  - 2/day: [[Hex]], [[Enthrall]], [[Hold Person]], [[Spider Climb]], [[Counterspell]], [[Remove Curse]], [[Summon Undead]], [[Zone of Amicability]] 
   - Parasite Spells: [[Heroism]], [[Sanctuary]], [[Enhance Ability]], [[Enlarge Reduce]], [[Haste]], [[Spirit Guardians]], [[Evard's Black Tentacles]], [[Freedom Of Movement]]  
 traits:
   - name: "Pact Magic"
-    desc: "Regain All Spell Slots On A [[Short Rest]]."  
+    desc: "Regain All Spell Slots On A [[Short Rest]] or [[Long Rest]]."  
   - name: "Initiative Swap"
-    desc: "Immediately after you roll [[Initiative]], you can swap your [[Initiative]] with the [[Initiative]] of one willing ally in the same combat." 
-  - name: "Lucky"
-    desc: "You have a number of Luck Points equal to your [[Proficiency Bonus]] and can spend the points on the benefits below. You regain your expended Luck Points when you finish a [[Long Rest]]."   
+    desc: "Immediately after you roll [[Initiative]], you can swap your [[Initiative]] with the [[Initiative]] of one willing ally in the same combat."    
 actions:
   - name: "Pact Sickle"
     desc: "_Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 7 (1d4+5) Slashing damage"
