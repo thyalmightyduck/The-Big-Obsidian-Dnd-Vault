@@ -1,6 +1,6 @@
 ---
 dnd_character: true
-class: "[[Warlock]]"
+class: Warlock
 level: 8
 proficiency_bonus: 3
 ac: 15
@@ -200,6 +200,7 @@ atlas-type: statblock
 ---
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 8 [[Shifter (Swiftstride)]]
+## Actions
 
 #### Level 1 Eldritch Invocations
  **[[Undying Servitude]]:** You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
