@@ -203,7 +203,7 @@ atlas-type: statblock
 ## Actions
 **[[Eldritch Blast]]:** *Ranged Spell Attack:* +6 to hit, *Range:* 120 ft., up to 2 targets make 2 attack rolls for each target. *Hit:* `dice: 1d10` for each beam. 
 
-
+**[[Green-Flame Blade]]:** *Melee Attack:* Choose a melee weapon to brandish dealing the weapons normal effects, on a hit green flame jumps to a target within 5 feet of the target taking `dice: 1d8` *fire* damage. 
 #### Level 1 Eldritch Invocations
  **[[Undying Servitude]]:** You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
  
