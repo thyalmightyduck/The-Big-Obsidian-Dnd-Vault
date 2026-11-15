@@ -1,7 +1,12 @@
 ---
 tags:
   - MagicItem
+  - Ammunition
+  - GenericVariant
+  - Common
+  - MinorTier
 Progress: In Progress
+Rarity: Common
 ---
 #### Bird's-Eye Bolt
 
