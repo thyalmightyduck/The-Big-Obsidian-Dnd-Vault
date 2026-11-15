@@ -201,7 +201,7 @@ atlas-type: statblock
 # Mahogany Softpike
 ### [[The Parasite Warlock]] Level 8 [[Shifter (Swiftstride)]]
 ## Actions
-
+**[[Eldritch Blast]]:** *Ranged Spell Attack:* +6 to hit, *Range:* 120 ft., up to 2 targets make 2 attack rolls for each target. *Hit:* `dice: 1d10` for each beam. 
 #### Level 1 Eldritch Invocations
  **[[Undying Servitude]]:** You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
  
