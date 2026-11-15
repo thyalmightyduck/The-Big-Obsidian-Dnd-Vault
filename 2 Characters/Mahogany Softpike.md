@@ -271,8 +271,8 @@ layout: Basic 5e Layout
 image: [[Mahogony BGR PNG.png]]
 name: Mahogony Softpike
 size: Medium
-type: [[Humanoid]]
-subtype: [[Shifter-Swiftstride]]
+type: Humanoid
+subtype: Shifter-Swiftstride
 alignment: 
 ac: 15 (17)
 hp: 30
@@ -298,8 +298,10 @@ spells:
 traits:
   - name: "Pact Magic"
     desc: "Regain All Spell Slots On A [[Short Rest]] or [[Long Rest]]."  
-  - name: "Initiative Swap"
-    desc: "Immediately after you roll [[Initiative]], you can swap your [[Initiative]] with the [[Initiative]] of one willing ally in the same combat."    
+  - name: "Alert"
+    desc: "**Initiative Proficiency:** When you roll [[Initiative]], you can add your [[Proficiency Bonus]] to the roll.<P>**Initiative Swap:** Initiative Swap. Immediately after you roll [[Initiative]], you can swap your [[Initiative]] with the [[Initiative]] of one willing ally in the same combat. You can't make this swap if you or the ally has the [[Incapacitated]] condition."    
+  - name: "Parasitic Leech:"
+    desc: "When you score a critical hit with your parasitic weapon or reduce a creature to 0 hit points with it, you gain a number of temporary hit points equal to the number rolled on the weapon's damage dice. If you later gain the [[Pact of the Blade]] feature, you gain this benefit to critical hits scored with your pact weapon."  
 actions:
   - name: "Pact Sickle"
     desc: "_Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 7 (1d4+5) Slashing damage"
