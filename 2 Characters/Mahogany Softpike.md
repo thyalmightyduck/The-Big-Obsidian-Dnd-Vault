@@ -239,7 +239,7 @@ Your bond with the weapon ends if you use this feature's [[Bonus Action]] agai
 | [[Spell Scroll (Level 8)]] Of [[Antimagic Field]] | 1   |        |          |        |             |     |
 | [[Cap Of Water Breathing]]                        | 1   |        |          |        |             |     |
 | [[Potion Of Stone Giant Strength]]                | 1   |        |          |        | +6 STR      |     |
-| [[Sentinel Shield]]                               | 1   |        |          |        |             |     |
+|                                                   |     |        |          |        |             |     |
 | [[Pipes Of The Sewers]]                           | 1   |        |          |        |             |     |
 | Horse Shoes Of A Sephyr                           | 1   |        |          |        |             |     |
 | 8 Gems 5,000GP ea                                 | 1   |        |          |        |             |     |
