@@ -261,7 +261,7 @@ Your bond with the weapon ends if you use this feature's [[Bonus Action]] agai
 | Bag of Devouring                                  |     |        |          |        |             |     |
 | [[Potion Of Supreme Healing]]                     | 1   |        |          |        |             |     |
 | potion of longevity                               | 1   |        |          |        |             |     |
-| scroll of symbol                                  |     |        |          |        |             |     |
+| scroll of [[symbol]]                              |     |        |          |        |             |     |
 |                                                   |     |        |          |        |             |     |
 
 
