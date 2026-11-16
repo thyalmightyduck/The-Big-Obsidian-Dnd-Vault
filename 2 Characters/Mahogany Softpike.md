@@ -3,7 +3,7 @@ dnd_character: true
 class: Warlock
 level: 8
 proficiency_bonus: 3
-ac: 15
+ac: 16
 race: "[[Shifter (Swiftstride)]]"
 height: 154
 alignment: Chaotic Evil
