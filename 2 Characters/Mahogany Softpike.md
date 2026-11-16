@@ -134,7 +134,6 @@ inventory:
   - Sentinel Shield
   - Pipes of the Seweres
   - Horse shoes of a Sephyr
-  - 8 Gems worth 5,000GP ea
   - Potion of Vitality
   - 8th Level Scroll of Feeble Mind
   - Container of Oil Of Slipperiness
@@ -145,8 +144,6 @@ inventory:
   - Sling
   - 10 ft. Wooden Pole
   - Orc Skull
-  - 12 artifacts worth 25gp ea
-  - 8 Gems worth 10gp ea
   - Potion of Flying
   - Bag of Dust of Dryness
   - Supreme Potion of Healing x2
