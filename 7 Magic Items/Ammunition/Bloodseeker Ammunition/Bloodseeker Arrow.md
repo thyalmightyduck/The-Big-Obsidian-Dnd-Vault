@@ -1,5 +1,6 @@
 ---
-Progress: In Progress
+Progress:
+  - Game Ready
 Rarity: Very Rare
 Source: Book of Many Things (BMT)
 tags:
