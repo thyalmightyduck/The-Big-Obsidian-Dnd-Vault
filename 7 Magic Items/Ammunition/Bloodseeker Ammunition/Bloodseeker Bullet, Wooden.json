@@ -1,0 +1,27 @@
+{
+	"name": "Bloodseeker Bullet, Wooden",
+	"source": "BMT",
+	"edition": "one",
+	"type": "A|XPHB",
+	"rarity": "very rare",
+	"weight": 0.1,
+	"bulletFirearm": true,
+	"entries": [
+		{
+			"type": "entries",
+			"name": "Wooden Ammunition",
+			"entries": [
+				"Wooden ammunition is destroyed after hitting or missing a target."
+			]
+		}
+	],
+	"miscTags": [
+		"CNS"
+	],
+	"baseItem": "bullet, wooden|boundbyblood",
+	"page": 66,
+	"genericVariant": {
+		"name": "Bloodseeker Ammunition",
+		"source": "BMT"
+	}
+}
