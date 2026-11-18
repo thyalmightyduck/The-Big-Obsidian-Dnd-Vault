@@ -11,7 +11,10 @@
       "palette": true,
       "lootRoller": true,
       "lootResults": true,
-      "tokenStatblocks": true
+      "tokenStatblocks": true,
+      "dashboard": true,
+      "map": true,
+      "online": true
     },
     "tokenImported": true
   },
@@ -83,6 +86,7 @@
     "showDiceRolls": true,
     "showCommandPalette": false,
     "showCursors": false,
+    "playersDraw": false,
     "showGrid": true,
     "showTokenHP": true,
     "showTokenStress": false,

@@ -6742,7 +6742,7 @@ var AddConfirmModal = class extends import_obsidian.Modal {
     this.submission = submission;
   }
   onSubmit() {
-    this.submission();
+    this.submission().catch((err) => console.error(err));
     this.close();
   }
   onCancel() {
@@ -7441,13 +7441,6 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
       }
     }
   }
-  async searchFiles(files, callback) {
-    for (let file of files) {
-      if (file instanceof import_obsidian7.TFile && file.extension === "md") {
-        await callback(file);
-      }
-    }
-  }
   getFilesFromSearch(leaf) {
     let files = [];
     leaf.dom.vChildren.children.forEach((e) => {
@@ -7463,8 +7456,10 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
       iterable,
       await this.addPropsCallback(props, allFiles.length)
     );
-    let defaultProps;
-    defaultProps = this.loadDefaultProps(this.settings.defaultPropPath);
+    let defaultProps = [];
+    if (this.settings.defaultPropPath) {
+      defaultProps = this.loadDefaultProps(this.settings.defaultPropPath);
+    }
     const allProps = this.getAllUsedProperties();
     new PropModal(
       this.app,
@@ -7473,7 +7468,7 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
       this.settings.delimiter,
       this.settings.autocomplete,
       defaultProps,
-      await this.changeAlterProp.bind(this),
+      this.changeAlterProp.bind(this),
       allProps
     ).open();
   }
@@ -7517,24 +7512,19 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
     const allPropsWithType = this.app.metadataCache.getAllPropertyInfos();
     let result = [];
     for (let [key2, value] of Object.entries(frontmatter)) {
-      console.log(value, typeof value);
       const keyLower = key2.toLowerCase();
       const obj = {
         name: key2,
         value,
         type: allPropsWithType[keyLower].widget
       };
-      console.log(obj.value);
       result.push(obj);
-      console.log(result);
     }
     return result;
   }
   loadDefaultProps(path) {
     try {
-      const file = this.app.vault.getAbstractFileByPath(
-        `${path}`
-      );
+      const file = this.app.vault.getAbstractFileByPath(`${path}`);
       if (!(file instanceof import_obsidian7.TFile)) throw Error("Undefined path.");
       let tmp = this.readYamlProperties(file);
       if (tmp === void 0) throw Error("Undefined path.");
@@ -7544,7 +7534,13 @@ var MultiPropPlugin2 = class extends import_obsidian7.Plugin {
         `${e}.  Check if you entered a valid path in the Default Props File setting.`,
         1e4
       );
-      return [{ name: "", value: "", type: "text" }];
+      return [
+        {
+          name: "",
+          value: "",
+          type: "text"
+        }
+      ];
     }
   }
   async addPropsCallback(props, totalFiles) {
