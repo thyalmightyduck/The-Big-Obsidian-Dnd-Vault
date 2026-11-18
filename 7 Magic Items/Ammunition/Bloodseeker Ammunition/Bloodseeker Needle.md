@@ -1,3 +1,13 @@
+---
+Progress: In Progress
+Rarity: Very Rare
+Source: Book of Many Things (BMT)
+tags:
+  - BMT
+  - MagicItem
+  - Ammunition
+  - VeryRare
+---
 #### Bloodseeker Needle
 
 Ammunition (*Needle*), Very Rare, 0.32 oz.

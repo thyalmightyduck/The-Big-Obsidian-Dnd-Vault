@@ -1,3 +1,13 @@
+---
+Progress: In Progress
+Rarity: Very Rare
+Source: Book of Many Things (BMT)
+tags:
+  - BMT
+  - MagicItem
+  - Ammunition
+  - VeryRare
+---
 #### Bloodseeker Arrow, Silver
 
 Ammunition (*Arrow, Silver*), Very Rare, 0.8 oz.

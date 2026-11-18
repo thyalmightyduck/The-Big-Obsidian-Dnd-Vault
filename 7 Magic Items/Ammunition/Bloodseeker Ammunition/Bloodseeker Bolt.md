@@ -1,3 +1,13 @@
+---
+Progress: In Progress
+Rarity: Very Rare
+Source: Book of Many Things (BMT)
+tags:
+  - BMT
+  - MagicItem
+  - Ammunition
+  - VeryRare
+---
 #### Bloodseeker Bolt
 
 Ammunition (*Bolt*), Very Rare, 1.2 oz.

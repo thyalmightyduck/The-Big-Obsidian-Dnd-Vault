@@ -1,3 +1,13 @@
+---
+Progress: In Progress
+Rarity: Very Rare
+Source: Book of Many Things (BMT)
+tags:
+  - BMT
+  - MagicItem
+  - Ammunition
+  - VeryRare
+---
 #### Bloodseeker Paper Cartridge Bullet
 
 Ammunition (*Paper Cartridge Bullet*), Very Rare, 1.6 oz.
