@@ -41,11 +41,8 @@
   "dragDistance": "always",
   "diceColour": "light",
   "diceFont": "medieval",
-  "initiativeNames": false,
-  "initiativeFromTurn": true,
   "initiativeDock": "right",
   "initiativeBanner": true,
-  "initiativeFollowTurn": false,
   "initiativeMovesOnTurn": false,
   "experimental": {
     "dynamicLighting": true,
@@ -86,6 +83,11 @@
     "showDiceRolls": true,
     "showCommandPalette": false,
     "showCursors": false,
+    "initiativeScale": 1,
+    "initiativePulse": false,
+    "turnBannerAtLists": false,
+    "turnDim": false,
+    "initiativeMaxCards": 0,
     "playersDraw": false,
     "showGrid": true,
     "showTokenHP": true,
@@ -95,8 +97,17 @@
   "tableTv": {
     "viewGlideMs": 800
   },
+  "initiativeNames": false,
+  "initiativeFromTurn": true,
+  "initiativeFollowTurn": false,
   "statblockPane": {
     "hintDismissed": false
   },
-  "soundRoots": {}
+  "soundRoots": {
+    "music": {
+      "type": "vault",
+      "path": "MP3",
+      "originals": "keep"
+    }
+  }
 }
