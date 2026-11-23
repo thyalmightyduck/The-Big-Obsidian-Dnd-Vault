@@ -377,7 +377,7 @@
         "direction": "drains",
         "color": "#22c55e",
         "defeatedWhenSpent": true,
-        "visibleToPlayers": true,
+        "visibleToPlayers": false,
         "slot": 0
       },
       {
@@ -439,5 +439,5 @@
     ]
   },
   "createdAt": 1790659852594,
-  "modifiedAt": 1794026542874
+  "modifiedAt": 1795401701466
 }

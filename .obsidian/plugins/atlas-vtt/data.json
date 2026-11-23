@@ -41,7 +41,7 @@
   "dragDistance": "always",
   "diceColour": "light",
   "diceFont": "medieval",
-  "initiativeDock": "right",
+  "initiativeDock": "bottom",
   "initiativeBanner": true,
   "initiativeMovesOnTurn": false,
   "experimental": {
@@ -109,5 +109,9 @@
       "path": "MP3",
       "originals": "keep"
     }
-  }
+  },
+  "initiativeFacesPlayers": true,
+  "initiativeEdges": [
+    "bottom"
+  ]
 }
