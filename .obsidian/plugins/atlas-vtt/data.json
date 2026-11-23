@@ -28,7 +28,7 @@
   "sound": {
     "musicDb": 0,
     "ambienceDb": -6,
-    "masterDb": 0,
+    "masterDb": 6,
     "fadeSeconds": 4,
     "crossfadeSeconds": 4,
     "followScenes": true
