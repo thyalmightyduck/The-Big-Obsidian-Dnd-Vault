@@ -8,6 +8,7 @@ tags:
   - Ammunition
   - VeryRare
 ---
+# Book of Many Things (BMT)
 #### Bloodseeker Bullet
 
 Ammunition (*Bullet*), Very Rare, 2.4 oz.
