@@ -116,5 +116,6 @@
   "initiativeFacesPlayers": true,
   "initiativeEdges": [
     "bottom"
-  ]
+  ],
+  "initiativeCompact": false
 }

@@ -1247,6 +1247,32 @@
         "description": "Ranged [[attack rolls]] made with this ammunition have [[advantage]] against any creature that doesn't have all its [[Hit Point|hit points]].\n\nArrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.\n\nArrows are typically stored in a *[[Quiver]]* (bought separately).\n\n***Credit:*** Book of Many Things (BMT)\n"
       },
       "sourceYaml": "name: \"Bloodseeker Arrow\"\ntype: \"Ammunition (Arrow), 0.8 oz.\"\nrarity: \"Very Rare\"\nattunement: \"False\"\nprice: \"20,000 GP\"\ntext_align: \"center\"\ndescription: |\n  Ranged [[attack rolls]] made with this ammunition have [[advantage]] against any creature that doesn't have all its [[Hit Point|hit points]].\n\n  Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a [[quiver]], case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.\n\n  Arrows are typically stored in a *[[Quiver]]* (bought separately).\n  \n  ***Credit:*** Book of Many Things (BMT)"
+    },
+    {
+      "id": "mwwxwq1xo473f6p",
+      "item": {
+        "name": "Bloodseeker Arrow, Silver",
+        "type": "Ammunition (Arrow, Silver), 0.8 oz.",
+        "rarity": "Very Rare",
+        "attunement": "False",
+        "price": "20,000 GP",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*\n\nRanged attack rolls made with this ammunition have advantage against any creature that doesn't have all its hit points.\n\n***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to attack rolls. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *Mending* spell on the object or by succeeding on a DC 10 Dexterity check using *Smith's Tools* as part of a Short Rest or Long Rest.\n\n***Credit:*** Book of Many Things (BMT)\n"
+      },
+      "sourceYaml": "name: \"Bloodseeker Arrow, Silver\"\ntype: \"Ammunition (Arrow, Silver), 0.8 oz.\"\nrarity: \"Very Rare\"\nattunement: \"False\"\nprice: \"20,000 GP\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Vampire: The Masquerade - Bound by Blood.*\n\n  Ranged attack rolls made with this ammunition have advantage against any creature that doesn't have all its hit points.\n\n  ***Upkeep.*** When you make an attack roll with a silver weapon or piece of ammunition, it takes a cumulative -1 penalty to attack rolls. The weapon or piece of ammunition is destroyed if the penalty reaches -5. The penalty can be removed by casting the *Mending* spell on the object or by succeeding on a DC 10 Dexterity check using *Smith's Tools* as part of a Short Rest or Long Rest.\n  \n  ***Credit:*** Book of Many Things (BMT)"
+    },
+    {
+      "id": "mwwy5swc0199n64",
+      "item": {
+        "name": "Bloodseeker Bellows Cannister",
+        "type": "Ammunition (Bellows Cannister), ⅕ lb.",
+        "rarity": "Very Rare",
+        "attunement": "False",
+        "price": "20,000 GP",
+        "text_align": "center",
+        "description": "*The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*\n\nRanged [[attack rolls]] made with this ammunition have [[advantage]] against any creature that doesn't have all its [[Hit Point|hit points]].\n\n\n***Credit:*** The Book of Many Things (BMT)\n"
+      },
+      "sourceYaml": "name: \"Bloodseeker Bellows Cannister\"\ntype: \"Ammunition (Bellows Cannister), ⅕ lb.\"\nrarity: \"Very Rare\"\nattunement: \"False\"\nprice: \"20,000 GP\"\ntext_align: \"center\"\ndescription: |\n  *The *base item* can be found in Grim Hollow: Player’s Guide (2024), page 129.*\n\n  Ranged [[attack rolls]] made with this ammunition have [[advantage]] against any creature that doesn't have all its [[Hit Point|hit points]].\n\n  \n  ***Credit:*** The Book of Many Things (BMT)"
     }
   ]
 }
