@@ -14,7 +14,8 @@
       "tokenStatblocks": true,
       "dashboard": true,
       "map": true,
-      "online": true
+      "online": true,
+      "welcome": true
     },
     "tokenImported": true
   },
@@ -89,6 +90,8 @@
     "turnDim": false,
     "initiativeMaxCards": 0,
     "playersDraw": false,
+    "playersOpenDoors": false,
+    "sharedVision": false,
     "showGrid": true,
     "showTokenHP": true,
     "showTokenStress": false,
